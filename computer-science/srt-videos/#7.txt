@@ -1,0 +1,344 @@
+Bonjour, je m'appelle Carrie Anne, vous regardez Crash Course informatique, et aujourd'hui, on va parler des processeurs.
+
+Juste pour avertissement, ce sera probablement l'épisode le plus compliqué de la série.
+
+Donc quand vous l'aurez compris, vous serez en or.
+
+On a déjà fabriqué une unité d'arithmétique et de logique (ALU), qui traite les nombres binaires et réalise
+
+des calculs, et on a fait deux types de mémoire d'ordinateur : les registres, blocs de mémoire
+
+petits et linéaires, utiles pour stocker une seule valeur, et ensuite nous avons changé d'échelle et fabriqué
+
+de la RAM, une banque de mémoire plus grande qui peut stocker beaucoup de nombres localisés à différentes adresses.
+
+Maintenant, il est temps de tout mettre ensemble et de construire nous même le cœur de n'importe quel ordinateur,
+
+mais sans le bagage émotionnel que comportent les cœurs humains.
+
+Pour les ordinateurs, c'est l'unité centrale de traitement, plus couramment appelée CPU.
+
+[Générique d'introduction]
+
+Le travail d'un CPU est d’exécuter des programmes.
+
+Des programmes comme Microsoft Office, Safari, ou votre bien aimée copie de Half Life 2 : qui sont composées
+
+d'une série d'opérations individuelles appelées instructions, parce qu'elles disent
+
+à l'ordinateur ce qu'il doit faire.
+
+Si ce sont des instructions mathématiques, comme additionner ou soustraire, le CPU va configurer son
+
+ALU pour faire l'opération mathématique.
+
+Ou il se pourrait que ce soit une instruction de sauvegarde, dans ce cas le CPU va parler avec la mémoire
+
+pour lire et écrire les valeurs.
+
+Il y a beaucoup d'éléments dans un CPU, donc on va les énoncer un par un, et
+
+le construire au fur et à mesure.
+
+On va se concentrer sur les blocs fonctionnels, plutôt que de montrer chaque câble.
+
+Lorsque l'on connecte deux composants avec une ligne, c'est une abstraction pour tous les câbles nécessaires.
+
+Cette vue d'ensemble est appelée micro-architecture.
+
+OK, tout d'abord, on va avoir besoin de mémoire.
+
+Mettons le module de RAM que l'on a construit au dernier épisode.
+
+Pour garder les choses simple, on suppose qu'il n'a que 16 emplacements, chacun contenant 8 bits.
+
+Donnons également à notre processeur quatre registres de 8 bit, étiquetés A, B, C et D
+
+qui vont être utilisés pour stocker temporairement les valeurs et les manipuler.
+
+On sait déjà que les données peuvent être stockées dans la mémoire sous forme binaire
+
+et les programmes peuvent être stockés dans la mémoire également.
+
+On peut donner une identité à chaque instruction supportée par notre CPU.
+
+Dans notre exemple hypothétique, on utilise les quatre premiers bits pour stocker le "code d'opération"
+
+ou "opcode" pour faire plus court.
+
+Les quatre bits finaux disent d'où les données nécessaires à l'opération viennent -
+
+ce pourrait être des registres ou une adresse dans la mémoire.
+
+On a également besoin de deux registres supplémentaires pour compléter notre CPU.
+
+Tout d'abord, on a besoin d'un registre pour savoir où on en est dans le programme.
+
+Pour cela on utilise un registre d'adresse d'instruction, qui, comme le nom le suggère, enregistre
+
+l'adresse de l'instruction en cours.
+
+Et ensuite on a besoin de l'autre registre pour enregistrer l'instruction en cours, on va l'appeler le registre d'instruction.
+
+Lorsque l'on démarre notre ordinateur pour la première fois tous les registres sont à 0.
+
+Par exemple, on a initialisé notre RAM avec un simple programme que l'on va voir aujourd'hui.
+
+La première phase d'une opération d'un CPU est appelée la phase d'extraction.
+
+C'est là que l'on retrouve notre première instruction.
+
+Tout d'abord, on relie notre registre d'adresse d'instruction à notre module de RAM.
+
+La valeur du registre est 0, donc la RAM retourne à la valeur stockée à l'adresse 0.
+
+Dans ce cas, 0010 1110.
+
+Ensuite cette valeur est copiée dans notre registre d'instruction.
+
+Maintenant que l'on a extrait une instruction de la mémoire, on a  besoin de trouver ce qu'est cette instruction
+
+pour pouvoir l'exécuter.
+
+La lancer.
+
+Pas la tuer.
+
+C'est la phase de décodage.
+
+Dans ce cas là le code d'opération qui est stocké dans les quatre premiers bits, est : 0010.
+
+Ce code d'opération (opcode) correspond à l'instruction "LOAD A", qui charge une donnée de la RAM
+
+dans le registre A.
+
+L'adresse de la RAM se trouve dans les quatre derniers bits de notre instruction, ici 1110, ou 14 en décimal.
+
+Ensuite, les instructions sont décodées et interprétées par une unité de contrôle.
+
+Comme tout ce que nous avons construit, elle est également constituée de portes logiques.
+
+Par exemple, pour reconnaître une instruction "LOAD A", on a besoin d'un circuit qui vérifie si l'opcode
+
+correspond à 0010, ce que l'on peut faire avec de nombreuses portes logiques.
+
+Maintenant que l'on connaît l'instruction à traiter, on peut y aller et exécuter
+
+cette instruction, ce qui constitue le début de la phase d'exécution !
+
+En utilisant la sortie de notre circuit de vérification LOAD_A, on peut mettre en route la ligne permettant la lecture de la RAM
+
+et l'envoyer à l'adresse 14.
+
+La RAM extrait la valeur à cette adresse, qui est 00000011, ou 3 en décimal.
+
+Maintenant, parce qu'il s'agit de l'instruction LOAD_A, on veut que cette ne soit enregistrée que dans le registre A
+
+et dans aucun autre registre.
+
+Donc si on connecte les cables de la RAM à nos quatre registres, on peut utiliser notre circuit
+
+de vérification pour ne permettre l'écriture que dans le registre A.
+
+Et voilà -- on a chargé la valeur de l'adresse 14 dans notre registre A avec succès.
+
+On a accompli l'instruction, on peut donc éteindre tous les câbles, et on est prêt
+
+pour extraire la prochaine instruction dans la mémoire.
+
+Pour ce faire, on ajoute 1 dans le registre d'adresse d'instruction ce qui termine la phase d'exécution.
+
+LOAD_A est just l'une des multiples instructions possibles que notre CPU peut exécuter.
+
+Différentes instructions sont décodées par différents circuits logiques, qui configurent les composants
+
+du CPU pour réaliser cette action.
+
+Regarder tous ces circuits de décodage individuellement ferait trop de détails, étant donné qu'on a déjà regardé un exemple,
+
+on va continuer et les regrouper en une seule unité de contrôle pour que ça reste simple.
+
+Oui, c'est un nouveau degrés d'abstraction. [Musique]
+
+L'unité de contrôle est comparable à un chef d'orchestre, dirigeant
+
+les différentes parties du CPU.
+
+Ayant complété un cycle complet extraction/décodage/exécution, on est prêt pour tout recommencer,
+
+en commencant par la phase d'extraction.
+
+Le registre d'adresse d'instruction a maintenant la valeur 1, donc la RAM nous donne la valeur
+
+enregistrée à l'adresse 1, qui est 0001 1111.
+
+Maintenant, phase de décodage !
+
+0001 constitue l'instruction "LOAD B", qui transfère une valeur de la RAM vers le registre B.
+
+L'emplacement dans la mémoire est 1111 cette fois ci, c'est à dire 15 en décimal.
+
+Maintenant, phase d'exécution !
+
+L'unité de contrôle configure la RAM pour lire l'adresse 15 et configure le registre B pour recevoir les données.
+
+Bingo, on vient de sauvegarder la valeur 00001110, ou le nombre 14 en décimal, dans le registre B.
+
+Dernière chose à faire, ajouter 1 à notre registre d'adresse d'instruction et on peut commencer un nouveau cycle.
+
+Notre prochaine instruction est un peu différente.
+
+Allons l'extraire.
+
+1000 01 00.
+
+Cet opcode 1000 est une instruction d'addition.
+
+Au lieu d'une adresse de RAM de 4 bits, cette instruction utilise deux lots d'adresses de 2 bits.
+
+Retenez que 2 bits peuvent encoder 4 valeurs, donc deux bits suffisent pour encoder nos 4 registres.
+
+Le premier lot de 2 bits est 01, qui correspond dans ce cas au registre B, et 00, le registre A.
+
+Donc "1000 01 00" est l'instruction pour ajouter la valeur du registre B à celle du registre A.
+
+Pour exécuter cette instruction, on a donc besoin d'intégrer l'ALU fabriquée à l'épisode 5 dans notre CPU.
+
+L'unité de contrôle est responsable de la sélection des bons registres, les rentrer dans l'ALU,
+
+et configurer l'ALU pour qu'elle réalise la bonne opération.
+
+Pour cette instruction d'addition, l'unité de contrôle permet la lecture du registre B et rentre sa valeur
+
+dans la première entrée de l'ALU.
+
+Elle permet également la lecture du registre A et rentre sa valeur dans la seconde entrée de l'ALU.
+
+Comme on l'a déjà dit, l'ALU elle-même peut réaliser de nombreuses opérations différentes,
+
+donc l'unité de contrôle doit la configurer pour qu'elle réalise une addition en passant par l'opcode ADD.
+
+Finalement, la sortie devrait être sauvegardée dans le registre A. Mais elle ne peut être écrite directement car
+
+la nouvelle valeur retournerait dans l'ALU et continuerait de s'additionner à elle-même.
+
+Donc l'unité de contrôle utilise un registre interne pour stocker temporairement la sortie, éteindre l'ALU,
+
+et ensuite écrire la valeur dans le bon registre destinataire.
+
+Dans ce cas nos entrées étaient 3 et 14, et la somme 17, ou 00010001 en binaire,
+
+qui se trouve maintenant dans le registre A. Comme avant, la dernière chose à faire est d'ajouter 1 à notre registre d'adresse d'instruction
+
+et un autre cycle est terminé.
+
+D'accord, donc exécutons une dernière instruction: 01001101.
+
+Lorsqu'on la décode on voit que 0100 est une instruction STORE_A, avec une adresse de RAM de 13.
+
+Comme d'habitude, on transmet l'adresse au module de RAM mais au lieu de la lire, on en permet l'écriture.
+
+En même temps, on lit le registre A. Ce qui nous permet d'utiliser la ligne de données qu'il contient
+
+et de la transmettre.
+
+Bravo, on vient de faire fonctionner notre premier programme informatique.
+
+Il a chargé deux valeurs de la mémoire, les a additionné, et a enregistré cette somme dans la mémoire.
+
+Bien sûr, avec moi vous parlant à chaque étape, je faisait les transitions du CPU manuellement
+
+à travers ses phases d'extraction, décodage et exécution.
+
+Mais il n'y a pas de mini Carrie Anne dans chaque ordinateur.
+
+Donc la responsabilité de conserver la cadence revient à un composant appelé l'horloge.
+
+Comme son nom le suggère, l'horloge déclenche un signal électrique à un intervalle précis et régulier.
+
+Ce signal est utilisé par l'unité de contrôle pour faire avancer l'opération interne du CPU,
+
+en gardant tout en "lock-step" (j'ai pas compris...) - comme le type sur une galère romaine faisant du tambour en rythme
+
+au front, gardant les rameurs synchronisés... ou un métronome.
+
+Bien sûr vous ne pouvez pas aller trop vite, parce que même l'électricité prend du temps pour voyager
+
+dans les câbles et pour que le signal s'installe.
+
+La vitesse à laquelle un CPU peut effectuer chaque étape du cycle extraction/décodage/exécution est appelée sa "clock speed" (vitesse d'horloge).
+
+Cette vitesse se mesure en Hertz - une unité de fréquence.
+
+1 Hertz veut dire un cycle par seconde.
+
+Sachant que ça m'a pris 6 minutes pour vous présenter 4 instructions -- LOAD, LOAD,
+
+ADD et STORE -- ça veut dire que j'ai une vitesse d'horloge d'à peut près 0.3 Hertz.
+
+Certes, je ne suis pas un super ordinateur mais même quelqu'un de doué en maths
+
+ne doit pas être capable de faire un calcul dans sa tête chaque seconde ou à un rythme d'un Hertz.
+
+Le premier CPU en une puce était l'Intel 4004, un CPU à 4 bit présenté en 1971.
+
+Sa micro-architecture est assez similaire à notre exemple d'aujourd'hui.
+
+Bien qu'il soit le premier processeur de sa sorte, il avait une incroyable vitesse d'horloge de 740 kiloHertz --
+
+c'est 740 000 cycles par secondes.
+
+Vous devez vous dire que c'est rapide, mais ce n'est rien comparé aux processeurs que l'on utilise aujourd'hui.
+
+Un megaHertz est 1 millions de cycles d'horloge par seconde, et l'ordinateur ou même le téléphone
+
+avec lequel vous regardez cette vidéo en ce moment a sans doute quelques gigaHertz --
+
+c'est un milliard de cycles de CPU chaque...seconde
+
+Aussi, vous devez avoir déjà entendu parlé de personnes qui "overclock" leur ordinateur.
+
+C'est lorsque vous modifiez l'horloge pour accélérer le tempo du CPU -- comme lorsque celui qui joue du tambour
+
+accélère quand la galère doit poursuivre un autre navire.
+
+Les fabricants de puces design souvent les CPU avec assez de marge pour supporter un peu d' "overclocking",
+
+mais trop, peut, soit faire surchauffer le CPU, soit produire des charabia car les signaux arrivent après l'horloge.
+
+Et bien que vous n'entendiez pas souvent parler d' "underclocking", c'est super utile.
+
+Parfois ce n'est pas nécessaire de faire fonctionner son processeur à pleine vitesse...
+
+car l'utilisateur s'est éloigné, ou juste parce qu'il n'utilise pas un programme exigeant.
+
+En ralentissant le CPU, vous pouvez économiser beaucoup de puissance, ce qui est important pour les ordinateurs
+
+qui manquent de batterie, comme les ordinateurs portables ou les smartphones.
+
+Pour répondre à ces besoins, beaucoup d'ordinateurs modernes peuvent augmenter ou diminuer leur vitesse d'horloge
+
+selon la demande, c'est ce que l'on appelle "dynamic frequency scaling" (Graduation de fréquence dynamique).
+
+Donc, avec l'ajout d'une horloge, notre CPU est complet.
+
+On peut maintenant le mettre dans une boîte, et en faire un composant à part entière.
+
+Yep.
+
+Un nouveau degrés d'abstraction ! [Musique]
+
+La RAM, comme je vous l'ai montré à l'épisode précédent, se situe en dehors du CPU comme un composant à part entière, et ils communiquent
+
+ensemble en utilisant des adresses, des données et les câbles disponibles.
+
+Bien que le CPU que l'on a construit aujourd'hui soit un exemple simplifié, la plupart des mécaniques décrites
+
+sont celles que l'on trouve dans les ordinateurs modernes.
+
+Au prochain épisode, on va étoffer notre CPU, en l'élargissant avec plus d'instructions
+
+en faisant nos premiers pas vers les logiciels.
+
+A la semaine prochaine.
+

@@ -1,0 +1,521 @@
+Salut, je suis Carrie Anne et bienvenue sur Crash
+Cours d'informatique.
+
+Donc, dernier épisode, en utilisant uniquement des portes logiques, nous
+construit une ALU simple, qui effectue des opérations arithmétiques
+
+et les opérations logiques, d'où le "A" et
+le "L".
+
+Mais bien sûr, il n'y a pas grand intérêt à
+calculer un résultat pour le jeter
+
+- il serait utile de stocker cette valeur d'une manière ou d'une autre, et peut-être même d'exécuter plusieurs opérations à la suite.
+
+C'est là que la mémoire informatique entre en jeu !
+
+Si vous avez déjà été au milieu d'une longue
+Campagne RPG sur votre console, ou slogging
+
+à travers un niveau difficile sur Démineur sur
+votre bureau, et votre chien est passé, a trébuché
+
+et débranchez le cordon d'alimentation du mur,
+vous connaissez l'agonie de perdre tous vos progrès.
+
+Condoléances.
+
+Mais la raison de votre perte est que votre
+console, votre ordinateur portable et vos ordinateurs font
+
+l'utilisation de Random Access Memory, ou RAM, qui
+stocke des choses comme l'état du jeu - tant que
+
+le courant reste allumé.
+
+Un autre type de mémoire, appelé persistant
+mémoire, peut survivre sans pouvoir, et c'est
+
+utilisé pour différentes choses; Nous parlerons de
+la persistance de la mémoire dans un épisode ultérieur.
+
+Aujourd'hui, nous allons commencer petit - littéralement en construisant un circuit qui peut en stocker un.
+
+simple .. peu d'informations.
+
+Après cela, nous passerons à l'échelle et construirons notre
+module de mémoire très propre, et nous combinerons
+
+avec notre ALU la prochaine fois, quand nous aurons enfin
+construisons notre propre CPU !
+
+INTRO
+
+Tous les circuits logiques dont nous avons discuté
+jusqu'à présent aller dans une direction - toujours coulant
+
+vers l'avant - comme notre additionneur d'ondulation 8 bits de
+dernier épisode.
+
+Mais on peut aussi créer des circuits qui bouclent
+retour sur eux-mêmes.
+
+Essayons de prendre une porte OU ordinaire, et
+réinjecter la sortie dans l'une de ses entrées
+
+et voyez ce qui se passe.
+
+Tout d'abord, réglons les deux entrées sur 0.
+
+Donc 0 OU 0 est 0, et donc ce circuit toujours
+sorties 0.
+
+Si nous devions retourner l'entrée A à 1.
+
+1 OU 0 vaut 1, donc maintenant la sortie de la porte OU
+est 1.
+
+Une fraction de seconde plus tard, ça revient en boucle
+autour de l'entrée B, de sorte que la porte OU voit que
+
+ses deux entrées sont maintenant à 1.
+
+1 OU 1 est toujours 1, donc il n'y a pas de changement dans
+sortir.
+
+Si nous remettons l'entrée A à 0, la porte OU
+produit toujours 1.
+
+Alors maintenant, nous avons un circuit qui enregistre un
+"1" pour nous.
+
+Sauf que nous avons un tout petit problème - celui-ci
+le changement est permanent !
+
+Peu importe à quel point nous essayons, il n'y a aucun moyen
+pour que ce circuit revienne d'un 1
+
+à un 0.
+
+Regardons maintenant ce même circuit, mais
+avec une porte ET à la place.
+
+Nous allons démarrer les entrées A et B toutes les deux à 1.
+
+1 AND 1 sort 1 pour toujours.
+
+Mais, si nous retournons ensuite l'entrée A à 0, parce que
+c'est une porte ET, la sortie passera à 0.
+
+Donc ce circuit enregistre un 0, l'inverse
+de notre autre circuit.
+
+Comme avant, peu importe l'entrée que nous appliquons
+à l'entrée A par la suite, le circuit sortira toujours 0.
+
+Maintenant, nous avons des circuits qui peuvent enregistrer à la fois
+0 et 1.
+
+La clé pour en faire un morceau de mémoire utile
+est de combiner nos deux circuits dans ce qui est
+
+appelé le verrou ET-OU.
+
+Il a deux entrées, une entrée "set", qui définit
+la sortie à un 1, et une entrée "reset", qui
+
+remet la sortie à 0.
+
+Si set et reset sont tous les deux 0, le circuit
+sort ce qui a été mis en dernier.
+
+En d'autres termes, il se souvient d'un seul bit
+d'information!
+
+Mémoire!
+
+C'est ce qu'on appelle un « loquet » parce qu'il « verrouille
+sur » une valeur particulière et le reste.
+
+L'action de mettre des données en mémoire est
+appelée écriture, tandis que la sortie des données
+
+s'appelle lire.
+
+Ok, nous avons donc un moyen de stocker un seul
+peu d'informations!
+
+Génial!
+
+Malheureusement, avoir deux fils différents
+pour l'entrée - définir et réinitialiser - est un peu déroutant.
+
+Pour rendre cela un peu plus facile à utiliser, nous avons vraiment
+voulons un seul fil pour entrer des données, que nous
+
+peut être réglé sur 0 ou 1 pour stocker la valeur.
+
+De plus, nous allons avoir besoin d'un fil
+qui permet à la mémoire soit d'être disponible
+
+pour écrire ou "verrouillé" --ce qui est
+appelée la ligne d'autorisation d'écriture.
+
+En ajoutant quelques portes logiques supplémentaires, nous pouvons
+construire ce circuit, qui s'appelle un Gated Latch
+
+puisque la "porte" peut être ouverte ou
+fermé.
+
+Maintenant, ce circuit commence à devenir un peu
+compliqué.
+
+Nous ne voulons pas avoir à gérer tous les
+portes logiques individuelles... donc comme avant, nous sommes
+
+va augmenter un niveau d'abstraction, et
+mettre tout notre circuit Gated Latch dans une boîte
+
+-- une boîte qui stocke un bit.
+
+Testons notre nouveau composant !
+
+Commençons tout à 0.
+
+Si nous basculons le fil de données de 0 à 1 ou
+1 à 0, rien ne se passe - la sortie reste à 0.
+
+C'est parce que le fil d'activation d'écriture est
+off, ce qui empêche toute modification de la mémoire.
+
+Nous devons donc "ouvrir" la "porte" en
+en tournant le fil d'autorisation d'écriture sur 1.
+
+Maintenant, nous pouvons mettre un 1 sur la ligne de données pour enregistrer
+la valeur 1 à notre verrou.
+
+Remarquez comment la sortie est maintenant 1.
+
+Succès!
+
+Nous pouvons désactiver la ligne d'activation et la sortie
+reste comme 1.
+
+Encore une fois, nous pouvons basculer la valeur sur le
+ligne de données tout ce que nous voulons, mais la sortie sera
+
+rester le même.
+
+La valeur est enregistrée en mémoire.
+
+Maintenant, activons à nouveau la ligne d'activation
+utilisez notre ligne de données pour régler le verrou sur 0.
+
+Terminé.
+
+Activez la ligne désactivée et la sortie est 0.
+
+Et il fonctionne!
+
+Maintenant, bien sûr, la mémoire informatique qui ne
+stocke un bit d'information n'est pas très
+utile - certainement pas suffisant pour exécuter Frogger.
+
+Ou n'importe quoi, vraiment.
+
+Mais nous ne sommes pas limités à utiliser un seul
+loquet.
+
+Si on met 8 loquets côte à côte, on peut ranger
+8 bits d'information comme un nombre de 8 bits.
+
+Un groupe de verrous fonctionnant comme ceci est
+appelé registre, qui contient un numéro unique,
+
+et le nombre de bits dans un registre est appelé
+sa largeur.
+
+Les premiers ordinateurs avaient des registres 8 bits, puis
+16, 32, et aujourd'hui, de nombreux ordinateurs ont des registres
+
+qui ont une largeur de 64 bits.
+
+Pour écrire à notre registre, nous devons d'abord
+activer tous les verrous.
+
+Nous pouvons le faire avec un seul fil qui se connecte à toutes leurs entrées d'activation, que nous avons définies sur 1.
+
+Nous envoyons ensuite nos données en utilisant les 8 données
+fils, puis remettez enable à 0, et
+
+la valeur 8 bits est maintenant enregistrée en mémoire.
+
+Mettre les loquets côte à côte fonctionne bien pour
+un petit nombre de bits.
+
+Un registre 64 bits nécessiterait 64 fils en cours d'exécution
+aux broches de données, et 64 fils allant à
+
+les sorties.
+
+Heureusement, nous n'avons besoin que d'un seul fil pour activer tous
+les verrous, mais c'est toujours 129 fils.
+
+Pour 256 bits, on se retrouve avec 513 fils !
+
+La solution est une matrice !
+
+Dans cette matrice, nous ne rangeons pas nos loquets
+dans une rangée, nous les mettons dans une grille.
+
+Pour 256 bits, nous avons besoin d'une grille de verrous de 16 par 16
+avec 16 rangées et colonnes de fils.
+
+Pour activer un loquet, nous devons allumer
+le fil de ligne ET de colonne correspondant.
+
+Zoomons et voyons comment cela fonctionne.
+
+On ne veut que le loquet à l'intersection
+des deux fils actifs à activer,
+
+mais tous les autres verrous doivent rester désactivés.
+
+Pour cela, nous pouvons utiliser notre fidèle porte ET !
+
+La porte ET ne sortira un 1 que si la ligne
+et les fils de colonne sont tous les deux 1.
+
+Nous pouvons donc utiliser ce signal pour sélectionner de manière unique
+un seul loquet.
+
+Cette configuration rangée/colonne connecte tous nos loquets
+avec un seul fil d'autorisation d'écriture partagé.
+
+Pour qu'un verrou soit activé en écriture,
+le fil de ligne, le fil de colonne et l'écriture
+
+activer le fil doit tous être 1.
+
+Cela ne devrait jamais être vrai que pour un seul
+verrouiller à tout moment.
+
+Cela signifie que nous pouvons utiliser un seul fil partagé
+pour les données.
+
+Parce qu'un seul loquet ne sera jamais écrit
+activé, un seul sauvegardera jamais les données
+
+-- le reste des verrous ignorera simplement
+valeurs sur le fil de données car elles ne sont pas
+
+écriture activée.
+
+Nous pouvons utiliser la même astuce avec une activation de lecture
+fil pour lire les données plus tard, pour obtenir les données
+
+d'un verrou spécifique.
+
+Cela signifie au total, pour 256 bits de mémoire,
+nous n'avons besoin que de 35 fils - 1 fil de données, 1 écriture
+
+activer le fil, 1 lire le fil d'activation et 16 lignes
+et des colonnes pour la sélection.
+
+C'est une économie de fil importante !
+
+Mais nous avons besoin d'un moyen de spécifier de manière unique chaque
+intersection.
+
+Nous pouvons penser à cela comme une ville, où vous
+pourrait vouloir rencontrer quelqu'un à la 12e avenue
+
+et 8th street -- c'est une adresse qui définit
+un carrefour.
+
+Le loquet dans lequel nous venons d'enregistrer notre un peu a
+une adresse de la ligne 12 et de la colonne 8.
+
+Puisqu'il y a un maximum de 16 lignes, nous stockons l'adresse de ligne dans un nombre de 4 bits.
+
+12 est 1100 en binaire.
+
+On peut faire de même pour l'adresse de la colonne : 8 vaut 1000 en binaire.
+
+Ainsi, l'adresse du verrou particulier que nous
+juste utilisé peut être écrit comme 11001000.
+
+Convertir une adresse en quelque chose
+qui sélectionne la bonne ligne ou colonne, nous avons besoin
+
+un composant spécial appelé multiplexeur -- qui
+est le composant informatique avec un assez cool
+
+nom au moins par rapport à l'ALU.
+
+Les multiplexeurs existent dans toutes les tailles,
+mais parce que nous avons 16 lignes, nous avons besoin d'un 1 à
+
+16 multiplexeur.
+
+Cela fonctionne comme ça.
+
+Vous lui donnez un nombre de 4 bits, et il se connecte
+la ligne d'entrée à une ligne de sortie correspondante.
+
+Donc si on passe en 0000, il sélectionnera le
+toute première colonne pour nous.
+
+Si on passe en 0001, la colonne suivante est sélectionnée,
+etc.
+
+Nous avons besoin d'un multiplexeur pour gérer nos lignes
+et un autre multiplexeur pour gérer les colonnes.
+
+Bon, ça recommence à se compliquer,
+alors faisons de notre mémoire 256 bits son propre composant.
+
+Encore une fois un nouveau niveau d'abstraction !
+
+Il prend une adresse 8 bits pour l'entrée - le
+4 bits pour la colonne et 4 pour la ligne.
+
+Nous avons également besoin de fils d'activation d'écriture et de lecture.
+
+Et enfin, nous n'avons besoin que d'un seul câble de données, qui
+peut être utilisé pour lire ou écrire des données.
+
+Malheureusement, même 256 bits de mémoire ne sont pas
+assez pour exécuter beaucoup de n'importe quoi, nous avons donc besoin
+
+pour encore plus grandir !
+
+Nous allons les aligner.
+
+Tout comme avec les registres.
+
+Nous allons faire une rangée de 8 d'entre eux, afin que nous puissions
+stocker un nombre de 8 bits - également appelé octet.
+
+Pour ce faire, nous alimentons exactement la même adresse
+dans chacun de nos 8 composants de mémoire 256 bits
+
+en même temps, et chacun économise un bit
+du nombre.
+
+Cela signifie que le composant que nous venons de créer peut
+stocker 256 octets à 256 adresses différentes.
+
+Encore une fois, pour garder les choses simples, nous voulons partir
+derrière cette complexité intérieure.
+
+Au lieu de considérer cela comme une série de
+modules et circuits de mémoire individuels, nous allons
+
+considérez-le comme une banque uniforme de données adressables
+Mémoire.
+
+Nous avons 256 adresses, et à chaque adresse,
+nous pouvons lire ou écrire une valeur de 8 bits.
+
+Nous allons utiliser ce composant mémoire
+prochain épisode lorsque nous construisons notre CPU.
+
+La façon dont les ordinateurs modernes évoluent en mégaoctets
+et gigaoctets de mémoire est en faisant la même chose
+
+chose que nous avons faite ici -- garder l'emballage
+de petits paquets de mémoire en plus gros, et
+
+arrangements de plus en plus grands.
+
+Au fur et à mesure que le nombre d'emplacements de mémoire augmente, notre
+les adresses doivent aussi grandir.
+
+8 bits contiennent suffisamment de nombres pour fournir des adresses pour 256 octets de notre mémoire, mais c'est tout.
+
+Pour adresser un gigaoctet – ou un milliard d'octets
+de mémoire - nous avons besoin d'adresses 32 bits.
+
+Une propriété importante de cette mémoire est que
+nous pouvons accéder à n'importe quel emplacement de mémoire, à n'importe quel
+
+moment, et dans un ordre aléatoire.
+
+Pour cette raison, il s'appelle Random-Access
+Mémoire ou RAM.
+
+Lorsque vous entendez des gens parler de la quantité de RAM d'un ordinateur, c'est la mémoire de l'ordinateur.
+
+La RAM est comme le court terme ou le travail d'un humain
+mémoire, où vous gardez une trace des choses qui se passent
+
+en ce moment - comme si vous aviez ou non
+déjeuner ou payé votre facture de téléphone.
+
+Voici un véritable bâton de RAM - avec 8 mémoires
+modules soudés sur la carte.
+
+Si nous ouvrions prudemment l'un de ces modules
+et zoomé, la première chose que vous verriez
+
+sont 32 carrés de mémoire.
+
+Zoomez sur l'un de ces carrés, et nous pourrons
+voir chacun est composé de 4 blocs plus petits.
+
+Si on zoome à nouveau, on descend jusqu'à la matrice
+de bits individuels.
+
+Il s'agit d'une matrice de 128 par 64 bits.
+
+Cela fait 8192 bits au total.
+
+Chacun de nos 32 carrés a 4 matrices, donc
+c'est 32 mille 7 cents 68 bits.
+
+Et il y a 32 cases au total.
+
+Donc, au total, c'est environ 1 million
+bits de mémoire dans chaque puce.
+
+Notre clé RAM a 8 de ces puces, donc dans
+au total, cette RAM peut stocker 8 millions de bits,
+
+autrement connu sous le nom de 1 mégaoctet.
+
+Ce n'est pas beaucoup de mémoire ces jours-ci - ce
+est un module RAM des années 1980.
+
+Aujourd'hui, vous pouvez acheter de la RAM d'un gigaoctet
+ou plus de mémoire - c'est des milliards d'octets
+
+de mémoire.
+
+Donc, aujourd'hui, nous avons construit un morceau de SRAM - Static
+Random-Access Memory - qui utilise des verrous.
+
+Il existe d'autres types de RAM, comme la DRAM, la mémoire Flash et la NVRAM.
+
+Ceux-ci sont très similaires en fonction de SRAM,
+mais utilisez des circuits différents pour stocker l'individu
+
+bits - par exemple, en utilisant une logique différente
+grilles, condensateurs, pièges à charge ou memristors.
+
+Mais fondamentalement, toutes ces technologies
+stocker des bits d'information massivement imbriqués
+
+matrices de cellules mémoire.
+
+Comme beaucoup de choses en informatique, le principe fondamental
+le fonctionnement est relativement simple.. c'est le
+
+des couches et des couches d'abstraction
+époustouflant - comme une poupée russe qui
+
+devient de plus en plus petit et de plus en plus petit.
+
+Je vous verrai la semaine prochaine.
+
+Crédits

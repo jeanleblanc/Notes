@@ -1,0 +1,341 @@
+Salut, je suis Carrie Ann et c'est Crash Course Computer Science.
+
+Donc, dans le dernier épisode, nous avons parlé de la façon dont les nombres peuvent être représentés en binaire.
+Représentant
+
+Comme, 00101010 est 42 en décimal.
+
+Représenter et stocker des nombres est une fonction importante d'un ordinateur, mais le véritable objectif est le calcul,
+
+ou manipuler des nombres de manière structurée et ciblée, comme additionner deux nombres ensemble.
+
+Ces opérations sont gérées par l'unité d'arithmétique et de logique d'un ordinateur,
+
+mais la plupart des gens l'appellent par son nom de rue : l'ALU.
+
+L'ALU est le cerveau mathématique d'un ordinateur.
+
+Lorsque vous comprendrez la conception et la fonction d'une ALU, vous comprendrez un principe fondamental
+
+partie des ordinateurs modernes. C'est LA chose
+qui fait tout le calcul dans un ordinateur,
+
+donc fondamentalement tout l'utilise.
+
+Mais d'abord, regardez cette beauté.
+
+C'est peut-être l'ALU le plus célèbre de tous les temps, l'Intel 74181.
+
+Lors de sa sortie en 1970, il était
+
+C'était le premier ALU complet qui tenait entièrement à l'intérieur d'une seule puce -
+
+Ce qui était un énorme exploit technique à l'époque.
+
+Donc, aujourd'hui, nous allons prendre ces portes logiques booléennes que nous avons apprises la semaine dernière
+
+pour construire un circuit ALU simple avec une grande partie des mêmes fonctionnalités que le 74181.
+
+Et au cours des prochains épisodes, nous utiliserons
+
+ceci pour construire un ordinateur à partir de zéro. Alors ça va se compliquer un peu,
+
+mais je pense que vous pouvez le gérer.
+
+INTRO
+
+Un ALU est vraiment deux unités en une - il y a
+une unité arithmétique et une unité logique.
+
+Commençons par l'unité arithmétique, qui est responsable de la gestion de toutes les opérations numériques dans un
+
+ordinateur, comme l'addition et la soustraction. Ce
+fait aussi un tas d'autres choses simples comme
+
+ajoutez un à un nombre, ce qui s'appelle une opération d'incrémentation, mais nous en reparlerons plus tard.
+
+Aujourd'hui, nous allons nous concentrer sur la pièce de résistance, la crème de la crème de
+
+opérations qui sous-tendent presque tout ce qu'un ordinateur fait - en ajoutant deux nombres ensemble.
+
+Nous pourrions construire ce circuit entièrement à partir de
+
+transistors individuels, mais cela obtiendrait
+confusion très rapide.
+
+Donc, au lieu de cela, comme nous en avons parlé dans l'épisode 3, nous pouvons utiliser un haut niveau d'abstraction et construire nos composants
+
+hors des portes logiques, dans ce cas : ET, OU,
+Portes NOT et XOR.
+
+Le circuit d'addition le plus simple que nous puissions construire prend deux chiffres binaires et les additionne.
+
+Nous avons donc deux entrées, A et B, et une sortie, qui est la somme de ces deux chiffres.
+
+Juste pour clarifier: A, B et la sortie sont tous des bits uniques.
+
+Il n'y a que quatre combinaisons d'entrées possibles.
+
+Les trois premiers sont :
+0+0 = 0
+
+1+0 = 1
+0+1 = 1
+
+Rappelez-vous qu'en binaire, 1 équivaut à
+vrai, et 0 équivaut à faux.
+
+Donc, cet ensemble d'entrées correspond exactement à la logique booléenne d'une porte XOR, et nous pouvons l'utiliser comme
+
+notre additionneur 1 bit.
+
+Mais la quatrième combinaison d'entrée, 1 + 1,
+est un cas particulier. 1 + 1 font 2 (évidemment)
+
+mais il n'y a pas de 2 chiffres en binaire, donc comme nous avons parlé du dernier épisode, le résultat est
+
+0 et le 1 est porté à la colonne suivante. Donc la somme est vraiment 10 en binaire.
+
+Maintenant, la sortie de notre porte XOR est partiellement correcte - 1 plus 1, sorties 0.
+
+Mais, nous avons besoin d'un fil de sortie supplémentaire pour ce bit de report.
+
+Le bit de report n'est "vrai" que lorsque les entrées sont 1 ET 1, car c'est le seul
+
+moment où le résultat (deux) est supérieur à
+1 bit peut stocker… et commodément nous avons
+
+une porte pour ça ! Une porte ET, qui est
+vrai uniquement lorsque les deux entrées sont vraies, donc
+
+nous l'ajouterons également à notre circuit.
+
+Et c'est tout. Ce circuit s'appelle un demi-additionneur. Son
+
+Ce n'est pas si compliqué - juste deux portes logiques - mais faisons abstraction même de ce niveau
+
+de détail et encapsuler notre demi-additionneur nouvellement créé comme son propre composant, avec deux
+
+entrées - bits A et B - et deux sorties, la somme et les bits de retenue.
+
+Cela nous amène à un autre niveau d'abstraction… heh… J'ai l'impression de dire ça beaucoup.
+
+Je me demande si cela va devenir une chose.
+
+Quoi qu'il en soit, si vous souhaitez ajouter plus de 1 + 1
+
+nous allons avoir besoin d'un "Full Adder". Ce demi-additionneur nous a laissé un bit de report en sortie.
+
+Cela signifie que lorsque nous nous déplaçons
+sur la colonne suivante dans une addition multi-colonnes,
+
+et chaque colonne après cela, nous allons devoir ajouter trois bits ensemble, pas deux.
+
+Un additionneur complet est un peu plus compliqué - il
+
+prend trois bits en entrée : A, B et C. Donc
+l'entrée maximale possible est 1 + 1 + 1,
+
+qui est égal à 1 effectuer 1, donc nous avons encore
+seulement besoin de deux fils de sortie: somme et report.
+
+Nous pouvons construire un additionneur complet en utilisant des demi-additionneurs. Pour ce faire, nous utilisons un demi-additionneur pour ajouter A plus B
+
+comme avant - mais ensuite nourris ça
+résultat et entrée C dans un second demi-additionneur.
+
+Enfin, nous avons besoin d'une porte OU pour vérifier si l'un des bits de report était vrai.
+
+Ça y est, nous venons de faire un additionneur complet ! Encore une fois, nous pouvons monter un niveau d'abstraction et envelopper
+
+cet additionneur complet comme son propre composant. Ce
+prend trois entrées, les ajoute et sort
+
+la somme et le report, s'il y en a un.
+
+Armés de nos nouveaux composants, nous pouvons maintenant construire un circuit qui prend deux nombres de 8 bits
+
+– Appelons-les A et B – et additionnons-les.
+
+Commençons par le tout premier morceau de
+
+A et B, que nous appellerons A0 et B0. À
+ce point, il n'y a pas de carry bit à traiter
+
+avec, parce que c'est notre premier ajout.
+Nous pouvons donc utiliser notre demi-additionneur pour ajouter ces
+
+deux bits ensemble. La sortie est sum0.
+Maintenant, nous voulons ajouter A1 et B1 ensemble.
+
+Il est possible qu'il y ait eu un report de l'ajout précédent de A0 et B0, donc cette fois nous avons besoin
+
+utiliser un additionneur complet qui entre également le report
+bit. Nous produisons ce résultat sous la forme sum1.
+
+Ensuite, nous prenons n'importe quel report de cet additionneur complet et l'exécutons dans le prochain additionneur complet qui gère
+
+A2 et B2. Et nous continuons à faire ça dans
+une grande chaîne jusqu'à ce que les 8 bits aient été ajoutés.
+
+Remarquez comment les bits de report se répercutent sur
+chaque additionneur suivant. Pour cette raison,
+
+c'est ce qu'on appelle un additionneur de report d'ondulation 8 bits. Remarquez comment notre dernier additionneur complet a une réalisation.
+
+S'il y a un report dans le 9ème bit, cela signifie que la somme des deux nombres est trop grande pour tenir dans 8 bits.
+
+C'est ce qu'on appelle un débordement.
+
+En général, un débordement se produit lorsque le résultat d'une addition est trop grand pour être représenté par le nombre de bits que vous utilisez.
+
+Cela peut généralement entraîner des erreurs et un comportement inattendu.
+
+Célèbre, le jeu d'arcade PacMan original utilisait 8 bits pour garder une trace de votre niveau.
+
+Cela signifiait que si vous dépassiez le niveau 255 - le plus grand nombre stockable en 8 bits -
+
+au niveau 256, l'ALU a débordé.
+
+Cela a causé un tas d'erreurs et de pépins rendant le niveau imbattable.
+
+Le bug est devenu un rite de passage pour les plus grands joueurs de PacMan.
+
+Donc, si nous voulons éviter les débordements, nous pouvons étendre notre circuit avec des additionneurs plus complets, permettant
+
+nous d'ajouter des nombres de 16 ou 32 bits. Cela rend les débordements moins susceptibles de se produire, mais au
+
+frais de plus de portes. Un inconvénient supplémentaire est qu'il faut un peu de temps pour
+
+chacun des porte à onduler vers l'avant.
+
+Certes, pas beaucoup de temps, les électrons se déplacent assez vite, donc on parle de milliardièmes de seconde,
+
+mais c'est suffisant pour faire la différence dans les ordinateurs rapides d'aujourd'hui.
+
+Pour cette raison, les ordinateurs modernes utilisent un circuit d'addition légèrement différent appelé additionneur "carry-look-ahead".
+
+qui est plus rapide, mais fait finalement exactement la même chose - ajoute des nombres binaires.
+
+L'unité arithmétique de l'ALU a également des circuits pour d'autres opérations mathématiques
+
+et en général ces 8 opérations sont toujours supportées.
+
+Et comme notre additionneur, ces autres opérations sont construites à partir de portes logiques individuelles.
+
+Fait intéressant, vous avez peut-être remarqué qu'il n'y a pas d'opérations de multiplication et de division.
+
+En effet, les ALU simples n'ont pas de circuit pour cela et effectuent simplement une série d'ajouts.
+
+Disons que vous voulez multiplier 12 par 5.
+
+C'est la même chose que d'ajouter 12 à lui-même 5 fois. Il faudrait donc 5 passages
+
+l'ALU pour faire cette multiplication. Et
+c'est combien de processeurs simples,
+
+comme ceux de votre thermostat, de votre télécommande de télévision et de votre four à micro-ondes, effectuez une multiplication.
+
+C'est lent, mais ça fait le travail.
+
+Cependant, des processeurs plus sophistiqués, comme ceux de votre ordinateur portable ou de votre smartphone,
+
+ont des unités arithmétiques avec des circuits dédiés pour la multiplication.
+
+Et comme vous vous en doutez, le circuit est plus compliqué que l'addition -- il n'y a pas
+
+magique, il faut juste beaucoup plus de portes logiques
+– c'est pourquoi des processeurs moins chers
+
+n'ont pas cette fonctionnalité.
+
+Ok, passons à l'autre moitié de l'ALU : l'unité logique.
+
+Au lieu de l'arithmétique
+opérations, l'unité logique fonctionne… eh bien...
+
+opérations logiques, comme AND, OR et NOT, dont nous avons parlé précédemment.
+
+Il effectue également des tests numériques simples, comme vérifier si un nombre est négatif.
+
+Par exemple, voici un circuit qui teste
+si la sortie de l'ALU est nulle.
+
+Il le fait en utilisant un tas de portes OU pour voir si l'un des bits est 1.
+
+Même si un seul bit est 1, nous savons que le nombre ne peut pas être zéro, puis nous utilisons une porte NON finale pour inverser cela
+
+entrée de sorte que la sortie est 1 uniquement si le numéro d'entrée est 0.
+
+Voilà donc un aperçu de haut niveau de ce qui constitue une ALU. Nous avons même construit plusieurs
+
+les principaux composants à partir de zéro, comme notre additionneur d'ondulation.
+
+Comme vous l'avez vu, c'est juste un gros tas de portes logiques connectées de manière intelligente.
+
+Ce qui nous ramène à cet ALU que vous admiriez tant au début de l'épisode.
+
+L'Intel 74181.
+
+Contrairement à l'ALU 8 bits que nous avons fabriqué aujourd'hui, le 74181 ne pouvait gérer que des entrées 4 bits,
+
+ce qui signifie que VOUS AVEZ CONSTRUIT UN ALU QUI EST COMME
+
+DEUX FOIS PLUS BON QUE CELUI SUPER CÉLÈBRE. AVEC
+TON ESPRIT! Eh bien... en quelque sorte.
+
+Nous n'avons pas tout construit... mais vous voyez l'idée.
+
+Le 74181 utilisait environ 70 portes logiques, et il ne pouvait ni multiplier ni diviser.
+
+Mais c'était un énorme pas en avant dans la miniaturisation, ouvrant les portes à des ordinateurs plus performants et moins chers.
+
+Ce circuit ALU 4 bits, c'est déjà beaucoup à encaisser,
+
+mais notre ALU 8 bits nécessiterait des centaines de portes logiques pour être entièrement construite et conçue
+
+ne veulent pas voir toute cette complexité lors de l'utilisation d'un ALU, alors ils ont proposé un spécial
+
+symbole pour conclure le tout, qui ressemble à
+un grand "V". Juste un autre niveau d'abstraction !
+
+Notre ALU 8 bits a deux entrées, A et B, chacune avec 8 bits. Nous avons également besoin d'un moyen de spécifier quelle opération l'ALU doit effectuer,
+
+par exemple, addition ou soustraction.
+
+Pour cela, nous utilisons un code d'opération de 4 bits.
+
+Nous en reparlerons plus dans un épisode ultérieur, mais en bref, 1000 pourrait être la commande
+
+pour ajouter, tandis que 1100 est la commande pour soustraire. Fondamentalement, le code d'opération indique à l'ALU
+
+quelle opération effectuer. Et le résultat de cette opération sur les entrées A et B est une sortie 8 bits.
+
+Les ALU produisent également une série de drapeaux, qui sont des sorties 1 bit pour des états et des statuts particuliers.
+
+Par exemple, si nous soustrayons deux nombres et que le résultat est 0, notre circuit de test zéro, celui que nous avons fait plus tôt,
+
+définit l'indicateur zéro sur Vrai (1). Ceci est utile si nous essayons de déterminer si deux nombres sont égaux.
+
+Si nous voulions tester si A était inférieur à B,
+
+nous pouvons utiliser l'ALU pour calculer A soustraire B et voir si le drapeau négatif a été défini sur vrai.
+
+Si c'était le cas, nous savons que A était
+plus petit que B.
+
+Et enfin, il y a aussi un fil attaché à la réalisation sur l'additionneur que nous avons construit,
+
+donc s'il y a un débordement, nous le saurons. C'est ce qu'on appelle le drapeau de débordement.
+
+Les ALU plus sophistiquées auront plus de drapeaux, mais ces trois drapeaux sont universels et fréquemment utilisés.
+
+En fait, nous les utiliserons bientôt dans un prochain épisode.
+
+Alors maintenant, vous savez comment votre ordinateur effectue numériquement toutes ses opérations mathématiques de base
+
+sans engrenages ni leviers nécessaires.
+
+Nous allons utiliser cette ALU lorsque nous construirons notre CPU dans deux épisodes à partir de maintenant.
+
+Mais avant cela, notre ordinateur va avoir besoin de mémoire ! Nous en reparlerons la semaine prochaine.

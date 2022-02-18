@@ -232,7 +232,7 @@ SayHi("John", "90")
 
 print("______________________________________________________________________")
 
-#return statement 
+    #return statement 
 
 def cube(num):
    return num*num*num #return va renvoyer tout les valeur inseré après
@@ -251,11 +251,11 @@ print(result) #comme on imprime la fonction ça ne va pas executer le "print"
 
 print("______________________________________________________________________")
 
-#if statements
-    #c'est une structure special en python où on peut aider notre programme a 
-    #prendre des desisons, en utilisant if on peut utiliser un certain code quand
-    #certaine conditions sont vraies et inversement.
-    #ça permet à notre programme de repondre à ce qu'on peut lui envoyer
+    #if statements
+#c'est une structure special en python où on peut aider notre programme a 
+#prendre des desisons, en utilisant if on peut utiliser un certain code quand
+#certaine conditions sont vraies et inversement.
+#ça permet à notre programme de repondre à ce qu'on peut lui envoyer
    
 is_male = True
 if is_male:
@@ -283,23 +283,124 @@ else: # seulement si aucun des deux est vrai
     
 
 
+print("______________________________________________________________________")
+
+    #if statement & comparaisons
+
+def max_num(num1, num2, num3):
+    if num1 >= num2 and num1 >= num3: #ici on compare deux nbrs maison peut aussi le faire avec des strings
+        return num1
+    elif num2 >= num1 and num2 >= num3:
+        return num2
+    else:
+        return num3
+print(max_num(35, 5, 4)) #va renvoyer 35 car il est le plus grand
+
+def test_num(num1, num2):
+    if num1 == num2: # est egale a 
+        return True
+    if num1 != num2: #n'est pas egal a
+        return False
+    if num1 > num2: # est plus grand que
+        return big
+    if num1 < num2: # est plus petit que 
+        return small    #avec un seul egale ça fera plus petit ou egal
+
+print("______________________________________________________________________")
+
+    #test calculator (better)
+
+#num1 = float (input("Enter first number: ")) #rappelle > converti en un nbrs  
+#op = input("Enter operator: ")
+#num2 = float (input("Enter second number: ")) #rappelle > converti en un nbrs  
+
+#if op == "+": #on verifie si "op" est egal a la string "+"
+ #   print(num1 + num2) #dans ce cas on additionne les input num1 et num2
+#elif op == "-":
+ #   print(num1 - num2)
+#elif op == "/":
+#    print(num1 / num2)
+#elif op == "*":
+#    print(num1 * num2)
+#else:
+ #   print("Invalid operator")
+
+print("______________________________________________________________________")
+
+    #DICTIONARIES
+#structure special qui permet de stocker des infos dans ce qu'on apelle
+#the keys value pair. On peut crée plein de clef de valeur pair et quand on 
+# veut acceder a un element specifique du dic on peut s'y referé par sa clefs 
+
+monthConversions = { #a droite valeur / a gauche la clef (le clefs doit etre UNIQUE)
+    "Jan": "January",
+    "Feb": "Februari",
+    "Mar": "March",
+    "Apr": "April",
+    "May": "May",
+    "Jun": "June",
+    "Jul": "July",
+    "Aug": "Augustus",
+    "Sep": "September",
+    "Oct": "October",
+    "Nov": "November",
+    "Dec": "December",
+    #on peut aussi mettre des nbrs en tant que clefs (a la place des strings)
+}
+print(monthConversions["Jan"]) # ici va renvoyer la valeur associé  a la clef entre []
+
+print(monthConversions.get("Dec"))# autre manniere de faire > avantage si valeur fausse
+# il va renvoyer "none" au lieu d'un message d'erreur
+print(monthConversions.get("Loc", "Not a default value")) #quand on est dans la 
+# situation où la clefs n'est associé a aucune valeur, on peut luis passer une valeur par default
+# qu'il va renvoyer seulement si la premiere n'est pas inscite dans le dic.
+ 
+print("______________________________________________________________________")
+
+    #While Loop
+
+#structur en python qui nous permet de parcourir et executer un block de 
+#code plusieur fois. 
+
+i = 1
+while i <= 10: #tant que c'est vrai on execute la loop
+    print(i) #on imrpime "i"
+    i += 1 #on ajoute 1 a "i" et on recommence pour voir si i <=
+
+print("Done with loop") #quand "i" sera = ou > que 10 alors il va faire la suite >
 
 
+print("______________________________________________________________________")
 
+    # Building a guessing game
 
+# on veut faire deviner au joueur un mot secret
 
+#secret_word = "giraffe" #stock le mot secret
+#guess = "" #stock les supposition du joueur
+#guess_count = 0 # stock le nbrs d'essai qu'aura fait le joueur
+#guess_limit = 3 #dit au programme la limite d'essai du joueur
+#out_of_guesses = False
 
+#while guess != secret_word and not(out_of_guesses): #on execute que si le mot entrer n'est pas le mot secret
+    #et si la loop n'est pas out of guesses (False)
+#    if guess_count < guess_limit: # a chaque loop on check si limite est plus grande que le compte
+     #   guess = input("Enter a supposition: ")
+    #    guess_count += 1 # a chaque fois que l'on fait un soposition le nbrs d'essai augmente
+ #   else: #si ce n'est pas le cas
+   #     out_of_guesses =True #on change out of guesses pour vrai
+        
+#if out_of_guesses: #si out of guess est vrai alors >
+#    print("You lose...")
+#else: # si non
+#    print("You Win !!")
 
+print("______________________________________________________________________")
 
-
-
-
-
-
-
-
-
-
+    # For Loop
+    # Special type de loop pour loop sur defferentes collection d'elements
+for letter in "Giraffe Academy":
+    print(letter)
 
 
 

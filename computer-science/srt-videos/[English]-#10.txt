@@ -1,0 +1,304 @@
+Hi, I'm Carrie Anne and welcome to Crash Course Computer Science.
+
+Over the last few episodes,
+
+We've talked a lot about the mechanics of how computers work.
+
+How they use complex circuits to save and retrieve values from memory,
+
+and perform operations on those values,
+
+like adding two numbers together.
+
+We've even briefly talked about sequences of operations,
+
+which is a computer program.
+
+What we haven't talked about
+
+is how a program gets into a computer.
+
+You might remember in episode 7 and 8 ,
+
+when we stepped through some simple example programs for the CPU that we had created.
+
+For simplicity, we just waved our hands
+
+and said that the program was already magically in memory.
+
+But in reality, programs have to be loaded into a computer's memory.
+
+It's not magic. It's computer science.
+
+[Theme Music]
+
+The need to programme machines existed way before the development of computers.
+
+The most famous example of this was in textile manufacturing.
+
+if you just wanted to weave a big red tablecloth,
+
+you could simply feed red thread into a loom and let it run.
+
+But what about if you wanted the cloth to have a pattern like stripes or plaid?
+
+Workers would have to periodically reconfigure the loom as dictated by the pattern,
+
+but this was labor intensive which made patterned fabrics expensive.
+
+In response, Joseph Marie Jacquard developed a programmable textile loom,
+
+which he first demonstrated in 1801.
+
+The pattern for each row of the cloth was defined by a punched card.
+
+The presence or absence of a hole in the card determined
+
+if a specific threat was held high or low in the loom.
+
+Such that the cross thread called the weft passed above or below the thread.
+
+To vary the pattern across rows these punch cards were arranged in long chains,
+
+forming a sequence of commands for the loom.
+
+Sound familiar?
+
+Many consider Jacquard's loom to be one of the earliest forms of programming.
+
+Punched cards, turned out to be a cheap , reliable,
+
+fairly human readable way to store data.
+
+Nearly a century later,
+
+punch cards were use to help tabulate the 1890 newest census
+
+which we talked about in episode 1.
+
+Each card held an individual person's data.
+
+Things like race,
+
+marital status,
+
+number of children,
+
+country of birth, and so on.
+
+For each demographic question,
+
+a census worker would punch out a hole of the appropriate position.
+
+When a card was fed into the tabulating machine,
+
+a hole would cause the running total for that specific answer to be increased by one.
+
+In this way you could feed the
+
+entire county's worth of people
+
+and at the end you'd have running totals for all of the questions that you asked.
+
+It is important to note here that early tabulating machines
+
+were not truly computers as they can only do one thing-tabulate.
+
+Their operation was fixed and not programmable.
+
+Punished cards stored data, but not a program.
+
+Over the next 60 years, these business machines grew in capability,
+
+adding features to subtract, multiply, divide,
+
+and even make simple decisions about when to perform certain operations.
+
+To trigger these functions appropriately,
+
+so that different calculations could be performed,
+
+a programmer accessed a control panel.
+
+This panel was full of little sockets, into which a programmer would plug cables
+
+to pass values and signals between different parts of the machine.
+
+For this reason they were also called plug boards.
+
+Unfortunately, this meant having to rewire the machine each time a different program needed to be run.
+
+And so by the 1920s, these plug boards were made swappable.
+
+This not only made programming a lot more comfortable,
+
+but also allowed for different programs to be plugged into a machine.
+
+For example, one board might be wired to calculate sales tax, while another helps with payroll.
+
+But plug boards were fiendishly complicated to program.
+
+This tangle of wires is a program for calculating a profit loss summary,
+
+using an IBM 402 accounting machine, which were popular in the 1940s.
+
+And this style of plug board programming wasn't unique to electromechanical computers.
+
+The world's first General-Purpose electronic computer,
+
+the Eniac, completed in 1946, used a ton of them.
+
+Even after a program had been completely figured out on paper,
+
+physically wiring up the Eniac and getting the program to run could take upwards of three weeks.
+
+Given the enormous cost of these early computers, weeks of downtime simply to switch programs
+
+was unacceptable and the new, faster, more flexible way to programme machines was badly needed.
+
+Fortunately by the late 1940s and into the 50s, electronic memory was becoming feasible.
+
+As costs fell, memory size grew.
+
+Instead of storing a program as a physical plug board of wires, it became possible to store a program entirely in a computer's memory.
+
+Where it could be easily changed by programmers and quickly accessed by the CPU.
+
+These computers were called stored-program computers.
+
+With enough computer memory, you could store not only the program you wanted to run,
+
+but also any data your program would need.
+
+Including new values it created along the way,
+
+Unifying the progrmming data into a single shared memory is called the von Neumann architecture.
+
+Named after John von Neumann, a prominent mathematician and physicist,
+
+who worked on the Manhattan project and several early electronic computers.
+
+And once said, "I'm thinking about something much more important than bombs, I'm thinking about computers".
+
+The hallmarks of a von Neumann computer are a processing unit containing an arithmetic logic unit,
+
+data registers, an instruction register, and an instruction address register.
+
+And finally, a memory to store both data and instructions.
+
+Hopefully, this sounds familiar, because we actually built a von Neumann computer in episode 7.
+
+The very first von Neumann architecture stored program computer
+
+was constructed in 1948 by the University of Manchester, nicknamed "Baby".
+
+And even the computer you are watching this video right now uses the same architecture.
+
+Now electronic computer memory is great and all,
+
+but you still have to load the programming data in to the computer before it can run.
+
+And for this reason, punch cards were used.
+
+Let's get to the Thought Bubble.
+
+Well into the 1980s, almost all computers had a punch card reader.
+
+Which could suck in a single punch card at a time and write the contents of the card into the computer's memory.
+
+If you loaded in a stack of punch cards, the reader would load them all into memory sequentially, as a big block.
+
+Once the programming data were in memory, the computer would be told to execute it.
+
+Of course, even simple computer programs might have hundreds of
+
+instructions, which meant that programs were stored as stacks of punch cards.
+
+So if you ever have the misfortune of accidentally dropping your program on the floor,
+
+it could take you hours, days, or even weeks to put the code back in the right order.
+
+A common trick was to draw a diagonal line on the side of the card stack called striping,
+
+so you'd have at least some clue how to get it back into the right order.
+
+The largest program ever punched into punch cards was the US Air Force's sage air defense system, completed in
+
+1955. At its peak, the product is said to have employed
+
+20% of the world's programmers. Its main control program was stored on a whopping
+
+62,500 punch cards, which is equivalent to roughly 5 megabytes of data.
+
+Pretty underwhelming by today's standards.
+
+And punch cards weren't only useful for getting data into computers, but also getting data out of them.
+
+At the end of a program, results could be written out of computer memory and onto punch cards by, well, punching cards.
+
+Then this data could be analyzed by humans or loaded into a second program for additional computation.
+
+Thanks, Thought Bubble.
+
+A close cousin to punch cards was punched paper tape,
+
+which is basically the same idea, but continuously instead of being on individual cards.
+
+And of course, we haven't talked about hard drives, CD-Roms, DVDs, USB thumb drives, and other similar goodies.
+
+We'll get to those more advanced types of data storage in a future episode.
+
+Finally, in addition to plug boards and punch paper,
+
+there was another common way to program and control computers pre-1980: panel programming.
+
+Rather than having to physically plug in cables to activate certain functions, this could also be done with huge panels full of switches
+
+and buttons. And there were indicator lights to display the status of various functions and values in memory.
+
+Computers of the 50s and 60s often featured huge control consoles that look like this.
+
+Although it was rare to input a whole program using just switches, it was possible.
+
+And early home computers made for the hobbyist market used switches extensively, because most home users couldn't afford expensive
+
+peripherals like punch card readers. The first commercially successful home computer was the Altair 8800, which sold in two versions:
+
+preassembled and as a kit. The kit, which was popular with amateur computing enthusiasts, sold for the then unprecedented low price of around
+
+$400 in 1975 or about $2,000 in 2017.
+
+To program 8800 you'd literally toggle the switches on the front panel to enter the binary Op codes for the instruction you wanted.
+
+Then you press the deposit button to write that value into memory.
+
+Then in the next location in memory, you toggle the switches again for your next instruction, deposit it and so on.
+
+When you had finally entered your whole program into memory, you would toggle the switches, move back
+
+to memory address zero, press the run button, and watch the little lights blink. That was home computing in 1975, wow.
+
+Whether it was plug board switches or punched paper
+
+Programming these early computers was the realm of experts. Either professionals who did this for a living, or technology enthusiasts.
+
+You needed intimate knowledge of the underlying hardware,
+
+So things like processor Op codes and register wits to write programs.
+
+This meant programming was hard and tedious. And even professional engineers and scientists struggle to take full advantage of what computing could offer.
+
+What was needed was a simpler way to tell computers what to do; a simpler way to write programs.
+
+And that brings us to programming languages which we'll talk about next episode. See you next week.
+
+Crash Course Computer Science is produced in association with PBS Digital Studios.
+
+At their channel you can check out a playlist of shows like Braincraft,
+
+Coma Niddy and PBS Infinite Series. This episode was filmed at the Chad and Stacey Emigholz studio in Indianapolis, Indiana
+
+And it was made with the help of all these nice people and our wonderful graphics team is Thought Cafe.
+
+Thanks for the Random Access Memories, I''ll see you next time.
+

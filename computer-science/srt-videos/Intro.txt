@@ -1,0 +1,92 @@
+Bonjour tout le monde!
+
+Je suis Carrie Anne Philbin et bienvenue dans le Crash Course Informatique!
+
+Alors, les ordinateurs nous permettent vraiment de faire des choses plutôt incroyables - pensez aux
+
+télécommunications globales, au commerce international, au transport global, aux percées de la médecine,
+
+à l'éducation décentralisée, aux achats en ligne, aux sites de rencontre, et plus généralement Internet.
+
+Les ordinateurs nous offrent la possibilité d'explorer notre monde et d'autres mondes, et aussi
+
+d'autres choses apparemment plus anodines comme nous permettre d'espionner nos animaux de compagnie depuis le bureau ou communiquer
+
+avec nos amis dans un flux quasi indéchiffrable d'emoji.
+
+Cependant, ne pensez pas que les ordinateurs soient magiques.
+
+Ils ne sont pas, je répète NE SONT PAS, magiques.
+
+Donc, avant d'entrer dans le vif du sujet, il peut être utile
+
+de vous dire de quoi nous n'allons pas parler.
+
+Nous n'allons pas vous apprendre à programmer.
+
+La programmation est un aspect réellement cruciale de l'informatique, et nous aborderons
+
+les règles qui régissent la logique derrière la conception matérielle et logicielle.
+
+Mais nous n'allons pas vous apprendre à programmer un Arduino pour arroser vos plantes
+
+ou comment changer le CSS du blog de couture de grand-mère pour que le curseur des visiteurs se transforme en chattons.
+
+Ça n'est pas non plus un cours d'informatique.
+
+Tout du moins, pas sur comment l'informatique est pensé, ici aux États-Unis. L'informatique est ici un objectif.
+
+C'est ce que les ordinateurs font.
+
+Et soyez sûrs que nous parlerons un peu de ça, mais NOTRE objectif pour ce cours est plus large.
+
+En effet, l'informatique a d'autres significations dans d'autres pays.
+
+Tout ça est assez confus.
+
+Cependant nous verrons l'histoire des ordinateurs... Avant même que nous ayons l'électricité.
+
+Nous retracerons les décisions de conception qui ont donné les composants actuels.
+
+Nous expliquerons comment fonctionne... ou ne fonctionne pas... un Système d'Opération.
+
+Comment Youtube arrive jusqu'à vous à travers Internet, comment nos smartphones et d'autres équipements "intelligents"
+
+deviennent plus intelligents, et bien sûr des trucs mystérieux et futuristes comme l'informatique quantique et
+
+les trucs frustrants actuels comme le hacking!
+
+Ça fait beaucoup à couvrir, mais je suppose qu'avant de commencer, je devrais me présenter.
+
+Je suis Carrie Anne Philbin!
+
+Salut!
+
+Je suis professeure d'informatique primée en lycée, autrice de "Adventures in Raspberry Pi" et
+
+créatrice d'une série de vidéos Youtube pour adolescent-e-s qui s'intitule Geek Gurl Diaries qui
+
+inclues des entrevues avec des femmes travaillant dans les technologies, des tutoriels informatiques,
+
+et des projets pratiques de conception numérique.
+
+Dans mon boulot, j'aide les personnes à apprendre des choses à propos des technologies et à faire avec les ordinateurs en tant que
+
+Directrice de l'Éducation pour la fondation Raspberry Pi, qui est une association caritative basée à Cambridge,
+
+aux Royaumes-Unis
+
+Autant dire que je suis passionnée par tout ça, non pas parce que les ordinateurs sont ces
+
+appareils étonnant qui rendent toujours nos vies plus faciles (ce qui est discutable quelques fois)
+
+mais plutôt parce que les ordinateurs sont devenus sans conteste un pivot de notre société.
+
+De nos voitures et thermostats aux stimulateurs cardiaques et téléphones mobiles, les ordinateurs sont partout,
+
+et j'espère qu'à la fin de ce cours vous aurez une meilleure compréhension
+
+et appréciation du chemin parcouru et de celui qu'ils pourraient nous aider à explorer.
+
+À la semaine prochaine.
+

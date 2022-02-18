@@ -39,3 +39,9 @@ git push --set-upstream origin dev pour envoyer la nvl branche
 
 git fetch
 ajouter la branche 
+
+il peuvent crée plusieurs branche pour pouvoir travailler sur le memme projet  enssemble pour 
+ne pas modifier la version de l'autre ou pour differente partie du projet (style, code, etc.)
+comme ils ont crée plusieurs braches il leur faut a la fin les rassembler
+il faut qu'il fasse un git merge pour fusionner leur deux commit en 1 seul pour ensuite le deporter sur le branche de dev
+branche dev ok ? evoyer la vers master avec encore un git merge  
