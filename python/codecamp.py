@@ -398,9 +398,222 @@ print("______________________________________________________________________")
 print("______________________________________________________________________")
 
     # For Loop
-    # Special type de loop pour loop sur defferentes collection d'elements
+# Special type de loop pour loop sur defferentes collection d'elements
 for letter in "Giraffe Academy":
-    print(letter)
+    print(letter) # va imprimer toute les differentes lettres de la string
+
+friends = ["Jim", "Karen", "Kevin"] 
+for friend in friends: #pour chaque friend dans friends
+    print(friend) #on imprime un friend
+    
+for index in range(10):
+    print(index) #va imprimer tout les nombres de 0 à 10 exclu
+    
+print("-------------------------------------------------------------")
+    
+for index in range(3, 10): #2e position ne sera pas inclu
+    print(index) #imprime les nombres entre 3 et 10
+
+friends = ["Jim", "Karen", "Kevin"] 
+len(friends) #va donner le nbrs d'elements dans la variable
+
+for index in range(len(friends)): 
+    print(friends[index]) #va imprimer les ami du nombre auxquelles ils sont
+    #friends  [0], puis [1] et enfin [2] parce qu'on a trois amis 
+    
+for num in range(5) :
+    if num == 0:
+         print("first interaction")        
+    else:
+        print("not first")
+       
+       
+print("______________________________________________________________________")
+
+    # exponant fonction 
+print(2**3) # 2 puissance 3 (** = puissance)
+
+def raise_to_power(base_num, pow_num):
+    result = 1
+    for index in range(pow_num):
+        result = result * base_num #va faire cet operation pow_num fois
+    return result
+
+print(raise_to_power(3, 4)) 
+
+print("______________________________________________________________________")
+
+    #2D lists & nested loops
+
+number_grid = [
+ [1, 2, 3], #au lieu de lister des elements on liste des listes
+ [4, 5, 6],
+ [7, 8, 9],
+ [0]
+]
+
+#pour acceder a chaque elements individuellements
+print(number_grid[2][1]) # [1ere = row] [2e = colone]
+
+
+for row in number_grid :
+    for col in row:
+        print(col)
+
+
+print("______________________________________________________________________")
+     #Build a translator
+
+#def translate(phrase):
+ #   translation = ""
+  #  for letter in phrase:
+   #     if letter.lower() in "aeiou" :
+    #       if letter.isupper():
+     #           translation = translation + "G"
+      #      else: 
+       #         translation = translation + "g"
+        #else:
+         #   translation = translation + letter
+ #   return translation
+
+#print(translate(input("Enter a Phrase : ")))
+
+print("______________________________________________________________________")
+
+    # Try / Except
+    
+# number = int(input("Enter a num: "))
+# print(number)
+#ici si l'utilisateur entre autre chose qu'un entier le programme bug et arrete tout
+
+#try:
+  #  number = int(input("Enter a num: "))
+ #   print(number)
+#except: #pour toutes els erreurs dans try va renvoyer >
+ #   print("Invalid input")
+
+#on peut preciser les exeption
+
+#try:
+#    value = 10/0
+#    number = int(input("Enter a num: "))
+#    print(number)
+#except ZeroDivisionError as err: 
+#   print(err)
+#except ValueError:
+#    print("Invalid Input")
+
+print("______________________________________________________________________")
+    #Reading Files
+    
+#permet de lire un ficher externe
+animal_file = open("/home/jean_a/Notes/python/.animal.txt", "r") # r dit qu'on va juste lire les info  dans le fichier
+                        #w tu peux modifier le fichier
+                        #r+ lire et ecrire
+
+print(animal_file.readable()) #demande si le fichier est lisible
+
+print(animal_file.readline()) #lis la premiere ligne
+print(animal_file.readline()) #lis la ligne suivante
+
+#print(animal_file.readlines() [1]) #lis ligne position index 1
+
+print(animal_file.readlines() ) #lis chaque ligne > tableau
+
+
+for animal in animal_file.readlines():
+    print(animal)
+
+animal_file.close() 
+
+print("______________________________________________________________________")
+    #Writing Files
+    
+animal_file = open("/home/jean_a/Notes/python/.animal.txt", "a")#ajoute du txt a la fin du fichier
+
+animal_file.write("Foque") 
+#poblemes ne passe pas a la ligne et si on execute 2x rajoute encore le mm
+animal_file.write("\nMama") #pour passer a la ligne 
+
+animal_file.close() 
+
+animal_file = open("/home/jean_a/Notes/python/.animal-2.txt", "w")#va remplacer tout
+
+animal_file.write("Mama") 
+
+animal_file.close() 
+
+animal_file = open("/home/jean_a/Notes/python/.animal-2.txt", "w")#va créer nouveau fichier$
+
+animal_file.close() 
+
+
+print("______________________________________________________________________")
+    #Module and pip
+ 
+#import useful_tools #on va importer le fichier et l'utiliser
+#print(useful_tools.name) #on peut utiliser tout ce qu'il y a a l'interieur
+
+
+print("______________________________________________________________________")
+    #Classe and object
+#aide a organiser son programme
+#permet de crée sa propre data type (x string > Student)
+
+#dans un autre fichier on a crée un classe "students" qui defini ce qu'est un etudiant
+#ici on va créer un students, un objet
+        
+from student import Student
+
+student1 = Student("Jim", "Buissness", 3.1, False) #on crée un etudiant
+student2 = Student("Pam", "Art", 5.3, True) #on crée un etudiant
+
+print(student1.name)#on peut avoir des information quant a notre etudiant
+print(student1.gpa)
+print(student2.name)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
