@@ -1,0 +1,605 @@
+This episode is brought to you by Curiosity
+Stream.
+
+Hi, I'm Carrie Anne, and welcome to Crash
+Course Computer Science!
+
+Last episode we talked about Files, bundles
+of data, stored on a computer, that are formatted
+
+and arranged to encode information, like text,
+sound or images.
+
+We even discussed some basic file formats,
+like text, wave, and bitmap.
+
+While these formats are perfectly fine and
+still used today, their simplicity also means
+
+they’re not very efficient.
+
+Ideally, we want files to be as small as possible,
+so we can store lots of them without filling
+
+up our hard drives, and also transmit them
+more quickly.
+
+Nothing is more frustrating than waiting for
+an email attachment to download. Ugh!
+
+The answer is compression, which literally
+squeezes data into a smaller size.
+
+To do this, we have to encode data using fewer
+bits than the original representation.
+
+That might sound like magic, but it’s actually
+computer science!
+
+INTRO
+
+Lets return to our old friend from last episode,
+Mr. Pac-man!
+
+This image is 4 pixels by 4 pixels.
+
+As we discussed, image data is typically stored
+as a list of pixel values.
+
+To know where rows end, image files have metadata,
+which defines properties like dimensions.
+
+But, to keep it simple today, we’re not
+going to worry about it.
+
+Each pixel’s color is a combination of three
+additive primary colors: red, green and blue.
+
+We store each of those values in one byte,
+giving us a range of 0 to 255 for each color.
+
+If you mix full intensity red, green and blue
+- that’s 255 for all three values - you
+
+get the color white.
+
+If you mix full intensity red and green, but
+no blue (it’s 0), you get yellow.
+
+We have 16 pixels in our image, and each of
+those needs 3 bytes of color data.
+
+That means this image’s data will consume
+48 bytes of storage.
+
+But, we can compress the data and pack it
+into a smaller number of bytes than 48!
+
+One way to compress data is to reduce repeated
+or redundant information.
+
+The most straightforward way to do this is
+called Run-Length Encoding.
+
+This takes advantage of the fact that there
+are often runs of identical values in files.
+
+For example, in our pac-man image, there are
+7 yellow pixels in a row.
+
+Instead of encoding redundant data: yellow
+pixel, yellow pixel, yellow pixel, and so
+
+on, we can just say “there’s 7 yellow
+pixels in a row” by inserting an extra byte
+
+that specifies the length of the run, like
+so:
+
+And then we can eliminate the redundant data
+behind it.
+
+To ensure that computers don’t get confused
+with which bytes are run lengths and which
+
+bytes represent color, we have to be consistent
+in how we apply this scheme.
+
+So, we need to preface all pixels with their
+run-length.
+
+In some cases, this actually adds data, but
+on the whole, we’ve dramatically reduced
+
+the number of bytes we need to encode this
+image.
+
+We’re now at 24 bytes, down from 48.
+
+That’s 50% smaller!
+
+A huge saving!
+
+Also note that we haven’t lost any data.
+
+We can easily expand this back to the original
+form without any degradation.
+
+A compression technique that has this characteristic
+is called lossless compression, because we
+
+don’t lose anything.
+
+The decompressed data is identical to the
+original before compression, bit for bit.
+
+Let's take a look at another type of lossless
+compression, where blocks of data are replaced
+
+by more compact representations.
+
+This is sort of like “don’t forget to
+be awesome” being replaced by DFTBA.
+
+To do this, we need a dictionary that stores
+the mapping from codes to data.
+
+Lets see how this works for our example.
+
+We can view our image as not just a string
+of individual pixels, but as little blocks
+
+of data.
+
+For simplicity, we’re going to use pixel
+pairs, which are 6 bytes long, but blocks
+
+can be any size.
+
+In our example, there are only four pairings:
+White-yellow, black-yellow, yellow-yellow
+
+and white-white.
+
+Those are the data blocks in our dictionary
+we want to generate compact codes for.
+
+What’s interesting, is that these blocks
+occur at different frequencies.
+
+There are 4 yellow-yellow pairs, 2 white-yellow pairs, and 1 each of black-yellow and white-white.
+
+Because yellow-yellow is the most common block,
+we want that to be substituted for the most
+
+compact representation.
+
+On the other hand, black-yellow and white-white,
+can be substituted for something longer because
+
+those blocks are infrequent.
+
+One method for generating efficient codes
+is building a Huffman Tree, invented by David
+
+Huffman while he was a student at MIT in the
+1950s.
+
+His algorithm goes like this.
+
+First, you layout all the possible blocks
+and their frequencies.
+
+At every round, you select the two with the
+lowest frequencies.
+
+Here, that’s Black-Yellow and White-White,
+each with a frequency of 1.
+
+You combine these into a little tree... ...which
+have a combined frequency of 2, so we record
+
+that.
+
+And now one step of the algorithm done.
+
+Now we repeat the process.
+
+This time we have three things to choose from.
+
+Just like before, we select the two with the
+lowest frequency, put them into a little tree,
+
+and record the new total frequency of all
+the sub items.
+
+Ok, we’re almost done.
+
+This time it’s easy to select the two items
+with the lowest frequency because there are
+
+only two things left to pick.
+
+We combine these into a tree, and now we’re
+done!
+
+Our tree looks like this, and it has a very
+cool property: it’s arranged by frequency,
+
+with less common items lower down.
+
+So, now we have a tree, but you may be wondering
+how this gets us to a dictionary.
+
+Well, we use our frequency-sorted tree to
+generate the codes we need by labeling each
+
+branch with a 0 or a 1, like so:
+
+With this, we can write out our code dictionary.
+
+Yellow-yellow is encoded as just a single
+0.
+
+White-yellow is encoded as 1 0 (“one zero”)
+
+Black-Yellow is 1 1 0
+
+and finally white-white is 1 1 1.
+
+The really cool thing about these codewords
+is that there’s no way to have conflicting
+
+codes, because each path down the tree is
+unique.
+
+This means our codes are prefix-free, that
+is no code starts with another complete code.
+
+Now, let’s return to our image data and
+compress it!
+
+Our first pixel pair, white-yellow, is substituted
+for the bits “1 0”.
+
+The next pair is black-yellow, which is substituted
+for “1 1 0”.
+
+Next is yellow-yellow with the incredibly
+compact substitution of just “0”.
+
+And this process repeats for the rest of the
+image:
+
+So instead of 48 bytes of image data ...this
+process has encoded it into 14 bits -- NOT
+
+BYTES -- BITS!!
+
+That’s less than 2 bytes of data!
+
+But, don’t break out the champagne quite
+yet!
+
+This data is meaningless unless we also save
+our code dictionary.
+
+So, we’ll need to append it to the front
+of the image data, like this.
+
+Now, including the dictionary, our image data
+is 30 bytes long.
+
+That’s still a significant improvement over 48
+bytes.
+
+The two approaches we discussed, removing
+redundancies and using more compact representations,
+
+are often combined, and underlie almost all
+lossless compressed file formats, like GIF,
+
+PNG, PDF and ZIP files.
+
+Both run-length encoding and dictionary coders
+are lossless compression techniques.
+
+No information is lost; when you decompress,
+you get the original file.
+
+That’s really important for many types of
+files.
+
+Like, it’d be very odd if I zipped up a
+word document to send to you, and when you
+
+decompressed it on your computer, the text
+was different.
+
+But, there are other types of files where
+we can get away with little changes, perhaps
+
+by removing unnecessary or less important
+information, especially information that human
+
+perception is not good at detecting.
+
+And this trick underlies most lossy compression
+techniques.
+
+These tend to be pretty complicated, so we’re
+going to attack this at a conceptual level.
+
+Let’s take sound as an example.
+
+Your hearing is not perfect.
+
+We can hear some frequencies of sound better
+than others.
+
+And there are some we can’t hear at all,
+like ultrasound.
+
+Unless you’re a bat.
+
+Basically, if we make a recording of music,
+and there’s data in the ultrasonic frequency
+
+range, we can discard it, because we know
+that humans can’t hear it.
+
+On the other hand, humans are very sensitive
+to frequencies in the vocal range, like people
+
+singing, so it’s best to preserve quality
+there as much as possible.
+
+Deep bass is somewhere in between.
+
+Humans can hear it, but we’re less attuned
+to it.
+
+We mostly sense it.
+
+Lossy audio compressors takes advantage of
+this, and encode different frequency bands
+
+at different precisions.
+
+Even if the result is rougher, it’s likely
+that users won’t perceive the difference.
+
+Or at least it doesn’t dramatically affect
+the experience.
+
+And here comes the hate mail from the audiophiles!
+
+You encounter this type of audio compression
+all the time.
+
+It’s one of the reasons you sound different
+on a cellphone versus in person.
+
+The audio data is being compressed, allowing
+more people to take calls at once.
+
+As the signal quality or bandwidth get worse,
+compression algorithms remove more data, further
+
+reducing precision, which is why Skype calls
+sometimes sound like robots talking.
+
+Compared to an uncompressed audio format, like a WAV or FLAC (there we go, got the audiophiles back)
+
+compressed audio files, like MP3s,
+are often 10 times smaller.
+
+That’s a huge saving!
+
+And it’s why I’ve got a killer music collection
+on my retro iPod.
+
+Don’t judge.
+
+This idea of discarding or reducing precision
+in a manner that aligns with human perception
+
+is called perceptual coding, and it relies
+on models of human perception,
+
+which come from a field of study called Psychophysics.
+
+This same idea is the basis of lossy compressed
+image formats, most famously JPEGs.
+
+Like hearing, the human visual system is imperfect.
+
+We’re really good at detecting sharp contrasts,
+like the edges of objects, but our perceptual
+
+system isn’t so hot with subtle color variations.
+
+JPEG takes advantage of this by breaking images
+up into blocks of 8x8 pixels, then throwing
+
+away a lot of the high-frequency spatial data.
+
+For example, take this photo of our directors
+dog - Noodle.
+
+So cute!
+
+Let’s look at patch of 8x8 pixels.
+
+Pretty much every pixel is different from
+its neighbor, making it hard to compress with
+
+loss-less techniques because there’s just
+a lot going on.
+
+Lots of little details.
+
+But human perception doesn’t register all
+those details.
+
+So, we can discard a lot of that detail, and
+replace it with a simplified patch like this.
+
+This maintains the visual essence, but might
+only use 10% of the data.
+
+We can do this for all the patches in the
+image and get this result.
+
+You can still see it’s a dog, but the image
+is rougher.
+
+So, that’s an extreme example, going from
+a slightly compressed JPEG to a highly compressed
+
+one, one-eighth the original file size.
+
+Often, you can get away with a quality somewhere
+in between, and perceptually, it’s basically
+
+the same as the original.
+
+The one on the left is one-third the file
+size of the one on the right.
+
+That’s a big savings for essentially the
+same thing.
+
+Can you tell the difference between the two?
+
+Probably not, but I should mention that video
+compression plays a role in that too, since
+
+I’m literally being compressed in a video
+right now.
+
+Videos are really just long sequences of images,
+so a lot of what I said about them applies
+
+here too.
+
+But videos can do some extra clever stuff,
+because between frames, a lot of pixels are
+
+going to be the same.
+
+Like this whole background behind me!
+
+This is called temporal redundancy.
+
+We don’t need to re-transmit those pixels
+every frame of the video.
+
+We can just copy patches of data forward.
+
+When there are small pixel differences, like
+the readout on this frequency generator behind
+
+me, most video formats send data that encodes
+just the difference between patches, which
+
+is more efficient than re-transmitting all
+the pixels afresh, again taking advantage
+
+of inter-frame similarity.
+
+The fanciest video compression formats go
+one step further.
+
+They find patches that are similar between
+frames, and not only copy them forward, with
+
+or without differences, but also can apply
+simple effects to them, like a shift or rotation.
+
+They can also lighten or darken a patch between
+frames.
+
+So, if I move my hand side to side like this
+the video compressor will identify the similarity,
+
+capture my hand in one or more patches, then
+just move these patches around between frames.
+
+You’re actually seeing my hand from the
+past… kinda freaky, but it uses a lot less data.
+
+MPEG-4 videos, a common standard, are often
+20 to 200 times smaller than the original,
+
+uncompressed file.
+
+However, encoding frames as translations and
+rotations of patches from previous frames
+
+can go horribly wrong when you compress too
+heavily, and there isn’t enough space to
+
+update pixel data inside of the patches.
+
+The video player will forge ahead, applying
+the right motions, even if the patch data
+
+is wrong.
+
+And this leads to some hilarious and trippy
+effects, which I’m sure you’ve seen.
+
+Overall, it’s extremely useful to have compression techniques for all the types of data I discussed today.
+
+(I guess our imperfect vision and hearing
+are “useful,” too.)
+
+And it’s important to know about compression
+because it allows users to store pictures,
+
+music, and videos in efficient ways.
+
+Without it, streaming your favorite Carpool
+Karaoke videos on YouTube would be nearly
+
+impossible, due to bandwidth and the economics
+of transmitting that volume of data for free.
+
+And now when your Skype calls sound like they’re
+being taken over by demons, you’ll know
+
+what’s really going on.
+
+I’ll see you next week.
+
+Hey guys, this week’s episode was brought
+to you by CuriosityStream which is a streaming
+
+service full of documentaries and non­fiction
+titles from some really great filmmakers,
+
+including exclusive originals.
+
+Now I normally give computer science recommendations since this is Crash Course Computer Science and all
+
+and Curiosity Stream has a ton of
+great ones.  But you absolutely have to check
+
+out “Miniverse” starring everyone’s
+favorite space-station-singing-Canadian astronaut,
+
+Chris Hadfield, as he takes a roadtrip across
+the Solar System scaled down the the size
+
+of the United States.
+
+It’s basically 50 minutes of Chris and his
+passengers geeking out about our amazing planetary
+
+neighbors and you don’t want to miss it.
+
+So get unlimited access today, and your first two months are free if you sign up at curiositystream.com/crashcourse
+
+and use the promo code "crashcourse" during the sign up process.
+

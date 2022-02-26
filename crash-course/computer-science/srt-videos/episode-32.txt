@@ -1,0 +1,579 @@
+Hi, I’m Carrie Anne, and welcome to CrashCourse
+Computer Science!
+
+Over the last three episodes, we’ve talked
+about how computers have become interconnected,
+
+allowing us to communicate near-instantly
+across the globe.
+
+But, not everyone who uses these networks
+is going to play by the rules, or have our
+
+best interests at heart.
+
+Just as how we have physical security like
+locks, fences and police officers to minimize
+
+crime in the real world, we need cybersecurity
+to minimize crime and harm in the virtual
+
+world.
+
+Computers don’t have ethics.
+
+Give them a formally specified problem and
+they’ll happily pump out an answer at lightning
+
+speed.
+
+Running code that takes down a hospital’s
+computer systems until a ransom is paid is
+
+no different to a computer than code that
+keeps a patient's heart beating.
+
+Like the Force, computers can be pulled to
+the light side or the dark side.
+
+Cybersecurity is like the Jedi Order, trying
+to bring peace and justice to the cyber-verse.
+
+INTRO
+
+The scope of cybersecurity evolves as fast
+as the capabilities of computing, but we can
+
+think of it as a set of techniques to protect
+the secrecy, integrity and availability of
+
+computer systems and data against threats.
+
+Let’s unpack those three goals:
+
+Secrecy, or confidentiality, means that only
+authorized people should be able to access
+
+or read specific computer systems and data.
+
+Data breaches, where hackers reveal people’s
+credit card information, is an attack on secrecy.
+
+Integrity means that only authorized people
+should have the ability to use or modify systems
+
+and data.
+
+Hackers who learn your password and send e-mails
+masquerading as you, is an integrity attack.
+
+And availability means that authorized people
+should always have access to their systems
+
+and data.
+
+Think of Denial of Service Attacks, where
+hackers overload a website with fake requests
+
+to make it slow or unreachable for others.
+
+That’s attacking the service’s availability.
+
+To achieve these three general goals, security
+experts start with a specification of who
+
+your “enemy” is, at an abstract level,
+called a threat model.
+
+This profiles attackers: their capabilities,
+goals, and probable means of attack – what’s
+
+called, awesomely enough, an attack vector.
+
+Threat models let you prepare against specific
+threats, rather than being overwhelmed by
+
+all the ways hackers could get to your systems
+and data.
+
+And there are many, many ways.
+
+Let’s say you want to “secure” physical
+access to your laptop.
+
+Your threat model is a nosy roommate.
+
+To preserve the secrecy, integrity and availability
+of your laptop, you could keep it hidden in
+
+your dirty laundry hamper.
+
+But, if your threat model is a mischievous
+younger sibling who knows your hiding spots,
+
+then you’ll need to do more: maybe lock
+it in a safe.
+
+In other words, how a system is secured depends
+heavily on who it’s being secured against.
+
+Of course, threat models are typically a bit
+more formally defined than just “nosy roommate”.
+
+Often you’ll see threat models specified
+in terms of technical capabilities.
+
+For example, “someone who has physical access
+to your laptop along with unlimited time”.
+
+With a given threat model, security architects
+need to come up with a solution that keeps
+
+a system secure – as long as certain assumptions
+are met, like no one reveals their password
+
+to the attacker.
+
+There are many methods for protecting computer
+systems, networks and data.
+
+A lot of security boils down to two questions: who are you, and what should you have access to?
+
+Clearly, access should be given to the right
+people, but refused to the wrong people.
+
+Like, bank employees should be able to open
+ATMs to restock them, but not me… because
+
+I’d take it all... all of it!
+
+That ceramic cat collection doesn’t buy
+itself!
+
+So, to differentiate between right and wrong
+people, we use authentication - the process
+
+by which a computer understands who it’s
+interacting with.
+
+Generally, there are three types, each with
+their own pros and cons:
+
+What you know.
+
+What you have.
+
+And what you are.
+
+What you know authentication is based on knowledge
+of a secret that should be known only by the
+
+real user and the computer, for example, a
+username and password.
+
+This is the most widely used today because
+it’s the easiest to implement.
+
+But, it can be compromised if hackers guess
+or otherwise come to know your secret.
+
+Some passwords are easy for humans to figure
+out, like 12356 or q-w-e-r-t-y.
+
+But, there are also ones that are easy for
+computers.
+
+Consider the PIN: 2580.
+
+This seems pretty difficult to guess – and
+it is – for a human.
+
+But there are only ten thousand possible combinations
+of 4-digit PINs.
+
+A computer can try entering 0000, then try
+0001, and then 0002, all the way up to 9999...
+
+in a fraction of a second.
+
+This is called a brute force attack, because
+it just tries everything.
+
+There’s nothing clever to the algorithm.
+
+Some computer systems lock you out, or have
+you wait a little, after say three wrong attempts.
+
+That’s a common and reasonable strategy,
+and it does make it harder for less sophisticated
+
+attackers.
+
+But think about what happens if hackers have
+already taken over tens of thousands of computers,
+
+forming a botnet.
+
+Using all these computers, the same pin – 2580
+– can be tried on many tens of thousands
+
+of bank accounts simultaneously.
+
+Even with just a single attempt per account,
+they’ll very likely get into one or more
+
+that just happen to use that PIN.
+
+In fact, we’ve probably guessed the pin
+of someone watching this video!
+
+Increasing the length of PINs and passwords
+can help, but even 8 digit PINs are pretty
+
+easily cracked.
+
+This is why so many websites now require you
+to use a mix of upper and lowercase letters,
+
+special symbols, and so on – it explodes
+the number of possible password combinations.
+
+An 8-digit numerical PIN only has a hundred
+million combinations – computers eat that
+
+for breakfast!
+
+But an 8-character password with all those
+funky things mixed in has more than 600 trillion
+
+combinations.
+
+Of course, these passwords are hard for us
+mere humans to remember, so a better approach
+
+is for websites to let us pick something more
+memorable, like three words joined together:
+
+“green brothers rock” or “pizza tasty
+yum”.
+
+English has around 100,000 words in use, so
+putting three together would give you roughly
+
+1 quadrillion possible passwords. Good luck trying to guess that!
+
+I should also note here that using non-dictionary
+words is even better against more sophisticated
+
+kinds of attacks, but we don’t have time
+to get into that here.
+
+Computerphile has a great video on choosing
+a password - link in the dooblydoo.
+
+What you have authentication, on the other
+hand, is based on possession of a secret token
+
+that only the real user has.
+
+An example is a physical key and lock.
+
+You can only unlock the door if you have the
+key.
+
+This escapes this problem of being “guessable”.
+
+And they typically require physical presence,
+so it’s much harder for remote attackers
+
+to gain access.
+
+Someone in another country can’t gain access
+to your front door in Florida without getting
+
+to Florida first.
+
+But, what you have authentication can be compromised
+if an attacker is physically close.
+
+Keys can be copied, smartphones stolen, and
+locks picked.
+
+Finally, what you are authentication is based
+on... you!
+
+You authenticate by presenting yourself to
+the computer.
+
+Biometric authenticators, like fingerprint
+readers and iris scanners are classic examples.
+
+These can be very secure, but the best technologies
+are still quite expensive.
+
+Furthermore, data from sensors varies over
+time.
+
+What you know and what you have authentication
+have the nice property of being deterministic
+
+– either correct or incorrect.
+
+If you know the secret, or have the key, you’re
+granted access 100% of the time.
+
+If you don’t, you get access zero percent
+of the time.
+
+Biometric authentication, however, is probabilistic.There’s some chance the system won’t recognize you…
+
+maybe you’re wearing a hat or the lighting
+is bad.
+
+Worse, there’s some chance the system will
+recognize the wrong person as you – like
+
+your evil twin!
+
+Of course, in production systems, these chances
+are low, but not zero.
+
+Another issue with biometric authentication
+is it can’t be reset.
+
+You only have so many fingers, so what happens if an attacker compromises your fingerprint data?
+
+This could be a big problem for life.
+
+And, recently, researchers showed it’s possible
+to forge your iris just by capturing a photo
+
+of you, so that’s not promising either.
+
+Basically, all forms of authentication have
+strengths and weaknesses, and all can be compromised
+
+in one way or another.
+
+So, security experts suggest using two or
+more forms of authentication for important
+
+accounts.
+
+This is known as two-factor or multi-factor
+authentication.
+
+An attacker may be able to guess your password
+or steal your phone: but it’s much harder
+
+to do both.
+
+After authentication comes Access Control.
+
+Once a system knows who you are, it needs
+to know what you should be able to access,
+
+and for that there’s a specification of
+who should be able to see, modify and use what.
+
+This is done through Permissions or Access
+Control Lists (ACL), which describe what access
+
+each user has for every file, folder and program
+on a computer.
+
+“Read” permission allows a user to see
+the contents of a file, “write” permission
+
+allows a user to modify the contents, and
+“execute” permission allows a user to
+
+run a file, like a program.
+
+For organizations with users at different
+levels of access privilege – like a spy
+
+agency – it’s especially important for
+Access Control Lists to be configured correctly
+
+to ensure secrecy, integrity and availability.
+
+Let’s say we have three levels of access:
+public, secret and top secret.
+
+The first general rule of thumb is that people
+shouldn’t be able to “read up”.
+
+If a user is only cleared to read secret files,
+they shouldn’t be able to read top secret
+
+files, but should be able to access secret
+and public ones.
+
+The second general rule of thumb is that people
+shouldn’t be able to “write down”.
+
+If a member has top secret clearance, then
+they should be able to write or modify top
+
+secret files, but not secret or public files.
+
+It may seem weird that even with the highest clearance, you can’t modify less secret files.
+
+But, it guarantees that there’s no accidental
+leakage of top secret information into secret
+
+or public files.
+
+This “no read up, no write down” approach
+is called the Bell-LaPadula model.
+
+It was formulated for the U.S. Department
+of Defense’s Multi-Level Security policy.
+
+There are many other models for access control
+– like the Chinese Wall model and Biba model.
+
+Which model is best depends on your use-case.
+
+Authentication and access control help a computer
+determine who you are and what you should
+
+access, but depend on being able to trust
+the hardware and software that run the authentication
+
+and access control programs.
+
+That’s a big dependence.
+
+If an attacker installs malicious software
+– called malware – compromising the host
+
+computer’s operating system, how can we
+be sure security programs don’t have a backdoor
+
+that let attackers in?
+
+The short answer is… we can’t.
+
+We still have no way to guarantee the security
+of a program or computing system.
+
+That’s because even while security software
+might be “secure” in theory, implementation
+
+bugs can still result in vulnerabilities.
+
+But, we do have techniques to reduce the likelihood
+of bugs, quickly find and patch bugs when
+
+they do occur, and mitigate damage when a
+program is compromised.
+
+Most security errors come from implementation
+error.
+
+To reduce implementation error, reduce implementation.
+
+One of the holy grails of system level security
+is a “security kernel” or a “trusted
+
+computing base”: a minimal set of operating system software that’s close to provably secure.
+
+A challenge in constructing these security
+kernels is deciding what should go into it.
+
+Remember, the less code, the better!
+
+Even after minimizing code bloat, it would
+be great to “guarantee” that code as written
+
+is secure.
+
+Formally verifying the security of code is
+an active area of research.
+
+The best we have right now is a process called
+Independent Verification and Validation.
+
+This works by having code audited by a crowd
+of security-minded developers.
+
+This is why security code is almost always
+open-sourced.
+
+It’s often difficult for people who wrote
+the original code to find bugs, but external
+
+developers, with fresh eyes and different
+expertise, can spot problems.
+
+There are also conferences where like-minded
+hackers and security experts can mingle and
+
+share ideas, the biggest of which is DEF CON,
+held annually in Las Vegas.
+
+Finally, even after reducing code and auditing
+it, clever attackers are bound to find tricks
+
+that let them in.
+
+With this in mind, good developers should
+take the approach that, not if, but when their
+
+programs are compromised, the damage should
+be limited and contained, and not let it compromise
+
+other things running on the computer.
+
+This principle is called isolation.
+
+To achieve isolation, we can “sandbox”
+applications.
+
+This is like placing an angry kid in a sandbox;
+when the kid goes ballistic, they only destroy
+
+the sandcastle in their own box, but other
+kids in the playground continue having fun.
+
+Operating Systems attempt to sandbox applications
+by giving each their own block of memory that
+
+others programs can’t touch.
+
+It’s also possible for a single computer
+to run multiple Virtual Machines, essentially
+
+simulated computers, that each live in their
+own sandbox.
+
+If a program goes awry, worst case is that
+it crashes or compromises only the virtual
+
+machine on which it’s running.
+
+All other Virtual Machines running on the
+computer are isolated and unaffected.
+
+Ok, that’s a broad overview of some key
+computer security topics.
+
+And I didn’t even get to network security,
+like firewalls.
+
+Next episode, we’ll discuss some specific
+example methods hackers use to get into computer
+
+systems.
+
+After that, we’ll touch on encryption.
+
+Until then, make your passwords stronger,
+turn on 2-factor authentication, and NEVER
+
+click links in unsolicited emails!
+
+I’ll see you next week.
+

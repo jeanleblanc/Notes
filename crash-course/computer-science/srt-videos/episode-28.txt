@@ -1,0 +1,564 @@
+Salut, je suis Carrie Anne, et bienvenue à CrashCourse
+L'informatique!
+
+L'Internet est incroyable.
+
+En seulement quelques frappes de touches, nous pouvons diffuser des vidéos
+sur Youtube - Bonjour! - lire des articles sur Wikipédia,
+
+commander des fournitures sur le chat vidéo avec amazon,
+amis et tweet sur le temps.
+
+Sans aucun doute, la capacité pour les ordinateurs,
+et leurs utilisateurs, d'envoyer et de recevoir de l'information
+
+sur une approche globale
+réseau de télécommunications changé pour toujours
+
+le monde.
+
+Il y a 150 ans, l'envoi d'une lettre de Londres
+en Californie aurait pris deux à trois
+
+semaines, et c'est si vous avez payé pour express
+courrier.
+
+Aujourd'hui, cet email prend une fraction de seconde.
+
+Cette amélioration millions de fois la latence,
+c'est le temps qu'il faut pour un message
+
+le transfert, l'économie juiced mondiale aidant
+le monde moderne de se déplacer à la vitesse de la lumière
+
+sur des câbles à fibres optiques à travers le globe.
+
+Vous pourriez penser que les ordinateurs et les réseaux
+toujours est allé main dans la main, mais en fait plus
+
+ordinateurs pré-1970 bourdonnaient loin tout seul.
+
+Cependant, comme de gros ordinateurs ont commencé à apparaître
+partout, et les machines à bas prix ont commencé
+
+de se présenter sur les bureaux des gens, il est devenu
+de plus en plus utile pour partager des données et des ressources,
+
+et les premiers réseaux d'ordinateurs sont apparus.
+
+Aujourd'hui, nous allons commencer une période de trois épisodes
+arc sur la façon dont les réseaux informatiques a vu le jour
+
+et les principes fondamentaux et techniques
+qui leur pouvoir.
+
+INTRO
+
+Les premiers réseaux informatiques sont apparus dans le
+Années 1950 et 60.
+
+Ils étaient généralement employés dans une organisation
+- comme une entreprise ou un laboratoire de recherche - à
+
+faciliter l'échange d'informations entre
+différentes personnes et des ordinateurs.
+
+Cela a été plus rapide et plus fiable que le
+méthode précédente d'avoir quelqu'un marcher une pile
+
+des cartes perforées, ou une bobine de bande magnétique,
+à un ordinateur de l'autre côté d'un bâtiment
+
+- qui a été surnommé plus tard sneakernet.
+
+Un deuxième avantage des réseaux est la capacité
+de partager les ressources physiques.
+
+Par exemple, au lieu de chaque ordinateur ayant
+sa propre imprimante, tout le monde pourrait partager un
+
+connecté au réseau.
+
+Il était également fréquent sur les premiers réseaux ont
+grand, partagé, les lecteurs de stockage, les trop chers
+
+avoir attaché à chaque machine.
+
+Ces réseaux relativement faibles de près par
+les ordinateurs sont appelés réseaux locaux,
+
+ou les réseaux locaux.
+
+Un réseau local peut être aussi petit que deux machines
+la même pièce, ou aussi grand comme une université
+
+le campus avec des milliers d'ordinateurs.
+
+Bien que de nombreuses technologies LAN ont été développées
+et déployé, le plus célèbre et succesful
+
+était Ethernet, développé au début des années 1970
+chez Xerox PARC, et encore employé couramment aujourd'hui.
+
+Dans sa forme la plus simple, une série d'ordinateurs
+sont reliés à un seul câble Ethernet commun.
+
+Lorsqu'un ordinateur veut transmettre des données à
+un autre ordinateur, il écrit les données, comme
+
+signal électrique, sur le câble.
+
+Bien sûr, parce que le câble est partagé, tous les
+ordinateur branché sur le réseau voit le
+
+transmission, mais ne sait pas si les données sont
+destiné à eux ou un autre ordinateur.
+
+Pour résoudre ce problème, Ethernet exige que
+chaque ordinateur dispose d'un contrôle d'accès au support unique,
+
+adresse ou adresse MAC.
+
+Cette adresse unique est mis en un en-tête
+préfixes toutes les données envoyées sur le réseau.
+
+Ainsi, les ordinateurs écoutent simplement l'Ethernet
+câble et seules les données de processus quand ils voient
+
+leur adresse dans l'en-tête.
+
+Cela fonctionne vraiment bien; chaque ordinateur fait
+aujourd'hui est livré avec sa propre adresse MAC unique
+
+pour Ethernet et WiFi.
+
+Le terme général de cette approche est porteuse
+Sense Multiple Access, ou CSMA pour faire court.
+
+Le « transporteur », dans ce cas, est tout partagé
+milieu de transmission qui transporte des données - cuivre
+
+fil dans le cas d'Ethernet, et l'air
+portant des ondes radio pour le WiFi.
+
+De nombreux ordinateurs peuvent détecter simultanément la
+porte, d'où le « sens » et « Multiple
+
+Accès », et la vitesse à laquelle un transporteur
+peut transmettre des données est appelé sa bande passante.
+
+Malheureusement, en utilisant un support partagé a
+un gros inconvénient.
+
+Lorsque le trafic réseau est léger, les ordinateurs peuvent
+il suffit d'attendre le silence sur le support, et
+
+puis transmettre leurs données.
+
+Mais, comme l'augmentation du trafic réseau, la probabilité
+que deux ordinateurs tenteront d'écrire des données
+
+en même temps, augmente également.
+
+On appelle cela une collision, et les données se
+tous brouillées haut, comme deux personnes qui tentent de
+
+parler au téléphone en même temps.
+
+Heureusement, les ordinateurs peuvent détecter ces collisions
+en écoutant le signal sur le fil.
+
+La solution la plus évidente est pour les ordinateurs
+pour arrêter la transmission, attendez le silence, puis
+
+réessayer.
+
+Le problème est, l'autre ordinateur va
+essayer aussi, et d'autres ordinateurs sur le réseau
+
+qui ont été en attente pour le transporteur
+aller silence va essayer de sauter au cours d'une pause.
+
+Cela conduit juste de plus en plus de collisions.
+
+Bientôt, tout le monde parle plus d'un autre
+et a un arriéré de choses dont ils ont besoin de dire,
+
+comme la rupture avec un petit ami sur une famille
+dîner de vacances.
+
+Terrible idée!
+
+Ethernet avait un étonnamment simple et efficace
+réparer.
+
+Lors de la transmission des ordinateurs détectent une collision,
+ils attendent pendant une brève période avant de
+
+de re-transmission.
+
+À titre d'exemple, disons que 1 seconde.
+
+Bien sûr, cela ne fonctionne pas si tous les
+ordinateurs utilisent la même durée d'attente - ils vont
+
+juste entrer en collision à nouveau une seconde plus tard.
+
+Ainsi, une période aléatoire est ajouté: un ordinateur
+pourrait attendre 1,3 secondes, tandis qu'un autre attend
+
+1,5 seconde.
+
+Avec un peu de chance, l'ordinateur qui a attendu 1.3
+secondes se réveilleront, trouver le transporteur
+
+se taire, et commencer à transmettre.
+
+Lorsque 1,5 deuxième ordinateur se réveille un moment
+plus tard, il va voir le transporteur est en cours d'utilisation,
+
+et attendra l'autre ordinateur pour terminer.
+
+Cela aide certainement, mais ne pas tout à fait
+résoudre le problème, donc un tour supplémentaire est utilisé.
+
+Comme je viens de l'expliquer, si un ordinateur détecte
+une collision lors de la transmission, il attendra
+
+1 seconde plus un peu de temps au hasard.
+
+Cependant, si elle entre en collision à nouveau, ce qui suggère
+la congestion du réseau, au lieu d'attendre une autre
+
+1 seconde cette fois-ci attendra 2 secondes.
+
+Si elle entre en collision à nouveau, il va attendre 4 secondes,
+puis 8, puis 16, et ainsi de suite, jusqu'à ce que
+
+il est réussi.
+
+Avec les ordinateurs reculant, le taux de collisions
+descend, et des données commence à se déplacer à nouveau, libérant
+
+le réseau.
+
+Dîner en famille sauvé!
+
+Ce comportement « reculant » à l'aide d'une façon exponentielle
+de plus en plus le temps d'attente est appelé Exponentielle backoff.
+
+Ethernet et WiFi utilisent, et ainsi faire beaucoup de
+les protocoles de transmission.
+
+Mais même avec des trucs intelligents comme Exponentielle
+Backoff, vous pourriez ne jamais avoir une université de toute
+
+la valeur d'ordinateurs sur un Ethernet partagé
+câble.
+
+Pour réduire les collisions et améliorer l'efficacité,
+nous devons réduire le nombre d'appareils sur
+
+tout transporteur partagé étant donné - ce qu'on appelle
+le domaine de collision.
+
+Laissez revenir à notre exemple Ethernet plus tôt,
+où nous avions six ordinateurs sur un même câble,
+
+alias un domaine de collision.
+
+Pour réduire la probabilité de collisions, nous
+peut briser ce réseau en deux collision
+
+domaines à l'aide d'un commutateur réseau.
+
+Il se trouve entre nos deux petits réseaux,
+et ne laisse passer que des données entre eux si nécessaire.
+
+Elle le fait en gardant une liste de ce que MAC
+adresses sont de quel côté du réseau.
+
+Donc, si A veut transmettre à C, le commutateur
+ne transmet pas les données à l'autre réseau
+
+- il n'y a pas besoin.
+
+Cela signifie que si E veut transmettre à F au
+En même temps, le réseau est grand ouvert, et
+
+deux transmissions peuvent se produire à la fois.
+
+Mais, si F veut envoyer des données à A, la
+l'interrupteur qui passe à travers, et les deux réseaux
+
+sont à la fois brièvement occupé.
+
+Ceci est essentiellement la taille des réseaux informatiques
+sont réalisés, y compris la plus grande
+
+de tous - Internet - qui a littéralement
+inter-relie un groupe de petits réseaux,
+
+permettant une communication inter-réseaux.
+
+Ce qui est intéressant au sujet de ces grands réseaux,
+est qu'il ya des chemins souvent multiples à
+
+obtenir des données d'un endroit à l'autre.
+
+Et cela nous amène à une autre fondamentale
+sujet en réseau, le routage.
+
+La façon la plus simple de se connecter deux ordinateurs distants,
+ou des réseaux, est en affectant une communication
+
+ligne pour leur usage exclusif.
+
+Voici comment les systèmes téléphoniques au début travaillé.
+
+Par exemple, il pourrait y avoir 5 lignes téléphoniques
+passant entre Indianapolis et Missoula.
+
+Si John a pris le téléphone vouloir appeler
+Hank, dans les années 1910, John raconterait un être humain
+
+opérateur où il voulait appeler, et ils avaient
+connecter physiquement la ligne téléphonique de John en
+
+une ligne en cours d'exécution utilisé pour Missoula.
+
+Pour la durée de l'appel, cette ligne était
+occupé, et si toutes les 5 lignes étaient déjà
+
+en cours d'utilisation, John devrait attendre un à
+devenir libre.
+
+Cette approche est appelée commutation de circuit,
+parce que vous passez littéralement toute
+
+circuits pour acheminer le trafic vers la bonne destination.
+
+Il fonctionne très bien, mais il est relativement rigide
+et coûteux, parce qu'il ya souvent utilisé
+
+capacité.
+
+A la hausse, une fois que vous avez une ligne pour vous
+- ou si vous avez l'argent pour acheter un pour
+
+votre usage privé - vous pouvez l'utiliser à son
+pleine capacité, sans avoir à partager.
+
+Pour cette raison, les militaires, les banques et autres
+opérations de haute importance acheter encore dédié
+
+circuits pour connecter leurs centres de données.
+
+Une autre approche pour obtenir des données d'un
+endroit à l'autre est de commutation de messages, qui
+
+est un peu comme la façon dont fonctionne le système postal.
+
+Au lieu de la route dédiée de A à B, les messages
+sont passés à travers plusieurs arrêts.
+
+Donc, si John écrit une lettre à Hank, il pourrait
+aller de Indianapolis à Chicago, puis
+
+hop à Minneapolis, puis Billings, puis
+enfin rendre à Missoula.
+
+Chaque arrêt sait où l'envoyer ensuite parce que
+ils gardent une table où passer des lettres
+
+donné une adresse de destination.
+
+Ce qui est propre sur le passage du message est que
+il peut utiliser des voies différentes, ce qui rend la communication
+
+plus fiable et tolérant aux pannes.
+
+Coller avec notre exemple de courrier, s'il y a
+une tempête de neige dans les choses de broyage Minneapolis
+
+à l'arrêt, le centre de courrier de Chicago peut décider
+pour acheminer la lettre par Omaha à la place.
+
+Dans notre exemple, les villes agissent comme réseau
+routeurs.
+
+Le nombre de sauts prend un message le long d'une
+la route est appelée le nombre de sauts.
+
+Garder la trace du nombre de sauts est utile car
+il peut aider à identifier les problèmes de routage.
+
+Par exemple, disons que Chicago pense que le
+itinéraire le plus rapide à Missoula est par Omaha,
+
+mais Omaha pense que la voie la plus rapide est par
+Chicago.
+
+C'est mauvais, parce que les deux villes vont
+de regarder l'adresse de destination, Missoula,
+
+et finissent par passer d'avant en arrière le message
+entre eux, sans cesse.
+
+Non seulement ce gaspillage de bande passante, mais il est
+une erreur de routage qui doit se fixe!
+
+Ce genre d'erreur peut être détectée, car
+le nombre de sauts est enregistré avec le message et
+
+mis à jour le long de son voyage.
+
+Si vous commencez à voir des messages avec hop haute
+compte, vous pouvez parier que quelque chose a mal tourné
+
+dans le routage!
+
+Ce seuil est la limite Hop.
+
+Un inconvénient de commutation de messages est que les messages
+sont parfois grande.
+
+Ainsi, ils peuvent obstruer le réseau, parce que
+le message entier doit être transmis de
+
+un arrêt à l'autre avant de continuer
+son chemin.
+
+Alors qu'un gros fichier est transféré, que tout
+lien est lié.
+
+Même si vous avez un petit, un e-mail de kilooctet
+en essayant de passer à travers, soit il doit attendre
+
+pour le grand transfert de fichiers pour terminer ou prendre
+une route moins efficace.
+
+C'est mauvais.
+
+La solution consiste à hacher grandes transmissions
+en plusieurs petits morceaux, appelés paquets.
+
+Tout comme avec la commutation de messages, chaque paquet
+contient une adresse de destination sur le réseau,
+
+si les routeurs savent où les transmettre.
+
+Ce format est défini par la « Internet
+Protocole » ou IP pour faire court, une norme créée
+
+dans les années 1970.
+
+Chaque ordinateur connecté à un réseau obtient
+une adresse IP.
+
+Vous avez probablement vu ces quatre, 8 bits
+nombres écrits avec des points entre les deux.
+
+Par exemple, 172.217.7.238 est une adresse IP
+pour l'un des serveurs de Google.
+
+Avec des millions d'ordinateurs en ligne, tout échange
+les données, les goulots d'étranglement peuvent apparaître et disparaître
+
+en millisecondes.
+
+routeurs de réseau essaient d'équilibrer en permanence
+la charge sur ce que les routes qu'ils connaissent
+
+pour assurer la livraison rapide et fiable, qui
+est appelé contrôle de congestion.
+
+Parfois, des paquets différents de la même
+un message prendre différentes routes à travers un réseau.
+
+Cela ouvre la possibilité de paquets arrivant
+à leur destination est hors service, ce qui est
+
+un problème pour certaines applications.
+
+Heureusement, il existe des protocoles qui fonctionnent
+au-dessus de la propriété intellectuelle, comme TCP / IP, qui manient cette
+
+problème.
+
+Nous parlerons plus que la semaine prochaine.
+
+Hacher les données en petits paquets, et le passage
+ceux-ci le long des axes flexibles avec une capacité de réserve,
+
+est si efficace et tolérant aux pannes, il est
+ce que l'Internet entier fonctionne aujourd'hui.
+
+Cette approche de routage est appelée commutation de paquets.
+
+Il a également la belle propriété d'être décentralisé,
+sans autorité centrale ou d'un point unique
+
+de l'échec.
+
+En fait, la menace d'une attaque nucléaire est pourquoi
+la commutation de paquets a été développée au cours de la
+
+guerre froide!
+
+Aujourd'hui, les routeurs partout dans le monde travail en coopération
+pour trouver des routages efficaces, l'échange d'informations
+
+les uns avec les autres en utilisant des protocoles spéciaux, comme
+Control Message Protocol Internet (ICMP)
+
+et le Border Gateway Protocol (BGP).
+
+premier réseau à commutation de paquets au monde,
+et l'ancêtre de l'Internet moderne, était
+
+l'ARPANET, du nom de l'agence américaine qui
+financés, il les projets de recherche avancée
+
+Agence.
+
+Voici ce que l'ensemble ressemblait à ARPANET
+en 1974.
+
+Chaque petit cercle est un endroit, comme un
+université ou laboratoire de recherche, qui a fonctionné
+
+un routeur.
+
+Ils ont également branché un ou plusieurs ordinateurs
+- vous pouvez voir PDP-1, 360s IBM System,
+
+et même un ATLAS à Londres connecté sur
+une liaison satellite.
+
+Il est évident que l'Internet a augmenté à pas
+et les limites dans les décennies depuis.
+
+Aujourd'hui, au lieu de quelques dizaines d'ordinateurs en ligne,
+on estime à presque 10 milliards.
+
+Et il continue de croître rapidement, en particulier
+avec l'avènement des réfrigérateurs connectés wifi
+
+et d'autres appareils intelligents, la formation d'un « Internet
+de choses".
+
+Donc, cela fait partie d'un - un aperçu de l'ordinateur
+réseaux.
+
+Est-ce une série de tubes?
+
+Eh bien, en quelque sorte.
+
+La semaine prochaine, nous allons aborder un certain niveau supérieur
+protocoles de transmission, travaillant lentement notre
+
+chemin jusqu'à la World Wide Web.
+
+À plus!
+

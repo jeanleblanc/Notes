@@ -1,0 +1,7 @@
+# Introduction
+
+*Les informations ci-présentes sont tirées du cours de Lily Gladstone (actrice) sur la chaine crash course.*
+Caméras, lumières, microphones, acteurs, maquillage, costumes et effets spéciaux, ils ont assemblé toutes ces pièces de puzzle pour réaliser un tour incroyable et nous communiquer des idées et des émotions sur un écran en deux dimensions. Ils nous font rire pleurer crier couvrir nos yeux.
+En effet, chaque film commence par une idée, c'est peut-être une grande vision d'une guerre intergalactique ou une petite et tendre histoire sur une femme marchant à travers le pays avec son chien ; dans les deux sens, ces deux idées subissent de nombreuses transformations avant d'arriver dans une salle de cinéma, sur Netflix ou sur Blu-ray.
+Mais comment ? comment prendre une idée et la transformer en quelque chose que vous pouvez montrer aux gens. Comment intéresser les gens à vous aider ? Comment faite vous le casting ? Comment pouvez-vous le monter, le réaliser ? allez-vous le diriger ? Mais en fait, que fait réelement un directeur ? qu'est-ce qu'un producteur de toute façon ? On en a réelement besoin d'un ? Laissons les producteurs pour le moment, mais retenons que en effet, ils sont vraiment necessaire. Savez-vous combiens ça va couter ? deux cents millions ou deux cents milles ?
+Tout cela, c'est ce qu'ici, nous allons essayer de demystifier. Travailler sur un film est en effett très amusant et exitant, mais cela peut se transformer en chaos si vous n'êtes pas préparé ou attentif !

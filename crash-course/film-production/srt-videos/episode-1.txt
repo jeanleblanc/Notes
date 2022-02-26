@@ -1,0 +1,740 @@
+Hi!
+Salut! 
+
+I’m not Craig.
+Je ne suis pas Craig.
+
+But you’re in the right place; this is still
+Crash Course Film.
+Mais vous êtes au bon endroit;  c'est toujours
+Crash Course Film.
+
+My name is Lily Gladstone, and I’m excited
+to spend the next fifteen episodes with
+Je m'appelle Lily Gladstone et je suis ravie
+de passer les quinze prochains épisodes avec
+
+you exploring film production – how movies
+actually get made.
+vous à explorer la production cinématographique - comment les films sont
+réellement réalisés.
+
+We’ll talk about all those jobs that are
+listed in the credits, and how movies take
+Nous parlerons de tous ces emplois
+répertoriés dans le générique et de la façon dont les films nécessitent
+
+a huge amount of collaboration, whether
+you have a crew of tens or thousands.
+une énorme collaboration, que
+vous ayez une équipe de dizaines ou de milliers.
+
+We’ll go behind the scenes to see how movies
+are planned, shot, and edited, and take a
+Nous irons dans les coulisses pour voir comment les films
+sont planifiés, tournés et montés, et
+
+peek at all the equipment involved.
+jetons un coup d'œil à tout l'équipement impliqué.
+
+And we’ll learn how films are marketed and
+distributed, whether they go to movie theaters
+Et nous apprendrons comment les films sont commercialisés et
+distribués, qu'ils aillent dans les salles de cinéma
+
+or straight into your home.
+ou directement chez vous.
+
+But, before we get anywhere near lights, camera, action...
+Mais, avant que nous nous approchions des lumières, de la caméra, de l'action...
+
+We need to start with a road map that gives everyone in the cast and crew the directions they need to make a film.
+Nous devons commencer par une feuille de route qui donne à tous les acteurs et à l'équipe les directions dont ils ont besoin pour faire un film.
+
+It’s time to talk about the screenplay.
+Il est temps de parler du scénario.
+
+[Music Plays]
+[Music Plays]
+
+In most of these videos, we’ll be learning about how the vast majority of narrative fiction films get made.
+Dans la plupart de ces vidéos, nous apprendrons comment la grande majorité des films de fiction narratifs sont réalisés.
+
+And to do that, we need to start with the
+screenplay.
+Et pour cela, il faut commencer par le
+scénario.
+
+A screenplay is a written version of a movie.
+Un scénario est une version écrite d'un film.
+
+Think of it as a blueprint.
+Considérez-le comme un plan.
+
+It’s not the final product; it’s a set
+of plans to guide a team of artists, craftspeople,
+Ce n'est pas le produit final;  c'est un ensemble
+de plans pour guider une équipe d'artistes, d'artisans
+
+and engineers as they produce a film.
+et d'ingénieurs dans la production d'un film.
+
+Every screenplay is formatted with three basic
+elements: sluglines, action, and dialogue.
+Chaque scénario est formaté avec trois
+éléments de base : sluglines, action et dialogue.
+
+Each new scene begins with a slugline.
+Chaque nouvelle scène commence par une slugline.
+
+It’s written in all-capital letters and
+acts as a code to convey information to the crew.
+Il est écrit en lettres majuscules et
+agit comme un code pour transmettre des informations à l'équipage.
+
+A slugline might look something like this:
+INT.
+Une slugline pourrait ressembler à ceci :
+INT.
+
+Here the INT. stands for interior, meaning
+Ici l'INT.  signifie intérieur,
+
+this scene takes place inside.
+ce qui signifie que cette scène se déroule à l'intérieur.
+
+If the scene takes place outside, the slugline
+would start with EXT. for exterior.
+Si la scène se déroule à l'extérieur, la
+slugline commencerait par EXT.  pour l'extérieur.
+
+The second word tells us where the scene
+takes place, which is important information
+Le deuxième mot nous indique où
+se déroule la scène, ce qui est une information importante
+
+for a lot of the crew.
+pour une grande partie de l'équipage.
+
+The location scout needs to find somewhere
+to film the scene, the production designer
+Le repéreur doit trouver un endroit
+pour filmer la scène, le chef décorateur
+
+alters the location to make it fit the world
+of the film, and the cinematographer decides
+modifie le lieu pour l'adapter au monde
+du film et le directeur de la photographie décide
+
+how to light it.
+comment l'éclairer.
+
+But before any of that happens, the line producer
+uses the location to help figure out how much
+Mais avant que cela ne se produise, le producteur
+délégué utilise l'emplacement pour aider à déterminer combien
+
+the film is going to cost.
+le film va coûter.
+
+The same goes for the last word in the slugline,
+which describes when the scene takes place,
+Il en va de même pour le dernier mot de la slugline,
+qui décrit le moment où la scène se déroule,
+
+usually either day or night.
+généralement de jour ou de nuit.
+
+Besides giving information to the crew, this
+can affect the cost of the movie, partially
+En plus de donner des informations à l'équipe, cela
+peut affecter le coût du film, en partie
+
+because shooting at night is more expensive.
+parce que tourner la nuit coûte plus cher.
+
+After the slugline comes the action.
+Après la slugline vient l'action.
+
+These are short, assertive sentences that
+describe who’s in the scene and what they’re doing.
+Ce sont des phrases courtes et affirmées qui
+décrivent qui est dans la scène et ce qu'il fait.
+
+Since you watch a movie unfold over time,
+the action is written in present tense.
+Puisque vous regardez un film se dérouler dans le temps,
+l'action est écrite au présent.
+
+So instead of writing: “Iron Man flew
+across the sky,” you’d write:
+Ainsi, au lieu d'écrire : "Iron Man vole
+dans le ciel", vous écrivez :
+
+“Iron Man flies across the sky.”
+"Iron Man vole dans le ciel".
+
+The action is also limited to what the audience
+can see and hear.
+L'action se limite également à ce que le public
+peut voir et entendre.
+
+In a novel, you can describe what a character
+is thinking and feeling.
+Dans un roman, vous pouvez décrire ce qu'un
+personnage pense et ressent.
+
+Something like: “Luke Skywalker feels miserable.”
+Quelque chose comme : "Luke Skywalker se sent misérable."
+
+In the screenplay, you’d have to write an
+action to show us how he feels, like:
+Dans le scénario, il faudrait écrire une
+action pour nous montrer ce qu'il ressent, comme :
+
+“Luke Skywalker hangs his head and wipes away a tear.”
+« Luke Skywalker baisse la tête et essuie une larme.
+
+There are a lot of guidelines and tricks to
+writing action lines, but the most important
+Il existe de nombreuses directives et astuces pour
+rédiger des lignes d'action, mais la règle la plus importante
+
+rule is: show, don’t tell.
+est : montrez, ne dites pas.
+
+Remember that this is where the thoughts,
+feelings, and themes of the screenplay are
+N'oubliez pas que c'est là que les pensées, les
+sentiments et les thèmes du scénario sont
+
+turned into actions you can see.
+transformés en actions que vous pouvez voir.
+
+And the final piece of a screenplay is the
+dialogue.
+Et la dernière pièce d'un scénario est le
+dialogue.
+
+These are the words spoken by characters.
+Ce sont les mots prononcés par les personnages.
+
+Feature-length screenplays are usually between
+90 and 120 pages.
+Les scénarios de longs métrages font généralement entre
+90 et 120 pages.
+
+And each page typically becomes about a minute
+of the final film.
+Et chaque page représente généralement environ une minute
+du film final.
+
+This is more of an average than a hard rule,
+by the way.
+C'est plus une moyenne qu'une règle stricte, soit dit
+en passant.
+
+Some dialogue-heavy pages will likely be shorter
+than a minute, while some pages with lots
+Certaines pages contenant beaucoup de dialogues seront probablement plus courtes
+qu'une minute, tandis que certaines pages avec beaucoup
+
+of action may end up longer once the film
+is shot and edited.
+d'action peuvent durer plus longtemps une fois le
+film tourné et monté.
+
+Now, some stories are better suited to the
+screen than others.
+Maintenant, certaines histoires sont mieux adaptées à l'
+écran que d'autres.
+
+Different media have different strengths,
+so what makes a good poem or graphic novel
+Différents médias ont des forces différentes,
+donc ce qui fait un bon poème ou roman graphique
+
+won’t necessarily make a good movie.
+ne fera pas nécessairement un bon film.
+
+A film creates an immersive visual world – that
+“illusion of reality” we keep talking about.
+Un film crée un monde visuel immersif – cette
+« illusion de réalité » dont nous parlons sans cesse.
+
+And within that world, it can tell a story
+packed with complex ideas and emotions.
+Et dans ce monde, il peut raconter une histoire
+remplie d'idées et d'émotions complexes.
+
+Movies tend to focus on three main things:
+a protagonist, which is the film’s main
+Les films ont tendance à se concentrer sur trois choses principales :
+un protagoniste, qui est le personnage principal du film
+
+character; a goal or objective, which is something
+the protagonist wants; and obstacles, which
+;  un but ou un objectif, qui est quelque chose que
+le protagoniste veut ;  et les obstacles, c'est-à-
+
+is whatever’s standing between the protagonist
+and their goal.
+dire tout ce qui se trouve entre le protagoniste
+et son objectif.
+
+Think about a heist movie.
+Pensez à un film de braquage.
+
+Maybe a master criminal wants to steal the
+world’s biggest diamond, but finds herself
+Peut-être qu'un maître criminel veut voler le
+plus gros diamant du monde, mais se retrouve
+
+facing off against a rival thief.
+face à un voleur rival.
+
+Or a romantic comedy, where an awkward-but-loveable
+introvert wants to date their outgoing neighbor,
+Ou une comédie romantique, où un introverti maladroit mais adorable
+veut sortir avec son voisin sortant,
+
+but is afraid to leave the comfort of his
+routine.
+mais a peur de quitter le confort de sa
+routine.
+
+Protagonist.
+Protagoniste. 
+
+Goal.
+But. 
+
+Obstacle.
+Obstacle. 
+
+These are the building blocks of a screen
+story, and it’s from these that everything
+Ce sont les éléments constitutifs d'une
+histoire d'écran, et c'est à partir d'eux que tout le
+
+else emerges, like setting, character, theme,
+and tone.
+reste émerge, comme le décor, le personnage, le thème
+et le ton.
+
+Now, the protagonist doesn’t necessarily
+have to be the story’s hero.
+Maintenant, le protagoniste ne doit pas
+nécessairement être le héros de l'histoire.
+
+Films are full of anti-heroes like Travis
+Bickle in Taxi Driver, or accidental villains
+Les films regorgent d'anti-héros comme Travis
+Bickle dans Taxi Driver, ou de méchants accidentels
+
+like William H. Macy’s
+character in Fargo.
+comme le personnage de William H.
+Macy dans Fargo.
+
+Usually, a movie’s protagonist will grow
+or change in some way in pursuit of their goal.
+Habituellement, le protagoniste d'un film grandira
+ou changera d'une manière ou d'une autre dans la poursuite de son objectif.
+
+The master criminal might learn humility as
+she attempts to steal the diamond.
+Le maître criminel pourrait apprendre l'humilité
+en tentant de voler le diamant.
+
+Or maybe the introvert overcomes his social
+anxiety to befriend his love interest.
+Ou peut-être que l'introverti surmonte son
+anxiété sociale pour se lier d'amitié avec son amour.
+
+But the most important thing for the screenwriter
+Mais la chose la plus importante pour le scénariste
+
+is finding ways to make all of this come across visually.
+est de trouver des moyens de faire en sorte que tout cela se manifeste visuellement.
+
+One way to do that is by following what’s
+known as the “Hero’s Journey.”
+Une façon d'y parvenir est de suivre ce que l'on
+appelle le "Voyage du héros".
+
+This is a template for character development
+that was popularized by the American mythologist
+Il s'agit d'un modèle de développement de personnage
+qui a été popularisé par le mythologue américain
+
+Joseph Campbell.
+Joseph Campbell.
+
+By looking at myths from cultures all over
+the world, Campbell identified twelve common
+En examinant les mythes des cultures
+du monde entier, Campbell a identifié douze
+
+steps taken by main characters as they transform
+over the course of a story.
+étapes communes franchies par les personnages principaux au fur et à mesure qu'ils se transforment
+au cours d'une histoire.
+
+These range from resisting the call to adventure
+and meeting their mentor, to facing their
+Celles-ci vont de la résistance à l'appel à l'aventure
+et à la rencontre de leur mentor, en passant par affronter leur
+
+biggest fear and surviving a final ordeal,
+armed with everything they’ve learned along the way.
+plus grande peur et survivre à une dernière épreuve,
+armés de tout ce qu'ils ont appris en cours de route.
+
+The Hero’s Journey was famously used by
+George Lucas when writing Luke Skywalker’s
+Le voyage du héros a été utilisé par
+George Lucas lors de l'écriture du voyage de Luke Skywalker,
+
+journey from Tatooine farm kid to Jedi knight.
+de l'enfant de la ferme Tatooine au chevalier Jedi.
+
+Some screenwriters love it, while others think
+it’s a stale, overused formula.
+Certains scénaristes l'adorent, tandis que d'autres pensent que
+c'est une formule périmée et surutilisée.
+
+But if you’re looking to write your first
+screenplay, it’s not a bad place to start.
+Mais si vous cherchez à écrire votre premier
+scénario, ce n'est pas un mauvais endroit pour commencer.
+
+Once you have some characters and plot points,
+you need to throw some conflict in the mix.
+Une fois que vous avez des personnages et des points d'intrigue,
+vous devez jeter un peu de conflit dans le mélange.
+
+Conflict moves a story forward, and helps
+us identify with the protagonist as they’re
+Le conflit fait avancer une histoire et nous aide à
+nous identifier au protagoniste alors qu'il
+
+struggling against their obstacles.
+lutte contre ses obstacles.
+
+And screenplays can have different kinds of
+conflict.
+Et les scénarios peuvent avoir différents types de
+conflits.
+
+External conflict occurs whenever the protagonist
+encounters physical obstacles.
+Un conflit externe se produit chaque fois que le protagoniste
+rencontre des obstacles physiques.
+
+Take the first Lord of the Rings film, The
+Fellowship of the Ring.
+Prenez le premier film du Seigneur des Anneaux, La
+Communauté de l'Anneau.
+
+Our protagonist, Frodo, has a goal: to destroy
+the One Ring in the fires of Mount Doom.
+Notre protagoniste, Frodon, a un objectif : détruire
+l'Anneau Unique dans les incendies du Mont Doom.
+
+No problem, right?
+Pas de problème, n'est-ce pas ?
+
+Except, in order to get to Mount Doom, he
+has to travel across the known world, avoid
+Sauf que pour se rendre à Mount Doom, il
+doit voyager à travers le monde connu, éviter
+
+an endless army of orcs and monsters, and
+outwit this powerful fiery eye that’s searching for him.
+une armée sans fin d'orcs et de monstres et
+déjouer ce puissant œil de feu qui le cherche.
+
+Not to mention, he’s the shortest guy in
+the movie and they make him walk barefoot
+Sans oublier qu'il est le gars le plus petit
+du film et ils le font marcher pieds
+
+the whole way.
+nus tout le long.
+
+They don’t even give the poor guy shoes!
+Ils ne donnent même pas de chaussures aux pauvres !
+
+On the other hand, internal conflict is when
+the protagonist wrestles with some emotional
+D'autre part, un conflit interne survient lorsque
+le protagoniste se débat avec un
+
+or psychological obstacle.
+obstacle émotionnel ou psychologique.
+
+For Frodo, that could be his ignorance of
+the wider world, a lack of faith in himself,
+Pour Frodon, cela pourrait être son
+ignorance du monde, un manque de confiance en lui-même,
+
+or even his jealousy and selfishness.
+ou même sa jalousie et son égoïsme.
+
+Usually, the more conflict the protagonist
+faces, the more they transform to overcome it.
+Habituellement, plus le protagoniste est
+confronté à un conflit, plus il se transforme pour le surmonter.
+
+But that doesn’t mean that the fate of the
+world has to be at stake in every single screenplay.
+Mais cela ne signifie pas que le destin du
+monde doit être en jeu dans chaque scénario.
+
+The writer should scale the conflict to fit
+the kind of story they’re telling.
+L'écrivain doit adapter le conflit au
+type d'histoire qu'il raconte.
+
+Like, in Bridesmaids, Kristin Wiig’s character just wants to be a good maid of honor to her best friend.
+Comme, dans Bridesmaids, le personnage de Kristin Wiig veut juste être une bonne demoiselle d'honneur pour sa meilleure amie.
+
+She faces a lot of external conflict, from
+a rival bridesmaid to some severely undercooked Brazilian food.
+Elle fait face à de nombreux conflits externes, d'
+une demoiselle d'honneur rivale à une cuisine brésilienne très mal cuite.
+
+And internally, she feels conflicted
+about her best friend getting married, the
+Et intérieurement, elle se sent en conflit
+avec le mariage de sa meilleure amie, la
+
+loss of her bakery, and her self-worth.
+perte de sa boulangerie et son estime de soi.
+
+The universe isn’t going to implode if she
+doesn’t succeed, but we still empathize
+L'univers ne va pas imploser si elle
+ne réussit pas, mais nous sympathisons toujours
+
+with her as she struggles to achieve her goal.
+avec elle alors qu'elle lutte pour atteindre son objectif.
+
+Now, once you have some ideas for the story
+you want to tell, how are you supposed to
+Maintenant, une fois que vous avez quelques idées pour l'histoire que
+vous voulez raconter, comment êtes-vous censé les
+
+organize them all?
+organiser toutes ?
+
+Screenwriters often use something called Three
+Act Structure, which is based on theories
+Les scénaristes utilisent souvent ce qu'on appelle la
+structure en trois actes, qui est basée sur les théories
+
+by the ancient Greek philosopher Aristotle
+from more than 2,000 years ago.
+du philosophe grec Aristote il y a
+plus de 2 000 ans.
+
+The idea is simple: that every story has a
+beginning, middle, and end; and that certain
+L'idée est simple : que chaque histoire a un
+début, un milieu et une fin ;  et que certains
+
+kinds of events happen in each section.
+types d'événements se produisent dans chaque section.
+
+Act One sets up the world of the screenplay,
+introducing us to the characters, and identifying
+Act One met en place le monde du scénario,
+nous présente les personnages et identifie
+
+the protagonist and their goal.
+le protagoniste et son objectif.
+
+In the Wizard of Oz, most of Act One takes
+place in Kansas.
+Dans le Magicien d'Oz, la majeure partie du premier acte se
+déroule au Kansas.
+
+It’s the black-and-white part.
+C'est la partie en noir et blanc.
+
+We get external conflicts between Dorothy
+and that mean lady down the street, as well
+Nous obtenons des conflits externes entre Dorothy
+et cette méchante dame dans la rue, ainsi
+
+as Aunt Em.We also learn that Dorothy is unsatisfied
+with her life and dreams of something more
+que tante Em. Nous apprenons également que Dorothy n'est pas satisfaite
+de sa vie et rêve de quelque chose de plus
+
+exciting, somewhere over the rainbow.
+excitant, quelque part au-dessus de l'arc-en-ciel.
+
+Once she’s transported to Oz, she meets
+her antagonist, the Wicked Witch of the West,
+Une fois transportée à Oz, elle rencontre
+son antagoniste, la méchante sorcière de l'Ouest,
+
+and we learn that her goal is to find the
+wizard so she can go home.
+et nous apprenons que son objectif est de trouver le
+sorcier afin qu'elle puisse rentrer chez elle.
+
+In Act Two, the protagonist faces increasingly
+difficult conflicts as they pursue their goal.
+Dans le deuxième acte, le protagoniste fait face à
+des conflits de plus en plus difficiles alors qu'il poursuit son objectif.
+
+They meet allies, encounter successes and
+setbacks, and are often brought to a point
+Ils rencontrent des alliés, rencontrent des succès et des
+revers, et sont souvent amenés à un point
+
+of hopelessness.
+de désespoir.
+
+For Dorothy, this is when the wizard refuses
+to take her home unless she can defeat the
+Pour Dorothy, c'est à ce moment que le sorcier refuse
+de la ramener à la maison à moins qu'elle ne puisse vaincre la
+
+Wicked Witch.
+méchante sorcière.
+
+To get what she wants, she’ll have to face
+her fears and do the seemingly-impossible.
+Pour obtenir ce qu'elle veut, elle devra affronter
+ses peurs et faire ce qui semble impossible.
+
+Finally, Act Three contains the climax of
+the film.
+Enfin, l'acte trois contient le point culminant
+du film.
+
+There’s usually some epic face-off between
+the protagonist and antagonist, the person
+Il y a généralement une confrontation épique entre
+le protagoniste et l'antagoniste, la personne
+
+who most directly opposes them.
+qui s'oppose le plus directement à eux.
+
+That confrontation usually decides whether
+or not the protagonist achieves their goal.
+Cette confrontation décide généralement si
+le protagoniste atteint ou non son objectif.
+
+And in most Hollywood screenplays, they do.
+Et dans la plupart des scénarios hollywoodiens, ils le font.
+
+Dorothy gets back to Kansas.
+Dorothy retourne au Kansas.
+
+Luke Skywalker blows up the Death Star.
+Luke Skywalker fait exploser l'étoile de la mort.
+
+Simba defeats Scar and restores the circle
+of life to the Pride Lands.But the guidelines
+Simba bat Scar et rétablit le cercle
+de la vie dans les terres de la fierté. Mais les directives
+
+of the Three Act Structure are just that.
+de la structure en trois actes ne sont que cela.
+
+Guidelines.
+Des lignes directrices. 
+
+Foreign and independent movies can have more
+ambiguous endings, from the open-ended final
+Les films étrangers et indépendants peuvent avoir
+des fins plus ambiguës, des plans finaux ouverts
+
+shots of The Wrestler or Birdman, to the heartbreak
+of Brokeback Mountain or The Death of Mr. Lazarescu.
+de The Wrestler ou Birdman, au chagrin
+de Brokeback Mountain ou The Death of Mr. Lazarescu.
+
+Films like M*A*S*H, Traffic, or Magnolia split
+their stories up among different protagonists,
+Des films comme M * A * S * H, Traffic ou Magnolia divisent
+leurs histoires entre différents protagonistes,
+
+while movies like Pulp Fiction and Memento
+scramble time, telling their stories out of order.
+tandis que des films comme Pulp Fiction et Memento
+brouillent le temps, racontant leurs histoires dans le désordre.
+
+And films like Mulholland Drive, Rashomon,
+or Man with a Movie Camera seem to reject
+Et des films comme Mulholland Drive, Rashomon
+ou Man with a Movie Camera semblent rejeter
+
+the Three Act Structure altogether.
+complètement la structure en trois actes.
+
+Remember: screenplays are one part of a longer
+process; they’re a blueprint.
+Rappelez-vous : les scénarios sont une partie d'un processus plus long
+;  ils sont un plan.
+
+Whether they follow more traditional rules
+or invent their own, the clear, concise, visual
+Qu'ils suivent des règles plus traditionnelles
+ou qu'ils inventent les leurs, le langage clair, concis et
+
+language of a screenplay provides the foundation
+for all the work that is to come.
+visuel d'un scénario est à la base
+de tout le travail à venir.
+
+Today we learned about the format of screenplays
+and why they look the way they do.
+Aujourd'hui, nous avons appris le format des scénarios
+et pourquoi ils ressemblent à ça.
+
+We talked about the essential building blocks
+of a film story, and we broke down the traditional
+Nous avons parlé des éléments constitutifs essentiels
+d'une histoire de film et nous avons décomposé la structure traditionnelle en
+
+Three Act Structure: what happens when and
+why.
+trois actes : que se passe-t-il, quand et
+pourquoi ?
+
+Next time, we’ll talk about pitching and
+pre-production, as the cameras get ready to roll.
+La prochaine fois, nous parlerons de pitch et de
+pré-production, alors que les caméras se préparent à tourner.
+
+Crash Course Film Production is produced in
+association with PBS Digital Studios.
+Crash Course Film Production est produit en
+association avec PBS Digital Studios.
+
+You can head over to their channel to check
+out a playlist of their latest shows, like
+Vous pouvez vous rendre sur leur chaîne pour
+consulter une liste de lecture de leurs dernières émissions, comme
+
+Coma Niddy, It’s Okay to be Smart, and Physics
+Girl.
+Coma Niddy, It's Okay to be Smart et Physics
+Girl.
+
+This episode of Crash Course was filmed in
+the Doctor Cheryl C. Kinney Crash Course Studio
+Cet épisode de Crash Course a été filmé dans
+le studio Doctor Cheryl C. Kinney Crash Course
+
+with the help of these nice people and our
+amazing graphics team, is Thought Cafe.
+avec l'aide de ces gens sympathiques et de notre
+incroyable équipe graphique, Thought Cafe.
+

@@ -1,0 +1,438 @@
+Hi, I’m Carrie Anne, and welcome to CrashCourse
+Computer Science!
+
+As we discussed last week, the idea of having
+a computer all to yourself – a personal
+
+computer – was elusive for the first three
+decades of electronic computing.
+
+It was just way too expensive for a computer
+to be owned and used by one single person.
+
+But, by the early 1970s, all the required
+components had fallen into place to build
+
+a low cost, but still usefully powerful computer.
+
+Not a toy, but a tool.
+
+Most influential in this transition was the
+advent of single-chip CPUs, which were surprisingly
+
+powerful, yet small and inexpensive.
+
+Advances in integrated circuits also offered
+low-cost solid-state memory, both for computer
+
+RAM and ROM.
+
+Suddenly it was possible to have an entire
+computer on one circuit board, dramatically
+
+reducing manufacturing costs.
+
+Additionally, there was cheap and reliable
+computer storage, like magnetic tape cassettes
+
+and floppy disks.
+
+And finally, the last ingredient was low cost
+displays, often just repurposed televisions.
+
+If you blended these four ingredients together
+in the 1970s, you got, what was called a microcomputer,
+
+because these things were so tiny compared
+to “normal” computers of that era, the
+
+types you’d see in business or universities.
+
+But more important than their size was their
+cost.
+
+These were, for the first time, sufficiently
+cheap.
+
+It was practical to buy one and only have
+one person ever use it.
+
+No time sharing, no multi-user logins, just
+a single owner and user.
+
+The personal computer era had arrived.
+
+INTRO
+
+Computer cost and performance eventually reached
+the point where personal computing became
+
+viable.
+
+But, it’s hard to define exactly when that
+happened.
+
+There’s no one point in time.
+
+And as such, there are many contenders for
+the title of “first” personal computer,
+
+like the Kenback-1 and MCM/70.
+
+Less disputed, however, is the first commercially
+successful personal computer: The Altair 8800.
+
+This machine debuted on the cover of Popular
+Electronics in 1975, and was sold as a $439
+
+kit that you built yourself.
+
+Inflation adjusted, that’s about $2,000
+today, which isn’t chump change, but extremely
+
+cheap for a computer in 1975.
+
+Tens of thousands of kits were sold to computer
+hobbyists, and because of its popularity,
+
+there were soon all sorts of nifty add-ons
+available... things like extra memory, a paper
+
+tape reader and even a teletype interface.
+
+This allowed you, for example, to load a longer,
+more complicated program from punch tape,
+
+and then interact with it using a teletype
+terminal.
+
+However, these programs still had to be written
+in machine code, which was really low level
+
+and nasty, even for hardcore computer enthusiasts.
+
+This problem didn’t escape a young Bill
+Gates and Paul Allen, who were 19 and 22 respectively.
+
+They contacted MITS, the company making the
+Altair 8800, suggesting the computer would
+
+be more attractive to hobbyists if it could
+run programs written in BASIC, a popular and
+
+simple programming language.
+
+To do this, they needed to write a program
+that converted BASIC instructions into native
+
+machine code, what’s called an interpreter.
+
+This is very similar to a compiler, but happens
+as the programs runs instead of beforehand.
+
+Let’s go to the thought bubble!
+
+MITS was interested, and agreed to meet Bill
+and Paul for a demonstration.
+
+Problem is, they hadn’t written the interpreter
+yet.
+
+So, they hacked it together in just a few
+weeks without even an Altair 8800 to develop
+
+on, finishing the final piece of code on the
+plane.
+
+The first time they knew their code worked
+was at MITS headquarters in Albuquerque, New
+
+Mexico, for the demo.
+
+Fortunately, it went well and MITS agreed
+to distribute their software.
+
+Altair BASIC became the newly formed Microsoft’s
+first product.
+
+Although computer hobbyists existed prior
+to 1975, the Altair 8800 really jump-started
+
+the movement.
+
+Enthusiast groups formed, sharing knowledge
+and software and passion about computing.
+
+Most legendary among these is the Homebrew
+Computer Club, which met for the first time
+
+in March 1975 to see a review unit of the
+Altair 8800, one of the first to ship to California.
+
+At that first meeting was 24-year-old Steve
+Wozniak, who was so inspired by the Altair
+
+8800 that he set out to design his own computer.
+
+In May 1976, he demonstrated his prototype
+to the Club and shared the schematics with
+
+interested members.
+
+Unusual for the time, it was designed to connect
+to a TV and offered a text interface ‒ a
+
+first for a low-cost computer.
+
+Interest was high, and shortly after fellow
+club member and college friend Steve Jobs
+
+suggested that instead of just sharing the
+designs for free, that they should just sell
+
+an assembled motherboard.
+
+However, you still had to add your own keyboard,
+power supply, and enclosure.
+
+It went on sale in July 1976 with a price
+tag of $666.66.
+
+It was called the Apple 1, and it was Apple
+Computer’s first product.
+
+Thanks thought bubble!
+
+Like the Altair 8800, the Apple 1 was sold
+as a kit.
+
+It appealed to hobbyists, who didn’t mind
+tinkering and soldering, but consumers and
+
+businesses weren’t interested.
+
+This changed in 1977, with the release of
+three game-changing computers, that could
+
+be used right out of the box.
+
+First was the Apple II, Apple’s earliest
+product that sold as a complete system that
+
+was professionally designed and manufactured.
+
+It also offered rudimentary color graphics
+and sound output, amazing features for a low
+
+cost machine.
+
+The Apple II series of computers sold by the
+millions and quickly propelled Apple to the
+
+forefront of the personal computing industry.
+
+The second computer was the TRS-80 Model I,
+made by the Tandy Corporation and sold by
+
+Radioshack – hence the “TRS”.
+
+Although less advanced than the Apple II,
+it was half the cost and sold like hot cakes.
+
+Finally, there was the Commodore PET 2001,
+with a unique all-in-one design that combined
+
+computer, monitor, keyboard and tape drive
+into one device, aimed to appeal to consumers.
+
+It started to blur the line between computer
+and appliance.
+
+These three computers became known as the
+1977 Trinity.
+
+They all came bundled with BASIC interpreters,
+allowing non-computer-wizards to create programs.
+
+The consumer software industry also took off,
+offering games and productivity tools for
+
+personal computers, like calculators and word
+processors.
+
+The killer app of the era was 1979’s VisiCalc,
+the first spreadsheet program – which was
+
+infinitely better than paper – and the forbearer
+of programs like Microsoft Excel and Google
+
+Sheets.
+
+But perhaps the biggest legacy of these computers
+was their marketing – they were the first
+
+to be targeted at households, and not just
+businesses and hobbyists.
+
+And for the first time in a substantial way,
+computers started to appear in homes, and
+
+also small businesses and schools.
+
+This caught the attention of the biggest computer
+company on the planet, IBM, who had seen its
+
+share of the overall computer market shrink
+from 60% in 1970 to around 30% by 1980.
+
+This was mainly because IBM had ignored the
+microcomputer market, which was growing at
+
+about 40% annually.
+
+As microcomputers evolved into personal computers,
+IBM knew it needed to get in on the action.
+
+But to do this, it would have to radically
+rethink its computer strategy and design.
+
+In 1980, IBM’s least-expensive computer,
+the 5120, cost roughly ten thousand dollars,
+
+which was never going to compete with the
+likes of the Apple II.
+
+This meant starting from scratch.
+
+A crack team of twelve engineers, later nicknamed
+the dirty dozen, were sent off to offices
+
+in Boca Raton, Florida, to be left alone and
+put their talents to work.
+
+Shielded from IBM internal politics, they
+were able to design a machine as they desired.
+
+Instead of using IBM proprietary CPUs, they
+chose Intel chips.
+
+Instead of using IBM’s prefered operating
+system, CP/M, they licenced Microsoft's Disk
+
+Operating System: DOS and so on, from the
+screen to the printer.
+
+For the first time, IBM divisions had to compete
+with outside firms to build hardware and software
+
+for the new computer.
+
+This radical break from the company tradition
+of in-house development kept costs low and
+
+brought partner firms into the fold.
+
+After just a year of development, the IBM
+Personal Computer, or IBM PC was released.
+
+It was an immediate success, especially with
+businesses that had long trusted the IBM brand.
+
+But, most influential to its ultimate success
+was that the computer featured an open architecture,
+
+with good documentation and expansion slots,
+allowing third parties to create new hardware
+
+and peripherals for the platform.
+
+That included things like graphics cards,
+sounds cards, external hard drives, joysticks,
+
+and countless other add-ons.
+
+This spurred innovation, and also competition,
+resulting in a huge ecosystem of products.
+
+This open architecture became known as “IBM
+Compatible”.
+
+If you bought an “IBM Compatible” computer,
+it meant you could use that huge ecosystem
+
+of software and hardware.
+
+Being an open architecture also meant that
+competitor companies could follow the standard
+
+and create their own IBM Compatible computers.
+
+Soon, Compaq and Dell were selling their own
+PC clones...
+
+And Microsoft was happy to license MS-DOS
+to them, quickly making it the most popular
+
+PC operating system.
+
+IBM alone sold two million PCs in the first
+three years, overtaking Apple.
+
+With a large user base, software and hardware
+developers concentrated their efforts on IBM
+
+Compatible platforms – there were just more
+users to sell to.
+
+Then, people wishing to buy a computer bought
+the one with the most software and hardware
+
+available, and this effect snowballed.
+
+Companies producing non-IBM-compatible computers,
+often with superior specs, failed.
+
+Only Apple kept significant market share without
+IBM compatibility.
+
+Apple ultimately chose to take the opposite
+approach – a “closed architecture” – proprietary
+
+designs that typically prevent people from
+adding new hardware to their computers.
+
+This meant that Apple made its own computers,
+with its own operating system, and often its
+
+own peripherals, like displays, keyboards,
+and printers.
+
+By controlling the full stack, from hardware
+to software, Apple was able to control the
+
+user experience and improve reliability.
+
+These competing business strategies were the
+genesis of the “Mac” versus “PC” division
+
+that still exists today... which is a misnomer,
+because they’re both personal computers!
+
+But whatever.
+
+To survive the onslaught of low-cost PCs,
+Apple needed to up its game, and offer a user
+
+experience that PCs and DOS couldn’t.
+
+Their answer was the Macintosh, released in
+1984.
+
+This ground breaking, reasonably-low-cost,
+all-in-one computer booted not a command-line
+
+text-interface, but rather a graphical user
+interface, our topic for next week.
+
+See you then.
+

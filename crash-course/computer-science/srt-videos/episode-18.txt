@@ -1,0 +1,444 @@
+Cet épisode est soutenu par Hover.
+
+Salut, je suis Carrie Anne, et bienvenue à Crash Course Computer Science!
+
+Ordinateurs dans les années 1940 et début des années 50 a couru un programme à la fois.
+
+Un programmeur en écrirait un à son bureau, par exemple, sur des cartes perforées.
+
+Ensuite, ils l'emportaient dans une pièce contenant un ordinateur de la taille d'une pièce, et le remettaient à un
+
+operateur d'ordinateur.
+
+Cette personne enverrait alors le programme dans l'ordinateur quand il serait disponible.
+
+L'ordinateur l'exécute, crache une sortie et s'arrête.
+
+Ce processus très manuel a fonctionné correctement lorsque les ordinateurs étaient lents et exécutant un programme
+
+souvent pris des heures, des jours ou même des semaines.
+
+Mais, comme nous l'avons vu dans le dernier épisode, les ordinateurs sont devenus plus rapides ... et plus rapides ... et plus rapides
+
+- exponentiellement!
+
+Bientôt, avoir des humains courir et insérer des programmes dans les lecteurs prenait
+
+plus longtemps que d'exécuter les programmes eux-mêmes.
+
+Nous avions besoin d'un moyen pour les ordinateurs de fonctionner eux-mêmes, et ainsi, les systèmes d'exploitation sont nés.
+
+ 
+
+Les systèmes d'exploitation, ou OS'es pour faire court, sont juste des programmes.
+
+Mais, des privilèges spéciaux sur le matériel permettant d'exécuter et de gérer d'autres programmes.
+
+Ils sont généralement le premier à démarrer quand un ordinateur est allumé, et tous les suivants
+
+les programmes sont lancés par le système d'exploitation.
+
+Ils ont commencé dans les années 1950, à mesure que les ordinateurs devenaient plus répandus et plus puissants.
+
+Les tout premiers OS ont augmenté la tâche manuelle et manuelle de chargement manuel des programmes.
+
+Au lieu de recevoir un programme à la fois, les ordinateurs pourraient recevoir des lots.
+
+Quand l'ordinateur a été fait avec un, il commencerait automatiquement et presque instantanément le suivant.
+
+Il n'y avait pas de temps d'arrêt pendant que quelqu'un se promenait dans un bureau pour trouver le prochain programme
+
+courir.
+
+Cela a été appelé traitement par lots
+
+Alors que les ordinateurs sont plus rapides, ils sont également moins chers
+
+Donc, ils ont surgi partout dans le monde, en particulier dans les universités et le gouvernement
+
+des bureaux.
+
+Bientôt, les gens ont commencé à partager des logiciels.
+
+Mais il y avait un problème…
+
+À l'ère des ordinateurs uniques, comme le Harvard Mark 1 ou ENIAC, les programmeurs seulement
+
+a dû écrire du code pour cette seule machine.
+
+Le processeur, les lecteurs de cartes perforées et les imprimantes étaient connus et immuables.
+
+Mais à mesure que les ordinateurs devenaient plus répandus, leurs configurations n'étaient pas toujours identiques,
+
+comme les ordinateurs peuvent avoir le même processeur, mais pas la même imprimante.
+
+Ce fut une énorme douleur pour les programmeurs.
+
+Non seulement ils ont dû s'inquiéter de l'écriture de leur programme, mais aussi de la façon de s'interfacer avec
+
+chaque modèle d'imprimante, et tous les périphériques connectés à un ordinateur, ce qu'on appelle des périphériques.
+
+L'interfaçage avec les premiers périphériques était de très bas niveau, ce qui obligeait les programmeurs à connaître l'intimité
+
+détails matériels sur chaque périphérique.
+
+En plus de cela, les programmeurs avaient rarement accès à tous les modèles d'un périphérique pour tester leur code.
+
+Ainsi, ils ont dû écrire le code du mieux qu'ils le pouvaient, souvent juste en lisant des manuels, et espèrent qu'il
+
+travaillé lorsqu'il est partagé.
+
+Les choses n'étaient pas exactement plug-and-play à l'époque ... plus plug-and-pray.
+
+C'était clairement terrible, donc pour faciliter la tâche aux programmeurs, les systèmes d'exploitation
+
+en tant qu'intermédiaires entre les logiciels et les périphériques matériels.
+
+Plus précisément, ils ont fourni une abstraction logicielle, via des API, appelés drivers de périphériques.
+
+Ceux-ci permettent aux programmeurs de parler au matériel d'entrée et de sortie commun, ou E / S pour faire court,
+
+en utilisant des mécanismes standardisés.
+
+Par exemple, les programmeurs peuvent appeler une fonction comme "highscore d'impression", et l'OS
+
+faites le gros travail pour l'obtenir sur papier.
+
+À la fin des années 1950, les ordinateurs étaient devenus si rapides qu'ils attendaient souvent
+
+choses mécaniques lentes, comme les imprimantes et les lecteurs de cartes perforées.
+
+Alors que les programmes étaient bloqués sur les E / S, le processeur cher était juste chillin '... pas comme
+
+un méchant ... tu sais, juste relaxant.
+
+À la fin des années 50, l'Université de Manchester, au Royaume-Uni, a commencé à travailler sur un supercalculateur
+
+appelé Atlas, l'un des premiers au monde.
+
+Ils savaient que ça allait être rapide, donc ils avaient besoin d'un moyen d'utiliser au maximum
+
+la machine chère.
+
+Leur solution était un programme appelé le superviseur de l'Atlas, terminé en 1962.
+
+Ce système d'exploitation non seulement chargé les programmes automatiquement, comme les systèmes de lots précédents,
+
+mais pourrait également exécuter plusieurs en même temps sur son processeur unique.
+
+Il l'a fait grâce à un emploi du temps intelligent.
+
+Disons que nous avons un programme de jeu sur Atlas, et nous appelons la fonction "imprimer
+
+highscore "qui indique à Atlas d'imprimer la valeur d'une variable nommée" highscore "
+
+sur papier pour montrer à nos amis que nous sommes le champion ultime des tiddlywinks virtuels.
+
+Cet appel de fonction va prendre un certain temps, l'équivalent de milliers de cycles d'horloge,
+
+parce que les imprimantes mécaniques sont lentes par rapport aux processeurs électroniques.
+
+Ainsi, au lieu d'attendre la fin des E / S, Atlas met plutôt notre programme en veille, puis
+
+sélectionne et exécute un autre programme en attente et prêt à fonctionner.
+
+Finalement, l'imprimante rapportera à Atlas qu'elle a fini d'imprimer la valeur
+
+de "highscore".
+
+Atlas marque ensuite notre programme comme prêt à partir, et à un moment donné, il sera programmé pour
+
+réexécutez sur la CPU et continuez sur la ligne de code suivante en suivant la commande print
+
+De cette façon, Atlas pourrait avoir un programme exécutant des calculs sur le CPU, tandis qu'un autre
+
+était l'impression de données, et encore une autre lecture des données à partir d'une bande de perforation.
+
+Les ingénieurs d'Atlas ont doublé cette idée et ont équipé leur ordinateur de 4 papiers.
+
+lecteurs de bande, 4 poinçons de bande de papier et jusqu'à 8 lecteurs de bande magnétique.
+
+Cela a permis à de nombreux programmes d'être en cours en même temps, partageant le temps sur un seul processeur.
+
+Cette capacité, activée par le système d'exploitation, est appelée multitâche.
+
+Cependant, il y a un gros problème à avoir de nombreux programmes fonctionnant simultanément sur un seul ordinateur.
+
+Chacun aura besoin de mémoire, et nous ne pouvons pas perdre les données de ce programme quand
+
+nous passons à un autre programme.
+
+La solution consiste à allouer à chaque programme son propre bloc de mémoire.
+
+Ainsi, par exemple, disons qu'un ordinateur a 10 000 emplacements de mémoire au total.
+
+Le programme A peut recevoir des adresses de mémoire allouées de 0 à 999, et le programme B peut recevoir 1000
+
+jusqu'en 1999, et ainsi de suite.
+
+Si un programme demande plus de mémoire, le système d'exploitation décide s'il peut accorder cette requête,
+
+et si oui, quel bloc de mémoire allouer ensuite.
+
+Cette flexibilité est grande, mais introduit une bizarrerie.
+
+Cela signifie que le programme A pourrait se voir allouer des blocs de mémoire non séquentiels,
+
+dans les adresses dites 0 à 999 et 2000 à 2999.
+
+Et ce n'est qu'un exemple simple - un vrai programme pourrait être alloué des dizaines de blocs
+
+éparpillé partout dans la mémoire.
+
+Comme vous pouvez l'imaginer, cela deviendrait vraiment déroutant pour les programmeurs.
+
+Peut-être qu'il y a une longue liste de données de ventes en mémoire qu'un programme doit totaliser à
+
+a fin de la journée, mais cette liste est stockée à travers un tas de blocs de mémoire différents.
+
+Pour masquer cette complexité, les systèmes d'exploitation virtualisent les emplacements de mémoire.
+
+Avec la mémoire virtuelle, les programmes peuvent supposer que leur mémoire commence toujours à l'adresse 0, en gardant
+
+les choses simples et cohérentes.
+
+Cependant, l'emplacement physique réel dans la mémoire de l'ordinateur est caché et résumé par
+
+le système d'exploitation.
+
+Juste un nouveau niveau d'abstraction.
+
+Prenons notre exemple Programme B, à qui a été attribué un bloc de mémoire de
+
+adresse 1000 à 1999.
+
+Pour autant que le programme B puisse le dire, cela semble être un bloc de 0 à 999.
+
+Le système d'exploitation et le processeur gèrent automatiquement le remappage de la mémoire virtuelle vers la mémoire physique.
+
+Ainsi, si le programme B demande l'emplacement de mémoire 42, il finit réellement par lire l'adresse 1042.
+
+Cette virtualisation des adresses mémoire est encore plus utile pour le programme A, qui dans notre
+
+Par exemple, deux blocs de mémoire séparés les uns des autres ont été attribués.
+
+Ceci est également invisible pour le programme A.
+
+Pour autant qu'il peut dire, il a été attribué un bloc continu de 2000 adresses.
+
+Lorsque le programme A lit l'adresse mémoire 999, cela correspond par coïncidence à la mémoire physique
+
+adresse 999.
+
+Mais si le programme A lit la valeur suivante dans la mémoire, à l'adresse 1000, qui est mappée
+
+dans les coulisses à l'adresse mémoire physique 2000.
+
+Ce mécanisme permet aux programmes d'avoir des tailles de mémoire flexibles, appelées allocation de mémoire dynamique,
+
+qui semblent être continues pour eux.
+
+Il simplifie tout et offre une grande flexibilité au système d'exploitation en cours d'exécution
+
+plusieurs programmes simultanément.
+
+Un autre avantage d'attribuer à chaque programme sa propre mémoire, c'est qu'ils sont mieux isolés
+
+l'un de l'autre.
+
+Donc, si un programme bogué tourne mal, et commence à écrire gobbledygook, il ne peut que jeter ses
+
+propre mémoire, pas celle d'autres programmes
+
+Cette fonctionnalité est appelée Protection de la mémoire.
+
+Ceci est également très utile pour se protéger contre les logiciels malveillants, comme les virus.
+
+Par exemple, nous ne voulons généralement pas que d'autres programmes aient la capacité de lire ou de modifier
+
+La mémoire de, disons, notre e-mail, avec ce genre d'accès, les logiciels malveillants pourraient envoyer des e-mails
+
+en votre nom et peut-être voler des informations personnelles.
+
+Pas bon!
+
+Atlas avait à la fois une mémoire virtuelle et protégée.
+
+C'était le premier ordinateur et système d'exploitation à supporter ces fonctionnalités!
+
+Dans les années 1970, les ordinateurs étaient suffisamment rapides et bon marché.
+
+Des institutions comme une université pourraient acheter un ordinateur et laisser les étudiants l'utiliser.
+
+Ce n'était pas seulement assez rapide pour exécuter plusieurs programmes à la fois, mais aussi donner plusieurs utilisateurs
+
+accès simultané et interactif.
+
+Cela a été fait à travers un terminal, qui est un clavier et un écran qui se connecte à un grand
+
+ordinateur, mais ne contient aucune puissance de traitement elle-même.
+
+Un ordinateur de la taille d'un réfrigérateur peut avoir 50 terminaux connectés, ce qui permet de
+
+50 utilisateurs.
+
+Maintenant, les systèmes d'exploitation devaient gérer non seulement plusieurs programmes, mais aussi plusieurs utilisateurs.
+
+Pour que personne ne puisse engloutir toutes les ressources d'un ordinateur, les systèmes d'exploitation
+
+ont été développés qui ont offert un partage de temps.
+
+Avec le partage de temps, chaque utilisateur individuel n'était autorisé à utiliser qu'une petite fraction de
+
+le processeur de l'ordinateur, la mémoire, etc.
+
+Parce que les ordinateurs sont si rapides, même obtenir seulement 1/50 de ses ressources était suffisant pour
+
+les individus à accomplir de nombreuses tâches.
+
+Le plus influent des systèmes d'exploitation de partage de temps précoce était Multics, ou multiplexe
+
+Information and Computing Service, publié en 1969.
+
+Multics a été le premier système d'exploitation majeur conçu pour être sécurisé dès le départ.
+
+Les développeurs ne voulaient pas que les utilisateurs malveillants accèdent à des données qu'ils ne devraient pas, comme les étudiants
+
+tenter d'accéder à l'examen final sur le compte de leur professeur.
+
+Des fonctionnalités comme celle-ci signifiaient que Multics était vraiment compliqué pour l'époque, utilisant environ 1 Megabit
+
+de la mémoire, qui était beaucoup à l'époque!
+
+Cela pourrait être la moitié de la mémoire d'un ordinateur, juste pour exécuter le système d'exploitation!
+
+Dennis Ritchie, l'un des chercheurs travaillant sur Multics, a déclaré:
+
+"L'une des choses évidentes qui ont mal tourné avec Multics en tant que succès commercial était juste
+
+que c'était en quelque sorte sur-machiné.
+
+Il y en avait juste trop. "
+
+Le chef Dennis et un autre chercheur de Multics,
+
+Ken Thompson, pour se lancer et construire un nouveau système d'exploitation allégé ... appelé Unix.
+
+Ils voulaient séparer le système d'exploitation en deux partie
+
+La première était la fonctionnalité de base de l'OS, des choses comme la gestion de la mémoire, multitâche,
+
+et traitant des E / S, qui s'appelle le noyau.
+
+La deuxième partie était un large éventail d'outils utiles qui sont venus avec, mais pas partie
+
+du noyau, des choses comme les programmes et les bibliothèques.
+
+Construire un noyau compact et léger signifiait intentionnellement laisser certaines fonctionnalités à l'extérieur.
+
+Tom Van Vleck, un autre développeur de Multics, a rappelé:
+
+"J'ai remarqué à Dennis que facilement la moitié du code que j'écrivais dans Multics était une erreur de récupération
+
+code."
+
+Il a dit: "Nous avons laissé tout cela hors d'Unix.
+
+S'il y a une erreur, nous avons cette routine appelée panique, et quand elle est appelée, la machine
+
+s'écrase, et vous hurlez dans le couloir, 'Hey, redémarrez-le.' ""
+
+Vous avez peut-être entendu parler des paniques du noyau. C'est de là que vient le terme.
+
+C'est littéralement quand le noyau se bloque, n'a aucun recours pour récupérer, et appelle ainsi un
+
+fonction appelée "panique".
+
+A l'origine, tout ce qu'il a fait était d'imprimer le mot "panique", puis entrez
+
+une boucle infinie.
+
+Cette simplicité signifiait qu'Unix pouvait fonctionner sur du matériel moins cher et plus diversifié,
+
+c'est populaire à l'intérieur des Bell Labs, où Dennis et Ken travaillaient.
+
+Comme de plus en plus de développeurs ont commencé à utiliser Unix pour créer et exécuter leurs propres programmes, le nombre de
+
+outils fournis ont augmenté.
+
+Peu de temps après sa sortie en 1971, il a gagné des compilateurs pour différents langages de programmation
+
+et même un traitement de texte, en faisant rapidement l'un des systèmes d'exploitation les plus populaires des années 1970
+
+et 80s.
+
+Au même moment, au début des années 1980, le coût d'un ordinateur de base
+
+point où les individus pourraient se permettre un, appelé un ordinateur personnel ou à la maison.
+
+Ceux-ci étaient beaucoup plus simples que les grands ordinateurs centraux trouvés dans les universités, les entreprises et les gouvernements.
+
+Ainsi, leurs systèmes d'exploitation devaient être également simples.
+
+Par exemple, le système d'exploitation de disque de Microsoft, ou MS-DOS, était juste 160 kilo-octets,
+
+en lui permettant de s'adapter, comme son nom l'indique, sur un seul disque.
+
+D'abord publié en 1981, il est devenu le système d'exploitation le plus populaire pour les premiers ordinateurs à la maison, même
+
+mais il manquait de multitâche et de mémoire protégée.
+
+Cela signifiait que les programmes pouvaient et allaient régulièrement planter le système.
+
+Bien qu'ennuyeux, c'était un compromis acceptable, car les utilisateurs pouvaient simplement tourner leurs propres ordinateurs
+
+et encore!
+
+Même les premières versions de Windows, d'abord publiées par Microsoft en 1985 et qui ont dominé le
+
+Scène OS tout au long des années 1990, manquait de protection de la mémoire forte.
+
+Lorsque les programmes se sont mal comportés, vous pourriez obtenir l'écran bleu de la mort, un signe qu'un programme
+
+s'était écrasé si mal qu'il a détruit tout le système d'exploitation.
+
+Heureusement, les nouvelles versions de Windows ont de meilleures protections et ne tombent généralement pas si souvent.
+
+Aujourd'hui, les ordinateurs exécutent des systèmes d'exploitation modernes, tels que Mac OS X, Windows 10, Linux, iOS et
+
+Android.
+
+Même si les ordinateurs que nous possédons sont le plus souvent utilisés par une seule personne, vous! leur
+
+Les systèmes d'exploitation ont tous une mémoire multitâche et une mémoire virtuelle et protégée.
+
+Ainsi, ils peuvent exécuter de nombreux programmes à la fois: vous pouvez regarder YouTube dans votre navigateur Web, modifier
+
+une photo dans Photoshop, jouer de la musique dans Spotify et synchroniser Dropbox tous en même temps.
+
+Cela ne serait pas possible sans ces décennies de recherche et développement sur
+
+Systèmes, et bien sûr la mémoire appropriée pour stocker ces programmes.
+
+Lequel nous aurons à la semaine prochaine.
+
+Je tiens à remercier Hover pour avoir commandité cet épisode.
+
+Hover est un service qui vous aide à acheter et gérer des noms de domaine.
+
+Hover a plus de 400 extensions de domaine pour mettre fin à votre domaine avec .com et .net.
+
+Vous pouvez également obtenir des domaines uniques plus professionnels qu'une adresse générique.
+
+Ici, à Crash Course, nous aurions le nom de domaine "mongols.fans" mais je pense que vous savez
+
+ça déjà.
+
+Une fois que vous avez votre domaine, vous pouvez configurer votre adresse e-mail personnalisée pour la transmettre à votre compte existant
+
+adresse e-mail - y compris Outlook ou Gmail ou tout ce que vous utilisez déjà.
+
+Avec Hover, vous pouvez obtenir un domaine et une adresse e-mail personnalisés pour 10% de réduction.
+
+Allez sur Hover.com/crashcourse aujourd'hui pour créer votre domaine personnalisé et aider à soutenir notre spectacle!
+

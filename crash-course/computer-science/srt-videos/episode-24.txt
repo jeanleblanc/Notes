@@ -1,0 +1,284 @@
+Hi, I'm Carrie Anne and welcome to Crash Course Computer Science.
+
+Early in this series we covered computing history from roughly the dawn of civilization,
+
+up to the birth of electronic general purpose computers in the mid 1940s.
+
+A lot of the material we've discussed over the past 23 episodes
+
+like programming languages and compilers
+
+algorithms and integrated circuits
+
+Floppy disks and operating systems, telly types and screens
+
+all emerged over roughly a 30-year period, from the mid 1940s up to the mid 1970s
+
+This is the era of computing before companies like Apple and Microsoft existed
+
+and long before anyone tweeted, Googled or Uber-d.
+
+It was a formative period setting the stage for personal computers,
+
+worldwide web, self-driving cars virtual reality, and many other topics
+
+we'll get to in the second half of this series.
+
+Today we're going to step back from circuits and algorithms and review this influential period.
+
+We'll pay special attention to the historical backdrop of the cold war, the space race and the rise of globalization and consumerism.
+
+Pretty much immediately after World War II concluded in 1945,
+
+there was tension between the world's two new superpowers the United States and the USSR
+
+The Cold War had begun and with it, massive government spending on science and engineering.
+
+Computing which had already demonstrated its value in wartime efforts like the Manhattan Project
+
+and code breaking Nazi communications,
+
+was lavished with government funding. They enabled huge ambitious computing projects to be undertaken,
+
+like ENIAC, EDVAC, Atlas and Whirlwind all mentioned in previous episodes.
+
+This spurred rapid advances that simply weren't possible in the commercial sector alone,
+
+where projects were generally expected to recoup development costs through sales.
+
+This began to change in the early 1950s, especially with Eckert and Buckley's Univac 1,
+
+the first commercially successful computer.
+
+Unlike any Echo Atlas, this wasn't just one single computer.
+
+It was a model of computers, in total more than 40 were built.
+
+Most of these Univacs went to government offices or large companies.
+
+Which was part of the growing military industrial complex in the United States, with pockets deep enough to afford the cutting edge.
+
+Famously a Univac one built for the U.S atomic energy commission was used by CBS to predict the results of
+
+the 1952 U.S. presidential election. With just 1% of the vote the computer correctly predicted an Eisenhower landslide while pundits favored Stevenson.
+
+It was a media event that helped propel computing to the forefront of the public's imagination
+
+Computing was unlike machines of the past, which generally augmented human physical abilities.
+
+Trucks allowed us to carry more automatic looms whoa faster
+
+Machine tools were more precise and so on for a bunch of contraptions that typify the industrial revolution.
+
+But computers on the other hand could augment human intellect.
+
+This potential wasn't lost on Vannevar Bush, who in 1945 published an article
+
+on a hypothetical computing device he envisioned called the Memex.
+
+This was a device in which an individual stores all his books, records and communications
+
+and which is mechanized, so it may be consulted with exceeding speed and flexibility
+
+It is an enlarged intimate supplement to his memory.
+
+He also predicted that wholly new forms of encyclopedia will appear,
+
+ready-made, with a mesh of associative trails running through them. Sound familiar?
+
+Memex directly inspired several subsequent game-changing systems,
+
+like Ivan Sutherland Sketchpad, which we discussed last episode,
+
+and Dough Engelbart's online system, which we will cover soon.
+
+Vannevar Bush was the head of the U.S. office of Scientific Research and Development,
+
+which was responsible for funding and coordinating scientific research during World War Two.
+
+With the Cold War brewing, Bush lobbied for a creation of a peace time equivalent,
+
+the National Science Foundation, formed in 1950.
+
+To this day the NSF provides federal funding to support scientific research in the United States.
+
+And it is a major reason the U.S. has continued to be a leader in the technology sector.
+
+It was also in the 1950s that consumers started to buy transistor powered gadgets,
+
+notable among them was the transistor radio, which was small, durable and battery-powered.
+
+And it was portable, unlike the vacuum tube based radio sets from the 1940s and before.
+
+It was a runaway success, the furby or iphone of its day.
+
+The Japanese government looking for industrial opportunities, to bolster their post-war economy,
+
+soon got in on the action. Licensing the rights to Transistors from Bell Labs in 1952.
+
+Helping launch the Japanese semiconductor and electronics industry.
+
+In 1955, the first Sony product was released:
+
+The TR-55 Transistor Radio. Concentrating on quality and price,
+
+Japanese companies captured half of the U.S. Market for portable radios in just five years.
+
+This planted the first seeds of a major industrial rivalry in the decades to come.
+
+In 1953, there were only around 100 computers on the entire planet
+
+and at this point, the USSR was only a few years behind the West in computing technology,
+
+completing their first programmable electronic computer in 1950.
+
+But the Soviets were way ahead in the burgeoning space race. Let's go to the thought-bubble.
+
+The Soviets launched the world's first satellite into orbit, Sputnik one,
+
+in 1957 and a few years later in 1961.
+
+Soviet Cosmonaut, Yuri Gagarin became the first human in space.
+
+This didn't sit well with the American public
+
+and prompted President Kennedy, a month after Gagarin's mission,
+
+to encourage the nation to land a man on the moon within the decade. And it was expensive!
+
+Nasa's budget grew almost tenfold, peaking in 1966 at roughly 4.5 percent of the u.s. Federal budget today
+
+It's around half a percent
+
+Nasa used this funding to tackle a huge array of enormous challenges this culminated in the apollo program
+
+Which is peak employed roughly?
+
+400,000 people further supported by over 20,000 universities and companies one of these huge challenges was navigating in space
+
+Nasa needed a computer to process complex trajectories and issue Guidance commands to the spacecraft for this they built the apollo guidance computer
+
+There were three significant requirements first the computer had to be fast no surprise there second it has to be small and lightweight
+
+there's not a lot of room in a spacecraft and every ounce is precious when you're flying a quarter million miles to the moon and
+
+Finally it had to be really really ridiculously reliable
+
+This is super important in a spacecraft where there's lots of vibration radiation and temperature change
+
+And there's no running to best buy it something breaks the technology of the era of vacuum Tubes and discrete transistors
+
+Just weren't up to the task so Nasa turned to a brand-new technology integrated circuits
+
+Which we discussed a few episodes ago the apollo guidance computer was the first computer to use them a huge paradigm shift
+
+Nasa was also the only place that could afford them initially each chip cost around $50 and the guidance computer needed thousands of them
+
+But by paying that price the Americans were able to beat the soviets to the moon
+
+Thanks, thought-bubble although the apollo Guidance computer is credited with spurring the development and adoption of integrated circuits
+
+It was a low volume product there are only 17 apollo missions after all it was actually military applications
+
+Especially the minuteman and polaris nuclear missile systems that allowed integrated circuits to become a mass-produced
+
+Item this rapid Advancement was further accelerated by the u.s.
+
+Building and buying huge powerful computers often called supercomputers because they were frequently 10 times faster than any other computer on the planet
+
+Upon their release but these machines built by companies Like CDC cray
+
+And Ibm were also super in cost and pretty much only governments could afford to buy them in the us these machines went to government
+
+Agencies like the NSA and government research labs like Lawrence Livermore and Los Alamos National laboratories initially the u.s.
+
+semiconductor industry boomed buoyed by High profit government contracts
+
+However this meant that most us companies overlooked the consumer market where profit Margins were small the Japanese
+
+Semiconductor industry came to dominate this niche by having to operate with lean profit margins in the 1950s and 60s
+
+the Japanese had invested heavily in manufacturing capacity to achieve economies of scale in
+
+Research to improve quality and Yields and in automation to keep manufacturing costs low in the 1970s with the space Race and cold war subsiding
+
+previously juicy defense contracts began to dry up and
+
+Consumer conductor and electronics companies found it harder to compete it didn't help the many computing components had been commoditized
+
+Be around with Dram
+
+So why buy expensive intel memory when you could buy the same chip for less from Hitachi?
+
+Throughout the 1970s us companies began to downsize consolidate or outright fail intel had to lay off a third of its Workforce in
+
+1974 and even the storied Fairchild semiconductor was acquired in
+
+1979 after near bankruptcy to survive many of these companies began to outsource their manufacturing in a bid to reduce costs
+
+Intel weave drew from its main product category memory Ics and decided to refocus on processes
+
+Which ultimately saved the company this low and us?
+
+electronics industry allowed Japanese companies like Sharp and Casio to dominate the Breakout computing product of the
+
+1970s Handheld electronic calculators by using integrated circuits these could be made small and cheap they replaced
+
+Expensive desktop adding machines you find in offices
+
+For most people it was the first time they didn't have to do math on paper, or use a slide rule
+
+They were an instant hit selling by the millions
+
+This server drove down the cost of integrated circuits and led to the development and widespread use of micro processors like the intel
+
+4004 we've discussed previously
+
+This chip was built by intel in 1971 at the request of Japanese calculator company busy calm soon
+
+Japanese electronics were everywhere from televisions of VcRs to digital wristwatches and Walkmans the availability of inexpensive
+
+microprocessor Spawned in Highly new Products like video arcades the world got pong in 1972 and Breakout in
+
+1976 as cost continued to plummet soon it became possible for regular people to afford computing devices during this time
+
+we see the emergence of the first successful home computers like the
+
+1975 Altair 8800 and also the first home gaming consoles like the Atari 2600 in
+
+1977 home now, I repeat that home that seems like a small thing today
+
+But this was the dawn of a whole new era in computing in just three decades computers have evolved from machines where you could literally?
+
+Walk inside of the cPU assuming you had government clearance to the point where a child could play with a handheld toy
+
+Containing a microprocessor many times faster, critically this dramatic evolution would have been but without two powerful forces at play
+
+governments and consumers
+
+government funding like the United States provided during the cold war
+
+enabled early adoption of many nascent computing technologies this funding helped flow entire
+
+Industries relate into computing long enough for the technology to mature and become commercially feasible then businesses and ultimately consumers
+
+Provided the demand to take it mainstream the cold war may be over, but this relationship continues today
+
+Governments are still funding science research intelligence agencies are still buying supercomputers humans are still being launched into space
+
+And you're still buying TVs xboxes playstations laptops and smartphones and for these reasons
+
+Computing continues to Advance a lightning pace. I'll see you next week
+
+crash course computer science is produced in association with PBS digital studios
+
+At their channel you can check out a playlist of shows like Physics Goldie flicks
+
+And PBs space time this episode was filmed at the Chad and stacey ever thought studio in Indianapolis, Indiana
+
+And it was made with the help of all these nice people and our wonderful graphic scene thought cafe
+
+That's where we're going to have to halt and catch fire. See you next week
+
+you
+

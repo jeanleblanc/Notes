@@ -1,0 +1,956 @@
+Hi I’m John Green and this is Crash Course
+European History.
+Salut, je suis John Green et c'est Crash Course
+European History.
+
+Okay so look: It has been bleak so far.
+D'accord, alors regardez : il a été sombre jusqu'à présent.
+
+We’ve had the Black Death, the 116 Years’
+War, a series of religious wars that culminated
+Nous avons eu la peste noire, la guerre de 116
+ans, une série de guerres de religion qui ont culminé
+
+with a 30 Years War that killed 20% of Central
+Europe.
+avec une guerre de 30 ans qui a tué 20 % de l'
+Europe centrale.
+
+We’ve had the little ice age and witch murdering
+mania and the Atlantic slave trade but now,
+Nous avons eu la petite période glaciaire et la manie des meurtres de sorcières
+et la traite des esclaves dans l'Atlantique, mais maintenant,
+
+now we get to turn our attention to the scientific
+revolution, which profoundly reshaped our
+nous devons tourner notre attention vers la
+révolution scientifique, qui a profondément remodelé notre
+
+understanding of the universe and ourselves.
+compréhension de l'univers et de nous-mêmes.
+
+At last, we are going to make real, undeniable
+progress.
+Nous allons enfin faire des progrès réels et indéniables
+.
+
+What’s that?
+Qu'est-ce que c'est? 
+
+Oh, Stan tells me that many of these scientists
+were persecuted for sciencing.
+Oh, Stan me dit que beaucoup de ces scientifiques
+ont été persécutés pour leur science.
+
+Great.
+Génial. 
+
+But that doesn’t stop humans from developing
+the central insight that reshapes human history.
+Mais cela n'empêche pas les humains de développer
+l'idée centrale qui remodèle l'histoire humaine.
+
+It’s about to get really heliocentric around
+here...
+C'est sur le point de devenir vraiment héliocentrique
+ici...
+
+[Intro]
+Before we get into the scientific revolution,
+[Intro]
+Avant d'entrer dans la révolution scientifique,
+
+I just want to make one broad comment that
+might be obvious if you’ve watched previous
+je veux juste faire un commentaire général qui
+pourrait être évident si vous avez regardé les
+
+videos in this series: For most of human history,
+people did not expect to live healthier or
+vidéos précédentes de cette série : Pour la majeure partie de l'histoire humaine  , les
+gens ne s'attendaient pas à vivre une vie plus saine ou
+
+more prosperous lives than previous generations.
+plus prospère que les générations précédentes.
+
+Sometimes life got better, and sometimes it
+got worse.
+Parfois la vie s'améliorait, et parfois elle
+empirait.
+
+It’s true that human populations were increasing
+and that life expectancy was increasing gradually,
+Il est vrai que les populations humaines augmentaient
+et que l'espérance de vie augmentait progressivement,
+
+but the idea that it is normal for human life
+to get better over time is very new.
+mais l'idée qu'il est normal que la vie humaine
+s'améliore avec le temps est très nouvelle.
+
+Today, most European countries have high life
+expectancy, low maternal mortality, and low
+Aujourd'hui, la plupart des pays européens ont une
+espérance de vie élevée, une faible mortalité maternelle et de faibles
+
+rates of absolute poverty.
+taux de pauvreté absolue.
+
+But there have been about 10,000 generations
+of humans, and we are perhaps the 10th generation
+Mais il y a eu environ 10 000 générations
+d'êtres humains, et nous sommes peut-être la 10e génération
+
+who could reliably expect disease burden and
+child mortality and poverty to steadily decrease
+qui peut s'attendre à ce que le fardeau de la maladie,
+la mortalité infantile et la pauvreté diminuent régulièrement
+
+in our lifetimes.
+au cours de notre vie.
+
+Well, I’m part of the 10th.
+Eh bien, je fais partie du 10e.
+
+You’re probably part of the 11th.
+Vous faites probablement partie du 11e.
+
+But regardless, we owe much of this change
+to the Scientific Revolution.
+Mais quoi qu'il en soit, nous devons une grande partie de ce changement
+à la révolution scientifique.
+
+So, like the Reformation, the Scientific Revolution
+was another break with religious teachings.
+Ainsi, comme la Réforme, la Révolution scientifique a
+été une autre rupture avec les enseignements religieux.
+
+The Catholic Church taught that the earth
+was the center of the universe and had been
+L'Église catholique a enseigné que la terre
+était le centre de l'univers et l'avait
+
+so since the Creation.
+été depuis la création.
+
+The sun, moon, and planets traveled around
+the earth in perfectly circular orbits like
+Le soleil, la lune et les planètes ont voyagé autour de
+la terre sur des orbites parfaitement circulaires comme
+
+the rings of an onion.
+les rondelles d'un oignon.
+
+And beyond the onion was the realm of the
+divine, whose light pierced through in the
+Et au-delà de l'oignon se trouvait le royaume du
+divin, dont la lumière transperçait sous la
+
+form of stars.
+forme d'étoiles.
+
+All this perfect motion was the work of God
+Himself.
+Tout ce mouvement parfait était l'œuvre de Dieu
+lui-même.
+
+And any other understanding of the universe
+was thus a challenge to God’s eternal perfection
+Et toute autre compréhension de l'univers
+était donc un défi à la perfection éternelle de Dieu
+
+as described in the scriptures.
+telle que décrite dans les Écritures.
+
+But, like good Renaissance people, the new
+astronomers, mathematicians, and their colleagues
+Mais, comme les bons gens de la Renaissance, les nouveaux
+astronomes, mathématiciens et leurs collègues
+
+in other fields declared that old theories
+needed to be reexamined.
+dans d'autres domaines ont déclaré que les anciennes théories
+devaient être réexaminées.
+
+The first problem was that the perfect orbits
+of the planets, and moon, and sun did not
+Le premier problème était que les orbites parfaites
+des planètes, de la lune et du soleil ne
+
+fit with observation, causing astronomers
+to resort to ancient Ptolemaic explanations
+correspondaient pas à l'observation, obligeant les astronomes
+à recourir à d'anciennes explications ptolémaïques
+
+(basically that planets followed their own
+circular paths, which also revolved around
+(essentiellement que les planètes suivaient leurs propres
+trajectoires circulaires, qui tournaient également autour de
+
+the Earth).
+la Terre).
+
+Just before his death in 1543, Polish-born
+Nicholas Copernicus, a well-connected doctor
+Juste avant sa mort en 1543,
+Nicolas Copernic d'origine polonaise, docteur
+
+of canon law and researcher in mathematics,
+and astronomy, and classical literature, published
+en droit canonique bien connecté et chercheur en mathématiques,
+en astronomie et en littérature classique, a publié
+
+On the Revolution of the Celestial Spheres.
+Sur la révolution des sphères célestes.
+
+He noted problems with classical astronomical
+theory and determined that the universe was
+Il a noté des problèmes avec la théorie astronomique classique
+et a déterminé que l'univers était
+
+“heliocentric”—that is, the sun, rather
+than the earth, was at the center.
+«héliocentrique», c'est-à-dire que le soleil, plutôt
+que la terre, était au centre.
+
+The Catholic Church’s reaction to this was
+negative: the Italian monk Giordano Bruno,
+La réaction de l'Église catholique à cela fut
+négative : le moine italien Giordano Bruno,
+
+for instance, was burned at the stake in 1600
+for teaching Copernicus’s heliocentric findings.
+par exemple, fut brûlé sur le bûcher en 1600
+pour avoir enseigné les découvertes héliocentriques de Copernic.
+
+But even earlier than that, in 1572, Danish
+astronomer Tycho Brahe spotted a new star
+Mais même avant cela, en 1572, l'
+astronome danois Tycho Brahe a repéré une nouvelle étoile
+
+and in 1577 a new comet, further confirmation
+that the universe was not immutably and perfectly
+et en 1577 une nouvelle comète, confirmation supplémentaire
+que l'univers n'a pas été immuablement et parfaitement
+
+created.
+créé.
+
+Then, Johannes Kepler’s laws of planetary
+motion announced early in the seventeenth
+Ensuite, les lois du mouvement planétaire de Johannes Kepler
+annonçaient au début du XVIIe
+
+century that the orbits of the planets were
+elliptical—not perfectly circular.
+siècle que les orbites des planètes étaient
+elliptiques, et non parfaitement circulaires.
+
+The solar system was a solar system, and it
+wasn’t an onion.
+Le système solaire était un système solaire, et ce
+n'était pas un oignon.
+
+Something other than divine will was keeping
+the planets apart and in motion.
+Quelque chose d'autre que la volonté divine maintenait
+les planètes séparées et en mouvement.
+
+Let’s go to the Thought Bubble.
+Passons à la bulle de pensée.
+
+By this time, the observations of Galileo
+Galilei were bringing matters to a head.
+À cette époque, les observations de Galileo
+Galilei amenaient les choses à un point critique.
+
+Galileo was obsessed with science,
+especially its mathematical features and the
+Galilée était obsédé par la science, en
+particulier ses caractéristiques mathématiques et les
+
+calculations at the base of Copernicus’s
+heliocentric theory.
+calculs à la base de la
+théorie héliocentrique de Copernic.
+
+Galileo’s father had wanted him to become
+a doctor but mathematics drew him in.
+Le père de Galilée voulait qu'il
+devienne médecin, mais les mathématiques l'ont attiré.
+
+It’s the oldest story in the world.
+C'est la plus ancienne histoire du monde.
+
+He invented many tools like an early thermometer
+and his own telescope, which he used to dramatically
+Il a inventé de nombreux outils comme un premier thermomètre
+et son propre télescope, qu'il a utilisé pour
+
+improve human understanding of the universe
+-he was the first person to observe the moons
+améliorer considérablement la compréhension humaine de l'univers
+- il a été la première personne à observer les lunes
+
+of Jupiter, and the first to understand that
+the Milky Way was a collection of stars.
+de Jupiter et le premier à comprendre que
+la Voie lactée était une collection de  étoiles. 
+
+The telescope also showed irregular spots
+on the sun, a further sign of heavenly imperfections
+Le télescope a également montré des taches irrégulières
+sur le soleil, un signe supplémentaire d'imperfections célestes
+
+that went against the beliefs espoused by
+the Catholic Church.
+qui allaient à l'encontre des croyances adoptées par
+l'Église catholique.
+
+Despite Galileo’s prestige as a mathematician,
+his work on the nature of the universe went
+Malgré le prestige de Galilée en tant que mathématicien,
+son travail sur la nature de l'univers est allé
+
+too far for the Church.
+trop loin pour l'Église.
+
+In 1615, Galileo went to Rome to teach the
+clergy about the heliocentric universe and
+En 1615, Galilée se rendit à Rome pour enseigner au
+clergé l'univers héliocentrique et le
+
+convince them of its accuracy.
+convaincre de son exactitude.
+
+In 1616, it was condemned as heretical and
+Galileo promised not to teach that the earth
+En 1616, elle fut condamnée comme hérétique et
+Galilée promit de ne pas enseigner que la terre
+
+moved.
+bougeait.
+
+But, in 1632, he published Dialogue Concerning
+the Two Chief World Systems in which he described
+Mais, en 1632, il publie Dialogue Concerning
+the Two Chief World Systems dans lequel il décrit
+
+the Ptolemaic system on which the Church based
+its earth-centered astronomical teachings
+le système ptolémaïque sur lequel l'Église fonde
+ses enseignements astronomiques centrés sur la terre
+
+and the Copernican system.
+et le système copernicien.
+
+In 1636, the Roman Inquisition found him guilty
+of heresy and forced him to recant in order
+En 1636, l'Inquisition romaine le reconnut coupable
+d'hérésie et le força à se rétracter afin
+
+to avoid execution.
+d'éviter l'exécution.
+
+And so Galileo recanted.
+Et donc Galilée s'est rétracté.
+
+In 1992, after a 13 year investigation, the
+Catholic Church finally publicly acknowledged
+En 1992, après une enquête de 13 ans, l'
+Église catholique a finalement reconnu publiquement
+
+that the judgment against him had been wrong."
+que le jugement contre lui avait été erroné. »
+
+Thanks Thought Bubble.
+Merci Bulle de Pensée.
+
+Centuries later, Albert Einstein would write,
+“All knowledge of reality starts from experience
+Des siècles plus tard, Albert Einstein écrira :
+« Toute connaissance de la réalité commence par l'expérience
+
+and ends in it.
+et se termine en elle.
+
+… Because Galileo saw this, and particularly
+because he drummed it into the scientific
+… Parce que Galilée a vu cela, et en particulier
+parce qu'il l'a introduit dans le
+
+world, he is the father of modern physics--indeed,
+of modern science altogether.”
+monde scientifique, il est le père de la physique moderne - en fait,
+de la science moderne tout entière.
+
+We talk about this at length of course in
+our history of science series, but for our
+Nous en parlons longuement bien sûr dans
+notre série sur l'histoire des sciences, mais pour nos
+
+purposes here it’s important to understand
+that Galileo and other scientists used experimentation
+besoins ici, il est important de comprendre
+que Galilée et d'autres scientifiques ont utilisé l'expérimentation
+
+and mathematical calculation to confirm or
+refute hypotheses--and that scientific method
+et le calcul mathématique pour confirmer ou
+réfuter des hypothèses - et que la méthode scientifique
+
+was genuinely revolutionary.
+était véritablement révolutionnaire
+
+The scientific approach also spread to other
+fields of inquiry.
+.  L'approche scientifique s'est également étendue à d'autres
+domaines d'investigation. D'
+
+Ancient medical theories began to unravel,
+as English medical doctor William Harvey pronounced
+anciennes théories médicales ont commencé à se défaire,
+lorsque le médecin anglais William Harvey a déclaré que
+
+the heart to be a pump based on dissections
+he’d performed.
+le cœur était une pompe basée sur des dissections
+qu'il avait effectuées.
+
+He called the heart “a piece of Machinery”
+that worked according to natural laws.
+Il a appelé le cœur "un morceau de machinerie"
+qui fonctionnait.  selon les lois naturelles.
+
+But it’s important to note that even as
+mechanical theories took hold, prominent “new”
+Mais il est important de noter que même lorsque
+les théories mécaniques se sont imposées, d'éminents "nouveaux"
+
+scientists continued to believed in unseen
+forces at work in the universe.
+scientifiques ont continué à croire en des
+forces invisibles à l'œuvre dans l'univers.
+
+For example, astrology, positing that the
+planets and stars influenced people and events,
+Par exemple, l'astrologie, postulant que les
+planètes et les étoiles influençaient les gens et les événements  , a
+
+sought to map those influences.
+cherché à cartographier ces influences.
+
+Some scientists found it credible
+--and they pursued all kinds of mystical,
+Certains scientifiques l'ont trouvé
+crédible - et ils ont poursuivi toutes sortes d'investigations mystiques,
+
+and occult, and alchemical investigations.
+occultes et alchimiques.  ons.
+
+Any revolution needs good propagandists, and
+people were advertising that the “new”
+Toute révolution a besoin de bons propagandistes, et les
+gens annonçaient que les "nouvelles"
+
+scientific values and practices were amazing
+while also pointing out that the ancient and
+valeurs et pratiques scientifiques étaient étonnantes
+tout en soulignant que les anciennes et
+
+traditional ones were full of errors.
+traditionnelles étaient pleines d'erreurs.
+
+English politician Francis Bacon was foremost
+among these science propagandists, chiding
+Le politicien anglais Francis Bacon était le premier
+parmi ces propagandistes de la science, réprimandant
+
+everyone who was using the old paradigms and
+models of the universe—calling them worthless
+tous ceux qui utilisaient les anciens paradigmes et
+modèles de l'univers, les qualifiant d'anciens sans valeur
+
+ancients.
+.
+
+Bacon, like others at the time, created his
+own careful observations, and experiments,
+Bacon, comme d'autres à l'époque, a créé ses
+propres observations et expériences minutieuses
+
+and sought to use reason.
+et a cherché à utiliser la raison.
+
+There was, he said, a scientific method to
+be followed.
+Il y avait, dit-il, une méthode scientifique
+à suivre.
+
+One needn’t rely on past accounts that were
+copies of copies of copies--one should ask
+Il n'est pas nécessaire de s'appuyer sur des récits passés qui étaient des
+copies de copies de copies - on devrait poser
+
+their own questions, and do their own experiments
+to find the answer to those questions, experiments
+ses propres questions et faire ses propres expériences
+pour trouver la réponse à ces questions, des expériences
+
+that other people could then replicate to
+confirm--or refute--the findings.
+que d'autres personnes pourraient ensuite reproduire pour
+confirmer - ou réfuter  --les résultats. 
+
+And this became the basis for the new scientific
+method as Bacon laid it out in The Advancement
+Et cela est devenu la base de la nouvelle
+méthode scientifique telle que Bacon l'a exposée dans The Advancement
+
+of Learning.
+of Learning.
+
+His process of reaching the truth and drawing
+conclusions from specific, reliable facts
+Son processus pour atteindre la vérité et tirer des
+conclusions à partir de faits
+
+or evidence is called inductive reasoning.
+ou de preuves spécifiques et fiables est appelé raisonnement inductif.
+
+And a collection of reliable, verified evidence
+was essential, according to Bacon, not “old
+Et une collection de preuves fiables et vérifiées
+était essentielle, selon Bacon, pas des
+
+wives’ fables” or, as another new scientist
+put it, not “maunderings of a babbling hag”—words
+«fables de vieilles femmes» ou, comme l'a dit un autre nouveau
+scientifique, pas des «maunderings of a babbling hag» - des mots
+
+that were part of the discourse of witches
+who were being tried and murdered at the time.
+qui faisaient partie du discours des sorcières
+qui  étaient jugés et assassinés à l'époque.
+
+And then there was French philosopher René
+Descartes who moved speculation about the
+Et puis il y a eu le philosophe français René
+Descartes qui a déplacé la spéculation sur la
+
+new science to a still different methodological
+register by looking at the mind.
+nouvelle science vers un registre méthodologique encore différent
+en regardant l'esprit.
+
+Descartes noted that reason—thinking—was
+made for verification, so thinking on one’s
+Descartes a noté que la raison - la pensée - était
+faite pour la vérification, donc penser par soi-
+
+own was crucial.
+même était crucial.
+
+Because, otherwise there were so many facts
+that one could essentially become skeptical
+Parce que, sinon, il y avait tellement de faits
+que l'on pourrait essentiellement devenir sceptique
+
+about whether truth actually existed.
+quant à l'existence réelle de la vérité.
+
+Like imagine a world where there are facts,
+but there are also “alternate” facts,
+Comme imaginer un monde où il y a des faits,
+mais il y a aussi des faits "alternatifs",
+
+and you have to choose between your set of
+facts before you reach a conclusion.
+et vous devez choisir entre votre ensemble de
+faits avant de parvenir à une conclusion.
+
+That would be unlivable!
+Ce serait invivable !
+
+So Descartes set out to prove the one thing
+he felt he could be sure of.
+Alors Descartes entreprit de prouver la seule chose dont
+il se sentait sûr.
+
+His own existence.
+Sa propre existence.
+
+And in doing so, he prioritized his own power
+of thinking: “I think therefore I am.”
+Et ce faisant, il a donné la priorité à son propre pouvoir
+de penser : « Je pense donc je suis ».
+
+But he also prioritized doubt, which is central
+to the scientific method--Descartes also wrote,
+Mais il a également donné la priorité au doute, qui est au cœur
+de la méthode scientifique - Descartes a également écrit :
+
+“We cannot doubt of our existence while
+we doubt.”
+"Nous ne pouvons pas douter de notre existence pendant que
+nous doutons".
+
+In short, our ability to conceive of doubt
+about whether we exist, is proof that we exist.
+En bref, notre capacité à concevoir le doute
+quant à notre existence est la preuve que nous existons.
+
+By privileging the role that thought, and
+with it questioning, play in discovering truth,
+En privilégiant le rôle que la pensée, et
+avec elle le questionnement, jouent dans la découverte de la vérité,
+
+Descartes had developed deductive reasoning:
+that is, faith in the rational power of the
+Descartes avait développé le raisonnement déductif :
+c'est-à-dire la foi dans le pouvoir rationnel de l'
+
+mind to generate specific truths from its
+own theories or power of thinking.
+esprit de générer des vérités spécifiques à partir de ses
+propres théories ou pouvoir de penser.
+
+(By the way in addition to a Crash Course
+in the history of science, we also have a
+(Au fait, en plus d'un cours intensif
+d'histoire des sciences, nous avons également un
+
+crash course in philosophy, where you can
+learn more about Descartes.)
+cours intensif de philosophie, où vous pouvez en
+apprendre davantage sur Descartes.)
+
+Okay, let’s turn our attention to Isaac
+Newton, who synthesized new methodology and
+D'accord, tournons notre attention vers Isaac
+Newton, qui a synthétisé la nouvelle méthodologie et
+
+his own findings in his universal laws of
+motion.
+son  propres découvertes dans ses lois universelles du
+mouvement.
+
+Newton was a scientist with a reputation for
+following every lead, Newton practiced alchemy—that
+Newton était un scientifique réputé pour
+suivre chaque piste, Newton pratiquait l'alchimie, c'est-à-
+
+is the quest for secret formulae and practices,
+especially an entity called the philosopher’s
+dire la quête de formules et de pratiques secrètes, en
+particulier une entité appelée la
+
+stone that could turn lead or other base metals
+into gold.
+pierre philosophale qui pouvait transformer le plomb ou d'autres métaux de base
+en or.
+
+Which by the way would be an inflationary
+disaster, but fortunately it’s impossible.
+Ce qui serait d'ailleurs une
+catastrophe inflationniste, mais heureusement c'est impossible.
+
+But I think that’s important to note because
+it reminds us that not every lead being followed
+Mais je pense qu'il est important de le noter car
+cela nous rappelle que toutes les pistes suivies
+
+by scientists--then or now--results in big
+discoveries, but part of the glory of science
+par les scientifiques - à l'époque ou maintenant - n'aboutissent pas à de grandes
+découvertes, mais une partie de la gloire de la science
+
+is learning what doesn’t work.
+est d'apprendre ce qui ne fonctionne pas.
+
+Also, it reminds us that in the 17th century,
+many of the smartest people in the world believed
+De plus, cela nous rappelle qu'au XVIIe siècle,
+bon nombre des personnes les plus intelligentes au monde croyaient
+
+in alchemy, a nice opportunity to reflect
+on what false promises contemporary humans
+en l'alchimie, une belle occasion de réfléchir
+aux fausses promesses que pourraient croire les humains contemporains
+
+might believe.
+.
+
+At any rate, while studying alchemy, he also
+pulled together the findings of his predecessors
+Quoi qu'il en soit, tout en étudiant l'alchimie, il a également
+rassemblé les découvertes de ses prédécesseurs
+
+into mathematical laws for the functioning
+of the universe.
+en lois mathématiques pour le fonctionnement
+de l'univers.
+
+He quantified the major constructs of mass,
+inertia, force, velocity and acceleration
+Il a quantifié les principales constructions de masse, d'
+inertie, de force, de vitesse et d'accélération
+
+and produced the law of gravitation.
+et a produit la loi de la gravitation.
+
+And he encapsulated all his findings in his
+Principia Mathematica in 1687.
+Et il résume toutes ses découvertes dans ses
+Principia Mathematica en 1687.
+
+For Newton, the universe was indeed a fantastic,
+regular, and all encompassing machine, yet
+Pour Newton, l'univers était bien une machine fantastique,
+régulière et englobante, mais
+
+it was a machine still tinged with the mysteries
+that he continued to decipher, and to be fair
+c'était une machine encore teintée de mystères
+qu'il continuait à déchiffrer, et pour être juste.
+
+that we are still deciphering today.
+que nous déchiffrons encore aujourd'hui.
+
+By the early decades of the seventeenth century,
+contact with the wider world led to other
+Dans les premières décennies du XVIIe siècle, le
+contact avec le reste du monde a conduit à d'autres
+
+kinds of scientific investigations.
+types d'investigations scientifiques.
+
+Adventurers brought back to Europe new species
+of plants, and textiles, minerals, animal
+Les aventuriers ont ramené en Europe de nouvelles espèces
+de plantes, de textiles, de minéraux, de
+
+life that sparked wonder and scientific probing.
+vie animale qui ont suscité l'émerveillement et les recherches scientifiques.
+
+One of the first to venture out was Portuguese
+doctor Garcia da Orta.
+L'un des premiers à s'y aventurer fut le
+docteur portugais Garcia da Orta.
+
+He traveled first to Goa, India, studying
+plants like aloe, cannabis, coconut, and ginger.
+Il a d'abord voyagé à Goa, en Inde, étudiant des
+plantes comme l'aloès, le cannabis, la noix de coco et le gingembre.
+
+In 1563, he published Conversations on the
+Simples, Drugs and Medicinal Substances of
+En 1563, il publie Conversations on the
+Simples, Drugs and Medicinal Substances of
+
+India, which advanced the use of plants as
+medicine.
+India, qui fait progresser l'utilisation des plantes comme
+médicament.
+
+Local people were key to major plant discoveries:
+Dr. da Orta, for instance, learned from healers
+Les populations locales ont joué un rôle clé dans les découvertes majeures de plantes : le
+Dr da Orta, par exemple, a appris des guérisseurs
+
+in South Asia, while in the 1620s local people
+in Lima cured a Jesuit priest with malaria
+en Asie du Sud, tandis que dans les années 1620, les habitants
+de Lima ont guéri un prêtre jésuite atteint de paludisme
+
+by giving him the medicine they used--quina-quina.
+en lui donnant le médicament qu'ils utilisaient - quina-quina  .
+
+Eventually this healing bark was turned into
+quinine, a malaria medication that allowed
+Finalement, cette écorce curative a été transformée en
+quinine, un médicament contre le paludisme qui a permis aux
+
+Europeans to expand their empires more deeply
+into Africa and South America.
+Européens d'étendre leurs empires plus profondément
+en Afrique et en Amérique du Sud.
+
+In the cases of both Doctor da Orta and the
+Jesuits in Peru, European advances, like others
+Dans le cas du docteur da Orta et des
+jésuites au Pérou, les avancées européennes, comme d'autres
+
+that would follow, depended on gathering up
+scientific and medical knowledge from other
+qui allaient suivre, dépendaient de la collecte de
+connaissances scientifiques et médicales auprès d'autres
+
+people.
+personnes.
+
+Within Europe, scientific networks developed
+around heliocentrism and also around other
+En Europe, des réseaux scientifiques se sont développés
+autour de l'héliocentrisme et aussi autour d'autres
+
+new ideas just as they had in the Renaissance.
+idées nouvelles, tout comme ils l'avaient fait à la Renaissance.
+
+Like Erasmus and his correspondents, Galileo
+and scientists across Europe wrote one another
+Comme Erasmus et ses correspondants, Galileo
+et des scientifiques de toute l'Europe se sont écrits
+
+and published books about their findings.
+et ont publié des livres sur leurs découvertes.
+
+The Royal Society of London had its “republic
+of letters.”
+La Royal Society de Londres avait sa « république
+des lettres ».
+
+And communication like that became pivotal
+both to verification and to convince as much
+Et une telle communication est devenue essentielle à la
+fois pour vérifier et pour convaincre le plus grand nombre
+
+of the public as possible that these new scientific
+discoveries were valid.
+possible de public que ces nouvelles
+découvertes scientifiques étaient valides.
+
+Amid warfare, the little ice age, and famine,
+these scientists were corresponding about
+Au milieu de la guerre, du petit âge glaciaire et de la famine,
+ces scientifiques correspondaient au sujet des
+
+comets, windmills, pumps, and blood vessels.
+comètes, des moulins à vent, des pompes et des vaisseaux sanguins.
+
+Theories about vision and atomism passed around
+in letters, reached as far as the Ottoman
+Les théories sur la vision et l'atomisme circulaient
+dans les lettres, atteignant l'Empire
+
+Empire and Japan.
+ottoman et le Japon.
+
+Governments also got in on the Scientific
+Revolution, giving scientists like Galileo
+Les gouvernements ont également participé à la
+révolution scientifique, accordant à des scientifiques comme Galileo des
+
+stipends to support their work, and labeling
+them “Court Mathematicians,” which added
+allocations pour soutenir leur travail et les
+qualifiant de « mathématiciens de la cour », ce qui a ajouté du
+
+prestige both to the scientist and the royal
+court itself.
+prestige à la fois au scientifique et à la
+cour royale elle-même.
+
+Louis XIV of France started one of the most
+prestigious scientific academies—the royal
+Louis XIV de France a fondé l'une des
+académies scientifiques les plus prestigieuses - l'
+
+Academy of Sciences—in 1666.
+Académie royale des sciences - en 1666.
+
+And Theaters of anatomy, where dissections
+and other physiological demonstrations occurred,
+Et les théâtres d'anatomie, où se
+produisaient des dissections et d'autres démonstrations physiologiques, ont
+
+also received official sponsorship.
+également reçu un parrainage officiel.
+
+Oh, did the globe open at last?
+Oh, le globe s'est-il enfin ouvert ?
+
+Is Yorick in there?
+Est-ce que Yorick est là ?
+
+Alas, poor Yorick...I didn’t know eyebrows
+were a skeletal feature.
+Hélas, pauvre Yorick... Je ne savais pas que les sourcils
+étaient une caractéristique squelettique.
+
+For the first, like, 98 percent of history,
+we knew so little about how all of this works.
+Pour le premier, comme, 98% de l'histoire,
+nous savions si peu de choses sur la façon dont tout cela fonctionne.
+
+Look, I’m never going to be a ventriloquist,
+OK?
+Écoute, je ne serai jamais ventriloque, d'
+accord ?
+
+Stan, this isn’t a real skull, is it?
+Stan, ce n'est pas un vrai crâne, n'est-ce pas ?
+
+Ugh!
+Pouah! 
+
+We will examine the mounting power of the
+state next week beyond its sponsorship of
+Nous examinerons la puissance croissante de l'
+État la semaine prochaine au-delà de son parrainage de la
+
+science.
+science.
+
+For the moment, let’s reflect on the ways
+in which so-called new scientists during the
+Pour le moment, réfléchissons à la
+manière dont les soi-disant nouveaux scientifiques des
+
+sixteenth and seventeenth centuries bravely
+took religious scriptures out of the workings
+XVIe et XVIIe siècles ont courageusement
+extrait les écritures religieuses du fonctionnement
+
+of astronomy and the heavens.
+de l'astronomie et des cieux.
+
+Instead of a divine hand at work, by the time
+of Newton, universal laws for the operation
+Au lieu d'une main divine au travail, à l'époque
+de Newton, des lois universelles pour le fonctionnement
+
+of the solar system and physical bodies had
+been established.
+du système solaire et des corps physiques avaient
+été établies.
+
+Although most people believed in God, many
+of them earnestly so, they also followed a
+Bien que la plupart des gens aient cru en Dieu, beaucoup
+d'entre eux sincèrement, ils ont également suivi une
+
+developing scientific method and additionally
+established faith in their own rational powers.
+méthode scientifique en développement et ont en outre
+établi leur foi en leurs propres pouvoirs rationnels.
+
+This way of looking at the world would prove
+so important that less than 350 years after
+Cette façon de voir le monde s'avérerait
+si importante que moins de 350 ans après que
+
+Galileo became the first person to observe
+the moon’s cratered surface, human beings
+Galilée soit devenu la première personne à observer
+la surface cratérisée de la lune, les êtres humains
+
+would step foot on that surface.
+poseraient le pied sur cette surface.
+
+Thanks for watching.
+Merci d'avoir regardé. 
+
+I’ll see you next time.
+Je te verrai la prochaine fois.
+

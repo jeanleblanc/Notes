@@ -1,0 +1,727 @@
+This episode is supported by
+The Great Courses Plus.
+Cet épisode est soutenu par
+The Great Courses Plus.
+
+Hi, I’m Thomas Frank, this is
+Crash Course Study Skills,
+Salut, je suis Thomas Frank, c'est
+Crash Course Study Skills,
+
+and if you happen to be watching this at whatever
+point in the future that we all get neural implants to
+let us store our memories on servers in space,
+et si vous regardez ça à n'importe quel
+moment dans le futur que nous recevons tous des implants neuronaux pour
+nous permettre de stocker nos souvenirs sur des serveurs dans l'espace,
+
+what I’m about to tell you is
+woefully inaccurate.
+ce que je suis  sur le point de vous dire est
+terriblement inexact.
+
+Also, do we have flying cars yet?
+Aussi, avons-nous déjà des voitures volantes ?
+
+For those of you who still rely on that
+mushy gray stuff in your cranium to remember
+things, though, listen up.
+Pour ceux d'entre vous qui comptent encore sur ce
+truc gris et pâteux dans leur crâne pour se souvenir des
+choses, écoutez bien.
+
+Today we’re digging into how your memory
+works and how you can make it work better.
+Aujourd'hui, nous examinons comment fonctionne votre
+mémoire et comment vous pouvez l'améliorer.
+
+At least, I think we are.
+Du moins, je pense que nous le sommes.
+
+Nick, we’re not filming those makeup tutorials
+today, are we?
+Nick, nous ne filmons pas ces tutoriels de maquillage
+aujourd'hui, n'est-ce pas ?
+
+[Theme Music]
+[Thème musical]
+
+The science of how memory works is
+complicated, to say the least.
+La science du fonctionnement de la mémoire est
+compliquée, c'est le moins qu'on puisse dire.
+
+After all, how do we explain how a bunch of
+nerve cells, chemicals, and electrical jolts
+Après tout, comment expliquons-nous comment un tas de
+cellules nerveuses, de produits chimiques et de décharges
+
+somehow let you remember algebra, where you
+left your car keys, and all the lines to The Dark Knight?
+électriques vous permettent de vous souvenir de l'algèbre, de l'endroit où vous avez
+laissé vos clés de voiture et de toutes les lignes de The Dark Knight ?
+
+Well, it’s simple. We, uh…. rely on Hank
+from 3 years ago to do it for us.
+Eh bien, c'est simple.  Nous, euh….  compter sur
+Hank il y a 3 ans pour le faire pour nous.
+
+Seriously, there are two whole episodes of Crash Course Psychology that go through the entire process of how memories are formed and retrieved.
+Sérieusement, il y a deux épisodes entiers de Crash Course Psychology qui passent par tout le processus de formation et de récupération des souvenirs.
+
+But just like Xzibit left to his own devices
+in a car dealership, I can’t resist putting
+crash courses in your Crash Course.
+Mais tout comme Xzibit laissé à lui-même
+dans un concessionnaire automobile, je ne peux pas résister à l'envie de mettre des
+cours intensifs dans votre cours intensif.
+
+Plus, understanding how your memory works
+will help you to optimize the way you study.
+De plus, comprendre le fonctionnement de votre mémoire
+vous aidera à optimiser votre façon d'étudier.
+
+So let’s do a quick review.
+Faisons donc un rapide bilan.
+
+Your brain turns information into memories
+by putting it through a few different stages.
+Votre cerveau transforme les informations en souvenirs
+en les faisant passer par différentes étapes.
+
+The first is sensory memory, which
+processes pretty much everything your senses
+detect or experience in the real world.
+Le premier est la mémoire sensorielle, qui
+traite à peu près tout ce que vos sens
+détectent ou expérimentent dans le monde réel.
+
+That sensory memory has the attention span
+of a five-year-old at the DMV, though, so most of
+what it takes in is lost almost immediately.
+Cette mémoire sensorielle a la durée d'attention
+d'un enfant de cinq ans au DMV, donc la plupart de
+ce qu'elle prend est perdue presque immédiatement.
+
+But what does stick moves into your short-term
+or working memory.
+Mais ce qui colle se déplace dans votre
+mémoire à court terme ou de travail.
+
+This type of memory is sort of like the
+RAM in your computer – the memories don’t
+stick around permanently.
+Ce type de mémoire est un peu comme la
+RAM de votre ordinateur - les souvenirs ne restent pas en
+permanence.
+
+In fact, unless you continuously rehearse
+what’s floating around in working memory, it’ll pull
+a disappearing act after about 15-30 seconds.
+En fait, à moins que vous ne répétiez continuellement
+ce qui flotte dans la mémoire de travail, cela entraînera
+une disparition après environ 15 à 30 secondes.
+
+This can also happen if you try to cram too much in at once, because your working memory can really only handle 4-7 bits or items of information at a time.
+Cela peut également se produire si vous essayez d'en entasser trop à la fois, car votre mémoire de travail ne peut vraiment gérer que 4 à 7 bits ou éléments d'information à la fois.
+
+Now you can somewhat increase this limit
+by grouping bits into chunks –
+Maintenant, vous pouvez augmenter quelque peu cette limite
+en regroupant les bits en morceaux -
+
+like splitting “FBIKGBCIA” into
+FBI, KGB, CIA, but there’s still a limit.
+comme diviser "FBIKGBCIA" en
+FBI, KGB, CIA, mais il y a toujours une limite.
+
+Now, all this happens primarily in your
+brain’s prefrontal cortex,
+Maintenant, tout cela se passe principalement dans
+le cortex préfrontal de votre cerveau,
+
+but eventually the information has to
+make its way to other areas of the brain if it’s
+going to be encoded in long-term memory.
+mais finalement l'information doit se
+rendre dans d'autres zones du cerveau si
+elle doit être encodée dans la mémoire à long terme.
+
+To greatly simplify things, it’ll first
+head to the hippocampus, which augments it
+with chemicals called neurotransmitters.
+Pour simplifier grandement les choses, il se
+dirigera d'abord vers l'hippocampe, qui l'augmente
+avec des produits chimiques appelés neurotransmetteurs.
+
+Along with many other functions, these transmit
+details about the information – metadata, if you will.
+Avec de nombreuses autres fonctions, ceux-ci transmettent des
+détails sur les informations - des métadonnées, si vous voulez.
+
+Eventually, this leads to the formation of new synapses, which are essentially connections between neurons – though the neurons don’t actually touch.
+Finalement, cela conduit à la formation de nouvelles synapses, qui sont essentiellement des connexions entre les neurones - bien que les neurones ne se touchent pas réellement.
+
+Instead, they prefer to keep a small gap between
+each other and let more of those neurotransmitters
+move information between them.
+Au lieu de cela, ils préfèrent garder un petit espace
+entre eux et laisser davantage de ces neurotransmetteurs
+déplacer des informations entre eux.
+
+The whole process of memory formation
+causes physical changes within your brain:
+L'ensemble du processus de formation de la mémoire
+provoque des changements physiques dans votre cerveau : les
+
+neurotransmitters shuttle all over the place,
+neural pathways are forged,
+neurotransmetteurs font la navette partout,
+les voies neuronales sont forgées
+
+and neurons themselves undergo structural improvements using proteins such as brain-derived neurotrophic factor, or BDNF.
+et les neurones eux-mêmes subissent des améliorations structurelles en utilisant des protéines telles que le facteur neurotrophique dérivé du cerveau, ou BDNF.
+
+And, just like the process of strengthening your
+muscles through exercise, this all takes time –
+Et, tout comme le processus de renforcement de vos
+muscles par l'exercice, tout cela prend du temps
+
+which is why cramming for a test doesn’t
+work, and why you can’t instantly just
+download jujitsu into your brain like Neo.
+- c'est pourquoi le bachotage pour un test ne
+fonctionne pas, et pourquoi vous ne pouvez pas télécharger instantanément le
+jujitsu dans votre cerveau comme Neo.
+
+As Pierce J. Howard noted in his book The
+Owner’s Manual for the Brain:
+Comme Pierce J. Howard l'a noté dans son livre The
+Owner's Manual for the Brain :
+
+“Work involving higher mental functions, such
+as analysis and synthesis, needs to be spaced out
+to allow new neural connections to solidify.
+« Le travail impliquant des fonctions mentales supérieures, telles
+que l'analyse et la synthèse, doit être espacé
+pour permettre à de nouvelles connexions neuronales de se solidifier.
+
+New learning drives out old learning when
+insufficient time intervenes.”
+Le nouvel apprentissage chasse l'ancien apprentissage lorsqu'il
+n'y a pas suffisamment de temps.
+
+Now that you have a bit of an understanding
+of how your memory works, one crucial tip
+should be clear:
+Maintenant que vous comprenez un peu le
+fonctionnement de votre mémoire, un conseil crucial
+devrait être clair :
+
+you have to space your
+learning out over time.
+vous devez espacer votre
+apprentissage dans le temps.
+
+But we’re not going to just leave it at that, because – as cognitive scientists have known for a long time – the way you do that spacing matters quite a bit.
+Mais nous n'allons pas en rester là, car - comme les scientifiques cognitifs le savent depuis longtemps - la façon dont vous faites cet espacement compte beaucoup.
+
+To explain this, let’s start with why we
+forget things in the first place.
+Pour expliquer cela, commençons par pourquoi nous
+oublions les choses en premier lieu.
+
+Part of the reason is that your brain doesn’t
+encode all memories equally.
+Une partie de la raison est que votre cerveau n'encode pas
+tous les souvenirs de la même manière.
+
+During the long-term encoding process, the hippocampus will use different levels of neurotransmitters based on, among other things, how important the information is.
+Au cours du processus d'encodage à long terme, l'hippocampe utilisera différents niveaux de neurotransmetteurs en fonction, entre autres, de l'importance de l'information.
+
+And this plays a big role in how strongly it’s embedded in long-term memory.
+Et cela joue un grand rôle dans la force avec laquelle il est intégré dans la mémoire à long terme.
+
+This filtering mechanism is great for survival, as it
+allows your brain to safely disregard unimportant things,
+Ce mécanisme de filtrage est excellent pour la survie, car il
+permet à votre cerveau d'ignorer en toute sécurité des choses sans importance,
+
+like what you had for breakfast two weeks ago,
+while paying special attention to what’s important,
+like that fact that there are ninjas behind you right now.
+comme ce que vous avez mangé au petit-déjeuner il y a deux semaines,
+tout en accordant une attention particulière à ce qui est important,
+comme le fait qu'il y a des ninjas derrière vous en ce moment.
+
+Unfortunately, you can’t always consciously
+decide what’s important and what’s not,
+Malheureusement, vous ne pouvez pas toujours
+décider consciemment ce qui est important et ce qui ne l'est pas
+
+which is why it can be hard to remember all
+the details from that history chapter you just read.
+, c'est pourquoi il peut être difficile de se souvenir de tous
+les détails de ce chapitre d'histoire que vous venez de lire.
+
+At a primal level, your brain just doesn’t think the
+details of Genghis Khan’s war with the Quarismian Shah
+in 1219 are as important as a bear attacking you.
+Au niveau primitif, votre cerveau ne pense tout simplement pas que les
+détails de la guerre de Gengis Khan avec le Shah Quarismian
+en 1219 sont aussi importants qu'un ours qui vous attaque.
+
+However, there are a few tricks you can pull
+to make it care a bit more.
+Cependant, il existe quelques astuces que vous pouvez
+utiliser pour lui donner un peu plus d'attention.
+
+First, understand that your brain latches more readily onto things that are tangible, visual, and uncommon than it does with the abstract or the mundane.
+Tout d'abord, comprenez que votre cerveau s'accroche plus facilement aux choses tangibles, visuelles et inhabituelles qu'à l'abstrait ou au banal.
+
+Because of this, it can be helpful to develop mnemonics, which are mental devices that help you associate pieces of information in ways that are easier to remember.
+Pour cette raison, il peut être utile de développer des mnémoniques, qui sont des dispositifs mentaux qui vous aident à associer des informations de manière plus facile à retenir.
+
+And mnemonics can take many forms.
+Et les mnémoniques peuvent prendre plusieurs formes.
+
+You can create sayings to remember sequences of
+letters – such as “Ernie Ate Dynamite, GoodBye Ernie”
+to remember the names of the strings on a guitar.
+Vous pouvez créer des dictons pour mémoriser des séquences de
+lettres, telles que "Ernie Ate Dynamite, GoodBye Ernie"
+pour mémoriser les noms des cordes d'une guitare.
+
+Or you can make up weird stories in your
+head that includes cues to the information
+you’re trying to associate.
+Ou vous pouvez inventer des histoires étranges dans votre
+tête qui incluent des indices sur les informations
+que vous essayez d'associer.
+
+Like, the way I remember that Helsinki is the capital of Finland is by imagining a giant flaming sinkhole in the ground opening up with a bunch of sharks jumping out of it.
+Comme, la façon dont je me souviens qu'Helsinki est la capitale de la Finlande, c'est en imaginant un gouffre géant enflammé dans le sol s'ouvrant avec un tas de requins qui en sortent.
+
+Since it’s weird, it’s easy to remember, and
+it helps me associate the words Hell, Fin, and Sink,
+which in turn connect Finland and Helsinki.
+Comme c'est bizarre, c'est facile à retenir et
+cela m'aide à associer les mots Hell, Fin et Sink,
+qui à leur tour relient la Finlande et Helsinki.
+
+Additionally, the more connections that lead
+to a memory, the stronger it’ll be – especially
+if they’re learned in different contexts.
+De plus, plus il y a de connexions qui mènent
+à un souvenir, plus il sera fort - surtout
+s'ils sont appris dans des contextes différents.
+
+When I first learned about caravels, which were
+those small ships that Portuguese explorers used
+to travel down the African coast in the 15th century,
+Lorsque j'ai entendu parler pour la première fois des caravelles, qui étaient
+ces petits navires que les explorateurs portugais utilisaient
+pour parcourir la côte africaine au XVe siècle,
+
+I had a hard time remembering
+that name – caravels.
+j'ai eu du mal à me souvenir de
+ce nom - les caravelles.
+
+But once I started using them in Civilization
+V to build my empire –
+Mais une fois que j'ai commencé à les utiliser dans Civilization
+V pour construire mon empire -
+
+and to make sure Ghandi never got far enough
+to nuke me, the memory became a lot more solid,
+since I was interacting with it in a new context.
+et pour m'assurer que Ghandi n'irait jamais assez loin
+pour me bombarder, la mémoire est devenue beaucoup plus solide,
+puisque j'interagissais avec elle dans un nouveau contexte.
+
+Of course, you still have to repeatedly
+access your new memories once they’re
+encoded if you want them to stick around.
+Bien sûr, vous devez toujours accéder à plusieurs reprises
+à vos nouveaux souvenirs une fois qu'ils sont
+encodés si vous voulez qu'ils restent.
+
+This is pretty much the iron law of memorization:
+C'est à peu près la loi d'airain de la mémorisation :
+
+Except in cases where they’re attached to a
+particularly intense emotional experience, memories
+fade away unless you repeatedly recall them.
+sauf dans les cas où ils sont attachés à une
+expérience émotionnelle particulièrement intense, les souvenirs
+s'estompent à moins que vous ne les rappeliez à plusieurs reprises.
+
+Well, sort of.
+Let’s go to the Thought Bubble.
+Eh bien, en quelque sorte.
+Passons à la bulle de pensée.
+
+In the 1880’s, a German psychologist named
+Herman Ebbinghaus wanted to understand how
+memories decayed over time,
+Dans les années 1880, un psychologue allemand nommé
+Herman Ebbinghaus voulait comprendre comment les
+souvenirs se décomposaient au fil du temps,
+
+and he especially wanted to know how
+long the process took.
+et il voulait surtout savoir combien de
+temps le processus prenait.
+
+He began by running countless tests on his own memory, forcing himself to recall long lists of meaningless letters until eventually, he came up with the Forgetting Curve.
+Il a commencé par exécuter d'innombrables tests sur sa propre mémoire, se forçant à se rappeler de longues listes de lettres sans signification jusqu'à ce qu'il finisse par proposer la courbe d'oubli.
+
+While largely hypothetical and simplistic in its details, this model demonstrated how memories decay quickly unless accessed again and again.
+Bien que largement hypothétique et simpliste dans ses détails, ce modèle a démontré comment les souvenirs se dégradent rapidement à moins d'y accéder encore et encore.
+
+Since Ebbinghaus’s days, our understanding
+of how memory decays has come a long way.
+Depuis l'époque d'Ebbinghaus, notre compréhension
+de la façon dont la mémoire se décompose a parcouru un long chemin.
+
+According to the Forget-to-Learn theory, which is presented in Benedict Carey’s book How We Learn, memories actually have two different strengths:
+Selon la théorie Forget-to-Learn, qui est présentée dans le livre de Benedict Carey, How We Learn, les souvenirs ont en fait deux forces différentes :
+
+storage strength and retrieval strength.
+la force de stockage et la force de récupération.
+
+Picture your brain as a library where none
+of the books ever get stolen or damaged.
+Imaginez votre cerveau comme une bibliothèque où aucun
+des livres n'est jamais volé ou endommagé.
+
+When a new book is put on a shelf, it’s
+there for good.
+Quand un nouveau livre est mis sur une étagère, il est
+là pour de bon.
+
+This represents storage strength, which, according
+to the theory, doesn’t weaken.
+Cela représente la force de stockage, qui,
+selon la théorie, ne faiblit pas.
+
+Once a memory is encoded, the neural pattern
+can only get stronger.
+Une fois qu'un souvenir est encodé, le schéma neuronal
+ne peut que se renforcer.
+
+Now, unfortunately this library has a particularly lazy librarian who doesn’t do a very good job of keeping
+the library’s catalog organized.
+Maintenant, malheureusement, cette bibliothèque a un bibliothécaire particulièrement paresseux qui ne fait pas un très bon travail
+pour organiser le catalogue de la bibliothèque.
+
+This represents retrieval strength, which
+does fade with time.
+Cela représente la force de récupération,
+qui s'estompe avec le temps.
+
+Unless you go in and organize the catalog
+– or recall the memory – you’ll eventually
+lose track of it.
+À moins que vous n'entriez et organisiez le catalogue
+- ou rappeliez la mémoire - vous finirez par en
+perdre la trace.
+
+Thanks, Thought Bubble.
+Now here’s where it gets good.
+Merci, bulle de pensée.
+Maintenant, c'est là que ça devient bon.
+
+The more a memory’s retrieval strength has
+faded, and the greater the difficulty of recalling it,
+the greater the increase in learning will be.
+Plus la force de récupération d'un souvenir s'est
+estompée, et plus la difficulté de le rappeler est grande
+, plus l'augmentation de l'apprentissage sera importante.
+
+This is called the Spacing Effect.
+C'est ce qu'on appelle l'effet d'espacement.
+
+It’s essentially the “No pain, no gain,”
+of the mental realm;
+C'est essentiellement le "pas de douleur, pas de gain"
+du domaine mental ;
+
+the harder you have to work to recall something,
+the greater the reward for doing so.
+plus vous devez travailler dur pour vous souvenir de quelque chose
+, plus la récompense est grande.
+
+There’s an obvious catch, though – if you wait too
+long, the retrieval strength diminishes so much that
+you won’t be able to recall the memory at all.
+Il y a cependant un hic évident - si vous attendez trop
+longtemps, la force de récupération diminue tellement que
+vous ne pourrez pas du tout vous souvenir de la mémoire.
+
+This where the Principle of Desirable Difficulty
+comes in.
+C'est là qu'intervient le principe de difficulté souhaitable
+.
+
+To maximize the efficiency of your studying,
+you want to the find the point right before
+you’re about to forget something.
+Pour maximiser l'efficacité de votre étude,
+vous voulez trouver le point juste avant
+d'être sur le point d'oublier quelque chose.
+
+And you can do this by using spaced repetition
+techniques.
+Et vous pouvez le faire en utilisant des
+techniques de répétition espacées.
+
+The general idea behind spaced repetition is to
+steadily increase the amount of time in between
+each study session for any piece of information.
+L'idée générale derrière la répétition espacée est d'
+augmenter régulièrement le temps entre
+chaque session d'étude pour toute information.
+
+So instead of reviewing a fact or concept
+once every few days,
+Ainsi, au lieu de revoir un fait ou un concept
+une fois tous les quelques jours,
+
+you’d use a schedule like this where you’d wait a day between the first and second sessions, three days between the second and third, and so on.
+vous utiliseriez un calendrier comme celui-ci où vous attendriez un jour entre la première et la deuxième session, trois jours entre la deuxième et la troisième, et ainsi de suite.
+
+To do this precisely, you need a system that tracks your progress in memorizing each piece of information you need to study – since it never happens evenly.
+Pour ce faire précisément, vous avez besoin d'un système qui suit vos progrès dans la mémorisation de chaque élément d'information que vous devez étudier - car cela ne se produit jamais de manière uniforme.
+
+If you’ve got 100 Japanese kanji to learn,
+it’s inevitable that you’ll remember some
+easier than others.
+Si vous avez 100 kanji japonais à apprendre,
+il est inévitable que vous vous souveniez de certains
+plus facilement que d'autres.
+
+If you use the exact same time delays for
+every kanji, you’ll spend too much time studying
+some, and others won’t ever be learned at all.
+Si vous utilisez exactement les mêmes délais pour
+chaque kanji, vous passerez trop de temps à en étudier
+certains, et d'autres ne seront jamais appris du tout.
+
+To solve this problem, you can use the Leitner
+System.
+Pour résoudre ce problème, vous pouvez utiliser le
+système Leitner.
+
+In it, you’ve got five boxes, each of which
+represents a specific study interval.
+Vous y trouverez cinq cases, chacune
+représentant un intervalle d'étude spécifique.
+
+Box 1 gets studied every day, Box 2 every
+three days, Box 3 once a week, and so on.
+La case 1 est étudiée tous les jours, la case 2 tous les
+trois jours, la case 3 une fois par semaine, etc.
+
+Every fact or term gets its own flash card,
+and all cards start off in Box 1.
+Chaque fait ou terme reçoit sa propre carte flash,
+et toutes les cartes commencent dans la case 1.
+
+Once you get a card right, move it to the
+next box.
+Une fois que vous avez obtenu une bonne carte, déplacez-la vers la
+case suivante.
+
+And if you get a card wrong – no matter
+what box it’s in – send it back to Box 1.
+Et si vous vous trompez de carte,
+quelle que soit la case dans laquelle elle se trouve, renvoyez-la dans la case 1.
+
+If you play by these rules, you’ll ensure that you
+maximize your efficiency by spending more time
+studying the cards you have the weakest grasp on.
+Si vous respectez ces règles, vous vous assurerez de
+maximiser votre efficacité en passant plus de temps à
+étudier les cartes que vous maîtrisez le moins.  au. 
+
+The increasing time intervals of the boxes
+also help you leverage the spacing effect and
+get to close to that point of desirable difficulty.
+Les intervalles de temps croissants des boîtes
+vous aident également à tirer parti de l'effet d'espacement et à
+vous rapprocher de ce point de difficulté souhaitable.
+
+There are also a ton of spaced repetition
+apps for both computers and smartphones that
+will let you make this whole process digital.
+Il existe également une tonne d'
+applications de répétition espacée pour les ordinateurs et les smartphones qui
+vous permettront de rendre tout ce processus numérique.
+
+The best known one is probably Anki, which
+is free on most platforms, but there’s also
+TinyCards, Quizlet, and many, many others.
+Le plus connu est probablement Anki, qui
+est gratuit sur la plupart des plateformes, mais il y a aussi
+TinyCards, Quizlet et bien d'autres.
+
+Now when it comes to subjects that aren’t easily
+studied through flash cards – like math or even a sport like skateboarding – it’s harder to use a rigid spaced repetition algorithm.
+Désormais, lorsqu'il s'agit de sujets qui ne sont pas facilement
+étudiés à l'aide de cartes flash - comme les mathématiques ou même un sport comme le skateboard - il est plus difficile d'utiliser un algorithme de répétition espacée rigide.
+
+However, the spacing effect applies here as well,
+so be sure to space out your practice over time.
+Cependant, l'effet d'espacement s'applique également ici,
+alors assurez-vous d'espacer votre pratique dans le temps.
+
+During any given day’s practice, you’ll eventually
+hit a wall where you stop making progress
+Au cours d'une journée d'entraînement donnée, vous finirez par vous
+heurter à un mur où vous cesserez de progresser,
+
+whether it’s learning derivatives in calculus
+or kickflips in skateboarding
+qu'il s'agisse d'apprendre les dérivées en calcul
+ou les kickflips en skateboard
+
+– but if you come back to it a few days later,
+everything will be more likely to click into place.
+- mais si vous y revenez quelques jours plus tard,
+tout sera plus susceptible de s'enclencher.  .
+
+In each of these study sessions, make sure
+you’re putting the focus on recalling information
+from your own memory.
+Dans chacune de ces sessions d'étude, assurez-
+vous de mettre l'accent sur le rappel des informations
+de votre propre mémoire.
+
+As we talked about in our video on reading
+assignments, there are two main kinds of
+memory – recognition and recall.
+Comme nous en avons parlé dans notre vidéo sur les
+devoirs de lecture, il existe deux principaux types de
+mémoire : la reconnaissance et le rappel.
+
+Recognition is what happens when you’re
+exposed to information you’ve already seen
+before and remember it.
+La reconnaissance est ce qui se passe lorsque vous êtes
+exposé à des informations que vous avez déjà vues
+auparavant et que vous vous en souvenez.
+
+But recall involves dredging the information up from
+the depths of your memory banks without seeing it,
+Mais le rappel implique de draguer les informations
+des profondeurs de vos banques de mémoire sans les voir,
+
+which is exactly what you’ll have to do in both
+your exams and in many real-world situations.
+ce qui est exactement ce que vous devrez faire à la fois dans
+vos examens et dans de nombreuses situations du monde réel.
+
+So when you study, make sure you’re focusing
+on active recall.
+Ainsi, lorsque vous étudiez, assurez-vous de vous concentrer
+sur le rappel actif.
+
+Don’t just passively read over your notes or
+slides – use them to create quizzes for yourself,
+Ne vous contentez pas de relire passivement vos notes ou
+diapositives - utilisez-les pour créer des quiz pour vous-même,
+
+or challenge yourself to sit down and write out
+a summary of what you’ve learned from memory.
+ou mettez-vous au défi de vous asseoir et d'écrire
+un résumé de ce que vous avez appris de mémoire.
+
+If you’re studying a subject like math or physics, put a huge emphasis on practicing with real problems and actually use the concepts and formulas you’ve learned.
+Si vous étudiez une matière comme les mathématiques ou la physique, accordez une grande importance à la pratique de problèmes réels et utilisez réellement les concepts et les formules que vous avez appris.
+
+In short, studying should feel like work,
+and it should challenge your brain.
+En bref, étudier devrait ressembler à du travail
+et devrait stimuler votre cerveau.
+
+When it does, you’ll remember more while
+spending fewer hours at your desk.
+Lorsque c'est le cas, vous vous en souviendrez davantage tout en
+passant moins d'heures à votre bureau.
+
+Thanks for watching, and I’ll see you next
+week.
+Merci d'avoir regardé, et je vous verrai la
+semaine prochaine.
+
+This episode is brought to you by The Great
+Courses Plus, an on-demand subscription service
+Cet épisode vous est présenté par The Great
+Courses Plus, un service d'abonnement à la demande
+
+where you can get unlimited access to over
+7,000 different video lectures about any topic
+that interests you,
+où vous pouvez obtenir un accès illimité à plus de
+7 000 conférences vidéo différentes sur n'importe quel sujet
+qui vous intéresse,
+
+including science, literature, history, math,
+even cooking or photography.
+y compris la science, la littérature, l'histoire, les mathématiques,
+même la cuisine ou la photographie.  .
+
+The classes are taught by award winning
+professors – from the Ivy League and other
+top schools around the world.
+Les cours sont dispensés par des
+professeurs primés - de la Ivy League et d'autres
+grandes écoles du monde entier.
+
+If you're looking to improve your study skills
+further, you might like this lecture from
+Si vous cherchez à améliorer davantage vos compétences d'étude
+, vous aimerez peut-être cette conférence du
+
+Professor Steve Joordens, called Encoding—Our
+Gateway into Long-Term Memory where you'll
+learn more about how to improve your own recall.
+professeur Steve Joordens, intitulée Encoding—Our
+Gateway into Long-Term Memory, où vous en
+apprendrez plus sur la façon d'améliorer votre propre mémoire.
+
+Right now, The Great Courses Plus is offering
+Crash Course viewers a free one-month trial.
+À l'heure actuelle, The Great Courses Plus offre aux
+téléspectateurs de Crash Course un essai gratuit d'un mois.
+
+Go to thegreatcoursesplus.com/studyskills,
+or click on the link in the video description
+below, to start your free trial today.
+Rendez-vous sur thegreatcoursesplus.com/studyskills
+ou cliquez sur le lien dans la description de la vidéo
+ci-dessous pour commencer votre essai gratuit dès aujourd'hui.
+
+Crash Course Study Skills is filmed in the
+Dr. Cheryl C. Kinney Crash Course Studio in
+Missoula, MT, and it's made with the help
+of all of these nice people.
+Crash Course Study Skills est filmé dans le
+studio Dr. Cheryl C. Kinney Crash Course à
+Missoula, MT, et il est réalisé avec l'aide
+de toutes ces personnes sympathiques.
+
+If you'd like to keep Crash Course free for
+everyone, forever, you can support the series over
+on Patreon, a crowdfunding platform that allows
+you to support the content that you love.
+Si vous souhaitez que Crash Course reste gratuit pour
+tout le monde, pour toujours, vous pouvez soutenir la série
+sur Patreon, une plateforme de financement participatif qui
+vous permet de soutenir le contenu que vous aimez.
+
+Thank you so much for your support.
+Merci beaucoup pour votre soutien.
+

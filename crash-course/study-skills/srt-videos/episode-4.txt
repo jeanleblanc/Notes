@@ -1,0 +1,674 @@
+Hi, I’m Thomas Frank, this is Crash Course
+Study Skills, and today you’re going through
+planning and organization boot camp.
+Salut, je suis Thomas Frank, c'est Crash Course
+Study Skills, et aujourd'hui vous passez par
+le camp d'entraînement de planification et d'organisation.
+
+As a student, you have two modes, which I
+like to call Planning Mode and Robot Mode.
+En tant qu'étudiant, vous avez deux modes, que
+j'aime appeler le mode de planification et le mode robot.
+
+When you buckle down to study for a test, finish a
+homework assignment, or slog your way through
+a textbook chapter, you’re in Robot Mode.
+Lorsque vous vous attachez à étudier pour un test, terminez un
+devoir ou parcourez
+un chapitre de manuel, vous êtes en mode robot.
+
+You’re doing the work.
+Vous faites le travail.
+
+But robots can only do what they’re
+programmed to do, and they need a
+well-maintained environment to work in.
+Mais les robots ne peuvent faire que ce pour quoi ils sont
+programmés, et ils ont besoin d'un
+environnement bien entretenu pour travailler.
+
+I’ve seen videos of those robots in car
+factories – they’re not working with dirty laundry
+or cheeseburger wrappers laying around.
+J'ai vu des vidéos de ces robots dans des
+usines automobiles - ils ne travaillent pas avec du linge sale
+ou des emballages de cheeseburger qui traînent  .
+
+Those places are pretty clean.
+Ces endroits sont plutôt propres.
+
+So, if you want your Robot mode to work efficiently,
+you need to know how to program it and how to
+create a good environment for it to work in.
+Donc, si vous voulez que votre mode Robot fonctionne efficacement,
+vous devez savoir comment le programmer et comment
+créer un bon environnement pour qu'il fonctionne.
+
+[Theme Music]
+[Thème Musique]
+
+To get started, you’re going to need an
+organizational system.
+Pour commencer, vous aurez besoin d'un
+système d'organisation  .
+
+This is the framework for storing all
+information and resources that we’ll need,
+and also for capturing “ideas.”
+C'est le cadre pour stocker toutes les
+informations et ressources dont nous aurons besoin,
+ainsi que pour capturer des «idées».
+
+An “Idea” is my term for any intangible
+information that you need to save and have
+easy access to later on.
+Une « idée » est mon terme pour toute
+information intangible que vous devez enregistrer et avoir
+facilement accès plus tard.
+
+This can include: Tasks, Events, and actual,
+you know, ideas – things you want to write,
+create – anything like that.
+Cela peut inclure : des tâches, des événements et,
+vous savez, des idées réelles - des choses que vous voulez écrire,
+créer - n'importe quoi de ce genre.
+
+Additionally, you’ll need a reliable way to store:
+Notes, Handouts, and any other output you create, be
+it writing, code, art, or cheeseburger wrapper origami.
+De plus, vous aurez besoin d'un moyen fiable de stocker : les
+notes, les documents et toute autre sortie que vous créez,
+qu'il s'agisse d'écriture, de code, d'art ou d'origami d'emballage de cheeseburger.
+
+So let’s get down to business, defeat the
+huns, and create that system.
+Alors passons aux
+choses sérieuses, vainquons les huns et créons ce système.
+
+In my mind, any good organizational system
+worth its salt includes:
+Dans mon esprit, tout bon système d'organisation
+digne de ce nom comprend :
+
+A task manager
+A calendar
+Un gestionnaire de tâches
+Un calendrier
+
+A note-taking system
+And Some kind of physical storage for paper documents
+Un système de prise de notes
+Et une sorte de stockage physique pour les documents papier
+
+Your task manager is the place where you record
+the stuff that you need to get done.
+Votre gestionnaire de tâches est l'endroit où vous
+enregistrez ce que vous devez faire.
+
+It’s what you look to when you get that
+sudden burst of motivation to do ALL THE THINGS,
+C'est ce vers quoi vous vous tournez lorsque vous obtenez cette
+poussée soudaine de motivation pour faire TOUTES LES CHOSES,
+
+and then wonder what all the things actually
+includes.
+et que vous vous demandez ensuite ce que toutes ces choses
+incluent réellement.
+
+You’ll find a zillion different types of
+task managers out there, but there are only
+a few really essential features.
+Vous trouverez un million de types de
+gestionnaires de tâches différents, mais il n'y a
+que quelques fonctionnalités vraiment essentielles.
+
+Pick a system that makes it easy to record a
+task’s details and due date, and also make sure it’s
+a snap to see what’s coming due in the near future.
+Choisissez un système qui facilite l'enregistrement
+des détails et de la date d'échéance d'une tâche, et assurez-vous également que c'est
+un clin d'œil pour voir ce qui arrive à échéance dans un proche avenir.
+
+The task manager that I personally use these
+days is called Todoist, and it ticks all those boxes.
+Le gestionnaire de tâches que j'utilise personnellement ces
+jours-ci s'appelle Todoist, et il coche toutes ces cases.
+
+But there are lots of other options, including
+Trello, Microsoft To-Do, and Any.Do.
+Mais il existe de nombreuses autres options, notamment
+Trello, Microsoft To-Do et Any.Do.
+
+And if paper systems are more your speed, the classic day planner works just as well, as do more recent systems like the Bullet Journal method.
+Et si les systèmes papier sont plus rapides, l'agenda classique fonctionne tout aussi bien, tout comme les systèmes plus récents comme la méthode Bullet Journal.
+
+In addition to tasks, you’ll also need to
+remember upcoming events, and that’s what
+your calendar is for.
+En plus des tâches, vous devrez également vous
+souvenir des événements à venir, et c'est à cela que
+sert votre calendrier.
+
+Now if you’re using an old-fashioned paper
+planner, then your task manager and calendar
+might be one in the same –
+Maintenant, si vous utilisez un agenda papier à l'ancienne
+, votre gestionnaire de tâches et votre calendrier
+peuvent être identiques -
+
+but personally, I’ve always found that keeping
+the two separate works better for me.
+mais personnellement, j'ai toujours trouvé que garder
+les deux séparés fonctionnait mieux pour moi.
+
+A calendar – in my case, Google Calendar, but it might be Apple’s Calendar app or something else for you – is best for events that will happen at a specific time,
+Un calendrier - dans mon cas, Google Agenda, mais il peut s'agir de l'application Calendrier d'Apple ou autre chose pour vous - est préférable pour les événements qui se produiront à un moment précis,
+
+while a task manager better handles things
+that have due dates, but that you can work
+on whenever you want before then.
+tandis qu'un gestionnaire de tâches gère mieux les choses
+qui ont des dates d'échéance, mais que vous  pouvez
+travailler quand vous le souhaitez avant cela.
+
+Next, you need to figure out how to organize
+your notes.
+Ensuite, vous devez comprendre comment organiser
+vos notes.
+
+This is pretty simple for paper notes; you
+just use paper notebooks, and have a separate
+section or entire notebook for each class.
+C'est assez simple pour les notes papier;  vous
+utilisez simplement des cahiers papier et vous avez une
+section séparée ou un cahier entier pour chaque classe.
+
+But, for digital notes, you’ve got a lot
+of options.
+Mais, pour les notes numériques, vous avez beaucoup
+d'options.
+
+Now, my app of choice has always been Evernote,
+but you can also take a look at Microsoft’s OneNote,
+Maintenant, mon application de prédilection a toujours été Evernote,
+mais vous pouvez également jeter un œil à OneNote de Microsoft,
+
+Apple’s Notes (they’re not always
+super imaginative with naming over there
+in Cupertino), or even Google Docs.
+aux notes d'Apple (ils ne sont pas toujours
+très imaginatifs avec la dénomination là-bas
+à Cupertino), ou même à Google Docs.
+
+Lastly, make sure you’ve got some kind of
+physical storage for handouts, loose papers,
+and notebooks you’ve filled up.
+Enfin, assurez-vous d'avoir une sorte de
+stockage physique pour les documents, les papiers volants
+et les cahiers que vous avez remplis.
+
+Keeping one of those portable accordion folders in your bag works well when you’re away from home, and it combos well with a file box for longer-term storage.
+Garder l'un de ces dossiers d'accordéon portables dans votre sac fonctionne bien lorsque vous n'êtes pas chez vous, et il se combine bien avec une boîte de classement pour un stockage à plus long terme.
+
+Now once you’ve cobbled your system
+together, the next step is to develop an scheme
+for keeping it all organized.
+Maintenant, une fois que vous avez bricolé votre
+système, l'étape suivante consiste à développer un schéma
+pour que tout soit organisé.
+
+Now, sometimes a scheme is a plan for getting a bunch of small, yellow minions and attempting to steal the moon, and I definitely don’t want to discourage you from doing that.
+Maintenant, parfois, un stratagème est un plan pour obtenir un groupe de petits sbires jaunes et tenter de voler la lune, et je ne veux certainement pas vous décourager de le faire.
+
+But, in this context, it just means a set
+of rules and conventions that help to keep
+your system organized and useful.
+Mais, dans ce contexte, cela signifie simplement un ensemble
+de règles et de conventions qui aident à garder
+votre système organisé et utile.
+
+If you choose a good scheme and stick to its rules
+every time you file away a new task, event, or handout,
+Si vous choisissez un bon schéma et que vous vous en tenez à ses règles
+chaque fois que vous classez une nouvelle tâche, un nouvel événement ou un nouveau document
+
+then the system will remain useful and you won’t find yourself digging through your laundry basket at 3 a.m. looking for that essay you wrote on Hamlet.
+, le système restera utile et vous ne vous retrouverez pas à fouiller dans votre panier à linge à 3 heures du matin à la recherche de cet essai.  vous avez écrit sur Hamlet.
+
+Let’s go to the Thought Bubble.
+Passons à la bulle de pensée.
+
+Your computer’s file structure is a great place
+to start, since so many people seem content to
+just let everything sit out on their desktop.
+La structure de fichiers de votre ordinateur est un excellent point
+de départ, car de nombreuses personnes semblent satisfaites de
+tout laisser reposer sur leur bureau.
+
+This is a pretty bad scheme to use, because
+you’re eventually going to lose something.
+C'est un très mauvais schéma à utiliser, car
+vous finirez par perdre quelque chose.
+
+Plus, all those files will be covering up
+that Hatsune Miku desktop background
+that I know you have.
+De plus, tous ces fichiers
+couvriront l'arrière-plan du bureau Hatsune Miku
+que je sais que vous avez.
+
+So a better long-term solution is to create a
+folder structure that’s well-defined, yet flexible.
+Une meilleure solution à long terme consiste donc à créer une
+structure de dossiers bien définie, mais flexible.
+
+My recommendation is to set up your computer’s
+folders like a tree with lots of branches.
+Ma recommandation est de configurer les
+dossiers de votre ordinateur comme un arbre avec beaucoup de branches.
+
+The top-level folder is the root of the tree,
+and that’s where the scheme starts.
+Le dossier de niveau supérieur est la racine de l'arborescence,
+et c'est là que le schéma commence.
+
+So, in this case, that folder will be called
+“College.”
+Donc, dans ce cas, ce dossier s'appellera
+"Collège".
+
+From there, try to create branches that represent
+the different aspects of that part of your life.
+À partir de là, essayez de créer des branches qui représentent
+les différents aspects de cette partie de votre vie.
+
+The first logical branch point in this situation is
+the year – freshman, sophomore, junior, senior.
+Le premier point de branchement logique dans cette situation est
+l'année - étudiant de première année, deuxième année, junior, senior.
+
+Then, as we go further and hit even more
+specific branch points, choose a logical category
+for drilling down to the next level.
+Ensuite, au fur et à mesure que nous avançons et atteignons
+des points de branchement encore plus spécifiques, choisissez une catégorie logique
+pour passer au niveau suivant.
+
+And this changes depending on the type of
+information you're organizing.
+Et cela change en fonction du type d'
+informations que vous organisez.
+
+Like, here, organizing by class makes sense.
+Comme ici, l'organisation par classe a du sens.
+
+We’ve got Sports Psychology, History of
+Rome, and Film Studies 101.
+Nous avons la psychologie du sport, l'histoire de
+Rome et les études cinématographiques 101.
+
+And finally, add subfolders for big group
+projects.
+Et enfin, ajoutez des sous-dossiers pour les grands
+projets de groupe.
+
+If you’re constantly vigilant about saving your work in the correct folder, then this structure will ensure that it’s always easy to find what you’re looking for –
+Si vous êtes constamment vigilant quant à l'enregistrement de votre travail dans le bon dossier, cette structure garantira qu'il est toujours facile de trouver ce que vous cherchez - il
+
+you just go down the branches that lead to it.
+vous suffit de parcourir les branches qui y mènent.
+
+Thanks, Thought Bubble.
+Merci, bulle de pensée.
+
+You can use a similar structure with your
+digital notes as well.
+Vous pouvez également utiliser une structure similaire avec vos
+notes numériques.
+
+This is why I like using Evernote so much.
+C'est pourquoi j'aime tant utiliser Evernote.
+
+Since everything is organized into Notebooks,
+and Notebooks themselves can be put into stacks, I
+can create a scheme that organizes my entire life.
+Étant donné que tout est organisé en blocs
+-notes et que les blocs-notes eux-mêmes peuvent être empilés, je
+peux créer un schéma qui organise toute ma vie.
+
+For instance, I’ve got a notebook stack
+for classes.
+Par exemple, j'ai une pile de cahiers
+pour les cours.
+
+Within it, every class I’ve ever taken gets
+its own notebook,
+À l'intérieur, chaque cours que j'ai suivi a
+son propre cahier,
+
+and within those notebooks I can
+create notes for individual lectures, reading
+assignments, and other things.
+et dans ces cahiers, je peux
+créer des notes pour des conférences individuelles, des
+devoirs de lecture et d'autres choses.
+
+With your calendar, color-code events so you
+can see which part of your life they represent,
+Avec votre calendrier, codez les événements par couleur afin que vous
+puissiez voir quelle partie de votre vie ils représentent,
+
+like classes, extracurricular activities,
+and part-time job hours.
+comme les cours, les activités parascolaires
+et les heures de travail à temps partiel.
+
+If you use a paper planner, you can do this
+by using colored stickers or markers, as well.
+Si vous utilisez un agenda papier, vous pouvez également
+utiliser des autocollants ou des marqueurs de couleur.
+
+Lastly, create projects within your task manager
+for grouping similar tasks together.
+Enfin, créez des projets dans votre gestionnaire de tâches
+pour regrouper des tâches similaires.
+
+If you’re a student, the most logical way to do this is
+to create a project for each class, as well as additional
+projects for anything else you’ve got going on.
+Si vous êtes étudiant, la façon la plus logique de le faire est
+de créer un projet pour chaque classe, ainsi que des
+projets supplémentaires pour tout ce que vous avez en cours.
+
+Now that you’ve chosen your tools and have your system set up, you need to make sure you’ll actually use it, since putting things into your system properly takes work.
+Maintenant que vous avez choisi vos outils et que votre système est configuré, vous devez vous assurer que vous l'utiliserez réellement, car mettre les choses dans votre système correctement demande du travail.
+
+If your teacher assigns something in class,
+you eventually need to open your task manager
+and record all the details correctly.
+Si votre professeur attribue quelque chose en classe,
+vous devrez éventuellement ouvrir votre gestionnaire de tâches
+et enregistrer correctement tous les détails.
+
+That takes more effort than simply tossing
+that handout into your backpack or telling
+yourself, “Eh, I’m sure I’ll remember it.”
+Cela demande plus d'efforts que de simplement jeter
+ce document dans votre sac à dos ou de
+vous dire: "Eh, je suis sûr que je m'en souviendrai."
+
+But if you don’t do it, your system started
+to get unorganized and incomplete – which
+means your brain can’t rely on it anymore.
+Mais si vous ne le faites pas, votre système a commencé
+à devenir désorganisé et incomplet, ce qui
+signifie que votre cerveau ne peut plus compter dessus.
+
+So you need to build the habit of using your system
+correctly all the time, even though it takes effort.
+Vous devez donc prendre l'habitude d'utiliser votre système
+correctement tout le temps, même si cela demande des efforts.
+
+And one of the best ways to do that is to
+remove as much friction as you possibly
+can from the process.
+Et l'une des meilleures façons d'y parvenir est de
+supprimer autant de frictions que
+possible du processus.
+
+This is an idea that I like to call quick capture –
+figuring out the quickest, easiest way to file things
+into your system without compromising its structure.
+C'est une idée que j'aime appeler capture rapide -
+trouver le moyen le plus rapide et le plus simple de classer des éléments
+dans votre système sans compromettre sa structure.
+
+There are two main ways to go about practicing
+quick capture.
+Il existe deux façons principales de pratiquer
+la capture rapide.
+
+The first is to commit to entering things into
+the correct place the moment they come up.
+La première consiste à s'engager à entrer les choses
+au bon endroit dès qu'elles apparaissent.
+
+For instance, if your teacher assigns
+homework in class, you’d immediately open your
+task manager and record all the details.
+Par exemple, si votre professeur vous donne des
+devoirs en classe, vous ouvrirez immédiatement votre
+gestionnaire de tâches et enregistrerez tous les détails.
+
+If you do choose to go this route, you can
+streamline things by choosing apps and tools
+that simplify the recording process.
+Si vous choisissez d'emprunter cette voie, vous pouvez
+rationaliser les choses en choisissant des applications et des outils
+qui simplifient le processus d'enregistrement.
+
+A good example is Google Calendar’s iPhone app,
+which lets you set the date, time, and location of
+an event just by typing them into the event’s title.
+Un bon exemple est l'application iPhone de Google Calendar,
+qui vous permet de définir la date, l'heure et le lieu d'
+un événement simplement en les tapant dans le titre de l'événement.
+
+That’s a lot quicker than tapping on each
+individual field.
+C'est beaucoup plus rapide que de taper sur chaque
+champ individuel.
+
+It also means eliminating any unnecessary
+features from your system;
+Cela signifie également éliminer toutes les
+fonctionnalités inutiles de votre système ;
+
+while it might be cool that your to-do
+app can add priority levels to each task,
+you probably don’t need them,
+même s'il peut être intéressant que votre
+application de tâches puisse ajouter des niveaux de priorité à chaque tâche,
+vous n'en avez probablement pas besoin,
+
+and they just add more friction
+to the process.
+et ils ajoutent simplement plus de friction
+au processus.
+
+The second option here is to use a daily note,
+which is a simple piece of notebook paper,
+La deuxième option ici consiste à utiliser une note quotidienne,
+qui est un simple morceau de papier de cahier,
+
+or a note that’s quickly accessible on your
+phone, where you record everything that comes
+up during the day.
+ou une note rapidement accessible sur votre
+téléphone, où vous enregistrez tout ce qui se passe
+pendant la journée.
+
+This is a temporary holding place.
+Il s'agit d'un lieu de détention temporaire.
+
+At the end of each day, you need to move everything
+you’ve recorded to the correct place within your system.
+À la fin de chaque journée, vous devez déplacer tout
+ce que vous avez enregistré au bon endroit dans votre système.
+
+All right, so now we are ready to finally
+dig into the details of planning.
+Très bien, alors maintenant nous sommes prêts à enfin
+creuser dans les détails de la planification.
+
+Now, I like to view planning in two separate
+contexts: weekly and daily.
+Maintenant, j'aime voir la planification dans deux
+contextes distincts : hebdomadaire et quotidien.
+
+The main purpose of your weekly planning session is to look at everything that’s coming due during the upcoming week, as well as in the following one.
+L'objectif principal de votre session de planification hebdomadaire est d'examiner tout ce qui arrive à échéance au cours de la semaine à venir, ainsi que dans la suivante.
+
+I recommend doing this on Sunday;
+Je recommande de le faire le dimanche;
+
+that way, you’ll be aware of everything that’s coming up, and you’ll have a rough idea of when you’ll be able to work on it all based on what’s already in your calendar.
+de cette façon, vous serez au courant de tout ce qui s'en vient et vous aurez une idée approximative du moment où vous pourrez travailler dessus en fonction de ce qui est déjà dans votre calendrier.
+
+However, there is also some long-term planning
+that should be done here.
+Cependant, il y a aussi une planification à long terme
+qui devrait être faite ici.
+
+First, if you’ve got an exam coming up in
+the next month, it’s a good idea to look over
+everything that will be covered,
+Tout d'abord, si vous avez un examen à venir
+le mois prochain, c'est une bonne idée d'examiner
+tout ce qui sera couvert,
+
+and then to schedule study sessions over
+the upcoming weeks to ensure you don’t find
+yourself cramming right before it.
+puis de planifier des sessions d'étude au cours
+des semaines à venir pour vous assurer de ne pas vous retrouver à
+bachoter juste avant  ce. 
+
+If you’ve just been assigned a big project, you
+can similarly break that project down into small
+chunks and assign due dates to those chunks.
+Si vous venez de vous voir confier un gros projet, vous
+pouvez également diviser ce projet en petits
+morceaux et attribuer des dates d'échéance à ces morceaux.
+
+Think about other big events that might be
+coming up in your life as well.
+Pensez à d'autres grands événements qui pourraient également se produire
+dans votre vie.
+
+Maybe there’s a scholarship deadline coming
+up, or a birthday you want to remember.
+Peut-être y a-t-il une date limite pour une bourse
+ou un anniversaire dont vous voulez vous souvenir.
+
+If something comes to mind, add it to your
+system so you won’t forget it.
+Si quelque chose vous vient à l'esprit, ajoutez-le à votre
+système pour ne pas l'oublier.
+
+In addition to planning out your week, you
+should also take a few minutes each day to
+create a daily plan.
+En plus de planifier votre semaine, vous
+devez également prendre quelques minutes chaque jour pour
+créer un plan quotidien.
+
+This is simply a list of the events you’ve
+got planned and the tasks you want to accomplish.
+Il s'agit simplement d'une liste des événements que vous
+avez planifiés et des tâches que vous souhaitez accomplir.
+
+Now you can do this in the morning before
+you start school, or you can do it at night before
+you go to bed, which is what I prefer to do.
+Maintenant, vous pouvez le faire le matin avant
+de commencer l'école, ou vous pouvez le faire le soir avant
+d'aller vous coucher, ce que je préfère faire.
+
+As you create it, try to batch your tasks.
+Au fur et à mesure que vous le créez, essayez de grouper vos tâches.
+
+If you have a bunch of easy, low-energy tasks, or
+errands that require travel, plan ahead and combine
+them into one big maintenance session.
+Si vous avez un tas de tâches faciles et à faible consommation d'énergie, ou des
+courses qui nécessitent des déplacements, planifiez à l'avance et combinez-
+les en une seule grande session d'entretien.
+
+Doing this will help you get them all done in a short, compact block of time, which in turn frees up lots of uninterrupted time that you can dedicate to your really challenging work.
+Cela vous aidera à les faire tous en un laps de temps court et compact, ce qui à son tour libérera beaucoup de temps ininterrompu que vous pourrez consacrer à votre travail vraiment difficile.
+
+Finally, to keep your system running smoothly,
+choose one day per week to do a review session.
+Enfin, pour assurer le bon fonctionnement de votre système,
+choisissez un jour par semaine pour faire une session d'examen.
+
+And if you want to be extra-efficient, you
+can just combine it with your weekly planning
+in order to get it all done in one fell swoop.
+Et si vous voulez être plus efficace, vous
+pouvez simplement le combiner avec votre planification hebdomadaire
+afin de tout faire d'un seul coup.
+
+During this review session, you’ll do a
+couple things.
+Au cours de cette session de révision, vous ferez
+quelques choses.
+
+First, look over your plans and reflect on
+the past week.
+Tout d'abord, examinez vos plans et réfléchissez à
+la semaine écoulée.
+
+Compare what you planned to do with what
+actually got done, and if there’s a gap between
+the two, try to figure out what caused it.
+Comparez ce que vous avez prévu de faire avec ce
+qui a été fait, et s'il y a un écart entre
+les deux, essayez de comprendre ce qui l'a causé.
+
+Doing this can help you to pinpoint things that are hurting your productivity – maybe you were distracted a lot, or maybe you simply planned to do too much.
+Cela peut vous aider à identifier les choses qui nuisent à votre productivité - peut-être avez-vous été beaucoup distrait, ou peut-être avez-vous simplement prévu d'en faire trop.
+
+After that, go through your task manager and
+calendar.
+Après cela, passez par votre gestionnaire de tâches et votre
+calendrier.
+
+If there are any tasks or events that need
+changes, make them.
+S'il y a des tâches ou des événements qui nécessitent des
+modifications, apportez-les.
+
+This prevents what I like to call “entropy” which is a term in thermodynamics that generally refers to how everything in the universe tends to move toward disorder and chaos.
+Cela empêche ce que j'aime appeler "l'entropie", qui est un terme en thermodynamique qui fait généralement référence à la façon dont tout dans l'univers tend à évoluer vers le désordre et le chaos.
+
+This is exactly what organizational systems tend to do as well, but by regularly bringing them back to order on a weekly basis, you can keep things from getting too chaotic.
+C'est exactement ce que les systèmes organisationnels ont tendance à faire également, mais en les remettant régulièrement en ordre chaque semaine, vous pouvez éviter que les choses ne deviennent trop chaotiques.
+
+So now that you’ve got your system build and your planning habits in place, you’re well equipped to tackle all the work your classes are going to throw at you in the most effective way possible.
+Alors maintenant que vous avez construit votre système et vos habitudes de planification en place, vous êtes bien équipé pour vous attaquer à tout le travail que vos cours vont vous imposer de la manière la plus efficace possible.
+
+Additionally, you can rest assured knowing that
+nothing will slip your mind or fall through the cracks,
+as long as you keep those habits up.
+De plus, vous pouvez être assuré que
+rien ne vous échappera ou ne passera entre les mailles du filet,
+tant que vous conserverez ces habitudes.
+
+That’s all for now, so thanks for watching,
+and I’ll see you next time.
+C'est tout pour le moment, alors merci d'avoir regardé,
+et je vous verrai la prochaine fois.
+
+Crash Course Study Skills is filmed in the
+Dr. Cheryl C. Kinney Crash Course Studio in
+Missoula, MT, and it's made with the help
+of all of these nice people.
+Crash Course Study Skills est filmé dans le
+studio Dr. Cheryl C. Kinney Crash Course à
+Missoula, MT, et il est réalisé avec l'aide
+de toutes ces personnes sympathiques.
+
+If you'd like to keep Crash Course free for
+everyone, forever, you can support the series over
+at Patreon, a crowdfunding platform that
+allows you to support the content you love.
+Si vous souhaitez que Crash Course reste gratuit pour
+tout le monde, pour toujours, vous pouvez soutenir la série
+sur Patreon, une plateforme de financement participatif qui
+vous permet de soutenir le contenu que vous aimez.
+
+Thanks for your support.
+Merci pour votre aide.
+

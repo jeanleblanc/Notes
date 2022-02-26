@@ -1,0 +1,680 @@
+Hey, you! Yeah, I’m talking to you. But,
+I’m actually talking to a camera.
+Hé toi!  Oui, je te parle.  Mais,
+je parle en fait à une caméra.
+
+A camera is a collection of parts that can
+Un appareil photo est un ensemble de pièces qui peuvent
+
+help you tell a visual story. It takes in
+light through a lens and captures images,
+vous aider à raconter une histoire visuelle.  Il
+capte la lumière à travers une lentille et capture des images,
+
+creating that illusion of reality we keep
+talking about.
+créant cette illusion de réalité dont nous
+parlons sans cesse.
+
+You could even use your cell phone camera
+to make a movie! But filmmakers usually have
+Vous pourriez même utiliser l'appareil photo de votre téléphone portable
+pour faire un film !  Mais les cinéastes ont généralement un
+
+equipment that gives them a lot more control.
+So, let’s look through the eyes of a cinematographer,
+équipement qui leur donne beaucoup plus de contrôle.
+Alors, regardons à travers les yeux d'un directeur de la photographie
+
+and see how they combine camera technology
+and the language of film to get that perfect shot
+et voyons comment ils combinent la technologie de l'appareil photo
+et le langage du film pour obtenir ce plan parfait
+
+[Intro Music Plays]
+[Intro Music Plays]
+
+Let’s start with the tool that focuses light
+into a camera: the lens.
+Commençons par l'outil qui concentre la lumière
+dans un appareil photo : l'objectif.
+
+Some cameras have a lens that’s permanently
+attached, but others have a separate body
+Certaines caméras ont un objectif
+fixé en permanence, mais d'autres ont un boîtier séparé
+
+with a lens mount, where you can swap out
+different lenses for more creative control.
+avec une monture d'objectif, où vous pouvez échanger
+différents objectifs pour un contrôle plus créatif.
+
+For instance, low-budget filmmakers can rent
+great lenses for cost-effective cameras to
+Par exemple, les cinéastes à petit budget peuvent louer d'
+excellents objectifs pour des caméras économiques afin d'
+
+improve their footage quality. Or they might use older lenses to make a period piece feel more authentic.
+améliorer la qualité de leurs images.  Ou ils peuvent utiliser des lentilles plus anciennes pour rendre une pièce d'époque plus authentique.
+
+All lenses have either a fixed or variable
+Tous les objectifs ont une distance focale fixe ou variable
+
+focal length, which is the distance from the center of the lens to where the image is in focus.
+, qui est la distance entre le centre de l'objectif et l'endroit où l'image est nette.
+
+And focal length determines your field of view,
+Et la distance focale détermine votre champ de vision
+
+which is how much you can see in frame.
+It’s usually measured in millimeters, and
+, c'est-à-dire ce que vous pouvez voir dans le cadre.
+Il est généralement mesuré en millimètres, et
+
+a 50mm lens is generally thought to be closest
+to how our eyes frame the world.
+un objectif de 50 mm est généralement considéré comme le plus proche
+de la façon dont nos yeux encadrent le monde.
+
+A fixed focal length lens can be called a
+prime lens. It tends to have higher quality
+Un objectif à focale fixe peut être appelé un
+objectif principal.  Il a tendance à avoir un
+
+glass because it’s specialized for just
+one focal length.
+verre de meilleure qualité car il est spécialisé pour une
+seule distance focale.
+
+On the other hand, a variable focal length
+lens is more versatile. It’s also called
+En revanche, un objectif à focale variable
+est plus polyvalent.  On l'appelle aussi
+
+a zoom lens, because it can zoom in and out.
+zoom, car il peut zoomer et dézoomer.
+
+Now, you can also control how much light
+Désormais, vous pouvez également contrôler la quantité de lumière
+
+gets into the camera body through a hole called
+the aperture.
+pénétrant dans le boîtier de l'appareil photo par un trou
+appelé ouverture.
+
+It works like the iris and pupil in your eye,
+becoming wider or narrower to let more or
+Il fonctionne comme l'iris et la pupille de votre œil,
+s'élargissant ou se rétrécissant pour laisser passer plus ou
+
+less light through the lens. Aperture is measured
+in f-stops. That lowercase “f” stands
+moins de lumière à travers la lentille.  L'ouverture est mesurée
+en f-stops.  Ce "f" minuscule
+
+for focal length, because it’s the ratio
+of the focal length compared to the diameter of the aperture.
+signifie distance focale, car c'est le rapport
+de la distance focale par rapport au diamètre de l'ouverture.
+
+An f/1.2 lens, for example, can open wider
+Un objectif f/1.2, par exemple, peut ouvrir plus
+
+than an f/5.6. So when you “stop down”
+your aperture, you’re making that diameter
+largement qu'un f/5.6.  Ainsi, lorsque vous "réduisez"
+votre ouverture, vous réduisez le diamètre
+
+of the opening smaller, letting less light
+in, and changing that ratio.
+de l'ouverture, laissez entrer moins de
+lumière et modifiez ce rapport.
+
+But, as you stop down, you'll notice that the number is actually getting larger.
+Mais, en vous arrêtant, vous remarquerez que le nombre augmente en fait.
+
+And to control how long the film or sensor
+inside is exposed to light, you can adjust
+Et pour contrôler la durée d'exposition du film ou du
+capteur à la lumière, vous pouvez régler
+
+the camera’s shutter speed. You can think
+of a typical shutter as a door in the lens
+la vitesse d'obturation de l'appareil photo.  Vous pouvez
+considérer un obturateur typique comme une porte dans l'objectif
+
+that opens and closes really quickly.
+qui s'ouvre et se ferme très rapidement.
+
+If you have an aperture that can open wider,
+Si vous avez une ouverture qui peut s'ouvrir plus largement,
+
+like in a f/1.2 lens, you can let more light
+in, and have a faster shutter speed.
+comme dans un objectif f/1.2, vous pouvez laisser entrer plus de
+lumière et avoir une vitesse d'obturation plus rapide.
+
+Usually your shutter speed is about double your frame
+rate. So if you’re shooting 24 frames per
+Habituellement, votre vitesse d'obturation est d'environ le double de votre
+fréquence d'images.  Ainsi, si vous photographiez 24 images par
+
+second, for instance, your shutter speed would
+be 1/50 seconds.
+seconde, par exemple, votre vitesse d'obturation
+sera de 1/50 seconde.
+
+But there’s one little problem with shutters
+that work like a door: they click. Which can get noisy.
+Mais il y a un petit problème avec les volets
+qui fonctionnent comme une porte : ils cliquent.  Ce qui peut devenir bruyant.
+
+So on some movie film cameras, you’ll have a shutter angle instead of a shutter speed.
+Ainsi, sur certaines caméras cinématographiques, vous aurez un angle d'obturation au lieu d'une vitesse d'obturation.
+
+These shutters are rotary
+discs that spin, to control the amount of
+Ces obturateurs sont des
+disques rotatifs qui tournent pour contrôler la quantité de
+
+light that enters an opening into the camera.
+A smaller shutter angle works like a faster
+lumière qui pénètre par une ouverture dans l'appareil photo.
+Un angle d'obturation plus petit fonctionne comme une vitesse d'
+
+shutter speed: the image will be exposed more
+quickly, and it’ll look crisper! With a
+obturation plus rapide : l'image sera exposée plus
+rapidement et elle paraîtra plus nette !  Avec un
+
+larger shutter angle or slower shutter speed, the image will be smoother and have more blur from any motion.
+angle d'obturation plus grand ou une vitesse d'obturation plus lente, l'image sera plus lisse et aura plus de flou à partir de n'importe quel mouvement.
+
+How light gets turned into an image depends
+La façon dont la lumière est transformée en image dépend
+
+on what kind of camera you’re using.
+In a film camera, the light hits the chemical-coated
+du type d'appareil photo que vous utilisez.
+Dans un appareil photo argentique, la lumière frappe la bande de film enduite de produits chimiques
+
+film strip at an opening called the gate,
+which exposes it so it retains an image.
+au niveau d'une ouverture appelée la porte,
+qui l'expose afin qu'elle conserve une image.
+
+In a digital camera, the light heads to an
+electronic sensor, which translates the light
+Dans un appareil photo numérique, la lumière se dirige vers un
+capteur électronique, qui traduit l'
+
+energy into a digital image. The camera that’s
+filming me right now has what’s called a
+énergie lumineuse en une image numérique.  La caméra qui
+me filme en ce moment a ce qu'on appelle un capteur
+
+Complementary Metal Oxide Semiconductor, or
+CMOS, sensor.
+semi-conducteur à oxyde métallique complémentaire, ou
+CMOS.
+
+Other digital cameras might
+have a Charged Coupled Device, or a CCD, which
+D'autres appareils photo numériques peuvent
+avoir un dispositif à couplage chargé, ou un CCD, qui
+
+uses more power, but produces better images
+than earlier CMOS sensors.
+utilise plus d'énergie, mais produit de meilleures images
+que les capteurs CMOS antérieurs.
+
+Both film and digital sensors also have a
+property called ISO. The higher the ISO number,
+Les capteurs de film et numériques ont également une
+propriété appelée ISO.  Plus le nombre ISO est élevé
+
+the more sensitive they are to light.
+, plus ils sont sensibles à la lumière.
+
+The name comes from the International Standards Organization,
+Le nom vient de l'Organisation internationale de normalisation,
+
+which created the scale filmmakers
+use.
+qui a créé l'échelle
+utilisée par les cinéastes.
+
+Generally, the lower your ISO, the cleaner and richer your images will look.
+Généralement, plus votre ISO est faible, plus vos images seront propres et riches.
+
+But, if you’re in a room without a lot of light, your image will be pretty dark.
+Mais, si vous êtes dans une pièce sans beaucoup de lumière, votre image sera assez sombre.
+
+In this case, it’s
+tempting to just bump your ISO way up to like
+Dans ce cas, il est
+tentant de simplement augmenter votre ISO jusqu'à
+
+1600, to increase sensitivity to available light.
+1600, pour augmenter la sensibilité à la lumière disponible.
+
+You’ve gotta be careful with that, though.
+Depending on the camera or film stock, raising
+Vous devez cependant faire attention à cela.
+En fonction de l'appareil photo ou du film, l'augmentation de
+
+the ISO to compensate for low light just brightens
+everything in frame, and can result in grainy,
+l'ISO pour compenser la faible luminosité éclaire simplement
+tout dans le cadre et peut entraîner des séquences granuleuses et
+
+lower-quality footage.
+So, instead of raising your ISO, you might
+de qualité inférieure.
+Ainsi, au lieu d'augmenter votre ISO, vous voudrez peut-être
+
+wanna add more light to the scene and open
+the aperture to allow as much of it in as possible.
+ajouter plus de lumière à la scène et ouvrir
+l'ouverture pour en laisser entrer le plus possible.
+
+Now, imagine you’ve put everything we’ve
+Maintenant, imaginez que vous ayez utilisé tout ce dont nous avons
+
+talked about to use. You’ve adjusted your
+lens, aperture, shutter speed, and ISO, and
+parlé.  Vous avez ajusté votre
+objectif, l'ouverture, la vitesse d'obturation et l'ISO, et
+
+captured some beautiful footage.
+capturé de belles images.
+
+All that
+footage is stored on what’s called the media.
+Toutes ces
+images sont stockées sur ce qu'on appelle les médias.
+
+In a film camera, the media is the film itself. As long as you don’t lose or ruin it, you’ll always have what you shot.
+Dans un appareil photo argentique, le média est le film lui-même.  Tant que vous ne le perdez pas ou ne le gâchez pas, vous aurez toujours ce que vous avez tiré.
+
+In a digital camera, the media is a data storage
+Dans un appareil photo numérique, le support est un périphérique de stockage de données
+
+device like tape, drives, or cards. And you’ll
+have to decide on a codec.
+tel que des bandes, des lecteurs ou des cartes.  Et vous
+devrez choisir un codec.
+
+“Codec” is a portmanteau of “coder”
+and “decoder.” Because that’s what it does.
+"Codec" est un mot-valise de "codeur"
+et "décodeur".  Parce que c'est ce qu'il fait.
+
+It’s a program that can compress what
+the camera has shot onto your storage device,
+C'est un programme qui peut compresser ce que
+la caméra a filmé sur votre périphérique de stockage,
+
+and then decompress that footage when you
+need to work with it in post-production.
+puis décompresser ce métrage lorsque vous
+devez travailler avec en post-production.
+
+Basically, it’s like a little package of
+digital information. You might recognize a
+Fondamentalement, c'est comme un petit paquet d'
+informations numériques.  Vous pourriez reconnaître un
+
+codec like H.264. Or mp3!
+codec comme H.264.  Ou mp3 !
+
+Shooting in raw
+means the images don’t get packaged or processed.
+La prise de vue en brut
+signifie que les images ne sont ni emballées ni traitées.
+
+You get higher quality footage, but you need
+a bunch of storage because those image files get huge.
+Vous obtenez des séquences de meilleure qualité, mais vous avez besoin
+de beaucoup de stockage car ces fichiers image deviennent énormes.
+
+Now, understanding how a camera works is only part of a filmmaker’s job.
+Maintenant, comprendre comment fonctionne une caméra n'est qu'une partie du travail d'un cinéaste.
+
+Film sets
+have an entire team of talented artists working
+Les plateaux de tournage
+ont toute une équipe d'artistes talentueux travaillant
+
+to create the visual story of a movie.
+pour créer l'histoire visuelle d'un film.
+
+The Director of Photography, or cinematographer,
+is the head of the camera department. They
+Le directeur de la photographie, ou directeur de la photographie,
+est le chef du département caméra.  Ils
+
+create the shot list with the director, to
+plan how everything in the screenplay will be captured visually.
+créent la liste des plans avec le réalisateur, pour
+planifier comment tout le scénario sera capturé visuellement.
+
+The camera operator is the person who actually
+Le caméraman est la personne qui
+
+controls the camera and frames the shots.
+contrôle réellement la caméra et cadre les plans.
+
+Sometimes you need a static shot, so the camera
+Parfois, vous avez besoin d'une prise de vue statique, le
+
+operator uses a tripod. The cool kids call
+this a camera “on sticks.”
+caméraman utilise donc un trépied.  Les enfants cool appellent
+cela un appareil photo "sur des bâtons".
+
+Or, sometimes you want a moving shot, so the
+operator uses a handheld camera, or attaches
+Ou, parfois, vous voulez une prise de vue en mouvement, alors l'
+opérateur utilise une caméra portable ou en attache
+
+one to a mechanical cart called a dolly. There’s
+also a device called a steadicam, which makes
+une à un chariot mécanique appelé chariot.  Il existe
+également un appareil appelé steadicam, qui rend
+
+a shot smoother than handheld, but not as
+smooth as a dolly.
+la prise de vue plus fluide qu'à la main, mais pas aussi
+fluide qu'un chariot.
+
+Now, the person who manages all this equipment
+and sets up the camera is the First Assistant
+Désormais, la personne qui gère tout ce matériel
+et configure la caméra est le Premier Assistant
+
+Camera, or 1st AC. They work under the main
+camera operator. Sometimes, you’ll hear
+Caméra, ou 1er AC.  Ils travaillent sous l'opérateur principal de la
+caméra.  Parfois, vous entendrez
+
+this job referred to as Focus Puller because
+the 1st AC controls the camera lens to focus
+ce travail appelé Focus Puller parce que
+le 1er AC contrôle l'objectif de la caméra pour se concentrer
+
+on the actors as they move through the scene.
+sur les acteurs lorsqu'ils se déplacent dans la scène.
+
+It might sound simple, but for decades focus pullers couldn’t look through the camera lens while doing their job,
+Cela peut sembler simple, mais pendant des décennies, les tireurs de mise au point ne pouvaient pas regarder à travers l'objectif de la caméra tout en faisant leur travail,
+
+because the camera operator was looking through the lens.
+car l'opérateur de la caméra regardait à travers l'objectif.
+
+Nowadays, the 1st AC will usually have a monitor,
+De nos jours, le 1er AC aura généralement un moniteur,
+
+but they also have to rely on detailed marks
+from rehearsal and a whole lot of skill.
+mais il doit également s'appuyer sur des notes détaillées
+de répétition et beaucoup de compétence.
+
+The 2nd AC takes all the camera notes for
+each shot and operates the slate, or clapper,
+Le 2nd AC prend toutes les notes de la caméra pour
+chaque prise de vue et actionne l'ardoise, ou battant,
+
+to mark each scene.
+pour marquer chaque scène.
+
+...ooof... Soft Sticks.
+...ooof... Bâtons souples.
+
+They also haul equipment
+around, from cameras to media.
+Ils transportent également du
+matériel, des caméras aux médias.
+
+If you’re shooting film, a 2nd AC is the
+film loader, who changes the camera magazines
+Si vous filmez, un 2ème AC est le
+chargeur de film, qui change les magasins de l'appareil photo
+
+with rolls of film inside. And if you’re
+shooting digital, the 2nd AC is responsible
+avec des rouleaux de film à l'intérieur.  Et si vous
+filmez en numérique, le 2nd AC est chargé
+
+for getting any storage devices to the Digital
+Imaging Technician, or DIT, who manages all the media.
+de transmettre tous les périphériques de stockage au
+technicien en imagerie numérique, ou DIT, qui gère tous les supports.
+
+Now, you might understand the nuts and bolts
+Maintenant, vous comprenez peut-être les rouages
+
+of a camera, but it’s all for nothing if
+you’re not using these tools to tell a story.
+ppareil photo, mais cela ne sert à rien si vous 
+'utilisez pas ces outils pour raconter une histo
+
+Making the audience feel something because of moving pictures – that’s what makes movies magic!
+re.  Faire ressentir quelque chose au public grâce aux images animées - c'est ce qui rend les films magiques !
+
+From a voyeur shot through a window in a horror movie,
+D'un voyeur tourné à travers une fenêtre dans un film d'horreur,
+
+to the subtle push on the love interest
+in a melodrama, there’s a language and an
+à la poussée subtile de l'intérêt amoureux
+dans un mélodrame, il y a un langage et un
+
+artistry to framing, angles, and camera movements.
+talent artistique pour le cadrage, les angles et les mouvements de caméra.
+
+Take the rule of thirds, which is a general way to think about composing a frame.
+Prenez la règle des tiers, qui est une façon générale de penser à composer un cadre.
+
+The
+idea is to divide it up into vertical and 
+horizontal thirds,
+L'
+idée est de le diviser en tiers verticaux et
+horizontaux,
+
+and then stick what you
+want people to focus on where those lines intersect.
+puis de coller ce sur quoi vous
+voulez que les gens se concentrent là où ces lignes se croisent.
+
+What or who dominates a frame can affect how
+Qu'est-ce ou qui domine une image peut affecter la façon dont
+
+an audience views a scene. And what’s in
+or out of focus can steer our attention even more.
+un public voit une scène.  Et ce qui est net
+ou non peut attirer encore plus notre attention.
+
+For instance, in the film Road to Perdition,
+Par exemple, dans le film Road to Perdition,
+
+the cinematographer Conrad Hall combined these
+storytelling tools really beautifully.
+le directeur de la photographie Conrad Hall a très bien combiné ces
+outils de narration.
+
+In one scene, a character played by Daniel
+Craig is dominating the frame, but the other
+Dans une scène, un personnage joué par Daniel
+Craig domine le cadre, mais les
+
+two men walking away from him, played by Paul
+Newman and Tom Hanks, are the ones in focus.
+deux autres hommes qui s'éloignent de lui, joués par Paul
+Newman et Tom Hanks, sont ceux qui sont mis au point.
+
+So our attention is on Daniel Craig’s character
+because he’s front and center in the scene.
+Notre attention est donc portée sur le personnage de Daniel Craig
+car il est au centre de la scène.
+
+But because the other men are kept in focus,
+we can feel that he’s thinking about them
+Mais parce que les autres hommes restent concentrés,
+nous pouvons sentir qu'il pense à eux
+
+– all through the visual storytelling.
+- tout au long de la narration visuelle.
+
+Even if you can compose what looks like the perfect frame,
+Même si vous pouvez composer ce qui ressemble au cadre parfait,
+
+it’s important to remember that cameras
+aren’t static!
+il est important de se rappeler que les caméras
+ne sont pas statiques !
+
+Camera movements have their own language
+too. This is a pan, moving left to right.
+Les mouvements de caméra ont aussi leur propre
+langage.  Il s'agit d'un panoramique, se déplaçant de gauche à droite.
+
+A push is when the camera is literally pushed
+closer to the action in a scene.
+Une poussée, c'est quand la caméra est littéralement poussée
+plus près de l'action dans une scène.
+
+It’s like we’re leaning in, and builds intensity.
+C'est comme si nous nous penchions vers l'intérieur et que nous augmentions l'intensité.
+
+And a pull is the opposite! The camera physically
+moves back. This could reveal something that
+Et une traction est le contraire!  La caméra
+recule physiquement.  Cela pourrait révéler quelque chose que
+
+we couldn’t see before, or help us leave
+a scene and lessen our connection.
+nous ne pouvions pas voir auparavant, ou nous aider à quitter
+une scène et à diminuer notre connexion.
+
+Pushes and pulls are often achieved by using
+a dolly to move the camera closer and farther
+Les poussées et les tractions sont souvent réalisées en utilisant
+un chariot pour rapprocher et éloigner la caméra
+
+from the action. They have a different look
+to them than just changing the focal length
+de l'action.  Ils ont un aspect différent
+de celui de simplement changer la distance focale
+
+of a zoom lens.
+d'un objectif zoom.
+
+If you want to get really fancy, you can use
+a tracking shot to move the camera with
+Si vous voulez être vraiment fantaisiste, vous pouvez utiliser
+un travelling pour déplacer la caméra avec
+
+your actors, like by moving a camera on a
+dolly parallel to the action.
+vos acteurs, par exemple en déplaçant une caméra sur un
+chariot parallèle à l'action.
+
+Now, even how a camera is set up can affect
+the visual storytelling in a movie. A camera
+Désormais, même la configuration d'une caméra peut affecter
+la narration visuelle d'un film.  Une caméra
+
+on a tripod is “locked down” and can make
+a scene feel safe and stable, like when a
+sur un trépied est "verrouillée" et peut
+rendre une scène sûre et stable, comme lorsqu'un
+
+character who craves adventure is sitting
+at home in their regular life. But when they’re
+personnage qui a soif d'aventure est assis
+à la maison dans sa vie habituelle.  Mais lorsqu'ils sont
+
+introduced to whatever’s going to rock their
+world, and jump up, the camera might move too.
+initiés à tout ce qui va bouleverser leur
+monde et sautent, la caméra peut également bouger.
+
+On the other end of the spectrum are handheld
+cameras. Think of those horror movies with
+À l'autre extrémité du spectre se trouvent les
+caméras portables.  Pensez à ces films d'horreur avec des
+
+shaky cameras – they’re harder to see
+and understand, but feel more chaotic and unstable.
+caméras tremblantes - ils sont plus difficiles à voir
+et à comprendre, mais semblent plus chaotiques et instables.
+
+The real job of the camera is to capture visuals
+Le vrai travail de la caméra est de capturer des visuels
+
+that let us enter the worlds of movies, and
+feel what the characters feel.
+qui nous permettent d'entrer dans le monde des films et de
+ressentir ce que ressentent les personnages.
+
+Knowing how a camera works can help strengthen
+your storytelling, but a lot of it comes down
+Savoir comment fonctionne une caméra peut aider à renforcer
+votre narration, mais cela revient en grande partie
+
+to becoming fluent in the language of film.
+And that, like all of these jobs, comes with
+à maîtriser le langage du film.
+Et cela, comme tous ces emplois, s'accompagne d'
+
+a ton of practice.
+une tonne de pratique.
+
+Today, we talked about the guts of the camera
+Aujourd'hui, nous avons parlé des entrailles de la caméra
+
+and how they come together to make a versatile
+piece of equipment. We learned about the positions
+et de la façon dont elles s'unissent pour former un
+équipement polyvalent.  Nous avons découvert les positions
+
+in the camera crew, and how the poetry of
+framing, angles, and camera movement are what
+de l'équipe de tournage et comment la poésie du
+cadrage, des angles et du mouvement de la caméra en
+
+make it a powerful storytelling tool.
+And next time, we’ll talk about the counterpart
+font un puissant outil de narration.
+Et la prochaine fois, nous parlerons de la contrepartie
+
+to the camera’s visuals: sound.
+des visuels de la caméra : le son.
+
+Crash Course Film Production is produced in
+association with PBS Digital Studios. You
+Crash Course Film Production est produit en
+association avec PBS Digital Studios.  Vous
+
+can head over to their channel to check out
+a playlist of their latest amazing shows,
+pouvez vous rendre sur leur chaîne pour consulter
+une liste de lecture de leurs dernières émissions incroyables,
+
+like Shank’s FX, The Art Assignment, and
+It’s Okay to Be Smart.
+comme Shank’s FX, The Art Assignment et
+It’s Okay to Be Smart.
+
+This episode of Crash Course was filmed in
+the Doctor Cheryl C. Kinney Crash Course Studio
+Cet épisode de Crash Course a été filmé dans
+le studio Doctor Cheryl C. Kinney Crash Course
+
+with the help of these nice people and our
+amazing graphics team is Thought Cafe.
+avec l'aide de ces gens sympathiques et de notre
+incroyable équipe graphique, Thought Cafe.
+
