@@ -1,0 +1,649 @@
+After years of hard work as a student of
+engineering, you’ve landed a role as an engineer
+in a big company.
+Après des années de travail acharné en tant qu'étudiant en
+ingénierie, vous avez décroché un poste d'ingénieur
+dans une grande entreprise.
+
+Congratulations!
+Toutes nos félicitations! 
+
+Your new job even gives you a fancy office
+in a skyscraper. It’s a sweet deal!
+Votre nouvel emploi vous donne même un bureau chic
+dans un gratte-ciel.  C'est une bonne affaire!
+
+Until one day, a terrible storm hits the city.
+Jusqu'au jour où une terrible tempête frappe la ville.
+
+That doesn’t bother you too much at first;
+a bit of wind doesn’t seem like a big deal when
+you’re in an office.
+Cela ne vous dérange pas trop au début;
+un peu de vent ne semble pas être un gros problème lorsque
+vous êtes dans un bureau.
+
+But as you’re working at your desk, you
+notice the entire skyscraper begins to sway
+in the wind.
+Mais pendant que vous travaillez à votre bureau, vous
+remarquez que tout le gratte-ciel commence à se balancer
+dans le vent.
+
+In fact, the building tilts so much, your pencil
+rolls right off your desk and the view outside your
+window starts to angle toward the sky.
+En fait, le bâtiment s'incline tellement que votre crayon
+tombe de votre bureau et que la vue à l'extérieur de votre
+fenêtre commence à s'incliner vers le ciel.
+
+In 1978, the Citicorp building in Manhattan
+came dangerously close to that scenario.
+En 1978, l'immeuble Citicorp à Manhattan
+s'est dangereusement rapproché de ce scénario.
+
+If a powerful enough storm had happened
+before anyone realized, key parts of the structure
+could have failed.
+Si une tempête suffisamment puissante s'était produite
+avant que quiconque ne s'en rende compte, des éléments clés de la structure
+auraient pu tomber en panne.
+
+And all because the engineers who designed
+it didn’t account for how all the forces acting on
+the structure could affect its stability.
+Et tout cela parce que les ingénieurs qui l'ont
+conçu n'ont pas tenu compte de la façon dont toutes les forces agissant sur
+la structure pouvaient affecter sa stabilité.
+
+But by considering those forces and how to counteract them, an industrious team of engineers managed to save the Citicorp building before any disasters happened.
+Mais en tenant compte de ces forces et de la façon de les contrer, une équipe d'ingénieurs assidus a réussi à sauver le bâtiment Citicorp avant qu'une catastrophe ne se produise.
+
+[Theme Music]
+[Thème musical]
+
+A force, as you’ll recall, is any interaction
+with an object that, if unopposed, would cause
+it to accelerate, or change its momentum.
+Une force, comme vous vous en souviendrez, est toute interaction
+avec un objet qui, si elle n'est pas opposée, le
+ferait accélérer ou modifier son élan.
+
+Like, with the skyscraper, you don’t want forces
+like the wind seriously deforming the structures you
+build or even causing them to collapse entirely.
+Comme, avec le gratte-ciel, vous ne voulez pas que des forces
+comme le vent déforment sérieusement les structures que vous
+construisez ou même les fassent s'effondrer complètement.
+
+So it’s important to design things to be
+able to withstand the forces they may encounter.
+Il est donc important de concevoir des objets
+capables de résister aux forces qu'ils peuvent rencontrer.
+
+When the Citicorp tower was first built, it had
+a slightly unusual structure to accommodate a
+church on the corner of the block it was built on.
+Lorsque la tour Citicorp a été construite pour la première fois, elle avait
+une structure légèrement inhabituelle pour accueillir une
+église au coin du bloc sur lequel elle était construite.
+
+The whole building was raised on nine-story-high stilts,
+but because of the church, the stilts needed to be in the
+middle of each side rather than in the corners.
+L'ensemble du bâtiment a été élevé sur des pilotis de neuf étages,
+mais à cause de l'église, les pilotis devaient être au
+milieu de chaque côté plutôt que dans les coins.
+
+Which meant quartering winds, which blow
+diagonally to the faces of a building rather than
+straight on, became a problem.
+Ce qui signifiait que les vents cantonnés, qui soufflent en
+diagonale vers les faces d'un bâtiment plutôt que
+directement, devenaient un problème.
+
+Ordinarily, these winds aren’t a huge issue
+since they blow past the structure without
+applying much force to it.
+Habituellement, ces vents ne sont pas un gros problème
+puisqu'ils soufflent au-delà de la structure sans lui
+appliquer beaucoup de force.
+
+Unfortunately, having those columns on the building’s
+sides made it more vulnerable to quartering winds than
+the engineers originally thought!
+Malheureusement, la présence de ces colonnes sur les côtés du bâtiment le
+rendait plus vulnérable aux vents de cantonnement que
+les ingénieurs ne le pensaient à l'origine !
+
+And they didn’t notice until after the
+building had been built,
+Et ils ne l'ont remarqué qu'après la
+construction du bâtiment,
+
+when a student writing a paper on the Citicorp
+building realized there was a problem and brought it
+to the attention of the lead structural engineer.
+lorsqu'un étudiant écrivant un article sur le bâtiment Citicorp s'est
+rendu compte qu'il y avait un problème et l'a porté
+à l'attention de l'ingénieur principal en structure.
+
+Essentially, they’d made a critical mistake
+when they calculated the building’s statics
+and dynamics.
+Essentiellement, ils avaient commis une erreur critique
+en calculant la statique
+et la dynamique du bâtiment.
+
+Both of these are branches of mechanics,
+a field that considers how forces affect a
+structure’s behavior.
+Ces deux branches sont des branches de la mécanique,
+un domaine qui considère comment les forces affectent
+le comportement d'une structure.
+
+Statics, as the name implies, is about what
+happens to objects that don’t accelerate
+when a force is applied.
+La statique, comme son nom l'indique, concerne ce qui
+arrive aux objets qui n'accélèrent pas
+lorsqu'une force est appliquée.
+
+All the forces acting on the object balance
+out, keeping it rigid – it doesn’t rotate or move
+from its original position.
+Toutes les forces agissant sur l'objet
+s'équilibrent, le gardant rigide - il ne tourne pas et ne bouge pas
+de sa position d'origine.
+
+When this happens, we’d say the object is
+in static equilibrium with its environment.
+Lorsque cela se produit, nous dirions que l'objet est
+en équilibre statique avec son environnement.
+
+Dynamics on the other hand, deals with what
+happens when the various forces don’t cancel out.
+La dynamique, quant à elle, traite de ce qui
+se passe lorsque les différentes forces ne s'annulent pas.
+
+If the structure isn’t held in place by friction or attached
+to its surroundings some other way, a large enough
+force will cause it to move, rotate, or deform.
+Si la structure n'est pas maintenue en place par friction ou attachée
+à son environnement d'une autre manière, une
+force suffisamment importante la fera bouger, tourner ou se déformer.
+
+That’s when dynamics comes into play, and
+you’d have to consider the object’s motion.
+C'est à ce moment que la dynamique entre en jeu et que
+vous devez tenir compte du mouvement de l'objet.
+
+The good news about that is that the same
+basic idea governs both statics and dynamics:
+La bonne nouvelle à ce sujet est que la même
+idée de base régit à la fois la statique et la dynamique :
+
+Newton’s second law of motion, which says
+that the force acting on an object is equal to
+its mass times its acceleration.
+la deuxième loi du mouvement de Newton, qui dit
+que la force agissant sur un objet est égale à
+sa masse multipliée par son accélération.
+
+But an object like a building or bridge is
+made of many connecting parts.
+Mais un objet comme un bâtiment ou un pont est
+composé de nombreuses pièces reliées.
+
+If the mass is distributed throughout the structure,
+a force applied at one part of that structure won’t
+affect the entire thing in the same way.
+Si la masse est répartie dans toute la structure,
+une force appliquée à une partie de cette structure n'affectera pas
+l'ensemble de la même manière.
+
+It’s also important to note that Newton’s
+second law assumes the force acts in a
+given direction.
+Il est également important de noter que la
+deuxième loi de Newton suppose que la force agit dans une
+direction donnée.
+
+So in reality, it’s not quite as simple
+as “F” equals “m” “a”.
+Donc, en réalité, ce n'est pas aussi simple
+que "F" est égal à "m" "a".
+
+Instead, you have to consider the direction
+the force is applied in, which also determines
+the direction of the acceleration.
+Au lieu de cela, vous devez considérer la direction dans laquelle
+la force est appliquée, qui détermine également
+la direction de l'accélération.
+
+Quantities that have both a magnitude and direction
+are called vectors, and you have to take the direction
+into account when you add them together.
+Les quantités qui ont à la fois une magnitude et une direction
+sont appelées vecteurs, et vous devez prendre
+en compte la direction lorsque vous les additionnez.
+
+Both the “F” and “a” in Newton’s
+second law are really vectors.
+Le « F » et le « a » de la
+deuxième loi de Newton sont tous deux des vecteurs.
+
+To know the final motion or overall force acting
+on a structure, you need to add all the forces acting
+in different directions on each part of it.
+Pour connaître le mouvement final ou la force globale agissant
+sur une structure, vous devez ajouter toutes les forces agissant
+dans des directions différentes sur chaque partie de celle-ci.
+
+That might sound like a lot to consider, but
+there’s a clever way to keep track of all of it.
+Cela peut sembler beaucoup à considérer, mais
+il existe un moyen astucieux de garder une trace de tout cela.
+
+As we’ve mentioned, in statics, we’re
+looking at a situation where all the forces
+are balanced to zero – static equilibrium.
+Comme nous l'avons mentionné, en statique, nous
+examinons une situation où toutes les forces
+sont équilibrées à zéro - équilibre statique.
+
+These calculations are important for making
+sure your structure is never on the verge of failure.
+Ces calculs sont importants pour
+s'assurer que votre structure n'est jamais sur le point de tomber en panne.
+
+Objects can only handle a certain amount
+of stress before they deform or break.
+Les objets ne peuvent supporter qu'une certaine quantité
+de stress avant de se déformer ou de se casser.
+
+Statics helps you work out the force that
+parts of the structure are experiencing under
+a load.
+La statique vous aide à déterminer la force que
+certaines parties de la structure subissent sous
+une charge.
+
+Since by definition, all the forces on the
+structure have to cancel out to zero,
+Étant donné que, par définition, toutes les forces exercées sur la
+structure doivent s'annuler à zéro,
+
+if you know some of the forces acting on it,
+you can usually figure out the others.
+si vous connaissez certaines des forces qui agissent sur elle,
+vous pouvez généralement comprendre les autres.
+
+To make sense of all this, engineers use what’s
+called a free body diagram – a sketch of the
+structure and all the known forces acting on it.
+Pour donner un sens à tout cela, les ingénieurs utilisent ce qu'on
+appelle un diagramme de corps libre - un croquis de la
+structure et de toutes les forces connues agissant sur elle.
+
+Consider, for example, a bridge.
+Considérons, par exemple, un pont.
+
+The material the bridge is made of contributes
+to its weight.
+Le matériau dont est fait le pont contribue
+à son poids.
+
+Rather than show the force of gravity
+acting on all the little bits of the bridge,
+Plutôt que de montrer la force de gravité
+agissant sur tous les petits morceaux du pont,
+
+you can average all the contributions of its mass
+and draw a single force on the diagram acting on
+what’s called the center of mass.
+vous pouvez faire la moyenne de toutes les contributions de sa masse
+et dessiner une seule force sur le diagramme agissant sur
+ce qu'on appelle le centre de masse.
+
+Now, say there was a goat trying to cross
+the bridge, maybe to get to some greener grass
+on a hillside.
+Maintenant, disons qu'il y avait une chèvre essayant de traverser
+le pont, peut-être pour se rendre à de l'herbe plus verte
+sur une colline.
+
+Luckily for the goat, there’s
+no troll blocking its way.
+Heureusement pour la chèvre,
+aucun troll ne bloque son chemin.
+
+Since the bridge is in equilibrium and both
+the goat’s weight and the bridge’s own weight
+are pulling it down,
+Étant donné que le pont est en équilibre et que
+le poids de la chèvre et le propre poids du pont le
+tirent vers le bas,
+
+there must be some force counteracting this to
+stop the bridge from dropping into the river.
+il doit y avoir une certaine force qui contrecarre cela pour
+empêcher le pont de tomber dans la rivière.
+
+In this case, you would use static equilibrium
+to calculate the force each of the supports have
+to apply to the bridge to hold it up.
+Dans ce cas, vous utiliseriez l'équilibre statique
+pour calculer la force que chacun des supports
+doit appliquer au pont pour le maintenir en place.
+
+The details require a bit of math and
+careful thinking.
+Les détails nécessitent un peu de calcul et
+une réflexion approfondie.
+
+But the basic idea is, if you add the contributions
+of all the forces in each direction,
+Mais l'idée de base est que si vous additionnez les contributions
+de toutes les forces dans chaque direction,
+
+being careful to give opposing forces different
+signs in your equations, everything should balance
+out to zero.
+en prenant soin de donner aux forces opposées des
+signes différents dans vos équations, tout devrait
+s'équilibrer à zéro.
+
+So at a glance, you already know that the sum of all the
+forces acting upward, from the supports of the bridge,
+has to cancel out the downward forces of the weights.
+Donc, en un coup d'œil, vous savez déjà que la somme de toutes les
+forces agissant vers le haut, à partir des supports du pont,
+doit annuler les forces vers le bas des poids.
+
+The full treatment would require a bit more
+work, of course.
+Le traitement complet nécessiterait un peu plus de
+travail, bien sûr.
+
+If it was a suspension bridge, the weight of the
+bridge and the goat would be counteracted by the
+vertical component of the tension in the cables.
+S'il s'agissait d'un pont suspendu, le poids du
+pont et de la chèvre serait contrebalancé par la
+composante verticale de la tension dans les câbles.
+
+If those cables can only handle a certain
+amount of tension before breaking,
+Si ces câbles ne peuvent supporter qu'une
+certaine tension avant de se rompre,
+
+a free body diagram could help you work out
+the total weight the bridge could handle before
+the cables snap.
+un diagramme de corps libre pourrait vous aider à déterminer
+le poids total que le pont pourrait supporter avant que
+les câbles ne se cassent.
+
+It’s also important to consider the torque –
+any force that could cause a rotation of an
+object around a point.
+Il est également important de prendre en compte le couple -
+toute force susceptible de provoquer la rotation d'un
+objet autour d'un point.
+
+It’s also sometimes called a moment.
+C'est aussi parfois appelé un moment.
+
+Torque is usually a factor when part of a
+structure is fixed to some point, about which
+it’s free to rotate, called a pivot.
+Le couple est généralement un facteur lorsqu'une partie d'une
+structure est fixée à un point, autour duquel
+elle est libre de tourner, appelé pivot.
+
+If you’ve ever been to a playground, you
+might have seen torques in action on a seesaw.
+Si vous êtes déjà allé dans une aire de jeux, vous avez
+peut-être vu des couples en action sur une balançoire.
+
+Let’s say there are two twins with the same
+weight, Parvati and Padma.
+Disons qu'il y a deux jumeaux avec le même
+poids, Parvati et Padma.
+
+Both twins sit on a seesaw, one and a half
+meters away from the pivot.
+Les deux jumeaux sont assis sur une balançoire, à un mètre et demi
+du pivot.
+
+They both weigh six hundred newtons – the
+equivalent of about 61 kilograms of mass being
+pulled down by gravity.
+Ils pèsent tous les deux six cents newtons, soit l'
+équivalent d'environ 61 kilogrammes de masse
+abaissés par gravité.
+
+They’re exerting torque because on their
+own, each twin would cause the seesaw to rotate.
+Ils exercent un couple car à eux
+seuls, chaque jumeau ferait tourner la bascule.
+
+The torque comes from the force of the twin’s
+weight pushing down on the seesaw, perpendicular
+to the line connecting the seat to the pivot.
+Le couple provient de la force du poids du jumeau
+poussant vers le bas sur la bascule, perpendiculaire
+à la ligne reliant le siège au pivot.
+
+The heavier the twin, the more force they’ll
+exert and the stronger the torque will be.
+Plus le jumeau est lourd, plus il
+exercera de force et plus le couple sera fort.
+
+Their distance from the pivot matters too.
+Leur distance par rapport au pivot compte également.
+
+If Parvati moved closer, she’d exert less
+torque than Padma and the seesaw would
+swing her upward.
+Si Parvati se rapprochait, elle exercerait moins de
+couple que Padma et la
+bascule la ferait basculer vers le haut.
+
+Those are the two ingredients you need for
+calculating torques –
+Ce sont les deux ingrédients dont vous avez besoin pour
+calculer les couples -
+
+the force perpendicular to a line connecting to
+the pivot, and the distance from the force to the pivot.
+la force perpendiculaire à une ligne reliant
+le pivot et la distance entre la force et le pivot.
+
+Multiply those together, and you get torque,
+which is measured in units of Newton-meters since
+you’re multiplying a force by a distance.
+Multipliez-les ensemble et vous obtenez un couple,
+qui est mesuré en unités de Newton-mètres puisque
+vous multipliez une force par une distance.
+
+As with forces, in a statics scenario – like the twins
+balanced on the seesaw – you can use the fact that
+everything balances out to zero to help you.
+Comme pour les forces, dans un scénario statique - comme les jumeaux en
+équilibre sur la balançoire - vous pouvez utiliser le fait que
+tout s'équilibre à zéro pour vous aider.
+
+If you add up the torques, defining either
+clockwise or counterclockwise as the positive
+torque direction, they’ll equal zero.
+Si vous additionnez les couples, en définissant le
+sens horaire ou antihoraire comme sens de
+couple positif, ils seront égaux à zéro.
+
+In this case, Parvati and Padma each create
+torques of nine hundred Newton-meters in opposite
+directions, which cancel out.
+Dans ce cas, Parvati et Padma créent chacun des
+couples de neuf cents Newton-mètres dans des
+directions opposées, qui s'annulent.
+
+Of course, if Padma swaps places with a heavier
+friend of hers, the torques will no longer add up to zero.
+Bien sûr, si Padma change de place avec un
+de ses amis plus lourds, les couples ne s'additionneront plus à zéro.
+
+If the seesaw was long enough, she could balance
+out the torque generated by her heavier friend
+by sitting further away from the pivot.
+Si la bascule était assez longue, elle pourrait
+équilibrer le couple généré par son ami plus lourd
+en s'asseyant plus loin du pivot.
+
+But if they’re sitting the same distance
+away on opposite sides, we have a dynamics
+problem, rather than statics.
+Mais s'ils sont assis à la même
+distance sur des côtés opposés, nous avons un
+problème de dynamique plutôt que de statique.
+
+By adding up torques or forces, we could work out the total torque and Parvati’s change in angular momentum – or the momentum of her rotation – as she begins to swing upward.
+En additionnant les couples ou les forces, nous pourrions calculer le couple total et le changement de moment cinétique de Parvati – ou le moment de sa rotation – alors qu'elle commence à se balancer vers le haut.
+
+So dynamics describes when the net force or
+torques on the system don’t cancel out.
+Ainsi, la dynamique décrit le moment où la force ou les
+couples nets sur le système ne s'annulent pas.
+
+That was the problem for the Citicorp building
+– the force of the wind had a significant
+chance of overwhelming it.
+C'était le problème pour le bâtiment Citicorp
+- la force du vent avait de grandes
+chances de le submerger.
+
+Big skyscrapers ordinarily resist the wind
+through a system of braces inside the building’s
+structure.
+Les grands gratte-ciel résistent généralement au vent
+grâce à un système de contreventements à l'intérieur de la structure du bâtiment
+.
+
+As we’ve seen for the other engineering materials,
+the braces can withstand a certain amount of stress
+before they begin to undergo failure.
+Comme nous l'avons vu pour les autres matériaux d'ingénierie,
+les accolades peuvent résister à une certaine quantité de contraintes
+avant de commencer à subir une défaillance.
+
+In the case of the Citicorp building, the
+student’s discovery prompted the lead structural
+engineer to consider the quartering winds.
+Dans le cas du bâtiment Citicorp, la
+découverte de l'étudiant a incité l'ingénieur principal en structure
+à prendre en compte les vents de cantonnement.
+
+He realized that the positioning of the building’s
+support columns meant the total wind force on the
+braces would be way more than they’d planned for.
+Il s'est rendu compte que le positionnement des
+colonnes de support du bâtiment signifiait que la force totale du vent sur les
+contreventements serait bien supérieure à ce qu'ils avaient prévu.
+
+By looking at how the force of weight was distributed
+throughout the building and calculating how quartering
+winds would distribute a force to the braces,
+En examinant comment la force du poids était répartie
+dans tout le bâtiment et en calculant comment les
+vents de cantonnement répartiraient une force sur les entretoises,
+
+he found that some of the braces would
+encounter a tension of 160% more than
+they’d previously calculated!
+il a découvert que certaines des entretoises
+subiraient une tension de 160 % supérieure à ce
+qu'elles avaient calculé auparavant !
+
+It would only take a once-in-16-year storm
+for the braces to fail!
+Il ne faudrait qu'une seule tempête tous les 16 ans
+pour que les broches tombent en panne !
+
+Thankfully, he and a team of engineers worked
+through the full mechanics of the situation
+Heureusement, lui et une équipe d'ingénieurs ont travaillé
+sur tous les mécanismes de la situation
+
+and realized that they could reinforce the
+braces by welding 5-centimeter-thick steel
+plates throughout the structure.
+et ont réalisé qu'ils pouvaient renforcer les
+entretoises en soudant des plaques d'acier de 5 centimètres d'épaisseur sur
+toute la structure.
+
+To get the job done without causing too much panic to the inhabitants of the building – or alerting the media – welders worked at night, and in secret to reinforce the braces.
+Pour faire le travail sans trop affoler les habitants de l'immeuble – ni alerter les médias – les soudeurs ont travaillé de nuit, et en cachette pour renforcer les croisillons.
+
+After a few months of welding, they transformed the Citicorp building from having a 1-in-16 chance of failure in any given year, to one of the safest buildings ever built.
+Après quelques mois de soudure, ils ont transformé le bâtiment Citicorp d'un risque de défaillance de 1 sur 16 au cours d'une année donnée, en l'un des bâtiments les plus sûrs jamais construits.
+
+Today, it can handle pretty much anything
+the weather throws at it.
+Aujourd'hui, il peut supporter à peu près tout ce que
+la météo lui impose.
+
+In this episode, we looked at statics and
+dynamics, and what they mean for the
+structures we design.
+Dans cet épisode, nous avons examiné la statique et la
+dynamique, et ce qu'elles signifient pour les
+structures que nous concevons.
+
+We explored the idea of static equilibrium, forces,
+and torques, and how free-body diagrams can help
+us make sense of it all.
+Nous avons exploré l'idée d'équilibre statique, de forces
+et de couples, et comment les diagrammes de corps libres peuvent
+nous aider à donner un sens à tout cela.
+
+In our next episode, we switch from looking
+at the math engineers use to solve problems,
+Dans notre prochain épisode, nous passons de l'examen
+des ingénieurs mathématiques utilisés pour résoudre des problèmes
+
+to the decisions they have to make to acknowledge
+and admit problems in the first place.
+aux décisions qu'ils doivent prendre pour reconnaître
+et admettre les problèmes en premier lieu.
+
+Crash Course Engineering is produced in association
+with PBS Digital Studios.
+Crash Course Engineering est produit en association
+avec PBS Digital Studios.
+
+To learn more about physics in the real world,
+check out Physics Girl.
+Pour en savoir plus sur la physique dans le monde réel,
+consultez Physics Girl.
+
+Dianna Cowern demonstrates the physics behind
+puzzling phenomenon and everyday mysteries.
+Dianna Cowern démontre la physique derrière les
+phénomènes déroutants et les mystères quotidiens.
+
+Check out Physics Girl and subscribe at the
+link below.
+Découvrez Physics Girl et abonnez-vous au
+lien ci-dessous.
+
+Crash Course is a Complexly production and this
+episode was filmed in the Doctor Cheryl C. Kinney
+Studio with the help of these wonderful people.
+Crash Course est une production de Complexly et cet
+épisode a été filmé dans le studio du docteur Cheryl C. Kinney
+avec l'aide de ces personnes merveilleuses.
+
+And our amazing graphics team is Thought Cafe.
+Et notre incroyable équipe graphique est Thought Cafe.
+

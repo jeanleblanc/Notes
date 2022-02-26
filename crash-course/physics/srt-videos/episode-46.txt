@@ -1,0 +1,601 @@
+After a year of studying the laws of the universe
+together, a year of studying and calculating,
+Après une année à étudier ensemble les lois de l'
+univers, une année à étudier et à calculer, à
+
+learning about motion and fluids, thermodynamics,
+electricity and magnetism, light and sound,
+apprendre le mouvement et les fluides, la thermodynamique, l'
+électricité et le magnétisme, la lumière et le son,
+
+We find ourselves here:
+nous nous retrouvons ici : L'
+
+Space, the final frontier.
+espace, l'ultime frontière.
+
+We’re all voyagers on a mission to understand
+the universe, using the power of physics.
+Nous sommes tous des voyageurs en mission pour comprendre
+l'univers, en utilisant la puissance de la physique.
+
+And even though we’ve been doing it for
+centuries, there’s so much we have to learn
+about the cosmos!
+Et même si nous le faisons depuis des
+siècles, nous avons tant à apprendre
+sur le cosmos !
+
+Some of the most exciting research in physics today
+is being done by astrophysicists and cosmologists.
+Certaines des recherches les plus passionnantes en physique aujourd'hui
+sont menées par des astrophysiciens et des cosmologistes.
+
+Astrophysicists study the physics of celestial
+bodies, such as planets, stars, and galaxies.
+Les astrophysiciens étudient la physique des
+corps célestes, tels que les planètes, les étoiles et les galaxies.
+
+Their research takes us inside phenomena like
+black holes and supernovae.
+Leurs recherches nous emmènent à l'intérieur de phénomènes comme
+les trous noirs et les supernovae.
+
+But we can use physics to try to answer even
+bigger questions about the universe.
+Mais nous pouvons utiliser la physique pour essayer de répondre à des questions encore
+plus importantes sur l'univers.
+
+Cosmologists study the universe overall and
+ask questions about the origin of everything,
+as well as its future.
+Les cosmologues étudient l'univers dans son ensemble et
+posent des questions sur l'origine de tout
+, ainsi que sur son avenir.
+
+It’s their job, and yours, to continue looking
+into the night sky, searching for answers using the
+tools and knowledge that physics can provide.
+C'est leur travail, et le vôtre, de continuer à regarder
+dans le ciel nocturne, à chercher des réponses en utilisant les
+outils et les connaissances que la physique peut fournir.
+
+[Theme Music]
+[Thème musical]
+
+Before we can talk about something as big
+as the universe, we need to be able to describe
+just how big it is.
+Avant de pouvoir parler de quelque chose d'aussi grand
+que l'univers, nous devons être capables de décrire
+à quel point il est grand.
+
+When talking about things on Earth, we typically
+use measurements in the range of nanometers
+to kilometers.
+Lorsque nous parlons de choses sur Terre, nous
+utilisons généralement des mesures dans la gamme des nanomètres
+aux kilomètres.
+
+But when we’re in space, we need something
+a whole lot bigger.
+Mais quand nous sommes dans l'espace, nous avons besoin de quelque chose
+de beaucoup plus grand.
+
+For instance, I could say that the nearest
+star to earth, besides the sun, is 4x10^13
+kilometers from us.
+Par exemple, je pourrais dire que l'étoile la plus proche
+de la terre, à part le soleil, est à 4x10^13
+kilomètres de nous.
+
+But that’s a mouthful for something that’s
+basically right next door, in cosmic terms.
+Mais c'est une bouchée pour quelque chose qui est
+fondamentalement juste à côté, en termes cosmiques.
+
+So it’s easier to say that this star, Proxima
+Centauri, is 4.2 light-years from Earth.
+Il est donc plus facile de dire que cette étoile, Proxima
+Centauri, est à 4,2 années-lumière de la Terre.
+
+A light-year is a unit of length, with one
+light-year equaling the distance that light would
+travel in a vacuum in one year.
+Une année-lumière est une unité de longueur, une
+année-lumière équivalant à la distance que la lumière
+parcourrait dans le vide en un an.
+
+If you take the speed of light, about 300
+million meters per second, and multiply it
+by how many seconds are in a year,
+Si vous prenez la vitesse de la lumière, environ 300
+millions de mètres par seconde, et que vous la multipliez
+par le nombre de secondes dans une année,
+
+you find that one light-year is approximately
+10^16 meters, or 10 million, billion meters.
+vous constatez qu'une année-lumière équivaut à environ
+10 ^ 16 mètres, soit 10 millions de milliards de mètres.
+
+To give you a sense of scale, it takes light just
+over 8 minutes to travel from the sun to the Earth,
+Pour vous donner une idée de l'échelle, il faut un peu
+plus de 8 minutes à la lumière pour se rendre du soleil à la Terre,
+
+and the Milky Way is roughly a hundred
+thousand light-years in diameter.
+et la Voie lactée mesure environ cent
+mille années-lumière de diamètre.
+
+Sometimes we also use a unit called a parsec,
+which is equal to 3.26 light years.
+Parfois, nous utilisons également une unité appelée parsec,
+qui équivaut à 3,26 années-lumière.
+
+Now, when we say that Proxima Centauri is
+4.2 light-years away,
+Maintenant, quand nous disons que Proxima Centauri est à
+4,2 années-lumière,
+
+this also means that when we look at the
+star through a telescope, we’re seeing what
+Proxima Centauri looked like 4.2 years ago.
+cela signifie également que lorsque nous regardons l'
+étoile à travers un télescope, nous voyons à quoi
+ressemblait Proxima Centauri il y a 4,2 ans.
+
+It takes light that long to get here from Proxima
+Centauri, so we’ll never know what that star –
+Il faut autant de temps à la lumière pour venir de Proxima
+Centauri, nous ne saurons donc jamais à quoi ressemble cette étoile –
+
+or any star or other distant
+object – looks like at this exact moment.
+ou toute étoile ou autre
+objet distant – à ce moment précis.
+
+This means that, as we observe celestial
+objects far away, we’re looking into the past,
+Cela signifie que, lorsque nous observons des
+objets célestes au loin, nous regardons vers le passé,
+
+seeing what stars and galaxies looked like millions,
+if not billions, of years ago.
+voyant à quoi ressemblaient les étoiles et les galaxies il y a des millions,
+voire des milliards d'années.
+
+While we’re observing these stars, we can use a
+spectrometer, the device that separates wavelengths,
+Pendant que nous observons ces étoiles, nous pouvons utiliser un
+spectromètre, l'appareil qui sépare les longueurs d'onde,
+
+to reveal the star’s absorption
+spectrum and its elemental composition.
+pour révéler le spectre d'absorption de l'étoile
+et sa composition élémentaire.
+
+But when we study very distant bodies, we find that their absorption spectrum is slightly different from what we’d expect, given our knowledge of typical star compositions.
+Mais lorsque nous étudions des corps très éloignés, nous constatons que leur spectre d'absorption est légèrement différent de ce à quoi nous nous attendions, compte tenu de notre connaissance des compositions typiques des étoiles.
+
+Remember the Doppler effect?
+Vous vous souvenez de l'effet Doppler ?
+
+How the pitch of an ambulance siren becomes higher
+as it approaches you and lower as it moves away?
+Comment la tonalité d'une sirène d'ambulance devient-elle plus élevée
+lorsqu'elle s'approche de vous et plus faible lorsqu'elle s'éloigne ?
+
+The same effect happens with light!
+Le même effet se produit avec la lumière !
+
+If an object is moving away from you, the
+speed of light doesn’t change, but the peaks
+Si un objet s'éloigne de vous, la
+vitesse de la lumière ne change pas, mais les pics
+
+of the electromagnetic wave that it emits
+move farther apart.
+de l'onde électromagnétique qu'il
+émet s'éloignent.
+
+This effect – which occurs with light emitted
+by an object moving away from Earth – is
+Cet effet - qui se produit avec la lumière émise
+par un objet s'éloignant de la Terre - est
+
+called redshift, because the longer the
+wavelengths get, the closer they are to the
+red part of the visible spectrum.
+appelé décalage vers le rouge, car plus les
+longueurs d'onde s'allongent, plus elles se rapprochent de la
+partie rouge du spectre visible.
+
+Once astronomers recognized and could
+measure redshift, they found that the spectra from
+nearly every distant galaxy was redshifted,
+Une fois que les astronomes ont reconnu et ont pu
+mesurer le décalage vers le rouge, ils ont découvert que les spectres de
+presque toutes les galaxies éloignées étaient décalés vers le rouge,
+
+meaning that every galaxy
+was moving away from us.
+ce qui signifie que chaque
+galaxie s'éloignait de nous.
+
+And if that wasn’t strange enough, astronomers such
+as Edwin Hubble noted that the amount of redshift is
+proportional to the distance from Earth.
+Et si ce n'était pas assez étrange, des astronomes
+comme Edwin Hubble ont noté que la quantité de redshift est
+proportionnelle à la distance de la Terre.
+
+So the farthest galaxies are moving away even
+faster than the close ones!
+Ainsi, les galaxies les plus éloignées s'éloignent encore
+plus vite que les plus proches !
+
+Georges Lemaître, a Belgian physicist,
+proposed this relationship as Hubble’s Law.
+Georges Lemaître, un physicien belge, a
+proposé cette relation comme loi de Hubble.
+
+It expresses the velocity at which a galaxy
+is speeding away from Earth, in terms of its
+distance from us.
+Il exprime la vitesse à laquelle une
+galaxie s'éloigne de la Terre, en fonction de sa
+distance par rapport à nous.
+
+The equation uses a proportionality
+constant called the Hubble parameter,
+L'équation utilise une
+constante de proportionnalité appelée paramètre de Hubble,
+
+which says that for every million light-years of
+distance from us, a galaxy is moving away at an
+additional 21 kilometers per second.
+qui indique que pour chaque million d'années-lumière de
+distance de nous, une galaxie s'éloigne
+de 21 kilomètres par seconde supplémentaires.
+
+Now, the fact is that nearby galaxies might
+be going away from us or toward us, based on
+how they’re moving within their local cluster.
+Maintenant, le fait est que les galaxies proches
+pourraient s'éloigner de nous ou se diriger vers nous, en fonction de la
+façon dont elles se déplacent au sein de leur amas local.
+
+But the overall tendency for distant galaxies
+to recede from us is much more common, so
+Hubble’s Law holds true in most cases.
+Mais la tendance générale des galaxies lointaines
+à s'éloigner de nous est beaucoup plus courante, de sorte que
+la loi de Hubble est vraie dans la plupart des cas.
+
+And this trend of distant galaxies moving
+away from us, and from one another, is called
+cosmological redshift.
+Et cette tendance des galaxies lointaines à
+s'éloigner de nous, et les unes des autres, s'appelle le
+redshift cosmologique.
+
+By the way, this expansion looks the same
+whether you’re on Earth or not.
+Soit dit en passant, cette extension a le même aspect,
+que vous soyez sur Terre ou non.
+
+No matter where you are, all distant galaxies
+appear to be moving away from you.
+Où que vous soyez, toutes les galaxies lointaines
+semblent s'éloigner de vous.
+
+So this leads physicists to believe that at
+some point in time, all the stars and galaxies
+were closer to one another – a lot closer.
+Cela amène donc les physiciens à croire
+qu'à un moment donné, toutes les étoiles et galaxies
+étaient plus proches les unes des autres - beaucoup plus proches.
+
+In the 1940s and 50s, Russian-American
+physicist George Gamow, developed a theory of the
+early universe that explained,
+Dans les années 40 et 50, le physicien russo-américain
+George Gamow a développé une théorie de l'
+univers primitif qui expliquait,
+
+among other things, why so many light elements,
+like hydrogen and helium, were observed throughout
+the cosmos.
+entre autres, pourquoi tant d'éléments légers,
+comme l'hydrogène et l'hélium, étaient observés dans tout
+le cosmos.
+
+He suggested that the universe began in a
+state of highly compressed hot plasma – a sort
+of hot soup of elementary particles.
+Il a suggéré que l'univers a commencé dans un
+état de plasma chaud hautement comprimé - une sorte
+de soupe chaude de particules élémentaires.
+
+His theory became known, somewhat dismissively
+by his colleagues, as the Big Bang Theory.
+Sa théorie est devenue connue, quelque peu dédaigneuse
+par ses collègues, sous le nom de théorie du Big Bang.
+
+And this same theory ultimately predicted that
+there should be radiation left over from the initial,
+rapid expansion of that compressed plasma.
+Et cette même théorie a finalement prédit
+qu'il devrait y avoir des restes de rayonnement de l'expansion initiale et
+rapide de ce plasma comprimé.
+
+This is because hot plasma, like the plasma
+in the flame of a candle, is not transparent.
+En effet, le plasma chaud, comme le plasma
+dans la flamme d'une bougie, n'est pas transparent.
+
+But ordinary gas – like the air around a
+candle’s flame – is transparent, and it lets
+light travel freely through it.
+Mais le gaz ordinaire - comme l'air autour de
+la flamme d'une bougie - est transparent et laisse la
+lumière le traverser librement.
+
+So it would make sense that the early, hot
+universe was originally opaque, until it cooled
+down to the point where it became transparent.
+Il serait donc logique que l'univers primitif et chaud
+soit à l'origine opaque, jusqu'à ce qu'il se
+refroidisse au point de devenir transparent.
+
+Once that happened, the thinking goes, light
+from the Big Bang was able to travel freely.
+Une fois que cela s'est produit, pense-t-on, la lumière
+du Big Bang a pu voyager librement.
+
+But its wavelength kept stretching out, redshifting
+until it could only be detected as microwave radiation.
+Mais sa longueur d'onde continuait de s'étirer, se décalant vers le rouge
+jusqu'à ce qu'elle ne puisse être détectée que sous forme de rayonnement micro-onde.
+
+Gamow's theory didn’t gain much acceptance,
+and it was largely forgotten.
+La théorie de Gamow n'a pas été largement acceptée
+et a été largement oubliée.
+
+Until, in 1964, American astronomers Arno Penzias
+and Robert Wilson pointed a radio antenna into space,
+and they discovered cosmic microwave background
+radiation.
+Jusqu'à ce qu'en 1964, les astronomes américains Arno Penzias
+et Robert Wilson pointent une antenne radio dans l'espace
+et qu'ils découvrent le rayonnement de fond cosmique des micro-ondes
+.
+
+They basically discovered the radiation from
+the Big Bang, by accident.
+Ils ont essentiellement découvert le rayonnement
+du Big Bang, par accident.
+
+They found that a low-energy microwave radiation
+persisted at all times, day and night,
+Ils ont découvert qu'un rayonnement micro-ondes de faible énergie
+persistait à tout moment, jour et nuit,
+
+and they concluded that the source of the
+radiation was the universe itself.
+et ils ont conclu que la source du
+rayonnement était l'univers lui-même.
+
+This cosmic background radiation provides
+support for the Big Bang Theory,
+Ce rayonnement de fond cosmique
+soutient la théorie du Big Bang
+
+and it tells us a lot about the conditions of
+the early universe.
+et nous en dit long sur les conditions de
+l'univers primitif.
+
+Thanks to these insights, along with the observed
+expansion of the universe and other evidence,
+Grâce à ces informations, ainsi qu'à l'
+expansion observée de l'univers et à d'autres preuves,
+
+we have learned that the universe began in
+a hot dense state, then cooled, and produced
+galaxies and clusters that we see today.
+nous avons appris que l'univers a commencé dans
+un état chaud et dense, puis s'est refroidi et a produit les
+galaxies et les amas que nous voyons aujourd'hui.
+
+However, many mysteries remain.
+Cependant, de nombreux mystères demeurent.
+
+For instance, if the universe started with
+such high density and temperature, wouldn’t
+gravity make its expansion slow down?
+Par exemple, si l'univers commençait
+avec une densité et une température aussi élevées, la
+gravité ne ralentirait-elle pas son expansion ?
+
+The fact is, the rate of expansion would
+slow down only if the universe was filled with
+nothing but matter and radiation.
+Le fait est que le taux d'expansion ne
+ralentirait que si l'univers n'était rempli
+que de matière et de rayonnement.
+
+But that’s not the case!
+Mais ce n'est pas le cas !
+
+Space is filled with a constant – or at least, slowly
+varying – form of energy known as dark energy.
+L'espace est rempli d'une forme d'énergie constante - ou du moins
+variant lentement - connue sous le nom d'énergie noire.
+
+And because of the pervasive presence of this
+energy, according to general relativity, gravity is
+actually causing space to expand, and accelerate!
+Et en raison de la présence omniprésente de cette
+énergie, selon la relativité générale, la
+gravité provoque en fait l'expansion et l'accélération de l'espace !
+
+This isn’t just theoretical.
+Ce n'est pas seulement théorique.
+
+Recent evidence suggests that the universe
+actually IS accelerating in its expansion,
+showing no signs of slowing down.
+Des preuves récentes suggèrent que l'
+univers accélère en fait son expansion,
+ne montrant aucun signe de ralentissement.
+
+But beyond the fact that it exists, there’s
+not much that we know about dark energy.
+Mais au-delà du fait qu'elle existe,
+nous ne savons pas grand-chose sur l'énergie noire.
+
+Another one of the universe’s great mysteries
+is the existence of mass that we can’t see,
+but we know that it, too, exists.
+Un autre des grands mystères de l'univers
+est l'existence d'une masse que nous ne pouvons pas voir,
+mais nous savons qu'elle existe aussi.
+
+When we study a galaxy’s rotation, we can
+estimate how much mass is in it by measuring
+its radius and rotational velocity.
+Lorsque nous étudions la rotation d'une galaxie, nous pouvons
+estimer sa masse en mesurant
+son rayon et sa vitesse de rotation.
+
+But when we actually calculate that mass,
+the result is far greater than what’s observable
+as stars and gas.
+Mais lorsque nous calculons réellement cette masse,
+le résultat est bien supérieur à ce qui est observable
+sous forme d'étoiles et de gaz.
+
+The conclusion is that there’s an immense
+amount of mass in the universe known as dark
+matter, which doesn’t reflect or emit any light.
+La conclusion est qu'il existe une immense
+quantité de masse dans l'univers connue sous le nom de
+matière noire, qui ne réfléchit ni n'émet de lumière.
+
+By current estimates, dark matter makes up
+almost 85 percent of all the matter in the universe.
+Selon les estimations actuelles, la matière noire représente
+près de 85 % de toute la matière de l'univers.
+
+This means that all visible matter, including
+stars and planets, make up just a small percentage
+of all energy in the universe,
+Cela signifie que toute la matière visible, y compris les
+étoiles et les planètes, ne représente qu'un petit pourcentage
+de toute l'énergie de l'univers,
+
+while the rest is mysterious dark energy
+and dark matter.
+tandis que le reste est une mystérieuse énergie
+noire et de la matière noire.
+
+Research in these fields is ongoing and
+new evidence is found every year, refining our
+understanding of the universe.
+La recherche dans ces domaines est en cours et de
+nouvelles preuves sont découvertes chaque année, affinant notre
+compréhension de l'univers.
+
+In the past year here on Crash Course, and
+for thousands of years, we have used physics to
+answer some of life’s most important questions.
+Au cours de l'année écoulée ici sur Crash Course, et
+pendant des milliers d'années, nous avons utilisé la physique pour
+répondre à certaines des questions les plus importantes de la vie.
+
+Whether it’s a ball flying through the air
+or the origin of the universe,
+Qu'il s'agisse d'une boule volant dans les airs
+ou de l'origine de l'univers,
+
+we can use our knowledge from Newton’s Laws
+to special relativity in order to move closer to
+the truth.
+nous pouvons utiliser nos connaissances des lois de Newton
+à la relativité restreinte afin de nous rapprocher de
+la vérité.
+
+And there’s still so much to discover, both
+in the stars and here on earth.
+Et il y a encore tant à découvrir, à la fois
+dans les étoiles et ici sur terre.
+
+Some of the most groundbreaking research is
+happening on the smallest scales,
+Certaines des recherches les plus révolutionnaires se
+déroulent à des échelles plus petites, alors
+
+as physicists seek to understand the building blocks
+of our universe and the nature of matter itself.
+que les physiciens cherchent à comprendre les éléments constitutifs
+de notre univers et la nature de la matière elle-même.
+
+It’s not an easy task, and it’s why we
+need scientists and enthusiastic supporters
+such as yourself to go out,
+Ce n'est pas une tâche facile, et c'est pourquoi nous avons
+besoin de scientifiques et de supporters enthousiastes
+comme vous pour sortir,
+
+be curious, ask questions, and to find
+answers through scientific methods.
+être curieux, poser des questions et trouver des
+réponses grâce à des méthodes scientifiques.
+
+Today we learned about light-years and how
+looking in the distance is also looking into the past.
+Aujourd'hui, nous avons découvert les années-lumière et comment
+regarder au loin, c'est aussi regarder dans le passé.
+
+We discussed redshift and used Hubble’s
+Law to calculate how much certain parts of
+the universe are expanding away from us.
+Nous avons discuté du décalage vers le rouge et utilisé la loi de Hubble
+pour calculer à quel point certaines parties de
+l'univers s'éloignent de nous.
+
+Finally, we introduced the Big Bang, cosmic
+background radiation, and the mysteries of
+dark energy and dark matter. Bye!
+Enfin, nous avons présenté le Big Bang, le rayonnement de
+fond cosmique et les mystères de
+l'énergie noire et de la matière noire.  Au revoir! 
+
+Crash Course Physics is produced in association
+with PBS Digital Studios.
+Crash Course Physics est produit en association
+avec PBS Digital Studios.
+
+You can head over to their channel to check
+out a playlist of their latest amazing shows like:
+Vous pouvez vous rendre sur leur chaîne pour
+consulter une liste de lecture de leurs dernières émissions incroyables telles que :
+
+The Art Assignment, Gross Science, and Deep
+Look.
+The Art Assignment, Gross Science et Deep
+Look.
+
+This episode of Crash Course was filmed in
+the Doctor Cheryl C. Kinney Crash Course Studio
+Cet épisode de Crash Course a été filmé dans
+le studio Doctor Cheryl C. Kinney Crash Course
+
+with the help of these amazing people and
+our equally amazing graphics team, is Thought Cafe.
+avec l'aide de ces personnes incroyables et de
+notre équipe graphique tout aussi incroyable, Thought Cafe.
+

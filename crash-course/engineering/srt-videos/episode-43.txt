@@ -1,0 +1,644 @@
+If you’ve ever bought a new phone, a t-shirt or,
+well, basically anything, it’s probably come a long
+way – maybe even from a different continent!
+Si vous avez déjà acheté un nouveau téléphone, un t-shirt ou,
+enfin, fondamentalement n'importe quoi, cela a probablement parcouru un long
+chemin - peut-être même d'un autre continent !
+
+That’s possible almost entirely because
+of shipping – as in the kind with actual ships.
+C'est presque entièrement possible grâce à la
+navigation - comme dans le cas des navires réels.
+
+Shipping is responsible for supporting
+90% of global trade, from the latest toys to
+life-saving  medicine.
+Le transport maritime est chargé de soutenir
+90 % du commerce mondial, des jouets les plus récents aux
+médicaments qui sauvent des vies.
+
+As the world grows increasingly connected,
+we’re all looking to send and receive more
+stuff than ever before.
+Alors que le monde devient de plus en plus connecté,
+nous cherchons tous à envoyer et à recevoir plus de
+choses que jamais.
+
+The weight of all those seaborne products
+has grown by more than a quarter just in
+the last decade.
+Le poids de tous ces produits transportés par mer
+a augmenté de plus d'un quart au cours de
+la dernière décennie seulement.
+
+Although you probably don’t give it much
+thought, getting all those ships safely across
+the ocean is a big challenge.
+Bien que vous n'y pensiez probablement pas beaucoup
+, faire traverser l'océan à tous ces navires en toute sécurité
+est un défi de taille.
+
+Ships have to contend with waves, sea life,
+corrosion, and more on their journey to deliver
+what we want, where we need it.
+Les navires doivent faire face aux vagues, à la vie marine, à la
+corrosion et bien plus encore pendant leur voyage pour livrer
+ce que nous voulons, là où nous en avons besoin.
+
+To design vessels capable of weathering everything
+thrown their way, you’ll need marine engineering.
+Pour concevoir des navires capables de résister à tout ce qui
+leur arrive, vous aurez besoin d'ingénierie marine.
+
+[Theme Music]
+[Theme Music]
+
+You might think that, after looking at nuclear
+meltdowns, cheese catastrophes, and earthquakes, a
+bit of water wouldn’t be the toughest thing to tackle.
+Vous pourriez penser qu'après avoir examiné les
+fusions nucléaires, les catastrophes du fromage et les tremblements de terre, un
+peu d'eau ne serait pas la chose la plus difficile à aborder.
+
+But the ocean isn’t just one big, wet blob.
+Mais l'océan n'est pas qu'une grosse goutte humide.
+
+Below its depths lies a world of chemical,
+biological, and physical complexity that throws
+up all sorts of challenges.
+Sous ses profondeurs se trouve un monde d'
+une complexité chimique, biologique et physique qui
+soulève toutes sortes de défis.
+
+Which is why marine engineering has very different
+considerations than the kind on land or in the air.
+C'est pourquoi l'ingénierie marine a des considérations très différentes
+de celles sur terre ou dans les airs.
+
+Marine engineers work on pretty much anything
+that will be spending time in water.
+Les ingénieurs maritimes travaillent sur à peu près tout ce
+qui passera du temps dans l'eau.
+
+Ships definitely fall in that category, but
+so do structures like offshore oil rigs and
+wind farms.
+Les navires entrent définitivement dans cette catégorie, mais
+il en va de même pour les structures telles que les plates-formes pétrolières offshore et les
+parcs éoliens.
+
+For all of these things, marine engineers
+need a broad knowledge of mechanical,
+electrical and even civil engineering.
+Pour toutes ces choses, les ingénieurs maritimes ont
+besoin d'une vaste connaissance du génie mécanique,
+électrique et même civil.
+
+They have to bring together fluid
+mechanics, materials design, power generation,
+and computer architecture
+Ils doivent combiner la
+mécanique des fluides, la conception des matériaux, la production d'énergie
+et l'architecture informatique
+
+to build things that are totally independent
+from the resources available on land.
+pour construire des choses totalement indépendantes
+des ressources disponibles sur terre.
+
+Although there are some very different challenges
+for traveling vessels and permanent installations,
+Bien qu'il existe des défis très différents
+pour les navires itinérants et les installations permanentes,
+
+they share many of the same problems in coping
+with the tough environment of the sea.
+ils partagent bon nombre des mêmes problèmes pour faire face
+à l'environnement difficile de la mer.
+
+For starters, as any seasoned sailor can tell
+you, the surface of the ocean is rarely perfectly calm.
+Pour commencer, comme tout marin chevronné peut
+vous le dire, la surface de l'océan est rarement parfaitement calme.
+
+You’re dealing with huge swathes of dense
+liquid colliding with everything you design.
+Vous avez affaire à d'énormes étendues de
+liquide dense entrant en collision avec tout ce que vous concevez.
+
+A cubic meter of water weighs a metric ton,
+which gives crashing waves a force comparable
+to that of a moving car.
+Un mètre cube d'eau pèse une tonne métrique,
+ce qui donne aux vagues déferlantes une force comparable
+à celle d'une voiture en mouvement.
+
+Even when the swells are small, water can
+easily creep into structures and start causing
+problems.
+Même lorsque la houle est faible, l'eau peut
+facilement s'infiltrer dans les structures et commencer à causer des
+problèmes.
+
+Which is why in marine engineering, your first
+goal is often to make something that’s watertight.
+C'est pourquoi, en génie maritime, votre premier
+objectif est souvent de fabriquer quelque chose d'étanche.
+
+As well as being an obvious problem for ships,
+water leakage can end up short circuiting an undersea
+cable or the electronics in mining machinery.
+En plus d'être un problème évident pour les navires,
+les fuites d'eau peuvent finir par court-circuiter un câble sous-
+marin ou l'électronique des machines minières.
+
+The deeper you go, the more water there is
+pushing down from above, which means more
+pressure.
+Plus vous allez en profondeur, plus il y a d'eau qui
+pousse d'en haut, ce qui signifie plus de
+pression.
+
+That makes the challenge of making submarines
+mechanically intact and watertight even trickier.
+Cela rend encore plus difficile le défi de rendre les sous-marins
+mécaniquement intacts et étanches.
+
+To test the capabilities of something like a submarine
+hatch, engineers will subject it to trials such as spraying
+it with a high pressure hose and checking for any leaks.
+Pour tester les capacités de quelque chose comme une trappe de sous-marin
+, les ingénieurs la soumettront à des essais tels que la
+pulvérisation avec un tuyau à haute pression et la recherche de fuites.
+
+You can even locate tiny leaks that the hose test can’t
+pick up by placing an ultrasound emitter on one side of
+the hatch and checking if it can be detected on the other.
+Vous pouvez même localiser de minuscules fuites que le test du tuyau ne peut pas
+détecter en plaçant un émetteur à ultrasons d'un côté de
+la trappe et en vérifiant s'il peut être détecté de l'autre.
+
+By tracing the source of the sound through the edge
+of the hatch, you can find and fix any small gaps that
+might allow water into the submarine or air out!
+En traçant la source du son à travers le bord
+de la trappe, vous pouvez trouver et réparer tous les petits espaces qui
+pourraient permettre à l'eau d'entrer dans le sous-marin ou à l'air !
+
+Of course, ships don’t just sit in the water
+– they need to move!
+Bien sûr, les navires ne restent pas simplement assis dans l'eau
+- ils doivent bouger !
+
+Water is 800 times denser than air and while
+a ship moves, it’s constantly pushing water
+out of the way.
+L'eau est 800 fois plus dense que l'air et pendant
+qu'un navire se déplace, il repousse constamment l'
+eau.
+
+Fortunately, propellers actually take advantage
+of that density.
+Heureusement, les hélices profitent en fait
+de cette densité.
+
+As the propeller spins, the blades are angled
+to take the water around them and push it out
+behind the ship.
+Lorsque l'hélice tourne, les pales sont inclinées
+pour prendre l'eau autour d'elles et la repousser
+derrière le navire.
+
+The more mass the propeller throws out the
+back, the more it pushes the ship forward.
+Plus l'hélice projette de masse à l'
+arrière, plus elle pousse le navire vers l'avant.
+
+That’s just conservation of momentum in
+action!
+C'est juste la conservation de l'élan en
+action !
+
+To help with this, a propeller’s blades are shaped
+such that water flows around and past them more
+efficiently, like the wings of a plane.
+Pour aider à cela, les pales d'une hélice sont façonnées de manière à
+ce que l'eau les contourne et les dépasse plus
+efficacement, comme les ailes d'un avion.
+
+Unfortunately, ship propellers face some challenges
+their airborne cousins don’t.
+Malheureusement, les hélices de navires sont confrontées à certains défis que
+leurs cousins aéroportés n'ont pas. 
+
+When the blades revolve at high speeds, they
+essentially boil parts of the surrounding water.
+Lorsque les pales tournent à grande vitesse, elles font
+essentiellement bouillir des parties de l'eau environnante.
+
+And that’s not because the propeller heats the water
+up, but because of the huge pressure difference on
+either side of the rotating blades.
+Et ce n'est pas parce que l'hélice chauffe l'
+eau, mais à cause de l'énorme différence de pression de
+chaque côté des pales en rotation.
+
+That creates tiny bubbles of steam.
+Cela crée de minuscules bulles de vapeur.
+
+And when those bubbles collapse, they
+send out a shockwave that hits the propeller
+in a process called cavitation.
+Et lorsque ces bulles s'effondrent, elles
+envoient une onde de choc qui frappe l'hélice
+dans un processus appelé cavitation.
+
+It might not seem like bubbles could cause much
+damage, but cavitation can apply as much force as
+whacking the blades with a hammer!
+Il peut sembler que les bulles ne causent pas beaucoup de
+dégâts, mais la cavitation peut appliquer autant de force que de
+frapper les pales avec un marteau !
+
+Over time, this can cause a serious warp and
+prevent them from working efficiently.
+Au fil du temps, cela peut provoquer une déformation grave et les
+empêcher de fonctionner efficacement.
+
+Cavitation crops up when the blades need to
+rotate quickly to generate a large propulsive force.
+La cavitation apparaît lorsque les pales doivent
+tourner rapidement pour générer une grande force de propulsion.
+
+You can slow them down to avoid cavitation,
+but that lowers the thrust the propeller provides.
+Vous pouvez les ralentir pour éviter la cavitation,
+mais cela réduit la poussée fournie par l'hélice.
+
+Unless you’re willing to get creative.
+Sauf si vous êtes prêt à faire preuve de créativité.
+
+The US Navy’s Ohio-class submarines
+replace the standard three-blade propeller
+design with one containing seven.
+Les sous-marins de la classe Ohio de l'US Navy
+remplacent la conception standard des hélices à trois pales
+par une en contenant sept.
+
+These propellers are shaped to generate more thrust
+at low speeds, enabling them to provide enough force
+to move the submarine with much less cavitation.
+Ces hélices sont conçues pour générer plus de poussée
+à basse vitesse, ce qui leur permet de fournir suffisamment de force
+pour déplacer le sous-marin avec beaucoup moins de cavitation.
+
+The Navy considers this such a breakthrough
+that the exact details of the design have
+been classified for decades.
+La Marine considère cela comme une telle percée
+que les détails exacts de la conception ont
+été classifiés pendant des décennies.
+
+The exact details of any propeller depend
+on the mass of the ship and the speed at which
+it needs to travel.
+Les détails exacts de toute hélice dépendent
+de la masse du navire et de la vitesse à laquelle
+il doit se déplacer.
+
+Fluid mechanics and thermodynamics are key,
+since water temperature and pressure will
+affect performance.
+La mécanique des fluides et la thermodynamique sont essentielles,
+car la température et la pression de l'eau
+affecteront les performances.
+
+And it’s not just the propeller’s design
+that matters, but what it’s made of.
+Et ce n'est pas seulement la conception de l'hélice
+qui compte, mais de quoi elle est faite.
+
+In fact, what the whole ship is made of.
+En fait, de quoi tout le navire est fait.
+
+Since metals are relatively easy to shape
+and can withstand large amounts of pressure
+without deforming,
+Étant donné que les métaux sont relativement faciles à façonner
+et peuvent résister à de grandes quantités de pression
+sans se déformer,
+
+they’re the go-to material for constructing
+the hull of a ship.
+ils sont le matériau de choix pour la construction de
+la coque d'un navire.
+
+But over time, metals and water don’t get
+along so well!
+Mais avec le temps, les métaux et l'eau ne
+font plus si bon ménage !
+
+Water contains a lot of oxygen, so submerging
+a metal can lead to a chemical reaction called
+oxidation.
+L'eau contient beaucoup d'oxygène, donc l'immersion d'
+un métal peut entraîner une réaction chimique appelée
+oxydation.
+
+You’re probably familiar with at least iron
+oxide, which is more commonly known as rust!
+Vous connaissez probablement au moins l'
+oxyde de fer, plus communément appelé rouille !
+
+Oxidation corrodes the hull, causing it to
+lose material and become brittle.
+L'oxydation corrode la coque, la faisant
+perdre du matériau et la rendant cassante.
+
+Corrosion is a serious problem for any metal
+structure in long-term contact with water.
+La corrosion est un problème sérieux pour toute
+structure métallique en contact prolongé avec l'eau.
+
+The more they corrode, the weaker they become!
+Plus ils se corrodent, plus ils s'affaiblissent !
+
+The kind of chemical reaction that marine
+engineers often worry about is galvanic corrosion.
+Le type de réaction chimique qui
+préoccupe souvent les ingénieurs maritimes est la corrosion galvanique.
+
+This happens when parts of an object are made
+of different metals, such as having an aluminum
+hull and a stainless steel propeller.
+Cela se produit lorsque des parties d'un objet sont constituées
+de différents métaux, comme une
+coque en aluminium et une hélice en acier inoxydable.
+
+Aluminum is chemically reactive, while steel
+is relatively inert.
+L'aluminium est chimiquement réactif, tandis que l'acier
+est relativement inerte.
+
+And that difference is the heart of the problem.
+Et cette différence est le cœur du problème.
+
+Saltwater is really good at conducting electrical
+currents, which means it can carry a stream of
+charged particles from the hull to the propeller!
+L'eau salée est vraiment bonne pour conduire les
+courants électriques, ce qui signifie qu'elle peut transporter un flux de
+particules chargées de la coque à l'hélice !
+
+And as the current draws molecules of aluminum
+away from the hull, it leaves a corroded surface behind.
+Et comme le courant éloigne les molécules d'
+aluminium de la coque, il laisse derrière lui une surface corrodée.
+
+To prevent this, marine engineers often use sacrificial
+anodes, which are basically just slabs of zinc.
+Pour éviter cela, les ingénieurs maritimes utilisent souvent des
+anodes sacrificielles, qui ne sont essentiellement que des plaques de zinc.
+
+It’s called an anode because it acts like the anode in
+a battery: it gives up charged particles that create a
+current between itself and other metal parts of the ship.
+C'est ce qu'on appelle une anode parce qu'elle agit comme l'anode d'
+une batterie : elle libère des particules chargées qui créent un
+courant entre elle-même et les autres parties métalliques du navire.
+
+Because zinc is much more reactive than
+aluminum, it releases molecules more easily
+and undergoes corrosion first.
+Parce que le zinc est beaucoup plus réactif que l'
+aluminium, il libère plus facilement des molécules
+et subit d'abord la corrosion.
+
+That’s the “sacrifice” it makes to prevent
+the structural hull from corroding instead.
+C'est le "sacrifice" qu'il fait pour empêcher
+la coque structurelle de se corroder à la place.
+
+Another way to stop corrosion is to purposefully
+put a weak current through the hull that cancels out
+the one produced by the flowing saltwater.
+Une autre façon d'arrêter la corrosion est de mettre volontairement
+un faible courant à travers la coque qui
+annule celui produit par l'écoulement de l'eau salée.
+
+Now, so far, we’ve mostly been talking about
+the problems that water causes.
+Jusqu'à présent, nous avons surtout parlé
+des problèmes causés par l'eau.
+
+But the ocean is more than just water, it’s
+an entire ecosystem.
+Mais l'océan est plus que de l'eau,
+c'est tout un écosystème.
+
+In practice, large animals like sharks and
+whales aren’t what you need to be worried about.
+En pratique, les grands animaux comme les requins et les
+baleines ne sont pas ce dont vous devez vous inquiéter.
+
+It’s the small things like algae, mussels,
+and barnacles that cause real trouble.
+Ce sont les petites choses comme les algues, les moules
+et les balanes qui causent de vrais problèmes.
+
+These forms of sea life physically attach
+to the hulls of ships and build up over time,
+normally while it’s docked or stationary.
+Ces formes de vie marine s'attachent physiquement
+aux coques des navires et s'accumulent au fil du temps,
+normalement lorsqu'elles sont à quai ou à l'arrêt.
+
+Over time, all that living matter creates bumps
+on the hull’s surface that make it less aerodynamic,
+an effect known as fouling.
+Au fil du temps, toute cette matière vivante crée des bosses
+sur la surface de la coque qui la rendent moins aérodynamique,
+un effet connu sous le nom d'encrassement.
+
+Fouling forces the propellers to work harder as the
+ship travels, burning up to 30% more fuel to compensate
+for the roughness of the hull slowing it down!
+L'encrassement oblige les hélices à travailler plus fort pendant que le
+navire se déplace, brûlant jusqu'à 30 % de carburant en plus pour compenser
+la rugosité de la coque qui le ralentit !
+
+The simplest way of dealing with this is to
+just regularly clean the hull and remove anything
+stuck to it.
+La façon la plus simple de résoudre ce problème consiste
+à nettoyer régulièrement la coque et à retirer tout ce qui y est
+collé.
+
+But in recent years, engineers have come up
+with more sophisticated solutions to fouling,
+Mais ces dernières années, les ingénieurs ont mis
+au point des solutions plus sophistiquées à l'encrassement,
+
+like special coatings that make the metal
+too slippery for barnacles and mussels to attach.
+comme des revêtements spéciaux qui rendent le métal
+trop glissant pour que les balanes et les moules puissent s'y fixer.
+
+There are problems to think about above the
+surface, too.
+Il y a aussi des problèmes auxquels il faut penser au-dessus de la
+surface.
+
+Since ships are totally independent from the
+infrastructure available on land, marine engineers
+have to tackle everything themselves.
+Les navires étant totalement indépendants des
+infrastructures disponibles à terre, les ingénieurs maritimes
+doivent tout régler eux-mêmes.
+
+That means knowing how to supply power,
+maintain a comfortable temperature onboard,
+and deal with waste storage.
+Cela signifie savoir fournir de l'énergie,
+maintenir une température confortable à bord
+et gérer le stockage des déchets.
+
+Big ships are like floating cities, so marine
+engineers work on everything from fuel cells
+to navigation systems!
+Les gros navires sont comme des villes flottantes, donc les
+ingénieurs maritimes travaillent sur tout, des piles à combustible
+aux systèmes de navigation !
+
+But even after you have a basic ship design,
+knowing what your ship will need is a very different
+thing from actually putting it together.
+Mais même après avoir conçu un vaisseau de base,
+savoir ce dont votre vaisseau aura besoin est une chose très différente
+de l'assembler.
+
+Even without any cargo, container ships can
+weigh thousands of tonnes!
+Même sans aucune cargaison, les porte-conteneurs peuvent
+peser des milliers de tonnes !
+
+So you can’t usually build one on land,
+pick it up, and put it into the water.
+Donc, vous ne pouvez généralement pas en construire un sur terre, le
+ramasser et le mettre à l'eau.
+
+When it comes to construction, marine engineers
+have to get creative.
+En matière de construction, les ingénieurs maritimes
+doivent faire preuve de créativité.
+
+You could build everything on a shipway, essentially
+a big ramp that lets the ship just slide into the water.
+Vous pouvez tout construire sur une voie navigable, essentiellement
+une grande rampe qui permet au navire de glisser dans l'eau.
+
+But in the case of a large ship, like an oil
+tanker, a better option would be to use a
+dry dock.
+Mais dans le cas d'un grand navire, comme un
+pétrolier, une meilleure option serait d'utiliser une
+cale sèche.
+
+Dry docks are basins near the sea that can
+be sealed off and drained so that ships can
+be built inside.
+Les cales sèches sont des bassins proches de la mer qui
+peuvent être scellés et vidangés pour permettre la construction de navires
+à l'intérieur.
+
+There, they can be constructed, made watertight,
+and tested rigorously without any interference
+from seawater.
+Là, ils peuvent être construits, rendus étanches
+et testés rigoureusement sans aucune interférence
+de l'eau de mer.
+
+Once engineers have made any final touches,
+getting the ship into the water is as simple as
+flooding the dry dock and re-opening the gates
+into the sea, so it can be towed out.
+Une fois que les ingénieurs ont apporté la touche finale,
+mettre le navire à l'eau est aussi simple que d'
+inonder la cale sèche et de rouvrir les portes
+dans la mer, afin qu'il puisse être remorqué.
+
+Similar ideas are also used to build permanent
+structures like parts of offshore oil platforms,
+Des idées similaires sont également utilisées pour construire des
+structures permanentes comme des parties de plates-formes pétrolières offshore, en
+
+constructing each piece on a dry dock so they
+can be carried out to sea and assembled.
+construisant chaque pièce sur une cale sèche afin qu'elles
+puissent être transportées en mer et assemblées.
+
+So as you can see, it’s no easy task putting
+together ships and getting them into the ocean.
+Donc, comme vous pouvez le voir, ce n'est pas une tâche facile d'
+assembler des navires et de les mettre dans l'océan.
+
+But as more goods are moved around, the world
+is going to need more ships.
+Mais à mesure que de plus en plus de marchandises circulent, le
+monde aura besoin de plus de navires.
+
+In this episode, we looked at marine engineering.
+Dans cet épisode, nous nous sommes penchés sur le génie maritime.
+
+We saw how ships are designed to handle aquatic
+environments and challenges of engineering in the
+ocean, like corrosion and marine life.
+Nous avons vu comment les navires sont conçus pour gérer les
+environnements aquatiques et les défis de l'ingénierie dans l'
+océan, comme la corrosion et la vie marine.
+
+We also looked at some solutions engineers
+employ to overcome them.
+Nous avons également examiné certaines solutions que les ingénieurs
+utilisent pour les surmonter.
+
+Finally, we saw one of the ways large maritime
+structures can be built on land and eventually
+transferred into water.
+Enfin, nous avons vu l'une des façons dont de grandes
+structures maritimes peuvent être construites sur terre et éventuellement
+transférées dans l'eau.
+
+Next time, we’ll look at how to take water
+from the sea and turn it into something we can
+drink, with the help of engineering design.
+La prochaine fois, nous verrons comment prendre l'eau
+de la mer et la transformer en quelque chose que nous pouvons
+boire, avec l'aide de la conception technique.
+
+Crash Course Engineering is produced in association
+with PBS Digital Studios.
+Crash Course Engineering est produit en association
+avec PBS Digital Studios.
+
+Wanna keep exploring our world?
+Voulez-vous continuer à explorer notre monde ?
+
+Check out Eons, a series that journeys through
+the history of life on Earth.
+Découvrez Eons, une série qui parcourt
+l'histoire de la vie sur Terre.
+
+Subscribe at the link in the description.
+Abonnez-vous au lien dans la description.
+
+Crash Course is a Complexly production and this
+episode was filmed in the Doctor Cheryl C. Kinney
+Studio with the help of these wonderful people.
+Crash Course est une production de Complexly et cet
+épisode a été filmé dans le studio du docteur Cheryl C. Kinney
+avec l'aide de ces personnes merveilleuses.
+
+And our amazing graphics team is Thought Cafe.
+Et notre incroyable équipe graphique est Thought Cafe.
+

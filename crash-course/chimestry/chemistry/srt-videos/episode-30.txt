@@ -1,0 +1,708 @@
+This may come as a bit of a shock to you,
+but I'm not super into personal grooming.
+Cela peut vous choquer un peu,
+mais je ne suis pas super dans le toilettage personnel.
+
+Like I understand soap and shampoo.
+Comme je comprends le savon et le shampoing.
+
+But there's all this other stuff now, and
+I keep seeing references to pH balance everywhere.
+Mais il y a toutes ces autres choses maintenant, et
+je continue de voir des références à l'équilibre du pH partout.
+
+pH balanced soaps, and shampoos, and deodorant,
+and makeup abound in supermarkets and drugstores.
+Les savons, les shampoings, les déodorants
+et le maquillage au pH équilibré abondent dans les supermarchés et les pharmacies.
+
+And I've even seen pH balanced water?!
+Et j'ai même vu de l'eau au pH équilibré ? !
+
+We've talked a lot about balance over the
+last couple of weeks,
+Nous avons beaucoup parlé d'équilibre au
+cours des deux dernières semaines,
+
+and pH balance is related to the equilibrium
+state of a reversible reaction.
+et l'équilibre du pH est lié à l'
+état d'équilibre d'une réaction réversible.
+
+You're probably also familiar with the pH scale, and you know that it has to do with acids and bases.
+Vous connaissez probablement aussi l'échelle de pH et vous savez qu'elle concerne les acides et les bases.
+
+But what is pH exactly?
+Mais qu'est-ce que le pH exactement ?
+
+And why is it weirdly written with a lowercase
+'p' and a capital 'H'?
+Et pourquoi est-il bizarrement écrit avec un
+'p' minuscule et un 'H' majuscule ?
+
+And also, what about pH's alter ego pOH?
+Et aussi, qu'en est-il de l'alter ego pOH du pH?
+
+The capitalization thing is probably the easiest
+to answer, 'cause there is no answer.
+La question des majuscules est probablement la plus facile
+à répondre, car il n'y a pas de réponse.
+
+No one really knows what the 'p' means.
+Personne ne sait vraiment ce que signifie le 'p'.
+
+The Danish chemist who came up with the term,
+Le chimiste danois qui a inventé le terme,
+
+a guy with the absolutely amazing name, Søren
+Sørensen, never explained his reasoning.
+un type au nom absolument incroyable, Søren
+Sørensen, n'a jamais expliqué son raisonnement.
+
+Some people think that it comes from some
+form of the word power,
+Certaines personnes pensent que cela vient d'une certaine
+forme du mot pouvoir,
+
+whether it's puissance in French, or maybe
+Latin, pondus.
+que ce soit puissance en français, ou peut-être en
+latin, pondus.
+
+But it probably just came from a common habit
+chemist have of differentiating a test solution,
+Mais cela vient probablement d'une habitude commune que les
+chimistes ont de différencier une solution de test,
+
+labeled 'p', from a reference solution, called
+'q'.
+étiquetée 'p', d'une solution de référence, appelée
+'q'.
+
+But thinking of the 'p' as standing for power,
+does help us remember the meaning more easily.
+Mais penser au « p » comme représentant le pouvoir
+nous aide à nous souvenir plus facilement de la signification.
+
+The 'H' part is even easier, it stands for
+hydrogen.
+La partie 'H' est encore plus simple, elle représente l'
+hydrogène.
+
+Because hydrogen ions, or protons, are pivotal to the behavior of acids and bases, which is what pH describes.
+Parce que les ions hydrogène, ou protons, sont essentiels au comportement des acides et des bases, ce que décrit le pH.
+
+So you can think of pH as basically the power
+of hydrogen in a solution.
+Vous pouvez donc considérer le pH comme la puissance
+de l'hydrogène dans une solution.
+
+The strength of the acid or base character
+of a substance.
+Force du caractère acide ou basique
+d'une substance.
+
+And it all revolves around one very important
+point of focus, our old friend water.
+Et tout tourne autour d'un
+point central très important, notre vieil ami l'eau.
+
+[Theme Music]
+[Thème musical]
+
+If you've been watching Crash Course Chemistry
+from the beginning you've gotten the message
+Si vous avez regardé Crash Course Chemistry
+depuis le début, vous avez compris
+
+that water is special in more ways than I
+can list, and pH is just one more of those ways.
+que l'eau est spéciale à plus d'un titre que je
+ne peux en énumérer, et que le pH n'est qu'une de ces façons.
+
+We normally think of water as a perfectly neutral substance, neither acidic nor basic, and that's true.
+Nous pensons normalement à l'eau comme une substance parfaitement neutre, ni acide ni basique, et c'est vrai.
+
+But, as I've mentioned before, water can also
+function as an acid --
+Mais, comme je l'ai déjà mentionné, l'eau peut aussi
+fonctionner comme un acide - en
+
+releasing hydrogen ions, also known as protons,
+and as a base -- consuming them.
+libérant des ions hydrogène, également appelés protons,
+et comme une base - en les consommant.
+
+How on Earth is that possible?
+Comment diable est-ce possible ?
+
+In order to explain, we first have to understand
+what the pH of a substance really tells us.
+Pour expliquer, nous devons d'abord comprendre
+ce que le pH d'une substance nous dit vraiment.
+
+While chemically we say that pH represents the power of hydrogen in a solution, it's mathematically defined as:
+Alors que chimiquement nous disons que le pH représente la puissance de l'hydrogène dans une solution, il est mathématiquement défini comme :
+
+"the negative of the base 10 logarithm of
+the concentration of hydrogen ions in solution."
+"le négatif du logarithme de base 10 de
+la concentration d'ions hydrogène en solution".
+
+OK, so now that you're terrified, I'm here
+to help.
+OK, alors maintenant que tu es terrifié, je suis là
+pour t'aider.
+
+So, yeah, logarithms can seem a little bit scary at first, but the ones that we're using here are super easy.
+Donc, oui, les logarithmes peuvent sembler un peu effrayants au début, mais ceux que nous utilisons ici sont super faciles.
+
+And bonus, once you get familiar with them here, it'll be that much easier to understand them in math class.
+Et en prime, une fois que vous vous serez familiarisé avec eux ici, il sera beaucoup plus facile de les comprendre en cours de mathématiques.
+
+So now that we got the scary mathematical definition, let's do the simplest mathematical definition.
+Alors maintenant que nous avons la définition mathématique effrayante, faisons la définition mathématique la plus simple.
+
+At any given moment, there will be a certain number of hydrogen ions in solution -- a very small number --
+À tout moment, il y aura un certain nombre d'ions hydrogène en solution - un très petit nombre -
+
+the concentration will be a number like one
+times 10 to the negative fifty moles per liter.
+la concentration sera un nombre comme une
+fois 10 à moins cinquante moles par litre.
+
+That negative 5, is your base 10 logarithm.
+Ce moins 5 est votre logarithme de base 10.
+
+Take the negative of that, and you get the
+pH. 5.
+Prenez le négatif de cela, et vous obtenez le
+pH.  5.
+
+Now let's get a bit more in to the weeds.
+Maintenant, parlons un peu plus des mauvaises herbes.
+
+The logarithm, or log, of a number is the exponent to which another number, called the base,
+Le logarithme, ou log, d'un nombre est l'exposant auquel un autre nombre, appelé la base,
+
+must be raised to produce the target number.
+doit être élevé pour produire le nombre cible.
+
+So for base 10 logs, the base is 10.
+Donc pour les journaux de base 10, la base est 10.
+
+They're what we use most in chemistry, and
+they're really easy to understand,
+C'est ce que nous utilisons le plus en chimie, et
+ils sont vraiment faciles à comprendre,
+
+and also what we base scientific notation
+on.
+et aussi ce sur quoi nous basons la notation scientifique
+.
+
+So as an example, the base 10 logarithm of
+one hundred is 2.
+Ainsi, à titre d'exemple, le logarithme de base 10 de
+cent est 2.
+
+Because 10 raised to the power of 2, or 10
+squared, equals one hundred.
+Parce que 10 élevé à la puissance 2, ou 10 au
+carré, est égal à cent.
+
+Base 10 logs are so common that we often leave
+the subscript 10 off when we write it.
+Les journaux de base 10 sont si courants que nous omettons souvent
+l'indice 10 lorsque nous l'écrivons.
+
+Like if your calculator has a 'log' button,
+that's just for base 10 logs.
+Par exemple, si votre calculatrice a un bouton "journal",
+c'est uniquement pour les journaux de base 10.
+
+So what in the name of Søren Sørensen does
+this have to do with face melting acids?
+Alors, au nom de Søren Sørensen, qu'est-
+ce que cela a à voir avec les acides qui fondent le visage ?
+
+Well I'm getting to that, and it all starts with waters crazy potential to act as both an acid and a base.
+Eh bien, j'y arrive, et tout commence avec le potentiel fou de l'eau à agir à la fois comme acide et comme base.
+
+Random changes in the tiny electrical fields
+around the atoms in water
+Des changements aléatoires dans les minuscules champs électriques
+autour des atomes dans l'eau
+
+occasionally cause the molecules to break
+apart.
+provoquent parfois la rupture des
+molécules.
+
+Specifically a hydrogen ion, or proton, will break off from one molecule and attach itself to another one,
+Plus précisément, un ion hydrogène, ou proton, se détachera d'une molécule et se fixera sur une autre,
+
+forming a hydronium ion, H3O+, and a hydroxide
+ion, OH-.
+formant un ion hydronium, H3O+, et un
+ion hydroxyde, OH-.
+
+This is why water can act as both an acid
+and a base.
+C'est pourquoi l'eau peut agir à la fois comme acide
+et comme base.
+
+It's molecules can both release and accept
+protons.
+Ses molécules peuvent à la fois libérer et accepter des
+protons.
+
+In this case, it's only interacting with itself.
+Dans ce cas, il n'interagit qu'avec lui-même.
+
+But water can interact in the same way with
+other acids and bases.
+Mais l'eau peut interagir de la même manière avec d'
+autres acides et bases.
+
+Some times you'll see the hydronium ion written
+as a simple hydrogen ion, H+,
+Parfois, vous verrez l'ion hydronium écrit
+comme un simple ion hydrogène, H+,
+
+allowing the reaction to be written with only
+one water molecule.
+permettant à la réaction d'être écrite avec
+une seule molécule d'eau.
+
+It's not technically accurate, but it's close enough to reality that it can be used to simplify things.
+Ce n'est pas techniquement précis, mais c'est suffisamment proche de la réalité pour pouvoir être utilisé pour simplifier les choses.
+
+So when we say that the pH is the negative
+log of the hydrogen ion concentration...
+Donc, quand nous disons que le pH est le
+log négatif de la concentration en ions hydrogène...
+
+yeah, we actually mean hydronium ion concentration.
+oui, nous parlons en fait de la concentration en ions hydronium.
+
+Just another thing that early scientists got
+a little wrong and now we have to live with.
+Juste une autre chose avec laquelle les premiers scientifiques se sont
+un peu trompés et maintenant nous devons vivre avec.
+
+Anyway, this dissociation of water is a reversible
+reaction.
+Quoi qu'il en soit, cette dissociation de l'eau est une
+réaction réversible.
+
+And in fact, the ions always reform in to
+water within a tiny fraction of a second.
+Et en fait, les ions se reforment toujours dans l'
+eau en une infime fraction de seconde.
+
+But it's happening all the time constantly.
+Mais ça arrive tout le temps constamment.
+
+In your bottled water, in the water inside
+your cells, and in the ocean. Always.
+Dans votre bouteille d'eau, dans l'eau de
+vos cellules et dans l'océan.  Toujours. 
+
+However, at any given instant only a tiny
+number of molecules are dissociated ions.
+Cependant, à un instant donné, seul un
+nombre infime de molécules sont des ions dissociés.
+
+In fact, the exact number of these molecules
+is well known to chemists.
+En fait, le nombre exact de ces molécules
+est bien connu des chimistes.
+
+It's the equilibrium constant for this reaction.
+C'est la constante d'équilibre de cette réaction.
+
+And because it's such a special reaction, it has it's own name -- the water dissociation constant, or Kw.
+Et parce que c'est une réaction si spéciale, elle a son propre nom -- la constante de dissociation de l'eau, ou Kw.
+
+Kw is equal to one point zero times 10 to
+the negative fourteenth.
+Kw est égal à un point zéro multiplié par 10 moins
+le quatorzième.
+
+The formula for Kw is set up like any equilibrium
+constant,
+La formule de Kw est établie comme toute
+constante d'équilibre,
+
+concentrations of products over concentrations
+of reactants,
+concentrations de produits sur concentrations
+de réactifs,
+
+all raised to the exponents based on the coefficients
+of the balance reaction.
+toutes élevées aux exposants en fonction des coefficients
+de la réaction d'équilibre.
+
+There is however one difference.
+Il y a cependant une différence.
+
+Because the ions represent such a tiny proportion of the total mass, the water itself is essentially pure.
+Parce que les ions représentent une si petite proportion de la masse totale, l'eau elle-même est essentiellement pure.
+
+And pure substances, because they don't have concentrations, aren't included in equilibrium calculations.
+Et les substances pures, parce qu'elles n'ont pas de concentration, ne sont pas incluses dans les calculs d'équilibre.
+
+So the formula for Kw becomes simply the hydronium
+ion concentration times the hydroxide concentration.
+Ainsi, la formule de Kw devient simplement la
+concentration en ions hydronium multipliée par la concentration en hydroxyde.
+
+According to the balanced equation for the
+dissociation of water,
+Selon l'équation équilibrée de la
+dissociation de l'eau, l'
+
+hydronium and hydroxide are formed at a 1:1 ratio,
+hydronium et l'hydroxyde se forment dans un rapport de 1: 1, de
+
+so their equilibrium concentrations must be
+equal.
+sorte que leurs concentrations à l'équilibre doivent être
+égales.
+
+That means if we call the concentration of
+H3O+, for example 'x',
+Cela signifie que si nous appelons la concentration de
+H3O+, par exemple « x »,
+
+then the concentration of OH- must equal 'x'
+as well.
+alors la concentration de OH- doit également être égale à « x
+».
+
+So the formula for the dissociation constant 1.0 x 10^-14 simplifies even further to x times x, or x squared.
+Ainsi, la formule de la constante de dissociation 1,0 x 10 ^ -14 se simplifie encore plus en x fois x, ou x au carré.
+
+Suddenly, it's crazy easy.
+Tout à coup, c'est fou facile.
+
+The equilibrium concentration of each ion
+is just the square root of 1.0 x 10^-14.
+La concentration d'équilibre de chaque ion
+est juste la racine carrée de 1,0 x 10^-14.
+
+Touch one key on the 'ol calculator, and hello
+both concentrations equal
+Appuyez sur une touche de la calculatrice 'ol, et bonjour les
+deux concentrations sont égales à
+
+1.0 x 10^-7 moles per liter in equilibrium.
+1,0 x 10^-7 moles par litre à l'équilibre.
+
+The pH then, is simply the negative log of
+that, which is 7.
+Le pH est alors simplement le log négatif de
+celui-ci, qui est de 7.
+
+This my friends, is the basis of the pH scale.
+Ceci mes amis, est la base de l'échelle de pH.
+
+Water is neutral, so 7 is the center of the
+scale.
+L'eau est neutre, donc 7 est le centre de l'
+échelle.
+
+And I can prove it too.
+Et je peux le prouver aussi.
+
+This is a strip of paper that's been infused
+with a chemical called litmus.
+C'est une bande de papier qui a été imprégnée
+d'un produit chimique appelé tournesol.
+
+Litmus is a pH indicator, a chemical that
+turns different colors at different pHs.
+Litmus est un indicateur de pH, un produit chimique qui
+transforme différentes couleurs à différents pH.
+
+There are many different indicators, with many different colors, but we'll talk more about those next week.
+Il existe de nombreux indicateurs différents, avec de nombreuses couleurs différentes, mais nous en reparlerons la semaine prochaine.
+
+For now, just know that litmus paper turns pink in acids, blue in bases, and a sorta light purple when it's neutral.
+Pour l'instant, sachez simplement que le papier de tournesol devient rose dans les acides, bleu dans les bases et un peu violet clair lorsqu'il est neutre.
+
+But one thing you need to remember about the
+pH scale,
+Mais une chose dont vous devez vous souvenir à propos de l'
+échelle de pH,
+
+because pH is calculated from a negative logarithm,
+it turns everything backward.
+car le pH est calculé à partir d'un logarithme négatif,
+il inverse tout.
+
+When the hydrogen ion concentration goes up,
+the pH gets lower.
+Lorsque la concentration en ions hydrogène augmente,
+le pH diminue.
+
+For instance, if a little acid, such as vinegar,
+were added to the water,
+Par exemple, si un peu d'acide, tel que du vinaigre,
+était ajouté à l'eau,
+
+the concentration of hydronium ion might rise
+to say, 1.0 x 10^-4 moles per liter.
+la concentration d'ion hydronium pourrait augmenter
+jusqu'à 1,0 x 10^-4 moles par litre.
+
+Which is a thousand times more than before.
+Ce qui est mille fois plus qu'avant.
+
+That concentration would push the pH down
+to 4.
+Cette concentration ferait baisser le pH
+à 4.
+
+On the other hand, a base, such as ammonia,
+En revanche, une base, comme l'ammoniac
+
+would consume a lot of hydrogen ions if it
+were added to the water.
+, consommerait beaucoup d'ions hydrogène si elle
+était ajoutée à l'eau.
+
+If the hydrogen ion concentration drops to
+1.0 x 10^-11,
+Si la concentration en ions hydrogène tombe à
+1,0 x 10^-11,
+
+a thousandth of the equilibrium concentration,
+the pH would be eleven.
+un millième de la concentration à l'équilibre,
+le pH serait onze.
+
+As you can see, the logs turn out to be a
+mathematical shorthand,
+Comme vous pouvez le voir, les journaux s'avèrent être un
+raccourci mathématique, ce
+
+that saves us from dealing with very huge
+or very tiny numbers.
+qui nous évite de traiter avec des nombres très énormes
+ou très petits.
+
+The pH scale then is normally written from
+0 to 14.
+L'échelle de pH est alors normalement écrite de
+0 à 14.
+
+With numbers below 7 representing acids, and
+numbers above 7 representing bases.
+Les nombres inférieurs à 7 représentant les acides et les
+nombres supérieurs à 7 représentant les bases.
+
+It could also below zero or above 14, but
+that only happens in super extreme cases,
+Il peut également être inférieur à zéro ou supérieur à 14, mais
+cela ne se produit que dans des cas super extrêmes,
+
+that you are very unlikely to encounter.
+que vous ne rencontrerez très probablement pas.
+
+At least I hope.
+Du moins j'espère.
+
+As with like hydrochloric or nitric acid,
+which ionize strongly, sometimes even completely.
+Comme avec l'acide chlorhydrique ou nitrique,
+qui s'ionise fortement, parfois même complètement.
+
+Thus releasing a lot of protons, are called
+strong acids.
+Libérant ainsi beaucoup de protons, on les appelle
+des acides forts.
+
+Because they raise the hydrogen concentration
+a lot, they also generally have very low pHs.
+Parce qu'ils augmentent beaucoup la concentration en hydrogène
+, ils ont aussi généralement des pH très bas.
+
+Weak acids, like citric acid, dissociation
+incompletely,
+Les acides faibles, comme l'acide citrique, se dissocient de manière
+incomplète,
+
+releasing much smaller amounts of hydrogen ions, and therefore they usually have higher pHs.
+libérant des quantités beaucoup plus petites d'ions hydrogène, et ont donc généralement des pH plus élevés.
+
+Generally considered in like the 4 to 6 range.
+Généralement considéré comme la gamme 4 à 6.
+
+Strong bases meanwhile, like sodium hydroxide,
+Les bases fortes quant à elles, comme l'hydroxyde de sodium,
+
+consume large amounts of hydrogen ions leaving the concentration very low, so they 10d to have very high pHs.
+consomment de grandes quantités d'ions hydrogène laissant la concentration très faible, elles ont donc 10d d'avoir des pH très élevés.
+
+Weak bases, like sodium bicarbonate (baking soda), consume much less, and generally have pHs in the 8-11 range.
+Les bases faibles, comme le bicarbonate de sodium (bicarbonate de soude), consomment beaucoup moins et ont généralement des pH compris entre 8 et 11.
+
+Neutral pH is technically just 7.0, but in a more practical sense, it's usually considered to be between 6 and 8.
+Le pH neutre n'est techniquement que de 7,0, mais dans un sens plus pratique, il est généralement considéré comme compris entre 6 et 8.
+
+So if pH is based on the concentration of
+hydrogen, that is hydronium ions,
+Donc, si le pH est basé sur la concentration d'
+hydrogène, c'est-à-dire les ions hydronium,
+
+what about the concentration of hydroxide
+ions?
+qu'en est-il de la concentration des
+ions hydroxyde ?
+
+Just as we can calculate the pH of a substance from it's hydrogen ion concentration, we can calculate the pOH.
+Tout comme nous pouvons calculer le pH d'une substance à partir de sa concentration en ions hydrogène, nous pouvons calculer le pOH.
+
+The negative log of the hydroxide concentration.
+Le log négatif de la concentration d'hydroxyde.
+
+This is easy because Kw never changes.
+C'est facile car Kw ne change jamais.
+
+Although the concentrations of hydrogen and hydroxide are only equal in pure water, or perfectly neutral solutions,
+Bien que les concentrations d'hydrogène et d'hydroxyde ne soient égales que dans l'eau pure ou dans des solutions parfaitement neutres,
+
+the product of the 2 concentrations always
+equals 1.0 x 10^-14 in any aqueous solution.
+le produit des 2 concentrations est toujours
+égal à 1,0 x 10^-14 dans toute solution aqueuse.
+
+So like orange juice, which is really just an aqueous solution of sugar and citric acid and a few other things,
+Donc, comme le jus d'orange, qui n'est en réalité qu'une solution aqueuse de sucre et d'acide citrique et quelques autres choses,
+
+say the hydrogen concentration in your OJ
+is 3.2 x 10^-4 moles per liter.
+disons que la concentration d'hydrogène dans votre JO
+est de 3,2 x 10 ^ -4 moles par litre.
+
+Just for the fun of it, let's go ahead and calculate what the pH is at that point, which turns out to be 3.5.
+Juste pour le plaisir, allons-y et calculons le pH à ce point, qui s'avère être de 3,5.
+
+But we can also use the Kw and the hydronium
+ion concentration
+Mais nous pouvons également utiliser le Kw et la
+concentration en ions hydronium
+
+to do a very simple division problem and find
+the hydroxide concentration.
+pour résoudre un problème de division très simple et trouver
+la concentration en hydroxyde.
+
+It works out to 3.1 x 10^-11 moles per liter.
+Cela équivaut à 3,1 x 10 ^ -11 moles par litre.
+
+Once we have the concentration we can take
+another step,
+Une fois que nous avons la concentration, nous pouvons franchir
+une autre étape,
+
+we can find the pOH of the solution which is similar to the pH, simply the negative log of the OH concentration.
+nous pouvons trouver le pOH de la solution qui est similaire au pH, simplement le log négatif de la concentration en OH.
+
+The pOH in this case is 10.5.
+Le pOH dans ce cas est de 10,5.
+
+And now for a tip that's just more awesome
+and cooler than an ice cream corn dog,
+Et maintenant, pour une astuce qui est juste plus géniale
+et plus fraîche qu'un chien de maïs glacé,
+
+the sum of the pH and the pOH is always 14.
+la somme du pH et du pOH est toujours de 14.
+
+In the example we just did, the pH was 5.4 and the pOH was 8.6, and yeah you add those together: 14! Surprise!
+Dans l'exemple que nous venons de faire, le pH était de 5,4 et le pOH était de 8,6, et oui vous  additionnez-les: 14!  Surprendre! 
+
+OK, maybe that's only cool to me.
+OK, peut-être que c'est cool pour moi.
+
+But that's never stopped me before, I love
+this stuff!
+Mais ça ne m'a jamais arrêté avant, j'adore
+ce truc !
+
+And next week, I hope to really bend your mind by showing you how to make the pH of a solution hold steady,
+Et la semaine prochaine, j'espère vraiment vous faire réfléchir en vous montrant comment faire en sorte que le pH d'une solution reste stable,
+
+even if you dump a strong acid or base in
+it.
+même si vous y versez un acide ou une base forte
+.
+
+In the meantime, thank you for watching this
+episode of Crash Course Chemistry.
+En attendant, merci d'avoir regardé cet
+épisode de Crash Course Chemistry.
+
+If you paid attention, you learned
+Si vous avez fait attention, vous avez appris
+
+how pure water ionizes to form hydronium and
+hydroxide ions in reversible reactions.
+comment l'eau pure s'ionise pour former des ions hydronium et
+hydroxyde dans des réactions réversibles.
+
+And you learned about the equilibrium constant
+for that reaction,
+Et vous avez appris la constante d'équilibre
+de cette réaction,
+
+which has a special name: the water dissociation
+constant.
+qui porte un nom spécial : la constante de dissociation de l'eau
+.
+
+You learned some examples of acids and bases
+and neutral substances,
+Vous avez appris quelques exemples d'acides et de bases
+et de substances neutres
+
+as well as why some acids and bases are called
+strong and others are called weak.
+, ainsi que pourquoi certains acides et bases sont appelés
+forts et d'autres sont appelés faibles.
+
+You learned about logarithms and how you can
+use them to calculate the pH of a substance.
+Vous avez appris les logarithmes et comment vous pouvez les
+utiliser pour calculer le pH d'une substance.
+
+And a little bit about pOH, which can be calculated
+with logarithms, also with subtraction.
+Et un peu sur le pOH, qui peut être calculé
+avec des logarithmes, également avec une soustraction.
+
+And finally, you learned about some cool mathematical
+connections between pH and pOH.
+Et enfin, vous avez appris quelques liens mathématiques intéressants
+entre le pH et le pOH.
+
+This episode was written by Edi González
+and edited by Blake de Pastino.
+Cet épisode a été écrit par Edi González
+et édité par Blake de Pastino.
+
+The chemistry consultant was Dr. Heiko Langner.
+Le consultant en chimie était le Dr Heiko Langner.
+
+It was filmed, edited, and directed by Nicholas Jenkins. The script supervisor was Katherine Green.
+Il a été filmé, monté et réalisé par Nicholas Jenkins.  Le superviseur du scénario était Katherine Green.
+
+Michael Aranda is our sound designer, and
+our graphics team is Thought Café.
+Michael Aranda est notre concepteur sonore et
+notre équipe graphique est Thought Café.
+

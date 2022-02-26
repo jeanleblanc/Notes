@@ -1,0 +1,710 @@
+You can review content from Crash Course Organic Chemistry with the Crash Course App,
+Vous pouvez consulter le contenu de Crash Course Organic Chemistry avec l'application Crash Course,
+
+available now for Android and iOS devices.
+disponible dès maintenant pour les appareils Android et iOS.
+
+Hi! I’m Deboki Chakravarti and welcome 
+to Crash Course Organic Chemistry!
+Salut!  Je suis Deboki Chakravarti et bienvenue
+au cours intensif de chimie organique !
+
+I don't know about you, but I’m in my 30s 
+and “unleaded” fuel has always perplexed me.
+Je ne sais pas pour vous, mais j'ai la trentaine
+et l'essence "sans plomb" m'a toujours laissé perplexe.
+
+Why is it important to categorize a type 
+of fuel by something it doesn’t contain,  
+Pourquoi est-il important de catégoriser un type
+de carburant en fonction de ce qu'il ne contient pas,
+
+when there's not a “leaded” fuel pump next to it?
+alors qu'il n'y a pas de pompe à carburant "au plomb" à côté ?
+
+Well, turns out, not that long ago, tetraethyl 
+lead was added to automobile fuel to prevent engine knock --
+Eh bien, il s'avère qu'il n'y a pas si longtemps, le plomb tétraéthyle
+était ajouté au carburant automobile pour éviter le cognement du moteur –
+
+a problem with fuel igniting unevenly, which can cause engine damage.
+un problème d'allumage inégal du carburant, ce qui peut endommager le moteur.
+
+In a working engine, the four carbon-lead 
+bonds in tetraethyl lead break,  
+Dans un moteur en fonctionnement, les quatre liaisons carbone-plomb
+du plomb tétraéthyle se rompent,
+
+forming lead and lead oxide,
+formant du plomb et de l'oxyde de plomb,
+
+which react with free radical intermediates from the fuel combustion and help prevent engine knock.
+qui réagissent avec les radicaux libres intermédiaires de la combustion du carburant et aident à prévenir le cognement du moteur.
+
+But, lead is a neurotoxin,
+Mais le plomb est une neurotoxine,
+
+and having millions of cars pumping traces of it out of 
+their exhaust pipes was… quite bad.
+et le fait que des millions de voitures en extraient des traces de
+leurs pots d'échappement était… assez mauvais.
+
+Lead was accumulating in air and soil,  
+Le plomb s'accumulait dans l'air et le sol,
+
+and long-term exposure can 
+cause neurological problems.
+et une exposition à long terme peut
+causer des problèmes neurologiques.
+
+It’s also really bad for catalytic converters.
+C'est aussi très mauvais pour les convertisseurs catalytiques.
+
+So "leaded" fuel was banned across the 
+United States in 1996, in the UK in 2000,  
+Ainsi, le carburant "au plomb" a été interdit
+aux États-Unis en 1996, au Royaume-Uni en 2000,
+
+and most other countries 
+have also stopped using it.
+et la plupart des autres pays
+ont également cessé de l'utiliser.
+
+And we solved engine knock using other 
+not-so-neurotoxic chemicals in fuel.
+Et nous avons résolu le cognement du moteur en utilisant d'autres
+produits chimiques pas si neurotoxiques dans le carburant.
+
+Tetraethyl lead is an example 
+of an organometallic compound,  
+Le plomb tétraéthyle est un exemple
+de composé organométallique,
+
+which are organic compounds 
+with a carbon-metal bond.
+qui sont des composés organiques
+avec une liaison carbone-métal.
+
+As we'll learn in this episode, they can be 
+very useful for certain chemical reactions,  
+Comme nous l'apprendrons dans cet épisode, ils peuvent être
+très utiles pour certaines réactions chimiques,
+
+but may also have a dark side...
+mais peuvent aussi avoir un côté sombre...
+
+[Theme Music]
+[Thème musical]
+
+By this point, we’ve mostly seen carbon 
+bonded to more electronegative elements,  
+À ce stade, nous avons surtout vu du carbone
+lié à des éléments plus électronégatifs,
+
+such as oxygen or halogens, that draw 
+shared electrons towards themselves.
+tels  comme l'oxygène ou les halogènes, qui attirent
+les électrons partagés vers eux-mêmes.
+
+This gives the carbon a partially positive charge, 
+so it’s susceptible to attack from nucleophiles,  
+Cela donne au carbone une charge partiellement positive,
+il est donc susceptible d'être attaqué par des nucléophiles,
+
+for example in substitution reactions.
+par exemple dans des réactions de substitution.
+
+But metals are more electropositive than carbon.
+Mais les métaux sont plus électropositifs que le carbone.
+
+So in organometallic compounds, 
+the carbon in the carbon-metal bond pulls on those shared electrons more,   
+Ainsi, dans les composés organométalliques,
+le carbone de la liaison carbone-métal tire davantage sur ces électrons partagés
+
+and ends up with a partially negative charge.
+et se retrouve avec une charge partiellement négative.
+
+In other words, the carbon 
+can become nucleophilic.
+En d'autres termes, le carbone
+peut devenir nucléophile.
+
+In fact, we often end up with a compound 
+with significant ionic character:
+En fait, nous nous retrouvons souvent avec un composé
+à caractère ionique important :
+
+the metal has a positive charge, while the carbon has a lone pair and a negative charge -- a carbanion.
+le métal a une charge positive, tandis que le carbone a une paire isolée et une charge négative : un carbanion.
+
+One of the most important groups of
+organometallic compounds is the Grignard reagents, 
+L'un des groupes les plus importants de
+composés organométalliques est les réactifs de Grignard,
+
+which contain magnesium-carbon bonds.
+qui contiennent des liaisons magnésium-carbone.
+
+They're named after the French 
+chemist Victor Grignard,  
+Ils portent le nom du
+chimiste français Victor Grignard,
+
+who won a Nobel Prize for his work in 1912.
+qui a remporté un prix Nobel pour son travail en 1912. Les
+
+Grignard reagents sound quite simple to make:
+réactifs de Grignard semblent assez simples à fabriquer :
+
+you add some haloalkane -- say isopropyl bromide 
+-- to magnesium in a flask containing ether.
+vous ajoutez de l'haloalcane - disons du bromure d'isopropyle
+- au magnésium dans un flacon contenant de l'éther.
+
+And voilà!
+Et voilà !
+
+But… just one thing:
+Mais… juste une chose :
+
+Keep water away from this concoction, 
+because Grignard reagents react with acidic hydrogens to produce alkanes, 
+éloignez l'eau de cette concoction,
+car les réactifs de Grignard réagissent avec les hydrogènes acides pour produire des alcanes,
+
+which aren’t the products we want.
+qui ne sont pas les produits que nous voulons.
+
+Oh, and another thing:
+Oh, et autre chose
+
+be careful with the ether, because 
+that’s extremely flammable and,  
+: faites attention à l'éther, car
+c'est extrêmement inflammable et,
+
+since it’s an anesthetic, may also knock 
+you out while the lab is on fire...
+puisque c'est un anesthésique, il peut aussi
+vous assommer pendant que le labo est en feu...
+
+In fact, this whole mixture 
+is described as pyrophoric,  
+En fait, tout ce mélange
+est décrit comme pyrophorique,
+
+which means it reacts and burns in air.
+ce qui signifie  il réagit et brûle dans l'air.
+
+So, yeah... it's not that simple.
+Donc, oui... ce n'est pas si simple.
+
+Even though the dangers are totally 
+different from tetraethyl lead,  
+Même si les dangers sont totalement
+différents du plomb tétraéthyle,
+
+we have to be really careful about risk 
+assessment with most organometallics.
+nous devons faire très attention à l'
+évaluation des risques avec la plupart des organométalliques.
+
+You can also make Grignard reagents by swapping 
+the diethyl ether for a cyclic ether called THF,  
+Vous pouvez également fabriquer des réactifs de Grignard en remplaçant
+l'éther diéthylique par un éther cyclique appelé THF
+
+or tetrahydrofuran.
+ou tétrahydrofurane.
+
+The lone pairs on the oxygen of THF 
+are more available to interact with the positively charged metal ion,   
+Les paires isolées sur l'oxygène du THF
+sont plus disponibles pour interagir avec l'ion métallique chargé positivement,
+
+and this helps the Grignard reagent form.
+et cela aide la forme du réactif de Grignard.
+
+THF, which has a higher boiling 
+point than diethyl ether,  
+Le THF, qui a un
+point d'ébullition plus élevé que l'éther diéthylique,
+
+is also better for preparing Grignard reagents 
+from aryl or vinyl halides,
+est également plus adapté à la préparation de réactifs de Grignard à
+partir d'halogénures d'aryle ou de vinyle,
+
+which react more slowly than alkyl halides and might need to 
+be warmed up to get the reaction started.
+qui réagissent plus lentement que les halogénures d'alkyle et peuvent avoir besoin d'
+être réchauffés pour démarrer la réaction.
+
+Other organometallics include 
+organolithium compounds,  
+D'autres organométalliques incluent
+les composés organolithiens
+
+which -- as you might have guessed from 
+the name -- contain lithium-carbon bonds.
+qui, comme vous l'avez peut-être deviné d'après leur
+nom, contiennent des liaisons lithium-carbone.
+
+They can be made in a similar 
+way to Grignard reagents:
+Ils peuvent être fabriqués de la même
+manière que les réactifs de Grignard :
+
+you add a haloalkane to two molar equivalents 
+of lithium metal, using ether as a solvent.
+vous ajoutez un haloalcane à deux équivalents molaires
+de lithium métallique, en utilisant de l'éther comme solvant.
+
+Both Grignard reagents and organolithium 
+compounds act as strong bases.
+Les réactifs de Grignard et les
+composés organolithiens agissent comme des bases fortes.
+
+They're proton acceptors and can 
+rip hydrogen atoms off molecules.
+Ce sont des accepteurs de protons et peuvent
+arracher les atomes d'hydrogène des molécules.
+
+This can be a problem, and we do need to 
+watch out for acidic functional groups,  
+Cela peut être un problème, et nous devons faire
+attention aux groupes fonctionnels acides,
+
+which could react with our 
+Grignard in an acid–base reaction.
+qui pourraient réagir avec notre
+Grignard dans une réaction acide-base.
+
+But this basicity can also be very useful.
+Mais cette basicité peut aussi être très utile.
+
+For example, the organolithium compound n-butyllithium is basic enough to deprotonate alkynes and generate an acetylide ion.
+Par exemple, le composé organolithien n-butyllithium est suffisamment basique pour déprotoner les alcynes et générer un ion acétylure.
+
+As we saw in episode 27, acetylides 
+are powerful nucleophiles which can form new carbon-carbon bonds 
+Comme nous l'avons vu dans l'épisode 27, les acétylures
+sont de puissants nucléophiles qui peuvent former de nouvelles liaisons carbone-carbone
+
+-- super useful for chemists!
+– super utile pour les chimistes !
+
+We also use organolithium compounds as our 
+strong bases when making Wittig reagents,  
+Nous utilisons également des composés organolithiens comme
+bases fortes lors de la fabrication de réactifs de Wittig,
+
+aka phosphonium ylides, which we 
+also talked about in episode 27.
+alias ylures de phosphonium, dont nous avons
+également parlé dans l'épisode 27.
+
+First, we need to make a phosphonium salt by 
+reacting triphenylphosphine with a haloalkane in an SN2 reaction -- 
+Tout d'abord, nous devons fabriquer un sel de phosphonium en
+faisant réagir la triphénylphosphine avec un haloalcane dans une réaction SN2
+
+head back to episodes 
+20 and 21 for a refresher on these concepts.
+--  retour en arrière  aux épisodes
+20 et 21 pour un rappel sur ces concepts.
+
+Next, we use n-butyllithium to remove a 
+proton from the newly-formed phosphonium salt.
+Ensuite, nous utilisons du n-butyllithium pour éliminer un
+proton du sel de phosphonium nouvellement formé.
+
+This gives us our Wittig reagent,
+Cela nous donne notre réactif de Wittig,
+
+a molecule that forms a resonance structure with adjacent atoms 
+with opposite formal charges!
+une molécule qui forme une structure de résonance avec des atomes adjacents
+avec des charges formelles opposées !
+
+As a quick reminder, these can react with 
+aldehydes and ketones to form alkenes.
+Pour rappel, ceux-ci peuvent réagir avec les
+aldéhydes et les cétones pour former des alcènes.
+
+And since we mentioned aldehydes and 
+ketones,
+Et puisque nous avons mentionné les aldéhydes et les
+cétones
+
+we might as well get into how Grignard reagents and organolithium compounds 
+will react with these carbonyl compounds.
+, autant expliquer comment les réactifs de Grignard et les composés organolithiens
+réagissent avec ces composés carbonylés.
+
+Specifically, they undergo addition reactions.
+Plus précisément, ils subissent des réactions d'addition.
+
+The carbanion in the organometallic compound 
+attacks the carbonyl carbon,
+Le carbanion dans le composé organométallique
+attaque le carbone carbonyle,
+
+pushing electrons up to that electronegative oxygen so it 
+has three lone pairs and a negative charge.
+poussant les électrons jusqu'à cet oxygène électronégatif afin qu'il
+ait trois paires isolées et une charge négative.
+
+We’ve formed a new carbon-carbon bond.
+Nous avons formé une nouvelle liaison carbone-carbone.
+
+Nice!
+Agréable! 
+
+This compound will hang around until we add acid, 
+and the oxygen grabs a proton to form an alcohol.
+Ce composé restera jusqu'à ce que nous ajoutions de l'acide,
+et l'oxygène saisit un proton pour former un alcool.
+
+And our reaction is officially done.
+Et notre réaction est officiellement terminée.
+
+Organometallic compounds can react with epoxides, 
+too, by opening the ring and forming an alcohol.
+Les composés organométalliques peuvent également réagir avec les
+époxydes en ouvrant le cycle et en formant un alcool.
+
+For example, let's say we 
+have an organolithium reagent and an epoxide with two electrophilic carbons.
+Par exemple, disons que nous
+avons un réactif organolithien et un époxyde avec deux carbones électrophiles.
+
+Under these basic, aprotic conditions 
+the carbanion does a backside attack on the epoxide --
+Dans ces conditions aprotiques de base,
+le carbanion attaque par l'arrière l'époxyde en
+
+targeting the least substituted, less hindered carbon.
+ciblant le carbone le moins substitué et le moins encombré.
+
+A classic SN2 reaction!
+Une réaction SN2 classique !
+
+We can visualize the stereochemistry of this 
+backside attack using a Newman projection.
+Nous pouvons visualiser la stéréochimie de cette
+attaque arrière à l'aide d'une projection de Newman.
+
+The bonds in an epoxide are eclipsed, and 
+the oxygen atom is bridging both carbons.
+Les liaisons d'un époxyde sont éclipsées et
+l'atome d'oxygène relie les deux carbones.
+
+So the nucleophile, our 
+organometallic reagent carbanion,  
+Ainsi, le nucléophile, notre
+carbanion réactif organométallique, se
+
+swoops in between the two groups, attacks, 
+and relieves all that ring strain!
+précipite entre les deux groupes, attaque
+et soulage toute cette tension annulaire !
+
+Then, like in the carbonyl addition reaction,  
+Ensuite, comme dans la réaction d'addition de carbonyle,
+
+we need some acid to form the alcohol in 
+a second step and finish the reaction.
+nous avons besoin d'un peu d'acide pour former l'alcool dans
+une deuxième étape et terminer la réaction.
+
+Notice in the carbonyl addition reaction,  
+Remarquez que dans la réaction d'addition de carbonyle,
+
+the alcohol is directly 
+attached to the new carbon bond.
+l'alcool est directement
+attaché à la nouvelle liaison carbone.
+
+But in the epoxide SN2 reaction,
+Mais dans la réaction de l'époxyde SN2,
+
+there’s one carbon in between the alcohol and the new carbon bond.
+il y a un carbone entre l'alcool et la nouvelle liaison carbone.
+
+Now, there's a third common group of 
+organometallics we haven't mentioned yet:
+Maintenant, il existe un troisième groupe commun d'
+organométalliques que nous n'avons pas encore mentionné :
+
+the Gilman reagents, named after 
+the American chemist Henry Gilman.
+les réactifs de Gilman, du nom
+du chimiste américain Henry Gilman.
+
+Gilman reagents contain two copper-carbon 
+bonds and are also known as organocuprates.
+Les réactifs de Gilman contiennent deux liaisons cuivre-carbone
+et sont également connus sous le nom d'organocuprates.
+
+Now, plain old organocopper reagents, which have 
+one copper-carbon bond,
+Désormais, les anciens réactifs organocuivres simples, qui ont
+une liaison cuivre-carbone,
+
+can’t easily be made by mixing copper metal and a haloalkane in a solvent, because copper is much more difficult to oxidize.
+ne peuvent pas être facilement fabriqués en mélangeant du cuivre métallique et un haloalcane dans un solvant, car le cuivre est beaucoup plus difficile à oxyder.
+
+Or, looking at it the other way, copper is a much 
+weaker reducing agent than lithium and magnesium.
+Ou, dans l'autre sens, le cuivre est un
+agent réducteur beaucoup plus faible que le lithium et le magnésium.
+
+The way around this is to start 
+with a different organometallic,  
+La solution consiste à commencer
+par un autre organométallique,
+
+like an organolithium or a Grignard.
+comme un organolithium ou un Grignard.
+
+In these substances, the 
+reduction has already happened.
+Dans ces substances, la
+réduction a déjà eu lieu.
+
+So if we then add a copper (I) salt, like 
+copper (I) bromide or copper (I) chloride,  
+Donc, si nous ajoutons ensuite un sel de cuivre (I), comme
+le bromure de cuivre (I) ou le chlorure de cuivre (I),
+
+the metals are exchanged in a process called 
+transmetallation, which gives us our organocopper!
+les métaux sont échangés dans un processus appelé
+transmétallation, ce qui nous donne notre organocuivre !
+
+Organocopper reagents are less reactive 
+than the other organometallic reagents we've been talking about, 
+Les réactifs organocuivres sont moins réactifs
+que les autres réactifs organométalliques dont nous avons parlé
+
+so we don't have to worry quite as much about intense reactions with air 
+that will catch our lab bench on fire.
+, nous n'avons donc pas à nous soucier autant des réactions intenses avec l'air
+qui prendront feu sur notre paillasse de laboratoire.
+
+But they can also be too 
+unreactive to be very useful.
+Mais ils peuvent aussi être trop peu
+réactifs pour être très utiles.
+
+That's where Gilman reagents, with 
+two carbon-copper bonds, come in.
+C'est là qu'interviennent les réactifs de Gilman, avec
+deux liaisons carbone-cuivre.
+
+To form an organocuprate, we add a copper (I) 
+halide to 2 molar equivalents of an organolithium.
+Pour former un organocuprate, nous ajoutons un halogénure de cuivre (I)
+à 2 équivalents molaires d'un organolithium.
+
+The name has an “ate” which suggests a negative 
+ion -- think sulfate, carbonate, nitrate.
+Le nom a un "ate" qui suggère un
+ion négatif : pensez sulfate, carbonate, nitrate.
+
+This “ate” tells us that organocuprate 
+reagents have a negative charge.
+Ce "mangé" nous indique que les
+réactifs organocuprate ont une charge négative.
+
+Even though organocuprates are 
+more reactive than organocoppers,  
+Même si les organocuprates sont
+plus réactifs que les organocoppers,
+
+they aren’t as reactive as 
+Grignards and organolithiums.
+ils ne sont pas aussi réactifs que les
+Grignards et les organolithiums.
+
+But Gilman reagents have an 
+advantage in their not-so-basicness,  
+Mais les réactifs de Gilman ont l'
+avantage d'être moins basiques,
+
+because they can get involved 
+in other types of reactions.
+car ils peuvent être impliqués
+dans d'autres types de réactions.
+
+Grignard and organolithium 
+reagents are super strong bases,  
+Les réactifs de Grignard et d'
+organolithium sont des bases super fortes,
+
+so when they meet alkyl halides, they 
+tend to cause elimination reactions.
+donc lorsqu'ils rencontrent des halogénures d'alkyle, ils
+ont tendance à provoquer des réactions d'élimination.
+
+However, when Gilman reagents meet alkyl 
+halides, they do SN2 reactions instead.
+Cependant, lorsque les réactifs de Gilman rencontrent des
+halogénures d'alkyle, ils effectuent à la place des réactions SN2.
+
+In fact, Gilman reagents are really 
+useful for cross coupling reactions,  
+En fait, les réactifs de Gilman sont vraiment
+utiles pour les réactions de couplage croisé,
+
+where two alkyl fragments are joined together.
+où deux fragments d'alkyle sont réunis.
+
+The mechanism is a bit beyond the scope 
+of the series,
+Le mécanisme dépasse un peu le cadre
+de la série,
+
+but basically one of the alkyl bits in the Gilman reagent joins up 
+with the alkyl bit of the alkyl halide.
+mais fondamentalement, l'un des bits alkyle du réactif de Gilman
+rejoint le bit alkyle de l'halogénure d'alkyle.
+
+Gilman reagents can also undergo cross 
+coupling reactions with haloalkenes,  
+Les réactifs de Gilman peuvent également subir
+des réactions de couplage croisé avec des haloalcènes,
+
+while preserving the 
+stereochemistry of the double bond.
+tout en préservant la
+stéréochimie de la double liaison.
+
+Since we can’t do SN1 or SN2 
+reactions with these vinyl halides,  
+Comme nous ne pouvons pas faire de réactions SN1 ou
+SN2 avec ces halogénures de vinyle
+
+this is a pretty handy new reaction!
+,   c'est une nouvelle réaction très pratique !
+
+Also, the carbon-copper bonds in 
+Gilman reagents are less polarized than carbon-magnesium or carbon-lithium bonds.
+De plus, les liaisons carbone-cuivre des
+réactifs de Gilman sont moins polarisées que les liaisons carbone-magnésium ou carbone-lithium.
+
+This makes Gilman reagents less 
+reactive and therefore more selective.
+Cela rend les réactifs Gilman moins
+réactifs et donc plus sélectifs.
+
+For example, if we mixed a Grignard or 
+an organolithium with an acetyl chloride,  
+Par exemple, si nous mélangeons un Grignard ou
+un organolithium avec un chlorure d'acétyle,
+
+two molecules of the reactant would add to the 
+carbonyl carbon eventually forming an alcohol.
+deux molécules du réactif s'ajouteraient au
+carbone carbonyle, formant finalement un alcool.
+
+However, if we mixed a Gilman 
+with an acetyl chloride,  
+Cependant, si nous mélangeons un Gilman
+avec un chlorure d'acétyle,
+
+the chloride swaps with the alkyl group, 
+leaving the carbonyl in the final product.
+le chlorure échange avec le groupe alkyle,
+laissant le carbonyle dans le produit final.
+
+So while learning about all these organometallics, 
+we've talked about the toxicity of tetraethyl lead, and the reactivity of Grignard 
+reagents,
+Ainsi, tout en découvrant tous ces organométalliques,
+nous avons parlé de la toxicité du plomb tétraéthyle et de la réactivité des réactifs de
+Grignard,
+
+but more stories are out there.
+mais d'autres histoires existent.
+
+For example, in one of his Things 
+I Won’t Work With articles,  
+Par exemple, dans l'un de ses
+articles sur les choses avec lesquelles je ne travaillerai pas,
+
+the medicinal chemist Derek Lowe relates the story of The Library of Congress in the U.S. trying to use diethyl zinc to deacidify old documents in the 1980s and 90s.
+le chimiste médical Derek Lowe raconte l'histoire de la Bibliothèque du Congrès aux États-Unis qui a essayé d'utiliser du diéthyl zinc pour désacidifier de vieux documents dans les années 1980 et 1990.
+
+In theory, diethyl zinc reacts with 
+the acid in old wood-pulp paper,  
+En théorie, le diéthyl zinc réagit avec
+l'acide du vieux papier à base de pâte de bois,
+
+lightening the color and making the paper stiffer.
+éclaircissant la couleur et rendant le papier plus rigide.
+
+Great!
+Génial! 
+
+Except… if you don’t make sure that all the diethyl zinc is gone before you re-expose the paper to air, you end up with an extremely expensive bonfire.
+Sauf que… si vous ne vous assurez pas que tout le zinc diéthylique a disparu avant de réexposer le papier à l'air, vous vous retrouvez avec un feu de joie extrêmement coûteux.
+
+So always in chemistry, but 
+especially with these reactions,  
+Donc toujours en chimie, mais
+surtout avec ces réactions,
+
+remember to check and follow 
+your safety data sheets!
+pensez à vérifier et suivre
+vos fiches de données de sécurité !
+
+In this episode we’ve learned that:
+Dans cet épisode, nous avons appris que : les
+
+Organometallic compounds have polar 
+carbon-metal bonds that make carbanions.
+composés organométalliques ont des
+liaisons polaires carbone-métal qui forment des carbanions.
+
+Some well-known examples are Grignard 
+reagents, organolithiums, and Gilman reagents.
+Certains exemples bien connus sont les
+réactifs de Grignard, les organolithiums et les réactifs de Gilman.
+
+And generally, organometallic reagents 
+are great for forming carbon-carbon bonds,  
+Et généralement, les réactifs organométalliques
+sont parfaits pour former des liaisons carbone-carbone,
+
+like in carbonyl addition reactions 
+and cross-coupling reactions.
+comme dans les réactions d'addition de carbonyle
+et les réactions de couplage croisé.
+
+In the next episode, we’ll head 
+back to aldehydes and ketones,  
+Dans le prochain épisode, nous
+reviendrons sur les aldéhydes et les cétones
+
+and look at how they react with 
+oxygen and nitrogen nucleophiles.
+et examinerons comment ils réagissent avec
+les nucléophiles d'oxygène et d'azote.
+
+Until then, thanks for watching this 
+episode of Crash Course Organic Chemistry.
+En attendant, merci d'avoir regardé cet
+épisode du cours intensif de chimie organique.
+
+If you want to help keep all Crash 
+Course free for everybody, forever,  
+Si vous souhaitez aider à garder tous les
+cours d'initiation gratuits pour tout le monde, pour toujours,
+
+you can join our community on Patreon.
+vous pouvez rejoindre notre communauté sur Patreon.
+

@@ -1,0 +1,297 @@
+You can review content from Crash Course Organic Chemistry with the Crash Course app, available now for Android and iOS devices.
+
+Hi! I’m Deboki Chakravarti and welcome back to Crash Course Organic Chemistry!
+
+If you think about it, oxygen is pretty dang amazing.
+
+Molecular oxygen, O2, is responsible for life on Earth as we know it.
+
+And the fire from combustion reactions, which need oxygen, is a foundation of civilization.
+
+Plus, atomic oxygen is part of water.
+
+And adding an oxygen atom to organic compounds creates a part of the molecule that’s more reactive.
+
+In fact, any heteroatom, which are atoms other than carbon and hydrogen, generally increases the reactivity of organic molecules.
+
+That’s because heteroatoms can make up functional groups, which, as we know, is where all the cool chemistry happens.
+
+We’ll get to plenty of fun chemical reactions, I promise.
+
+But first we have to learn how to recognize chemical structures and use IUPAC rules to name them.
+
+After all, you don’t want to mix up your esters and your ethers, or your alcohols and your aldehydes!
+
+We started with the basics of organic nomenclature last time and we’ll keep learning more every week.
+
+It’s not like we’re born speaking any language fluently, especially organic chemistry.
+
+So we have to put in the work!
+
+[Theme Music]
+
+Last episode we learned that there are three steps to naming organic compounds:
+
+Number 1: Find the longest carbon chain and give it a root name.
+
+Number 2: Identify the highest priority functional group, give it the lowest number on the chain, and add its suffix to the root name.
+
+Last time, we just dealt with hydrocarbon functional groups like alkenes and alkynes.
+
+But we’ll learn plenty more today!
+
+And number 3: Identify any substituents and their positions on the carbon chain, then add a numbered prefix to the root name.
+
+The stars of today’s episode are functional groups.
+
+And as we start naming more complicated molecules, we can stay laser-focused on the functional groups by simplifying the structure.
+
+We typically use an R to replace the rest of the carbons that aren’t involved in the group.
+
+Some of the most intensely studied functional groups in organic chemistry have oxygen atoms, either single-bonded or double-bonded.
+
+So let’s start with the simplest functional group with oxygen, an alcohol.
+
+The structure of an alcohol is similar to water, H2O.
+
+Except one of the hydrogens is replaced with a carbon chain, which is where we get the root name.
+
+Alcohols are among the most useful and common compounds in nature.
+
+There’s evidence that people have been brewing alcoholic drinks since 7000 BCE, possibly even before we baked bread.
+
+But when people use the common name “alcohol,” they’re talking about the alcohol-containing compound found in things like beer and wine, which is ethanol.
+
+The root name is eth- because it’s a two-carbon chain.
+
+There are no double or triple bonds, so it’s an alkane and we add the suffix spelled -a-n.
+
+And when we have an alcohol functional group, we add on the suffix spelled -o-l.
+
+The simplest alcohol is methanol, a one-carbon chain with the common name “wood alcohol”
+
+because it used to be produced by heating the heck out of wood.
+
+And methanol is definitely not for drinking.
+
+While ethanol is mildly poisonous which causes drunkenness and other health risks, methanol is super poisonous and usually causes blindness or death.
+
+Methanol and ethanol are tiny, simple molecules.
+
+But when we have a chain with more than two carbons, we have to number it to help communicate where functional groups are.
+
+The alcohol group has priority over double bonds, triple bonds, and any of the substituents we’ve seen so far.
+
+For example, this compound is pentan-1-ol.
+
+Pent- is the root name because it’s a five-carbon chain, then we add -a-n because it’s an alkane, and -1-ol because there’s an alcohol on carbon 1 of the chain.
+
+There aren’t any substituents, so there’s no prefix, and we’re done!
+
+But if we add a double bond to one of the middle carbons in the chain, it now has an alkene.
+
+We would still number the chain to make sure the alcohol is attached to the lowest number carbon, so 1-2-3-4-5.
+
+This chemical’s name is pent-2-ene-1-ol.
+
+Now that we’re comfy with the basics, let’s try something a bit more complicated.
+
+Remember, language takes practice!
+
+And, honestly, it’s not as overwhelming for me if I break it down into the three steps.
+
+Step one, the longest chain is six carbons.
+
+That means the root name is hex-.
+
+Step two, we have two functional groups: a double bond and an alcohol.
+
+Because we have two or more functional groups, we have to assign priority, and alcohols win!
+
+So to number the carbon chain, we’ll start counting from this end to give the alcohol group the lowest number.
+
+Our suffixes are -5-ene for the double bond and -2-ol for the alcohol, which we add in alphabetical order.
+
+Finally, step three.
+
+We need to account for this little methyl substituent, the -CH3.
+
+So we’ll add the 3-methyl to the beginning of the name, and that’s it!
+
+This molecule is 3-methylhex-5-ene-2-ol.
+
+One down!
+
+I’m going to drink some water.
+
+And to learn our second new functional group, we can go back to a water molecule too.
+
+If we replace both hydrogen atoms in H2O with carbon chains, we make another functional group with oxygen: an ether.
+
+The common name “ether” actually refers to one of the first chemicals in medicine that was regularly used to anesthetize patients before surgery.
+
+The first dental extraction using this compound was reported in 1842, and the first surgery on a neck mass was reported in 1846.
+
+Before the late 1800s, surgeons usually didn’t use anesthesia or they used less effective compounds.
+
+In other words: ouch.
+
+So when we talk about anesthesia ether, we mean diethyl ether.
+
+You might be thinking, “Hey Deboki, that doesn’t sound like a systematic name.”
+
+And, yes, you’re correct.
+
+As hard as IUPAC tries, their naming conventions haven’t been widely adopted for ethers.
+
+We’ll get into IUPAC ether nomenclature in a later episode, so don’t worry about it now.
+
+The name diethyl ether gives a little more information than some common names, but it’s not a jam-packed systematic name, so we call it a trivial name.
+
+And to get the trivial name for an ether, we usually name the two carbon chains on either side of the oxygen.
+
+The suffix spelled -y-l is added, then they’re put in alphabetical order, and the word “ether” is tacked on at the end.
+
+Even though it’s a trivial name, we still have to think about what we’re doing… so let’s practice.
+
+This molecule has a five-carbon chain and a three-carbon chain, so that’s a pent- and a prop-.
+
+We’ll add on the suffix spelled -y-l to make them pentyl and propyl, which are alphabetically ordered.
+
+So its trivial name is pentylpropyl ether.
+
+Okay, single-bonded oxygen, we’re done with you for now.
+
+Time to look at some organic compounds with a double-bonded oxygen: a carbonyl group.
+
+Carbonyl groups are part of the functional groups found in aldehydes, ketones, carboxylic acids, and their derivatives.
+
+Let’s start with aldehydes and ketones.
+
+An aldehyde has a carbon chain on only one side of a carbonyl group, while a ketone has a carbon chain on both sides of a carbonyl group.
+
+Notice that we can add an apostrophe or a number superscript to the R groups when drawing a ketone, or any structure.
+
+This lets us communicate that these groups might not be the same thing.
+
+To name organic compounds with an aldehyde functional group, it’s fairly simple with our IUPAC rules.
+
+Step one: come up with a root name based on the longest carbon chain.
+
+And step two: check for functional groups and tack on the suffix spelled -a-l.
+
+Aldehydes have priority over alcohols, and therefore priority over double bonds, triple bonds, and any of the substituents we’ve seen so far.
+
+But, by definition, this carbonyl-with-a-hydrogen group has to be at the start of a carbon chain.
+
+If the group is in the middle, it’s a ketone, not an aldehyde.
+
+So we don’t use numbers before the -al suffix.
+
+For example, an aldehyde on a four-carbon chain with only single bonds would be named butanal.
+
+That’s really all I have to say about aldehydes right now... so on to ketones!
+
+Again, we can use our trusty IUPAC rules.
+
+Step one: use the longest carbon chain to pick a root name.
+
+And step two: name the functional groups, using the suffix spelled -o-n-e for ketone, and communicate where the carbonyl is by numbering the carbon chain.
+
+Like aldehydes, ketones take priority over alcohols, and therefore priority over double bonds, triple bonds, and any of the substituents we’ve seen so far.
+
+But if we have to rank them, ketones are below aldehydes because -- remember -- aldehydes have to be at the start of a chain.
+
+This compound, for example, has a three-carbon chain, so the root is prop-.
+
+It only has single bonds, so it’s an alkane, and we use -an.
+
+And it’s a ketone with the carbonyl group on the second carbon, so we add -2-one.
+
+Introducing… propan-2-one.
+
+Because we followed IUPAC rules, this is a systematic name.
+
+But this simple ketone has a common name you might recognize, too: acetone.
+
+Acetone can be a component of nail polish remover and is often used to clean glassware in chemistry labs.
+
+Now, besides sticking a carbon chain on one or both sides of a carbonyl group, we can add an alcohol group on one side.
+
+These functional groups are named carboxylic acids.
+
+In general chemistry, most of the time when we calculated pH, these were the weak acids we used as examples.
+
+And we also threw around a lot of common names, like acetic acid, citric acid, or lactic acid.
+
+But now that we’re doing organic chemistry, we can name carboxylic acids with IUPAC systematic names too.
+
+Step one, as always, is picking a root name
+based on the longest carbon chain.
+
+And step two: look at functional groups and their positions, and use the suffix -oic acid for the carboxylic acid group.
+
+When it comes to numbering, the carboxylic acid group has top priority of anything we’ve talked about so far.
+
+So, for example, this compound has a six-carbon chain, so its root name is hex-.
+
+We have to number it starting at the carboxylic acid group, which means there’s a -5-e-n for the double bond.
+
+Plus, we just add an -oic acid suffix without a number because it’s always at the beginning.
+
+This chemical is called hex-5-enoic acid.
+
+Carboxylic acids can undergo a lot of reactions to form molecules like esters, which smell nice, acid chlorides, which don’t smell nice,
+
+anhydrides, with an extra carbonyl group, and amides, which contain nitrogen.
+
+Notice that we’re using different R groups here as well, because they could be all kinds of things!
+
+I’m going to name a few more functional groups rapid-fire now.
+
+It’s okay if you don’t know them as well as our other pals, because we’ll spend plenty of time with them later, and, while you’re studying, you can always look them up.
+
+We should sort of recognize amines, which are a nitrogen attached to 3 R groups with one lone pair.
+
+Because this is organic chemistry, at least one of those R groups has to have some carbon in it.
+
+Nitriles have a triple bond between a nitrogen atom and a carbon atom, with potential extra stuff hanging off the carbon.
+
+And phenyls, also known as benzene rings, are a six-carbon ring with alternating single and double bonds.
+
+The nomenclature for these compounds is really complicated so this is another case where IUPAC lets trivial or common names slide.
+
+Okay.
+
+To end this jog along the road of organic nomenclature, we can list the functional groups we’ve learned from highest to lowest priority when it comes to naming compounds.
+
+To be clear, we’re not including substituents here.
+
+Just functional groups!
+
+Highest priority are carboxylic acids, followed by aldehydes, then ketones, and then alcohols.
+
+Double bonds, or alkenes, are next and share priority with triple bonds, or alkynes.
+
+If they both have the lowest number and you have to make a choice, alkenes win priority.
+
+And the lowest priority molecules with no functional groups are the alkanes.
+
+As with any new language, we started with the basics of organic chemistry naming, and we’ll adjust as we become more fluent.
+
+For now, recognizing the functional groups, building a molecule from a name, and naming a molecule from a structure is great.
+
+In this episode, we learned:
+
+Oxygen atoms form both single and double bonds with carbon atoms
+
+How to name and recognize at least 8 more functional groups
+
+And that IUPAC’s rules are really great but some common or trivial names still prevail!
+
+Next time, we’ll dive into hybridization and molecular geometry, basically how organic molecules exist in 3D space!
+
+Thanks for watching this episode of Crash Course Organic Chemistry.
+
+If you want to help keep all Crash Course free for everybody, forever, you can join our community on Patreon.
+

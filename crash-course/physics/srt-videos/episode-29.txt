@@ -1,0 +1,400 @@
+This episode is supported by Prudential.
+Cet épisode est soutenu par Prudential.
+
+Resistors, batteries, and capacitors – these are just a few of the tools you use to build circuits, and provide power to the world around us.
+Résistances, batteries et condensateurs - ce ne sont là que quelques-uns des outils que vous utilisez pour construire des circuits et alimenter le monde qui nous entoure.
+
+Today, we’re going to build some basic circuits out of resistors and batteries to figure out how they react and change, depending on their configuration.
+Aujourd'hui, nous allons construire des circuits de base à partir de résistances et de batteries pour comprendre comment ils réagissent et changent, en fonction de leur configuration.
+
+For instance, in this circuit, I’ve got
+a battery connected to a light bulb.
+Par exemple, dans ce circuit, j'ai
+une batterie connectée à une ampoule.
+
+Easy enough, right?
+Assez facile, non?
+
+The battery provides a voltage, generating a current that runs through the whole circuit, lighting up our connected light bulb due to its resistance.
+La batterie fournit une tension, générant un courant qui parcourt tout le circuit, éclairant notre ampoule connectée grâce à sa résistance.
+
+Now, what if you have two identical light
+bulbs in a row?
+Maintenant, que se passe-t-il si vous avez deux ampoules identiques
+dans une rangée ?
+
+How will the current change?
+Comment le courant va-t-il changer ?
+
+How bright will each one be?
+À quel point chacun sera-t-il brillant ?
+
+And what if, instead of two identical light bulbs on the same wire, you place the second bulb on its own wire that connects to the battery?
+Et si, au lieu de deux ampoules identiques sur le même fil, vous placiez la deuxième ampoule sur son propre fil qui se connecte à la batterie ?
+
+These are all basic DC, or direct current circuits, made up of batteries and resistors with current flowing constantly out of the battery in one direction.
+Ce sont tous des circuits de base à courant continu ou à courant continu, constitués de batteries et de résistances avec un courant sortant constamment de la batterie dans une direction.
+
+We’ll talk about currents that aren’t so constant later on, but for now, everything we deal with will be a DC circuit.
+Nous parlerons des courants qui ne sont pas si constants plus tard, mais pour l'instant, tout ce que nous traitons sera un circuit à courant continu.
+
+And hopefully, once we’re through, these
+bulbs here won’t be the only ones lighting up!
+Et j'espère qu'une fois que nous aurons terminé, ces
+ampoules ici ne seront pas les seules à s'allumer !
+
+[Theme Music]
+[Thème musical]
+
+Let’s start our anatomy of a circuit lesson
+with our source of energy: the battery.
+Commençons notre leçon d'anatomie d'un circuit
+avec notre source d'énergie : la batterie.
+
+An ideal battery provides a constant voltage to a circuit, powered by its conversion of stored chemical energy to electrical energy.
+Une batterie idéale fournit une tension constante à un circuit, alimenté par sa conversion d'énergie chimique stockée en énergie électrique.
+
+Scientists say that the battery is a source of electromotive force, because it gets charge to move – but it’s not really providing a force, but rather a difference in electrical potential.
+Les scientifiques disent que la batterie est une source de force électromotrice, car elle se charge de se déplacer - mais elle ne fournit pas vraiment de force, mais plutôt une différence de potentiel électrique.
+
+So we shorten this to say that the ideal voltage
+supplied by the battery is its emf.
+Nous raccourcissons donc cela pour dire que la tension idéale
+fournie par la batterie est sa fem.
+
+Ideally, the battery uses all of its voltage
+to power the devices in a circuit.
+Idéalement, la batterie utilise toute sa tension
+pour alimenter les appareils d'un circuit.
+
+But, like most things in real life, batteries
+aren’t perfect.
+Mais, comme la plupart des choses dans la vraie vie, les batteries
+ne sont pas parfaites.
+
+While a battery’s purpose is to provide a steady voltage, its inner workings still contain conductive materials that will naturally lose energy as heat.
+Alors que le but d'une batterie est de fournir une tension constante, son fonctionnement interne contient toujours des matériaux conducteurs qui perdront naturellement de l'énergie sous forme de chaleur.
+
+Like when you watch Crash Course on your phone
+for three hours and it gets warm.
+Comme lorsque vous regardez Crash Course sur votre téléphone
+pendant trois heures et qu'il fait chaud.
+
+That heat is partly caused by the components inside the battery having resistance, and you know that when there’s resistance in a flow of current, power will be drawn and released – often in the form of heat.
+Cette chaleur est en partie causée par les composants à l'intérieur de la batterie qui ont une résistance, et vous savez que lorsqu'il y a une résistance dans un flux de courant, l'énergie sera tirée et libérée - souvent sous forme de chaleur.
+
+In a circuit, you model this effect as an internal resistance between the battery’s terminals.
+Dans un circuit, vous modélisez cet effet comme une résistance interne entre les bornes de la batterie.
+
+So, when you measure the actual voltage between the terminals of the battery, you get a value that’s less than our ideal emf potential.
+Ainsi, lorsque vous mesurez la tension réelle entre les bornes de la batterie, vous obtenez une valeur inférieure à notre potentiel emf idéal.
+
+This real voltage is called the terminal voltage.
+Cette tension réelle est appelée tension aux bornes.
+
+And you calculate the terminal voltage by subtracting the voltage drop due to internal resistance from the supplied emf voltage, designated by a script E.
+Et vous calculez la tension aux bornes en soustrayant la chute de tension due à la résistance interne de la tension emf fournie, désignée par un script E.
+
+This internal voltage drop, according to Ohm’s law, is equal to the current through the circuit times the internal resistance.
+Cette chute de tension interne, selon la loi d'Ohm, est égale au courant traversant le circuit multiplié par la résistance interne.
+
+The internal resistance is typically much smaller than the resistance of any connected devices, so the terminal voltage is usually only a little bit less than the emf voltage.
+La résistance interne est généralement beaucoup plus petite que la résistance de tout appareil connecté, de sorte que la tension aux bornes n'est généralement qu'un peu inférieure à la tension emf.
+
+For example, say you have a 12 Volt battery with no internal resistance, and it’s connected in a circuit with a resistor of 100 Ohms.
+Par exemple, disons que vous avez une batterie de 12 volts sans résistance interne et qu'elle est connectée dans un circuit avec une résistance de 100 ohms.
+
+You can use Ohm’s Law to find that the resulting
+current is 0.120 Amperes.
+Vous pouvez utiliser la loi d'Ohm pour trouver que le
+courant résultant est de 0,120 Ampères.
+
+Now, let’s say that the battery has an internal
+resistance of 1 Ohm.
+Maintenant, disons que la batterie a une
+résistance interne de 1 Ohm.
+
+If you substitute Ohm’s law into our equation for terminal voltage and solve the equation with both the internal resistance and the resistance of the circuit it’s hooked up to,
+Si vous substituez la loi d'Ohm dans notre équation pour la tension aux bornes et résolvez l'équation avec la résistance interne et la résistance du circuit auquel elle est connectée,
+
+you find that the current through the circuit
+is now 0.119 Amperes.
+vous constatez que le courant traversant le circuit
+est maintenant de 0,119 Ampères.
+
+Compared to the ideal battery, it’s only
+a 1 Milliampere difference.
+Par rapport à la batterie idéale, il n'y
+a qu'une différence de 1 milliampère.
+
+Now, to find out exactly how much power is lost to the battery’s internal resistance, you can use the power expression we used in our last lesson:
+Maintenant, pour savoir exactement combien de puissance est perdue à cause de la résistance interne de la batterie, vous pouvez utiliser l'expression de puissance que nous avons utilisée dans notre dernière leçon : la
+
+power equals current times voltage.
+puissance est égale au courant multiplié par la tension.
+
+Because, that equation shows the rate at which energy is converted from electricity into another form of energy, such as heat, light, or mechanical power.
+Parce que cette équation montre la vitesse à laquelle l'énergie est convertie de l'électricité en une autre forme d'énergie, comme la chaleur, la lumière ou la puissance mécanique.
+
+But since we don’t know the voltage drop across the internal resistance, you can use Ohm’s law, and substitute “current times resistance” for the voltage.
+Mais comme nous ne connaissons pas la chute de tension aux bornes de la résistance interne, vous pouvez utiliser la loi d'Ohm et remplacer la tension par "courant multiplié par la résistance".
+
+From this equation, you can see that the internal resistance causes the battery to use about 14 milliWatts of power.
+À partir de cette équation, vous pouvez voir que la résistance interne fait que la batterie utilise environ 14 milliWatts de puissance.
+
+Now, you might have noticed in this example, that while the two resistance values were different, the current going throughout the whole circuit was the same.
+Maintenant, vous avez peut-être remarqué dans cet exemple que, même si les deux valeurs de résistance étaient différentes, le courant circulant dans tout le circuit était le même.
+
+When at least two resistors are connected along the same path, they’re connected in series, and any devices connected in series have the same current flowing through them.
+Lorsqu'au moins deux résistances sont connectées sur le même chemin, elles sont connectées en série et tous les appareils connectés en série sont parcourus par le même courant.
+
+And while all resistors along the same wire have the same current, they each have different voltages dropping across them.
+Et tandis que toutes les résistances le long du même fil ont le même courant, elles ont chacune des tensions différentes qui les traversent.
+
+According to the conservation of energy, the total voltage supplied to the system is equal to the sum of all the voltage drops across the circuit.
+Selon la conservation de l'énergie, la tension totale fournie au système est égale à la somme de toutes les chutes de tension aux bornes du circuit.
+
+Think of it as a river, like we’ve done before, with each resistor as a group of rocks sitting in the water.
+Considérez-le comme une rivière, comme nous l'avons fait auparavant, avec chaque résistance comme un groupe de rochers assis dans l'eau.
+
+The current will be the same going through each set of rocks, whether it’s a pile of large boulders, with high resistance, or a clump of small pebbles, with low resistance.
+Le courant sera le même en traversant chaque ensemble de roches, qu'il s'agisse d'un tas de gros rochers, à haute résistance, ou d'un amas de petits cailloux, à faible résistance.
+
+Since it’s much easier for current to go through small pebbles, the energy spent going through them is low.
+Comme il est beaucoup plus facile pour le courant de traverser de petits cailloux, l'énergie dépensée pour les traverser est faible.
+
+And for large boulders, which offer higher
+resistance, more energy will be lost.
+Et pour les gros rochers, qui offrent une
+résistance plus élevée, plus d'énergie sera perdue.
+
+And this change in potential energy is just
+like a voltage drop.
+Et ce changement d'énergie potentielle est
+comme une chute de tension.
+
+For the same current, the voltage drop across greater resistances is higher than the lower voltage drops for the low resistances.
+Pour le même courant, la chute de tension aux bornes des plus grandes résistances est supérieure aux chutes de tension les plus faibles pour les faibles résistances.
+
+But let’s figure out how to express this
+mathematically.
+Mais voyons comment exprimer cela
+mathématiquement.
+
+If the voltage supplied by a battery is the equal to the sum of all voltage drops across, say, three resistors in a series, you can substitute Ohm’s law for each resistor.
+Si la tension fournie par une batterie est égale à la somme de toutes les chutes de tension à travers, disons, trois résistances en série, vous pouvez substituer la loi d'Ohm pour chaque résistance.
+
+The voltage drop across each resistor is proportional
+to its resistance.
+La chute de tension aux bornes de chaque résistance est proportionnelle
+à sa résistance.
+
+Also, since the current is equal for all of the components, you can represent the total resistance of the circuit as the sum of all the resistances in the series.
+De plus, puisque le courant est égal pour tous les composants, vous pouvez représenter la résistance totale du circuit comme la somme de toutes les résistances de la série.
+
+This total is called the equivalent resistance.
+Ce total est appelé la résistance équivalente.
+
+Now there’s another way you can combine resistors in a circuit – by splitting one path of current into two or more branches.
+Il existe maintenant une autre façon de combiner des résistances dans un circuit - en divisant un chemin de courant en deux branches ou plus.
+
+When multiple resistors are configured so the current splits into many branches from a single source, they’re said to be connected in parallel.
+Lorsque plusieurs résistances sont configurées de sorte que le courant se divise en plusieurs branches à partir d'une source unique, on dit qu'elles sont connectées en parallèle.
+
+And in the case of parallel connection, you want to pay close attention to the principle known as the conservation of charge.
+Et dans le cas d'une connexion en parallèle, vous voulez porter une attention particulière au principe connu sous le nom de conservation de la charge.
+
+This principle states that all current flowing to the junction where the path splits, equals all of the current flowing out of the same junction.
+Ce principe stipule que tout courant circulant vers la jonction où le chemin se divise est égal à tout le courant sortant de la même jonction.
+
+That's to say that what goes in must come out!
+C'est-à-dire que ce qui entre doit sortir !
+
+Now, for each of these branches, the amount of current passing through it depends on its respective resistance.
+Or, pour chacune de ces branches, la quantité de courant qui la traverse dépend de sa résistance respective.
+
+And since you no longer have a single current throughout your whole circuit, charge is not limited to one path.
+Et puisque vous n'avez plus un seul courant dans tout votre circuit, la charge n'est pas limitée à un seul chemin.
+
+So, let’s think about this again in terms
+of flowing water.
+Alors, repensons à cela en termes
+d'eau qui coule.
+
+If a river breaks off into two different branches, and there’s one branch with lots of resistance and another with very little, where do you think most of the water will go?
+Si une rivière se sépare en deux branches différentes, et qu'il y a une branche avec beaucoup de résistance et une autre avec très peu, où pensez-vous que la majeure partie de l'eau ira ?
+
+The path of least resistance!
+Le chemin de moindre résistance !
+
+Not all of the water goes down the easy way.
+Toute l'eau ne coule pas facilement.
+
+There’s still water that moves through the
+rocky branch, but just not as much.
+Il y a encore de l'eau qui se déplace à travers la
+branche rocheuse, mais pas autant.
+
+And in our hypothetical river, both branches, no matter how rocky, start and end at the same elevation, giving them the same potential.
+Et dans notre rivière hypothétique, les deux branches, aussi rocheuses soient-elles, commencent et se terminent à la même altitude, ce qui leur donne le même potentiel.
+
+In terms of electricity, this means that for every branch in a parallel connection, the voltage is the same, no matter what the resistance is.
+En termes d'électricité, cela signifie que pour chaque branche d'une connexion en parallèle, la tension est la même, quelle que soit la résistance.
+
+So, for a series connection, the current is the same for all resistors, and the voltage drop changes.
+Ainsi, pour une connexion en série, le courant est le même pour toutes les résistances et la chute de tension change.
+
+But in a parallel connection, the voltage is the same for all resistors, and the current through each changes.
+Mais dans une connexion parallèle, la tension est la même pour toutes les résistances et le courant à travers chacune change.
+
+Now, remember how you add up all the resistances to find an equivalent resistance for resistors in a series?
+Maintenant, rappelez-vous comment vous additionnez toutes les résistances pour trouver une résistance équivalente pour les résistances d'une série ?
+
+Would the same be true for a parallel setup?
+En serait-il de même pour une configuration parallèle ?
+
+Let’s look at this mathematically to find
+out.
+Regardons cela mathématiquement pour le
+savoir.
+
+Conservation of charge says that the current in the wire before the split junction is equal to the current coming out.
+La conservation de la charge indique que le courant dans le fil avant la jonction divisée est égal au courant sortant.
+
+So if we’ve got three branches, the current
+goes in three directions.
+Donc, si nous avons trois branches, le courant
+va dans trois directions.
+
+We can substitute Ohm’s law for each current to get an equation in terms of voltage and resistance.
+Nous pouvons substituer la loi d'Ohm à chaque courant pour obtenir une équation en termes de tension et de résistance.
+
+And since the voltage for each resistor is the same in parallel, you can cancel the voltage term out of the entire equation and we’re left with the equation for parallel equivalent resistance.
+Et puisque la tension de chaque résistance est la même en parallèle, vous pouvez annuler le terme de tension de toute l'équation et il nous reste l'équation de la résistance équivalente parallèle.
+
+This shows you that the equivalent resistance for a parallel setup of resistors will actually be smaller than any one of the resistors in the circuit.
+Cela vous montre que la résistance équivalente pour une configuration parallèle de résistances sera en fait plus petite que n'importe laquelle des résistances du circuit.
+
+And this kind of makes sense, if you think
+back to our river analogy!
+Et cela a du sens, si vous
+repensez à notre analogie avec la rivière !
+
+Even if one of the two branches in a river is very clogged up, there’s still more current flowing through the total system than if that clogged up branch did not exist.
+Même si l'un des deux bras d'une rivière est très bouché, il y a encore plus de courant qui circule dans tout le système que si ce bras bouché n'existait pas.
+
+So any additional branch will serve to decrease the total resistance of the system, and increase the amount of current through the entire circuit.
+Ainsi, toute branche supplémentaire servira à diminuer la résistance totale du système et à augmenter la quantité de courant à travers l'ensemble du circuit.
+
+All right, now that we’ve learned what series and parallel connections are, let’s go back to those circuits we talked about at the beginning, and see what happens when you connect them for real.
+Très bien, maintenant que nous avons appris ce que sont les connexions en série et en parallèle, revenons aux circuits dont nous avons parlé au début et voyons ce qui se passe lorsque vous les connectez pour de vrai.
+
+When you connect a single light bulb to our
+battery, you see how it lights up brightly.
+Lorsque vous connectez une seule ampoule à notre
+batterie, vous voyez comment elle s'allume brillamment.
+
+Now what happens when you add an identical
+light bulb in a series connection?
+Que se passe-t-il maintenant lorsque vous ajoutez une
+ampoule identique dans une connexion en série ?
+
+Since identical light bulbs have identical resistances, you know that the resistance in the circuit would be double.
+Étant donné que des ampoules identiques ont des résistances identiques, vous savez que la résistance dans le circuit serait double.
+
+And this corresponds to a current that’s
+half of what it would be for a single bulb.
+Et cela correspond à un courant qui est la
+moitié de ce qu'il serait pour une seule ampoule.
+
+And sure enough, once you complete the circuit, you can see that the bulbs are less bright than the original, single-bulb circuit.
+Et bien sûr, une fois que vous avez terminé le circuit, vous pouvez voir que les ampoules sont moins lumineuses que le circuit d'origine à ampoule unique.
+
+And if you added more bulbs in series, you’d see that the brightness would keep decreasing for each additional bulb.
+Et si vous ajoutiez plus d'ampoules en série, vous verriez que la luminosité continuerait de diminuer pour chaque ampoule supplémentaire.
+
+Now, let’s take our single-bulb circuit and add one bulb in a parallel connection, so the current splits into two different branches, each with equal resistance.
+Maintenant, prenons notre circuit à ampoule unique et ajoutons une ampoule dans une connexion parallèle, de sorte que le courant se divise en deux branches différentes, chacune avec une résistance égale.
+
+Now you see that each bulb is the same brightness
+as the single-bulb circuit!
+Vous voyez maintenant que chaque ampoule a la même luminosité
+que le circuit à ampoule unique !
+
+So, why is that?
+Alors, pourquoi est-ce?
+
+Well, in this setup, the current has an additional – but identical – path to go through, so the overall resistance is half of what it was with a single-wire circuit.
+Eh bien, dans cette configuration, le courant a un chemin supplémentaire - mais identique - à parcourir, de sorte que la résistance globale est la moitié de ce qu'elle était avec un circuit à un seul fil.
+
+Since the equivalent resistance is half of what it used to be, and the voltage hasn’t changed, the current increases to double its original value.
+Étant donné que la résistance équivalente est la moitié de ce qu'elle était et que la tension n'a pas changé, le courant augmente pour doubler sa valeur d'origine.
+
+But since the current must divide equally into each of the different paths, we’re left with two bulbs that have the same amount of current flowing through them that the single bulb circuit had!
+Mais comme le courant doit se diviser également dans chacun des différents chemins, il nous reste deux ampoules qui ont la même quantité de courant qui les traverse que le circuit à ampoule unique !
+
+This is incredibly useful.
+C'est incroyablement utile.
+
+Think about the outlets in your house – they’re all connected in parallel, so no matter how many items are plugged in, they all receive the same voltage.
+Pensez aux prises de votre maison - elles sont toutes connectées en parallèle, donc peu importe le nombre d'éléments branchés, elles reçoivent toutes la même tension.
+
+But! What happens when you create circuits that
+are combinations of series and parallel connections?
+Mais!  Que se passe-t-il lorsque vous créez des circuits qui
+sont des combinaisons de connexions en série et en parallèle ?
+
+We’ve already got the tools to solve most circuit arrangements that you’ll encounter, so next time we’ll look at some key examples, mathematically and electrically, so don’t forget to bring your light bulbs!
+Nous avons déjà les outils pour résoudre la plupart des arrangements de circuits que vous rencontrerez, alors la prochaine fois, nous examinerons quelques exemples clés, mathématiquement et électriquement, alors n'oubliez pas d'apporter vos ampoules !
+
+Today we learned about batteries, and how terminal voltage results from the natural internal resistance of every real battery.
+Aujourd'hui, nous avons découvert les batteries et comment la tension aux bornes résulte de la résistance interne naturelle de chaque batterie réelle.
+
+We discussed both series and parallel circuit configurations, and how the laws of conservation affect the current and voltage for each.
+Nous avons discuté des configurations de circuits en série et en parallèle, et comment les lois de conservation affectent le courant et la tension pour chacun.
+
+Finally, we saw how series and parallel connections affect real circuits in our light bulb circuit demonstration.
+Enfin, nous avons vu comment les connexions en série et en parallèle affectent les circuits réels dans notre démonstration de circuit d'ampoule.
+
+This episode was supported by Prudential.
+Cet épisode a été soutenu par Prudential.
+
+The time between when people think they should start saving for retirement and when they actually do is known as the Action Gap.
+Le temps entre le moment où les gens pensent qu'ils devraient commencer à épargner pour leur retraite et le moment où ils le font réellement est connu sous le nom d'Action Gap.
+
+According to a recent survey conducted by Prudential, the average American starts saving for retirement 7 years later than when they think is best.
+Selon une récente enquête menée par Prudential, l'Américain moyen commence à épargner pour sa retraite 7 ans plus tard que le moment qu'il juge le meilleur.
+
+That could cost you $410,675.92 in a lifetime.
+Cela pourrait vous coûter 410 675,92 $ au cours de votre vie.
+
+Prudential also found that 80% of Americans have never estimated how much retirement may cost.
+Prudential a également constaté que 80 % des Américains n'ont jamais estimé le coût de la retraite.
+
+1 in 3 Americans is not saving enough for their retirement, and over half are not on track to maintain their current standard of living when they retire.
+1 Américain sur 3 n'épargne pas assez pour sa retraite, et plus de la moitié ne sont pas sur la bonne voie pour maintenir leur niveau de vie actuel lorsqu'ils prendront leur retraite.
+
+Go to Raceforretirement.com and see how the
+action gap affects you.
+Allez sur Raceforretirement.com et voyez comment l'
+écart d'action vous affecte.
+
+Crash Course Physics is produced in association
+with PBS Digital Studios.
+Crash Course Physics est produit en association
+avec PBS Digital Studios.
+
+You can head over to their channel and check out a playlist of the latest episodes from shows like:
+Vous pouvez vous rendre sur leur chaîne et consulter une liste de lecture des derniers épisodes d'émissions telles que :
+
+Deep Look, PBS Idea Channel, and The Art Assignment.
+Deep Look, PBS Idea Channel et The Art Assignment.
+
+This episode of Crash Course was filmed in
+the Doctor Cheryl C. Kinney Crash Course Studio
+Cet épisode de Crash Course a été filmé dans
+le studio Doctor Cheryl C. Kinney Crash Course
+
+with the help of these amazing people and our equally amazing graphics team, is Thought Cafe.
+avec l'aide de ces personnes incroyables et de notre équipe graphique tout aussi incroyable, Thought Cafe.
+

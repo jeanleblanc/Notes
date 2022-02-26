@@ -1,0 +1,705 @@
+We spend a lot of time thinking about atoms
+as looking like this.
+Nous passons beaucoup de temps à penser
+que les atomes ressemblent à ceci.
+
+There's a ball and there's a stick, and there's
+another ball and another stick.
+Il y a une balle et il y a un bâton, et il y a
+une autre balle et un autre bâton.
+
+It's just a bunch of balls stuck together
+by these little wooden bonds. Simple.
+C'est juste un tas de balles collées ensemble
+par ces petits liens en bois.  Simple. 
+
+Pretty easy to understand, and thus — as you have probably come to expect — it is entirely incorrect.
+Assez facile à comprendre, et donc - comme vous vous en doutez probablement - c'est tout à fait incorrect.
+
+Nuclei really can be understood as little
+balls, and that's more or less correct,
+Les noyaux peuvent vraiment être compris comme de petites
+boules, et c'est plus ou moins correct,
+
+though when you get to some of the bigger, less stable ones they start looking more oblong and weird like a rugby ball.
+bien que lorsque vous arrivez à certaines des plus grosses et moins stables, elles commencent à avoir l'air plus oblongues et bizarres comme un ballon de rugby.
+
+Atoms are basically ball-like as well, with electrons and a spherical cloud around the nucleus.
+Les atomes ressemblent également à des boules, avec des électrons et un nuage sphérique autour du noyau.
+
+But molecules, as we discussed last time,
+do not look like balls on sticks.
+Mais les molécules, comme nous en avons discuté la dernière fois,
+ne ressemblent pas à des balles sur des bâtons.
+
+Bonds don't form into neat little lines.
+Les liens ne forment pas de petites lignes nettes.
+
+They form from overlapping electron clouds or shells, flowing around the nuclei of bonded atoms.
+Ils se forment à partir de nuages ou de coquilles d'électrons qui se chevauchent, circulant autour des noyaux d'atomes liés
+
+If you really get down there and
+understand what they look like,
+  Si vous allez vraiment là-bas et
+comprenez à quoi ils ressemblent,
+
+they're like lumpy, clumpy globs of probable
+electron locations.
+ils ressemblent à des globes grumeleux et agglomérés d'emplacements probables d'
+électrons.
+
+And these lumpy, clumps of probable electron locations do not behave the way you might initially expect them to behave.
+Et ces amas grumeleux d'emplacements probables d'électrons ne se comportent pas comme vous pourriez initialement vous attendre à ce qu'ils se comportent.
+
+Oh no. That would be far too simple.
+Oh non.  Ce serait beaucoup trop simple.
+
+They behave based on quantum mechanical, 3-dimensional
+wave functions,
+Leur comportement est basé sur la mécanique quantique,
+les fonctions d'onde tridimensionnelles,
+
+probabilistic distributions of electrons in
+space.
+les distributions probabilistes des électrons dans l'
+espace.
+
+And yeah, by the end of this episode, you're going to understand what I just said and it's gonna be awesome!
+Et oui, à la fin de cet épisode, vous allez comprendre ce que je viens de dire et ça va être génial !
+
+[Theme Music]
+[Thème musical]
+
+Let's start with water, because all the interesting
+things on our planet start with water.
+Commençons par l'eau, car toutes les
+choses intéressantes sur notre planète commencent par l'eau.
+
+It's also universally common, not just on
+our planet but in our galaxy and our universe.
+C'est aussi universellement commun, pas seulement sur
+notre planète mais dans notre galaxie et notre univers.
+
+Case in point: In 2011, astronomers discovered
+a cloud of water-ice surrounding a black hole
+Exemple concret : en 2011, des astronomes ont découvert
+un nuage de glace d'eau entourant un trou noir
+
+that contains 140 trillion times more water
+than we have here on Earth.
+qui contient 140 000 milliards de fois plus d'eau
+que nous n'en avons ici sur Terre.
+
+And while we don't have any confirmed worlds
+covered in water outside of our solar system,
+Et bien que nous n'ayons pas de mondes confirmés
+recouverts d'eau en dehors de notre système solaire,
+
+we do have some right here in our solar system.
+nous en avons ici même dans notre système solaire.
+
+Europa contains so much water, probably salt
+water, that its entire surface is just ice.
+Europa contient tellement d'eau, probablement de l'
+eau salée, que toute sa surface n'est que glace.
+
+What did any of that have to do with atomic
+orbitals? Nothing.
+Qu'est-ce que tout cela avait à voir avec les
+orbitales atomiques ?  Rien. 
+
+I just felt like maybe I scared you with all
+that quantum mechanics talk before the intro
+J'avais juste l'impression que je t'avais peut-être fait peur avec tout
+ce discours sur la mécanique quantique avant l'intro
+
+and I wanted to chill you out for a second.
+et je voulais te détendre une seconde.
+
+Okay, so water. We did its Lewis structure
+last week, remember?
+Bon, donc de l'eau.  Nous avons fait sa structure de Lewis la
+semaine dernière, vous vous souvenez ?
+
+Each hydrogen bonding to the oxygen atom,
+and voilà!
+Chaque liaison hydrogène à l'atome d'oxygène,
+et voilà !
+
+But that drawing is linear, just a straight
+line through all the nuclei,
+Mais ce dessin est linéaire, juste une
+ligne droite à travers tous les noyaux,
+
+and we know, just instinctually at this point,
+that water is a bent molecule.
+et nous savons, instinctivement à ce stade,
+que l'eau est une molécule courbée.
+
+But why?
+Why is water crooked?
+Mais pourquoi? 
+Pourquoi l'eau est-elle tordue ?
+
+Unbonded atoms within a molecule generally like to be as far away from each other as possible,
+Les atomes non liés au sein d'une molécule aiment généralement être aussi éloignés que possible les uns des autres,
+
+especially if they have the same partial charge
+as the 2 hydrogens do with their partial positives.
+surtout s'ils ont la même charge partielle
+que les 2 hydrogènes avec leurs positifs partiels.
+
+But something is keeping those hydrogens closer
+together than they would like to be.
+Mais quelque chose maintient ces hydrogènes plus
+proches qu'ils ne le souhaiteraient.
+
+So why on earth are they not stretched out
+as far away from each other as possible?
+Alors pourquoi diable ne sont-ils pas étendus
+aussi loin l'un de l'autre que possible ?
+
+I ask this because if they were, the water
+molecule wouldn't be polar,
+Je pose cette question parce que s'ils l'étaient, la
+molécule d'eau ne serait pas polaire,
+
+and if water was suddenly non-polar we would
+all instantly die, as would all life on Earth.
+et si l'eau était soudainement non polaire, nous
+mourrions tous instantanément, comme toute vie sur Terre.
+
+And suddenly, we realize that this seemingly normal thing that we knew about the world is really weird.
+Et soudain, nous réalisons que cette chose apparemment normale que nous savions sur le monde est vraiment bizarre.
+
+And weird stuff is my favorite stuff because
+it means interesting questions.
+Et les trucs bizarres sont mes trucs préférés parce que
+cela signifie des questions intéressantes.
+
+Interesting questions I want to know the answer
+to.
+Des questions intéressantes dont je veux connaître la
+réponse.
+
+It's an even more compelling question than,
+C'est une question encore plus convaincante que
+
+"What the heck is a quantum mechanical 3-dimensional
+wave function?"
+"Qu'est-ce qu'une fonction d'onde tridimensionnelle de mécanique quantique
+?"
+
+Well, of course, the answer to this question
+has a great deal to do with
+Eh bien, bien sûr, la réponse à cette question
+a beaucoup à voir avec
+
+quantum mechanical 3-dimensional wave functions,
+so let's start there.
+les fonctions d'onde tridimensionnelles de la mécanique quantique,
+alors commençons par là.
+
+Oh, look!
+I've got a telephone cord!
+Oh regarde! 
+J'ai un cordon téléphonique !
+
+This is what old people used to use to get
+their voices into wires
+C'est ce que les personnes âgées utilisaient pour faire passer
+leur voix dans les fils
+
+so they could be transmitted across the world
+before cell phones,
+afin qu'elles puissent être transmises à travers le monde
+avant les téléphones portables,
+
+but today it's pretty much only useful for
+demonstrating electron fields.
+mais aujourd'hui, c'est à peu près seulement utile pour
+démontrer les champs d'électrons.
+
+Electrons are both particles and waves, which
+is not an easy thing to imagine.
+Les électrons sont à la fois des particules et des ondes, ce qui
+n'est pas facile à imaginer.
+
+Very basically, you can think of them as an excitation of the electron field, which exists everywhere.
+Très fondamentalement, vous pouvez les considérer comme une excitation du champ d'électrons, qui existe partout.
+
+When energy is dumped into the electron field,
+electrons exist inside a wave function.
+Lorsque l'énergie est déversée dans le champ d'électrons, les
+électrons existent à l'intérieur d'une fonction d'onde.
+
+What's a wave function?
+Qu'est-ce qu'une fonction d'onde ?
+
+It's a mathematical function that describes the probability that an electron is in a certain place at any given moment.
+C'est une fonction mathématique qui décrit la probabilité qu'un électron se trouve à un certain endroit à un moment donné.
+
+So, this telephone cord is an electron field.
+Donc, ce cordon téléphonique est un champ d'électrons.
+
+I dump some energy into it and we create what's
+called a standing wave.
+J'y déverse de l'énergie et nous créons ce qu'on
+appelle une onde stationnaire.
+
+The wave function is the mathematical function
+that describes it.
+La fonction d'onde est la fonction mathématique
+qui la décrit.
+
+Electrons function the same way.
+Les électrons fonctionnent de la même manière.
+
+They exist as excitations in the electron
+field around the nucleus in a standing wave.
+Ils existent sous forme d'excitations dans le
+champ d'électrons autour du noyau dans une onde stationnaire.
+
+The simplest of these wave functions is the
+s orbital,
+La plus simple de ces fonctions d'onde est l'
+orbite s,
+
+which can contain 2 electrons and is a spherical
+pattern of standing waves around the nucleus.
+qui peut contenir 2 électrons et est un
+motif sphérique d'ondes stationnaires autour du noyau.
+
+This standing wave can have different numbers
+of nodes,
+Cette onde stationnaire peut avoir différents nombres
+de nœuds,
+
+allowing patterns to repeat themselves when
+there are more electrons around the nucleus.
+permettant aux motifs de se répéter lorsqu'il
+y a plus d'électrons autour du noyau.
+
+Every orbital can contain, and indeed is at
+its lowest energy when it contains, 2 electrons.
+Chaque orbitale peut contenir, et est en effet à
+son énergie la plus basse lorsqu'elle contient, 2 électrons.
+
+Hydrogen has one electron in its s orbital.
+L'hydrogène a un électron dans son orbite s.
+
+Helium, an ultra-stable, very low-energy noble
+gas, has 2.
+L'hélium, un gaz noble ultra-stable et à très faible énergie
+, en a 2.
+
+It's happy cause it has its shell filled.
+C'est heureux car sa coquille est remplie.
+
+But, of course, there are other sorts of orbitals
+as well.
+Mais, bien sûr, il existe également d'autres types d'
+orbitales.
+
+After we fill the first and second s orbitals,
+we move on to filling the p orbital.
+Après avoir rempli les première et deuxième orbitales s,
+nous passons au remplissage de l'orbitale p.
+
+Or rather, I should say p orbitals, because
+we're talking about 3 dimensional space here,
+Ou plutôt, je devrais dire des orbitales p, car
+nous parlons ici d'un espace tridimensionnel,
+
+so there can be one on the x axis, and one
+on the y axis, and one on the z axis.
+il peut donc y en avoir une sur l'axe x, une
+sur l'axe y et une sur l'axe z.
+
+Each of those can contain 2 electrons for
+a total of 8
+Chacun de ceux-ci peut contenir 2 électrons pour
+un total de 8
+
+with 2 in the s orbital and 6 in the 3 p orbitals.
+avec 2 dans l'orbitale s et 6 dans les 3 orbitales p.
+
+And yes, those 8 electrons are the reason
+for whole the octet rule thing.
+Et oui, ces 8 électrons sont la raison
+de toute la règle de l'octet.
+
+Remember now, the periodic table is a map
+of the orbitals as they fill.
+Rappelez-vous maintenant que le tableau périodique est une carte
+des orbitales au fur et à mesure qu'elles se remplissent.
+
+Elements in the s block are filling their
+s orbitals.
+Les éléments du bloc s remplissent leurs
+orbitales s.
+
+Elements in the p block are filling their
+p's.
+Les éléments du bloc p remplissent leurs
+p.
+
+Same with the d's and the f's.
+Idem avec les d et les f.
+
+So, s orbitals, very simple, spherical, p orbitals a little bit weirder, d and f orbitals, so crazy.
+Donc, les orbitales s, très simples, sphériques, les orbitales p un peu plus bizarres, les orbitales d et f, tellement folles.
+
+Some of the f orbitals in particular have
+just ridiculously cool geometries.
+Certaines des orbitales f en particulier
+ont des géométries ridiculement cool.
+
+Lots of fancy math is involved in writing out these wave functions and understanding them.
+Beaucoup de mathématiques sophistiquées sont impliquées dans l'écriture de ces fonctions d'onde et dans leur compréhension.
+
+So, with hydrogen, we've just got the one
+s orbital.
+Donc, avec l'hydrogène, nous avons juste
+l'orbite 1.
+
+It's a sphere.
+Marvelously uncomplicated.
+C'est une sphère.
+Merveilleusement simple.
+
+But, in the second shell, we have an s orbital
+and 3 p orbitals.
+Mais, dans la deuxième coquille, nous avons une orbitale s
+et 3 orbitales p.
+
+The p orbitals, if they were all by themselves,
+look like this.
+Les orbitales p, si elles étaient toutes seules,
+ressemblent à ceci.
+
+But, when you actually stick them around an atom, the s and p orbitals start to interact with each other,
+Mais, lorsque vous les collez autour d'un atome, les orbitales s et p commencent à interagir les unes avec les autres,
+
+doing their best not to overlap and changing
+each other.
+faisant de leur mieux pour ne pas se chevaucher et se
+changer.
+
+The s and the p orbitals can merge into hybrid
+sp orbitals.
+Les orbitales s et p peuvent fusionner en
+orbitales sp hybrides.
+
+Instead of being 2 different kinds of orbitals, they become 4 identical orbitals trying their best not to overlap.
+Au lieu d'être 2 types différents d'orbitales, elles deviennent 4 orbitales identiques essayant de leur mieux de ne pas se chevaucher.
+
+This is called orbital hybridization.
+C'est ce qu'on appelle l'hybridation orbitale.
+
+When the s orbital hybridizes with all 3 p
+orbitals it's called sp3 hybridization and
+Lorsque l'orbitale s s'hybride avec les 3 orbitales p,
+on parle d'hybridation sp3 et
+
+it forms a tetrahedral shape.
+elle forme une forme tétraédrique.
+
+And this is that tetrahedral shape.
+Et c'est cette forme tétraédrique.
+
+It's the easiest way for all the orbitals to form something like a sphere around the atom, but not interact too much.
+C'est le moyen le plus simple pour toutes les orbitales de former quelque chose comme une sphère autour de l'atome, mais sans trop interagir.
+
+I didn't do anything fancy to make these balloons
+take this shape.
+Je n'ai rien fait d'extraordinaire pour que ces ballons
+prennent cette forme.
+
+I just tied them together at the base.
+Je les ai juste attachés ensemble à la base.
+
+They naturally formed this shape because they
+can't overlap with each other.
+Ils ont naturellement formé cette forme car ils
+ne peuvent pas se chevaucher.
+
+And yes, this is exactly what's going on with
+water.
+Et oui, c'est exactement ce qui se passe avec l'
+eau.
+
+In water, oxygen's 8 electrons are arranged
+with 2 in each sp3 hybridized orbital.
+Dans l'eau, les 8 électrons de l'oxygène sont disposés
+avec 2 dans chaque orbitale hybride sp3.
+
+2 of those electrons are from hydrogen.
+2 de ces électrons proviennent de l'hydrogène.
+
+6 are from oxygen, including 2 lone pairs.
+6 proviennent de l'oxygène, dont 2 paires isolées.
+
+Those lone pairs, even though they're not participating in any bonds, still have their orbitals.
+Ces paires isolées, même si elles ne participent à aucune liaison, ont toujours leurs orbitales.
+
+And so water is locked into that tetrahedral
+structure.
+Et donc l'eau est emprisonnée dans cette
+structure tétraédrique.
+
+No matter which orbital you stick the hydrogen atoms to, you're stuck with an asymmetrical molecule.
+Peu importe à quelle orbitale vous collez les atomes d'hydrogène, vous êtes coincé avec une molécule asymétrique.
+
+That, along with the difference in electronegativities
+of oxygen and hydrogen,
+Cela, avec la différence d'électronégativité
+de l'oxygène et de l'hydrogène,
+
+leads to the polarity of water and the existence
+of life.
+conduit à la polarité de l'eau et à l'existence
+de la vie.
+
+But s and p orbitals can hybridize in other
+ways as well.
+Mais les orbitales s et p peuvent également s'hybrider d'autres
+manières.
+
+How, for example, could you imagine sp3 orbitals
+forming a double bond?
+Comment, par exemple, pourriez-vous imaginer des orbitales sp3
+formant une double liaison ?
+
+You can't have 2 orbitals mashing together
+in the same space,
+Vous ne pouvez pas avoir 2 orbitales qui s'écrasent
+dans le même espace,
+
+and sp3 orbitals are pretty much stuck in
+their tetrahedral structure.
+et les orbitales sp3 sont à peu près coincées dans
+leur structure tétraédrique.
+
+Well, if a molecule is going to be at its
+lowest energy state by forming a double bond,
+Eh bien, si une molécule va être à son
+état d'énergie le plus bas en formant une double liaison,
+
+it has a nice simple solution.
+elle a une belle solution simple.
+
+It only hybridizes 2 p orbitals with the s
+orbital, forming 3 sp2 hybridized orbitals
+Il n'hybride que 2 orbitales p avec l'
+orbitale s, formant 3 orbitales hybrides sp2
+
+with an unhybridized p orbital sticking up
+from the center.
+avec une orbitale p non hybridée sortant
+du centre.
+
+Tie balloons together like that, and you get
+what we call a trigonal plane.
+Attachez des ballons ensemble comme ça, et vous obtenez
+ce que nous appelons un plan trigone.
+
+Each sp2 orbital is 120° away from the other,
+drawing a line straight through their centers,
+Chaque orbitale sp2 est à 120° de l'autre, en
+traçant une ligne droite passant par leurs centres,
+
+and you get an equilateral triangle.
+et vous obtenez un triangle équilatéral.
+
+One of the 2 bonds in the double bond has sp2 orbitals merging together nicely in line with the nuclei.
+L'une des 2 liaisons de la double liaison a des orbitales sp2 fusionnant bien en ligne avec les noyaux.
+
+This straightforward sort of bond is called
+a sigma bond.
+Ce type de liaison simple est appelé
+une liaison sigma.
+
+A second and weirder bond forms,
+Une deuxième liaison plus étrange se forme,
+
+this one from the unhybridized p orbital sticking
+out above and below the nucleus.
+celle-ci à partir de l'orbitale p non
+hybridée dépassant au-dessus et au-dessous du noyau.
+
+These atoms merge to form a pi bond.
+Ces atomes fusionnent pour former une liaison pi.
+
+That's your nice symmetrical double bond that
+you see in molecules like ethylene.
+C'est votre belle double liaison symétrique que
+vous voyez dans des molécules comme l'éthylène.
+
+And, yes, sp orbitals, where the s only hybridizes with one p orbital, are also all over the place.
+Et, oui, les orbitales sp, où le s ne s'hybride qu'avec une orbitale p, sont également partout.
+
+These occur when an atom is either triple bonded to another atom or is double bonded to 2 atoms.
+Celles-ci se produisent lorsqu'un atome est soit triplement lié à un autre atome, soit doublement lié à 2 atomes.
+
+The sp orbital, the one that forms the sigma
+bonds here, is linear.
+L'orbitale sp, celle qui forme
+ici les liaisons sigma, est linéaire.
+
+There are just 2 of them, balloons, easy,
+see? Straight line.
+Il n'y en a que 2, des ballons, facile,
+tu vois ?  Ligne droite. 
+
+The trick is to have those 2 unhybridized
+p orbitals that can engage in 2 pi bonds,
+L'astuce consiste à avoir ces 2
+orbitales p non hybridées qui peuvent s'engager dans 2 liaisons pi,
+
+either to form a single triple bond or to
+form 2 double bonds like in carbon dioxide.
+soit pour former une simple triple liaison, soit pour
+former 2 doubles liaisons comme dans le dioxyde de carbone.
+
+Carbon dioxide's orbital structure is actually really cool, so let's take a look at it as an example.
+La structure orbitale du dioxyde de carbone est en fait vraiment cool, alors regardons-la comme exemple.
+
+The carbon is going to have 2 double bonds,
+Le carbone va avoir 2 doubles liaisons
+
+so it has to have 2 un-hybridized p orbitals
+and one sp hybridized orbital.
+, il doit donc avoir 2 orbitales p non hybridées
+et une orbitale sp hybridée.
+
+The oxygens are going to have one double bond,
+Les oxygènes vont avoir une double liaison
+
+so they need to set up as sp2 hybridized with one un-hybridized p orbital, for the double bonding.
+, ils doivent donc s'installer comme sp2 hybride avec une orbitale p non hybridée, pour la double liaison.
+
+As they come together for the bond, the sigma
+bonds will occur between the hybridized orbitals.
+Au fur et à mesure qu'ils se rejoignent pour la liaison, les
+liaisons sigma se produiront entre les orbitales hybridées.
+
+Very simple.
+Très simple. 
+
+One oxygen will line up to form a pi bond with the vertically oriented p orbital from the carbon
+Un oxygène s'alignera pour former une liaison pi avec l'orbitale p orientée verticalement à partir du carbone
+
+and the other will line up with the horizontally
+oriented one.
+et l'autre s'alignera avec
+celle orientée horizontalement.
+
+There you have it.
+Bond, bond, bond, bond.
+Voilà. 
+Lien, lien, lien, lien.
+
+But, of course, as will always be the case in your unrelenting search for more knowledge, there is yet more to learn.
+Mais, bien sûr, comme ce sera toujours le cas dans votre recherche incessante de plus de connaissances, il y a encore plus à apprendre.
+
+d and f orbitals can hybridize with sp hybridized
+orbitals
+Les orbitales d et f peuvent s'hybrider avec des orbitales hybrides sp
+
+and with each other, forming some gorgeously
+peculiar geometries,
+et entre elles, formant des
+géométries magnifiquement particulières,
+
+and when 2 d orbitals hybridize with sp3 orbitals,
+you get d2sp3, an octahedral structure,
+et lorsque les orbitales 2d s'hybrident avec des orbitales sp3,
+vous obtenez d2sp3, une structure octaédrique,
+
+which those of you who play role playing games
+will recognize as an 8-sided die.
+que ceux d'entre vous qui jouent à des jeux de rôle
+reconnaîtront  comme un dé à 8 faces.
+
+These orbital configurations determine the
+shape of molecules,
+Ces configurations orbitales déterminent la
+forme des molécules,
+
+and the shape of molecules determines how they behave, what forms they take, what properties they have.
+et la forme des molécules détermine leur comportement, les formes qu'elles prennent, les propriétés qu'elles possèdent.
+
+It's pretty dang amazing, really, that wave functions determining the probable locations of electrons keep water bent,
+C'est assez incroyable, vraiment, que les fonctions d'onde déterminant les emplacements probables des électrons maintiennent l'eau pliée,
+
+and thus polar, and thus able to dissolve
+nutrients and form a stable home for ourselves
+et donc polaire, et donc capable de dissoudre les
+nutriments et de former une maison stable pour nous-mêmes
+
+so that we can walk around as weird bags of
+mostly water thinking about stuff,
+afin que nous puissions nous promener comme des sacs étranges de
+pensée principalement de l'eau  sur des choses,
+
+making YouTube videos, trying to learn more about the world, or maybe just trying to pass a test.
+faire des vidéos YouTube, essayer d'en savoir plus sur le monde, ou peut-être simplement essayer de passer un test.
+
+Thanks for watching this episode of Crash
+Course Chemistry.
+Merci d'avoir regardé cet épisode de Crash
+Course Chemistry.
+
+If you were paying attention today, you learned that molecules are clumpy globs of probable electron locations
+Si vous faisiez attention aujourd'hui, vous avez appris que les molécules sont des globules agglomérés d'emplacements probables d'électrons
+
+determined by wave functions that are a bit more complicated than waves on a telephone cord,
+déterminés par des fonctions d'onde qui sont un peu plus compliquées que les ondes sur un cordon téléphonique,
+
+that water is an asymmetrical molecule because
+of oxygen's sp3 hybridized orbitals forcing
+que l'eau est une molécule asymétrique à cause
+des orbitales hybrides sp3 de l'oxygène forçant
+
+the electrons into a tetrahedral structure,
+les électrons  dans une structure tétraédrique,
+
+and that s and p orbitals can also hybridize
+other ways as sp2 or sp
+et que les orbitales s et p peuvent également s'hybrider d'
+autres manières que sp2 ou sp
+
+and how those hybridizations allow for double and triple bonds using both sigma and pi bond types.
+et comment ces hybridations permettent des doubles et triples liaisons en utilisant à la fois les types de liaison sigma et pi.
+
+Finally, you learned that d orbitals can get
+involved too,
+Enfin, vous avez appris que les orbitales d peuvent également être
+impliquées,
+
+allowing for hybridizations that form even
+cooler 3-dimensional shapes.
+permettant des hybridations qui forment
+des formes tridimensionnelles encore plus cool.
+
+This episode of Crash Course Chemistry was
+written by me and edited by Blake de Pastino,
+Cet épisode de Crash Course Chemistry a été
+écrit par moi et édité par Blake de Pastino,
+
+and our chemistry consultants are Dr. Heiko
+Langner and Edi Gonzales.
+et nos consultants en chimie sont le Dr Heiko
+Langner et Edi Gonzales.
+
+It was filmed, edited, and directed by Nicholas
+Jenkins.
+Il a été filmé, monté et réalisé par Nicholas
+Jenkins.
+
+Our sound designer is Michael Aranda, and
+our graphics team is Thought Café.
+Notre concepteur sonore est Michael Aranda et
+notre équipe graphique est Thought Café.
+

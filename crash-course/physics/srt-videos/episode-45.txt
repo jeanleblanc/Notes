@@ -1,0 +1,739 @@
+E=mc^2
+E=mc^2
+
+You hear it all the time.
+Vous l'entendez tout le temps.
+
+But what does it mean?
+Mais qu'est-ce que ça veut dire? 
+
+During his study of special relativity, Albert
+Einstein found that mass and energy are equivalent,
+Au cours de son étude de la relativité restreinte, Albert
+Einstein a découvert que la masse et l'énergie sont équivalentes
+
+and that they can be converted back and forth
+between one another.
+et qu'elles peuvent être converties dans les
+deux sens.
+
+He described that relationship mathematically,
+saying that the energy of a particle is equal
+Il a décrit cette relation mathématiquement, en
+disant que l'énergie d'une particule est égale
+
+to its mass, times the speed of light squared.
+à sa masse, multipliée par la vitesse de la lumière au carré.
+
+This mass-energy equivalence is critical to
+the study of nuclear physics – the study
+Cette équivalence masse-énergie est essentielle à
+l'étude de la physique nucléaire - l'étude
+
+of the atomic nucleus.
+du noyau atomique.
+
+This is a branch of physics that introduces
+you to two of the four fundamental forces.
+Il s'agit d'une branche de la physique qui
+vous présente deux des quatre forces fondamentales.
+
+One in which an element can turn into an entirely
+different element, in just an instant.
+Celui dans lequel un élément peut se transformer en un
+élément entièrement différent, en un instant.
+
+And one that has allowed us to unleash the
+incredible energy that’s contained inside
+Et celui qui nous a permis de libérer l'
+incroyable énergie contenue dans
+
+every atom.
+chaque atome.
+
+[Theme Music]
+[Musique du thème]
+
+Before we can dive into the wonders of nuclear
+physics, we need to recall a little bit about
+Avant de pouvoir plonger dans les merveilles de la
+physique nucléaire, nous devons nous rappeler un
+
+the thing that makes it all tick: the nucleus!
+peu ce qui fait tout fonctionner : le noyau !
+
+The nucleus of any atom consists of protons
+and neutrons.
+Le noyau de tout atome est constitué de protons
+et de neutrons.
+
+The proton is positively charged, while the
+neutron is electrically neutral, and both
+Le proton est chargé positivement, tandis que le
+neutron est électriquement neutre, et les deux
+
+particles have nearly the same mass.
+particules ont presque la même masse.
+
+With the exception of hydrogen, which only
+has a single proton in its nucleus, every
+À l'exception de l'hydrogène, qui
+n'a qu'un seul proton dans son noyau, chaque
+
+element has both protons and neutrons.
+élément possède à la fois des protons et des neutrons.
+
+Because of this, we’ll often refer the two
+particles collectively as nucleons.
+Pour cette raison, nous désignerons souvent les deux
+particules collectivement comme des nucléons.
+
+We can describe how many protons and neutrons
+are in an atom’s nucleus using its atomic
+Nous pouvons décrire le nombre de protons et de
+neutrons dans le noyau d'un atome en utilisant ses
+
+and mass numbers.
+numéros atomiques et de masse.
+
+An atomic number is how many protons are in
+a nucleus, which also determines what element
+Un numéro atomique est le nombre de protons dans
+un noyau, ce qui détermine également de quel élément
+
+the atom consists of.
+l'atome est constitué.
+
+The mass number, meanwhile, is how many protons
+and neutrons combined make up a nucleus.
+Le nombre de masse, quant à lui, est le nombre de protons
+et de neutrons combinés qui composent un noyau.
+
+So if there are 6 protons and 6 neutrons in
+a nucleus, then its atomic number would be
+Donc s'il y a 6 protons et 6 neutrons dans
+un noyau, alors son numéro atomique serait
+
+6, making it a carbon nucleus, and the mass
+number would be 6+6, or 12!
+6, ce qui en fait un noyau de carbone, et le
+nombre de masse serait 6+6, ou 12 !
+
+And if there were 6 protons and 8 neutrons,
+then it would still be a carbon nucleus, but
+Et s'il y avait 6 protons et 8 neutrons,
+alors ce serait toujours un noyau de carbone, mais
+
+with a mass number of 14.
+avec un nombre de masse de 14.
+
+Let’s put these carbon nuclei in nuclear
+notation to better show the differences between them.
+Mettons ces noyaux de carbone en
+notation nucléaire pour mieux montrer les différences entre eux.
+
+First, we start with the chemical symbol for
+the nucleus, which is determined by its atomic number.
+Tout d'abord, nous commençons par le symbole chimique
+du noyau, qui est déterminé par son numéro atomique.
+
+Then on the bottom left of the chemical symbol,
+we write the atomic number, which will be
+Ensuite, en bas à gauche du symbole chimique,
+nous écrivons le numéro atomique, qui sera
+
+the same for both Carbon nuclei, 6.
+le même pour les deux noyaux de carbone, 6.
+
+Finally, we write the mass number on the top
+left, to signify how many protons and neutrons
+Enfin, nous écrivons le nombre de masse en haut à
+gauche, pour signifier combien de protons et de neutrons
+
+there are in the nucleus.
+il y a dans  le noyau. 
+
+So for our carbon atom with six neutrons,
+we’d take the Carbon chemical symbol, a
+Donc, pour notre atome de carbone à six neutrons,
+nous prendrions le symbole chimique Carbone, un
+
+capital C, and write the atomic number, 6,
+in the bottom left and the mass number, 12,
+C majuscule, et écrirons le numéro atomique, 6,
+en bas à gauche et le nombre de masse, 12,
+
+in the top left.
+en haut à gauche.
+
+For the atom with two extra neutrons, the
+upper left mass number becomes 14.
+Pour l'atome avec deux neutrons supplémentaires, le
+nombre de masse en haut à gauche devient
+
+Any two nuclei that have the same atomic number
+but different mass numbers are known as isotopes,
+14. Deux noyaux ayant le même numéro atomique
+mais des nombres de masse différents sont appelés isotopes, la
+
+with most elements having one isotope that
+is more common than the others.
+plupart des éléments ayant un
+isotope plus commun que les autres.
+
+For instance, 99% of the carbon on Earth is
+Carbon-12, carbon with a mass number of 12.
+Par exemple, 99 % du carbone sur Terre est du
+carbone 12, du carbone avec un nombre de masse de 12.
+
+Only a tiny fraction of all carbon on earth
+is Carbon-14, since carbon is most stable
+Seule une infime fraction de tout le carbone sur terre
+est du carbone 14, car le carbone est plus stable
+
+when the number of protons equals the number
+of neutrons.
+lorsque le nombre de protons est égal au nombre
+de neutrons.
+
+It’s important to know the masses of different
+nuclei, since nuclear interactions are all
+Il est important de connaître les masses des différents
+noyaux, car les interactions nucléaires
+
+about mass-energy conversion.
+concernent uniquement la conversion masse-énergie.
+
+To quantify the mass of a nucleus, we use
+the unified atomic mass unit, written just
+Pour quantifier la masse d'un noyau, nous utilisons
+l'unité de masse atomique unifiée, écrite simplement
+
+as a small u, with a single neutral carbon-12
+atom equaling exactly twelve unified atomic mass units.
+comme un petit u, avec un seul atome neutre de carbone 12
+équivalant exactement à douze unités de masse atomique unifiées.
+
+This means that one unified atomic mass unit
+is equal to 1.6605 times 10^-27 kilograms.
+Cela signifie qu'une unité de masse atomique unifiée
+est égale à 1,6605 fois 10^-27 kilogrammes.
+
+Okay, now that we have a notation for describing
+elements and their isotopes, we can talk about
+Bon, maintenant que nous avons une notation pour décrire les
+éléments et leurs isotopes, nous pouvons parler de
+
+the energy associated with a nucleus and its
+bonds.
+l'énergie associée à un noyau et à ses
+liaisons.
+
+The first thing you should know is that the
+total mass of a stable nucleus is always less
+La première chose que vous devez savoir est que la
+masse totale d'un noyau stable est toujours inférieure
+
+than the total mass of the individual protons
+and neutrons put together.
+à la masse totale des protons
+et neutrons individuels réunis.
+
+For instance, the mass of a neutral helium
+atom is 4.002603 unified atomic mass units.
+Par exemple, la masse d'un
+atome d'hélium neutre est de 4,002603 unités de masse atomique unifiée.
+
+But two neutrons and two protons – the component
+parts of a helium atom – taken together
+Mais deux neutrons et deux protons - les
+composants d'un atome d'hélium - pris ensemble
+
+have a mass of 4.032980 unified atomic mass
+units.
+ont une masse de 4,032980 unités de masse atomique unifiée
+.
+
+That means that the nucleus of a helium atom
+has 0.030377 unified atomic mass units less
+Cela signifie que le noyau d'un atome d'hélium
+a 0,030377 unités de masse atomique unifiée de moins
+
+mass than its component parts.
+que ses composants.
+
+How can that be?
+Comment est-ce possible ?
+
+Well, that difference in mass is equal to
+an amount of energy, specifically the total
+Eh bien, cette différence de masse est égale à
+une quantité d'énergie, en particulier l'
+
+binding energy of the nucleus.
+énergie de liaison totale du noyau.
+
+That binding energy is how much energy you
+would have to add to the helium atom in order
+Cette énergie de liaison est la quantité d'énergie qu'il
+faudrait ajouter à l'atome d'hélium
+
+to break it apart its nucleus.
+pour le briser en son noyau.
+
+The amount of energy required to break up
+a nucleus into its component particles gets
+La quantité d'énergie nécessaire pour briser
+un noyau en ses particules constitutives
+
+larger as the atomic number increases, with
+iron having one of the highest binding energies
+augmente à mesure que le numéro atomique augmente, le
+fer ayant l'une des énergies de liaison les plus élevées
+
+per nucleon.
+par nucléon.
+
+But while the total binding energy still increases
+for nuclei larger than iron, the binding energy
+Mais alors que l'énergie de liaison totale augmente encore
+pour les noyaux plus grands que le fer, l'énergie de liaison
+
+per nucleon, in fact, decreases.
+par nucléon, en fait, diminue.
+
+This means that very large nuclei are not
+held together as strongly as small nuclei.
+Cela signifie que les très gros noyaux ne sont pas
+maintenus ensemble aussi fortement que les petits noyaux.
+
+And since binding energy accounts for the
+missing mass, you can calculate it using – you
+Et puisque l'énergie de liaison représente la
+masse manquante, vous pouvez la calculer en utilisant - vous l'avez
+
+guessed it! – e equals m c squared.
+deviné !  – e est égal à m c au carré.
+
+Now, you might be wondering how a nucleus
+is held together in the first place.
+Maintenant, vous vous demandez peut-être comment un noyau
+est maintenu ensemble en premier lieu.
+
+You’ve got neutral neutrons that have no
+problem getting close to one another, but
+Vous avez des neutrons neutres qui n'ont aucun
+problème à se rapprocher les uns des autres, mais
+
+what about all the positive protons? Shouldn’t
+the repulsive electric force keep them apart?
+qu'en est-il de tous les protons positifs ?  La force électrique répulsive ne devrait-elle pas
+les séparer ?
+
+Well, one of the four fundamental forces of
+physics is the strong nuclear force, an attractive
+Eh bien, l'une des quatre forces fondamentales de la
+physique est la force nucléaire forte, une
+
+force that acts between protons and neutrons
+in a nucleus.
+force attractive qui agit entre les protons et les neutrons
+dans un noyau.
+
+This strong force is substantial enough to
+overcome the repulsive force between protons,
+Cette force forte est suffisamment importante pour
+vaincre la force répulsive entre protons,
+
+but it only acts over very small distances,
+while the electric force acts over longer distances.
+mais elle n'agit que sur de très petites distances,
+tandis que la force électrique agit sur de plus longues distances.
+
+Since the strong force only works across such
+tiny distances, larger atoms with high atomic
+Étant donné que la force forte ne fonctionne que sur de si
+petites distances, les atomes plus gros avec des
+
+numbers actually require additional neutrons
+to overcome the electromagnetic force and
+numéros atomiques élevés nécessitent en fait des neutrons supplémentaires
+pour surmonter la force électromagnétique et
+
+maintain stability within the nuclei.
+maintenir la stabilité dans les noyaux.
+
+Those extra neutrons are necessary for atoms
+with atomic numbers higher than thirty or
+Ces neutrons supplémentaires sont nécessaires pour les atomes
+dont le numéro atomique est supérieur à trente
+
+so, as you can see in this chart relating
+the number of neutrons to the number of protons
+environ, comme vous pouvez le voir dans ce tableau reliant
+le nombre de neutrons au nombre de protons
+
+in a stable atom.
+dans un atome stable.
+
+And when a nucleus is UNstable, it can break
+down into a more stable state.
+Et lorsqu'un noyau est instable, il peut se
+décomposer dans un état plus stable.
+
+This decay of unstable nuclei, accompanied
+by emission of energetic particles, is known
+Cette désintégration de noyaux instables, accompagnée
+d'émission de particules énergétiques, est connue
+
+as radioactivity.
+sous le nom de radioactivité.
+
+Natural radioactivity was first discovered
+by Henri Becquerel, who observed how a chunk
+La radioactivité naturelle a été découverte pour la première fois
+par Henri Becquerel, qui a observé comment un morceau
+
+of mineral that contained uranium affected
+a photographic plate that was covered up by paper.
+de minéral contenant de l'uranium affectait
+une plaque photographique recouverte de papier.
+
+Even though the paper was blocking out visible
+light, the radiation from the uranium penetrated
+Même si le papier bloquait la
+lumière visible, le rayonnement de l'uranium pénétrait
+
+the paper and left its mark on the plate.
+le papier et laissait sa marque sur la plaque.
+
+Later scientists studied such decays and categorized
+the emitted rays or particles into three different
+Plus tard, les scientifiques ont étudié ces désintégrations et ont classé
+les rayons ou particules émis en trois
+
+groups, based on their penetrating power.
+groupes différents, en fonction de leur pouvoir de pénétration.
+
+First, there’s alpha decay, which is released
+when an unstable nucleus loses two protons
+Premièrement, il y a la désintégration alpha, qui est libérée
+lorsqu'un noyau instable perd deux protons
+
+and two neutrons, becoming a different element
+in the process.
+et deux neutrons, devenant un élément différent
+dans le processus.
+
+In alpha decay, there’s a parent nucleus
+– which is the original, unstable nucleus
+Dans la désintégration alpha, il y a un noyau parent
+- qui est le noyau original et instable
+
+– and it decays into a daughter nucleus
+and an alpha particle, which is actually just
+- et il se désintègre en un noyau fille
+et une particule alpha, qui n'est en fait que
+
+the nucleus of a Helium atom.
+le noyau d'un atome d'hélium.
+
+This decay occurs because the parent nucleus
+is too large, and the strong force is no longer
+Cette désintégration se produit parce que le noyau parent
+est trop gros et que la force forte n'est plus
+
+sufficient to hold all the nucleons together.
+suffisante pour maintenir tous les nucléons ensemble.
+
+For example, if the parent nucleus is radium,
+it would decay into radon and emit a single
+Par exemple, si le noyau parent est le radium,
+il se désintégrerait en radon et émettrait une seule
+
+alpha particle.
+particule alpha.
+
+The process of the nucleus changing from one
+element to another is known as transmutation.
+Le processus par lequel le noyau passe d'un
+élément à un autre est appelé transmutation.
+
+Note that the atomic number of radon is just
+two units less than that of radium, and the
+Notez que le numéro atomique du radon n'est que de
+deux unités inférieur à celui du radium et que le
+
+mass number is four less than radium’s.
+nombre de masse est inférieur de quatre à celui du radium.
+
+In alpha decays, the sum of the atomic and
+mass numbers are always equal on either side
+Dans les désintégrations alpha, la somme des nombres atomiques et de
+masse est toujours égale de chaque côté
+
+of the equation.
+de l'équation.
+
+But even though those numbers of nucleons
+add up, remember: Mass and energy are equivalent.
+Mais même si ces nombres de nucléons
+s'additionnent, rappelez-vous : la masse et l'énergie sont équivalentes.
+
+So the products of this reaction always have
+less total mass – as measured in unified
+Ainsi, les produits de cette réaction ont toujours
+une masse totale - mesurée en
+
+atomic mass units – than the parent nucleus
+has.
+unités de masse atomique unifiée - inférieure à celle du noyau parent
+.
+
+The rest of mass turned into kinetic energy,
+and the kinetic energy released in nuclear
+Le reste de la masse s'est transformé en énergie cinétique,
+et l'énergie cinétique libérée dans les
+
+reactions is what’s used to generate nuclear
+power!
+réactions nucléaires est ce qui est utilisé pour générer de l'
+énergie nucléaire !
+
+But alpha particles have the least penetrating
+power of the three groups – they’re barely
+Mais les particules alpha ont le pouvoir de pénétration le moins élevé
+des trois groupes - elles sont à peine
+
+able to pass through a piece of paper.
+capables de traverser un morceau de papier.
+
+The second type of decay that can occur is
+beta decay, when an unstable nucleus emits
+Le deuxième type de désintégration qui peut se produire est
+la désintégration bêta, lorsqu'un noyau instable émet
+
+a beta particle, which is just an electron.
+une particule bêta, qui n'est qu'un électron.
+
+You’ll see that whenever an electron is
+produced, so is a neutrino.
+Vous verrez que chaque fois qu'un électron est
+produit, un neutrino l'est aussi.
+
+A neutrino is a particle with a very small
+mass that is electrically neutral.
+Un neutrino est une particule de très petite
+masse électriquement neutre.
+
+Its existence is inferred from the conservation
+of energy.
+Son existence est déduite de la conservation
+de l'énergie.
+
+For example, when a nucleus at rest decays
+into two fragments, it should give each fragment
+Par exemple, lorsqu'un noyau au repos se désintègre
+en deux fragments, il doit donner à chaque fragment
+
+the same amount of momentum.
+la même quantité de mouvement.
+
+If the nucleus decayed into the daughter nucleus
+and an electron, the electron would always
+Si le noyau se désintégrait en noyau fille
+et en un électron, l'électron aurait toujours
+
+have the same momentum, and the same energy.
+la même quantité de mouvement et la même énergie.
+
+But electrons from beta decay have been found
+to have energies that vary greatly.
+Mais les électrons issus de la désintégration bêta
+ont des énergies très variables.
+
+This suggests that a third particle must be
+carrying away the rest of energy.
+Cela suggère qu'une troisième particule doit
+emporter le reste de l'énergie.
+
+And experiments have confirmed that these
+tiny, neutral neutrinos are responsible for
+Et des expériences ont confirmé que ces
+minuscules neutrinos neutres sont responsables de
+
+that missing energy.
+cette énergie manquante.
+
+Now, a unique part of beta decay is that no
+nucleons are emitted during the decay process.
+Maintenant, une partie unique de la désintégration bêta est qu'aucun
+nucléon n'est émis pendant le processus de désintégration.
+
+Instead, one of the neutrons changes into
+a proton.
+Au lieu de cela, l'un des neutrons se transforme
+en proton.
+
+And to compensate for the change in charge,
+the neutron emits an electron.
+Et pour compenser le changement de charge,
+le neutron émet un électron.
+
+And although these electrons come from nuclear
+decay, they’re the same kind of electrons
+Et bien que ces électrons proviennent de la
+désintégration nucléaire, ce sont les mêmes types d'électrons
+
+that orbit a standard nucleus.
+qui orbitent autour d'un noyau standard.
+
+Once the neutron changes into a proton, the
+nucleus changes from one element to another,
+Une fois que le neutron se transforme en proton, le
+noyau passe d'un élément à un autre,
+
+again an instance of transmutation.
+encore une fois un exemple de transmutation.
+
+And beta decay is caused by the fourth fundamental
+force, the weak force.
+Et la désintégration bêta est causée par la quatrième
+force fondamentale, la force faible.
+
+While the strong force acts on nucleons, the
+weak force alters quarks, the fundamental
+Alors que la force forte agit sur les nucléons, la
+force faible modifie les quarks, les
+
+particles that make up both protons and neutrons.
+particules fondamentales qui composent à la fois les protons et les neutrons.
+
+By converting quarks of one type into another,
+the weak force causes the neutron to turn
+En convertissant les quarks d'un type en un autre,
+la force faible transforme le neutron
+
+into a proton.
+en proton.
+
+As for their penetrating power, beta particles
+are typically stopped by a few millimeters
+Quant à leur pouvoir pénétrant, les particules bêta
+sont typiquement arrêtées par quelques millimètres
+
+of aluminum.
+d'aluminium.
+
+The third kind of decay is gamma decay, which
+is what results when a nucleus emits high-powered
+Le troisième type de désintégration est la désintégration gamma, qui
+se produit lorsqu'un noyau émet des
+
+photons, in what are known as gamma rays.
+photons de haute puissance, appelés rayons gamma.
+
+This kind of decay usually occurs when a nucleus
+is in an excited state, which can happen because
+Ce type de désintégration se produit généralement lorsqu'un noyau
+est dans un état excité, ce qui peut se produire parce que
+
+the nucleus is decaying from a larger form,
+or because it collided with a high-energy
+le noyau se désintègre à partir d'une forme plus grande
+ou parce qu'il est entré en collision avec une particule à haute énergie
+
+particle, among other reasons.
+, entre autres raisons.
+
+But the point is, when a nucleus is excited,
+it wants to transition to a lower-energy state,
+Mais le fait est que lorsqu'un noyau est excité,
+il veut passer à un état d'énergie inférieure,
+
+which it can do by releasing a photon.
+ce qu'il peut faire en libérant un photon.
+
+Unlike alpha and beta decay, no transmutation
+occurs in gamma decay.
+Contrairement à la désintégration alpha et bêta, aucune transmutation ne
+se produit dans la désintégration gamma.
+
+Instead, the excited nucleus just decays into
+a ground state nucleus and a gamma ray.
+Au lieu de cela, le noyau excité se désintègre simplement en
+un noyau à l'état fondamental et un rayon gamma.
+
+Gamma rays have the highest penetrating power,
+requiring large amount of concrete or lead
+Les rayons gamma ont le pouvoir de pénétration le plus élevé,
+nécessitant une grande quantité de béton ou de plomb
+
+to stop their propagation.
+pour arrêter leur propagation.
+
+And there’s so much more we could talk about
+if we had the time! Half-lives, radiocarbon
+Et il y a tellement plus de choses dont nous pourrions parler
+si nous avions le temps !  Les demi-vies, la
+
+dating, the basics of nuclear power, just
+to name a few.
+datation au radiocarbone, les bases de l'énergie nucléaire,
+pour n'en nommer que quelques-uns.
+
+But, e=mc squared – now at least you know
+what it means, and how such tiny objects as
+Mais, e = mc au carré - maintenant au moins vous savez
+ce que cela signifie, et comment des objets aussi minuscules que les
+
+atoms can release such enormous power.
+atomes peuvent libérer une puissance aussi énorme.
+
+That’s worth 10 minutes of your time, right?
+Cela vaut bien 10 minutes de votre temps, n'est-ce pas ?
+
+Today we learned the very basics of nuclear
+physics, including atomic number, mass number,
+Aujourd'hui, nous avons appris les bases mêmes de la
+physique nucléaire, y compris le numéro atomique, le nombre de masse
+
+and how to use them in nuclear notation.
+et comment les utiliser dans la notation nucléaire.
+
+We also discussing binding energy and mass-energy
+equivalence, as well as the strong and weak
+Nous discutons également de l'énergie de liaison et de l'équivalence masse-énergie
+, ainsi que des forces nucléaires fortes et faibles
+
+nuclear forces.
+.
+
+Finally, we discussed the three major types
+of radioactive decay: alpha, beta, and gamma.
+Enfin, nous avons discuté des trois principaux types
+de désintégration radioactive : alpha, bêta et gamma.
+
+Crash Course Physics is produced in association
+with PBS Digital Studios.
+Crash Course Physics est produit en association
+avec PBS Digital Studios.
+
+You can head over to their channel to check
+out a playlist of the latest amazing shows like:
+Vous pouvez vous rendre sur leur chaîne pour
+consulter une liste de lecture des dernières émissions incroyables telles que :
+
+Gross Science, Coma Niddy, and Blank on Blank.
+Gross Science, Coma Niddy et Blank on Blank.
+
+This episode of Crash Course was filmed in
+the Doctor Cheryl C. Kinney Crash Course Studio
+Cet épisode de Crash Course a été filmé dans
+le studio Doctor Cheryl C. Kinney Crash Course
+
+with the help of these amazing people and
+our equally amazing graphics team, is Thought Cafe.
+avec l'aide de ces personnes incroyables et de
+notre équipe graphique tout aussi incroyable, Thought Cafe.
+

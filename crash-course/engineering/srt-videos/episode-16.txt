@@ -1,0 +1,597 @@
+We live in a dynamic world that’s always
+moving.
+Nous vivons dans un monde dynamique qui est toujours en
+mouvement.
+
+Nothing would get done if everything stayed
+still.
+Rien ne serait fait si tout restait
+immobile.
+
+It’s this very movement that gives us life,
+that allows the blood to flow through our
+veins and gives action to our stories.
+C'est ce mouvement même qui nous donne la vie,
+qui permet au sang de couler dans nos
+veines et donne de l'action à nos histoires.
+
+But what does this mean to us as engineers?
+Mais qu'est-ce que cela signifie pour nous en tant qu'ingénieurs ?
+
+What’s really happening when things move?
+Que se passe-t-il vraiment quand les choses bougent ?
+
+Well, since pretty much everything has mass,
+most of the movement in our world is associated
+with mass transfer.
+Eh bien, puisque presque tout a une masse, la
+plupart des mouvements dans notre monde sont associés
+à un transfert de masse.
+
+It’s critical to our work, our lives, and
+something that we should learn more about.
+C'est essentiel pour notre travail, nos vies et
+quelque chose sur lequel nous devrions en savoir plus.
+
+[Theme Music]
+[Theme Music]
+
+We’ve talked a good deal about transfer
+so far.
+Nous avons beaucoup parlé de transfert
+jusqu'à présent.
+
+Whether it was momentum transfer,
+as we saw with moving fluids,
+Qu'il s'agisse d'un transfert d'impulsion,
+comme nous l'avons vu avec des fluides en mouvement,
+
+or heat transfer, like stepping out in the sun
+or touching a hot pan, we’ve seen how things
+move and change.
+ou d'un transfert de chaleur, comme sortir au soleil
+ou toucher une poêle chaude, nous avons vu comment les choses
+bougent et changent.
+
+But when people think of mass transfer, they often
+think of something pretty simple – the movement of
+an object, or fluid’s mass, from one place to another.
+Mais quand les gens pensent au transfert de masse, ils
+pensent souvent à quelque chose d'assez simple - le mouvement d'
+un objet, ou la masse d'un fluide, d'un endroit à un autre.
+
+But that’s not really what it is.
+Mais ce n'est pas vraiment ça.
+
+That’s more like bulk fluid movement, which
+we learned about in fluid mechanics.
+Cela ressemble plus à un mouvement de fluide en vrac, que
+nous avons appris en mécanique des fluides.
+
+No, what we mean by mass transfer is a bit
+more complicated.
+Non, ce que nous entendons par transfert de masse est un peu
+plus compliqué.
+
+Mass transfer is the movement of
+individual molecules and components
+within a larger mixture or substance.
+Le transfert de masse est le mouvement
+de molécules et de composants individuels
+au sein d'un mélange ou d'une substance plus large.
+
+So it deals with what makes up something
+like a stream of water rather than its bulk
+movement as a whole.
+Il traite donc de ce qui constitue quelque chose
+comme un courant d'eau plutôt que de son
+mouvement en vrac dans son ensemble.
+
+Now, because mass transfer works on this often
+microscopic scale, it has a lot to do with chemical
+separation and can literally be crucial to life itself.
+Maintenant, parce que le transfert de masse fonctionne à cette
+échelle souvent microscopique, il a beaucoup à voir avec la
+séparation chimique et peut littéralement être crucial pour la vie elle-même.
+
+To see what I mean, think of drug delivery.
+Pour voir ce que je veux dire, pensez à la livraison de médicaments.
+
+And no, I don’t mean like driving around
+a delivery truck of pharmaceuticals.
+Et non, je ne veux pas dire comme conduire
+un camion de livraison de produits pharmaceutiques.
+
+I’m talking about medicine moving within
+the body itself.
+Je parle de la médecine qui se déplace dans
+le corps lui-même.
+
+Medical treatment depends on medicine getting
+to the right place in your body.
+Le traitement médical dépend de l'acheminement des médicaments
+au bon endroit dans votre corps.
+
+It often needs to go through your mouth, to
+your stomach, and then into your bloodstream.
+Il doit souvent passer par votre bouche,
+votre estomac, puis votre circulation sanguine.
+
+Or maybe it needs to be injected into a certain
+location.
+Ou peut-être qu'il doit être injecté dans un certain
+endroit.
+
+But a drug might be less effective if it’s
+not taken correctly.
+Mais un médicament peut être moins efficace s'il n'est
+pas pris correctement.
+
+Sometimes it won't even work at all.
+Parfois, cela ne fonctionnera même pas du tout.
+
+For instance, people with Type 1 and often
+Type 2 diabetes have to take insulin by injection,
+in places like their arms or their stomachs.
+Par exemple, les personnes atteintes de diabète de type 1 et souvent de
+type 2 doivent prendre de l'insuline par injection,
+dans des endroits comme leurs bras ou leur estomac.
+
+Just swallowing insulin, in pill or liquid form,
+wouldn’t work, because it would break down in the
+patient’s stomach acid before it could do its job.
+Le simple fait d'avaler de l'insuline, sous forme de pilule ou de liquide
+, ne fonctionnerait pas, car elle se décomposerait dans l'
+acide gastrique du patient avant qu'elle ne puisse faire son travail.
+
+But let’s assume a certain medicine is taken
+correctly.
+Mais supposons qu'un certain médicament soit pris
+correctement.
+
+Then its individual molecules and medical
+compounds have to move through the fluids
+in your body to the right location.
+Ensuite, ses molécules individuelles et ses
+composés médicaux doivent se déplacer dans les fluides
+de votre corps jusqu'au bon endroit.
+
+There’s a lot more to consider than just
+that, but at its core, drug delivery is all
+about mass transfer.
+Il y a bien plus à considérer que
+cela, mais à la base, l'administration de médicaments est
+une question de transfert de masse.
+
+It’s about how one type of chemical moves
+through other chemicals to get where it needs
+to go in a mixture.
+Il s'agit de la façon dont un type de produit chimique se déplace à
+travers d'autres produits chimiques pour arriver là où il
+doit aller dans un mélange.
+
+So how does that mass get transferred?
+Alors, comment cette masse est-elle transférée ?
+
+Well, it needs a driving force.
+Eh bien, il a besoin d'une force motrice.
+
+We learned that for momentum transfer, the
+driving force was a difference in velocity.
+Nous avons appris que pour le transfert de quantité de mouvement, la
+force motrice était une différence de vitesse.
+
+For heat transfer, it was a difference in
+temperature.
+Pour le transfert de chaleur, c'était une différence de
+température.
+
+For mass transfer, the driving force is a
+little more complex.
+Pour le transfert de masse, la force motrice est un
+peu plus complexe.
+
+Let’s think back to thermodynamics.
+Revenons à la thermodynamique.
+
+We said that everything was always trying
+to reach thermal equilibrium, or a balance
+of temperatures.
+Nous avons dit que tout essayait toujours
+d'atteindre un équilibre thermique, ou un équilibre
+des températures.
+
+That’s why temperature differences drive
+heat transfer.
+C'est pourquoi les différences de température entraînent
+le transfert de chaleur.
+
+For mass transfer, we’re still trying to
+reach an equilibrium, but this time it’s
+a chemical equilibrium.
+Pour le transfert de masse, nous essayons toujours d'
+atteindre un équilibre, mais cette fois c'est
+un équilibre chimique.
+
+Chemical equilibrium can be explained in terms like
+chemical potential and fugacity, but those are pretty
+abstract concepts and difficult to directly measure.
+L'équilibre chimique peut être expliqué en termes de
+potentiel chimique et de fugacité, mais ce sont
+des concepts assez abstraits et difficiles à mesurer directement.
+
+Which, we as engineers, need to do.
+Ce que nous, en tant qu'ingénieurs, devons faire.
+
+So for our purposes, a better way to explain
+chemical equilibrium is to approximate it
+in terms of concentration.
+Donc, pour nos besoins, une meilleure façon d'expliquer
+l'équilibre chimique est de l'approximer
+en termes de concentration.
+
+Simply put, concentration is how much there
+is of something in a certain amount of space,
+or volume.
+En termes simples, la concentration est la
+quantité de quelque chose dans une certaine quantité d'espace
+ou de volume.
+
+Here, we’ll look at concentration related
+to mass, so it will be mass per volume.
+Ici, nous allons examiner la concentration liée
+à la masse, donc ce sera la masse par volume.
+
+So for something to reach chemical equilibrium,
+it’s going to need to have the same concentration
+throughout.
+Donc, pour que quelque chose atteigne l'équilibre chimique,
+il va falloir qu'il ait la même concentration
+partout.
+
+That means that, when left alone, and not
+acted upon by another force,
+Cela signifie que, lorsqu'elles sont laissées seules et non
+sollicitées par une autre force, les
+
+particles won’t move from one location to
+another within a fluid or a substance if there isn’t
+a concentration difference within it.
+particules ne se déplaceront pas d'un endroit à
+un autre dans un fluide ou une substance s'il n'y a pas de
+différence de concentration en son sein.
+
+No concentration difference, no mass transfer.
+Pas de différence de concentration, pas de transfert de masse.
+
+If there is a difference, then the concentration will
+move from the higher concentration to the lower one.
+S'il y a une différence, la concentration
+passera de la concentration la plus élevée à la plus faible.
+
+But concentration isn’t just something we need
+to worry about for a substance or fluid on its own,
+but also when it mixes with something else.
+Mais la concentration n'est pas seulement quelque chose dont nous devons
+nous soucier pour une substance ou un fluide en soi,
+mais aussi lorsqu'il se mélange à autre chose.
+
+To keep things simple, let’s just talk about
+fluids for now.
+Pour simplifier les choses, parlons simplement des
+fluides pour le moment.
+
+Let’s also assume that the fluids are fully
+miscible, which means that they can be
+completely mixed together.
+Supposons également que les fluides sont entièrement
+miscibles, ce qui signifie qu'ils peuvent être
+complètement mélangés.
+
+So, when one fluid is put into the other one,
+we can view the combined fluids as a single
+mixture in terms of mass transfer.
+Ainsi, lorsqu'un fluide est mis dans l'autre,
+nous pouvons considérer les fluides combinés comme un seul
+mélange en termes de transfert de masse.
+
+That means that the fluids will mix together
+until the solution has the same concentration
+throughout it.
+Cela signifie que les fluides se mélangeront
+jusqu'à ce que la solution ait la même concentration
+dans son ensemble.
+
+Well, how do they do that?
+Eh bien, comment font-ils cela?
+
+One major way is through diffusion.
+L'un des principaux moyens est la diffusion.
+
+Diffusion is when the molecules of two or
+more things intermingle as they move from
+higher concentrations to lower ones.
+La diffusion se produit lorsque les molécules de deux ou
+plusieurs choses s'entremêlent lorsqu'elles passent de
+concentrations plus élevées à des concentrations plus faibles.
+
+To see what I mean, let’s use an example
+that you can do at home!
+Pour voir ce que je veux dire, prenons un exemple
+que vous pouvez faire chez vous !
+
+If you take a drop of red food coloring and
+mix it in with a glass of water,
+Si vous prenez une goutte de colorant alimentaire rouge et que vous la
+mélangez avec un verre d'eau,
+
+you’ll notice that the red color slowly
+spreads throughout the glass until the
+solution is the same color.
+vous remarquerez que la couleur rouge se
+répand lentement dans le verre jusqu'à ce que la
+solution soit de la même couleur.
+
+That’s diffusion!
+C'est la diffusion !
+
+And the more food coloring you add, the darker
+and redder the solution will be.
+Et plus vous ajoutez de colorant alimentaire,
+plus la solution sera foncée et rouge.
+
+No matter how much you add, it will eventually
+diffuse into one uniform color, given enough time.
+Peu importe la quantité que vous ajoutez, il finira par se
+diffuser en une seule couleur uniforme, avec suffisamment de temps.
+
+And how fast something diffuses can be very
+important as well.
+Et la vitesse à laquelle quelque chose se diffuse peut également être très
+importante.
+
+This especially comes into play when thinking
+about safety.
+Cela entre particulièrement en jeu lorsque l'on pense
+à la sécurité.
+
+For example, you’ll want to know how fast
+certain acidic or corrosive chemicals can
+move through your protective rubber gloves.
+Par exemple, vous voudrez savoir à quelle vitesse
+certains produits chimiques acides ou corrosifs peuvent se
+déplacer à travers vos gants de protection en caoutchouc.
+
+Or how fast chemicals can enter your body
+when you’re exposed to them.
+Ou à quelle vitesse les produits chimiques peuvent pénétrer dans votre corps
+lorsque vous y êtes exposé.
+
+Or how quickly they can diffuse through
+your skin or organs to reach vulnerable parts
+of your body.
+Ou à quelle vitesse ils peuvent se diffuser à travers
+votre peau ou vos organes pour atteindre les parties vulnérables
+de votre corps.
+
+That’s why whenever you work with hazardous
+chemicals, you protect yourself so that the rate
+of diffusion is as low as it can be.
+C'est pourquoi chaque fois que vous travaillez avec des produits
+chimiques dangereux, vous vous protégez afin que le taux
+de diffusion soit aussi faible que possible.
+
+What if you’re trying to produce a chemical
+for sale – or maybe just convert a toxic
+chemical into something safer –
+Que se passe-t-il si vous essayez de produire un produit chimique
+à vendre - ou peut-être simplement de convertir un produit
+chimique toxique en quelque chose de plus sûr -
+
+so you pass the raw material through a
+catalytic converter.
+afin que vous passiez la matière première à travers un
+convertisseur catalytique.
+
+Reactions will certainly occur on the surfaces
+of all the catalytic particles inside,
+Des réactions se produiront certainement sur les surfaces
+de toutes les particules catalytiques à l'intérieur,
+
+but how fast the molecules diffuse to the catalyst
+surfaces will affect how much product you get,
+and how fast the reaction will even occur!
+mais la vitesse à laquelle les molécules se diffusent sur les surfaces du catalyseur
+affectera la quantité de produit que vous obtiendrez
+et la vitesse à laquelle la réaction se produira même !
+
+Now, if we really want to be able to understand
+and quantify mass transfer, then we’re going to
+need to learn about Fick’s Law.
+Maintenant, si nous voulons vraiment être en mesure de comprendre
+et de quantifier le transfert de masse, nous allons
+devoir en apprendre davantage sur la loi de Fick.
+
+Fick’s Law states that there’s a drift,
+or movement, of particles from denser
+regions to ones that are less dense,
+La loi de Fick stipule qu'il y a une dérive,
+ou un mouvement, des particules des régions plus denses
+vers celles qui sont moins denses,
+
+or that they’re moving from a high
+concentration to a lower one.
+ou qu'elles passent d'une
+concentration élevée à une concentration plus faible.
+
+So, pretty much what we just learned.
+Donc, à peu près ce que nous venons d'apprendre.
+
+Fick’s Law defines the rate of this drift
+– the diffusion, or mass flux in our case,
+La loi de Fick définit le taux de cette dérive
+- la diffusion, ou le flux de masse dans notre cas,
+
+as proportional to the product of the
+thermophysical property – which is the diffusivity
+constant or coefficient –
+comme proportionnel au produit de la
+propriété thermophysique - qui est la
+constante ou le coefficient de diffusivité -
+
+and the driving force – which
+will be our concentration gradient.
+et la force motrice - qui
+sera notre gradient de concentration.
+
+The negative sign here shows us that the
+diffusion will occur in the direction opposite
+that of the increasing concentration,
+Le signe négatif nous indique ici que la
+diffusion se fera dans le sens opposé à
+celui de la concentration croissante,
+
+or from a higher concentration to a lesser one.
+ou d'une concentration plus élevée vers une plus faible.
+
+Now, D will either be called the diffusion
+constant or diffusion coefficient, depending
+on who you ask.
+Maintenant, D sera appelé soit la
+constante de diffusion, soit le coefficient de diffusion, selon la personne
+à qui vous demandez.
+
+But in all practicality, they mean the same
+thing.
+Mais en pratique, ils signifient la même
+chose.
+
+That’s a debate more of semantics than application.
+C'est plus un débat de sémantique que d'application.
+
+And the concentration gradient you’ll see
+here is the derivative of our concentration
+in the x direction.
+Et le gradient de concentration que vous verrez
+ici est la dérivée de notre concentration
+dans la direction x.
+
+If you're not familiar with derivatives, they’re
+basically rates of change.
+Si vous n'êtes pas familier avec les produits dérivés, ce sont
+essentiellement des taux de variation.
+
+What’s important to remember is that, while
+we’ve been focusing on the mass transfer of
+particles themselves moving,
+Ce qu'il est important de retenir, c'est que, même si
+nous nous concentrons sur le transfert de masse des
+particules elles-mêmes en mouvement,
+
+this movement is going to be making the
+overall mass of whatever the particles are in
+move as well.
+ce mouvement va également faire bouger la
+masse globale de toutes les particules en
+mouvement.
+
+So this small movement can lead to bigger,
+bulk movement.
+Ainsi, ce petit mouvement peut entraîner un mouvement plus important et plus
+massif.
+
+The tiny particles won’t be able to get their overall
+mass to move in certain obstructed directions, like
+getting water to move through the glass that it’s in,
+Les minuscules particules ne pourront pas
+faire bouger leur masse globale dans certaines directions obstruées, comme
+faire passer l'eau à travers le verre dans lequel elle se trouve,
+
+but they can cause bulk motion into more
+open directions, like the air above the water.
+mais elles peuvent provoquer un mouvement massif dans
+des directions plus ouvertes, comme l'air au-dessus de l'eau.
+
+In the end, when things are moving, there’s
+a lot more going on than just mass transfer.
+En fin de compte, lorsque les choses bougent, il se passe
+bien plus que de simples transferts de masse.
+
+But it does give us the basis to understand
+some of what’s going on.
+Mais cela nous donne la base pour comprendre une
+partie de ce qui se passe.
+
+Just because particles are small, don’t
+count them out.
+Ce n'est pas parce que les particules sont petites qu'il faut les
+compter.
+
+Get enough of them moving, and you can make
+a big change.
+Faites-en suffisamment bouger et vous pourrez faire
+un grand changement.
+
+Now that I’ve said that out loud, that actually
+sounds pretty inspirational.
+Maintenant que je l'ai dit à haute voix, cela
+semble en fait assez inspirant.
+
+So in today’s lesson, we learned all about
+mass transfer.
+Donc, dans la leçon d'aujourd'hui, nous avons tout appris sur
+le transfert de masse.
+
+We found out that it doesn’t just apply to objects
+and fluids as a whole, but also to the individual
+molecules and components that make them up.
+Nous avons découvert que cela ne s'applique pas seulement aux objets
+et aux fluides dans leur ensemble, mais aussi aux
+molécules individuelles et aux composants qui les composent.
+
+Then we saw that transfers of mass need their
+own driving force, which we found to be concentration,
+Ensuite, nous avons vu que les transferts de masse ont besoin de leur
+propre force motrice, que nous avons trouvée être la concentration,
+
+as things try to reach a state of chemical
+equilibrium.
+car les choses tentent d'atteindre un état d'
+équilibre chimique.
+
+Diffusion was a way to get to this balanced
+state, and we were able to use Fick’s Law
+to help us model mass transfer.
+La diffusion était un moyen d'atteindre cet
+état d'équilibre, et nous avons pu utiliser la loi de Fick
+pour nous aider à modéliser le transfert de masse.
+
+I’ll see you next time, when we’ll talk
+about separation and apply what we just learned
+to mass transfer equipment.
+Je vous verrai la prochaine fois, quand nous parlerons
+de séparation et appliquerons ce que nous venons d'apprendre
+aux équipements de transfert de masse.
+
+Crash Course Engineering is produced in association
+with PBS Digital Studios.
+Crash Course Engineering est produit en association
+avec PBS Digital Studios.
+
+You can head over to their channel to check out a
+playlist of their latest amazing shows, like The Art
+Assignment, The Origin of Everything, and Physics Girl.
+Vous pouvez vous rendre sur leur chaîne pour consulter une
+liste de lecture de leurs dernières émissions incroyables, comme The Art
+Assignment, The Origin of Everything et Physics Girl.
+
+Crash Course is a Complexly production and this
+episode was filmed in the Doctor Cheryl C. Kinney
+Studio with the help of these wonderful people.
+Crash Course est une production de Complexly et cet
+épisode a été filmé dans le studio du docteur Cheryl C. Kinney
+avec l'aide de ces personnes merveilleuses.
+
+And our amazing graphics team is Thought Cafe.
+Et notre incroyable équipe graphique est Thought Cafe.
+

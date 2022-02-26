@@ -1,0 +1,397 @@
+By the 19th century, we were pretty sure there was something was going on between electricity and magnetism.
+Au 19ème siècle, nous étions à peu près sûrs qu'il se passait quelque chose entre l'électricité et le magnétisme.
+
+First, in the early 1800s, Michael Faraday showed us how a changing magnetic field induces an electromotive force, or emf, resulting in an electric current.
+Tout d'abord, au début des années 1800, Michael Faraday nous a montré comment un champ magnétique changeant induit une force électromotrice, ou emf, résultant en un courant électrique.
+
+He also found that electric fields sometimes act like magnetic fields, and developed equations to calculate the forces exerted by both.
+Il a également découvert que les champs électriques agissent parfois comme des champs magnétiques et a développé des équations pour calculer les forces exercées par les deux.
+
+In the mid-1800s, Scottish physicist James Maxwell thought something interesting was going on there, too.
+Au milieu des années 1800, le physicien écossais James Maxwell pensait que quelque chose d'intéressant s'y passait aussi.
+
+So he decided to assemble a set of equations
+that held true for all electromagnetic interactions.
+Il a donc décidé d'assembler un ensemble d'
+équations valables pour toutes les interactions électromagnétiques.
+
+And he did a great job of it, compiling a set of equations as critical to physics as Newton’s laws of motion.
+Et il a fait un excellent travail en compilant un ensemble d'équations aussi essentielles à la physique que les lois du mouvement de Newton.
+
+And while he was coming up with his all-encompassing equations, Maxwell predicted the existence of electromagnetic waves.
+Et pendant qu'il élaborait ses équations globales, Maxwell prédit l'existence d'ondes électromagnétiques.
+
+And these are the waves that help you view the world around you, talk to friends a thousand miles away, and heat up that midnight breakfast burrito you’ve been craving.
+Et ce sont les ondes qui vous aident à voir le monde qui vous entoure, à parler à des amis à des milliers de kilomètres et à réchauffer ce burrito du petit-déjeuner de minuit dont vous rêviez.
+
+So Maxwell and his equations are, to put it
+simply, enlightening.
+Donc Maxwell et ses équations sont, pour le dire
+simplement, éclairants.
+
+[Theme Music]
+[Thème musical]
+
+When James Maxwell created his dream team of electromagnetic equations, he started with the ideas – and the mathematics – that other physicists had already established.
+Lorsque James Maxwell a créé son équipe de rêve d'équations électromagnétiques, il a commencé avec les idées - et les mathématiques - que d'autres physiciens avaient déjà établies.
+
+But he put them together, to create a new,
+complete understanding of electromagnetism.
+Mais il les a réunis pour créer une nouvelle
+compréhension complète de l'électromagnétisme.
+
+Maxwell’s first equation is a form of Gauss’s Law, which states that the electric flux through a closed surface is proportional to the total charge enclosed by that surface.
+La première équation de Maxwell est une forme de la loi de Gauss, qui stipule que le flux électrique à travers une surface fermée est proportionnel à la charge totale enfermée par cette surface.
+
+A “closed surface” in this case is just the surface of any shape that completely encloses a charge, like a sphere or any other three dimensional shape.
+Une « surface fermée » dans ce cas est juste la surface de toute forme qui enferme complètement une charge, comme une sphère ou toute autre forme tridimensionnelle.
+
+And electric flux is a measure of the electric
+field that passes through a given area.
+Et le flux électrique est une mesure du champ électrique
+qui traverse une zone donnée.
+
+Mathematically, this equation says that electric flux is the integral of the electric field over the area of the surface, which is equal to the enclosed charge, divided by the permittivity of free space.
+Mathématiquement, cette équation dit que le flux électrique est l'intégrale du champ électrique sur la surface de la surface, qui est égale à la charge enfermée, divisée par la permittivité de l'espace libre.
+
+I won’t blame you if you don’t remember, but the permittivity of free space is a constant of proportionally we’ve used before, that relates electric charge to the physical effect of electric fields.
+Je ne vous blâmerai pas si vous ne vous en souvenez pas, mais la permittivité de l'espace libre est une constante de proportionnalité que nous avons utilisée auparavant, qui relie la charge électrique à l'effet physique des champs électriques.
+
+If the electric field is constant over the surface, then the left side of the equation becomes E times A.
+Si le champ électrique est constant sur la surface, alors le côté gauche de l'équation devient E fois A.
+
+Maxwell’s second equation is also a form of Gauss’s Law, only with magnetic flux instead of electric flux.
+La deuxième équation de Maxwell est également une forme de la loi de Gauss, uniquement avec un flux magnétique au lieu d'un flux électrique.
+
+Magnetic sources are always dipoles, with a north and south pole, and magnetic field lines that leave from the north pole and return back to the south.
+Les sources magnétiques sont toujours des dipôles, avec un pôle nord et un pôle sud, et des lignes de champ magnétique qui partent du pôle nord et reviennent au sud.
+
+When you’re looking at how a magnetic field interacts with a surrounding surface, you see that the field lines that leave the surface out of the north pole must enter back through the surface to reach the south pole.
+Lorsque vous regardez comment un champ magnétique interagit avec une surface environnante, vous voyez que les lignes de champ qui quittent la surface par le pôle nord doivent revenir à travers la surface pour atteindre le pôle sud.
+
+This results in the overall magnetic flux
+being zero.
+Il en résulte que le flux magnétique global
+est nul.
+
+If you compare this with Maxwell’s first equation, you can tell that the format – with the integral of the magnetic field over the surface area – is the same.
+Si vous comparez cela avec la première équation de Maxwell, vous pouvez dire que le format - avec l'intégrale du champ magnétique sur la surface - est le même.
+
+But here, the integral will always equal zero
+for a closed surface.
+Mais ici, l'intégrale sera toujours égale à zéro
+pour une surface fermée.
+
+Now, Maxwell’s third equation doesn’t
+have anything to do with Gauss’s Law.
+Maintenant, la troisième équation de Maxwell
+n'a rien à voir avec la loi de Gauss.
+
+Instead, it’s Faraday’s Law, but slightly
+different than how we’ve seen it before.
+Au lieu de cela, c'est la loi de Faraday, mais légèrement
+différente de ce que nous avons vu auparavant.
+
+This is how we've seen it before.
+C'est ainsi que nous l'avons déjà vu.
+
+If you remember, Faraday’s Law of Induction says that a changing magnetic field will induce an electromotive force in a loop of wire.
+Si vous vous souvenez, la loi d'induction de Faraday dit qu'un champ magnétique changeant induira une force électromotrice dans une boucle de fil.
+
+Maxwell’s version is more general, simplifying Faraday’s Law to show the value of that induced emf.
+La version de Maxwell est plus générale, simplifiant la loi de Faraday pour montrer la valeur de cette fem induite.
+
+It says that the emf is equal to the line integral of the electric field over a closed loop.
+Il dit que la fem est égale à l'intégrale de ligne du champ électrique sur une boucle fermée.
+
+So with this equation, you can see the connection between a changing magnetic flux and an induced electric field.
+Ainsi, avec cette équation, vous pouvez voir le lien entre un flux magnétique changeant et un champ électrique induit.
+
+The fourth and final equation is one that Maxwell made the most tweaks to, in order to make it applicable to all electromagnetic phenomena.
+La quatrième et dernière équation est celle à laquelle Maxwell a apporté le plus de modifications, afin de la rendre applicable à tous les phénomènes électromagnétiques.
+
+Maxwell’s first and second equations were so similar – one for electric fields and one for magnetic fields – that he knew there must be an equation that complemented Faraday’s Law as well.
+Les première et deuxième équations de Maxwell étaient si similaires - une pour les champs électriques et une pour les champs magnétiques - qu'il savait qu'il devait y avoir une équation qui complétait également la loi de Faraday.
+
+After all, if a changing magnetic flux produces an electric field, why is there not a complementary law saying the reverse?
+Après tout, si un flux magnétique changeant produit un champ électrique, pourquoi n'y a-t-il pas une loi complémentaire disant l'inverse ?
+
+Why couldn’t a changing electric flux result
+in an induced magnetic field?
+Pourquoi un flux électrique changeant ne pourrait-il pas
+entraîner un champ magnétique induit ?
+
+Here, Maxwell started with Ampère’s Law, which states that a current through a wire induces a magnetic field around a path surrounding the wire.
+Ici, Maxwell a commencé avec la loi d'Ampère, qui stipule qu'un courant à travers un fil induit un champ magnétique autour d'un chemin entourant le fil.
+
+In order to make this equation work for all possible electromagnetic scenarios, Maxwell needed to consider a situation where a magnetic field is induced, but not from the flow of current.
+Afin de faire fonctionner cette équation pour tous les scénarios électromagnétiques possibles, Maxwell devait envisager une situation dans laquelle un champ magnétique est induit, mais pas à partir du flux de courant.
+
+For example, picture a charged capacitor that’s
+connected to wires on both sides.
+Par exemple, imaginez un condensateur chargé qui est
+connecté à des fils des deux côtés.
+
+As the capacitor discharges, current runs through both wires, generating a changing magnetic flux, just like Ampere’s Law says.
+Lorsque le condensateur se décharge, le courant traverse les deux fils, générant un flux magnétique changeant, tout comme le dit la loi d'Ampère.
+
+But a changing magnetic flux is also induced between the two plates when there’s no wire connecting the plates.
+Mais un flux magnétique changeant est également induit entre les deux plaques lorsqu'il n'y a pas de fil reliant les plaques.
+
+However, there is a changing electric field,
+and it acts like a wireless current.
+Cependant, il existe un champ électrique changeant
+et il agit comme un courant sans fil.
+
+In order to account for the magnetic flux
+generated by this “wireless current,”
+Afin de tenir compte du flux magnétique
+généré par ce "courant sans fil",
+
+Maxwell added what’s known as the displacement current into Ampère’s Law, to complete the equation.
+Maxwell a ajouté ce qu'on appelle le courant de déplacement dans la loi d'Ampère, pour compléter l'équation.
+
+Despite being called the displacement current,
+it isn’t really an electric current.
+Bien qu'on l'appelle le courant de déplacement,
+ce n'est pas vraiment un courant électrique.
+
+It’s just called that because it fits into
+the equation just like an actual current does.
+Cela s'appelle simplement cela parce qu'il s'inscrit dans
+l'équation comme le fait un courant réel.
+
+Mathematically, the displacement current is equal to the change in the capacitor’s charge over time.
+Mathématiquement, le courant de déplacement est égal à la variation de la charge du condensateur dans le temps.
+
+And that is equal to the change in electric flux over time, multiplied by the permittivity of free space constant.
+Et cela est égal à la variation du flux électrique dans le temps, multipliée par la permittivité de la constante d'espace libre.
+
+With the addition he made to Ampère’s Law,
+Maxwell’s equations were complete!
+Avec l'ajout qu'il a fait à la loi d'Ampère, les
+équations de Maxwell étaient complètes !
+
+And using his laws today, we can see a pattern
+in the production of electric and magnetic fields.
+Et en utilisant ses lois aujourd'hui, nous pouvons voir un modèle
+dans la production de champs électriques et magnétiques.
+
+If a changing electric field is generated, then a magnetic field is induced, which results in a changing magnetic field that induces an electric field, and the cycle continues.
+Si un champ électrique changeant est généré, alors un champ magnétique est induit, ce qui entraîne un champ magnétique changeant qui induit un champ électrique, et le cycle continue.
+
+These oscillations are electromagnetic waves, and they’re made up of changing electric and magnetic fields that travel through space.
+Ces oscillations sont des ondes électromagnétiques, et elles sont constituées de champs électriques et magnétiques changeants qui voyagent dans l'espace.
+
+Maxwell believed that we could reproduce electromagnetic waves in the laboratory, and he was right!
+Maxwell croyait qu'on pouvait reproduire des ondes électromagnétiques en laboratoire, et il avait raison !
+
+To prove it, let’s look at an object that can produce electromagnetic waves and transmit them through the air: an antenna!
+Pour le prouver, regardons un objet capable de produire des ondes électromagnétiques et de les transmettre dans l'air : une antenne !
+
+This antenna is made up of two conductive rods,
+each attached to opposite ends of an AC generator.
+Cette antenne est composée de deux tiges conductrices,
+chacune fixée aux extrémités opposées d'un générateur de courant alternatif.
+
+When the antenna is operating, the two rods switch between being positively charged and negatively charged, as the generator changes voltage.
+Lorsque l'antenne fonctionne, les deux tiges basculent entre la charge positive et la charge négative, car le générateur change de tension.
+
+And when one rod is positively charged, the
+other is negatively charged, and vice versa.
+Et quand une tige est chargée positivement, l'
+autre est chargée négativement, et vice versa.
+
+When electric current travels up into the top of the rod, you can use the right hand rule, pointing your right thumb in the direction of the current, to see that how the magnetic field flows around the antenna.
+Lorsque le courant électrique monte dans le haut de la tige, vous pouvez utiliser la règle de la main droite, en pointant votre pouce droit dans la direction du courant, pour voir comment le champ magnétique circule autour de l'antenne.
+
+The electric fields generated by the antenna itself are easier to track, since they’ll just go from the positive rod to the negative rod.
+Les champs électriques générés par l'antenne elle-même sont plus faciles à suivre, car ils iront simplement de la tige positive à la tige négative.
+
+But as the direction of current switches, the direction of both the electric and magnetic fields change.
+Mais lorsque la direction du courant change, la direction des champs électriques et magnétiques change.
+
+And as the rods switch their charges, the waves generated by the initial charge distribution continue to propagate away from the antenna.
+Et lorsque les tiges changent de charge, les ondes générées par la distribution de charge initiale continuent de se propager loin de l'antenne.
+
+So, if you were standing away from the antenna, you would be able to measure an electric field and magnetic field that are both constantly changing.
+Ainsi, si vous vous teniez à distance de l'antenne, vous pourriez mesurer un champ électrique et un champ magnétique qui changent constamment.
+
+Now, what would that look like?
+Maintenant, à quoi cela ressemblerait-il ?
+
+To grasp the effect of changing fields in motion, let’s model an electromagnetic wave as it travels through three-dimensional space.
+Pour saisir l'effet de l'évolution des champs en mouvement, modélisons une onde électromagnétique lorsqu'elle se déplace dans un espace tridimensionnel.
+
+First, note the direction that the wave is
+traveling, in the x-direction.
+Tout d'abord, notez la direction dans laquelle l'onde se
+déplace, dans la direction x.
+
+Now plot the electric field, oscillating back
+and forth in the y-direction.
+Tracez maintenant le champ électrique, en oscillant d'avant
+en arrière dans la direction y.
+
+The electric and magnetic fields always act perpendicular to one another, so the magnetic field will oscillate in the z-direction.
+Les champs électriques et magnétiques agissent toujours perpendiculairement l'un à l'autre, de sorte que le champ magnétique oscille dans la direction z.
+
+Note that the electric and magnetic fields
+both peak at the same time, so they’re in phase.
+Notez que les champs électriques et magnétiques
+culminent tous les deux en même temps, ils sont donc en phase.
+
+These electromagnetic waves are a type of transverse wave, which means both fields, electric and magnetic, act in directions that are perpendicular to the direction in which the wave is moving.
+Ces ondes électromagnétiques sont un type d'onde transversale, ce qui signifie que les deux champs, électrique et magnétique, agissent dans des directions perpendiculaires à la direction dans laquelle l'onde se déplace.
+
+And how fast do these waves travel?
+Et à quelle vitesse voyagent ces ondes ?
+
+Maxwell calculated that the speed of each wave is equal to the electric field’s magnitude divided by the magnetic field’s magnitude.
+Maxwell a calculé que la vitesse de chaque onde est égale à la magnitude du champ électrique divisée par la magnitude du champ magnétique.
+
+This equation simplifies down to an equation with two constants, the permittivity of free space for electric fields, epsilon naught, and the permittivity of free space for magnetic fields, mu naught.
+Cette équation se simplifie en une équation à deux constantes, la permittivité de l'espace libre pour les champs électriques, epsilon rien, et la permittivité de l'espace libre pour les champs magnétiques, mu rien.
+
+And this speed works out to 3.00 times 10^8
+meters per second.
+Et cette vitesse correspond à 3,00 fois 10 ^ 8
+mètres par seconde.
+
+We write it simply as small c, and it’s the speed of
+every electromagnetic wave, ever, at least in a vacuum.
+Nous l'écrivons simplement comme petit c, et c'est la vitesse de
+chaque onde électromagnétique, jamais, au moins dans le vide.
+
+You may know it better as the speed of light.
+Vous la connaissez peut-être mieux sous le nom de vitesse de la lumière.
+
+After all, light is an electromagnetic wave!
+Après tout, la lumière est une onde électromagnétique !
+
+Every electromagnetic wave carries energy through space, and can reflect off some material, while passing through others.
+Chaque onde électromagnétique transporte de l'énergie à travers l'espace et peut se refléter sur certains matériaux tout en traversant d'autres.
+
+But visible light is just one small part of
+what’s known as the electromagnetic spectrum.
+Mais la lumière visible n'est qu'une petite partie de
+ce que l'on appelle le spectre électromagnétique.
+
+Like waves in the ocean, electromagnetic waves
+can vary in their wavelength, amplitude, and source.
+Comme les vagues dans l'océan, les ondes électromagnétiques
+peuvent varier dans leur longueur d'onde, leur amplitude et leur source.
+
+The wavelength is the distance between the
+peaks of a wave.
+La longueur d'onde est la distance entre les
+pics d'une onde.
+
+And the frequency is how many times a wave
+peaks in a given second.
+Et la fréquence est le nombre de fois qu'une onde
+culmine en une seconde donnée.
+
+You might remember when we talked about traveling waves that a wave’s speed is equal to its frequency times its wavelength.
+Vous vous souvenez peut-être que lorsque nous avons parlé d'ondes progressives, la vitesse d'une onde est égale à sa fréquence multipliée par sa longueur d'onde.
+
+And since the speed of light is constant, you can easily find the frequency if you know the wavelength, and vice versa.
+Et puisque la vitesse de la lumière est constante, vous pouvez facilement trouver la fréquence si vous connaissez la longueur d'onde, et vice versa.
+
+Now, in order to calculate the energy carried by any electromagnetic wave, you need to know the magnitude of the electric and magnetic fields that compose that wave.
+Maintenant, pour calculer l'énergie transportée par une onde électromagnétique, vous devez connaître l'amplitude des champs électriques et magnétiques qui composent cette onde.
+
+Specifically, you use these magnitudes to calculate what’s known as the energy density of each field, which is the amount of energy stored in a field per unit volume.
+Plus précisément, vous utilisez ces grandeurs pour calculer ce que l'on appelle la densité d'énergie de chaque champ, qui est la quantité d'énergie stockée dans un champ par unité de volume.
+
+Then, you can combine the energy density for both fields, solving for the total energy per unit volume within the wave overall.
+Ensuite, vous pouvez combiner la densité d'énergie pour les deux champs, en résolvant l'énergie totale par unité de volume dans l'ensemble de l'onde.
+
+But since you know that strengths of the electric
+and magnetic fields are directly related,
+Mais puisque vous savez que les forces des champs électriques
+et magnétiques sont directement liées,
+
+you can substitute the electric field magnitude
+for the magnetic field magnitude, and vice versa.
+vous pouvez substituer l'amplitude du champ électrique à l'
+amplitude du champ magnétique, et vice versa.
+
+This lets you come up with the energy density terms that encapsulate the energy in both fields, with fewer variables.
+Cela vous permet de trouver les termes de densité d'énergie qui encapsulent l'énergie dans les deux champs, avec moins de variables.
+
+So, here’s the calculation of the speed of light that Maxwell found, and the constants that it simplified down to.
+Voici donc le calcul de la vitesse de la lumière trouvé par Maxwell et les constantes simplifiées.
+
+You can take our energy density equation and substitute the magnetic field magnitude, B, with the electric field, times the square root of the permittivity constants.
+Vous pouvez prendre notre équation de densité d'énergie et remplacer l'amplitude du champ magnétique, B, par le champ électrique, multiplié par la racine carrée des constantes de permittivité.
+
+With this simplified energy density equation, you can then substitute the electric field magnitude for the speed of light and the magnetic field magnitude.
+Avec cette équation de densité d'énergie simplifiée, vous pouvez alors substituer l'amplitude du champ électrique à la vitesse de la lumière et à l'amplitude du champ magnétique.
+
+These equations give the energy density of
+an EM wave at any point during its propagation.
+Ces équations donnent la densité d'énergie d'
+une onde EM en tout point de sa propagation.
+
+One last important measurement of delivering energy is intensity, which is the energy transported by a wave per unit time, per unit area.
+Une dernière mesure importante de la fourniture d'énergie est l'intensité, qui est l'énergie transportée par une onde par unité de temps, par unité de surface.
+
+Mathematically, the energy delivered is equal to the energy density times the volume of space in which the energy is transported over a period of time.
+Mathématiquement, l'énergie délivrée est égale à la densité d'énergie multipliée par le volume d'espace dans lequel l'énergie est transportée sur une période de temps.
+
+You can then replace energy density with one
+of the simplified equations we used earlier,
+Vous pouvez ensuite remplacer la densité d'énergie par l'une
+des équations simplifiées que nous avons utilisées précédemment, de
+
+so the volume of space encompassed by the wave is equal to the unit area times the distance traveled.
+sorte que le volume d'espace englobé par l'onde soit égal à l'unité de surface multipliée par la distance parcourue.
+
+And the distance traveled will be the speed
+of light multiplied by the time period.
+Et la distance parcourue sera la vitesse
+de la lumière multipliée par la période de temps.
+
+After cancelling out like terms, you’re left with an equation that tells you how much energy you have per unit area based on the strength of the electric field, which you can also replace with the magnetic field magnitude.
+Après avoir annulé des termes similaires, il vous reste une équation qui vous indique la quantité d'énergie dont vous disposez par unité de surface en fonction de la force du champ électrique, que vous pouvez également remplacer par l'amplitude du champ magnétique.
+
+A lot of math, I know.
+Beaucoup de maths, je sais.
+
+But the vast knowledge of electromagnetism that we have today, and the doors it has opened into the fields of relativity and quantum theory, are all based on the theories that Maxwell and his predecessors developed.
+Mais la vaste connaissance de l'électromagnétisme que nous avons aujourd'hui, et les portes qu'elle a ouvertes dans les domaines de la relativité et de la théorie quantique, sont toutes basées sur les théories que Maxwell et ses prédécesseurs ont développées.
+
+Albert Einstein praised Maxwell specifically for his contributions, but it was the combined effort of revolutionary minds like Maxwell, Faraday, and Gauss that we have to thank for our understanding of the interaction between electric and magnetic fields.
+Albert Einstein a félicité Maxwell spécifiquement pour ses contributions, mais c'est l'effort combiné d'esprits révolutionnaires comme Maxwell, Faraday et Gauss que nous devons remercier pour notre compréhension de l'interaction entre les champs électriques et magnétiques.
+
+Today we learned about Maxwell’s equations
+and their unifying power in the field of electromagnetism.
+Aujourd'hui, nous avons découvert les équations de Maxwell
+et leur pouvoir unificateur dans le domaine de l'électromagnétisme.
+
+We discussed electromagnetic waves and how changing electric and magnetic fields propagate through space.
+Nous avons discuté des ondes électromagnétiques et de la façon dont les champs électriques et magnétiques changeants se propagent dans l'espace.
+
+We investigated the different types of waves on the electromagnetic spectrum as well as how to calculate the amount of energy they can carry.
+Nous avons étudié les différents types d'ondes du spectre électromagnétique ainsi que la manière de calculer la quantité d'énergie qu'elles peuvent transporter.
+
+Crash Course Physics is produced in association
+with PBS Digital Studios.
+Crash Course Physics est produit en association
+avec PBS Digital Studios.
+
+You can head over to their channel and check out a playlist of the latest episodes from shows like:
+Vous pouvez vous rendre sur leur chaîne et consulter une liste de lecture des derniers épisodes d'émissions telles que:
+
+Shank’s FX, Physics Girl, and Deep Look.
+Shank's FX, Physics Girl et Deep Look.
+
+This episode of Crash Course was filmed in
+the Doctor Cheryl C. Kinney Crash Course Studio
+Cet épisode de Crash Course a été filmé dans
+le studio Doctor Cheryl C. Kinney Crash Course
+
+with the help of these amazing people and our equally amazing graphics team, is Thought Cafe.
+avec l'aide de ces personnes incroyables et de notre équipe graphique tout aussi incroyable, Thought Cafe.
+

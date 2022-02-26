@@ -1,0 +1,987 @@
+you can review content from crash course
+vous pouvez consulter le contenu du cours
+
+organic chemistry with the crash course
+accéléré de chimie organique avec l'
+
+app available now for android and ios
+application de cours intensif disponible maintenant pour les appareils Android et ios
+
+devices
+
+hi i'm deboki chuckervardi and welcome
+salut je suis deboki chuckervardi et bienvenue
+
+to crash course organic chemistry cows
+au cours intensif de chimie organique les vaches
+
+produce methane and that's a concern
+produisent du méthane et c'est une préoccupation à
+
+because of global heating but their diet
+cause du réchauffement climatique mais leur régime alimentaire
+
+really affects how much methane they
+affecte vraiment  combien de méthane ils ont
+
+burp out in 2014 researchers showed that
+roté en 2014, les chercheurs ont montré que
+
+feeding them a diet containing one to
+leur donner un régime contenant de un à
+
+two percent red seaweed reduced their
+deux pour cent d'algues rouges réduisait leurs
+
+methane emissions by over 90 percent the
+émissions de méthane de plus de 90 pour cent le
+
+problem with this exciting research is
+problème avec cette recherche passionnante est
+
+that there's not enough wild seaweed to
+qu'il n'y a pas assez d'algues sauvages pour
+
+feed all the cows and this seaweed
+nourrir toutes les vaches et cela  les algues
+
+hasn't been commercially farmed yet but
+n'ont pas encore été cultivées commercialement mais les
+
+people are working on it in the meantime
+gens y travaillent entre-temps
+
+to better understand red seaweed
+pour mieux comprendre les
+
+chemists have been looking closely at
+chimistes des algues rouges ont examiné de près
+
+its chemical makeup one of the minor
+sa composition chimique l'un des composants mineurs
+
+components is bromoacetone a substance
+est la bromoacétone une substance
+
+that can be made in the lab by combining
+qui peut être fabriquée en laboratoire en combinant le
+
+bromine with acetone in the presence of
+brome  avec de l'acétone en présence d'
+
+an acid catalyst this reaction works
+un catalyseur acide cette réaction fonctionne
+
+because the acetone enolizes in the
+car l'acétone s'énolise dans le
+
+presence of the acid what does that mean
+présence de l'acide, qu'est-ce que cela signifie
+
+exactly
+exactement,
+
+well we're about to find out as we dive
+nous sommes sur le point de le découvrir en plongeant
+
+into enols and enolates
+dans les énols et les énolates
+
+[Music]
+[Musique]
+
+if you're thinking that the word enol
+si vous pensez que le mot énol
+
+sounds familiar it is we first met enols
+semble familier, c'est que nous avons rencontré les énols
+
+in episode 18 when we learned about
+pour la première fois dans l'épisode 18 lorsque nous avons appris  à propos des
+
+alkynes molecules with a carbon-carbon
+molécules d'alcynes avec une triple liaison carbone-carbone,
+
+triple bond alkynes react in similar
+les alcynes réagissent de la même
+
+ways to alkenes they undergo addition
+manière que les alcènes, ils subissent des
+
+reactions
+réactions d'addition,
+
+makes sense if you think about it
+cela a du sens si vous y réfléchissez, il
+
+there's a nice juicy electron dense
+y a un joli centre dense d'électrons juteux
+
+center where the triple bond is so
+où la triple liaison est donc
+
+anything that's even a little bit
+tout ce qui est même un peu
+
+electrophilic is gonna head straight
+électrophile va  tête droite
+
+there a particularly important set of
+là un ensemble particulièrement important de
+
+addition reactions involve water adding
+réactions d'addition implique que l'eau ajoute
+
+an oh group to an alkene produces a
+un groupe oh à un alcène produit un
+
+straightforward alcohol but alkynes do
+alcool simple mais les alcynes font
+
+something funky we get a ketone well to
+quelque chose de génial nous obtenons une cétone bien pour
+
+be more specific we get an enol a
+être plus précis nous obtenons un énol une
+
+molecule with an alcohol attached to a
+molécule avec un alcool attaché à un
+
+carbon-carbon double bond and the enol
+carbone  -double liaison carbone et l'énol se
+
+tautomerizes to a ketone it's the same
+tautomérise en cétone c'est la même
+
+story if we carry out hydroboration
+histoire si on réalise l'oxydation par hydroboration
+
+oxidation of an alkyne except this time
+d'un alcyne sauf cette fois
+
+our enol tautomerizes to an aldehyde if
+notre tautome d'énol  se transforme en aldéhyde si
+
+you want to know more about these alkyne
+vous voulez en savoir plus sur ces
+
+chemical reactions check out episode 18
+réactions chimiques alcynes, consultez l'épisode 18
+
+because this episode is all about enols
+car cet épisode est entièrement consacré aux énols
+
+and their cousins enolates we'll get to
+et à leurs cousins énolates, nous y reviendrons dans 
+
+them in a bit enols are tautomers which
+n instant. les énols sont des tautomères qui est u
+
+is a word that comes from the greek
+mot qui vient du  tatouage grec
+
+tattoo the same in maros part autonomous
+le même dans la partie maros autonome
+
+are a specific kind of isomer where the
+est un type spécifique d'isomère où la
+
+only difference between the two
+seule différence entre les deux
+
+compounds are the positions of the
+composés sont les positions des
+
+hydrogens and the electrons the carbon
+hydrogènes et des électrons le
+
+skeleton is the same when i say skeleton
+squelette de carbone est le même quand je dis squelette
+
+the carbon atoms are the bones even
+les atomes de carbone sont les os même
+
+though a carbonyl and an enol might look
+si un  carbonyle et un énol peuvent sembler
+
+different at first glance they have the
+différents à première vue ils ont la
+
+same basic structure of three carbons
+même structure de base de trois liaisons carbonées ne
+
+bonds are just shared electrons they're
+sont que des électrons partagés ils
+
+more like the tendons and muscles on top
+ressemblent plus aux tendons et aux muscles au sommet
+
+of skeleton when a carbonyl oxygen atom
+du squelette lorsqu'un atome d'oxygène carbonyle
+
+is protonated we get an intermediate
+est protoné, nous obtenons alors un
+
+cation then this intermediate loses a
+cation intermédiaire  cet intermédiaire perd un
+
+proton from its alpha carbon which is
+proton de son carbone alpha qui est
+
+the carbon adjacent to the carbonyl
+le carbone adjacent au carbonyle
+
+creating a neutral enol we know this
+créant un énol neutre, nous savons que cette
+
+tautomerization happens because we can
+tautomérisation se produit  parce que nous pouvons l'
+
+observe it with certain enols if we pop
+observer avec certains énols si nous mettons
+
+everything into an nmr spectrometer we
+tout dans un spectromètre RMN, nous
+
+can think of an enol as a type of alkene
+pouvons considérer un énol comme un type d'alcène
+
+and because of the resonance electron
+et à cause du don d'électrons de résonance
+
+donation from the lone pair on the
+de la paire isolée sur l'
+
+oxygen to the pi bond enols are more
+oxygène à la liaison pi, les énols sont plus
+
+electron rich and better nucleophiles
+riches en électrons  et de meilleurs nucléophiles
+
+than alkenes without an electron
+que les alcènes sans
+
+donating group attached but we can make
+groupe donneur d'électrons attaché mais nous pouvons faire
+
+an even better nucleophile from
+un nucléophile encore meilleur à partir de
+
+something closely related to enols
+quelque chose de étroitement lié aux énols
+
+here's a useful organic chemistry rule
+voici une règle empirique utile de chimie organique
+
+of thumb the conjugate base of a
+la base conjuguée d'une
+
+substance is always a better nucleophile
+substance est toujours un meilleur nucléophile il
+
+just look at water for example water is
+suffit de regarder l'eau par exemple  l'eau est
+
+a nucleophile but its conjugate base
+un nucléophile mais son
+
+hydroxide is a much better nucleophile
+hydroxyde de base conjugué est un bien meilleur nucléophile dont
+
+we talked about nucleophilicity in
+nous avons parlé de nucléophilie dans l'
+
+episode 21. the conjugate base of an
+épisode 21. la base conjuguée d'un
+
+enol is called an enolate ion and it has
+énol est appelée un ion énolate et elle a
+
+a resonance stabilized negative charge
+une charge négative stabilisée par résonance
+
+and enolate ions which we often call
+et des ions énolates que nous appelons souvent
+
+enolates for short are great
+énolates pour  bref sont de grands
+
+nucleophiles to make enolates we take a
+nucléophiles pour faire des énolates nous prenons un
+
+carbonyl compound like a ketone and add
+composé carbonylé comme une cétone et ajoutons
+
+a strong base like hydroxide ions
+une base forte comme l'hydro  les ions xide
+
+instead of forming a neutral enol the
+au lieu de former un énol neutre la
+
+ketone reacts with hydroxide to become a
+cétone réagit avec l'hydroxyde pour devenir un
+
+negatively charged enolate the key to
+énolate chargé négativement la clé de
+
+this reaction are the hydrogens on the
+cette réaction sont les hydrogènes sur le
+
+alpha carbon remember that's the
+carbone alpha rappelez-vous que c'est le
+
+neighbor to the carbonyl group these
+voisin du groupe carbonyle ces
+
+alpha hydrogens are acidic while the
+hydrogènes alpha sont acides tandis que les
+
+other hydrogens in carbonyls aren't
+autres hydrogènes dans les carbonyles  ne sont pas
+
+acidic enough to be removed by a base
+assez acides pour être éliminés par une base
+
+when the alpha hydrogen is deprotonated
+lorsque l'hydrogène alpha est déprotoné
+
+the anion that forms is resonance
+l'anion qui se forme est
+
+stabilized let's look at the relative
+stabilisé par résonance regardons l'
+
+acidity of alpha hydrogens in different
+acidité relative des hydrogènes alpha dans différentes
+
+molecules for a moment because this is
+molécules pendant un moment car cela
+
+going to introduce fun new compounds
+va introduire de nouveaux composés amusants
+
+remember the lower the pka value the
+rappelez-vous le  plus la valeur pka est basse,
+
+more readily the substance donates a
+plus la substance donne facilement un
+
+proton and the more readily an enolate
+proton et plus un énolate
+
+will form the pka of the alpha hydrogens
+formera facilement le pka des hydrogènes alpha
+
+and simple alkyl substituted aldehydes
+et les aldéhydes et cétones simples substitués par un alkyle
+
+and ketones like acetaldehyde and
+comme l'acétaldéhyde et l'
+
+acetone are in the high teens but the
+acétone sont dans l'adolescence, mais le
+
+pka of the alpha hydrogens in compounds
+pka des hydrogènes alpha dans  les composés
+
+with two carbonyls are lower so those
+avec deux carbonyles sont plus faibles, donc ces
+
+protons are more acidic which makes
+protons sont plus acides, ce qui est
+
+sense with two carbonyl groups flanking
+logique avec deux carbo  des groupes nyle
+
+them to stabilize the negative charge in
+les flanquant pour stabiliser la charge négative dans
+
+the anion however the alpha hydrogens
+l'anion, mais les hydrogènes
+
+and esters have a higher pka than their
+et esters alpha ont un pka plus élevé que leurs
+
+ketone cousins this is because there's
+cousins cétones, c'est parce qu'il y a un don d
+
+resonance donation from the oxygen of
+résonance de l'oxygène du group
+
+the alkoxy group towards the carbonyl
+alcoxy vers le carbonyle, ce qu
+
+this makes the carbonyl more electron
+rend déjà le carbonyle plus riche
+
+rich already and it's harder to
+en électrons  et il est plus difficile de
+
+stabilize an enolate and it's a similar
+stabiliser un énolate et c'est une
+
+story with amides the nitrogen donates
+histoire similaire avec les amides l'azote donne
+
+its electrons to the carbonyl through
+ses électrons au carbonyle par
+
+resonance so again the oxygen of the
+résonance donc encore une fois l'oxygène du
+
+carbonyl has quite a bit of negative
+carbonyle a un caractère assez négatif
+
+character the pka of dimethyl
+le pka du diméthylacétaminophène
+
+acetaminophen or dma is a whopping 30.
+ou dma est un énorme 30.
+
+we're not going to get enolates very
+nous n'allons pas obtenir d'énolates très
+
+easily from these so overall if we react
+facilement à partir de ceux-ci, donc dans l'ensemble, si nous réagissons
+
+a carbonyl compound with an appropriate
+un composé carbonyle avec une
+
+strong base we get resonance stabilized
+base forte appropriée, nous obtenons des anions stabilisés par résonance
+
+anions called enolates which are great
+appelés énolates qui sont de grands
+
+nucleophiles even better than enols
+nucléophiles encore meilleurs que les énols
+
+which are pretty good themselves we can
+qui sont assez bons eux-mêmes, nous pouvons
+
+see the nucleophilic power of enolates
+voir le nucléophile  puissance des énolates
+
+if we look at halogenation reactions
+si nous examinons les réactions d'halogénation,
+
+both aldehydes and ketones will react
+les aldéhydes et les cétones
+
+with a diatomic halogen like bromine at
+réagiront avec  ha halogène diatomique comme le brome
+
+the alpha position in the presence of a
+en position alpha en présence d'une
+
+base
+base,
+
+it doesn't even have to be a super
+il n'a même pas besoin d'être une
+
+strong base because as soon as even a
+base super forte car dès qu'un tout
+
+tiny bit of enolate is formed as an
+petit peu d'énolate se forme comme
+
+intermediate the halogen reacts and uses
+intermédiaire, l'halogène réagit et l'
+
+it up remember le chatelier's principle
+utilise rappelez-vous  le principe de le chatelier
+
+it's the idea that equilibria in
+c'est l'idée que les équilibres dans
+
+chemical reactions shift to minimize the
+les réactions chimiques se déplacent pour minimiser l'
+
+effect of a change like a temperature
+effet d'un changement comme un
+
+change or an increase or decrease in the
+changement de température ou une augmentation ou une diminution de la
+
+amount of one of the substances so when
+quantité de l'une des substances, donc lorsque
+
+we use up the tiny bit of enolate that
+nous utilisons le tout petit peu d'énolate qui se
+
+forms it drives the equilibrium towards
+forme, il entraîne  l'équilibre vers la
+
+making more enolate and the reaction
+fabrication de plus d'énolate et la réaction
+
+keeps going and here we run into a
+continue et ici nous rencontrons un
+
+little problem the alpha hydrogen on the
+petit problème l'hydrogène alpha sur le
+
+now halogenated carbonyl is more acidic
+carbonyle maintenant halogéné est plus acide
+
+than it was in the starting carbonyl so
+qu'il ne l'était dans le carbonyle de départ donc
+
+it reacts too and yes the third hydrogen
+il réagit aussi et oui le troisième hydrogène
+
+reacts as well it's really hard to stop
+réagit aussi c'est  vraiment difficile d'arrêter
+
+this halogenation reaction at the
+cette réaction d'halogénation au niveau du
+
+monosubstituted product okay so you
+produit monosubstitué d'accord, donc vous
+
+might be thinking why is this a problem
+vous demandez peut-être pourquoi est-ce un problème
+
+maybe this tripoli halogenated compound
+peut-être que ce composé halogéné tripoli
+
+is fun and cool and useful but the
+est amusant  et cool et utile mais le
+
+trouble is in basic conditions the
+problème est dans des conditions basiques, le
+
+triple halogen product doesn't stick
+produit triple halogène ne colle pas
+
+around it's cleaved in something called
+autour, il est clivé dans ce qu'on appelle
+
+a halo form reaction and we end up with
+une réaction de forme halo et nous nous retrouvons avec
+
+a carboxylic acid and a halo form chbr3
+un acide carboxylique et une forme halo chbr3,
+
+the most famous haloform is chloroform
+l'haloforme le plus célèbre est le chloroforme
+
+chcl3 which has all sorts of uses from
+chcl3 qui  a toutes sortes d'utilisations, de l'
+
+anesthetic to solvent so halo forms can
+anesthésique au solvant, donc les formes halo peuvent
+
+be interesting in fact bromoform is in
+être intéressantes en fait le bromoforme est dans
+
+that red seaweed from the intro and it's
+cette algue rouge de l'intro et on
+
+thought to be one of the bioactive
+pense qu'il est l'un des
+
+compounds that reduce cow's methane
+composés bioactifs qui réduisent les émissions de méthane de la vache
+
+emissions and this is great if we want a
+et c'est génial si nous voulons un
+
+halo form but not if our goal is to get
+halo  forment mais pas si notre objectif est d'obtenir
+
+a single halogen atom next to a carbonyl
+un seul atome d'halogène à côté d'un groupe carbonyle
+
+group
+
+that's all messed up if we go about
+qui est tout foiré si nous procédons à l'
+
+halogenation this way thankfully we
+halogénation de cette façon, heureusement, nous avons
+
+almost always have options like let's do
+presque toujours des options comme faisons
+
+our halogenation reaction in an acidic
+notre réaction d'halogénation dans une
+
+solution instead using bromine and
+solution acide au lieu d'utiliser du brome et de l'
+
+acetic acid this reaction is much easier
+acétique  acide cette réaction est beaucoup plus facile
+
+to control because there's no
+à contrôler car il n'y a pas d'
+
+supernucleophilic enolate we can just
+énolate supernucléophile, nous pouvons simplement
+
+work with the slightly less nucleophilic
+travailler avec l'énol légèrement moins nucléophile
+
+enol since we've got protons floating
+depuis que nous y sommes allés  t les protons flottant
+
+about the carbonyl oxygen gets
+autour de l'oxygène carbonyle sont
+
+protonated next the conjugate base of
+protonés à côté de la base conjuguée de
+
+the acid nabs an acidic hydrogen from
+l'acide attrape un hydrogène acide
+
+the alpha carbon giving us an enol
+du carbone alpha nous donnant un
+
+intermediate like i said this enol acts
+intermédiaire énol comme je l'ai dit cet énol agit
+
+as a less aggressive nucleophile than
+comme un nucléophile moins agressif que
+
+our enolate last time so an electron
+notre énolate la dernière fois donc une
+
+pair attacks the bromine and forms a
+paire d'électrons attaque  le brome et forme un
+
+resonance stabilized cation finally the
+cation stabilisé par résonance enfin le
+
+carbonyl group loses its proton and
+groupe carbonyle perd son proton et
+
+leaves us with the alpha-halogenated
+nous laisse avec le produit alpha-halogéné que
+
+product we wanted no out-of-control
+nous ne voulions pas d'
+
+halogenations here yay now halogens are
+halogénations incontrôlables ici ouais maintenant les halogènes sont
+
+nice and all but as you know by now we
+sympas et tout mais comme vous le savez maintenant nous
+
+organic chemists love to see
+les chimistes organiques  j'adore voir
+
+carbon-carbon bond formation if we
+la formation de liaisons carbone-carbone si nous
+
+introduce enolates to an alkyl halide or
+introduisons des énolates dans un halogénure d'alkyle ou un
+
+atosyllate they undergo an alkylation
+atosyllate, ils subissent une
+
+reaction joining the two smaller pieces
+réaction d'alkylation joignant les deux plus petits morceaux
+
+into one bigger molecule what's
+en une seule molécule plus grosse ce
+
+happening is that the nucleophilic
+qui se passe, c'est que l'
+
+enolate ion is reacting with the
+ion énolate nucléophile réagit avec l'
+
+electrophilic alkyl halide in an sn2
+halogénure d'alkyle électrophile dans un sn2
+
+reaction and the leaving group is
+réaction et le groupe partant est
+
+displaced by a backside attack but
+déplacé par une attaque arrière, mais à
+
+because of this we run into the usual
+cause de cela, nous rencontrons le
+
+issues that we have with sn2 reactions
+problème habituel  s que nous avons avec les réactions sn2, à
+
+namely the alkyl group should be primary
+savoir que le groupe alkyle doit être primaire
+
+or methyl this reaction isn't great with
+ou méthyle, cette réaction n'est pas excellente avec
+
+secondary alkyl groups because we start
+les groupes alkyle secondaires car nous commençons
+
+to get a competing e2 reaction and with
+à obtenir une réaction e2 concurrente et avec le
+
+tertiary the e2 reaction is all we get
+tertiaire, la réaction e2 est tout ce que nous obtenons.
+
+there's one more thing we have to look
+doivent faire
+
+out for in these alkylation reactions
+attention dans ces réactions d'alkylation
+
+with enolates
+avec des énolates
+
+because they're resonance hybrids they
+car ce sont des hybrides de résonance, ils
+
+kind of have a dual identity and two
+ont en quelque sorte une double identité et deux
+
+different ways of reacting one part of
+manières différentes de réagir une partie de
+
+the hybrid is a vanillic alkoxide that
+l'hybride est un alcoxyde vanillique qui
+
+is a carbon-carbon double bond with a
+est une double liaison carbone-carbone avec un
+
+negatively charged oxygen attached
+négatif  l'oxygène chargé attaché
+
+in this situation enolates react at the
+dans cette situation les énolates réagissent à l'
+
+oxygen and we end up with an enol
+oxygène et nous nous retrouvons avec un
+
+derivative but the other part of the
+dérivé d'énol mais l'autre partie de l'
+
+hybrid is the alpha-ketocarban ion that
+hybride est l'ion alpha-cétocarban qui
+
+is a carbonyl group bonded to a
+est un groupe carbonyle lié à un
+
+negatively charged carbon in this
+carbone chargé négativement dans cette
+
+situation enolates react at the carbon
+situation les énolates réagissent au  carbone
+
+giving us an alpha-substituted carbonyl
+nous donnant un carbonyle alpha-substitué
+
+we can often favor the reaction at
+nous pouvons souvent favoriser la réaction au
+
+carbon by carefully choosing our
+carbone en choisissant soigneusement nos
+
+reaction conditions but all these
+conditions de réaction mais toutes ces
+
+complications with enolates and
+complications avec l'énol  les mélanges de produits et les
+
+alkylation could lead to something that
+alkylations pourraient conduire à quelque chose qui
+
+really annoys chemists mixtures of
+ennuie vraiment les chimistes
+
+products
+
+if only we had a more reliable way to
+si seulement nous avions un moyen plus fiable d'
+
+add some carbons to our carbonyl never
+ajouter des carbones à notre carbonyle ne craignez jamais l'
+
+fear acetoacetic ester alkylation is
+alkylation de l'ester acétoacétique est
+
+here this reaction effectively converts
+ici cette réaction convertit efficacement
+
+an alkyl halide into a methyl ketone
+un halogénure d'alkyle en méthylcétone
+
+with three more carbons without so many
+avec trois autres  carbones sans autant de
+
+potential side products
+produits secondaires potentiels
+
+as the name suggests it involves
+que son nom l'indique, il s'agit d'
+
+acetoacetic ester which is also called
+ester acétoacétique qui est également appelé
+
+ethyl acetoacetate when we were
+acétoacétate d'éthyle lorsque nous
+
+comparing pkas we saw that alpha
+comparions des pkas, nous avons vu que les
+
+hydrogens surrounded by two carbonyl
+hydrogènes alpha entourés de deux
+
+groups are much more acidic than plain
+groupes carbonyle sont beaucoup plus acides que les
+
+old carbonyls so this compound we have
+vieux carbonyles simples, donc ce composé que nous avons
+
+here is completely converted into its
+ici  est complètement converti en son
+
+enolate ion when reacted with a base
+ion énolate lorsqu'il réagit avec une base
+
+like sodium ethoxide next that can be
+comme l'éthylate de sodium qui peut ensuite être
+
+alkylated with an alkyl halide making
+alkylée avec un halogénure d'alkyle créant
+
+the carbon-carbon bond we know and love
+la liaison carbone-carbone que nous connaissons et aimons
+
+in fact because there were two acidic
+en fait parce qu'il y avait deux
+
+alpha hydrogens we can even do a second
+hydrogènes alpha acides, nous pouvons même faire une deuxième
+
+alkylation if we want to add two
+alkylation  si nous voulons ajouter deux
+
+different alkyl groups we can perform
+groupes alkyle différents, nous pouvons effectuer
+
+the alkylations as separate steps
+les alkylations en étapes séparées
+
+carefully adding one molar equivalent of
+en ajoutant soigneusement un équivalent molaire de
+
+base in each reaction now we're not
+base dans chaque réaction maintenant, nous n'avons pas
+
+quite done because this weird
+tout à fait terminé car cet étrange
+
+acetoacetic ester thing is hanging
+ester acétoacétique
+
+around in our product not bashing it it
+traîne dans notre produit sans le dénigrer,
+
+was really helpful for this reaction but
+c'était vraiment utile pour cette réaction, mais
+
+we want a plain old ketone and for that
+nous voulons une vieille cétone ordinaire et pour cela
+
+we have to lose co2 and the ethyl group
+nous  doivent perdre du co2 et le groupe éthyle
+
+from this molecule so we'll heat the
+de cette molécule, nous allons donc chauffer l'
+
+alkylated or diallated acetoacetic ester
+ester acétoacétique alkylé ou diallé
+
+with some hydrochloric acid solution
+avec une solution d'acide chlorhydrique,
+
+then the ester portion is quickly
+puis la partie ester est rapidement
+
+hydrolyzed to a carboxylic acid called a
+hydrolysée en un acide carboxylique appelé
+
+beta-keto acid which loses co2 in a
+acide bêta-céto qui perd du co2 lors d'une
+
+decarboxylation reaction these are easy
+décarboxylation  réaction ceux-ci sont faciles
+
+to decarboxylate because when we lose
+à décarboxyler car lorsque nous perdons du
+
+co2 from a beta-keto acid the electrons
+co2 à partir d'un acide bêta-céto, les électrons
+
+have somewhere to go we get an enol
+ont quelque part où aller, nous obtenons d'abord un énol
+
+first that tautomerizes into the more
+qui se tautomérise en la
+
+stable ketone and with that we're done
+cétone plus stable et avec cela, nous avons terminé
+
+for now
+pour l'instant
+
+in this episode we learned that the
+dans cet épisode, nous avons appris que  les
+
+alpha hydrogens in carbonyl compounds
+hydrogènes alpha dans les composés carbonylés
+
+are acidic
+sont des
+
+enols and enolates are good nucleophiles
+énols acides et les énolates sont de bons nucléophiles,
+
+we can carry out halogenation reactions
+nous pouvons effectuer des réactions d'halogénation
+
+with enols and enolates but enols are
+avec des énols et des énolates, mais les énols sont
+
+easier to control
+plus facile à contrôler
+
+and we can alkylate enols and enolates
+et nous pouvons alkyler les énols et les énolates
+
+and the acetoacetic ester alkylation is
+et l'alkylation de l'ester acétoacétique est
+
+especially useful there's more enols and
+particulièrement utile il y a plus d'énols et d'
+
+enolates coming up in the next episode
+énolates à venir dans le prochain épisode
+
+when we take a look at aldol and claisen
+lorsque nous examinons les réactions d'aldol et de
+
+reactions and return to our mold
+claisen et revenons à notre
+
+medicine map of penicillin v synthesis
+carte de la médecine des moisissures de la synthèse de la pénicilline v
+
+until next time thanks for watching this
+jusqu'à la prochaine fois merci d'avoir regardé cet
+
+episode of crash course organic
+épisode de cours accéléré de
+
+chemistry if you want to help keep all
+chimie organique si vous voulez aider à garder tous les
+
+crash course free for everybody forever
+cours accélérés gratuits pour tout le monde pour toujours
+
+you can join our community on patreon
+vous pouvez rejoindre notre communauté sur patreon
+

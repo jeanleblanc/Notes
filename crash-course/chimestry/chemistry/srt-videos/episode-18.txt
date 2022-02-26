@@ -1,0 +1,756 @@
+Energy. The foundation of the universe,
+we'd literally be nothing without it.
+Énergie.  La fondation de l'univers,
+nous ne serions littéralement rien sans elle.
+
+It does all our work, provides all our heat, can be stored to use later, and never, ever goes away.
+Il fait tout notre travail, fournit toute notre chaleur, peut être stocké pour être utilisé plus tard et ne disparaît jamais.
+
+Sounds like the best-est best friend ever.
+Sonne comme le meilleur meilleur ami de tous les temps.
+
+And yet, most of the time we take it for granted, but here at Crash Course, we feel bad for our old friend Energy;
+Et pourtant, la plupart du temps, nous tenons cela pour acquis, mais ici à Crash Course, nous nous sentons mal pour notre vieil ami Energy ;
+
+we want to understand it so that we can be
+a better friend to it,
+nous voulons le comprendre pour être
+un meilleur ami avec lui,
+
+and also so that we can understand what it's
+trying to tell us.
+et aussi pour comprendre ce qu'il
+essaie de nous dire.
+
+Like that any bond between two atoms contains
+energy.
+Ainsi toute liaison entre deux atomes contient de l'
+énergie.
+
+How much energy? Well, that is not the simplest
+question to answer.
+Combien d'énergie ?  Eh bien, ce n'est pas la question la plus simple
+à répondre.
+
+And yet, today we shall answer it...kinda,
+using a nifty little thing called enthalpy.
+Et pourtant, aujourd'hui, nous allons y répondre... en quelque sorte, en
+utilisant une petite chose astucieuse appelée enthalpie.
+
+[Theme Music]
+[Thème musical] La
+
+Last time, we learned about internal energy,
+and the two ways that it can be transferred:
+dernière fois, nous avons appris l'énergie interne
+et les deux façons dont elle peut être transférée :
+
+by heat, or by work.
+par la chaleur ou par le travail.
+
+And heat and work are useful concepts, but
+they have limitations.
+Et la chaleur et le travail sont des concepts utiles, mais
+ils ont des limites.
+
+Particularly, that it is extremely difficult to figure out how much of which one is being done.
+En particulier, qu'il est extrêmement difficile de déterminer quelle quantité de laquelle on fait.
+
+Work is energy transferred to the motion of
+objects,
+Le travail est l'énergie transférée au mouvement des
+objets,
+
+while heat is energy transferred to the motion
+of atoms and molecules.
+tandis que la chaleur est l'énergie transférée au mouvement
+des atomes et des molécules.
+
+But for any given change in energy, the split between work and heat could be pretty much anything,
+Mais pour tout changement d'énergie donné, la répartition entre le travail et la chaleur peut être à peu près n'importe quoi,
+
+as long as there's some going to each.
+tant qu'il y en a pour chacun.
+
+Say that my car is at the top of a hill, and
+there's a frozen banana stand at the bottom.
+Disons que ma voiture est au sommet d'une colline et
+qu'il y a un stand de bananes gelées en bas.
+
+If I roll down with my brakes on, lots of heat will be transferred into my brake pads and my brake discs,
+Si je roule avec mes freins serrés, beaucoup de chaleur sera transférée dans mes plaquettes de frein et mes disques de frein,
+
+and I'll kind of like very slightly knock into the frozen banana stand, doing a tiny amount of work on it.
+et je vais plutôt frapper très légèrement le support de banane gelé, en faisant une petite quantité de travail dessus.
+
+But if I am reckless and insane, very little
+heat will be generated,
+Mais si je suis téméraire et fou, très peu de
+chaleur sera générée
+
+and my car'll do a huge amount of work on
+the frozen banana stand.
+et ma voiture effectuera une énorme quantité de travail sur
+le stand de bananes gelées.
+
+Both paths transfer the same amount of energy, but one produces very little heat, and the other produces a ton.
+Les deux chemins transfèrent la même quantité d'énergie, mais l'un produit très peu de chaleur et l'autre produit une tonne.
+
+So, we say that heat and work are "pathway
+dependent."
+Ainsi, nous disons que la chaleur et le travail sont "
+dépendants de la voie".
+
+The amount of heat or work done depends on
+the pathway you take.
+La quantité de chaleur ou de travail effectué dépend
+du chemin que vous empruntez.
+
+The change in energy, on the other hand, is
+the same in either case.
+Le changement d'énergie, d'autre part, est
+le même dans les deux cas.
+
+Change in energy is independent of the pathway.
+Le changement d'énergie est indépendant de la voie.
+
+In chemistry and physics and math, we call
+that a "state function,"
+En chimie, en physique et en mathématiques, nous appelons
+cela une "fonction d'état",
+
+because the only thing that matters is the
+starting state and the ending state,
+car la seule chose qui compte est l'
+état de départ et l'état de fin,
+
+not the stuff in between, not how you got
+there.
+pas les éléments intermédiaires, pas la façon dont vous
+y êtes arrivé.
+
+State functions are pretty great, because
+they make the math very simple;
+Les fonctions d'état sont plutôt géniales, car
+elles rendent les calculs très simples ;
+
+it's just one amount minus another amount.
+c'est juste un montant moins un autre montant.
+
+It would be pretty fascinating to know exactly
+how much energy is tied up in a molecule.
+Il serait assez fascinant de savoir exactement
+combien d'énergie est liée dans une molécule.
+
+Unfortunately, it's next to impossible to
+know that number.
+Malheureusement, il est presque impossible de
+connaître ce nombre.
+
+It's too big, and there are too many boxes
+where all that energy could be hiding.
+C'est trop grand, et il y a trop de boîtes
+où toute cette énergie pourrait se cacher.
+
+It's like trying to measure the total volume
+of the ocean, like, good luck.
+C'est comme essayer de mesurer le volume total
+de l'océan, bonne chance.
+
+However, since energy, like volume, is a state function, we can very easily talk about the change in energy.
+Cependant, puisque l'énergie, comme le volume, est une fonction d'état, nous pouvons très facilement parler de changement d'énergie.
+
+Just like if you dump a two liter Mountain
+Dew into the ocean,
+Tout comme si vous jetez un Mountain
+Dew de deux litres dans l'océan,
+
+you can't tell me how many liters are in the ocean, but you can say that that number has changed.
+vous ne pouvez pas me dire combien de litres il y a dans l'océan, mais vous pouvez dire que ce nombre a changé.
+
+It has just increased by two.
+Il vient d'augmenter de deux.
+
+In the same way, we're interested in energy
+being transferred in or out of the system
+De la même manière, nous nous intéressons à l'
+énergie transférée dans ou hors du système en
+
+because of chemical reactions.
+raison de réactions chimiques.
+
+And in many cases, all we're interested in
+is the heat part.
+Et dans de nombreux cas, tout ce qui nous intéresse,
+c'est la partie chaleur.
+
+For example, if I burn a pile of wood, I care
+about the heat being generated,
+Par exemple, si je brûle un tas de bois, je me soucie
+de la chaleur générée,
+
+not the work being done by the volume increase,
+or by the rising smoke.
+pas du travail effectué par l'augmentation du volume
+ou par la fumée montante.
+
+So dealing with the whole internal energy
+equation thing would kind of be overkill.
+Donc, traiter de toute l'
+équation de l'énergie interne serait en quelque sorte exagéré.
+
+What we really need is a state function based
+on the loss or gain of heat in chemical reactions.
+Ce dont nous avons vraiment besoin, c'est d'une fonction d'état basée
+sur la perte ou le gain de chaleur dans les réactions chimiques.
+
+Which yes, is what Enthalpy is for.
+Oui, c'est à cela que sert l'enthalpie.
+
+In addition to being a silly-sounding word, enthalpy, which is represented by an equally silly capital H,
+En plus d'être un mot stupide, l'enthalpie, qui est représentée par un H majuscule tout aussi stupide,
+
+is technically the internal energy of a system,
+est techniquement l'énergie interne d'un système,
+
+plus the energy that's required to sort of
+shove the surroundings out of the way,
+plus l'énergie nécessaire pour
+écarter l'environnement
+
+and make room for the system's pressure and
+volume.
+et faire de la place  pour la pression et le
+volume du système.
+
+With enthalpy, we can make some assumptions
+and do some fancy math
+Avec l'enthalpie, nous pouvons faire des hypothèses
+et faire des calculs sophistiqués
+
+and make the simplest equation we've ever
+seen in Crash Course Chemistry.
+et faire l'équation la plus simple que nous ayons jamais
+vue dans Crash Course Chemistry.
+
+Let's get there real fast.
+Allons-y très vite.
+
+So first, we're not really interested in the
+total enthalpy of the system,
+Alors d'abord, on ne s'intéresse pas vraiment à l'
+enthalpie totale du système,
+
+which is good, because it's impossible to
+measure.
+ce qui est bien, car c'est impossible à
+mesurer.
+
+We're really just interested in how much it's
+going to change, as a state function.
+Nous sommes vraiment intéressés par combien cela
+va changer, en tant que fonction d'état.
+
+So, the formula for enthalpy is usually written
+as change in enthalpy.
+Ainsi, la formule de l'enthalpie est généralement écrite
+comme un changement d'enthalpie.
+
+Delta E or "change in energy" equals q plus
+w, so we can replace that part,
+Delta E ou "changement d'énergie" est égal à q plus
+w, nous pouvons donc remplacer cette partie,
+
+and then we can make two big, huge assumptions.
+puis nous pouvons faire deux grandes, énormes hypothèses.
+
+First, that pressure is constant.
+Premièrement, cette pression est constante.
+
+Fortunately, despite talk of high and low
+pressure weather systems,
+Heureusement, malgré les discours sur
+les systèmes météorologiques à haute et basse pression,
+
+atmospheric pressure, it really, changes very little compared to the other terms in the equation.
+la pression atmosphérique, elle, change vraiment très peu par rapport aux autres termes de l'équation.
+
+Constant pressure is a pretty good assumption
+here on the Earth's surface.
+La pression constante est une assez bonne hypothèse
+ici à la surface de la Terre.
+
+So that last Δ only applies to the volume.
+Donc ce dernier Δ ne s'applique qu'au volume.
+
+The second assumption is that the only work
+done in the system
+La deuxième hypothèse est que le seul travail
+effectué dans le système
+
+is the work that the pressure does to change
+the volume, known as pressure volume work.
+est le travail effectué par la pression pour modifier
+le volume, appelé travail de volume de pression.
+
+So W equals negative PΔV.
+Donc W est égal à PΔV négatif.
+
+Now the signs are a little bit weird here:
+Maintenant, les signes sont un peu bizarres ici :
+
+an increase -- or positive change -- in volume,
+results in an output of work by the system
+une augmentation - ou un changement positif - du volume,
+entraîne une production de travail par le système
+
+-- a loss in internal energy --
+- une perte d'énergie interne -
+
+which is defined as a negative amount.
+qui est définie comme une quantité négative.
+
+So the signs for work and for PΔV will always
+be opposite, and so, voila!
+Ainsi, les signes pour le travail et pour PΔV seront
+toujours opposés, et donc, voila !
+
+The PΔV parts cancel, ΔH equals the heat
+of reaction.
+Les parties PΔV s'annulent, ΔH est égal à la chaleur
+de réaction.
+
+Change in enthalpy is equal to the heat gained
+or lost by the system.
+Le changement d'enthalpie est égal à la chaleur gagnée
+ou perdue par le système.
+
+So I guess in the capital H for enthalpy does
+kinda make sense.
+Donc je suppose que le H majuscule pour l'enthalpie a
+un peu de sens.
+
+Thanks to this little trick for a lot of reactions that happen at constant pressure, like here on the surface of the earth,
+Grâce à cette petite astuce pour beaucoup de réactions qui se produisent à pression constante, comme ici à la surface de la terre,
+
+working just with enthalpies instead of internal
+energy makes a lot more sense.
+travailler uniquement avec des enthalpies au lieu de l'
+énergie interne a beaucoup plus de sens.
+
+I mean, it's hugely useful.
+Je veux dire, c'est extrêmement utile.
+
+We can determine how much useful energy is
+contained in pretty much any chemical compound.
+Nous pouvons déterminer la quantité d'énergie utile
+contenue dans pratiquement n'importe quel composé chimique.
+
+This is done by simply measuring temperature
+changes during chemical reactions.
+Cela se fait en mesurant simplement les
+changements de température au cours des réactions chimiques.
+
+So we know what it is, we know that state
+functions are great, but really why?
+Nous savons donc ce que c'est, nous savons que les
+fonctions d'état sont formidables, mais vraiment pourquoi ?
+
+Why have we done this, and can I just go look
+at pictures of cats now?
+Pourquoi avons-nous fait cela, et puis-je simplement regarder
+des photos de chats maintenant ?
+
+Well no, because you don't even know why enthalpy
+is so cool.
+Eh bien non, parce que vous ne savez même pas pourquoi l'enthalpie
+est si cool.
+
+When a reaction takes place and enthalpy changes,
+Lorsqu'une réaction a lieu et que l'enthalpie change,
+
+that heat is transferring into or out of actual
+chemical bonds, these little guys.
+cette chaleur est transférée dans ou hors des
+liaisons chimiques réelles, ces petits gars.
+
+Atoms and molecules reacting so that they
+contain more or less energy,
+Les atomes et les molécules réagissent de sorte qu'ils
+contiennent plus ou moins d'énergie,
+
+and that energy is either released to or taken
+from the environment as heat.
+et cette énergie est soit libérée soit prélevée
+dans l'environnement sous forme de chaleur.
+
+Those bonds are nothing but energy, and using enthalpy, we can measure how much energy they have.
+Ces liaisons ne sont rien d'autre que de l'énergie, et en utilisant l'enthalpie, nous pouvons mesurer leur quantité d'énergie.
+
+And we measure enthalpy with a weird little
+science called calorimetry.
+Et nous mesurons l'enthalpie avec une petite
+science étrange appelée calorimétrie.
+
+In calorimetry, we have a reaction take place inside an insulated vessel, like a thermos, basically,
+En calorimétrie, une réaction se produit à l'intérieur d'un récipient isolé, comme un thermos, en gros,
+
+and measure how much the temperature changes,
+et mesure de combien la température change,
+
+which we can then link directly to heat and
+thus enthalpy change.
+que nous pouvons ensuite relier directement à la chaleur et
+donc au changement d'enthalpie.
+
+Hopefully that sounds like fun because more
+about the ins and outs of this are coming
+J'espère que cela semble amusant, car plus d'informations
+sur les tenants et les aboutissants de cela arrivent
+
+in an episode on how to measure enthalpy.
+dans un épisode sur la façon de mesurer l'enthalpie.
+
+Scientists have actually done on the calorimetry
+footwork for us,
+Les scientifiques ont en fait fait le travail de
+calorimétrie pour nous
+
+so we can actually predict how much heat a
+chemical reaction will produce.
+, nous pouvons donc prédire la quantité de chaleur qu'une
+réaction chimique produira.
+
+You might not understand what's so great about
+that,
+Vous ne comprenez peut-être pas ce qu'il y a de si génial à
+ce sujet,
+
+but just imagine because I live here in Montana,
+where winters are pretty wintry,
+mais imaginez simplement que parce que je vis ici dans le Montana,
+où les hivers sont assez hivernaux,
+
+I can invent a hand warmer just by doing some
+calculations on paper,
+je peux inventer un chauffe-mains simplement en faisant quelques
+calculs sur papier,
+
+without driving to Texas to buy the stuff
+and do all kinds of expensive experiments.
+sans conduire au Texas pour acheter les choses
+et faire  toutes sortes d'expériences coûteuses.
+
+For that, we have to thank good old Germain
+Hess.
+Pour cela, nous devons remercier ce bon vieux Germain
+Hess.
+
+No, not Hermann Hesse, the gaunt, balding
+Swiss author and poet.
+Non, pas Hermann Hesse, l'
+auteur et poète suisse maigre et dégarni.
+
+Germain Hess, the gaunt, balding Swiss...
+uh...author and chemist.
+Germain Hess, le Suisse maigre et dégarni...
+euh... auteur et chimiste.
+
+Yeah, even the history parts of chemistry
+are confusing.
+Ouais, même les parties historiques de la chimie
+sont déroutantes.
+
+Hess was a chemist, geologist, professor, author, and doctor, and he also got a law named after him,
+Hess était chimiste, géologue, professeur, auteur et médecin, et il a également obtenu une loi qui porte son nom,
+
+which is pretty much the higher honor you
+can get as a chemist:
+ce qui est à peu près le plus grand honneur que vous
+puissiez obtenir en tant que chimiste :
+
+Hess's Law, which also kind of led directly
+to the first law of thermodynamics.
+la loi de Hess, qui a également conduit directement
+au premier  loi de la thermodynamique.
+
+Kind of a big deal.
+Not bad.
+Un gros problème.
+Pas mal. 
+
+Hess's law says that the total enthalpy change for a reaction doesn't depend on the pathway it takes,
+La loi de Hess dit que le changement d'enthalpie total pour une réaction ne dépend pas de la voie qu'elle emprunte,
+
+but only on its initial and final states.
+mais uniquement de ses états initial et final.
+
+Sounds pretty familiar, right?
+Cela semble assez familier, non ?
+
+As long as you start with the same reactants and end with the same products, the enthalpy change is the same.
+Tant que vous commencez avec les mêmes réactifs et terminez avec les mêmes produits, le changement d'enthalpie est le même.
+
+In order to study this stuff carefully,
+Afin d'étudier attentivement ce matériel,
+
+he looked at the standard enthalpies of formation
+of the reactants and the products of a reaction.
+il a examiné les enthalpies standard de formation
+des réactifs et des produits d'une réaction.
+
+To define standard enthalpy of formation, I'm first going to define what a standard state is:
+Pour définir l'enthalpie standard de formation, je vais d'abord définir ce qu'est un état standard : en
+
+Basically it's just a set of criteria so that chemists can all be studying stuff under the same conditions.
+gros, c'est juste un ensemble de critères pour que les chimistes puissent tous étudier des choses dans les mêmes conditions.
+
+Chemicals in their standard state are at 25
+degrees Celsius and one atmosphere.
+Les produits chimiques dans leur état standard sont à 25
+degrés Celsius et une atmosphère.
+
+Standard enthalpy of formation is the amount
+of heat lost or gained when one mole of a
+L'enthalpie standard de formation est la quantité
+de chaleur perdue ou gagnée lorsqu'une mole d'un
+
+compound is formed from its constituent elements.
+composé est formée à partir de ses éléments constitutifs.
+
+And of course all of those elements have to
+be at their standard states.
+Et bien sûr, tous ces éléments doivent
+être à leur état standard.
+
+Since absolute enthalpy is unknowable though,
+we have to be measuring from a baseline,
+Étant donné que l'enthalpie absolue est inconnaissable,
+nous devons mesurer à partir d'une ligne de base,
+
+and that baseline is that individual elements'
+most stable form at standard state.
+et cette ligne de base est la
+forme la plus stable des éléments individuels à l'état standard.
+
+That most stable form is defined as zero.
+Cette forme la plus stable est définie comme zéro.
+
+Values for compounds are measured from that
+zero baseline,
+Les valeurs des composés sont mesurées à partir de cette
+ligne de base zéro,
+
+and then standard state values can be used to calculate the enthalpy change for any reaction, even hypothetical ones.
+puis les valeurs d'état standard peuvent être utilisées pour calculer le changement d'enthalpie pour toute réaction, même hypothétique.
+
+Hess' Law is often stated in terms of standard
+enthalpies of formation.
+La loi de Hess est souvent exprimée en termes d'
+enthalpies standard de formation.
+
+The enthalpy change for a reaction is equal to the sum of the standard enthalpies of formation of the products,
+Le changement d'enthalpie pour une réaction est égal à la somme des enthalpies standard de formation des produits,
+
+minus the sum of the standard enthalpies of
+formation of the reactants.
+moins la somme des enthalpies standard de
+formation des réactifs.
+
+Thanks to many hardworking chemists,
+Grâce à de nombreux chimistes assidus,
+
+the standard enthalpy of formation has been
+measured for hundreds of compounds.
+l'enthalpie standard de formation a été
+mesurée pour des centaines de composés.
+
+We can just look them up in charts and plug
+them into Hess' Law.
+Nous pouvons simplement les rechercher dans des graphiques et
+les intégrer à la loi de Hess.
+
+Speaking of which, here is Hess' Law as a
+mathematical formula.
+En parlant de cela, voici la loi de Hess sous forme de
+formule mathématique.
+
+Pretty fancy looking, but it says exactly
+the same thing.
+Assez fantaisiste, mais cela dit exactement
+la même chose.
+
+The enthalpy change for a reaction equals the sum of the stand enthalpies of formation of the products
+Le changement d'enthalpie pour une réaction est égal à la somme des enthalpies de formation des produits
+
+minus the sum of the standard enthalpies of
+formation of the reactants.
+moins la somme des enthalpies standard de
+formation des réactifs.
+
+That pointy looking funny 'E' looking thing is the capital Greek letter Sigma(Σ) and it means, "the sum of."
+Cette chose pointue et amusante en forme de "E" est la lettre grecque majuscule Sigma (Σ) et cela signifie "la somme de".
+
+np and nr are the moles of each product and
+reactant respectively.
+np et nr sont respectivement les moles de chaque produit et
+réactif.
+
+We have to factor that in because remember
+the standard enthalpy of formation is measured
+Nous devons en tenir compte car rappelez-vous que
+l'enthalpie standard de formation est mesurée
+
+for just one mole of the substance.
+pour une seule mole de la substance.
+
+If the chemical equation uses more than that,
+Si l'équation chimique utilise plus que cela,
+
+we have to multiply the standard enthalpy of formation by the number of moles in the equation.
+nous devons multiplier l'enthalpie standard de formation par le nombre de moles dans l'équation.
+
+Again, I have just the thing for the calculating.
+Encore une fois, j'ai juste ce qu'il faut pour le calcul.
+
+Exhibit A.
+A hand warmer.
+Pièce A.
+Un chauffe-mains.
+
+It gets warm because of an exothermic chemical
+reaction.
+Il se réchauffe à cause d'une réaction chimique
+exothermique.
+
+And I'm very happy the inventors knew how
+ to calculate the enthalpy change of chemical reactions.
+Et je suis très heureux que les inventeurs aient
+su calculer le changement d'enthalpie des réactions chimiques.
+
+They chose one that releases just enough heat, quite slowly, to heat up my hand nice and warm without burning them off.
+Ils en ont choisi un qui dégage juste assez de chaleur, assez lentement, pour réchauffer ma main bien au chaud sans les brûler.
+
+The reaction combines an iron powder, which
+is in here, and oxygen,
+La réaction associe une poudre de fer, qui
+se trouve ici, et de l'oxygène,
+
+which diffuses through the membrane of the
+little packaging.
+qui diffuse à travers la membrane du
+petit emballage.
+
+It forms Iron(III) Oxide, the main ingredient
+in rust.
+Il forme l'oxyde de fer(III), le principal ingrédient
+de la rouille.
+
+To calculate the enthalpy change of the reaction,
+or heat of reaction,
+Pour calculer le changement d'enthalpie de la réaction,
+ou chaleur de réaction,
+
+we simply find the ΔHf of all of the reactants
+and products.
+nous trouvons simplement le ΔHf de tous les réactifs
+et produits.
+
+Either in the back of most textbooks or on
+Google and plug them into Hess' Law.
+Soit à la fin de la plupart des manuels, soit sur
+Google et branchez-les sur la loi de Hess.
+
+ΔHf of formation of iron and oxygen are zero
+by convention.
+Les ΔHf de formation de fer et d'oxygène sont nuls
+par convention.
+
+When in doubt, find them in the same table.
+En cas de doute, retrouvez-les dans le même tableau.
+
+And ΔHf of formation of Iron(III) Oxide is
+listed as -826 kilojoules per mole.
+Et ΔHf de formation d'oxyde de fer (III) est
+répertorié comme -826 kilojoules par mole.
+
+First we have to make sure we balance the
+chemical equation, so do that number one.
+Nous devons d'abord nous assurer que nous équilibrons l'
+équation chimique, alors faites ce numéro un.
+
+Second, let's look at Hess' Law and figure out what our products are and what our reactants are and stick them in.
+Deuxièmement, examinons la loi de Hess et déterminons quels sont nos produits et quels sont nos réactifs et collez-les.
+
+Then, plug in the number of moles for each
+of our products and reactants.
+Ensuite, branchez le nombre de moles pour chacun
+de nos produits et réactifs.
+
+Bang on your calculator and realize the ΔH
+of the reaction is -1652 kilojoules.
+Tapez sur votre calculatrice et réalisez que le ΔH
+de la réaction est de -1652 kilojoules.
+
+So, the reaction of four moles of iron powder
+which is about 223 grams of iron releases
+Ainsi, la réaction de quatre moles de poudre de fer,
+soit environ 223 grammes de fer, libère
+
+1652 kilojoules of heat.
+1652 kilojoules de chaleur.
+
+All that energy locked away in chemical bonds and then released as heat to make my aching frozen fingers.
+Toute cette énergie enfermée dans des liaisons chimiques, puis libérée sous forme de chaleur pour geler mes doigts endoloris.
+
+Better living through chemistry.
+Mieux vivre grâce à la chimie.
+
+Thank you for watching this episode of Crash Course Chemistry. If you were paying attention,
+Merci d'avoir regardé cet épisode de Crash Course Chemistry.  Si vous étiez attentif,
+
+today you learned what the state function is and how it varies from a path dependent function.
+vous avez appris aujourd'hui ce qu'est la fonction d'état et comment elle diffère d'une fonction dépendante du chemin.
+
+Why enthalpy change is different from heat, even though they turn out to be pretty much the same anyway.
+Pourquoi le changement d'enthalpie est différent de la chaleur, même s'ils s'avèrent à peu près les mêmes de toute façon.
+
+That bonds are energy and to form and break them they release and absorb heat to and from their environment.
+Ces liens sont de l'énergie et pour les former et les rompre, ils libèrent et absorbent de la chaleur vers et depuis leur environnement.
+
+We gave you the most cursory introduction
+to calorimetry ever,
+Nous vous avons donné l'introduction la plus superficielle
+à la calorimétrie, à
+
+which we will remedy next time and discussed
+the power of Hess' Law
+laquelle nous remédierons la prochaine fois, et nous avons discuté de
+la puissance de la loi de Hess
+
+and how to use his concept of the standard
+enthalpy of formation
+et de la manière d'utiliser son concept d'
+enthalpie standard de formation
+
+to calculate exactly how much heat is produced
+by any reaction ever.
+pour calculer exactement la quantité de chaleur produite
+par n'importe quelle réaction.
+
+This episode of Crash Course Chemistry was
+written by Edi Gonzalez and myself.
+Cet épisode de Crash Course Chemistry a été
+écrit par Edi Gonzalez et moi-même.
+
+The script was edited by Blake de Pastino.
+And our chemistry consultant was Dr. Heiko Langner.
+Le script a été édité par Blake de Pastino.
+Et notre consultant en chimie était le Dr Heiko Langner.
+
+It was filmed, edited, and directed by Nicholas Jenkins.
+Il a été filmé, monté et réalisé par Nicholas Jenkins.
+
+Our script supervisor and sound designer is Michael Aranda. And our graphics team is Thought Cafe.
+Notre scénariste et concepteur sonore est Michael Aranda.  Et notre équipe graphique est Thought Cafe.
+

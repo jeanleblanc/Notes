@@ -1,0 +1,823 @@
+The history of computer science is heckin’
+cool.
+L'histoire de l'informatique est vraiment
+cool.
+
+It features the upending of basic questions,
+like—what is information?
+Il présente le renversement des questions de base,
+comme : qu'est-ce que l'information ?
+
+It has biographical oomph—only this story’s
+war-hero scientist, Alan Turing, was punished,
+Il a une touche biographique - seul le
+scientifique héros de guerre de cette histoire, Alan Turing, a été puni, et
+
+not celebrated, after helping the Allies win
+World War Two.
+non célébré, après avoir aidé les Alliés à gagner la
+Seconde Guerre mondiale.
+
+And the history of computer science raises
+profound questions about technology and society,
+Et l'histoire de l'informatique soulève
+des questions profondes sur la technologie et la société,
+
+like—how do we know that our big complex
+beautiful brains aren’t really just big
+comme : comment savons-nous que nos
+beaux cerveaux complexes ne sont pas vraiment de grandes
+
+complex… computing machines?
+… machines informatiques complexes ?
+
+And, if we can one day build machines that
+think as fast as humans, will we have to grant
+Et, si nous pouvons un jour construire des machines qui
+pensent aussi vite que les humains, devrons-nous leur accorder
+
+them human rights?
+les droits de l'homme ?
+
+[INTRO MUSIC PLAYS]
+[INTRO MUSIC PLAYS] Les
+
+Questions about thinking machines are relatively
+recent in history.
+questions sur les machines pensantes sont relativement
+récentes dans l'histoire.
+
+But all kinds of doing machines are not, and
+some of this doing involves solving mathematical
+Mais toutes sortes de machines à faire ne le sont pas, et
+certaines de ces actions impliquent de résoudre des
+
+problems and other high-level functions.
+problèmes mathématiques et d'autres fonctions de haut niveau.
+
+Some time before 60 BCE, the Greeks constructed
+an analog computer now called the Antikythera
+Quelque temps avant 60 avant notre ère, les Grecs ont construit
+un ordinateur analogique maintenant appelé le
+
+mechanism.
+mécanisme d'Anticythère.
+
+Using many gears, the mechanism may have been
+used to predict eclipses or other astronomical
+Utilisant de nombreux engrenages, le mécanisme peut avoir été
+utilisé pour prédire des éclipses ou d'autres
+
+events.
+événements astronomiques.
+
+But the mechanism appears to have been a one-off.
+Mais le mécanisme semble avoir été unique.
+
+So historians often give credit for the first
+mechanical computer to the Artuqid-Turkmen
+Ainsi, les historiens attribuent souvent le mérite du premier
+ordinateur mécanique à l'ingénieur artuqid-turkmène
+
+engineer, Al-Jazarī, who died in CE 1206.
+, Al-Jazarī, décédé en 1206 de notre ère.
+
+We met him way back in episode seven when
+dude built a robotic musical band.
+Nous l'avons rencontré il y a bien longtemps dans l'épisode sept, lorsque le
+mec a construit un groupe de musique robotique.
+
+And a robot toilet helper!
+Et un robot toiletteur !
+
+And Al-Jazarī built an astronomical clock
+that showed the signs of the zodiac and could
+Et Al-Jazarī a construit une horloge astronomique
+qui montrait les signes du zodiaque et pouvait
+
+be reprogrammed to compensate for changing
+lengths of the day.
+être reprogrammée pour compenser les changements de
+longueur de la journée.
+
+Then, in 1642, French mathematician Blaise
+Pascal invented a mechanical adding machine
+Puis, en 1642, le mathématicien français Blaise
+Pascal a inventé une machine à additionner mécanique
+
+that used a collection of rotating numbered
+wheels, similar to a car’s odometer.
+qui utilisait une collection de roues numérotées rotatives
+, semblable à l'odomètre d'une voiture.
+
+Our friend from episode seventeen, German
+mathematician Gottfried Leibniz, built commercial
+Notre ami de l'épisode dix-sept, le
+mathématicien allemand Gottfried Leibniz, a construit des
+
+mechanical calculators in the late 1600s.
+calculatrices mécaniques commerciales à la fin des années 1600.
+
+And in 1801, in the early days of the Industrial
+Revolution, French merchant Joseph Marie Jacquard
+Et en 1801, au début de la
+révolution industrielle, le marchand français Joseph Marie Jacquard a
+
+incorporated the punch card into a textile
+loom to control patterns—arguably the first
+incorporé la carte perforée dans un
+métier à tisser pour contrôler les motifs - sans doute la première
+
+industrial use of computing!
+utilisation industrielle de l'informatique !
+
+But devices like calculators and looms are
+pretty far from the computers we rely on today.
+Mais les appareils comme les calculatrices et les métiers à tisser sont
+assez éloignés des ordinateurs sur lesquels nous comptons aujourd'hui.
+
+So then the question becomes, like... what is a computer?
+Alors la question devient, comme... qu'est-ce qu'un ordinateur ?
+
+Well, that word has changed a lot over the
+years.
+Eh bien, ce mot a beaucoup changé au fil des
+ans.
+
+In fact, up until the 1950s, a “computer”
+was a person who computes—usually a woman.
+En fait, jusque dans les années 1950, un « ordinateur »
+était une personne qui calcule, généralement une femme.
+
+The basic idea today is that a “computer”
+is a machine that can be programmed to perform
+L'idée de base aujourd'hui est qu'un "ordinateur"
+est une machine qui peut être programmée pour effectuer
+
+logical tasks—like math problems—automatically.
+automatiquement des tâches logiques, comme des problèmes mathématiques.
+
+For many historians, the dream of a somewhat
+recognizable modern computer that can be programmed
+Pour de nombreux historiens, le rêve d'un
+ordinateur moderne quelque peu reconnaissable qui peut être programmé
+
+to perform all sorts of calculations without
+continuous human number-punching, dates back
+pour effectuer toutes sortes de calculs sans
+numérotation humaine continue, remonte
+
+to 1837.
+à 1837.
+
+That’s when British mathematician Charles
+Babbage fully conceived a digital, programmable—but
+C'est alors que le mathématicien britannique Charles
+Babbage a entièrement conçu un ordinateur numérique, programmable mais
+
+mechanical—computer called the difference
+engine.
+mécanique.  ordinateur appelé le
+moteur de différence.
+
+This was a general purpose information processor:
+it wasn’t just for a single task, but for
+Il s'agissait d'un processeur d'informations à usage général :
+ce n'était pas seulement pour une seule tâche, mais pour
+
+solving general logic problems.
+résoudre des problèmes de logique générale.
+
+Sadly, the difference engine was never completed.
+Malheureusement, le moteur de différence n'a jamais été terminé.
+
+Babbage started working on it, but never finished
+due to cost overruns and fights with his machinist.
+Babbage a commencé à travailler dessus, mais n'a jamais terminé en
+raison de dépassements de coûts et de bagarres avec son machiniste.
+
+But we have his notes and those of his chronicler,
+British mathematician Ada Lovelace, who wrote
+Mais nous avons ses notes et celles de sa chroniqueuse,
+la mathématicienne britannique Ada Lovelace, qui a écrit
+
+the first algorithm intended for processing
+using a computer—basically, the first computer
+le premier algorithme destiné au traitement à l'
+aide d'un ordinateur - en gros, le premier
+
+program!—in 1843.
+programme informatique ! - en 1843.
+
+Fun fact, Lovelace was the daughter of Romantic
+poet Lord Byron!
+Fait amusant, Lovelace était la fille du
+poète romantique Lord  Byron !
+
+Another early computer was actually made and
+put into use in the United States.
+Un autre ordinateur ancien a été fabriqué et
+mis en service aux États-Unis.
+
+A young mathematician–inventor named Herman
+Hollerith combined the old technology of punch
+Un jeune mathématicien-inventeur nommé Herman
+Hollerith a combiné l'ancienne technologie des
+
+cards with the new technology of electrical
+circuits to produce a sorting and tabulating
+cartes perforées avec la nouvelle technologie des
+circuits électriques pour produire une machine de tri et de tabulation
+
+machine.
+.
+
+With his machine, the 1890 census was finished
+in weeks instead of years.
+Avec sa machine, le recensement de 1890 a été terminé
+en semaines au lieu d'années.
+
+Hollerith went on to found the Tabulating
+Machine Company.
+Hollerith a ensuite fondé la Tabulating
+Machine Company.
+
+And it’s still in business today—as the
+International Business Machines Corporation,
+Et il est toujours en activité aujourd'hui, sous le nom d'
+International Business Machines Corporation,
+
+or IBM.
+ou IBM.
+
+But neither Babbage and Lovelace’s way-ahead-of-their-time
+designs nor Hollerith’s super-sorter established
+Mais ni les conceptions en avance sur leur temps de Babbage et Lovelace,
+ni le super-trieur de Hollerith n'ont établi l'
+
+computing as a science.
+informatique comme une science.
+
+Some important developments happened in the
+years before World War Two.
+Certains développements importants se sont produits dans les
+années qui ont précédé la Seconde Guerre mondiale.
+
+For example, starting in the late 1920s, influential
+American engineer Vannevar Bush created an
+Par exemple, à partir de la fin des années 1920, l'influent
+ingénieur américain Vannevar Bush a créé un
+
+analog computer called a differential analyzer,
+which could solve calculus problems with as
+ordinateur analogique appelé analyseur différentiel,
+qui pouvait résoudre des problèmes de calcul avec
+
+many as eighteen independent variables.
+jusqu'à dix-huit variables indépendantes.
+
+But the war shoved computer science into the
+scientific limelight.
+Mais la guerre a propulsé l'informatique sur le
+devant de la scène scientifique.
+
+In the 1930s, British mathematician, linguist,
+cryptographer, philosopher, and all-around
+Dans les années 1930, le mathématicien, linguiste,
+cryptographe, philosophe et
+
+smarty pants Alan Turing laid the foundation
+for a mathematical science of computing.
+pantalon malin britannique Alan Turing a jeté les bases
+d'une science mathématique de l'informatique.
+
+ThoughtBubble, introduce us:
+ThoughtBubble, présentez-nous :
+
+Turing proposed the aptly named Turing machine—a
+thought experiment to figure out the limitations
+Turing a proposé la machine de Turing qui porte bien son nom, une
+expérience de pensée pour comprendre les limites
+
+of mechanical computation.
+du calcul mécanique.
+
+A Turing machine can theoretically perform
+an algorithm, or programmed operation.
+Une machine de Turing peut théoriquement exécuter
+un algorithme ou une opération programmée.
+
+It’s a universal computer.
+C'est un ordinateur universel.
+
+Turing couldn’t make an abstract perfect
+computer, but he could lay out how the logic
+Turing ne pouvait pas créer un ordinateur abstrait parfait
+, mais il pouvait expliquer comment la logique
+
+of writing and reading programs should work,
+and how a relatively simple device could,
+des programmes d'écriture et de lecture devrait fonctionner,
+et comment un appareil relativement simple pourrait
+
+given enough memory, accomplish any logical
+operation.
+, avec suffisamment de mémoire, accomplir n'importe quelle
+opération logique.
+
+During the war, Turing went to work in the
+super-secret “Ultra” program at Bletchley
+Pendant la guerre, Turing est allé travailler dans le programme
+super-secret "Ultra" à Bletchley
+
+Park, which was an estate for British codebreakers.
+Park, qui était un domaine pour les briseurs de code britanniques.
+
+Turing wasn’t the only computer innovator
+at Bletchley.
+Turing n'était pas le seul innovateur informatique
+à Bletchley.
+
+For one thing, eight thousand women worked
+there!
+D'une part, huit mille femmes
+y travaillaient !
+
+Also, an engineer named Tommy Flowers designed
+some for-the-time hyper-advanced computers
+En outre, un ingénieur nommé Tommy Flowers a conçu
+des ordinateurs hyper-avancés pour l'époque
+
+called the Colossus series, which also helped
+the Allies a lot.
+appelés la série Colossus, qui ont également
+beaucoup aidé les Alliés.
+
+And were kept secret until the 1970s!
+Et ont été tenues secrètes jusque dans les années 1970 !
+
+But Turing’s job, leading Ultra Hut Number
+Eight, was to decipher encrypted messages
+Mais le travail de Turing, à la tête de l'Ultra Hut Number
+Eight, consistait à déchiffrer les messages cryptés
+
+about German naval movements.
+sur les mouvements navals allemands.
+
+The Germans used a device called an Enigma
+machine to create supposedly unbreakable ciphers,
+Les Allemands ont utilisé un appareil appelé machine Enigma
+pour créer des chiffrements supposés incassables,
+
+or ways of encoding messages so that only
+someone with the same cipher could read the
+ou des moyens d'encoder des messages afin que seule une
+personne possédant le même chiffrement puisse lire le
+
+message.
+message.
+
+But Turing broke through, using a computer
+he built called the bombe, based on a Polish
+Mais Turing a percé, en utilisant un ordinateur
+qu'il a construit appelé la bombe, basé sur un
+
+computer.
+ordinateur polonais.
+
+These wartime computers weren’t super fast
+or sophisticated.
+Ces ordinateurs de guerre n'étaient ni super rapides
+ni sophistiqués.
+
+They were smart ways of automating a lot of
+dumb tasks.
+C'étaient des moyens intelligents d'automatiser de nombreuses
+tâches stupides.
+
+Thanks ThoughtBubble
+Merci ThoughtBubble
+
+After the war, Turing kept working on computers.
+Après la guerre, Turing a continué à travailler sur des ordinateurs.
+
+His 1948 essay “Intelligent Machinery”
+gave more details on the Turing machine.
+Son essai de 1948 "Intelligent Machinery"
+donne plus de détails sur la machine de Turing.
+
+Then, in 1950, he published “Computing Machinery
+and Intelligence” in the journal Mind.
+Puis, en 1950, il publie « Computing Machinery
+and Intelligence » dans la revue Mind.
+
+Go read it, it holds up!
+Allez le lire, ça tient la route !
+
+Basically, this article became foundational
+text in artificial intelligence or AI.
+Fondamentalement, cet article est devenu un
+texte fondamental en intelligence artificielle ou IA.
+
+Turing famously stated that the appearance
+of intelligence is proof of it.
+Turing a déclaré que l'apparition
+de l'intelligence en est la preuve.
+
+Turing arrived at this idea by thinking about
+a limit case: consider a computer that appears
+Turing est arrivé à cette idée en réfléchissant à
+un cas limite : considérez un ordinateur qui semble
+
+truly intelligent, like a human.
+vraiment intelligent, comme un humain.
+
+How would we know whether or not it is intelligent?
+Comment saurions-nous s'il est intelligent ou non ?
+
+Turing proposed a game to test the computer:
+talk to it like a person!
+Turing a proposé un jeu pour tester l'ordinateur : lui
+parler comme à une personne !
+
+This game is called the Turing Test and is
+still used as a challenge in AI:
+Ce jeu s'appelle le test de Turing et est
+toujours utilisé comme défi dans l'IA :
+
+a human asks questions to both a computer
+and another human, through a terminal, and
+un humain pose des questions à la fois à un ordinateur
+et à un autre humain, via un terminal, et
+
+tries to guess which is which from their responses.
+essaie de deviner lequel est lequel à partir de leurs réponses.
+
+The Turing Test was based on an old party
+game, in which you did the same thing via
+Le test de Turing était basé sur un vieux
+jeu de société, dans lequel vous faisiez la même chose via
+
+written notes, and tried to guess which
+of two unknown people was a man and which
+des notes écrites et essayiez de deviner laquelle
+de deux personnes inconnues était un homme et laquelle
+
+a woman.
+une femme.
+
+The Turing Test led to the Church–Turing
+Hypothesis: computation power is computation
+Le test de Turing a conduit à l'hypothèse de Church-Turing
+: la puissance de calcul est la
+
+power.
+puissance de calcul.
+
+It doesn’t matter if that power comes from
+electrical circuitry or a human brain, or
+Peu importe si cette puissance provient de
+circuits électriques ou d'un cerveau humain, ou à
+
+how fast the individual parts of the machine
+are.
+quelle vitesse les différentes parties de la machine
+sont.
+
+So any machine of sufficient power should
+be able to do any computation that a brain
+Ainsi, toute machine suffisamment puissante devrait
+être capable de faire n'importe quel calcul qu'un cerveau
+
+can do.
+peut faire.
+
+So… a sufficiently complex machine would
+be as intelligent as a brain—or more.
+Donc… une machine suffisamment complexe
+serait aussi intelligente qu'un cerveau, voire plus.
+
+The only limit to computational power is memory.
+La seule limite à la puissance de calcul est la mémoire.
+
+But in real life, no computer—whether brain
+or series of electrical circuits—has infinite
+Mais dans la vraie vie, aucun ordinateur, qu'il s'agisse d'un cerveau
+ou d'une série de circuits électriques, ne possède une
+
+memory.
+mémoire infinie.
+
+Even more ahead of his time, in his 1950 paper,
+Turing suggested that—instead of trying
+Encore plus en avance sur son temps, dans son article de 1950,
+Turing a suggéré qu'au lieu d'essayer
+
+to straight-up build a computer as intelligent
+as an adult human—it would be smarter to
+de construire directement un ordinateur aussi
+intelligent qu'un humain adulte, il serait plus intelligent de
+
+build a child’s mind and then teach it how
+to learn on its own.
+construire l'esprit d'un enfant, puis de lui apprendre
+à apprendre sur  sa propre. 
+
+BAM, machine learning!
+BAM, l'apprentissage automatique !
+
+So what recognition did Turing get for all
+of his hard work?
+Alors, quelle reconnaissance Turing a-t-il obtenue pour
+tout son travail acharné ?
+
+In 1952, in the course of a police investigation
+of a burglary at his home,
+En 1952, au cours d'une enquête policière
+sur un cambriolage à son domicile,
+
+the officials became aware that he was in
+a relationship with another man, and the British
+les fonctionnaires ont appris qu'il était
+en couple avec un autre homme et le
+
+government pressed charges.
+gouvernement britannique a porté plainte.
+
+Turing was convicted of “gross indecency”
+and sentenced to take libido-lowering hormones.
+Turing a été reconnu coupable de "grosse indécence"
+et condamné à prendre des hormones diminuant la libido.
+
+He died in 1954, possibly of suicide by cyanide-poisoned
+apple, possibly by inhalation of cyanide while
+Il est mort en 1954, peut-être d'un suicide par une pomme empoisonnée au cyanure
+, peut-être par inhalation de cyanure en
+
+working.
+travaillant.
+
+Either way, one of the greatest minds to ever
+live died at age forty-one.
+Quoi qu'il en soit, l'un des plus grands esprits de
+tous les temps est décédé à l'âge de quarante et un ans.
+
+He was not pardoned until 2016.
+Il n'a été gracié qu'en 2016.
+
+But before Turing died, he met with some important
+folks in the United States…
+Mais avant la mort de Turing, il a rencontré des personnalités importantes
+aux États-Unis…
+
+Hungarian-American physicist John von Neumann
+Le physicien hongrois-américain John von Neumann a
+
+met Turing in the 1930s
+and worked on foundational aspects of computer
+rencontré Turing dans les années 1930
+et a travaillé sur les aspects fondamentaux de l'
+
+science and AI.
+informatique et de l'IA.
+
+Von Neumann proposed the idea of storing a
+computer program in the computer’s memory.
+Von Neumann a proposé l'idée de stocker un
+programme informatique dans la mémoire de l'ordinateur.
+
+So instructions could be stored externally,
+instead of having to be fixed permanently
+Ainsi, les instructions pourraient être stockées en externe,
+au lieu d'avoir à être fixées de façon permanente
+
+in a given machine.
+dans une machine donnée.
+
+Turing also met with American mathematician
+named Claude Shannon during the 1930s, sharing
+Turing a également rencontré le mathématicien américain du
+nom de Claude Shannon dans les années 1930, partageant
+
+his ideas about the Turing Machine.
+ses idées sur la machine de Turing.
+
+Shannon, who invented the word “bit” and
+founded digital computing and circuit design
+Shannon, qui a inventé le mot "bit" et
+fondé la théorie de l'informatique numérique et de la conception de circuits
+
+theory while still a graduate student at MIT.
+alors qu'il était encore étudiant diplômé au MIT.
+
+And conducted some Turing-like codebreaking
+during World War Two.
+Et a mené des décryptages de code à la Turing
+pendant la Seconde Guerre mondiale.
+
+But he’s most well known for publishing
+a series of papers after the war that founded
+Mais il est surtout connu pour avoir publié
+une série d'articles après la guerre qui ont fondé
+
+information theory, which examines how information
+is encoded, stored, and communicated.
+la théorie de l'information, qui examine comment l'information
+est encodée, stockée et communiquée.
+
+We could do a whole episode on information
+theory, but some of the effects of Shannon’s
+Nous pourrions faire un épisode entier sur la
+théorie de l'information, mais certains des effets du travail de Shannon
+
+work were to help transition computers, televisions,
+and other systems of moving around information
+étaient d'aider à faire passer les ordinateurs, les téléviseurs
+et d'autres systèmes de déplacement de l'information
+
+from analog to digital.
+de l'analogique au numérique.
+
+And information theory led to the Internet!
+Et la théorie de l'information a conduit à Internet !
+
+And over at Harvard, American physicist Howard
+Aiken worked with the military and IBM to
+Et à Harvard, le physicien américain Howard
+Aiken a travaillé avec l'armée et IBM pour
+
+design and build a computer, the Harvard Mark
+I, in 1944.
+concevoir et construire un ordinateur, le Harvard Mark
+I, en 1944.
+
+This device was used by von Neumann to run
+a program to help design the atomic bomb.
+Cet appareil a été utilisé par von Neumann pour exécuter
+un programme d'aide à la conception de la bombe atomique.
+
+One of the other first programmers of the
+Mark I was American computer scientist and
+L'un des autres premiers programmeurs du
+Mark I était l'informaticienne américaine et
+
+rear admiral Grace Hopper,
+contre-amiral Grace Hopper,
+
+who invented one of the first compiler tools
+to translate programming language into machine
+qui a inventé l'un des premiers outils de compilation
+pour traduire le langage de programmation en
+
+code.
+code machine.
+
+She then worked on machine-independent programming
+languages, developing the early programming
+Elle a ensuite travaillé sur des langages de programmation indépendants de la machine
+, développant le premier
+
+language COBOL.
+langage de programmation COBOL.
+
+Computers after World War Two quickly became
+bigger, faster, and more complex—like the
+Les ordinateurs après la Seconde Guerre mondiale sont rapidement devenus
+plus gros, plus rapides et plus complexes, comme l'
+
+U.S. Navy-sponsored Electronic Numerical Integrator
+and Computer, or ENIAC, 1946,
+Electronic Numerical Integrator
+and Computer, ou ENIAC, 1946, parrainé par l'US Navy,
+
+which filled up a large room, and UNIVAC in
+1951, which was commercially mass-produced.
+qui remplissait une grande pièce, et UNIVAC en
+1951, qui était produit en série dans le commerce.  .
+
+These general-purpose computers were based
+on the principles laid out by theorists like
+Ces ordinateurs à usage général étaient basés
+sur les principes énoncés par des théoriciens comme
+
+Turing, von Neumann, and Shannon, and they
+used the languages developed by programmers
+Turing, von Neumann et Shannon, et ils
+utilisaient les langages développés par des programmeurs
+
+like Hopper.
+comme Hopper.
+
+These computers were built using a digital
+code—binary, with values of only “one”
+Ces ordinateurs ont été construits à l'aide d'un
+code numérique—binaire, avec des valeurs de seulement « un »
+
+or “zero”.
+ou « zéro ».
+
+And real-world computing really took off after
+the invention in 1947 of the solid-state transistor
+Et l'informatique du monde réel a vraiment décollé après
+l'invention en 1947 du transistor à semi-conducteurs
+
+by William Shockley at Bell Laboratories and
+room-filling “mainframe” computers for
+par William Shockley aux laboratoires Bell et des
+ordinateurs « centraux » remplissant la salle pour les
+
+businesses.
+entreprises.
+
+In a later episode, we’ll get to back to
+computers—and introduce one of our very
+Dans un épisode ultérieur, nous reviendrons aux
+ordinateurs et présenterons l'un de nos
+
+best friends in the history of technology,
+the Internet.
+meilleurs amis dans l'histoire de la technologie
+, Internet.
+
+But for now, let’s remember that, up until
+the 1950s, a computer was a person, usually
+Mais pour l'instant, rappelons-nous que, jusque dans
+les années 1950, un ordinateur était une personne, généralement
+
+a woman, who was a number cruncher—
+une femme, qui était une calculatrice,
+
+that is, someone who computes, using a machine.
+c'est-à-dire quelqu'un qui calcule en utilisant une machine.  Annie Easley, spécialiste afro-américaine des fusées, est l'
+
+One of those “computers” who became an
+engineer who used a computer was African-American
+un de ces « ordinateurs » qui sont devenus des
+ingénieurs qui ont utilisé un ordinateur
+
+rocket scientist Annie Easley.
+.
+
+In the era of Jim Crow laws, Easley left Alabama
+and went to work for NASA in Ohio.
+À l'ère des lois Jim Crow, Easley a quitté l'Alabama
+et est allé travailler pour la NASA dans l'Ohio.
+
+She developed computer code for NASA missions
+for decades.
+Elle a développé du code informatique pour les missions de la NASA
+pendant des décennies.
+
+Thus next time—humans finally get to play
+golf on the moon.
+Ainsi, la prochaine fois, les humains pourront enfin jouer au
+golf sur la lune.
+
+It’s the birth of air and space travel!
+C'est la naissance des voyages aériens et spatiaux !
+
+Crash Course History of Science is filmed
+in the Dr. Cheryl C. Kinney studio in Missoula,
+Crash Course History of Science est filmé
+dans le studio du Dr Cheryl C. Kinney à Missoula,
+
+Montana and it’s made with the help of all
+this nice people
+Montana et il est réalisé avec l'aide de toutes
+ces personnes sympathiques
+
+and our animation team is Thought Cafe.
+et notre équipe d'animation est Thought Cafe.
+
+Crash Course is a Complexly production.
+Crash Course est une production complexe.
+
+If you wanna keep imagining the world complexly
+with us, you can check out some of our other
+Si vous voulez continuer à imaginer le monde de manière complexe
+avec nous, vous pouvez consulter certaines de nos autres
+
+channels like Scishow, Eons, and Sexplanations.
+chaînes comme Scishow, Eons et Sexplanations.
+
+And, if you’d like to keep Crash Course
+free for everybody, forever, you can support
+Et, si vous souhaitez que Crash Course reste
+gratuit pour tout le monde, pour toujours, vous pouvez soutenir
+
+the series at Patreon;
+la série sur Patreon ;
+
+a crowdfunding platform that allows you to
+support the content you love.
+une plateforme de financement participatif qui vous permet de
+soutenir le contenu que vous aimez.
+
+Thank you to all of our patrons for making
+Crash Course possible with their continued
+Merci à tous nos mécènes d'avoir rendu
+Crash Course possible grâce à leur
+
+support.
+soutien continu.
+

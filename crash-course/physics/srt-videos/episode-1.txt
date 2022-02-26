@@ -1,0 +1,322 @@
+Bonjour, je suis le Dr Shini Somara, et j'ai entendu que vous vouliez apprendre la physique.
+
+C'est un bon choix.
+
+La physique est la science qui étudie le fonctionnement du monde et de l'univers.
+
+Et comme vous avez dû le remarquer, les objets ont tendance à beaucoup se déplacer.
+
+C'est donc ce que nous allons étudier pour commence : la science du mouvement.
+
+Et c'est très utile, pour étudier où vous êtes, ou
+
+où vous avez été, ou comment vous vous déplacez à travers le monde.
+
+Pourquoi est-ce intéressant ?
+
+Pour une raison : la police utilise la physique pour déterminer la vitesse à laquelle vous vous déplacez
+
+à travers le monde, et si ce mouvement est ou non hors la loi.
+
+Donc, si vous voulez comprendre comment et pourquoi ils vous ont donné une amende -- et peut-être
+
+la contester -- vous devez vous aussi connaître la science du mouvement.
+
+Pour ce faire, vous devrez comprendre quelques concepts essentiels qui
+
+décrivent votre situation physique dans l'univers.
+
+Ces concepts sont le temps, la position, la vitesse et l'accélération.
+
+Donc, pour discuter de toutes ces chose en même temps, vous aurez besoin d'équations
+
+qui sont liées entre elles.
+
+On les appelle les équations du mouvement.
+
+Nous allons donc maintenant parler de comment vous pouvez déterminer votre situation dans
+
+le monde, littéralement. Ce qui pourrait vous aider à contester cette amende pour excès de vitesse.
+
+Supposons que vous conduisiez sur route droite. Disons, un endroit sympa et
+
+plat, dans les espaces sauvages et ouverts des plaines du nord des États-Unis.
+
+Disons... le Dakota du nord.
+
+Vous arrivez à un feu rouge, et même s'il n'y a pas de voiture en vue, vous vous arrêtez. Parce que
+
+vous êtes un bon conducteur, respectueux du code de la route.
+
+Puis, le feu passe au vert, donc vous démarrez. Et exactement sept secondes plus tard, vous
+
+entendez la sirène et voyez le gyrophare d'une voiture de police.
+
+Vous recevez une amende pour excès de vitesse dans une zone limitée à 100 km/h.
+
+Mais attendez.
+
+Alliez-vous vraiment aussi vite ? Étiez-vous en excès de vitesse ? Vous ne savez pas parce que
+
+votre compteur de vitesse est cassé.
+
+Donc vous devez trouver un autre moyen de déterminer votre vitesse et décidez si
+
+vous allez porter l'affaire en justice.
+
+C'est ici que la physique intervient. La physique du mouvement en ligne droite.
+
+Voyons pour commencer comment votre voiture se déplaçait.
+
+Rouler en ligne droite est un mouvement en une dimension, car la voiture
+
+ne peut qu'avancer et reculer le long de cette ligne.
+
+C'est différent de quelque chose libre de se déplacer dans les trois dimensions, comme
+
+un boomerang volant dans les airs.
+
+Et au lieu de ne considérer que la vitesse ou la direction d'un mouvement, comme un policier
+
+ou un autre non-scientifique ferait, nous autres physiciens utilisons les maths
+
+pour mesurer les quatre principales grandeurs du mouvement d'une voiture -- son temps, sa position
+
+sa vitesse et son accélération.
+
+Le temps vous renseigne sur la durée pendant laquelle vous avez conduit. La position vous permet de
+
+connaître où vous êtes et où vous étiez. Elle peut même être négatif.
+
+Pour le mouvement en une dimension, il n'y a que deux directions possibles. Dans ce
+
+cas, en avant ou en arrière, vers l'est ou vers l'ouest.
+
+Donc si le changement de position, aussi appelé déplacement, est positif, vous saurez
+
+que vous avez été dans une de ces directions. Si c'est négatif, vous avez été dans
+
+l'autre sens.
+
+Mais laquelle est positive et laquelle est négative ? C'est totalement arbitraire. Vous
+
+pouvez décider que l'est est positif et l'ouest négatif, ou l'inverse,
+
+mais vos résultats auront la même signification.
+
+Vous devez simplement vous souvenir de quelle direction est positive, et l'avoir
+
+à l'esprit quand vous parlez de vitesse et d'accélération.
+
+La vitesse est la manière dont votre position évolue dans le temps, et ce n'est pas une mince affaire.
+
+C'est un peu comme la vitesse [même mot en français] mais elle vous renseigne aussi sur la direction
+
+dans laquelle vous allez, selon qu'elle est positive ou négative.
+
+Et que se passe-t-il quand votre vitesse varie ?
+
+C'est la quatrième composante du mouvement à laquelle il faudra prêter attention : l'accélération.
+
+Si vous avez déjà été dans une voiture dont le conducteur appuie sur la pédale, ce sentiment d'être
+
+pressé contre votre siège est dû à l'accélération. Votre vitesse change.
+
+Donc, comment représentons-nous tous ces composantes qui décrivent le mouvement de vous
+
+et de votre voiture dans les plaines du Dakota du nord ?
+
+Un non-physicien pourrait avoir envie d'utiliser une carte, mais pour nous, les graphiques
+
+sont le moyen le plus simple de montrer comment se produit ce changement de position.
+
+Les graphiques montrent en général la position en fonction du temps, avec la position sur l'axe vertical
+
+et le temps sur l'axe horizontal.
+
+Nous noterons x notre position et t le temps.
+
+Maintenant, imaginons trois différents scénarios de conduite dans cette petite ville,
+
+et représentons graphiquement chacune d'entre elles.
+
+D'abord, disons qu'après le feu tricolore, vous êtes resté à un endroit
+
+à 4 mètres du feu pendant trois secondes.
+
+De là, le graphe de votre position sera une ligne droite à x = 4 m, comme ceci.
+
+Maintenant, supposons qu'au lieu de vous être arrêté, vous avez avancé d'un mètre par seconde.
+
+Alors la ligne serait en pente, pour montrer comment votre position a évolué, comme ici.
+
+Et maintenant, disons que vous êtes toujours à l'arrêt 4 mètres après le feu, mais qu'ensuite
+
+vous avanciez tel que, après 1 seconde vous avez fait un mètre dans la direction positive,
+
+et qu'après 2 secondes vous avez fait 4 mètres, et qu'après 3 secondes vous avez fait 9 mètres.
+
+Dans ce cas, vous finissez avec un graphe courbe, comme ceci.
+
+Mais il y a plus en jeu dans ces scénarios que votre position et le temps. Vous êtes aussi
+
+capable de représentez votre vitesse et votre accélération.
+
+Donc, pour représenter votre vitesse, vous mettez votre vitesse sur l'axe vertical et le temps sur
+
+l'axe horizontal.
+
+Vous remarquerez que, puisque la vitesse est le changement de la position en fonction du temps,
+
+c'est mesuré en mètre par seconde.
+
+Le graphe pour l'accélération est assez similaire. L'accélération a va sur l'axe vertical
+
+et le temps sur l'axe horizontal.
+
+Et puisque l'accélération est la mesure du changement en mètre par seconde, son unité est
+
+le mètre par seconde par seconde, soit le mètre par seconde au carré.
+
+Donc : le temps, la position, la vitesse et l'accélération sont tous liés ensemble. La vitesse est la
+
+variation de position dans le temps, et l'accélération est la changement de vitesse dans le temps.
+
+Et souvent, votre vitesse sera différente d'un moment à un autre, comme dans le troisième cas
+
+de conduite sur la route, quand vous accélérez.
+
+Supposions que vous vouliez connaître vitesse moyenne pendant une certaine période. Disons,
+
+pendant les trois premières secondes.
+
+Vous devez prendre la variation de position, et la diviser par la variation de temps.
+
+Pour déterminer la variation de quelque chose, vous devez soustraire sa valeur initiale
+
+de sa valeur finale.
+
+Et comme, en tant que physicien, on fait ça assez souvent, on abrège cette différence
+
+en utilisant la lettre grecque majuscule delta.
+
+Donc nous pouvons utiliser ceci pour écrire l'équation de la vitesse moyenne : c'est « delta x » sur
+
+« delta t ». La variation de position sur la variation de temps.
+
+Maintenant, que dire du troisième scénario, celui où vous accélérez constamment ?
+
+Vous commencez à 4 mètre du feu, et vous finissez à 13 mètres. Donc votre variation en
+
+position, ou « delta x », sera de 13 moins 4, soit 9 mètres.
+
+Et vous avez commencé à 0 seconde, et fini à 3 secondes, donc « delta t » vaut 3 secondes.
+
+En 3 secondes, vous avez fait 9 mètres. C'est 3 mètres par seconde !
+
+L'équation qui décrit l'accélération moyenne ressemble beaucoup à celle de la vitesse moyenne,
+
+parce que c'est simplement la variation en vitesse divisée par la variation en temps.
+
+Donc, dans ce cas, votre équation sera « delta v » sur « delta t ».
+
+Et maintenant, voici quelque chose d'assez pratique.
+
+Puisqu'on parle d'accélération constante,
+
+on peut réécrire cette équation pour avoir v = v_0 + at.
+
+Ce qui donne la vitesse moyenne, égale à la vitesse au temps 0 plus le produit de l'accélération par
+
+le temps.
+
+Ceci, mes chers amis, est une équation que nous réutiliserons beaucoup.
+
+Il s'agit de la définition exacte de l'accélération. Elle
+
+dit que l'accélération est égale à la variation de la vitesse divisée par la variation
+
+en temps. Nous utilisons juste un peu de maths pour arranger les variables.
+
+Maintenant, il faut noter qu'il existe de nombreuses sortes d'accélération, et qui
+
+n'impliquent pas d'amendes pour excès de vitesse. Comme quand quelque chose tombe.
+
+La force de gravité l'entraînant vers le bas le fait accélérer à 9,81 mètres par seconde au carré,
+
+ce que les physiciens abrège souvent en g minuscule.
+
+Donc, nous l'appellerons simplement « petit g ». Il y a un « grand G » qui va
+
+apparaître plus tard.
+
+Donc, la définition de l'accélération est la première des deux principales équations de la cinématique
+
+que nous utiliserons. Mais elle ne lie que la vitesse, l'accélération et le temps. Qu'en est-il de la position ?
+
+Il y a une équation pour ça aussi, la seconde équation de la cinématique, que nous appellerons
+
+la courbe de déplacement, parce qu'elle inclue votre accélération, votre vitesse initiale et
+
+la durée de votre mouvement, et utilise ces informations pour déterminer quel fut votre déplacement.
+
+Et l'équation de la courbe de déplacement ressemble à ceci.
+
+C'est logique, si votre accélération est la variation de votre vitesse,
+
+et votre vitesse est la variation de votre position, alors il devrait y avoir un moyen de tous les relier.
+
+Il y a beaucoup d'autres équations cinématiques, comme celles-ci.
+
+Mais vous ne devez vraiment connaître que les deux premières, la définition de l'accélération et
+
+la courbe de déplacement. Les autres en sont juste des réécritures.
+
+Et comme ces deux équations ont beaucoup de termes communs, vous pouvez les utiliser ensemble.
+
+vraiment facilement.
+
+Par exemple, si vous connaissez l'accélération, et vos vitesses initiale et finale, vous
+
+pouvez utiliser la définition de l'accélération pour déterminer combien de temps vous avez roulé.
+
+Ensuite, vous pourriez insérer cette valeur du temps dans l'équation de la courbe de déplacement et l'utiliser
+
+pour déterminer votre déplacement.
+
+Maintenant que nous connaissons les équations cinématiques, nous pouvons utiliser la physique
+
+pour déterminer si vous étiez en excès de vitesse quand les policiers vous ont arrêté.
+
+Comme avec la plupart des problèmes, commençons par écrire tout ce que nous savons.
+
+Dans ce cas, nous savons que notre vitesse initiale, v, était nulle et que le temps était de 7 secondes.
+
+La première chose à calculer est l'accélération, que nous pouvons obtenir via la courbe de déplacement.
+
+Avec ce que nous connaissons, nous trouvons que notre accélération a est de 5 mètres par seconde au carré.
+
+Ensuite, on peut reporter ça dans la définition de l'accélération, pour trouver notre vitesse finale,
+
+comme ceci :
+
+Nous savons que nous allions à 35 mètres par secondes quand les policiers nous ont arrêtés, ce qui fait
+
+126 kilomètres par heure.
+
+Donc vous méritez totalement cette amende. Désolé.
+
+Dans ce premier épisode de Crash Course Physics, vous avez tout appris sur la position, la vitesse
+
+et l'accélération. Nous avons aussi parler des deux principales équations cinématiques, la définition
+
+de l'accélération, et la courbe de déplacement.
+
+Crash Course Physics est produit en association avec PBS Digital Studios. Vous trouverez sur
+
+leur chaîne des émissions incroyables comme Deep Look, The Good Stuff and PBS Space Time.
+
+Cet épisode de Crash Course a été filmé dans le studio Crash Course du Dr Cheryl C. Kinney
+
+avec l'aide de ces gens formidables et notre équipe graphique est Thought Cafe.
+

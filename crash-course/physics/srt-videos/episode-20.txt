@@ -1,0 +1,405 @@
+This episode of Crash Course Physics is sponsored
+by Audible.
+Cet épisode de Crash Course Physics est sponsorisé
+par Audible.
+
+Have you ever taken a good look at your nearest
+bridge?
+Avez-vous déjà bien regardé le
+pont le plus proche ?
+
+We already know what can happen to a bridge if you don’t consider all the variables before you build one.
+Nous savons déjà ce qui peut arriver à un pont si vous ne considérez pas toutes les variables avant d'en construire un.
+
+But what about the ones that work just fine, like the ones you cross every day, like on your commute?
+Mais qu'en est-il de ceux qui fonctionnent très bien, comme ceux que vous croisez tous les jours, comme sur vos trajets domicile-travail ?
+
+If you’ve ever stopped to take a look, you might notice that there are cracks in the concrete.
+Si vous vous êtes déjà arrêté pour jeter un coup d'œil, vous remarquerez peut-être qu'il y a des fissures dans le béton.
+
+These cracks are a few centimeters thick, and they contain what looks like some kind of metal grating.
+Ces fissures ont quelques centimètres d'épaisseur et contiennent ce qui ressemble à une sorte de grille métallique.
+
+The cracks and grating are there for a reason:
+Les fissures et les grilles sont là pour une raison :
+
+They’re called expansion joints, and without them, the bridges would probably have failed a long time ago.
+on les appelle des joints de dilatation, et sans eux, les ponts auraient probablement échoué il y a longtemps.
+
+If there are bridges in your town, they probably
+have expansion joints, too.
+S'il y a des ponts dans votre ville, ils
+ont probablement aussi des joints de dilatation.
+
+So why are these ugly metal cracks necessary?
+Alors pourquoi ces vilaines fissures métalliques sont-elles nécessaires ?
+
+The answer has to do with thermodynamics: the study of temperature, and how it affects matter.
+La réponse a à voir avec la thermodynamique : l'étude de la température, et comment elle affecte la matière.
+
+[Theme Music]
+[Thème musical]
+
+So what is temperature, anyway?
+Alors, qu'est-ce que la température, de toute façon ?
+
+At the most basic level, temperature is a measure of how much kinetic energy -- that is, the energy of motion -- is in a system.
+Au niveau le plus élémentaire, la température est une mesure de la quantité d'énergie cinétique - c'est-à-dire l'énergie du mouvement - présente dans un système.
+
+The hotter something is, the higher its temperature.
+Plus quelque chose est chaud, plus sa température est élevée.
+
+It has more kinetic energy, because its atoms
+and molecules are moving around more.
+Il a plus d'énergie cinétique, car ses atomes
+et ses molécules se déplacent davantage.
+
+And the easiest way to figure out if there’s a temperature difference between two systems is through heat transfer.
+Et le moyen le plus simple de déterminer s'il existe une différence de température entre deux systèmes est le transfert de chaleur.
+
+The hotter system will always transfer heat
+to the colder one.
+Le système le plus chaud transférera toujours de la chaleur
+au système le plus froid.
+
+And if there’s no heat transfer between
+systems at all, that’s called thermal equilibrium.
+Et s'il n'y a aucun transfert de chaleur entre les
+systèmes, c'est ce qu'on appelle l'équilibre thermique.
+
+But usually, there will be some heat transfer, because that’s how the temperature of a system changes.
+Mais généralement, il y aura un transfert de chaleur, car c'est ainsi que la température d'un système change.
+
+And when the temperature of an object changes,
+it can undergo what’s known as thermal expansion.
+Et lorsque la température d'un objet change,
+il peut subir ce qu'on appelle une dilatation thermique.
+
+Usually, an increase in temperature will make a solid expand, and a decrease in temperature will make it contract.
+Habituellement, une augmentation de la température fera dilater un solide et une diminution de la température le fera se contracter.
+
+Now, there are two main ways that the dimensions of a solid can change, based on a change in temperature.
+Maintenant, les dimensions d'un solide peuvent changer de deux manières principales, en fonction d'un changement de température.
+
+It can increase or decrease in length; or
+it can increase or decrease in volume.
+Il peut augmenter ou diminuer de longueur ;  ou
+il peut augmenter ou diminuer de volume.
+
+These changes in length and volume work in a very similar way to the changes in length and volume from stress and strain, that we talked about in our episode on statics.
+Ces changements de longueur et de volume fonctionnent de manière très similaire aux changements de longueur et de volume dus au stress et à la tension, dont nous avons parlé dans notre épisode sur la statique.
+
+In the case of a bridge, the change is in
+its length -- what’s known as linear expansion.
+Dans le cas d'un pont, le changement est dans
+sa longueur - ce qu'on appelle l'expansion linéaire.
+
+And the equation that we use to describe linear expansion, says that the change in length is equal to what’s known as the coefficient of linear expansion
+Et l'équation que nous utilisons pour décrire l'expansion linéaire, dit que le changement de longueur est égal à ce qu'on appelle le coefficient d'expansion linéaire
+
+x the initial length x the change in temperature
+x la longueur initiale x le changement de température
+
+So let’s break down that equation to see
+how it works.
+Alors décomposons cette équation pour voir
+comment cela fonctionne.
+
+The longer the bridge is to start with, the
+more it will expand or contract.
+Plus le pont est long au départ,
+plus il se dilatera ou se contractera.
+
+And the greater the temperature change, the
+more it will also expand or contract.
+Et plus le changement de température est important,
+plus il se dilatera ou se contractera également.
+
+The only other thing that the change in length depends on is that coefficient of linear expansion, represented by the Greek letter alpha.
+La seule autre chose dont dépend le changement de longueur est ce coefficient de dilatation linéaire, représenté par la lettre grecque alpha.
+
+The value for that coefficient depends on the material, and the higher the coefficient is, the more the length of the material will change in response to a change in temperature.
+La valeur de ce coefficient dépend du matériau, et plus le coefficient est élevé, plus la longueur du matériau changera en réponse à un changement de température.
+
+And that’s why bridges have expansion joints:
+Et c'est pourquoi les ponts ont des joints de dilatation :
+
+to give the concrete room to expand when it’s warmer outside, and contract back down in cooler weather.
+pour donner au béton la possibilité de se dilater lorsqu'il fait plus chaud à l'extérieur et de se contracter par temps plus frais.
+
+Without expansion joints, the concrete would
+experience much more stress,
+Sans joints de dilatation, le béton
+subirait beaucoup plus de contraintes
+
+and you’d be much more likely to end up
+with a broken bridge.
+et vous seriez beaucoup plus susceptible de vous retrouver
+avec un pont cassé.
+
+And the same principles apply to other kinds
+of expansion.
+Et les mêmes principes s'appliquent aux autres types
+d'expansion.
+
+Volume expansion is just like linear expansion, except that the change happens in all three dimensions.
+L'expansion de volume est comme l'expansion linéaire, sauf que le changement se produit dans les trois dimensions.
+
+The equation for volume expansion just says
+that the change in volume is
+L'équation de l'expansion volumique indique simplement
+que le changement de volume est
+
+equal to the coefficient of volume expansion, times the initial volume, times the change in temperature.
+égal au coefficient d'expansion volumique, multiplié par le volume initial, multiplié par le changement de température.
+
+As with linear expansion, the bigger the object is in the first place, the more it’ll expand or contract.
+Comme pour l'expansion linéaire, plus l'objet est grand en premier lieu, plus il se dilate ou se contracte.
+
+And a greater temperature change will lead
+to a greater change in volume.
+Et un changement de température plus important
+entraînera un changement de volume plus important.
+
+Finally, the volume change depends on how much of a tendency any particular material has to expand or contract.
+Enfin, le changement de volume dépend de la tendance d'un matériau particulier à se dilater ou à se contracter.
+
+That's its coefficient of volume expansion
+-- represented by the Greek letter beta.
+C'est son coefficient d'expansion de volume
+- représenté par la lettre grecque bêta.
+
+But changes in temperature don’t only affect
+solids; they also affect gases.
+Mais les changements de température n'affectent pas seulement les
+solides ;  ils affectent également les gaz.
+
+And in gases, temperature has a direct bearing
+on the pressure, volume, and amount of the gas;
+Et dans les gaz, la température a une incidence directe
+sur la pression, le volume et la quantité de gaz ;
+
+all four of those properties are related to
+one another.
+ces quatre propriétés sont liées les
+unes aux autres.
+
+If you’ve taken a chemistry course, like maybe the one Hank hosted, you’re probably already familiar with the concept of an ideal gas:
+Si vous avez suivi un cours de chimie, comme peut-être celui que Hank a animé, vous connaissez probablement déjà le concept de gaz parfait :
+
+a hypothetical gas that obeys a certain set of rules, which lets you describe it more simply.
+un gaz hypothétique qui obéit à un certain ensemble de règles, ce qui vous permet de le décrire plus simplement.
+
+So, what are these rules?
+Alors, quelles sont ces règles ?
+
+Well, an ideal gas is made up of lots of molecules
+that move around randomly.
+Eh bien, un gaz parfait est composé de nombreuses molécules
+qui se déplacent de manière aléatoire.
+
+As they’re zooming around, those molecules
+might collide, and bounce off one another,
+Pendant qu'elles tournent en rond, ces molécules
+peuvent entrer en collision et rebondir les unes sur les autres,
+
+but they’ll exert no other forces on each
+other, outside of these collisions.
+mais elles n'exerceront aucune autre force les unes sur les
+autres, en dehors de ces collisions.
+
+And, the volume of all the gas molecules combined is very small, compared to the volume of the container.
+Et, le volume de toutes les molécules de gaz combinées est très petit, comparé au volume du récipient.
+
+And in many cases, a real gas is close enough
+to an ideal gas, that these assumptions apply.
+Et dans de nombreux cas, un gaz réel est suffisamment proche
+d'un gaz idéal pour que ces hypothèses s'appliquent.
+
+Which means that we can use the equations that describe ideal gases to describe the behavior of lots of real-life situations, too.
+Ce qui signifie que nous pouvons également utiliser les équations qui décrivent les gaz idéaux pour décrire le comportement de nombreuses situations réelles.
+
+And each of these laws is named after a uniquely awesome individual who lived hundreds of years ago.
+Et chacune de ces lois porte le nom d'un individu particulièrement impressionnant qui a vécu il y a des centaines d'années.
+
+The first is called Boyle’s Law.
+La première s'appelle la loi de Boyle.
+
+And it says that as you increase the pressure of a gas while holding the temperature constant,
+Et il dit que lorsque vous augmentez la pression d'un gaz tout en maintenant la température constante,
+
+the volume of the gas will go down -- and
+vice versa.
+le volume du gaz diminuera - et
+vice versa.
+
+When you increase the pressure, you’re squeezing the molecules together, so they occupy less space.
+Lorsque vous augmentez la pression, vous pressez les molécules ensemble, elles occupent donc moins d'espace.
+
+The second basic law is called Charles’s
+Law, and it says that:
+La deuxième loi fondamentale s'appelle la loi de Charles
+, et elle dit que :
+
+as you increase the temperature of a gas while holding the pressure constant, the volume of the gas will go up -- and vice versa.
+lorsque vous augmentez la température d'un gaz tout en maintenant la pression constante, le volume du gaz augmentera - et vice versa.
+
+Raising the temperature of the gas gives the molecules more energy, which means they can rocket around more forcefully, expanding the size of the container.
+L'augmentation de la température du gaz donne aux molécules plus d'énergie, ce qui signifie qu'elles peuvent propulser avec plus de force, augmentant ainsi la taille du récipient.
+
+So far, we’ve talked about how the properties of an ideal gas relate to each other when you hold the temperature constant, and when you hold the pressure constant.
+Jusqu'à présent, nous avons parlé de la relation entre les propriétés d'un gaz parfait lorsque vous maintenez la température constante et lorsque vous maintenez la pression constante.
+
+So you can probably guess what the third law
+is for: it’s called Gay-Lussac’s Law,
+Vous pouvez donc probablement deviner à quoi sert la troisième
+loi : elle s'appelle la loi de Gay-Lussac,
+
+and it says that as you increase the temperature of a gas, while holding the volume constant, the pressure of the gas will go up -- and vice versa.
+et elle dit que lorsque vous augmentez la température d'un gaz, tout en maintenant le volume constant, la pression du gaz augmentera - et vice-versa  versa.
+
+What’s happening here is that the increase in temperature again gives the gas molecules more energy and a higher speed.
+Ce qui se passe ici, c'est que l'augmentation de la température donne à nouveau aux molécules de gaz plus d'énergie et une vitesse plus élevée.
+
+But this time, the size of the container is
+fixed.
+Mais cette fois, la taille du conteneur est
+fixe.
+
+So the molecules hit the sides of the container more often, and with more force, increasing the pressure inside.
+Ainsi, les molécules frappent les parois du récipient plus souvent et avec plus de force, augmentant la pression à l'intérieur.
+
+All three of these laws can be combined into one main equation, known simply as the ideal gas law, which also takes into account the amount of the gas:
+Ces trois lois peuvent être combinées en une seule équation principale, connue simplement sous le nom de loi des gaz parfaits, qui tient également compte de la quantité de gaz : la
+
+Pressure times volume is equal to the number
+of moles in the gas, x R x the temperature.
+pression multipliée par le volume est égale au nombre
+de moles dans le gaz, x R x le  Température. 
+
+Also known as P V equals n R T.
+Aussi connu sous le nom de P V est égal à n R T.
+
+The n stands for the number of moles of the gas.
+Le n représente le nombre de moles de gaz.
+
+A mole is just a unit that’s used to measure the amount of a substance -- in this case, a gas, in terms of the number of molecules.
+Une mole est juste une unité utilisée pour mesurer la quantité d'une substance - dans ce cas, un gaz, en termes de nombre de molécules.
+
+If you have one mole of a gas, it means that you have 6.02 x 10^23 molecules of the stuff.
+Si vous avez une mole de gaz, cela signifie que vous avez 6,02 x 10 ^ 23 molécules de substance.
+
+R, meanwhile, is what’s called the universal gas constant.
+R, quant à lui, est ce qu'on appelle la constante universelle des gaz.
+
+It’s a number that connects the pressure and volume of an ideal gas to the number of moles of the gas and its temperature.
+C'est un nombre qui relie la pression et le volume d'un gaz parfait au nombre de moles du gaz et à sa température.
+
+And for every ideal gas -- as long as your units are consistent -- R will be exactly the same number.
+Et pour chaque gaz parfait - tant que vos unités sont cohérentes - R sera exactement le même nombre.
+
+The ideal gas law includes the three basic laws we just talked about:
+La loi des gaz parfaits comprend les trois lois de base dont nous venons de parler :
+
+how pressure changes with volume, how temperature changes with volume, and how pressure changes with temperature.
+comment la pression change avec le volume, comment la température change avec le volume et comment la pression change avec la température.
+
+But instead of talking about each of those relationships individually, it lets you relate all four properties of a gas -- including how much gas you have.
+Mais au lieu de parler de chacune de ces relations individuellement, cela vous permet de relier les quatre propriétés d'un gaz, y compris la quantité de gaz dont vous disposez.
+
+To see all of this in action, let’s consider how the ideal gas law relates to your commute.
+Pour voir tout cela en action, considérons comment la loi des gaz parfaits se rapporte à votre trajet.
+
+Let’s say that as part of your daily routine, you drive to school once in the morning, and once in the afternoon.
+Disons que dans le cadre de votre routine quotidienne, vous conduisez à l'école une fois le matin et une fois l'après-midi.
+
+It’s pretty chilly in your car as you drive in the morning -- about 285 Kelvin -- and you don’t bother to turn on the heat.
+Il fait assez frais dans votre voiture lorsque vous conduisez le matin - environ 285 Kelvin - et vous ne prenez pas la peine d'allumer le chauffage.
+
+By the time the afternoon comes along, it’s much warmer in your car -- about 300 Kelvin -- but you don’t turn on the air conditioning.
+Au moment où l'après-midi arrive, il fait beaucoup plus chaud dans votre voiture - environ 300 Kelvin - mais vous n'allumez pas la climatisation.
+
+What we want to know is, how many fewer moles of air are there in your car in the afternoon?
+Ce que nous voulons savoir, c'est combien de moles d'air en moins y a-t-il dans votre voiture l'après-midi ?
+
+Your car isn’t airtight, so molecules of air are free to move in and out.
+Votre voiture n'est pas étanche à l'air, donc les molécules d'air sont libres d'entrer et de sortir.
+
+We’ll say that the volume of the inside of your car, where you sit, is about 5 meters cubed.
+Nous dirons que le volume de l'intérieur de votre voiture, où vous êtes assis, est d'environ 5 mètres cubes.
+
+And that volume isn’t going to change much.
+Et ce volume ne changera pas beaucoup.
+
+The pressure inside your car is going to be equal to the outside air pressure, which we’ll take to be the standard atmospheric pressure, or 101,325 Pascals.
+La pression à l'intérieur de votre voiture sera égale à la pression de l'air extérieur, que nous considérerons comme la pression atmosphérique standard, soit 101 325 Pascals.
+
+So, how many moles of air were inside your car as you drove to class in the morning?
+Alors, combien de moles d'air se trouvaient à l'intérieur de votre voiture lorsque vous vous êtes rendu en cours le matin ?
+
+Well, according to the ideal gas law, the amount of gas in moles is equal to pressure x volume divided by temperature x the universal gas constant.
+Eh bien, selon la loi des gaz parfaits, la quantité de gaz en moles est égale à la pression x le volume divisé par la température x la constante universelle des gaz.
+
+And 101,325 Pascals x 5 meters cubed, divided by the universal gas constant x 285 Kelvin, is about 214 moles.
+Et 101 325 Pascals x 5 mètres cubes, divisés par la constante universelle des gaz x 285 Kelvin, équivaut à environ 214 moles.
+
+So there were roughly 214 moles of air in your car when you drove to class in the morning.
+Il y avait donc environ 214 moles d'air dans votre voiture lorsque vous vous êtes rendu en classe le matin.
+
+Now, how many moles of air were inside your car when you drove home in the afternoon, when it was about 15 Kelvin warmer than in the morning?
+Maintenant, combien de moles d'air se trouvaient à l'intérieur de votre voiture lorsque vous êtes rentré chez vous l'après-midi, alors qu'il faisait environ 15 Kelvin de plus que le matin ?
+
+We do the same calculation, just this time with temperature equal to 300 Kelvin,
+Nous faisons le même calcul, juste cette fois avec une température égale à 300 Kelvin,
+
+and find that there were only about 203 moles of air inside your car in the afternoon.
+et constatons qu'il n'y avait qu'environ 203 moles d'air à l'intérieur de votre voiture l'après-midi.
+
+That’s a difference of 11 moles!
+C'est une différence de 11 moles !
+
+So there’s about 5.2% less air in your car than there was in the morning, just because it got a little warmer outside.
+Il y a donc environ 5,2 % d'air en moins dans votre voiture qu'il n'y en avait le matin, simplement parce qu'il faisait un peu plus chaud dehors.
+
+Today, you learned about temperature.
+Aujourd'hui, vous avez appris la température.
+
+We talked about thermal expansion, including linear and volume expansion.
+Nous avons parlé de dilatation thermique, y compris la dilatation linéaire et volumique.
+
+And we went over the ideal gas law, and how to use it to find the number of moles of air in your car.
+Et nous avons passé en revue la loi des gaz parfaits et comment l'utiliser pour trouver le nombre de moles d'air dans votre voiture.
+
+This episode of Crash Course Physics is supported by Audible.com
+Cet épisode de Crash Course Physics est pris en charge par Audible.com
+
+And right now Audible is offering viewers a 30 day trial period.
+Et en ce moment, Audible offre aux téléspectateurs une période d'essai de 30 jours.
+
+Check out audible.com/crashcourse to access their audio programs and titles like this book, A Brief History of Time by Stephen Hawking.
+Consultez audible.com/crashcourse pour accéder à leurs programmes audio et à des titres comme ce livre, A Brief History of Time de Stephen Hawking.
+
+Fascinating stuff that Hawking makes super understandable, which, you know, isn't always easy.
+Des trucs fascinants que Hawking rend super compréhensibles, ce qui, vous savez, n'est pas toujours facile.
+
+Actually, it's quite difficult at times.
+En fait, c'est parfois assez difficile.
+
+So go to audible.com/crashcourse and make sure you use that link to help us out and for you to get a free membership trial.
+Alors rendez-vous sur audible.com/crashcourse et assurez-vous d'utiliser ce lien pour nous aider et pour que vous puissiez bénéficier d'un essai gratuit d'adhésion.
+
+Crash Course Physics is produced in association with PBS Digital Studios.
+Crash Course Physics est produit en association avec PBS Digital Studios.
+
+You can head over to their channel and check out a playlist of the latest episodes from shows like:
+Vous pouvez vous rendre sur leur chaîne et consulter une liste de lecture des derniers épisodes d'émissions telles que :
+
+First Person, PBS Off Book, and PBS Game/Show.
+First Person, PBS Off Book et PBS Game/Show.
+
+This episode of Crash Course was filmed in the Doctor Cheryl C. Kinney Crash Course Studio
+Cet épisode de Crash Course a été filmé dans le studio Doctor Cheryl C. Kinney Crash Course
+
+with the help of these amazing people and our equally amazing graphics team is Thought Cafe.
+avec l'aide de ces personnes incroyables et notre équipe graphique tout aussi incroyable est Thought Cafe.
+

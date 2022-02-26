@@ -1,0 +1,948 @@
+we've talked about an industrial
+nous avons parlé d'une
+
+revolution that wasn't really about
+révolution industrielle qui n'était pas vraiment une question
+
+epistemic or what's really going on
+épistémique ou ce qui se passe vraiment sur les
+
+questions but about how to make stuff
+questions, mais sur la façon de faire
+
+work in the real world now it's time to
+fonctionner les choses dans le monde réel maintenant il est temps de
+
+come back to all that cool technology
+revenir à toute cette technologie cool
+
+from the early 1800s how does steam work
+du début des années 1800 comment fonctionne la vapeur  travail
+
+how can we quantify hot air or
+comment pouvons-nous quantifier l'air chaud ou
+
+mathematically describe the motion of a
+décrire mathématiquement le mouvement d'un
+
+piston or the heat from the barrel of a
+piston ou la chaleur du canon d'un
+
+cannon
+canon
+
+[Music]
+[Musique] la
+
+thermodynamics or the physics of heat
+thermodynamique ou la physique de la chaleur
+
+temperature energy and work doesn't
+température l'énergie et le travail n'a pas
+
+really have a Darwin and Wallace it's a
+vraiment un Darwin et Wallace c'est
+
+lot Messier scientists were confused
+beaucoup Messier  les scientifiques étaient confus au
+
+about the basic concepts of heat
+sujet des concepts de base du transfert de chaleur
+
+transfer or how stuff heats up or cools
+ou de la façon dont les choses se réchauffent ou se
+
+down and temperature and for most of
+refroidissent et de la température et pour la majeure partie de
+
+human history that didn't even have a
+l'histoire humaine qui n'avait même pas un
+
+good way to measure temperature Galileo
+bon moyen de mesurer la température Galileo
+
+and Newton made attempts but it wasn't
+et Newton ont fait des tentatives, mais ce n'est
+
+until the early 1700s that Gabriel
+que le  début des années 1700 que Gabriel
+
+Fahrenheit finally nailed it
+Fahrenheit a finalement réussi
+
+but that still doesn't explain how and
+mais cela n'explique toujours pas comment et
+
+why things heat up a lot of people tried
+pourquoi les choses se réchauffent beaucoup de gens ont essayé
+
+to crack the physics behind these
+de déchiffrer la physique derrière ces
+
+phenomena like chemist Antoine Lavoisier
+phénomènes comme le chimiste Antoin  e Lavoisier se
+
+remember him from episode 18 he used the
+souvient de lui dans l'épisode 18, il a utilisé la
+
+caloric theory which explained heat
+théorie calorique qui expliquait le
+
+transfer as an ether or colorless fluid
+transfert de chaleur comme un éther ou un fluide incolore
+
+that migrated from a body at a higher
+qui migrait d'un corps à une
+
+temperature to one at a lower
+température plus élevée vers un autre à une
+
+temperature this made sense to Lavoisier
+température plus basse, cela avait du sens pour Lavoisier
+
+when he was appending chemistry but it
+lorsqu'il ajoutait de la chimie mais
+
+was wrong in fact ether was the
+c'était  faux en fait l'éther était l'
+
+explanation for many unknown phenomenon
+explication de nombreux phénomènes inconnus
+
+in the 18th century and there were a lot
+au 18ème siècle et il y avait beaucoup
+
+of conflicting ether theories throughout
+de théories contradictoires sur l'éther tout
+
+the entire 1800s a large number of
+au long des années 1800 un grand nombre de
+
+chemists physicists engineers and
+chimistes physiciens ingénieurs et
+
+mathematicians across the world worked
+mathématiciens à travers le monde ont
+
+out the not wrong physics of heat and
+élaboré la physique de la chaleur et du
+
+motion one of the first was American
+mouvement  l'un des premiers était le
+
+physicist Benjamin Thompson better known
+physicien américain Benjamin Thompson mieux connu sous le
+
+as count Rumford we've actually met
+nom de comte Rumford nous avons rencontré
+
+Rumford before he married Lavoisier is
+Rumford avant son mariage Lavoisier est
+
+scientifically inclined Widow Marie so
+scientifiquement incliné Veuve Marie alors
+
+yes Marie Lavoie CA helped develop the
+oui Marie Lavoie CA a aidé à développer les
+
+modern sciences of both chemistry and
+sciences modernes de la chimie et de
+
+the physics of heat and energy Rumford
+la physique de la chaleur et de l'énergie Rumford
+
+conducted a lot of experiments in the
+mené de nombreuses expériences dans les
+
+barrels of canons like how to measure
+canons des canons comme la façon de mesurer
+
+and insulate against heat he noticed
+et d'isoler  contre la chaleur, il a remarqué
+
+that certain materials insulated better
+que certains matériaux isolaient mieux
+
+than others and that air seemed to be
+que d'autres et que l'air semblait être
+
+involved in the transfer of heat and
+impliqué dans le transfert de chaleur et a
+
+concluded that air is a great insulator
+conclu que l'air est un excellent isolant.
+
+he then moved on to liquids and
+Il est ensuite passé aux liquides et a
+
+concluded that they are also great
+conclu qu'ils sont également de grands
+
+insulators all of them which you know
+isolants.  savoir que l'
+
+water boils
+eau bout
+
+some kind of problematic science but he
+une sorte de science problématique, mais il a
+
+kept going in his experiments Rumford
+continué dans ses expériences Rumford a
+
+noticed that something other than the
+remarqué que quelque chose d'autre que l'
+
+caloric ether was heating up various
+éther calorique chauffait diverses
+
+substances so he devised an experiment
+substances, il a donc conçu une expérience
+
+which showed that the boring of a Canon
+qui a montré que l'alésage d'un canon
+
+with the hollowing out of the barrel
+avec l'évidement du canon le
+
+least heat basically he just created a
+moins  chaleur fondamentalement, il vient de créer un
+
+cannon barrel by drilling a hole in a
+canon en forant un trou dans un
+
+long piece of metal for over two hours
+long morceau de métal pendant plus de deux heures,
+
+but this was the twist rummy did this
+mais c'était la torsion que le rami a fait
+
+underwater which eventually caused the
+sous l'eau, ce qui a finalement fait
+
+water to boil
+bouillir l'eau,
+
+he wasn't the invisible fluid part of a
+il n'était pas la partie fluide invisible d'une
+
+chemical reaction but simple mechanical
+réaction chimique  mais un simple
+
+motion in some ways this result should
+mouvement mécanique à certains égards, ce résultat aurait
+
+have been obvious to anyone who had
+dû être évident pour quiconque avait
+
+observed friction but Rumford brought it
+observé le frottement, mais Rumford l'a
+
+back to scientific attention how is heat
+ramené  à l'attention scientifique comment la chaleur est
+
+created and transferred epistemic needed
+créée et transférée épistémique nécessaire
+
+to catch up with techne and ether needed
+pour rattraper la technè et l'éther
+
+to be replaced by a new science the
+devait être remplacé par une nouvelle science la
+
+science picked up steam with the
+science a pris de l'ampleur avec l'
+
+invention of the steam engine after
+invention de la machine à vapeur après que des
+
+engineers like James Watt designed ways
+ingénieurs comme James Watt aient conçu des moyens
+
+of producing steam and directing it to
+de produire de la vapeur et de diriger  pour
+
+move machines scientists tried to
+déplacer des machines, les scientifiques ont essayé d'
+
+improve the efficiency of these systems
+améliorer l'efficacité de ces systèmes.
+
+steam engines were not an example of
+
+basic research applied to the real world
+
+the cool new tech came first
+
+later propelling a lot of useful
+
+research into how heat and energy
+
+function French physicist and engineer
+
+Nicola Sadiq Carnot grew up during the
+Nicola Sadiq Carnot a grandi pendant les
+
+Napoleonic Wars he believed that steam
+guerres napoléoniennes, il croyait que l'
+
+engine efficiency was the key to helping
+efficacité des machines à vapeur était la clé pour aider la
+
+France become a glorious Empire car nose
+France à devenir un glorieux empire.
+
+worked with steam engines led him to
+
+think a lot about thermodynamics in an
+
+engine cycle parts of the system moved
+
+through different states of energy and
+états d'énergie et
+
+finally returned to the initial state
+finalement retournés à l'état initial, les
+
+inventors were thinking up all sorts of
+inventeurs pensaient à tous  ts de
+
+great applications for engines like
+grandes applications pour les moteurs comme les
+
+locomotives but no one could
+locomotives mais personne ne pouvait
+
+mathematically explain what was going on
+expliquer mathématiquement ce qui se passait
+
+Carnot figured out what became known as
+Carnot a compris ce qui est devenu connu sous le nom de
+
+the Carnot cycle or the science of what
+cycle Carnot ou la science de ce qui
+
+happens inside heat producing engines
+se passe à l'intérieur des moteurs produisant de la chaleur
+
+the Carnot cycle describes the upper
+le cycle Carnot décrit la
+
+limit of the efficiency of a model
+limite supérieure de l'efficacité d'un
+
+thermodynamic system or a system where
+système thermodynamique modèle ou un système où la
+
+heat moves around within set boundaries
+chaleur se déplace dans des limites définies
+
+in 1824 Carnot published the paper
+en 1824 Carnot a publié l'article
+
+reflections on the motive power of fire
+réflexions sur la puissance motrice du feu
+
+and on machines fitted to develop that
+et sur les machines aptes à développer cette
+
+power it has contained although not in
+puissance qu'il a contenue mais pas dans
+
+the same words we would use today the
+les mêmes termes que nous utiliserions aujourd'hui la
+
+second law of thermodynamics which
+deuxième loi  de la thermodynamique qui
+
+states that the total entropy of a
+stipule que l'entropie totale d'un
+
+closed system can never decrease only
+système fermé ne peut jamais diminuer seulement
+
+stay steady or increase heat can't
+rester stable ou augmenter la chaleur ne peut pas
+
+randomly flow from a colder point to a
+circuler au hasard d'un point plus froid à un point plus
+
+hotter one this is just one way to
+chaud c'est juste une façon d'
+
+express the universal principle of
+exprimer le principe universel de l'
+
+entropy or the state of disorder in a
+entropie ou l'état de  le désordre dans un
+
+system but don't get too philosophical
+système mais ne soyez pas trop philosophique à
+
+about chaos entropy is just a variable
+propos du chaos l'entropie n'est qu'une variable
+
+that you can calculate with the right
+que vous pouvez calculer avec le ri  ght
+
+math Carnot didn't quite know what he
+maths Carnot ne savait pas trop ce qu'il
+
+had going he presented his findings in
+faisait, il a présenté ses découvertes en
+
+terms of the reigning caloric theory and
+termes de théorie calorique régnante,
+
+then he died of cholera at the
+puis il est mort du choléra à l'
+
+tragically young age of 36 many other
+âge tragiquement jeune de 36 ans, de nombreux autres
+
+physicists around car nose time realized
+physiciens autour du nez de la voiture ont réalisé
+
+that he liked chemical reactions and
+qu'il aimait les réactions chimiques et
+
+motion aren't merely very complex
+les mouvements ne sont pas simplement des phénomènes très complexes
+
+phenomena on their own they're all part
+en eux-mêmes, ils font tous partie
+
+of a larger more complex system and they
+d'un système plus vaste et plus complexe et ils
+
+interact with each other in the 1840s
+interagissent les uns avec les autres dans les années 1840,
+
+several scientists independently
+plusieurs scientifiques ont
+
+discovered what we now confusingly call
+découvert indépendamment ce que nous appelons maintenant de manière confuse
+
+the first law of thermodynamics or the
+la première loi de la thermodynamique ou la
+
+conservation of energy energy can change
+conservation de l'énergie  l'énergie peut changer
+
+from one form to another but energy is
+d'une forme à une autre mais l'énergie n'est
+
+not lost it has to go somewhere
+pas perdue elle doit aller quelque part l'
+
+energy and coal for example is released
+énergie et le charbon par exemple sont libérés
+
+into heat and light as fire and the
+dans la chaleur et la lumière comme le feu et la
+
+first law is not just a metaphysical
+première loi n'est pas seulement une
+
+idea it can be quantified the whole
+idée métaphysique elle peut être quantifiée tout l'
+
+point of thermodynamics is to put
+intérêt de la thermodynamique  consiste à
+
+numbers to all of the complex motions
+chiffrer tous les mouvements
+
+and reactions that move energy from one
+et réactions complexes qui déplacent l'énergie d'une
+
+form to another to find the fixed
+forme à une autre pour trouver les taux d'
+
+exchange rates between states of energy
+échange fixes entre les états de  énergie
+
+in the 1840s English physicist
+dans les années 1840, le physicien anglais
+
+James Joule and German dr. julius von
+James Joule et le dr allemand.  julius von
+
+mayer independently figured out that
+mayer a découvert de manière indépendante que
+
+heat transfer and mechanical work were
+le transfert de chaleur et le travail mécanique étaient
+
+different forms of the same thing which
+des formes différentes de la même chose que
+
+we now call energy transfer
+nous appelons maintenant la bulle de pensée du transfert d'énergie.
+
+thought-bubble give us an introduction
+
+this was such a big deal heat is just
+
+motion and vice-versa
+
+just like rummies cannon experiments
+des expériences
+
+showed in fact today the Joule is the
+ont montré en fait aujourd'hui que le Joule est l'
+
+unit of energy but alas neither of their
+unité d'énergie mais hélas aucune de leurs
+
+mechanical theories of heat was accepted
+théories mécaniques de la chaleur n'a été acceptée
+
+at the time Joule experimented with
+à l'époque où Joule a expérimenté des
+
+batteries and electromagnets trying to
+batteries et des électroaimants en essayant de
+
+determine the relationship between heat
+déterminer la relation entre la chaleur
+
+and motion he concluded that the heat
+et le mouvement, il a conclu que la chaleur
+
+needed to increase the temperature of a
+nécessaire pour augmenter le  la température d'une
+
+pound of water by one degree of
+livre d'eau d'un degré
+
+Fahrenheit scale was equal to a
+Fahrenheit était égale à une
+
+mechanical force capable of raising 838
+force mécanique capable de soulever 838
+
+pounds to the perpendicular height of
+livres à la hauteur perpendiculaire d'
+
+one foot today we would say that's about
+un pied aujourd'hui, nous dirions que c'est environ
+
+four joules
+quatre joules
+
+calorie of work Jewell told this to the
+calorie de travail Jewell l'a dit aux
+
+other members of the British Association
+autres membres du  Association britannique
+
+for the Advancement of science in 1843
+pour l'avancement de la science en 1843
+
+who were like congrats bro you've just
+qui étaient comme félicitations mon frère, vous venez d'
+
+invented warm water I guess undaunted
+inventer le chaud w  Après je suppose que
+
+Jewell set out to prove his theory
+Jewell, intrépide, a entrepris de prouver sa théorie en
+
+conducting experiments on his honeymoon
+menant des expériences sur sa lune de miel,
+
+Jewell put a dynamo in water and
+Jewell a mis une dynamo dans l'eau et l'a
+
+measured it experimentally confirming
+mesurée expérimentalement, confirmant
+
+his mechanical theory he forced water
+sa théorie mécanique, il a forcé l'eau à
+
+through a perforated cylinder measuring
+travers un cylindre perforé mesurant
+
+the very slight degree to which the
+le très léger degré auquel l'
+
+water heated up and found that his
+eau s'est réchauffée et a trouvé  que son
+
+mechanical heating up energy was the
+énergie de chauffage mécanique était la
+
+same as his electrical heating up about
+même que son chauffage électrique d'environ
+
+four joules or as he said wherever
+quatre joules ou comme il l'a dit partout où
+
+mechanical force is expended an exact
+une force mécanique est dépensée, un
+
+equivalent of heat is always obtained
+équivalent exact de chaleur est toujours obtenu
+
+BAM and then in 1845 Joule dropped on
+BAM, puis en 1845 Joule a chuté sur
+
+the mechanical equivalent of heat in
+l'équivalent mécanique de chaleur dans
+
+which he detailed his experiments using
+lequel il  a détaillé ses expériences en utilisant
+
+a falling weight that is gravity to move
+un poids tombant qui est la gravité pour déplacer
+
+a paddle wheel inside an insulated
+une roue à aubes à l'intérieur d'un
+
+barrel of water in order to heat it up
+baril d'eau isolé afin de le réchauffer à
+
+again he measured the energy involved
+nouveau il a mesuré l'énergie impliquée
+
+and found around four joules Joule
+et a trouvé environ quatre joules Joule a
+
+finally began to get his peers attention
+finalement commencé à attirer l'attention de ses pairs
+
+but caloric theory still reigned thanks
+mais la théorie calorique encore  a régné grâce
+
+thought-bubble
+à la bulle de pensée
+
+julius von mayer on the other hand tried
+julius von mayer d'autre part a essayé
+
+to publish his ideas but he was rejected
+de publier ses idées mais il  a été rejeté
+
+so he attempted suicide but only broke
+alors il a tenté de se suicider mais ne s'est cassé que
+
+his legs he was declared insane and
+les jambes, il a été déclaré fou et
+
+locked up in an asylum for a long time
+enfermé dans un asile pendant longtemps
+
+Mayer was overlooked as the independent
+Mayer a été négligé car le
+
+co-discoverer of the mechanical
+co-découvreur indépendant des
+
+equivalents of heat energy Joule got all
+équivalents mécaniques de l'énergie thermique Joule a obtenu tout
+
+the credit
+le crédit
+
+although Joule did give Mayer a
+bien que Joule ait donné  Mayer un
+
+shout-out in a paper in 1850 they are
+cri dans un article en 1850, ils ont
+
+also hypothesized that plants convert
+également émis l'hypothèse que les plantes convertissent la
+
+light into chemical energy or
+lumière en énergie chimique ou
+
+photosynthesize way ahead of his time
+photosynthétisent bien avant son temps,
+
+meanwhile Scottish physicist William
+tandis que le physicien écossais William
+
+Thompson better known as Lord Kelvin
+Thompson, mieux connu sous le nom de Lord Kelvin, a
+
+heard Joule talk at the British
+entendu Joule parler à la British
+
+Association in 1847 and wanted more
+Association en 1847 et en voulait plus.
+
+evidence Lord Kelvin was also a big fan
+preuve que Lord Kelvin était aussi un grand fan
+
+of car nose but he wanted to push his
+du nez de voiture mais il voulait pousser ses
+
+theories farther so he tried to
+théories plus loin alors il a essayé de
+
+reconcile car nose work as explained by
+concilier le travail du nez de voiture comme expliqué par
+
+caloric ether with joules Lord Kelvin is
+l'éther calorique avec les joules Lord Kelvin est
+
+usually credited with coining the term
+généralement crédité d'avoir inventé le terme
+
+thermodynamics in 1854 here's his
+thermodynamique en 1854 voici sa
+
+definition thermodynamics is the subject
+définition thermodynamique  est le sujet
+
+of the relation of heat to forces acting
+de la relation de la chaleur aux forces agissant
+
+between contiguous parts of bodies and
+entre les parties contiguës des corps et
+
+the relation of heat to electrical
+la relation de hea  t à l'
+
+agency
+agence électrique,
+
+ultimately Lord Kelvin rejected caloric
+Lord Kelvin a finalement rejeté la
+
+theory and he teamed up with
+théorie calorique et il s'est associé à
+
+joule-kelvin worked on many aspects of
+joule-kelvin a travaillé sur de nombreux aspects de la
+
+physics and other sciences today he's
+physique et d'autres sciences aujourd'hui, il est
+
+probably best known as the dude who
+probablement mieux connu comme le mec qui
+
+worked out the science of absolute
+a élaboré la science des
+
+temperatures which are now measured in
+températures absolues qui sont maintenant mesurées dans
+
+the unit called Kelvin in the 1850s and
+l'unité  appelé Kelvin dans les années 1850 et
+
+60s at German physicist Rudolf Clausius
+60 au physicien allemand Rudolf Clausius a
+
+figured out that there were actually two
+compris qu'il y avait en fait deux
+
+distinct laws at work in Karnas most
+lois distinctes à l'œuvre dans l'article le plus
+
+famous paper and they contradict each
+célèbre de Karnas et qu'elles se contredisent l'
+
+other
+
+klaus use restated the first and second
+utilisation de klaus a reformulé les première et deuxième
+
+laws of thermodynamics removing the
+lois de la thermodynamique supprimant la
+
+contradiction his version of the second
+contradiction sa version du  deuxième
+
+law heat can never pass from a colder to
+loi, la chaleur ne peut jamais passer d'un
+
+a warmer body without some other change
+corps plus froid à un corps plus chaud sans qu'un autre changement
+
+connected therewith occurring at the
+lié à celui-ci ne se produise au
+
+same time in 1865 klaus use also gave
+même moment en 1865.
+
+the first mathematical description of
+
+entropy and named it and this paper
+
+ended with the brilliantly simple
+
+summary of the first and second laws of
+première et deuxième lois de la
+
+thermodynamics the energy of the
+thermodynamique l'énergie de l'
+
+universe is constant the entropy of the
+univers est constante l'entropie de la
+
+universe tends to a maximum
+l'univers tend vers un
+
+thermodynamics deeply united chemistry
+
+and physics in the way that newton's
+
+principia had united mathematics and
+
+astronomy suddenly experiments and
+
+theories that looked very different on
+
+the surface were joined at a basic level
+
+thermodynamic concepts from the studies
+
+of heat engines were all applied to
+maximum  aux
+
+chemical reactions entropy proved a very
+réactions chimiques, l'entropie s'est avérée une
+
+useful idea in many disciplines
+idée très utile dans de nombreuses disciplines,
+
+including statistics so at the end of
+y compris les statistiques, donc à la fin
+
+the 19th century if you were a fan of
+du 19e siècle, si vous étiez un fan de
+
+thermodynamics you might say that the
+thermodynamique, vous pourriez dire que la
+
+question of what is stuff was close to
+question de savoir ce qu'est la matière était sur le point d'
+
+being solved but you'd be wrong because
+être résolue, mais vous auriez tort  à cause
+
+of Einstein wait for him but also
+d'Einstein, attendez-le, mais aussi
+
+because the history of thermodynamics
+parce que l'histoire de la thermodynamique
+
+was a hot mess
+était un
+
+pun definitely intended this history is
+jeu de mots brûlant, cette histoire est
+
+often presented as an orderly
+souvent présentée comme une
+
+progression of ideas each building on
+progression ordonnée d'idées, chacune s'appuyant sur
+
+the foundation of laws created by
+les bases de lois créées par
+
+earlier investigators but that's not
+des chercheurs antérieurs, mais ce n'est pas
+
+quite true after all
+tout à fait vrai après tout
+
+what we now call the second law of
+quoi  nous appelons maintenant la deuxième loi de la
+
+thermodynamics preceded the first by
+thermodynamique précédée de la première de
+
+more than 25 years
+plus de 25 ans  les oreilles
+
+not super orderly and then there were
+pas super ordonnées et puis il y a eu de
+
+long periods where invalid ideas were
+longues périodes où les idées invalides ont été
+
+tenaciously held in the face of decisive
+maintenues avec ténacité face à des
+
+evidence of their falsity in other cases
+preuves décisives de leur fausseté dans d'autres cas
+
+as with
+comme avec la
+
+genetics lots of scientists
+génétique, de nombreux scientifiques ont
+
+simultaneously adopted a whole new block
+simultanément adopté un tout nouveau bloc
+
+of theory and built upon it next time
+de théorie et l'ont construit la prochaine fois que des
+
+sparks will fly as we meet another gang
+étincelles  volez alors que nous rencontrons un autre gang
+
+of 19th century physicists and engineers
+de physiciens et d'ingénieurs du 19ème siècle
+
+the pioneers of electricity crash course
+les pionniers de l'électricité le cours
+
+history of science is filmed in the
+intensif d'histoire des sciences est filmé dans le
+
+doctor Cheryl C Kinney studio in
+studio du docteur Cheryl C Kinney à
+
+Missoula Montana and it's made with the
+Missoula Montana et il est réalisé avec l'
+
+help of all of these nice people and our
+aide de toutes ces personnes sympathiques et notre
+
+animation team is thought cafe crash
+équipe d'animation est  le cours intensif de café
+
+course is a complexly production if you
+pensé est une production complexe si vous
+
+want to keep imagining the world
+voulez continuer à imaginer le monde de
+
+complexly with us you can check out some
+manière complexe avec nous, vous pouvez consulter certaines
+
+of our other channels like scishow
+de nos autres chaînes comme
+
+nature league and the financial diet and
+la ligue scishow nature et le régime financier et
+
+if you'd like to help keep crash course
+si vous souhaitez aider à garder le cours accéléré
+
+free for everybody forever you can
+gratuit pour tout le monde  pour toujours vous pouvez
+
+support the series at patreon a
+soutenir la série sur patreon une
+
+crowdfunding platform that allows you to
+plateforme de financement participatif qui vous permet de
+
+support the content you love thank you
+soutenir le contenu que vous aimez merci
+
+to all of our patrons for making crash
+à tous  nos mécènes pour avoir rendu le
+
+course possible with their continuing
+cours accéléré possible grâce à leur soutien continu
+
+support
+

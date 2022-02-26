@@ -1,0 +1,806 @@
+You can review content from Crash Course Organic
+Chemistry with the Crash Course app,
+Vous pouvez consulter le contenu de Crash Course Organic
+Chemistry avec l'application Crash Course,
+
+available now on Android and iOS devices.
+disponible dès maintenant sur les appareils Android et iOS.
+
+Hi! I’m Deboki Chakravarti and welcome to Crash
+Course Organic Chemistry!
+Salut!  Je suis Deboki Chakravarti et bienvenue au cours intensif de
+chimie organique !
+
+Double-bond-containing compounds are pretty
+abundant in nature.
+Les composés contenant des doubles liaisons sont assez
+abondants dans la nature.
+
+But compounds with alkynes, triple-bonded
+carbons, are not.
+Mais les composés avec des alcynes, des
+carbones à triple liaison, ne le sont pas.
+
+There are a few naturally occurring alkynes,
+like cicutoxin in water hemlock,
+Il existe quelques alcynes naturels,
+comme la cicutoxine dans la pruche d'eau
+
+and histrionicotoxin that the harlequin poison frog uses to protect
+itself.
+et l'histrionicotoxine que la grenouille venimeuse arlequin utilise pour se
+protéger.
+
+But many alkynes aren't poisonous and aren't
+naturally occurring.
+Mais de nombreux alcynes ne sont pas toxiques et ne
+se produisent pas naturellement.
+
+They're made in a lab, like two common ingredients
+in birth control pills:
+Ils sont fabriqués en laboratoire, comme deux ingrédients courants
+des pilules contraceptives : l'
+
+ethynylestradiol, a synthetic estrogen, and
+norethindrone, a synthetic progesterone.
+éthynylestradiol, un œstrogène synthétique, et la
+noréthindrone, une progestérone synthétique.
+
+Natural estrogen and progesterone are expensive,
+hard to purify, and relatively scarce.
+Les œstrogènes et la progestérone naturels sont chers,
+difficiles à purifier et relativement rares.
+
+Plus, we need a higher concentration of the natural compounds to get the same effects as their synthetic replacements.
+De plus, nous avons besoin d'une concentration plus élevée de composés naturels pour obtenir les mêmes effets que leurs substituts synthétiques.
+
+So even though they're not as common, alkyne-containing
+molecules are really important.
+Ainsi, même si elles ne sont pas aussi courantes, les molécules contenant des alcynes
+sont vraiment importantes.
+
+Organic chemistry is really about how chemical
+reactions can make compounds that make human lives better --
+La chimie organique concerne vraiment la façon dont les
+réactions chimiques peuvent créer des composés qui améliorent la vie humaine -
+
+ from medicines to materials.
+des médicaments aux matériaux.
+
+We're trying to build on the building blocks
+that nature provides!
+Nous essayons de construire sur les blocs de construction
+que la nature fournit !
+
+So with that as motivation, let's learn about
+alkyne reactions.
+Donc, avec cela comme motivation, apprenons les
+réactions des alcynes.
+
+[Theme Music]
+[Thème musical]
+
+Remember that the carbons in a triple bond
+have sp hybridization.
+Rappelez-vous que les carbones d'une triple liaison
+ont une hybridation sp.
+
+And if an sp-hybridized alkyne is found at
+the end of a molecule,
+Et si un alcyne hybride sp se trouve à
+la fin d'une molécule,
+
+it's called a terminal alkyne.
+on l'appelle un alcyne terminal.
+
+Terminal alkynes always have a hydrogen atom
+attached to them.
+Les alcynes terminaux ont toujours un atome d'hydrogène qui leur est
+attaché.
+
+And the increased s-character of the bond
+means that a hydrogen attached to those carbons
+Et le caractère s accru de la liaison
+signifie qu'un hydrogène attaché à ces carbones
+
+is very weakly acidic, with pKas around 25.
+est très faiblement acide, avec un pKa d'environ 25.
+
+So if we mix a super strong base, like the
+anion of ammonia, with a terminal alkyne,
+Donc, si nous mélangeons une base super forte, comme l'
+anion de l'ammoniac, avec un alcyne terminal,
+
+we can make negatively-charged carbon-containing
+compounds called carbanions.
+nous pouvons faire  composés contenant du carbone chargés négativement
+appelés carbanions.
+
+You might also hear them called acetylide
+anions -- after the simplest alkyne, acetylene.
+Vous pouvez également les entendre appelés
+anions acétylures - d'après l'alcyne le plus simple, l'acétylène.
+
+Carbanions have a formal negative charge,
+so they’re nucleophiles!
+Les carbanions ont une charge formellement négative
+, ce sont donc des nucléophiles !
+
+But they're especially cool nucleophiles because
+they can make carbon-carbon bonds.
+Mais ce sont des nucléophiles particulièrement cool car
+ils peuvent créer des liaisons carbone-carbone.
+
+Even though organic chemistry is full of carbon-carbon
+bonds, making one is a pretty big deal!
+Même si la chimie organique regorge de liaisons carbone-carbone
+, en fabriquer une est une sacrée affaire !
+
+It's not easy.
+Ce n'est pas facile. 
+
+This might not be very obvious until later in this series, but many organic chemists aim to make huge molecules with lots of carbon-carbon bonds, 
+Cela pourrait ne pas être très évident jusqu'à plus tard dans cette série, mais de nombreux chimistes organiques visent à fabriquer d'énormes molécules avec beaucoup de liaisons carbone-carbone, de
+
+so the reactivity of these carbanions can help.
+sorte que la réactivité de ces carbanions peut aider.
+
+One way they form carbon-carbon bonds is an
+alkylation reaction, which looks like this:
+Une façon dont ils forment des liaisons carbone-carbone est une
+réaction d'alkylation, qui ressemble à ceci :
+
+Also, carbanions can attack carbonyl groups,
+which are those polar carbon-oxygen double bonds.
+De plus, les carbanions peuvent attaquer les groupes carbonyle,
+qui sont ces doubles liaisons polaires carbone-oxygène.
+
+The lone pair of electrons attacks the partially
+positive carbon, forming a carbon-carbon bond,
+La seule paire d'électrons attaque le
+carbone partiellement positif, formant une liaison carbone-carbone
+
+and pushing electrons onto the oxygen.
+et poussant les électrons sur l'oxygène.
+
+We have a charged intermediate here, so as
+a second step we add in a source of protons,
+Nous avons ici un intermédiaire chargé, donc dans
+un deuxième temps, nous ajoutons une source de protons, de l'
+
+water, in this case, and form an alcohol.
+eau, dans ce cas, et formons un alcool.
+
+The acidity of hydrogen atoms on carbon-carbon
+triple bonds makes terminal alkynes unique.
+L'acidité des atomes d'hydrogène sur les triples liaisons carbone-carbone
+rend les alcynes terminaux uniques.
+
+But like alkenes, alkynes have pi bonds that
+are also nucleophilic.
+Mais comme les alcènes, les alcynes ont des liaisons pi qui
+sont également nucléophiles.
+
+So some alkyne reactions are pretty similar to the alkene reactions we've learned in the past two episodes.
+Certaines réactions alcynes sont donc assez similaires aux réactions alcènes que nous avons apprises au cours des deux derniers épisodes.
+
+Remember halogenation, where we added halogens
+like bromine or chlorine across a double bond?
+Vous souvenez-vous de l'halogénation, où nous avons ajouté des halogènes
+comme le brome ou le chlore à travers une double liaison ?
+
+They can also be added across a triple bond too!
+Ils peuvent également être ajoutés à travers une triple liaison !
+
+Look at the reaction mechanism,
+Regardez le mécanisme de réaction,
+
+we can see that the nucleophilic triple bond attacks the electrophilic molecular bromine.
+nous pouvons voir que la triple liaison nucléophile attaque le brome moléculaire électrophile.
+
+And even though there's an extra carbon-carbon
+bond in there,
+Et même s'il y a une liaison carbone-carbone supplémentaire
+,
+
+a bromonium ion still contributes to the resonance structure and stabilizes the positive charge.
+un ion bromonium contribue toujours à la structure de résonance et stabilise la charge positive.
+
+Like with alkenes, the bromonium ion structure
+blocks one face of the compound
+Comme pour les alcènes, la structure de l'ion bromonium
+bloque une face du composé
+
+and our major product is formed by anti-addition of the
+second bromide ion.
+et notre produit principal est formé par anti-addition du
+second ion bromure.
+
+But we're not done yet!
+Mais nous n'avons pas encore fini !
+
+These products are alkenes, which also react
+with halogens.
+Ces produits sont des alcènes, qui réagissent également
+avec les halogènes.
+
+So there’s basically nothing stopping this
+halogenation reaction from going and going until it forms a tetrabromide product.
+Donc, rien n'empêche fondamentalement cette
+réaction d'halogénation d'aller et venir jusqu'à ce qu'elle forme un produit de tétrabromure.
+
+We can control side reactions a little bit
+with the amount of halogen we add, like adding
+Nous pouvons contrôler un peu les réactions secondaires
+avec la quantité d'halogène que nous ajoutons, comme ajouter
+
+one or two molecules of dibromide to one alkyne
+molecule.
+une ou deux molécules de dibromure à une
+molécule d'alcyne.
+
+But it's pretty tricky to control alkyne halogenation
+reactions.
+Mais il est assez délicat de contrôler les réactions d'halogénation des alcynes
+.
+
+On the other hand, the addition of hydrogen
+halides is a bit more predictable with certain substrates.
+En revanche, l'ajout d'
+halogénures d'hydrogène est un peu plus prévisible avec certains substrats.
+
+We've spent a lot of time with this reaction
+in alkenes,
+Nous avons passé beaucoup de temps avec cette réaction
+dans les alcènes,
+
+like when we were first exploring addition reactions in episode 14.
+comme lorsque nous avons exploré pour la première fois les réactions d'addition dans l'épisode 14.
+
+When we have an alkyne and hydrogen bromide,
+the nucleophilic attack happens like we'd expect 
+Lorsque nous avons un alcyne et du bromure d'hydrogène,
+l'attaque nucléophile se produit comme prévu
+
+and the hydrogen bromide adds across
+the triple bond.
+et le bromure d'hydrogène s'ajoute à travers
+la triple liaison.
+
+If the alkyne is a terminal alkyne, this addition
+will follow Markovnikov’s Rule.
+Si l'alcyne est un alcyne terminal, cet ajout
+suivra la règle de Markovnikov.
+
+As a reminder, this means that the proton
+will add to the side of the triple bond with the hydrogen atom.
+Pour rappel, cela signifie que le proton
+va s'ajouter du côté de la triple liaison avec l'atome d'hydrogène.
+
+To unpack that a little more, the carbon of
+the triple bond on the left side has a methyl substituent and no hydrogens.
+Pour décompresser un peu plus, le carbone de
+la triple liaison du côté gauche a un substituant méthyle et pas d'hydrogène.
+
+And the carbon on the right side of the triple
+bond is bonded to one hydrogen.
+Et le carbone du côté droit de la triple
+liaison est lié à un hydrogène.
+
+So the proton from hydrogen bromide will add
+regioselectively to the right,
+Ainsi, le proton du bromure d'hydrogène s'ajoutera
+régiosélectivement à droite,
+
+which forms a more stable secondary vinyl carbocation,
+as opposed to a primary one.
+ce qui forme un carbocation vinyle secondaire plus stable,
+par opposition à un carbocation primaire.
+
+This is called a vinyl carbocation because
+the positive charge sits on a carbon-carbon double bond.
+C'est ce qu'on appelle un carbocation de vinyle car
+la charge positive repose sur une double liaison carbone-carbone.
+
+The attack step creates a vinylhalide:
+L'étape d'attaque crée un halogénure de vinyle :
+
+a term we use to describe a halogen directly
+attached to the carbon of a double bond.
+un terme que nous utilisons pour décrire un halogène directement
+attaché au carbone d'une double liaison.
+
+And remember, alkenes are still reactive!
+Et rappelez-vous, les alcènes sont toujours réactifs !
+
+So if we start with two molecules of hydrogen
+bromide to one molecule of alkyne,
+Donc, si nous commençons avec deux molécules de
+bromure d'hydrogène pour une molécule d'alcyne,
+
+the reaction will keep going.
+la réaction continuera.
+
+We add a second hydrogen bromide across the
+double bond, also following Markovnikov addition.
+Nous ajoutons un deuxième bromure d'hydrogène à travers la
+double liaison, également après l'addition de Markovnikov.
+
+We’re showing terminal alkynes here because
+this reaction is regioselective.
+Nous montrons ici des alcynes terminaux car
+cette réaction est régiosélective.
+
+When the alkyne isn't at the end of the molecule,
+called an internal alkyne, the reaction is hard to control.
+Lorsque l'alcyne n'est pas à l'extrémité de la molécule,
+appelée alcyne interne, la réaction est difficile à contrôler.
+
+We get complex mixtures of products because
+there's no difference in carbocation stability!
+Nous obtenons des mélanges complexes de produits car
+il n'y a pas de différence de stabilité au carbocation !
+
+OK, cool, we have two alkyne reactions in
+our back pocket,
+OK, cool, nous avons deux réactions alcynes dans
+notre poche arrière,
+
+both of which were similar to the halogen and alkene reactions!
+toutes deux similaires aux réactions halogène et alcène !
+
+We can add water using similar reactions too.
+Nous pouvons également ajouter de l'eau en utilisant des réactions similaires.
+
+For example, we can do a mercury-catalyzed
+hydration reaction.
+Par exemple, nous pouvons faire une réaction d'hydratation catalysée par le mercure
+.
+
+The name tells us a couple things:
+Le nom nous dit quelques choses :
+
+we’ll be using a mercury compound, specifically
+mercury (II) sulfate, HgSO4,
+nous allons utiliser un composé de mercure, en particulier
+le sulfate de mercure (II), HgSO4,
+
+which we’ll get back unchanged at the end because it’s
+a catalyst.
+que nous retrouverons inchangé à la fin car c'est
+un catalyseur.
+
+And we’ll be adding some water across the
+triple bond.
+Et nous allons ajouter de l'eau à travers la
+triple liaison.
+
+That's the hydration.
+C'est l'hydratation.
+
+The first step of this reaction is the alkyne
+attacking the mercury cation with a positive two charge,
+La première étape de cette réaction est l'alcyne
+attaquant le cation mercure avec une charge positive à deux,
+
+ while the sulfate anion just floats
+around as a spectator.
+tandis que l'anion sulfate flotte juste en
+tant que spectateur.
+
+The mercury adds so that the more stable carbocation
+forms.
+Le mercure s'ajoute de sorte que le carbocation plus stable se
+forme.
+
+We get a secondary vinyl carbocation, stabilized
+by resonance with a mercurinium ion,
+On obtient un carbocation vinylique secondaire, stabilisé
+par résonance avec un ion mercurinium,
+
+as opposed to a primary carbocation.
+par opposition à un carbocation primaire.
+
+Next, a water molecule attacks our newly-formed
+vinyl carbocation.
+Ensuite, une molécule d'eau attaque notre
+carbocation de vinyle nouvellement formé.
+
+And with a one-two punch, another molecule
+of water deprotonates this ion, forming an alcohol.
+Et d'un coup de poing, une autre molécule
+d'eau déprotone cet ion, formant un alcool.
+
+This is a pit stop and our water molecule
+is officially added!
+Ceci est un arrêt au stand et notre molécule d'eau
+est officiellement ajoutée !
+
+But we're not done with the whole reaction
+mechanism.
+Mais nous n'en avons pas fini avec tout le
+mécanisme de réaction.
+
+We still need to get rid of the mercury to
+restore our catalyst.
+Nous devons encore nous débarrasser du mercure pour
+restaurer notre catalyseur.
+
+So the alkene attacks the hydronium ion that
+we just made.
+Ainsi, l'alcène attaque l'ion hydronium que
+nous venons de fabriquer.
+
+This forms a carbocation on the side that
+has resonance stabilization,
+Cela forme un carbocation sur le côté qui
+a une stabilisation de résonance,
+
+thanks to oxygen being all generous and sharing a pair of electrons.
+grâce à l'oxygène étant tout généreux et partageant une paire d'électrons.
+
+This structure has a lot of positive charge
+built up, so mercury is happy to get out of there, 
+Cette structure a beaucoup de charge positive
+accumulée, donc le mercure est heureux de sortir de là,
+
+leaving its electrons behind.
+laissant ses électrons derrière lui.
+
+And this reforms the double bond, the alcohol
+group, and our free-floating catalyst.
+Et cela reforme la double liaison, le
+groupe alcool et notre catalyseur flottant.
+
+Our final product has a special duo:
+Notre produit final a un duo spécial :
+
+a double bond next to an alcohol.
+une double liaison à côté d'un alcool.
+
+So we steal parts of the words alkene and
+alcohol to call it an enol.
+Nous volons donc des parties des mots alcène et
+alcool pour l'appeler un énol.
+
+This is the summary of our long and winding
+road map for a mercury-catalyzed hydration reaction, 
+Ceci est le résumé de notre
+feuille de route longue et sinueuse pour une réaction d'hydratation catalysée par le mercure,
+
+adding water to a terminal alkyne.
+ajoutant de l'eau à un alcyne terminal.
+
+Internal alkynes would again give us complex
+mixtures of products!
+Les alcynes internes nous donneraient à nouveau des
+mélanges complexes de produits !
+
+But there's still more fun to be had with
+enols.
+Mais il y a encore plus de plaisir à avoir avec les
+énols.
+
+Specifically, there's a type of constitutional
+isomer called tautomers, which differ in the location
+Plus précisément, il existe un type d'
+isomère constitutionnel appelé tautomères, qui diffère par l'emplacement
+
+of the double bond and just one hydrogen.
+de la double liaison et d'un seul hydrogène.
+
+If the double bond is between two carbons,
+it's the enol form.
+Si la double liaison est entre deux carbones,
+c'est la forme énol.
+
+And if the double bond is between a carbon
+and the oxygen, it’s the keto form.
+Et si la double liaison est entre un carbone
+et l'oxygène, c'est la forme céto.
+
+In fact, the enol we just made quickly undergoes
+tautomerization to become a ketone.
+En fait, l'énol que nous venons de fabriquer subit rapidement une
+tautomérisation pour devenir une cétone.
+
+This happens because the sum of the bond energies
+in the keto form is greater than the sum of the bond energies for the enol form.
+Cela se produit parce que la somme des énergies de liaison
+dans la forme céto est supérieure à la somme des énergies de liaison pour la forme énol.
+
+Because the keto form makes stronger bonds,
+we know it's more stable.
+Parce que la forme céto crée des liens plus forts,
+nous savons qu'elle est plus stable.
+
+Looking at our reaction mechanism, we have
+some hydronium ions, which are acidic.
+En regardant notre mécanisme de réaction, nous avons
+des ions hydronium, qui sont acides.
+
+So an acid-catalyzed tautomerization can happen
+here.
+Ainsi, une tautomérisation catalysée par un acide peut se produire
+ici.
+
+First, the double bond in the enol attacks a hydronium ion, and adds a proton so that the positive charge goes next to oxygen, 
+Premièrement, la double liaison dans l'énol attaque un ion hydronium et ajoute un proton afin que la charge positive passe à côté de l'oxygène,
+
+where it can be resonance stabilized.
+où elle peut être stabilisée par résonance.
+
+At this point, there are two resonance forms:
+A ce stade, il existe deux formes de résonance :
+
+the positive charge can hang out on a carbon,
+or the oxygen.
+la charge positive peut traîner sur un carbone,
+ou l'oxygène.
+
+So to make the keto form, a water molecule
+deprotonates the oxonium ion.
+Ainsi, pour créer la forme céto, une molécule d'eau
+déprotone l'ion oxonium.
+
+Overall, we added a proton on one side of
+the enol, and removed one from the other side.
+Dans l'ensemble, nous avons ajouté un proton d'un côté de
+l'énol et en avons retiré un de l'autre côté.
+
+So it's not too complicated:
+Ce n'est donc pas trop compliqué : la
+
+tautomerization is basically some double bonds
+shifting and a single proton being moved around.
+tautomérisation consiste essentiellement à déplacer des doubles liaisons
+et à déplacer un seul proton.
+
+In fact, tautomerization reactions have a similar pattern as resonance, which we learned in episode 10.
+En fait, les réactions de tautomérisation ont un schéma similaire à la résonance, que nous avons appris dans l'épisode 10.
+
+If we place a block around the double bond,
+along with the atom that has electrons in a p-orbital next door, 
+Si nous plaçons un bloc autour de la double liaison
+, avec l'atome qui a des électrons dans une p-orbitale voisine,
+
+we find our three-atom pattern.
+nous trouvons notre trois atomes  modèle. 
+
+Now, swap the stuff at atoms one and three.
+Maintenant, échangez les choses aux atomes un et trois.
+
+We move the double bond and hydrogen, and
+switch between our keto and enol forms!
+Nous déplaçons la double liaison et l'hydrogène, et
+basculons entre nos formes céto et énol !
+
+So we can make a ketone from an alkyne using
+a mercury-containing catalyst and some water.
+Nous pouvons donc fabriquer une cétone à partir d'un alcyne en utilisant
+un catalyseur contenant du mercure et de l'eau.
+
+But that's not the only way to add water across
+a double bond…
+Mais ce n'est pas la seule façon d'ajouter de l'eau à travers
+une double liaison…
+
+we can do hydroboration too!
+nous pouvons aussi faire de l'hydroboration !
+
+Looking at the name, you might remember that's a hydration reaction with some help from carbon’s periodic-table-next-door-neighbor boron.
+En regardant le nom, vous vous souviendrez peut-être qu'il s'agit d'une réaction d'hydratation avec l'aide du bore voisin du tableau périodique du carbone.
+
+Hydroboration happens the same way it did
+with an alkene:
+L'hydroboration se déroule de la même manière
+qu'avec un alcène :
+
+our nucleophilic alkyne attacks the boron reagent, we get a pit-stop-intermediate thanks to anti-Markovnikov addition, 
+notre alcyne nucléophile attaque le réactif bore, nous obtenons un intermédiaire pit-stop grâce à l'ajout d'anti-Markovnikov,
+
+and then an oxidation reaction gives us the enol.
+puis une réaction d'oxydation nous donne l'énol.
+
+Whew!
+Ouf! 
+
+If you want that in more detail, watch episode 17.
+Si vous voulez cela plus en détail, regardez l'épisode 17.
+
+Like the enol formed in mercury-catalyzed
+hydration reactions,
+Comme l'énol formé dans les réactions d'hydratation catalysées par le mercure
+,
+
+this one will tautomerize to produce the more stable keto form.
+celui-ci se tautomérisera pour produire la forme céto la plus stable.
+
+But because we have sodium hydroxide ions
+floating around, which are basic,
+Mais parce que nous avons des ions d'hydroxyde de sodium
+flottant autour, qui sont basiques,
+
+this is base-catalyzed tautomerization.
+il s'agit d'une tautomérisation catalysée par une base.
+
+And the mechanism looks a little different.
+Et le mécanisme semble un peu différent.
+
+First, the hydroxide ion attacks the alcohol
+of the enol and deprotonates it.
+Premièrement, l'ion hydroxyde attaque l'alcool
+de l'énol et le déprotone.
+
+This puts a negative charge on our molecule,
+which has two resonance forms:
+Cela met une charge négative sur notre molécule,
+qui a deux formes de résonance :
+
+one with the negative charge on the oxygen,
+and one with the negative charge on the carbon.
+une avec la charge négative sur l'oxygène,
+et une avec la charge négative sur le carbone.
+
+We use the carbanion resonance form, attack
+the proton on a water molecule,
+Nous utilisons la forme de résonance carbanion, attaquons
+le proton sur une molécule d'eau
+
+and reform the base to make our keto form.
+et reformons la base pour créer notre forme céto.
+
+Done!
+Terminé! 
+
+Even though the reaction mechanism was a little
+different, the overall tautomerization reaction was similar:
+Même si le mécanisme de réaction était un peu
+différent, la réaction globale de tautomérisation était similaire :
+
+adding a proton on one side of the enol, and
+removing one from the other side.
+ajouter un proton d'un côté de l'énol et en
+retirer un de l'autre côté.
+
+Now that we've seen acid-catalyzed and base-catalyzed
+tautomerization,
+Maintenant que nous avons vu la tautomérisation catalysée par un acide et une base
+,
+
+I want to point out another pattern that we'll see throughout this series:
+je veux souligner un autre schéma que nous verrons tout au long de cette série :
+
+When we're doing reactions in acids, we'll
+generally have positive charges lying around.
+lorsque nous réalisons des réactions dans des acides, nous
+aurons généralement des charges positives qui traînent.
+
+And when we're doing reactions in bases, we'll
+generally have negative charges around.
+Et quand nous faisons des réactions dans des bases, nous
+aurons généralement des charges négatives autour.
+
+Look back at our two reactions and see what
+I mean!
+Revenez sur nos deux réactions et voyez ce que
+je veux dire !
+
+And to round out this episode, let's explore
+one last tool that we used on alkenes too: reduction.
+Et pour terminer cet épisode, explorons
+un dernier outil que nous avons également utilisé sur les alcènes : la réduction.
+
+Reduction by hydrogenation is when we add
+hydrogen across pi bonds to make an alkane,
+La réduction par hydrogénation consiste à ajouter de l'
+hydrogène sur les liaisons pi pour fabriquer un alcane,
+
+with the help of a metal catalyst like platinum,
+palladium, or nickel.
+à l'aide d'un catalyseur métallique comme le platine, le
+palladium ou le nickel.
+
+We can also manage to do a partial hydrogenation
+on an alkyne to form an alkene and stop the reaction early.
+On peut aussi arriver à faire une hydrogénation partielle
+sur un alcyne pour former un alcène et arrêter la réaction plus tôt.
+
+Lindlar’s catalyst is a complex palladium-based
+catalyst where some of the reactive sites on the palladium are unavailable.
+Le catalyseur de Lindlar est un catalyseur complexe à base de
+palladium où certains des sites réactifs sur le palladium ne sont pas disponibles.
+
+This keeps the reaction from going all the
+way to an alkane.
+Cela empêche la réaction d'
+aller jusqu'à un alcane.
+
+With Lindlar's catalyst, the reaction happens
+on a metal surface once again,
+Avec le catalyseur de Lindlar, la réaction se produit à nouveau
+sur une surface métallique, de
+
+so the hydrogens can’t help but add to "ze Zame Zide” of
+the alkyne, giving us the Z-isomer.
+sorte que les hydrogènes ne peuvent s'empêcher d'ajouter au "ze Zame Zide" de
+l'alcyne, nous donnant l'isomère Z.
+
+But, if we want the hydrogen to add "E-cross"
+to get the E-isomer,
+Mais, si nous voulons que l'hydrogène s'ajoute "  E-cross"
+pour obtenir l'isomère E,
+
+we can use a different type of reaction and do a metal-ammonia reduction.
+nous pouvons utiliser un type de réaction différent et faire une réduction métal-ammoniac.
+
+This mechanism involves radical chemistry.
+Ce mécanisme implique la chimie radicalaire.
+
+Like, single-electrons radical… not "these
+gnarly waves" radical.
+Comme, le radical à électrons uniques… pas le radical "ces
+ondes noueuses".
+
+So we’ll save it for the next episode.
+Je vais le garder pour le prochain épisode.
+
+But the important takeaway here is that a
+radical allows the R groups to position themselves
+Mais ce qu'il faut retenir ici, c'est qu'un
+radical permet aux groupes R de se positionner
+
+far away from each other during the mechanism
+and form the E-alkene.
+loin les uns des autres pendant le mécanisme
+et de former l'alcène E.
+
+In this episode, we learned that:
+Dans cet épisode, nous avons appris que :
+
+The acidity of terminal alkynes allows us
+to form carbon-carbon bonds
+L'acidité  des alcynes terminaux nous permet
+de former des liaisons carbone-carbone
+
+Many of the reactions that we used for alkenes
+also happen for alkynes
+De nombreuses réactions que nous avons utilisées pour les alcènes
+se produisent également pour les alcynes
+
+Terminal alkynes can have good regioselectivity,
+while internal alkynes often form mixtures of products.
+Les alcynes terminaux peuvent avoir une bonne régiosélectivité,
+tandis que les alcynes internes forment souvent des mélanges de produits.Mais les
+
+But reactions with the triple bond can also
+lead to products resulting from additions to both pi bonds, like tetrahalides
+réactions avec la triple liaison peuvent également
+conduire à  produits résultant d'ajouts aux deux pi bo  nds, comme les tétrahalogénures
+
+And hydration reactions of alkynes can form
+enols, which tautomerize to keto compounds
+Et les réactions d'hydratation des alcynes peuvent former des
+énols, qui se tautomérisent en composés céto La
+
+Next time we’ll get into radical chemistry,
+which is pretty wild,
+prochaine fois, nous aborderons la chimie radicale,
+qui est assez sauvage,
+
+but also pretty fascinating because it gets those couch potato alkanes up and moving.
+mais aussi assez fascinante car elle fait bouger ces alcanes de patates de canapé.
+
+Thanks for watching this episode of Crash
+Course Organic Chemistry.
+Merci d'avoir regardé cet épisode de Crash
+Course Organic Chemistry.
+
+If you want to help keep all Crash Course
+free for everybody, forever,
+Si vous voulez aider à garder tous les cours intensifs
+gratuits pour tout le monde, pour toujours,
+
+you can join our community on Patreon.
+vous pouvez rejoindre notre communauté sur Patreon.
+

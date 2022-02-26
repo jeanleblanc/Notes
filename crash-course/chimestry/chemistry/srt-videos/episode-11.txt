@@ -1,0 +1,342 @@
+Imaginez vous réveiller un matin sous un arbre, et ne rien reconnaître autour de vous.
+
+Vous êtes entouré de petites collines herbeuses. Il pleuvote, ça sent les gaufres et les pommes de terre.
+
+En vous frottant les yeux, vous remarquez une femme,
+et elle vous sort :
+
+Et vous êtes là : "Quoi ? Je suis où ? C'était du français ? Je m'endors chez moi et je me réveille en France ?"
+
+Et puis un autre gars s'amène, avec une moustache contre laquelle peu d'entre nous sauraient rivaliser.
+
+Et il vous sort : "Wa zijde gij hier nu feitelijk aant doen in die regen?" et ce n'était clairement pas du français.
+
+Et puis un petit garçon vient avec un parapluie, et vous dit : "Wat doe je hier buiten in de regen?"
+
+Bon.. Vous savez où on est ? Vous laissez tomber ?
+En Belgique.
+
+Et tu sais ce qui ressemble étrangement à se réveiller subitement en Belgique entouré de gens
+
+parlant des langues inconnues ?
+La chimie.
+
+[Générique]
+
+Peut-être que plus qu'aucune autre discipline scientifique, la chimie a son propre langage.
+
+Ce n'est pas du jargon, même s'il y en a aussi,
+
+mais un système entier de parole et d'écriture unique
+à l'étude des produits chimiques,
+
+une manière de traduire des symboles et de nombreuses formules chimiques en mots imprononçables.
+
+Le "chimistois", si vous voulez l'appeler comme ça,
+peut être dur à apprendre au premier abord,
+
+mais c'est possible, une fois qu'on connaît les règles.
+
+Et bien sûr, comme avec toute langue, il faut beaucoup pratiquer avant de parler couramment.
+
+alors je ne m'attends pas à ce qu'au bout de cette vidéo vous sachiez dire : Trois-céto-deux-carboxy-arabinitol,
+
+mais je veux que vous partiez sur de bonnes bases.
+
+Donc, parler de chimie c'est parfois un peu comme décrire un jour de pluie en Belgique.
+
+Les trois personnes au début de cette vidéo disaient bel et bien la même chose.
+
+C'est juste qu'ils utilisaient des règles différentes pour la décrire.
+
+La femme, le français ; l'enfant, le néerlandais ; le type avec la moustache, un dialecte néerlandais : le flamand.
+
+Alors l'astuce c'est de savoir
+quelles règles appliquer à quel endroit.
+
+et heureusement, en chimistois on a un guide de conversation : le tableau périodique des éléments.
+
+Tout comme on parle différents dialectes en Belgique selon les régions,
+
+les règles pour décrire un élément peuvent changer suivant son emplacement sur le tableau.
+
+C'est notamment le cas pour ce dont on va parler aujourd'hui : les ions et les acides.
+
+Ces règles comptent non seulement pour leurs formules, càd les symboles chimiques utilisés dans les équations,
+
+mais aussi pour leurs noms,
+la façon de les écrire et de les prononcer.
+
+Commençons par les ions.
+
+Les atomes deviennent des ions en gagnant ou en perdant des électrons, leur donnant ainsi une charge positive ou négative.
+
+Les ions qui ont perdu des électrons, et se retrouvent donc avec une charge positive, sont des cations.
+
+Ceux qui ont gagné des électrons et passent en charge négative sont des anions.
+
+Notez que, malgré les règles de l'anglais, on prononce "cat-ions" et "ann-ions"
+
+et non "cay-shuns" et "ay-niuns".
+
+Les ions les plus basiques, appelés ions monoatomiques, sont formés d'atomes isolés.
+
+La formule s'écrit alors simplement avec le symbole chimique de l'élément de base.
+
+On ajoute seulement la charge en exposant. C'est tout.
+
+Pour une charge d'un seul électron perdu ou gagné,
+il n'est pas nécessaire d'écrire le un,
+
+mais pour toute charge plus grande, il faut un nombre.
+
+L'ion de sodium s'écrit comme ceci, tandis que l'ion de chlore ressemble à ça.
+
+Mais les noms de ces ions changent un peu selon qu'il s'agisse de cations ou d'anions.
+
+Pour les cations, étrangement, c'est juste le mot "ion" suivi du nom de l'élément.
+
+Donc, dans ce cas, c'est juste un "ion sodium".
+
+Mais pour les anions, on utilise le suffixe -ide.
+
+L'anion de chlore est donc le chloride, et s'écrit ainsi.
+
+Quand on nomme des composés ioniques, on indique d'abord le cation et ensuite l'anion.
+
+Vous l'avez déjà fait.
+
+Mais vous ne vous en rendiez pas compte. (anglais) "Sodium chloride", "hydrogen sulfide", c'est fastoche.
+
+Pour savoir quoi correspond à quoi, on doit se fier à notre guide : le tableau périodique.
+
+Les deux premières colonnes à gauche sont les métaux alcalins et les métaux alcalino-terreux.
+
+Ils forment tous facilement des ions quand ils réagissent à des non-métaux.
+
+Et quand cela se produit, ils perdent tous des électrons, formant ainsi des cations.
+
+De l'autre côté du tableau, on trouve la plupart des éléments formateurs d'anions régroupés ensemble,
+
+en particulier les halogènes
+ainsi que l'oxygène, le soufre et l'azote.
+
+Ces éléments gagnent des électrons pour former ces charges négatives qui finissent en -ide.
+
+Vous en connaissez sans doute la plupart de nom.
+
+Mais attention, beaucoup d'éléments peuvent former plus d'une sorte d'ion.
+
+Le fer, par exemple, là au milieu, forme des cations mais ceux-ci peuvent avoir une charge de soit 2 soit 3.
+
+Il en est ainsi pour bon nombre des métaux de transition dans les colonnes centrales du tableau.
+
+C'est précisément parce qu'ils partagent ces propriétés qu'ils sont regroupés.
+
+Rien n'est placé nulle part par hasard.
+
+Mais c'est au milieu de la carte des langues que des dialectes tout à fait uniques commencent à apparaître,
+
+changeant ainsi la façon
+dont sont nommés et notés les ions.
+
+Les formules pour les ions ici sont, heureusement, aussi simples qu'ailleurs,
+
+la taille et la polarité
+de la charge de l'ion notées en exposant.
+
+Mais quand on nomme ces ions, on introduit une toute nouvelle convention d'appellation.
+
+Et par nouvelle, je veux dire vraiment, vraiment vieille. Les chiffres romains.
+
+Eh oui, les chiffres romains servent encore à quelque chose à part vous dire quel Star Wars vous regardez.
+
+Dans ce cas précis, en disant ou en écrivant le nom d'un ion de métal de transition,
+
+on utilise les chiffres romains pour noter la taille de la charge de l'ion, comme Fer II ou Fer III.
+
+Et on le marque ainsi, que l'ion soit isolé
+ou fasse partie d'un composé.
+
+Pensez bien à mettre les chiffres en parenthèses sans espaces entre le cation et la première parenthèse,
+
+car, croyez-moi, les profs
+vous enlèvent des points pour ça.
+
+Bon, je sais ce que vous pensez :
+
+Pourquoi, au nom de Pline l'Ancien, doit-on utiliser des nombres romains comme si on sortait du Colisée ?
+
+Eh bien, écoutez :
+
+Les nombres arabes servent déjà pour compter le nombre d'atomes d'un élément au sein d'une molécule,
+
+la charge de la molécule, son état d'oxydation et le nombre de molécules réagissant dans une équation.
+
+On a assez de nombres arabes comme ça !
+
+Alors les chimistes se sont rabattus sur les romains.
+
+Les acides sont des composés ioniques
+comme tous les autres,
+
+mais quand ils s'ionisent, leurs ions hydrogène - des protons solitaires - deviennent le cation,
+
+et toute charge négative restante devient l'anion.
+
+Donc tous les acides sont composés d'un ou plusieurs cations hydrogènes liés à un anion.
+
+Écrire la formule d'un acide est facile
+si vous connaissez son anion.
+
+Comme le ClO3 est de charge négative un, on sait qu'il va se lier avec un seul ion hydrogène pour former du HClO3. C'est simple.
+
+Mais quand on nomme ces acides et ces anions,
+on doit surveiller sa langue,
+
+car au royaume de Chemisterie, il existe un système entier de préfixes et de suffixes
+
+à employer pour être sûr
+de donner à chacun le titre qui lui revient.
+
+Vous savez, il ne faudrait surtout offusquer personne.
+
+Avec l'habitude, toutefois,
+
+vous saurez reconnaître la composition d'un acide
+ou d'un anion rien qu'à son nom
+
+car les préfixes et les suffixes
+vous donnent quasiment la formule.
+
+En particulier, ils vous indiquent
+le nombre d'atomes d'oxygène.
+
+En effet, bien qu'un acide soit défini par sa capacité à abandonner des ions hydrogènes,
+
+il est identifié par son contenu en oxygène.
+
+Hé, on est en Chemisterie.
+
+Revenons à ce ClO3 moins. Vous le connaissez
+peut-être en tant que ion chlorate.
+
+C'est chlorATE, pas chlorure ou chloride.
+
+Le chlorate si lie à un ion hydrogène pour former du HClO3, qu'on appelle acide chlorique.
+
+Cette fois, c'est chlorIQUE.
+
+En règle générale, tout anion finissant en -ate
+forme un acide finissant en -ique.
+
+L'ion phosphate a une charge 3, il se lie donc à trois ions hydrogène pour former l'acide phosphorique.
+
+Pareillement, l'ion sulfate n'a besoin que de deux ions hydrogène pour former l'acide sulfurique. Etc.
+
+Ces composés, les acides -ique et leurs anions -ate,
+sont très connus et répandus,
+
+à un tel point qu'ils constituent
+la base pour le langage des acides.
+
+Le chlore, l'hydrogène et l'oxygène peuvent se combiner en acide chlorique.
+
+Mais ils peuvent former bien d'autres acides similaires.
+
+Toutes ces variations sont nommées à l'aide d'un ensemble super explicites de préfixes et suffixes
+
+qui indiquent s'ils ont plus ou moins d'atomes d'oxygènes que les composés de référence,
+
+et combien de plus ou de moins.
+Prenez le HClO2.
+
+Parce qu'on sait que le cation est H plus,
+
+on peut voir tout de suite que l'anion est ClO2 moins,
+que l'on sait être l'ion chlorite.
+
+De plus, on voit que le HClO2 contient
+moins d'atomes d'oxygène que le HClO3.
+
+Le suffixe -eux veut dire "moins que" et nous donne donc le nom "acide chloreux" pour le HClO2.
+
+Ainsi, l'ion chlorite forme l'acide chloreux (suffixe -eux).
+
+En effet, tout atome finisssant en -ite
+forme un acide finissant en -eux.
+
+Mais qu'en est-il s'il a trop d'atomes d'oxygène de moins que son homologue en -ique ?
+
+Pour l'acide comme pour son anion, on prend simplement les suffixes cités, -eux et -ite,
+
+mais en plus, on ajoute un préfixe.
+
+Ce préfixe, c'est hypo-, du grec signifiant "en dessous".
+
+Donc, le HClO est l'acide hypochloreux, et de même,
+son anion - ClO moins - est l'hypochlorite.
+
+Il reste toutefois quelques cas de figure que nous n'avons pas envisagés.
+
+Et si un acide avait un atome d'oxygène de plus que la version en -ique ?
+
+On emploie alors un autre préfixe, le latin per-,
+qui veut dire "très" ou "entièrement".
+
+Reste plus qu'à trouver un usage à ce per-. Allons-y.
+
+On a perplexe : très plexe. Pervers : entièrement vers. Perfection : très.. fection.
+
+J'ai dû le chercher dans le dico.
+C'est du latin qui veut dire "compléter".
+
+Donc "parfait" veut dire entièrement complété.
+C'est sympa.
+
+Et le préfixe per- permet de dire "entièrement oxygéné", complètement, en somme.
+
+Per- indique donc le nombre maximal d'atomes d'oxygène contenables.
+
+Et le HClO4 est l'acide perchlorique, qui se dissocie en un anion appelé le perchlorate.
+
+Et si l'acide en question ne contenait aucun oxygène ?
+
+Notez bien : c'est l'hydrogène le pilier des acides, donc même si l'oxygène est courant, il n'est pas du tout indispensable.
+
+Quand un hydrogène si lie à du chlore pour former un acide, comme il n'y a pas d'oxygène, on l'appelle simplement acide hydrochlorique.
+
+Et ses anions suivent les mêmes règles pour les anions dont on a parlé au tout début,
+
+ceux qui finissent en -ide, ici le chloride.
+
+À présent, compte tenu de ce qui vient de vous arriver,
+
+Il y a 99% de chances que vous soyez plus confus qu'en vous réveillant dans un pré bruineux en Belgique.
+
+Si tel est le cas, prenez un stylo
+et apprêtez-vous à mettre pause.
+
+Recopiez ce tableau.
+C'est tout ce que vous avez besoin de savoir.
+
+Familiarisez-vous avec les ions -ate et les acides -ique.
+
+et bricolez les bons préfixes et suffixes selon le nombre d'atomes d'oxygène présents.
+
+Pas aussi fantaisiste que de se réveiller dans un pré belge, mais instructif.
+
+Regardez ce que nous avons appris, comme comment déterminer les formules et les noms d'ions monoatomiques,
+
+comment trouver les éléments formateurs de cations et d'anions sur le tableau périodique,
+
+comment noter les formules et nommer les métaux de transition ainsi que les acides et leurs anions.
+
+Merci d'avoir regardé cet épisode de Crash Course Chimie, écrit par Blake de Pastino.
+
+J'ai moi-même révisé le script et notre consultant en chimie est Edi Gonzalez.
+
+Cet épisode a été filmé, monté et réalisé par Nicholas Jenkins.
+
+Assistant de production et ingénieur du son : Michael Aranda ; équipe graphique : Thought Cafe.
+

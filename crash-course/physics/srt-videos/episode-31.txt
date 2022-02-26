@@ -1,0 +1,439 @@
+This episode is supported by Prudential.
+Cet épisode est soutenu par Prudential.
+
+By now, thanks to our lesson on circuit analysis – and previous Crash Course Physics episodes – you know your way around a basic DC circuit.
+À présent, grâce à notre leçon sur l'analyse de circuit - et aux épisodes précédents de Crash Course Physics - vous connaissez votre chemin autour d'un circuit CC de base.
+
+You’ve learned how to simplify circuits with resistors connected in series and parallel with a single battery source, which is great!
+Vous avez appris à simplifier les circuits avec des résistances connectées en série et en parallèle avec une seule source de batterie, ce qui est formidable !
+
+But a lot of the real-world circuits that you encounter – and will have to describe – are much more complicated.
+Mais beaucoup de circuits du monde réel que vous rencontrez - et que vous devrez décrire - sont beaucoup plus compliqués.
+
+For example, what happens when there are multiple
+batteries, connected in parallel?
+Par exemple, que se passe-t-il lorsqu'il y a plusieurs
+batteries connectées en parallèle ?
+
+And what happens when we add capacitors into
+the mix, with resistors in our DC circuits?
+Et que se passe-t-il lorsque nous ajoutons des condensateurs
+au mélange, avec des résistances dans nos circuits CC ?
+
+On this, our last go-round inside a DC circuit,
+we’ll encounter junctions, loops, and capacitors!
+Sur ce dernier, notre dernier tour à l'intérieur d'un circuit DC,
+nous rencontrerons des jonctions, des boucles et des condensateurs !
+
+[Theme Music]
+[Theme Music] Les
+
+Circuits aren’t always just a battery powering
+a set of resistors.
+circuits ne sont pas toujours simplement une batterie alimentant
+un ensemble de résistances.
+
+The design of a circuit depends on the needs of the system it operates, and we need tools to take any configuration into account.
+La conception d'un circuit dépend des besoins du système qu'il exploite, et nous avons besoin d'outils pour prendre en compte toute configuration.
+
+In the mid 19th century, a German physicist named Gustav Kirchhoff expanded on the principles of Ohm’s law to improve our ability to calculate current and voltage in complex electrical circuits.
+Au milieu du XIXe siècle, un physicien allemand du nom de Gustav Kirchhoff a développé les principes de la loi d'Ohm pour améliorer notre capacité à calculer le courant et la tension dans des circuits électriques complexes.
+
+Kirchhoff took laws we already knew – the conservation of charge and of energy – and established two rules for circuit analysis.
+Kirchhoff a pris des lois que nous connaissions déjà - la conservation de la charge et de l'énergie - et a établi deux règles pour l'analyse des circuits.
+
+The first rule, which deals with conservation of charge, is something we’ve actually already discussed.
+La première règle, qui traite de la conservation de la charge, est quelque chose dont nous avons déjà discuté.
+
+It’s known as Kirchhoff’s Junction Rule, and it states that the sum of all currents entering into a junction is equal to the sum of all currents leaving the junction.
+Elle est connue sous le nom de règle de jonction de Kirchhoff et stipule que la somme de tous les courants entrant dans une jonction est égale à la somme de tous les courants quittant la jonction.
+
+Like I’ve been saying: What goes in must
+come out!
+Comme je l'ai dit : ce qui entre doit
+sortir !
+
+The second rule, based on the conservation of energy, is a little harder to grasp, but trust me, it works!
+La deuxième règle, basée sur la conservation de l'énergie, est un peu plus difficile à appréhender, mais croyez-moi, ça marche !
+
+It’s Kirchhoff’s Loop Rule, and it says that the sum of
+all changes in potential around a loop equals zero.
+C'est la règle de boucle de Kirchhoff, et elle dit que la somme de
+tous les changements de potentiel autour d'une boucle est égale à zéro.
+
+So, why would you need to know that’s a
+thing?
+Alors, pourquoi auriez-vous besoin de savoir que c'est une
+chose?
+
+Well, remember, batteries supply potential, and then that potential, also called voltage, drops across resistors.
+Eh bien, rappelez-vous, les batteries fournissent un potentiel, puis ce potentiel, également appelé tension, chute à travers les résistances.
+
+It’s kind of like a ride on a roller coaster.
+C'est un peu comme un tour de montagnes russes.
+
+You may climb up steep slopes and fly around the track, doing loop-da-loops to your heart’s content – and your stomach’s discontent – but you always start and end in the same place.
+Vous pouvez gravir des pentes abruptes et voler autour de la piste, en faisant des loop-da-loops à votre guise - et au mécontentement de votre estomac - mais vous commencez et finissez toujours au même endroit.
+
+Likewise, in a circuit, every battery is like a climb in height, gaining potential, and each resistor is a drop.
+De même, dans un circuit, chaque batterie est comme une montée en hauteur, gagnant du potentiel, et chaque résistance est une chute.
+
+But no matter which way you go in the circuit,
+you’ll always end up where you started.
+Mais peu importe dans quelle direction vous allez dans le circuit,
+vous finirez toujours là où vous avez commencé.
+
+So let’s put these rules to the test.
+Mettons donc ces règles à l'épreuve.
+
+Here’s a circuit that wouldn’t be easy
+to solve with only Ohm’s law.
+Voici un circuit qui ne serait pas facile
+à résoudre avec la seule loi d'Ohm.
+
+It has two batteries and four resistors, with a
+combination of series and parallel connections.
+Il a deux batteries et quatre résistances, avec une
+combinaison de connexions en série et en parallèle.
+
+You can simplify the two resistors in series down to one, but after that, how do you tackle the rest?
+Vous pouvez simplifier les deux résistances en série jusqu'à une seule, mais après cela, comment abordez-vous le reste ?
+
+If you want to find the current through each branch, and the voltage drop across each resistor, you’re gonna need Gustav’s help!
+Si vous voulez trouver le courant dans chaque branche et la chute de tension dans chaque résistance, vous aurez besoin de l'aide de Gustav !
+
+The first step of using the junction rule
+is to label all the junctions.
+La première étape de l'utilisation de la règle de jonction
+consiste à étiqueter toutes les jonctions.
+
+Each junction is a point on a wire that’s
+connected to two or more circuit elements.
+Chaque jonction est un point sur un fil qui est
+connecté à deux éléments de circuit ou plus.
+
+Then, you label all the different currents
+in the diagram.
+Ensuite, vous étiquetez tous les différents courants
+dans le diagramme.
+
+There are only three different wire branches,
+so there are three different currents in the circuit.
+Il n'y a que trois branches de fil différentes,
+il y a donc trois courants différents dans le circuit.
+
+Kirchhoff’s junction rule tells us that everything
+entering junction “a” must leave it too.
+La règle de jonction de Kirchhoff nous dit que tout ce qui
+entre dans la jonction "a" doit également en sortir.
+
+Mathematically, this means that I2 is equal to the sum of I1 and I3, since it’s I2 that splits off into two branches.
+Mathématiquement, cela signifie que I2 est égal à la somme de I1 et I3, puisque c'est I2 qui se sépare en deux branches.
+
+Notice, by the way, that we’ve assigned the current directions the way we have, because they make sense with the orientation of the batteries, going from the negative to positive terminal.
+Remarquez, en passant, que nous avons assigné les directions actuelles comme nous l'avons fait, car elles ont un sens avec l'orientation des batteries, allant de la borne négative à la borne positive.
+
+But no matter which way you orient them, in your equations, all the values will work out the same way.
+Mais quelle que soit la manière dont vous les orientez, dans vos équations, toutes les valeurs fonctionneront de la même manière.
+
+If you’ve correctly chosen the direction of current, then their values will come out positive, like current should.
+Si vous avez correctement choisi la direction du courant, leurs valeurs seront positives, comme le courant devrait le faire.
+
+But if you’ve chosen the wrong direction,
+then the value will end up being negative!
+Mais si vous avez choisi la mauvaise direction
+, la valeur finira par être négative !
+
+OK, back to the action.
+Bon, retour à l'action.
+
+Let’s call the equation with the current values “equation one” and return to it later, when we need it.
+Appelons l'équation avec les valeurs actuelles "équation un" et revenons-y plus tard, quand nous en aurons besoin.
+
+Now it’s time to try out Kirchhoff’s Loop
+Rule!
+Il est maintenant temps d'essayer la
+règle de la boucle de Kirchhoff !
+
+You can draw a loop around any part of the circuit where you can imagine a charged particle moving around the circuit in a circle, ending back where it started.
+Vous pouvez dessiner une boucle autour de n'importe quelle partie du circuit où vous pouvez imaginer une particule chargée se déplaçant autour du circuit en cercle, se terminant là où elle a commencé.
+
+To put it simply, wherever there’s a loop,
+we can use the loop rule!
+Pour faire simple, partout où il y a une boucle,
+on peut utiliser la règle de la boucle !
+
+We’ve got one loop in the top half of the circuit, and a second loop in the bottom half, and there’s actually a third loop here too.
+Nous avons une boucle dans la moitié supérieure du circuit et une deuxième boucle dans la moitié inférieure, et il y a en fait une troisième boucle ici aussi.
+
+It’s the entire outside of the circuit!
+C'est tout l'extérieur du circuit !
+
+Now you’ve got your loops, and you’re going to use them to solve the three unknown current values.
+Vous avez maintenant vos boucles et vous allez les utiliser pour résoudre les trois valeurs de courant inconnues.
+
+Let’s begin with loop number one.
+Commençons par la boucle numéro un.
+
+In this loop, you have one 20 Volt battery
+and two resistors, a 5 Ohm and a 40 Ohm one.
+Dans cette boucle, vous avez une batterie de 20 volts
+et deux résistances, une de 5 ohms et une de 40 ohms.
+
+You know that there’s a voltage gain across the battery and a voltage drop across both resistor 2 and resistor 1.
+Vous savez qu'il y a un gain de tension sur la batterie et une chute de tension sur les résistances 2 et 1.
+
+The voltage gain across the battery is 20 Volts, but you don’t know the voltage drops across the resistors.
+Le gain de tension sur la batterie est de 20 volts, mais vous ne connaissez pas les chutes de tension sur les résistances.
+
+Thanks to Ohm’s law, you can substitute the voltage drop across each resistor with the current times the resistance.
+Grâce à la loi d'Ohm, vous pouvez remplacer la chute de tension aux bornes de chaque résistance par le courant multiplié par la résistance.
+
+Now you’ve got two unknowns in this equation,
+which we’ll call “equation two.”
+Vous avez maintenant deux inconnues dans cette équation,
+que nous appellerons "équation deux".
+
+Let’s set that aside as well.
+Laissons cela de côté également.
+
+Next, let’s look at loop two.
+Ensuite, regardons la boucle deux.
+
+In this loop, you’ve got two batteries and
+three resistors.
+Dans cette boucle, vous avez deux batteries et
+trois résistances.
+
+If you follow the direction of the loop, you see that both batteries add voltage, because the loop direction goes from their negative end through to the positive end.
+Si vous suivez la direction de la boucle, vous voyez que les deux batteries ajoutent de la tension, car la direction de la boucle va de leur extrémité négative à l'extrémité positive.
+
+Additionally, all the resistors will subtract voltage, because the loop goes in the same direction as the current.
+De plus, toutes les résistances soustrairont la tension, car la boucle va dans le même sens que le courant.
+
+So it’s important to draw your current directions
+first, in order to make this clear.
+Il est donc important de dessiner d'abord vos directions actuelles
+, afin de clarifier cela.
+
+Now, you want to do the same thing you did for the first loop, which is to sum up all the changes in voltage to 0.
+Maintenant, vous voulez faire la même chose que vous avez faite pour la première boucle, qui consiste à résumer tous les changements de tension à 0.
+
+And then you just substitute Ohm’s law in for every resistor’s voltage, to get terms of current and resistance.
+Et puis vous substituez simplement la loi d'Ohm à la tension de chaque résistance, pour obtenir les termes de courant et de résistance.
+
+Now you have this third equation, which we’ll
+call “equation three.”
+Vous avez maintenant cette troisième équation, que nous
+appellerons « équation trois ».
+
+While you could go on and create an equation for the third loop, you actually don’t need to, because the junction rule gives you an equation to use here.
+Bien que vous puissiez continuer et créer une équation pour la troisième boucle, vous n'en avez en fait pas besoin, car la règle de jonction vous donne une équation à utiliser ici.
+
+So at this point, you have the three equations
+you need to solve everything!
+Donc, à ce stade, vous avez les trois équations dont
+vous avez besoin pour tout résoudre !
+
+So let’s first revisit equation one and
+replace I1 and I3 with equations two and three.
+Reprenons donc d'abord l'équation un et
+remplaçons I1 et I3 par les équations deux et trois.
+
+Now you have an equation entirely in terms of I2, which you can solve to find that I2 is equal to 1 Ampere.
+Vous avez maintenant une équation entièrement en termes de I2, que vous pouvez résoudre pour trouver que I2 est égal à 1 ampère.
+
+Once you have this value, you can easily solve equations two and three by substituting in the new I2 solution.
+Une fois que vous avez cette valeur, vous pouvez facilement résoudre les équations deux et trois en les remplaçant par la nouvelle solution I2.
+
+And there you go!
+Et voilà !
+
+If you wanted to know any of the voltage drops across the resistors, all you’d have to do is multiply the resistance in question by the current passing through that resistor.
+Si vous vouliez connaître l'une des chutes de tension aux bornes des résistances, il vous suffirait de multiplier la résistance en question par le courant traversant cette résistance.
+
+For instance, the voltage drop across resistor 2 would be the resistance, 5 Ohms, multiplied by the current passing through that resistor, which is 1 Ampere.
+Par exemple, la chute de tension aux bornes de la résistance 2 serait la résistance, 5 Ohms, multipliée par le courant traversant cette résistance, qui est de 1 ampère.
+
+That’s a total voltage drop of 5 Volts.
+C'est une chute de tension totale de 5 volts.
+
+And the drop across resistor 1 in the same loop would be the resistance, 40 Ohms, times the current through the resistor, which is 0.375 Amperes.
+Et la chute à travers la résistance 1 dans la même boucle serait la résistance, 40 Ohms, multipliée par le courant traversant la résistance, soit 0,375 Ampères.
+
+That comes out to a voltage drop of 15 Volts, which makes sense, because then the sum of each drop in the loop is equal to the voltage supplied by the battery.
+Cela revient à une chute de tension de 15 Volts, ce qui est logique, car alors la somme de chaque chute dans la boucle est égale à la tension fournie par la batterie.
+
+And those are Kirchhoff’s Laws – the Junction Rule for current and the Loop Rule for voltage, with a little Ohm’s law utilization as well.
+Et ce sont les lois de Kirchhoff - la règle de jonction pour le courant et la règle de boucle pour la tension, avec une petite utilisation de la loi d'Ohm également.
+
+Now it’s time to reintroduce our old friend,
+the capacitor!
+Il est maintenant temps de réintroduire notre vieil ami,
+le condensateur !
+
+In a DC circuit, a capacitor is useful for storing charge temporarily, then releasing it again later on.
+Dans un circuit à courant continu, un condensateur est utile pour stocker temporairement une charge, puis la relâcher plus tard.
+
+But so far we’ve been dealing with circuits that have a constant flow of charge, or those that have reached steady state.
+Mais jusqu'à présent, nous avons eu affaire à des circuits qui ont un flux de charge constant, ou à ceux qui ont atteint un état stable.
+
+With capacitors, we deal with transient conditions,
+or circuit responses that change with time.
+Avec les condensateurs, nous traitons des conditions transitoires
+ou des réponses de circuit qui changent avec le temps.
+
+From our earlier lessons, you know that the amount of charge stored in a capacitor is equal to the voltage across the capacitor times its capacitance.
+D'après nos leçons précédentes, vous savez que la quantité de charge stockée dans un condensateur est égale à la tension aux bornes du condensateur multipliée par sa capacité.
+
+And you can store this charge by connecting a capacitor in series with a battery, letting current flow from the battery into the capacitor, until the capacitor’s voltage is equal to the battery's.
+Et vous pouvez stocker cette charge en connectant un condensateur en série avec une batterie, en laissant le courant circuler de la batterie dans le condensateur, jusqu'à ce que la tension du condensateur soit égale à celle de la batterie.
+
+But what happens when you connect multiple capacitors together, like we do with resistors, in series and in parallel?
+Mais que se passe-t-il lorsque vous connectez plusieurs condensateurs ensemble, comme nous le faisons avec des résistances, en série et en parallèle ?
+
+Well, if you have several capacitors connected in parallel, the overall capacitance of the circuit increases.
+Eh bien, si vous avez plusieurs condensateurs connectés en parallèle, la capacité globale du circuit augmente.
+
+In this circuit diagram, we have three capacitors
+connected in parallel with a single battery.
+Dans ce schéma de circuit, nous avons trois condensateurs
+connectés en parallèle avec une seule batterie.
+
+Current will flow into the capacitors, and will stop when each capacitor holds the maximum amount of charge.
+Le courant circulera dans les condensateurs et s'arrêtera lorsque chaque condensateur conservera la charge maximale.
+
+So, how can you describe the equivalent capacitance
+of a circuit like this?
+Alors, comment pouvez-vous décrire la capacité équivalente
+d'un circuit comme celui-ci ?
+
+Easy: the total amount of charge is the sum
+of the charges held by each individual capacitor.
+Facile : la quantité totale de charge est la somme
+des charges détenues par chaque condensateur individuel.
+
+And you know that the charge held by each capacitor is equal to the capacitance times the voltage across each one.
+Et vous savez que la charge détenue par chaque condensateur est égale à la capacité multipliée par la tension aux bornes de chacun.
+
+And since every point of a conductor has the same potential, and all the conductors are connected, all devices connected in parallel will have the same voltage.
+Et comme chaque point d'un conducteur a le même potentiel et que tous les conducteurs sont connectés, tous les appareils connectés en parallèle auront la même tension.
+
+So, you can simplify the charge equation to say that the equivalent capacitance of the circuit is equal to the sum of all the individual capacitances.
+Ainsi, vous pouvez simplifier l'équation de charge pour dire que la capacité équivalente du circuit est égale à la somme de toutes les capacités individuelles.
+
+Note that this is the not the same as the
+parallel equation for resistors!
+Notez que ce n'est pas la même chose que l'
+équation parallèle pour les résistances !
+
+Capacitance is unique in this way.
+La capacité est unique de cette façon.
+
+In fact, the convention is also reversed for capacitors connected in series, which will have a lower overall capacitance.
+En fait, la convention est également inversée pour les condensateurs connectés en série, qui auront une capacité globale plus faible.
+
+For example, if you have a circuit with three capacitors connected in series with a single battery, then the current still stops flowing when the total voltage across the capacitors equals that of the battery.
+Par exemple, si vous avez un circuit avec trois condensateurs connectés en série avec une seule batterie, le courant cesse de circuler lorsque la tension totale aux bornes des condensateurs est égale à celle de la batterie.
+
+The charge contained by each capacitor is the same, because current can’t flow through the capacitors, only on either side of them.
+La charge contenue par chaque condensateur est la même, car le courant ne peut pas circuler à travers les condensateurs, seulement de chaque côté d'eux.
+
+So if one plate of the first capacitor has a positive charge, then the other plate in that first capacitor has an equal and opposite negative charge.
+Donc, si une plaque du premier condensateur a une charge positive, alors l'autre plaque de ce premier condensateur a une charge négative égale et opposée.
+
+This leads the plate of the next capacitor
+to have an equal and opposite positive charge,
+Cela conduit la plaque du condensateur suivant
+à avoir une charge positive égale et opposée,
+
+since the amount of charge in the plates, and
+the wire that connects them, hasn’t changed.
+car la quantité de charge dans les plaques et
+le fil qui les relie n'ont pas changé.
+
+But the nearby charged plate redistributes
+the charge to compensate.
+Mais la plaque chargée à proximité redistribue
+la charge pour compenser.
+
+This effect carries all the way through, until the last plate of the third capacitor has a negative charge equal and opposite to the first capacitor’s positive plate.
+Cet effet se poursuit jusqu'à ce que la dernière plaque du troisième condensateur ait une charge négative égale et opposée à la plaque positive du premier condensateur.
+
+So you can picture the entire set of capacitors
+as one big equivalent capacitor.
+Ainsi, vous pouvez imaginer l'ensemble des condensateurs
+comme un seul gros condensateur équivalent.
+
+For devices in series, the voltage drops across each element equal the voltage provided by the battery.
+Pour les appareils en série, les chutes de tension aux bornes de chaque élément sont égales à la tension fournie par la batterie.
+
+So to find the equivalent capacitance in this case, just substitute in the charge equation (voltage-times-capacitance) for each voltage across the capacitors.
+Donc, pour trouver la capacité équivalente dans ce cas, il suffit de remplacer dans l'équation de charge (tension-fois-capacité) pour chaque tension aux bornes des condensateurs.
+
+The charge contained by each capacitor is still the same, since the charge on each positive and negative plate is the same for each capacitor.
+La charge contenue par chaque condensateur est toujours la même, puisque la charge sur chaque plaque positive et négative est la même pour chaque condensateur.
+
+Therefore, you can factor out charge, and you’re left with the equation for equivalent capacitance of capacitors connected in series.
+Par conséquent, vous pouvez factoriser la charge et il vous reste l'équation de la capacité équivalente des condensateurs connectés en série.
+
+So for series capacitors, the combined capacitance
+is less than the weakest individual capacitor.
+Ainsi, pour les condensateurs en série, la capacité combinée
+est inférieure au condensateur individuel le plus faible.
+
+And guess what.
+Et devine quoi. 
+
+This wraps up our review of electricity!
+Ceci conclut notre examen de l'électricité!
+
+Now all that’s left to learn about is the other side
+of this same force: the realm of magnetism!
+Maintenant, il ne reste plus qu'à découvrir l'autre côté
+de cette même force : le domaine du magnétisme !
+
+Today we learned about Kirchhoff’s Laws and how we can rework conservation of charge and of energy to analyze more complex  circuits.
+Aujourd'hui, nous avons appris les lois de Kirchhoff et comment nous pouvons retravailler la conservation de la charge et de l'énergie pour analyser des circuits plus complexes.
+
+We also discussed how capacitors function in a typical DC circuit and the ways they behave when combined in series and parallel connections.
+Nous avons également discuté du fonctionnement des condensateurs dans un circuit CC typique et de leur comportement lorsqu'ils sont combinés dans des connexions en série et en parallèle.
+
+Thanks to Prudential for sponsoring this episode.
+Merci à Prudential d'avoir parrainé cet épisode.
+
+The time between when people think they should start saving for retirement and when they actually do is known as the Action Gap.
+Le temps entre le moment où les gens pensent qu'ils devraient commencer à épargner pour leur retraite et le moment où ils le font réellement est connu sous le nom d'Action Gap.
+
+According to a recent survey conducted by Prudential, the average American starts saving for retirement 7 years later than they think is best.
+Selon une récente enquête menée par Prudential, l'Américain moyen commence à épargner pour sa retraite 7 ans plus tard qu'il ne le pense.
+
+That could cost you $410,675.92 in your lifetime.
+Cela pourrait vous coûter 410 675,92 $ au cours de votre vie.
+
+Another Prudential study found that 1 in 3
+Americans is not saving enough for their retirement.
+Une autre étude de Prudential a révélé qu'un
+Américain sur trois n'épargne pas suffisamment pour sa retraite.
+
+Go to Raceforretirement.com and see how the
+action gap affects you.
+Allez sur Raceforretirement.com et voyez comment l'
+écart d'action vous affecte.
+
+Crash Course Physics is produced in association
+with PBS Digital Studios.
+Crash Course Physics est produit en association
+avec PBS Digital Studios.
+
+You can head over to their channel to check out amazing shows like Indie America, Shanx FX, and Physics Girl.
+Vous pouvez vous rendre sur leur chaîne pour découvrir des émissions incroyables comme Indie America, Shanx FX et Physics Girl.
+
+This episode of Crash Course was filmed in
+the Doctor Cheryl C. Kinney Crash Course Studio
+Cet épisode de Crash Course a été filmé dans
+le studio Doctor Cheryl C. Kinney Crash Course
+
+with the help of these amazing people and our equally amazing graphics team is Thought Cafe.
+avec l'aide de ces personnes incroyables et notre équipe graphique tout aussi incroyable est Thought Cafe.
+

@@ -1,0 +1,1072 @@
+Hey look!
+Hé regarde! 
+
+It's our friend Gregor Mendel,
+the supermonk who discovered
+C'est notre ami Gregor Mendel,
+le supermoine qui a découvert
+
+the basic principles of genetics.
+les principes de base de la génétique.
+
+Hopefully you remember all of this.
+J'espère que vous vous souvenez de tout cela.
+
+Both parents contribute one
+version of each of their genes
+Les deux parents apportent une
+version de chacun de leurs gènes,
+
+called an allele,
+to their offspring.
+appelée allèle,
+à leur progéniture.
+
+And some of those alleles are
+dominant, or always expressed,
+Et certains de ces allèles sont
+dominants, ou toujours exprimés,
+
+while others are recessive and
+only expressed when they're
+tandis que d'autres sont récessifs et
+ne s'expriment que lorsqu'ils ne sont
+
+not paired with a dominant one.
+pas associés à un dominant.
+
+Oh, and here's our old friend
+Chucky D, he lets me call him that.
+Oh, et voici notre vieil ami
+Chucky D, il me laisse l'appeler ainsi.
+
+All this information that Mendel
+figured out would have been
+Toutes ces informations que Mendel
+a découvertes auraient été
+
+really quite interesting to him,
+because Darwin spent his whole life
+vraiment très intéressantes pour lui,
+car Darwin a passé toute sa vie à
+
+defending his ideas of
+Natural Selection
+défendre ses idées sur
+la sélection naturelle en
+
+as the primary force for Evolution.
+tant que force principale de l'évolution.
+
+But, Darwin had no idea how traits
+were passed on to their offspring,
+Mais, Darwin n'avait aucune idée de la façon dont les traits
+étaient transmis à leur progéniture,
+
+even though these two guys were
+living and working at the same time.
+même si ces deux gars
+vivaient et travaillaient en même temps.
+
+Both Mendel and Darwin died not
+knowing how their ideas
+Mendel et Darwin sont morts sans
+savoir comment leurs idées
+
+fit together.
+s'emboîtaient.
+
+So today we're going to introduce
+them, and their ideas,
+Aujourd'hui, nous allons donc les
+présenter, ainsi que leurs idées,
+
+to one another, through the
+science of population genetics,
+à travers la
+science de la génétique des populations,
+
+which demonstrates how genetics
+and evolution influence each other.
+qui démontre comment la génétique
+et l'évolution s'influencent mutuellement.
+
+And I have good news!
+Et j'ai une bonne nouvelle !
+
+It involves a lot of math!
+Cela implique beaucoup de mathématiques!
+
+Population genetics, on the
+surface, is not a complicated idea.
+La génétique des populations, à première vue
+, n'est pas une idée compliquée.
+
+It's the study of how populations
+of a species change genetically
+C'est l'étude de la façon dont les populations
+d'une espèce changent génétiquement au
+
+over time, leading to
+a species evolving.
+fil du temps, conduisant à l'
+évolution d'une espèce.
+
+So let's start out by defining
+what a population is.
+Commençons donc par définir
+ce qu'est une population.
+
+It's simply a group of individuals
+of a species that can interbreed.
+C'est simplement un groupe d'individus
+d'une espèce qui peuvent se croiser.
+
+And because we have a whole bunch
+of fancy genetic testing gadgets,
+Et parce que nous avons tout un tas
+de gadgets sophistiqués pour les tests génétiques,
+
+and because, unlike Darwin, we
+know a whole lot about heredity,
+et parce que, contrairement à Darwin, nous en
+savons beaucoup sur l'hérédité,
+
+we can now study the genetic
+change in populations over
+nous pouvons maintenant étudier les
+changements génétiques dans les populations sur
+
+just a couple generations.
+seulement quelques générations.
+
+This is really exciting and really
+fun because it's basically like
+C'est vraiment excitant et vraiment
+amusant parce que c'est fondamentalement comme
+
+scientific instant gratification.
+une gratification instantanée scientifique.
+
+I can observe evolution happening
+within my lifetime, so cross that
+Je peux observer l'évolution se produire
+au cours de ma vie, alors
+
+off the old bucket list.
+rayez cela de l'ancienne liste de choses à faire.
+
+Now part of population genetics,
+or Pop-Gen, I know, we've got
+Maintenant, une partie de la génétique des populations,
+ou Pop-Gen, je sais, nous avons
+
+fancy abbreviations for everything
+now, involves the study of factors
+des abréviations fantaisistes pour tout
+maintenant, implique l'étude des facteurs
+
+that cause changes in what's
+called allele frequency.
+qui provoquent des changements dans ce qu'on
+appelle la fréquence des allèles.
+
+Which is just how often certain
+alleles turn up within
+C'est à quelle fréquence certains
+allèles apparaissent au sein d'
+
+a population, and those changes
+are at the heart of how
+une population, et ces changements
+sont au cœur de comment
+
+and why evolution happens.
+et pourquoi l'évolution se produit.
+
+So, there are several factors that
+change allele frequency
+Ainsi, plusieurs facteurs
+modifient la fréquence des allèles
+
+within a population.
+au sein d'une population.
+
+And just like Fast and Furious
+Movies, there are five of them.
+Et tout comme Fast and Furious
+Movies, il y en a cinq.
+
+And unlike Fast and Furious
+movies, they're actually
+Et contrairement aux films Fast and Furious
+, ils sont en fait
+
+very very important and are
+the basic reason why all
+très très importants et sont
+la raison fondamentale pour laquelle toute
+
+complex life on earth exists.
+vie complexe sur terre existe.
+
+This main selective pressure is
+simply natural selection itself,
+Cette principale pression sélective est
+tout simplement la sélection naturelle elle-même,
+
+Darwin's sweet little baby which
+he spent a lot of his career
+le doux petit bébé de Darwin
+qu'il a passé une grande partie de sa carrière à
+
+defending from haters.
+défendre contre les ennemis.
+
+Obviously, we know this,
+Natural Selection makes
+Évidemment, nous le savons,
+la sélection naturelle rend
+
+the alleles that make animals
+the strongest, most virile,
+les allèles qui font des animaux
+les plus forts, les plus virils
+
+and least-likely-to-die more
+frequent in the population.
+et les moins susceptibles de mourir plus
+fréquents dans la population.
+
+Now, most selective pressures are
+environmental ones, like food
+Maintenant, la plupart des pressions sélectives sont
+environnementales, comme l'
+
+supply or predators or parasites.
+But at the population level one of
+approvisionnement alimentaire ou les prédateurs ou les parasites.
+Mais au niveau de la population, l'une des forces
+
+the most important evolutionary
+forces is sexual selection,
+évolutives les plus importantes
+est la sélection sexuelle,
+
+and population genetics gives it
+special attention, particularly
+et la génétique des populations lui accorde
+une attention particulière, en particulier
+
+when it comes to what's called
+nonrandom mating.
+lorsqu'il s'agit de ce qu'on appelle l'
+accouplement non aléatoire.
+
+Which is a lifestyle that I
+encourage in all of my students.
+C'est un style de vie que
+j'encourage chez tous mes élèves.
+
+Do not mate randomly.
+Ne s'accouplent pas au hasard.
+
+Sexual selection is the idea
+that certain individuals will be
+La sélection sexuelle est l'idée
+que certains individus seront
+
+more attractive mates than others,
+because of specific traits.
+des partenaires plus attirants que d'autres, en
+raison de traits spécifiques.
+
+This means they'll be chosen
+to have more sex and therefore
+Cela signifie qu'ils seront choisis
+pour avoir plus de relations sexuelles et donc
+
+have more offspring.
+avoir plus de progéniture.
+
+The Pop-Gen spin on things is that
+sexual selection means mating
+La rotation Pop-Gen sur les choses est que
+la sélection sexuelle signifie que l'accouplement
+
+isn't random. There are specific
+traits that are preferred,
+n'est pas aléatoire.  Certains
+traits spécifiques sont préférés,
+
+even though they may not make the
+animals technically more fit
+même s'ils ne rendent pas
+techniquement les animaux plus aptes
+
+for survival. So sexual selection
+changes the genetic makeup
+à la survie.  Ainsi, la sélection sexuelle
+modifie la composition génétique
+
+of a population, because the
+alleles of the most successful
+d'une population, car les
+allèles des mères les plus performantes
+
+maters are going to show up more
+often in the gene pool.
+vont apparaître plus
+souvent dans le pool génétique.
+
+Maters gonna mate!
+Les maters vont s'accoupler !
+
+Another important factor here,
+and another thing that Darwin
+Un autre facteur important ici,
+et une autre chose que Darwin
+
+wished he understood,
+is mutation.
+souhaitait comprendre,
+est la mutation.
+
+Sometimes when eggs and sperm are
+formed through meiosis,
+Parfois, lorsque les ovules et les spermatozoïdes se
+forment par méiose,
+
+a mistake happens in the
+copying process of DNA.
+une erreur se produit dans le
+processus de copie de l'ADN.
+
+"Bad" errors in the DNA could
+result in the death or deformation
+De "mauvaises" erreurs dans l'ADN pourraient
+entraîner la mort ou la déformation
+
+of the offspring, but not all
+mutations are harmful.
+de la progéniture, mais toutes les
+mutations ne sont pas nocives.
+
+Sometimes these "mistakes" can
+create new alleles that benefit
+Parfois, ces "erreurs" peuvent
+créer de nouveaux allèles qui profitent à
+
+the individual by making it
+better at finding food,
+l'individu en lui permettant de
+mieux trouver de la nourriture, d'
+
+avoiding predators or
+finding a mate.
+éviter les prédateurs ou de
+trouver un partenaire.
+
+These "good" errors, and the
+alleles they made, are then
+Ces "bonnes" erreurs, et les
+allèles qu'elles ont créés, sont ensuite
+
+passed to the next generation,
+and into the population.
+transmises à la génération suivante
+et à la population.
+
+Fourth, we have genetic drift,
+which is when an allele's
+Quatrièmement, nous avons la dérive génétique
+, c'est-à-dire lorsque la
+
+frequency changes due
+to random chance.
+fréquence d'un allèle change en raison
+du hasard.
+
+A chance that's greater if
+the population is small,
+Une chance qui est plus grande si
+la population est petite,
+
+and thus happens much more quickly
+if a population gets knocked
+et qui se produit donc beaucoup plus rapidement
+si une population est
+
+way back by a tornado or something.
+repoussée par une tornade ou quelque chose du genre.
+
+Genetic Drift does not cause
+individuals to be more fit,
+La dérive génétique ne rend pas les
+individus plus en forme,
+
+just different.
+juste différents.
+
+Finally when it comes to allele
+game-changers, you gotta respect
+Enfin, en ce qui concerne les
+allèles qui changent la donne, vous devez respecter
+
+the gene flow.
+le flux de gènes.
+
+Which is when new individuals
+with different genes find their
+C'est à ce moment que de nouveaux individus
+avec des gènes différents se frayent un
+
+way into a population and spread
+their alleles all over the place.
+chemin dans une population et répandent
+leurs allèles partout.
+
+Immigration and emigration are
+good examples of this,
+L'immigration et l'émigration en sont
+de bons exemples
+
+and as with genetic drift its
+effects are most easily seen
+et, comme pour la dérive génétique, ses
+effets sont plus facilement visibles
+
+in small populations.
+dans les petites populations.
+
+Again, our factors:
+Encore une fois, nos facteurs :
+
+Natural Selection: Alleles
+for fitter organisms
+Sélection naturelle : Les
+allèles pour les organismes
+
+become more frequent.
+plus aptes deviennent plus fréquents.
+
+Sexual Selection: Alleles for
+more sexually attractive organisms
+Sélection sexuelle: Les allèles d'
+organismes plus attrayants sexuellement
+
+become more frequent.
+deviennent plus fréquents.
+
+Mutation: New alleles pop up
+due to mistakes in DNA.
+Mutation : De nouveaux allèles apparaissent en
+raison d'erreurs dans l'ADN.
+
+Genetic Drift: Changes in allele
+frequency due to random chance.
+Dérive génétique : Modifications de la
+fréquence des allèles dues au hasard.
+
+Gene Flow: Changes in allele
+frequency due to mixing with new,
+Flux de gènes : changements dans la
+fréquence des allèles dus au mélange avec de nouvelles
+
+genetically different populations.
+populations génétiquement différentes.
+
+Now that you know all that,
+in order to explain specifically
+Maintenant que vous savez tout cela
+, pour expliquer concrètement
+
+how these processes influence
+populations, we're going to
+comment ces processus influencent les
+populations, il va
+
+have to completely
+forget about them.
+falloir les
+oublier complètement.
+
+This is what's called the
+Hardy-Weinberg Principle.
+C'est ce qu'on appelle le
+principe de Hardy-Weinberg.
+
+Godfrey Hardy and
+Wilhelm Weinberg
+Godfrey Hardy et
+Wilhelm Weinberg
+
+were two scientists in 1908 who
+independently, at the same time,
+étaient deux scientifiques en 1908 qui,
+indépendamment, au même moment,
+
+came up with the exact same
+equation that describes how,
+ont trouvé exactement la même
+équation qui décrit comment,
+
+under the right circumstances,
+Mendelian genetics works
+dans les bonnes circonstances,
+la génétique mendélienne fonctionne
+
+at the scale of a whole population.
+à l'échelle d'une population entière.
+
+But those "right circumstances"
+assume that none of the factors
+Mais ces "bonnes circonstances"
+supposent qu'aucun des facteurs que
+
+I just mentioned are at play.
+je viens de mentionner n'est en jeu.
+
+Hardy and Weinberg's simple
+equation shows us the frequency
+L'équation simple de Hardy et Weinberg
+nous montre la fréquence
+
+with which you could expect
+to find different alleles
+à laquelle vous pourriez vous attendre
+à trouver différents allèles
+
+within a hypothetical population
+that's not evolving.
+au sein d'une population hypothétique
+qui n'évolue pas.
+
+This weird hypothetical
+state is called
+Cet état hypothétique étrange
+est appelé
+
+the Hardy-Weinberg Equilibrium,
+l'équilibre de Hardy-Weinberg,
+
+in which the frequency of alleles
+in a population remains constant
+dans lequel la fréquence des allèles
+dans une population reste constante
+
+from generation to generation.
+de génération en génération.
+
+And to make sure that happens,
+NO FUNNY STUFF is allowed
+Et pour s'assurer que cela se produise,
+AUCUN FUNNY STUFF n'est autorisé
+
+to go on.
+à continuer.
+
+To wit, the Hardy-Weinberg
+Equilibrium requires:
+À savoir, l'équilibre de Hardy-Weinberg
+nécessite :
+
+1. NO natural selection,
+1. AUCUNE sélection naturelle,
+
+which means that no alleles are
+more beneficial than any other,
+ce qui signifie qu'aucun allèle n'est
+plus bénéfique qu'un autre, de
+
+so the better alleles will not
+be selected within a population.
+sorte que les meilleurs allèles ne seront
+pas sélectionnés au sein d'une population.
+
+2. NO sexual selection,
+2. AUCUNE sélection sexuelle,
+
+which means mating within the
+ce qui signifie que l'accouplement au sein de la
+
+population must be
+completely random
+population doit être
+complètement aléatoire,
+
+no individual can have a better
+chance of getting it on than other.
+aucun individu ne peut avoir une meilleure
+chance de l'obtenir qu'un autre.
+
+3. NO mutations,
+3. PAS de mutations,
+
+because mutations modify
+the gene pool.
+car les mutations modifient
+le pool génétique.
+
+4. Hardy-Weinberg demands a
+gigantic population size because
+4. Hardy-Weinberg exige une
+taille de population gigantesque
+
+the smaller the population,
+the more likely you are
+car plus la population est petite
+, plus vous avez de chances
+
+to get genetic drift.
+d'obtenir une dérive génétique.
+
+5. Finally, NO gene flow,
+5. Enfin, AUCUN flux de gènes,
+
+that means nobody can bring over
+their hot cousin from
+cela signifie que personne ne peut faire venir
+son cousin chaud de
+
+the next island over, because that
+would significantly mess
+l'île voisine, car cela
+perturberait considérablement
+
+with the allele frequencies,
+les fréquences alléliques,
+
+if you know what I mean.
+si vous voyez ce que je veux dire.
+
+So, clearly, no fun
+and lots of rules.
+Donc, clairement, pas de plaisir
+et beaucoup de règles.
+
+Hardy and Weinberg, they figured
+this out at the exact same time,
+Hardy et Weinberg, ils ont compris
+ça exactement au même moment,
+
+so it can't be that complicated,
+because it wasn't some kind of
+donc ça ne peut pas être si compliqué,
+parce que ce n'était pas une sorte
+
+stroke of Einsteinian inspiration,
+they just figured out a thing that
+d'inspiration einsteinienne,
+ils ont juste compris quelque chose qui
+
+was pretty simple. So the question
+is, can we do the same thing
+était assez simple.  Donc la question
+est, pouvons-nous faire la même
+
+right now?
+chose maintenant ?
+
+Can we figure it out on our own?
+Pouvons-nous le comprendre par nous-mêmes ?
+
+What we're looking for is the
+relationship between the phenotype
+Ce que nous recherchons, c'est la
+relation entre le phénotype
+
+and the actual frequency of the
+genes in the population.
+et la fréquence réelle des
+gènes dans la population.
+
+So how do we proceed from here?
+Alors, comment procédons-nous à partir d'ici?
+
+Alas...earwax.
+Hélas... du cérumen.
+
+The consistency of earwax
+is a Mendelian trait.
+La consistance du cérumen
+est un trait mendélien.
+
+Wet earwax is a big W because
+it's dominant and dry ear wax
+Le cérumen humide est un grand W parce
+qu'il est dominant et le cérumen sec
+
+is recessive so it's a little w.
+Now let's call the frequency
+est récessif donc c'est un peu w.
+Appelons maintenant la fréquence
+
+of the dominant, wet allele
+of the population p
+de l'allèle humide dominant
+de la population p
+
+and the frequency of the
+recessive, dry allele q.
+et la fréquence de l'
+allèle sec récessif q.
+
+Which if you've ever noticed,
+q is kind of a backwards p.
+Si vous avez déjà remarqué,
+q est une sorte de p à l'envers.
+
+Since there are only two alleles
+for this gene in the
+Puisqu'il n'y a que deux allèles
+pour ce gène dans
+
+entire population, p + q = 1.
+toute la population, p + q = 1.
+
+So if the frequency of p is 75%,
+the only other thing
+Donc, si la fréquence de p est de 75 %,
+la seule autre chose que
+
+it could be is q,
+so that's going to be 25%.
+cela pourrait être est q,
+donc ce sera 25 %.
+
+Which is 1.
+Qui est 1.
+
+So imagine we go to this
+hypothetical, no-fun,
+Alors imaginez que nous allons sur cette
+hypothétique
+
+Hardy-Weinberg island and
+there are 100 people.
+île Hardy-Weinberg, pas amusante, et
+qu'il y a 100 personnes.
+
+We poke every single one of them
+in the ear and 9 of them
+Nous avons poussé chacun d'entre eux
+dans l'oreille et 9 d'entre eux
+
+have dry ear wax.
+ont du cérumen sec.
+
+So that's 9/100 or 9% or 0.09.
+You know math?
+C'est donc 9/100 ou 9% ou 0,09.
+Vous connaissez les maths ?
+
+But this is not q.
+Mais ce n'est pas q.
+
+It's not the frequency of the
+little w, it's the frequency
+Ce n'est pas la fréquence du
+petit w, c'est la fréquence
+
+of the homozygous ww.
+du ww homozygote.
+
+So this is the expressed phenotype.
+It's not the genotype.
+C'est donc le phénotype exprimé.
+Ce n'est pas le génotype.
+
+We don't know that yet.
+We know the frequency of ww.
+Nous ne le savons pas encore.
+Nous connaissons la fréquence de ww.
+
+But you know there's got to be a
+lot of other w alleles hanging
+Mais vous savez qu'il doit y avoir
+beaucoup d'autres allèles w qui
+
+around in heterozygous pairs.
+traînent par paires hétérozygotes.
+
+So how do we figure out where
+those are, how many
+Alors, comment pouvons-nous savoir où
+ils se trouvent,
+
+of those there are?
+combien y en a-t-il?
+
+Well, I have no idea.
+I now, am stuck.
+Eh bien, je n'en ai aucune idée.
+Je suis maintenant coincé.
+
+I do not know.
+I am lost.
+Je ne sais pas. 
+Je suis perdu. 
+
+When I'm stuck in situations like
+this, what I do, is I go back
+Quand je suis coincé dans des situations comme
+celle-ci, ce que je fais, c'est que je reviens
+
+to what I DO know.
+à ce que je SAIS.
+
+And what I know is that the
+frequency of Big W plus the
+Et ce que je sais c'est que la
+fréquence du Gros W plus la
+
+frequency of little w = 1.
+fréquence du petit w = 1.
+
+But that's in the entire
+population, and in each individual,
+Mais ça c'est dans toute la
+population, et chez chaque individu,
+
+we want to know their genotype,
+so two different alleles.
+on veut connaître son génotype,
+donc deux allèles différents.
+
+So what's happening is this is
+happening twice in
+Donc, ce qui se passe, c'est que cela se
+produit deux fois chez
+
+every individual, so what we
+need to do, is square it.
+chaque individu, donc ce que nous
+devons faire, c'est le concilier.
+
+And when we square that equation,
+if you remember algebra at all,
+Et quand nous mettons cette équation au carré,
+si vous vous souvenez du tout de l'algèbre,
+
+you get:
+vous obtenez :
+
+p^2 + 2pq + q^2 = 1
+p^2 + 2pq + q^2 = 1
+
+And that, my friends, is what
+Hardy and Weinberg did,
+Et ça, mes amis, c'est ce que
+Hardy et Weinberg ont fait,
+
+and IT is the
+Hardy-Weinberg equation!
+et C'est l'
+équation de Hardy-Weinberg !
+
+So p squared is the odds
+of it being a WW.
+Donc, p au carré est la probabilité
+qu'il s'agisse d'un WW.
+
+This 2pq here is the heterozygotes,
+and the q squared
+Ce 2pq est ici les hétérozygotes,
+et le q au carré
+
+is the homozygous recessive.
+est l'homozygote récessif.
+
+Well good news! We know ww.
+Eh bien bonne nouvelle !  Nous savons ww.
+
+We know the homozygous recessive
+is 0.09, so we already
+Nous savons que l'homozygote récessif
+est de 0,09, nous avons donc
+
+have that information.
+déjà cette information.
+
+We know what q squared is,
+it's 0.09, and in order to get
+Nous savons ce qu'est q au carré,
+c'est 0,09, et pour obtenir
+
+what q is we just take
+the square root of that.
+ce qu'est q, nous prenons simplement
+la racine carrée de cela.
+
+That was a horrible square root symbol.
+C'était un horrible symbole de racine carrée.
+
+Which is 0.30 or 30%. A 30%
+frequency of the q allele
+Soit 0,30 ou 30 %.  Une
+fréquence de 30% de l'allèle q
+
+in the population.
+dans la population.
+
+Then we just use the simplest
+equation in the world to
+Ensuite, nous utilisons simplement l'équation la plus simple
+du monde pour
+
+figure out what p is.
+déterminer ce qu'est p.
+
+This minus 1.
+Ceci moins 1.
+
+And that's 0.70.
+Et c'est 0,70.
+
+Now, using our Hardy-Weinberg
+equation we can go beyond the
+Maintenant, en utilisant notre équation de Hardy-Weinberg
+, nous pouvons aller au-delà de la
+
+frequency of the alleles and
+actually talk about the
+fréquence des allèles
+et parler en fait de la
+
+frequency of the genotypes.
+fréquence des génotypes.
+
+So the frequency of the WW
+homozygous dominant is p squared.
+Ainsi, la fréquence de la
+dominante homozygote WW est p au carré.
+
+We have p. So we just square this
+and that equals 0.49.
+Nous avons p.  Donc, nous mettons cela au carré
+et cela équivaut à 0,49.
+
+Or 49% of the population
+is homozygous dominant.
+Soit 49% de la population
+est homozygote dominant.
+
+Now the math gets even easier
+because we know p and q.
+Maintenant, les calculs deviennent encore plus faciles
+parce que nous connaissons p et q.
+
+So to figure out how many
+heterozygotes there are,
+Donc, pour savoir combien
+il y a d'hétérozygotes,
+
+we just do 2 times p
+which is 0.70
+nous faisons simplement 2 fois p
+qui est 0,70
+
+times 0.30,
+which is q,
+fois 0,30,
+qui est q,
+
+which is 0.42.
+qui est 0,42.
+
+Which is math that
+I did beforehand.
+Ce sont des maths que
+j'ai faites avant.
+
+No, I didn't just know that.
+Non, je ne savais pas que ça.
+
+So 9% of the population is
+homozygous recessive, 49% is
+Donc 9% de la population est
+homozygote récessive, 49% est
+
+homozygous dominant,
+homozygote dominante
+
+and 42% heterozygous,
+displaying wet earwax,
+et 42% hétérozygote,
+affichant du cérumen humide,
+
+but with that little w
+in there as well.
+mais avec ce petit
+w là aussi.
+
+What's awesome about all of this
+is we can see Mendel's ideas work
+Ce qui est génial dans tout cela,
+c'est que nous pouvons voir les idées de Mendel fonctionner
+
+in a big population, and when
+things aren't lining up with
+dans une grande population, et quand les
+choses ne correspondent pas à
+
+this equation, then we know that
+there are one of those
+cette équation, alors nous savons qu'il
+y a l'un de ces
+
+5 factors at work.
+5 facteurs à l'œuvre.
+
+Probably more than one.
+Probablement plus d'un.
+
+For example, a bunch hot surfers
+moved to the island, and they
+Par exemple, un groupe de surfeurs chauds
+s'est installé sur l'île et ils avaient
+
+all happened to have dry earwax.
+tous du cérumen sec.
+
+And they start spreading their hot
+surfer genes all over the place.
+Et ils commencent à répandre leurs
+gènes de surfeurs chauds partout.
+
+Nonrandom mating: it always goes
+out the window whenever the
+Accouplement non aléatoire : il sort toujours
+par la fenêtre chaque fois que les
+
+hot surfers get involved.
+surfeurs chauds s'en mêlent.
+
+I don't know about you,
+but this stuff's
+Je ne sais pas pour vous,
+mais ce truc est
+
+pretty beautiful to me.
+assez beau pour moi.
+
+So don't give me too hard of a
+time in the comments,
+Alors ne me donnez pas trop de
+temps dans les commentaires,
+
+where you can ask questions!
+où vous pourrez poser des questions !
+
+Or on Facebook or Twitter.
+Ou sur Facebook ou Twitter.
+
+Thank you for watching this
+episode of Crash Course Biology.
+Merci d'avoir regardé cet
+épisode de Crash Course Biology.
+
+We will see you next time.
+Nous vous verrons la prochaine fois.
+

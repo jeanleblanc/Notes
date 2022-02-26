@@ -1,0 +1,426 @@
+Think of all the developments throughout history that lead to the conveniences you enjoy today
+Pensez à tous les développements à travers l'histoire qui ont conduit aux commodités dont vous profitez aujourd'hui
+
+If I had to pick the biggest game changer in human technology, it would probably be the steam engine
+Si je devais choisir le plus grand changement de jeu dans la technologie humaine, ce serait probablement la machine à vapeur
+
+During the industrial revolution, the steam engine powered machines in farms and factories
+Pendant la révolution industrielle, la machine à vapeur alimentait les machines dans les fermes et les usines
+
+And although it may not seem so, those advances eventually lead to the technologies that you're using to watch me right now
+Et  bien que cela puisse ne pas sembler être le cas, ces avancées ont finalement conduit aux technologies que vous utilisez pour me regarder en ce moment.
+
+So the steam engine was a pretty big deal
+La machine à vapeur était donc un gros problème.
+
+Developing a practical steam engine involved a lot of time and a lot of smart people and about 100 years and three main inventors
+Développer une machine à vapeur pratique a demandé beaucoup de temps et beaucoup de gens intelligents et  environ 100 ans et trois inventeurs principaux
+
+And it took a solid understanding of thermodynamic processes and heat engines to make this world changing technology a reality
+Et il a fallu une solide compréhension des processus thermodynamiques et des moteurs thermiques pour faire de cette technologie qui change le monde une réalité Les
+
+Heat engines, like steam engines turn thermal energy into mechanical work
+moteurs thermiques, comme les moteurs à vapeur transforment l'énergie thermique en travail mécanique
+
+And they do it in a repeating cycle
+Et ils le font dans un cycle répétitif
+
+The process starts at a high operating temperature which we label 'TH' and ends up at a lower operating temperature: 'TL'
+Le processus commence  à une température de fonctionnement élevée que nous étiquetons 'TH' et se termine à une température de fonctionnement inférieure : 'TL'
+
+In the process, the engine takes the input heat which was used to raise the temperature known as 'QH' and turns some of it into work...
+Dans le processus, le moteur prend la chaleur d'entrée qui a été  utilisé pour augmenter la température connue sous le nom de 'QH' et en transformer une partie en travail...
+
+while also releasing some heat 'QL' as exhaust
+tout en libérant également de la chaleur 'QL' comme échappement
+
+Then the engine's temperature is raised once more so it can start the cycle all over again
+Ensuite, la température du moteur est augmentée une fois de plus afin qu'il puisse recommencer le cycle
+
+OK, now think back to the first law of thermodynamics,
+OK, maintenant  repensez à la première loi de la thermodynamique,
+
+Which says that the change in thermal energy of a system is equal to heat and work
+Qui dit que la variation d'énergie thermique d'un système est égale à la chaleur et au travail
+
+In the case of a heat engine,
+Dans le cas d'un moteur thermique,
+
+The change in thermal energy is zero because it always returns to the temperature is started from
+La variation d'énergie thermique est nulle car elle revient toujours à la température de démarrage
+
+So the engine's input heat must be equal to the work it does plus the heat it releases
+Donc, la chaleur d'entrée du moteur doit être égale au travail qu'il fait plus la chaleur qu'il dégage
+
+Now let's see how this works out in a steam engine
+Maintenant, voyons comment cela fonctionne dans un moteur à vapeur
+
+There are a few different types of steam engine
+Il existe différents types de moteurs à vapeur,
+
+but all focus from the basic reciprocating type
+mais tous se concentrent sur le type alternatif de base
+
+as long as you have something to heat the steam like coal or oil, the engine keeps working
+tant que  vous avez quelque chose pour chauffer la vapeur comme du charbon ou de l'huile, le moteur continue de fonctionner
+
+That's the input heat
+C'est la chaleur d'
+
+The input heat is used to heat a volume of water which turns to steam
+entrée La chaleur d'entrée est utilisée pour chauffer un volume d'eau qui se transforme en vapeur
+
+then an intake valve opens, allowing steam into the engine
+puis une soupape d'admission s'ouvre, permettant à la vapeur d'entrer dans le moteur
+
+The steam expands and moves a piston outward
+La vapeur se dilate et  déplace un piston vers l'extérieur  rd
+
+That's the work done by the engine, then an intake valve closes and an exhaust valve opens
+C'est le travail effectué par le moteur, puis une soupape d'admission se ferme et une soupape d'échappement s'ouvre
+
+The exhaust valve leads to a condenser which cools the steam back into water
+La soupape d'échappement mène à un condenseur qui refroidit la vapeur dans l'eau
+
+The lower temperature also lowers the pressure, creating a partial vacuum that makes the piston move back into its original position
+La température plus basse diminue également la pression, créant un vide partiel qui fait bouger le piston  dans sa position d'origine
+
+Then the water gets heated back into steam and the cycle starts over
+Ensuite, l'eau est réchauffée en vapeur et le cycle recommence
+
+As the engine runs, the motion of the piston can be translated into all kinds of different movement
+Lorsque le moteur tourne, le mouvement du piston peut être traduit en toutes sortes de mouvements
+
+Which is how steam engines can do things like move trains and boats and run factory lines
+différents C'est ainsi que les moteurs à vapeur peuvent faire des choses comme déplacer des trains et des bateaux  et faire fonctionner les lignes d'usine
+
+But, as the steam engine runs, it releases exhaust heat
+Mais, lorsque la machine à vapeur fonctionne, elle dégage de la chaleur d'échappement
+
+Obviously, it's important for engines to be as efficient as possible to save energy
+Évidemment, il est important que les moteurs soient aussi efficaces que possible pour économiser de l'énergie
+
+And to design an efficient engine, engineers have to be able to calculate its efficiency
+Et pour concevoir un moteur efficace, les ingénieurs doivent être capables de calculer son efficacité
+
+Like we said earlier, an engine's input heat is equal to the work it does plus its exhaust heat
+Comme nous l'avons dit  plus tôt, la chaleur d'entrée d'un moteur est égale au travail qu'il fait plus sa chaleur d'échappement
+
+And the more work and therefore the less exhaust heat you get out of the input heat,
+Et plus il y a de travail et donc moins de chaleur d'échappement vous sortez de la chaleur d'entrée
+
+the more efficient your engine is
+, plus votre moteur est efficace  ine est
+
+So efficiency is equal to the work done by an engine divided by its input heat
+donc l'efficacité est égale au travail effectué par un moteur divisé par sa chaleur d'entrée,
+
+we can also put this just in terms of input heat and exhaust heat, pretty easily, actually
+nous pouvons également le mettre simplement en termes de chaleur d'entrée et de chaleur d'échappement, assez facilement, en fait,
+
+We know that work is equal to input heat minus exhaust heat so efficiency is equal to:
+nous savons que le travail est égal à la chaleur d'entrée moins la chaleur d'échappement donc  l'efficacité est égale à :
+
+input heat minus exhaust heat divided by the input heat.
+la chaleur d'entrée moins la chaleur d'échappement divisée par la chaleur d'entrée.
+
+Or simplifying those terms: efficiency is equal to 1 minus exhaust heat over input heat.
+Ou en simplifiant ces termes : l'efficacité est égale à 1 moins la chaleur d'échappement par rapport à la chaleur d'entrée.
+
+If your engine produced no exhaust heat at all,
+Si votre moteur ne produisait aucune chaleur à l'échappement,
+
+we'd say that its efficiency is exactly one
+nous dirions que son efficacité est exactement de un
+
+It would be perfectly efficient
+Il serait parfaitement efficace
+
+But there is no such thing as an engine that produces no exhaust heat at all
+Mais il n'existe pas de moteur qui ne produise aucune chaleur à l'échappement
+
+It wouldn't work, because the temperature needs to be losered and then raised again for the engine to keep going.
+Cela ne fonctionnerait pas, car la température  doit être perdu puis remonté pour que le moteur continue à fonctionner.
+
+But we can imagine an ideal engine where none of the exhaust energy is waste heat
+Mais nous pouvons imaginer un moteur idéal où aucune énergie d'échappement n'est de la chaleur perdue
+
+Where there's no friction or anything like that
+Où il n'y a pas de frottement ou quelque chose comme ça
+
+An ideal engine would also be reversible—meaning, you could run it backward, putting in work to transfer heat
+Un moteur idéal serait également réversible - ce qui signifie que vous pourriez le faire tourner en arrière, en travaillant pour transférer la chaleur
+
+from something with a lower temperature to something with a higher temperature.
+de quelque chose avec un  température plus basse à quelque chose avec une température plus élevée.
+
+This type of hypothetical engine is called a carnot engine
+Ce type de moteur hypothétique s'appelle un moteur Carnot
+
+And we can use it to figure out the maximum possible efficiency of a real life engine
+Et nous pouvons l'utiliser pour déterminer l'efficacité maximale possible d'un moteur réel La
+
+Last time we talked about the four types of basic thermodynamic processes
+dernière fois que nous avons parlé des quatre types de processus thermodynamiques de base
+
+The Carnot Engine combines two of those types into whats known as the Carnot cycle
+Le moteur Carnot combine deux de ces types dans ce qui est connu  comme le cycle de Carnot
+
+But in the Carnot cycle, those processes don't transfer heat between areas with different temperatures
+Mais dans le cycle de Carnot, ces processus ne transfèrent pas de chaleur entre des zones à des températures différentes
+
+Because if an engine involves heat transfer from an area with a higher temperature to an area with a lower temperature,
+Parce que si un moteur implique un transfert de chaleur d'une zone à température plus élevée vers une zone à température plus basse,
+
+then reversing the engine would involve transferring heat from lower to higher
+alors l'inversion du moteur impliquerait  transférer la chaleur du bas vers le haut,
+
+which would violate the 2nd law of thermodynamics
+ce qui violerait la 2e loi de la thermodynamique
+
+So in the Carnot cycle,heat won't flow between areas with different temperatures at all
+Ainsi, dans le cycle de Carnot, la chaleur ne circulera pas du tout entre les zones à des températures différentes
+
+instead, the cycle goes through two adiabatic processes where heat is held constant
+, le cycle passe par deux processus adiabatiques où la chaleur est maintenue constante
+
+and two isothermal processes where heat is transferred
+et deux processus isothermes  où la chaleur est transférée
+
+But the temperature is held constant so the heat never flows between areas of different temperatures
+Mais la température est maintenue constante de sorte que la chaleur ne circule jamais entre des zones de températures différentes
+
+Now, you might be wondering how the heat gets transferred if there's no difference in temperature,
+Maintenant, vous pourriez être  se demandant comment la chaleur est transférée s'il n'y a pas de différence de température,
+
+well, remember how we described the isothermal processes last time
+eh bien, rappelez-vous comment nous avons décrit les processus isothermes la dernière fois
+
+In those cases, there are only very tiny differences in temperature
+Dans ces cas, il n'y a que de très petites différences de température
+
+and they're immediately eliminated
+et elles sont immédiatement éliminées
+
+so, practically speaking, there is no transfer of heat between areas of different temperatures and this means the process can still be reversed
+donc, pratiquement parlant, il n'y a pas  transfert de chaleur entre des zones de températures différentes et cela signifie que le processus peut toujours être inversé
+
+with all that in mind, here's how a Carnot engine really works, at least in theory
+avec tout cela à l'esprit, voici comment un moteur Carnot fonctionne vraiment, du moins en théorie
+
+because again, Carnot engines are totally hypothetical
+car encore une fois, les moteurs Carnot sont totalement hypothétiques
+
+The first process in the cycle is isothermal
+Le premier processus du cycle est  isotherme
+
+The temperature is constant but heat is slowly added
+La température est constante mais de la chaleur s'ajoute lentement ce
+
+that makes the gas's volume expand and its pressure decrease
+qui fait augmenter le volume du gaz et diminuer sa pression
+
+path A-B on this diagram
+chemin AB sur ce schéma
+
+the second process is adiabatic: the temperature drops while the heat stays constant
+le second processus est adiabatique : la température chute tandis que la chaleur reste constante
+
+which also makes the volume expand and the pressure decrease
+ce qui fait aussi augmenter le volume et la pression diminuer
+
+that's path B-C on the diagram
+c'est  chemin BC sur le schéma
+
+the third process it the opposite of the first one, and it's also isothermal
+le troisième processus c'est l'opposé du premier, et c'est aussi isotherme
+
+the gas is compressed whilst the temperature is held constant
+le gaz est comprimé alors que  la température est maintenue constante
+
+so it releases heat and its pressure increases while its volume decreases
+donc il dégage de la chaleur et sa pression augmente tandis que son volume diminue
+
+that's path C-D
+c'est le chemin CD
+
+The last process is the opposite of the second
+Le dernier processus est à l'opposé du second
+
+it's adiabatic, so the gases compress but its heat doesn't change
+il est adiabatique, donc les gaz se compriment mais sa chaleur ne change pas ce
+
+that makes the gas's volume decrease and its pressure increase
+qui fait que le volume du gaz diminue et  sa pression augmente
+
+like in path D-A
+comme dans la voie DA
+
+Its temperate goes back up to the starting point
+Sa température remonte au point de départ
+
+the Carnot engine is the ideal engine
+le moteur Carnot est le moteur idéal
+
+because it produces the most possible work from a given temperature difference
+car il produit le plus de travail possible à partir d'un écart de température donné
+
+and because the Carnot engine is as efficient as possible, the high and low temperatures are proportional to its input and exhaust heat
+et parce que le moteur Carnot est le plus efficace possible, le haut et le bas  les températures sont proportionnelles à sa chaleur d'entrée et d'échappement,
+
+which is important math-wise because it means that in the equation for efficiency, you can replace QH and QL, the input and exhaust heat
+ce qui est important du point de vue mathématique car cela signifie que dans l'équation de l'efficacité, vous pouvez remplacer QH et QL, la chaleur d'entrée et d'échappement
+
+with TH and TL the higher and lower operating temperatures
+par TH et TL les températures de fonctionnement supérieures et inférieures
+
+which can help if you don't know an engine's input and exhaust heat
+qui peuvent aider  si vous ne connaissez pas la chaleur d'entrée et d'échappement d'un moteur
+
+but you do know its operating temperatures
+mais que vous connaissez ses températures de fonctionnement
+
+So the ideal efficiency for an engine is equal to 1 minus its low temperature divided by its high temperature
+Ainsi, le rendement idéal d'un moteur est égal à 1 moins sa basse température  re divisé par sa température élevée
+
+The colder that lower operating temperature is, the more efficient the ideal version of the engine is
+Plus cette température de fonctionnement basse est froide, plus la version idéale du moteur est efficace
+
+So, say you need an engine to power a life-sized mario kart
+Donc, disons que vous avez besoin d'un moteur pour propulser un mario kart grandeur nature,
+
+you find an engine online and you're thinking about buying it, but first you want to know how efficient it is
+vous trouvez un moteur en ligne et vous pensez à  l'acheter, mais vous voulez d'abord savoir à quel point il est efficace.
+
+the manufacturer's website says that for every second the engine's input heat is 10kJ at 500K
+Le site Web du fabricant indique que pour chaque seconde, la chaleur d'entrée du moteur est de 10 kJ à 500 K,
+
+its exhaust heat is 2kJ @ 300K"
+sa chaleur d'échappement est de 2 kJ à 300 K.
+
+The efficiency equation states that the engine's efficiency is equal to 1 minus this exhaust heat divided by its input heat
+L'équation d'efficacité indique que l'efficacité du moteur est égale à 1 moins  cette chaleur d'échappement divisée par sa chaleur d'entrée
+
+In this case, 0.8. That would be a very efficient engine
+Dans ce cas, 0,8.  Ce serait un moteur très efficace,
+
+so you should be a little bit suspicious
+donc vous devriez être un peu méfiant,
+
+is that knid of efficiency even possible?
+est-ce que ce type d'efficacité est même possible ?
+
+you can find out by checking the ideal efficiency of the engine: the Carnot efficiency
+vous pouvez le savoir en vérifiant le rendement idéal du moteur : le rendement Carnot le
+
+the ideal efficiency is equal to one minus its lower operating temperature, divided by its higher operating temperature, which in this case is equal to 0.4
+rendement idéal est égal à un moins sa température de fonctionnement inférieure, divisé par sa température de fonctionnement supérieure, qui dans ce cas est égale à 0,4
+
+It's impossible for this engine to have an efficiency higher than 0.4, so the manufacturer's website is... well, just lying.
+Il est impossible pour ce moteur de  ont une efficacité supérieure à 0,4, donc le site Web du fabricant est... eh bien, il ment.
+
+So you probably shouldn't buy anything from them anyway.
+Donc, vous ne devriez probablement rien acheter chez eux de toute façon.
+
+And actually, you probably wouldn't want an engine that was close to the efficiency of a Carnot engine
+Et en fait, vous ne voudriez probablement pas d'un moteur proche de l'efficacité d'un moteur
+
+because Carnot engines are very slow
+Carnot car les moteurs Carnot sont très lents.
+
+During those isothermal processes, the temperature has to be kept constant while heat is transferred—which only works if the heat is transferred super slowly.
+Pendant ces processus isothermes, la température doit être maintenue constante pendant que la chaleur est transférée, ce qui ne fonctionne que si la chaleur  est transféré très lentement.
+
+So the engine has to be really slow.
+Donc le moteur doit être vraiment lent.
+
+If you had a Carnot engine in your car for example, it would take you a whole day to get out of your driveway
+Si vous aviez un moteur Carnot dans votre voiture par exemple, il vous faudrait une journée entière pour sortir de votre allée
+
+Real life heat engines are useful because they use the flow of heat from something warmer to something cooler to produce work
+Les moteurs thermiques réels sont utiles car ils utilisent le flux de chaleur d'un élément plus chaud vers un élément plus froid pour produire du travail
+
+But what if you want heat to flow from something cooler to something warmer?
+Mais que se passerait-il si  vous voulez que la chaleur passe de quelque chose de plus frais à quelque chose de plus chaud ?
+
+That's what things like air conditioners and refrigerators do, and they were originally developed using the principles
+C'est ce que font des choses comme les climatiseurs et les réfrigérateurs, et ils ont été développés à l'origine en utilisant les principes que les
+
+scientists had learned from creating steam engines.
+scientifiques avaient appris en créant des moteurs à vapeur.
+
+These cooling machines are a lot like the opposite of heat engines in the sense that they use work to make heat flow in the opposite direction that it would normally go
+Ces machines de refroidissement ressemblent beaucoup à l'opposé des moteurs thermiques en ce sens qu'elles utilisent le travail pour faire circuler la chaleur dans la direction opposée à celle qu'elle irait normalement
+
+The refrigerator for example passes a cool liquid through the inside of a fridge
+Le réfrigérateur, par exemple, fait passer un liquide froid à l'intérieur d'un réfrigérateur
+
+The liquid absorbs heat (that's 'QL') as it evaporates
+Le liquide absorbe la chaleur  (c'est 'QL') au fur et à mesure qu'il s'évapore,
+
+then the fridge uses the motor to do work on the now warmer fluid which is turned into a gas
+le réfrigérateur utilise le moteur pour travailler sur le fluide maintenant plus chaud qui est transformé en gaz.
+
+It's passed through coils on the outside of the refrigerator where it releases the exhaust heat: 'QH'
+Il passe à travers des serpentins à l'extérieur du réfrigérateur où il libère la chaleur d'échappement : 'QH'
+
+and cools to become a liquid again
+et  se refroidit pour redevenir liquide,
+
+then the cycle starts over
+puis le cycle recommence
+
+for heat engines, efficiency is measured by the work produced for a given amount of input heat
+pour les moteurs thermiques, l'efficacité est mesurée par le travail produit pour une quantité donnée de chaleur d'entrée
+
+and there's a similar concept for refrigerators
+et il existe un concept similaire pour les réfrigérateurs
+
+The coefficient of performance, or COP, which is equal to the amount of heat removed from the lower temperature zone divided by the work.
+Le coefficient de performance, ou COP, qui est égal à la quantité  de chaleur retirée de la zone de température inférieure divisée par le travail.
+
+The more heat the fridge removes for a given amount of work, the higher the coefficient of performance
+Plus le réfrigérateur élimine de chaleur pour une quantité de travail donnée, plus le coefficient de performance est élevé
+
+like we did with the efficiency equation, we can re-write the COP equation just in terms of QL and QH
+comme nous l'avons fait avec l'équation d'efficacité, nous pouvons réécrire l'équation COP uniquement en termes de QL et QH,
+
+the coefficient of performance is equal to QL divided by QH minus QL
+le coefficient de performance est égal à QL  divisé par QH moins QL
+
+to find the coefficient for performance for an ideal refrigerator,
+pour trouver le coefficient de performance pour un réfrigérateur idéal,
+
+we do the same thing that we did for he ideal Carnot engine
+on fait la même chose que pour le moteur Carnot idéal
+
+replace QL with TL and QH with TH
+remplacer QL par TL et QH par TH
+
+So, for an ideal fridge, the coefficient of performance would be equal to the lower operating temperature divided by the higher operating temperature minus the lower operating temperature.
+Donc, pour un réfrigérateur idéal, le coefficient de performance serait  égale à la température de fonctionnement inférieure divisée par la température de fonctionnement supérieure moins la température de fonctionnement inférieure.
+
+and of course a real life refrigerator can't have a higher coefficient of performance than an ideal refrigerator
+et bien sûr, un réfrigérateur réel ne peut pas avoir un coefficient de performance plus élevé qu'un réfrigérateur idéal
+
+now it may not be surprising that steam engines and refrigerators are total opposites
+maintenant, il n'est peut-être pas surprenant que les machines à vapeur et les réfrigérateurs soient totalement opposés,
+
+but fridges and freezers and air conditioning are all game changing inventions that were only made possible by our knowledge of steam engines!
+mais les réfrigérateurs, les congélateurs et la climatisation sont tous des inventions révolutionnaires qui n'ont été faites que  possible grâce à notre connaissance des machines à vapeur !
+
+Today you learned about how engines turn thermal energy into work and how to calculate their efficiency.
+Aujourd'hui, vous avez appris comment les moteurs transforment l'énergie thermique en travail et comment calculer leur efficacité.
+
+Crash Course Physics is produced in association with PBS Digital Studios. You can head over to their channel and check out
+Crash Course Physics est produit en association avec PBS Digital Studios.  Vous pouvez vous rendre sur leur chaîne et consulter
+
+a playlist of the latest episodes from shows like PBS Space Time, Deep Look, and Blank on Blank.
+une liste de lecture des derniers épisodes d'émissions telles que PBS Space Time, Deep Look et Blank on Blank.
+
+This episode of Crash Course was filmed in the Doctor Cheryl C. Kinney Crash Course Studio with the help of these amazing people
+Cet épisode de Crash Course a été filmé dans le studio Doctor Cheryl C. Kinney Crash Course avec l'aide de ces personnes incroyables
+
+and our equally amazing graphics team is Thought Café.
+et de notre équipe graphique tout aussi incroyable, Thought Café.
+

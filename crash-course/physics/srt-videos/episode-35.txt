@@ -1,0 +1,388 @@
+Wherever you are right now, there’s probably
+an electrical outlet within easy reach.
+Où que vous soyez en ce moment, il y a probablement
+une prise électrique à portée de main.
+
+Whether you want to vacuum the living room or recharge your phone, all you have to do is plug into the wall, and bam – instant access to electricity.
+Que vous souhaitiez passer l'aspirateur dans le salon ou recharger votre téléphone, tout ce que vous avez à faire est de vous brancher au mur et bam - un accès instantané à l'électricité.
+
+But have you ever wondered how all of that electrical power gets to your house, school, or office in the first place?
+Mais vous êtes-vous déjà demandé comment toute cette énergie électrique parvient à votre maison, votre école ou votre bureau ?
+
+There are a lot of steps, but two of the most important ones involve electric generators and transformers.
+Il y a beaucoup d'étapes, mais deux des plus importantes impliquent des générateurs électriques et des transformateurs.
+
+And both of these devices work because of
+a concept we introduced last time: induction.
+Et ces deux appareils fonctionnent grâce à
+un concept que nous avons introduit la dernière fois : l'induction.
+
+[Theme Music]
+[Thème musical]
+
+Electric generators are like the opposite
+of electric motors.
+Les générateurs électriques sont comme l'opposé
+des moteurs électriques.
+
+Motors take electrical energy – so, the current running through a coil of wire – and convert it into mechanical energy as the motor turns.
+Les moteurs prennent de l'énergie électrique - c'est-à-dire le courant qui traverse une bobine de fil - et la convertissent en énergie mécanique lorsque le moteur tourne.
+
+Generators, on the other hand, take mechanical energy – the rotation of a coil of wire – and use induction to convert it into electrical energy, in the form of a current running through a wire.
+Les générateurs, quant à eux, prennent l'énergie mécanique - la rotation d'une bobine de fil - et utilisent l'induction pour la convertir en énergie électrique, sous la forme d'un courant traversant un fil.
+
+Generators use a wire wound around something called an armature – basically, a cylinder that rotates within a uniform magnetic field.
+Les générateurs utilisent un fil enroulé autour de quelque chose appelé une armature - essentiellement, un cylindre qui tourne dans un champ magnétique uniforme.
+
+As the loop rotates, the changing magnetic
+flux induces a current in the loops of the coil.
+Lorsque la boucle tourne, le flux magnétique changeant
+induit un courant dans les boucles de la bobine.
+
+But the angle that the coil makes with respect to the magnetic field keeps changing, which causes the direction of the induced current to reverse itself at every half-turn.
+Mais l'angle que fait la bobine par rapport au champ magnétique ne cesse de changer, ce qui fait que le sens du courant induit s'inverse à chaque demi-tour.
+
+So the magnetic field in the generator stays
+constant.
+Ainsi, le champ magnétique dans le générateur reste
+constant.
+
+But because the coil is rotating, the angle
+between the coil and the magnetic field changes.
+Mais parce que la bobine tourne, l'angle
+entre la bobine et le champ magnétique change.
+
+This means that the magnetic flux through the loops in the coil changes over time, which is what induces an emf.
+Cela signifie que le flux magnétique à travers les boucles de la bobine change avec le temps, ce qui induit une force électromotrice.
+
+And as we’ll soon see, the emf depends on the sine of the angle between the coil and the magnetic field.
+Et comme nous le verrons bientôt, la fem dépend du sinus de l'angle entre la bobine et le champ magnétique.
+
+So for half of the rotation, the sine of the angle is positive, and for the other half, the sine of the angle is negative.
+Ainsi, pour la moitié de la rotation, le sinus de l'angle est positif, et pour l'autre moitié, le sinus de l'angle est négatif.
+
+When it’s positive, the current flows in
+one direction.
+Lorsqu'il est positif, le courant circule dans
+un sens.
+
+When it’s negative, it flows in the other.
+Quand c'est négatif, ça coule dans l'autre.
+
+This means that the direction of the current
+flips with every half-rotation.
+Cela signifie que la direction du courant
+bascule à chaque demi-rotation.
+
+This produces a type of flow of electricity
+known as alternating current, or AC.
+Cela produit un type de flux d'électricité
+connu sous le nom de courant alternatif ou AC.
+
+Until now, we’ve mainly been talking about
+DC, or direct current.
+Jusqu'à présent, nous parlions principalement de
+courant continu, ou courant continu.
+
+There are DC generators, which include special parts to make the current keep flowing in the same direction the whole time, instead of reversing itself as the coil turns.
+Il existe des générateurs de courant continu, qui comprennent des pièces spéciales pour que le courant continue de circuler dans la même direction tout le temps, au lieu de s'inverser lorsque la bobine tourne.
+
+But AC power is the kind that flows from the
+outlets in your walls.
+Mais le courant alternatif est celui qui provient des
+prises de courant dans vos murs.
+
+And in most places in the world, it reverses
+itself either 50 or 60 times per second.
+Et dans la plupart des endroits du monde, il
+s'inverse 50 ou 60 fois par seconde.
+
+This is called the frequency of the current,
+and you’ll normally see it written in hertz.
+C'est ce qu'on appelle la fréquence du courant,
+et vous la verrez normalement écrite en hertz.
+
+Now, we can calculate the strength of the emf in a generator using some of the principles we talked about last time.
+Maintenant, nous pouvons calculer la force de la force électromotrice dans un générateur en utilisant certains des principes dont nous avons parlé la dernière fois.
+
+We’ve already described what happens when you move a loop of wire in or out of a magnetic field:
+Nous avons déjà décrit ce qui se passe lorsque vous déplacez une boucle de fil dans ou hors d'un champ magnétique :
+
+The emf induced in the wire is equal to the strength of the magnetic field, times the length of the loop, times its perpendicular velocity.
+la force électromotrice induite dans le fil est égale à la force du champ magnétique, multipliée par la longueur de la boucle, multipliée par sa vitesse perpendiculaire.
+
+In other words, it’s the velocity times the sine of the angle between the magnetic field and the loop.
+En d'autres termes, c'est la vitesse multipliée par le sinus de l'angle entre le champ magnétique et la boucle.
+
+And the same idea applies to a coil of wire
+rotating in a magnetic field, too.
+Et la même idée s'applique également à une bobine de fil
+tournant dans un champ magnétique.
+
+We just have to replace some of the variables
+with ones that apply to a rotating coil.
+Nous devons simplement remplacer certaines des variables
+par celles qui s'appliquent à une bobine en rotation.
+
+First, instead of the length of the loop,
+we’ll use the area of one loop of the coil, A.
+Tout d'abord, au lieu de la longueur de la boucle,
+nous utiliserons l'aire d'une boucle de la bobine, A.
+
+And instead of translational velocity, we’ll
+use angular velocity, ω.
+Et au lieu de la vitesse de translation, nous
+utiliserons la vitesse angulaire, ω.
+
+Next, the angle, theta, is just equal to the
+angular velocity multiplied by time.
+Ensuite, l'angle, thêta, est juste égal à la
+vitesse angulaire multipliée par le temps.
+
+And finally, instead of finding the emf in just one loop of wire, we’re finding the emf in a whole coil of wire.
+Et enfin, au lieu de trouver la force électromotrice dans une seule boucle de fil, nous trouvons la force électromotrice dans toute une bobine de fil.
+
+Which means that we need to multiply this
+equation by N, the number of loops in the coil.
+Ce qui signifie que nous devons multiplier cette
+équation par N, le nombre de boucles dans la bobine.
+
+So, the emf induced in a coil rotating in a magnetic field is equal to the number of loops in the coil, times the strength of the magnetic field,
+Ainsi, la force électromotrice induite dans une bobine tournant dans un champ magnétique est égale au nombre de boucles dans la bobine, multipliée par l'intensité du champ magnétique,
+
+times the area of a loop of the coil, times the angular velocity, times the sine of the angular velocity multiplied by time.
+multipliée par l'aire d'une boucle de la bobine, multipliée par la vitesse angulaire, multipliée par le sinus  de la vitesse angulaire multipliée par le temps.
+
+It’s a bit of a mouthful, but that’s because there are so many factors that affect the emf induced in the coil.
+C'est un peu long, mais c'est parce qu'il y a tellement de facteurs qui affectent la force électromotrice induite dans la bobine.
+
+Basically, the equation is saying that you’ll have a greater induced current in the generator if there are more coils in the wire, or if there’s a stronger magnetic field,
+Fondamentalement, l'équation dit que vous aurez un plus grand courant induit dans le générateur s'il y a plus de bobines dans le fil, ou s'il y a un champ magnétique plus fort,
+
+or if each loop of the coil is bigger,
+or if it rotates faster.
+ou si chaque boucle de la bobine est plus grande,
+ou si elle tourne plus vite  .
+
+Now, it might seem kind of strange to have a generator produce a current that reverses itself dozens of times a second.
+Maintenant, il peut sembler un peu étrange qu'un générateur produise un courant qui s'inverse des dizaines de fois par seconde.
+
+But actually, this is incredibly useful.
+Mais en fait, c'est incroyablement utile.
+
+That’s because another important device that gets electricity from the power plant to your house is a transformer, which is made up of two coils of wire.
+En effet, un autre appareil important qui achemine l'électricité de la centrale électrique vers votre maison est un transformateur, composé de deux bobines de fil.
+
+And transformers only work with AC power.
+Et les transformateurs ne fonctionnent qu'avec du courant alternatif.
+
+They’re necessary because one of the problems with transmitting electricity over long distances is that, if the voltage is low, a lot of power gets wasted as heat.
+Ils sont nécessaires car l'un des problèmes liés à la transmission de l'électricité sur de longues distances est que, si la tension est faible, une grande partie de l'énergie est gaspillée sous forme de chaleur.
+
+We’re talking like 80% in some cases.
+On parle de 80% dans certains cas.
+
+Which is a huge waste of energy!
+Ce qui est un énorme gaspillage d'énergie !
+
+When electricity is transmitted at higher voltages,
+though, much less power gets wasted as heat.
+Lorsque l'électricité est transmise à des tensions plus élevées,
+cependant, beaucoup moins d'énergie est gaspillée sous forme de chaleur.
+
+That’s because, for the same power, a lower voltage translates to a higher current, and power loss increases proportionally to the square of the current.
+En effet, pour la même puissance, une tension plus faible se traduit par un courant plus élevé et la perte de puissance augmente proportionnellement au carré du courant.
+
+In other words, if you double the voltage, you end up with only a quarter the power loss you had before.
+En d'autres termes, si vous doublez la tension, vous vous retrouvez avec seulement un quart de la perte de puissance que vous aviez auparavant.
+
+And if you triple the voltage, you get a ninth
+of the power loss.
+Et si vous triplez la tension, vous obtenez un neuvième
+de la perte de puissance.
+
+So it’s worth transmitting electricity at
+very high voltages.
+Cela vaut donc la peine de transmettre de l'électricité à
+très haute tension.
+
+But then you need a way to change the voltage
+of the electricity running through the lines
+Mais ensuite, vous avez besoin d'un moyen de modifier la tension
+de l'électricité qui traverse les lignes
+
+– from its original voltage from the generator,
+which could be around 12,000 volts;
+- à partir de sa tension d'origine du générateur,
+qui pourrait être d'environ 12 000 volts ;
+
+then up to a very high voltage as it travels long
+distances, which might be as high as 240,000 volts.
+puis jusqu'à une tension très élevée lorsqu'il parcourt de longues
+distances, qui peuvent atteindre 240 000 volts.
+
+That’s definitely not safe to use in your
+household appliances.
+Ce n'est certainement pas sûr à utiliser dans vos
+appareils électroménagers.
+
+So once the electricity gets to where it needs
+to go, you need to lower its voltage again.
+Ainsi, une fois que l'électricité arrive là où elle
+doit aller, vous devez à nouveau réduire sa tension.
+
+In the US, the power coming out of your wall is
+110 volts, and in most other places it’s 220 volts.
+Aux États-Unis, la puissance sortant de votre mur est de
+110 volts, et dans la plupart des autres endroits, elle est de 220 volts.
+
+All those voltage changes are made using transformers, which take advantage of something called mutual inductance, where a change in the current in one coil leads to a change in emf in another, nearby coil.
+Tous ces changements de tension sont effectués à l'aide de transformateurs, qui tirent parti de ce qu'on appelle l'inductance mutuelle, où un changement de courant dans une bobine entraîne un changement de force électromotrice dans une autre bobine voisine.
+
+And emf is the same thing as voltage.
+Et emf est la même chose que la tension.
+
+This change happens because the changing current
+in the first coil produces a changing magnetic field.
+Ce changement se produit parce que le courant changeant
+dans la première bobine produit un champ magnétique changeant.
+
+So the magnetic flux through the second coil
+changes, which induces an emf.
+Ainsi, le flux magnétique à travers la deuxième bobine
+change, ce qui induit une fem.
+
+And the emf induced in the second coil will be equal to the change in current in the first coil, divided by the change in time, and multiplied by a constant, M.
+Et la force électromotrice induite dans la deuxième bobine sera égale au changement de courant dans la première bobine, divisé par le changement de temps et multiplié par une constante, M.
+
+M depends on things like the size and shape of the coils, and how they’re positioned relative to each other.
+M dépend de choses comme la taille et la forme des bobines, et  comment ils sont positionnés les uns par rapport aux autres.
+
+This works in the opposite direction, too:
+Cela fonctionne également dans le sens opposé :
+
+a change in current in the second coil will
+induce a corresponding emf in the first coil.
+un changement de courant dans la deuxième bobine
+induira une force électromotrice correspondante dans la première bobine.
+
+In transformers, the power running through the first coil is AC, which means the current and the magnetic field it produces are constantly changing.
+Dans les transformateurs, la puissance traversant la première bobine est AC, ce qui signifie que le courant et le champ magnétique qu'elle produit changent constamment.
+
+So an emf is induced in the second coil.
+Ainsi, une force électromotrice est induite dans la deuxième bobine.
+
+But if the second coil has more turns than the first,
+it’ll have a higher voltage, and vice versa.
+Mais si la deuxième bobine a plus de tours que la première,
+elle aura une tension plus élevée, et vice versa.
+
+Here’s why:
+Voici pourquoi :
+
+Faraday’s law, which we talked about last time, says that the emf – or voltage – in each coil is equal to the number of loops in the coil, times the change in magnetic flux over time.
+la loi de Faraday, dont nous avons parlé la dernière fois, dit que la force électromotrice - ou tension - dans chaque bobine est égale au nombre de boucles dans la bobine, multipliée par la variation du flux magnétique dans le temps.
+
+We can write this out as an equation for each coil separately, using a subscript P for the primary coil and a subscript S for the secondary coil.
+Nous pouvons écrire cela sous forme d'équation pour chaque bobine séparément, en utilisant un indice P pour la bobine primaire et un indice S pour la bobine secondaire.
+
+Now, we want to know how the voltage in the secondary coil compares to the voltage of the primary one.
+Maintenant, nous voulons savoir comment la tension dans la bobine secondaire se compare à la tension de la bobine primaire.
+
+To find out, we divide the voltage in the secondary
+coil by the voltage in the primary coil.
+Pour le savoir, nous divisons la tension dans la
+bobine secondaire par la tension dans la bobine primaire.
+
+The change in magnetic flux over time cancels out,
+which leaves us with a simple but useful equation:
+La variation du flux magnétique au fil du temps s'annule,
+ce qui nous laisse avec une équation simple mais utile :
+
+The voltage in the secondary coil divided by the voltage in the primary coil is equal to the number of loops in the secondary coil divided by the number of loops in the primary coil.
+la tension dans la bobine secondaire divisée par la tension dans la bobine primaire est égale au nombre de boucles dans la bobine secondaire divisée par le nombre de  boucles dans la bobine primaire.
+
+So if the secondary coil has twice as many loops as the primary coil, it’ll have twice as much voltage.
+Donc, si la bobine secondaire a deux fois plus de boucles que la bobine primaire, elle aura deux fois plus de tension.
+
+And if it has triple the loops, it’ll have
+triple the voltage, and so on.
+Et s'il a le triple de boucles, il aura le
+triple de tension, et ainsi de suite.
+
+If the secondary coil has more loops than the primary coil, so that it increases the voltage, that’s called a step-up transformer.
+Si la bobine secondaire a plus de boucles que la bobine primaire, de sorte qu'elle augmente la tension, cela s'appelle un transformateur élévateur.
+
+And if it has fewer loops than the primary coil, so it decreases the voltage, that’s a step-down transformer.
+Et s'il a moins de boucles que la bobine primaire, donc il diminue la tension, c'est un transformateur abaisseur.
+
+As the electricity in power lines travels from the power plant to your house, it goes through lots of step-up and step-down transformers.
+Lorsque l'électricité des lignes électriques se déplace de la centrale électrique à votre maison, elle passe par de nombreux transformateurs élévateurs et abaisseurs.
+
+If you’ve ever seen a Tesla coil in action –
+that’s just a fancy version of a step-up transformer.
+Si vous avez déjà vu une bobine Tesla en action,
+ce n'est qu'une version sophistiquée d'un transformateur élévateur.
+
+The secondary coil is designed so that it shoots out bursts of electricity that look like lightning bolts.
+La bobine secondaire est conçue de manière à émettre des rafales d'électricité qui ressemblent à des éclairs.
+
+Mutual inductance is also used in lots of other things, too – like wireless chargers, for example.
+L'inductance mutuelle est également utilisée dans beaucoup d'autres choses, comme les chargeurs sans fil, par exemple.
+
+Lots of cell phones have a wireless charging feature, where you just put the phone on top of a charging pad and it charges.
+De nombreux téléphones portables ont une fonction de chargement sans fil, où vous placez simplement le téléphone sur un chargeur et il se recharge.
+
+No need to plug anything in.
+Pas besoin de brancher quoi que ce soit.
+
+It works because there’s a coil inside the charging
+pad, and another one inside your phone.
+Cela fonctionne car il y a une bobine à l'intérieur du
+chargeur et une autre à l'intérieur de votre téléphone.
+
+The AC power running through the charging pad induces an emf in your phone’s coil, which can use the energy to charge its battery.
+L'alimentation CA qui traverse le chargeur induit une force électromotrice dans la bobine de votre téléphone, qui peut utiliser l'énergie pour charger sa batterie.
+
+So the same technology that helps get electricity to the outlets in your wall can move power from one device to another – even if there are no physical connections between them.
+Ainsi, la même technologie qui aide à acheminer l'électricité vers les prises de votre mur peut déplacer l'alimentation d'un appareil à un autre, même s'il n'y a pas de connexions physiques entre eux.
+
+Today, you learned about how electricity is
+produced and transmitted.
+Aujourd'hui, vous avez appris comment l'électricité est
+produite et transportée.
+
+We explained how electric generators work,
+and derived the generator equation.
+Nous avons expliqué le fonctionnement des générateurs électriques
+et dérivé l'équation du générateur.
+
+We also talked about transformers, and how
+they use mutual inductance to change voltage.
+Nous avons également parlé des transformateurs et de la manière dont
+ils utilisent l'inductance mutuelle pour modifier la tension.
+
+Finally, we described how mutual inductance
+is used in wireless chargers.
+Enfin, nous avons décrit comment l'inductance mutuelle
+est utilisée dans les chargeurs sans fil.
+
+Crash Course Physics is produced in association
+with PBS Digital Studios.
+Crash Course Physics est produit en association
+avec PBS Digital Studios.
+
+You can head over to their channel and check out a playlist of the latest episodes from shows like:
+Vous pouvez vous rendre sur leur chaîne et consulter une liste de lecture des derniers épisodes d'émissions telles que :
+
+The Art Assignment, Blank on Blank, and Braincraft.
+The Art Assignment, Blank on Blank et Braincraft.
+
+This episode of Crash Course was filmed in
+the Doctor Cheryl C. Kinney Crash Course Studio
+Cet épisode de Crash Course a été filmé dans
+le studio Doctor Cheryl C. Kinney Crash Course
+
+with the help of these amazing people and our equally amazing graphics team, is Thought Cafe.
+avec l'aide de ces personnes incroyables et de notre équipe graphique tout aussi incroyable, Thought Cafe.
+

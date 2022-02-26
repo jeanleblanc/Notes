@@ -1,0 +1,833 @@
+Thanks to CuriosityStream for supporting PBS
+Digital Studios.
+Merci à CuriosityStream pour son soutien à PBS
+Digital Studios.
+
+We’ve made some improvements in recent decades
+when it comes to how we power our society.
+Nous avons apporté quelques améliorations au cours des dernières décennies
+en ce qui concerne la façon dont nous alimentons notre société.
+
+But by and large, our world still runs on
+fossil fuels and nonrenewable energy.
+Mais dans l'ensemble, notre monde fonctionne toujours avec
+des combustibles fossiles et des énergies non renouvelables.
+
+And as long as we’re dependent on these limited
+resources, we’ll need to design the most efficient
+ways to harvest their energy.
+Et tant que nous dépendrons de ces
+ressources limitées, nous devrons concevoir les moyens les plus efficaces
+de récolter leur énergie.
+
+But, that’s difficult, because the laws of
+physics are not in our favor.
+Mais c'est difficile, car les lois de la
+physique ne sont pas en notre faveur.
+
+The fact is, you can’t make a super-efficient
+system without any waste.
+Le fait est que vous ne pouvez pas créer un système super efficace
+sans aucun gaspillage.
+
+No matter how good of an engineer you are,
+you can’t invent a perfect engine.
+Peu importe à quel point vous êtes un ingénieur,
+vous ne pouvez pas inventer un moteur parfait.
+
+Why? It’s because of an energy crisis that
+pervades our universe.
+Pourquoi?  C'est à cause d'une crise énergétique qui
+envahit notre univers.
+
+And it’s caused by entropy and the second
+law of thermodynamics.
+Et c'est causé par l'entropie et la deuxième
+loi de la thermodynamique.
+
+[Theme Music]
+[Theme Music]
+
+Since we’ve started designing engines, we’ve
+constantly tried to improve them.
+Depuis que nous avons commencé à concevoir des moteurs, nous avons
+constamment essayé de les améliorer.
+
+Our first engines weren't that efficient,
+but we’ve come a long way since.
+Nos premiers moteurs n'étaient pas si efficaces,
+mais nous avons parcouru un long chemin depuis.
+
+Take, for example, a heat engine.
+Prenons, par exemple, un moteur thermique.
+
+Simply put, a heat engine is a machine or
+system that converts heat into other forms
+of energy.
+En termes simples, un moteur thermique est une machine ou un
+système qui convertit la chaleur en d'autres formes
+d'énergie.
+
+And we can see how efficient they are, by
+looking at their thermal efficiency.
+Et nous pouvons voir à quel point ils sont efficaces en
+regardant leur efficacité thermique.
+
+The thermal efficiency of a heat engine is
+the amount of useful work it can produce based
+on the amount of heat that we give it.
+Le rendement thermique d'un moteur thermique est
+la quantité de travail utile qu'il peut produire en fonction
+de la quantité de chaleur que nous lui apportons.
+
+So the more work we get out, the more efficiently
+we use our fuel, and the less of it we need.
+Ainsi, plus nous produisons de travail, plus
+nous utilisons efficacement notre carburant et moins nous en avons besoin.
+
+That’s why engineers are constantly trying
+to make engines that are as thermally efficient
+as possible.
+C'est pourquoi les ingénieurs essaient constamment
+de fabriquer des moteurs aussi efficaces thermiquement
+que possible.
+
+Many of the internal combustion engines that you
+find on the road are around 20% thermally efficient,
+La plupart des moteurs à combustion interne que vous
+trouvez sur la route ont une efficacité thermique d'environ 20 %,
+
+meaning that 20% of the heat that’s applied 
+n the engine actually does work.
+ce qui signifie que 20 % de la chaleur appliquée
+au moteur fonctionne réellement.
+
+There are some prototypes of automotive engines
+that are 40% efficient.
+Il existe des prototypes de moteurs automobiles
+qui sont efficaces à 40 %.
+
+And there’s even an air-cooled gas turbine
+that delivers an over 61% combined cycle efficiency.
+Et il y a même une turbine à gaz refroidie par air
+qui offre une efficacité de cycle combiné de plus de 61 %.
+
+That’s impressive, but still it’s not
+even close to 100%.
+C'est impressionnant, mais ce n'est toujours
+pas près de 100 %.
+
+This seems to be our limit for how efficient
+our engines can be – at least for now.
+Cela semble être notre limite quant à l'efficacité de
+nos moteurs, du moins pour le moment.
+
+So what gives?
+Why aren’t they any better?
+Alors qu'est-ce qui donne ?
+Pourquoi ne sont-ils pas meilleurs ?
+
+Well, we’re restricted by thermodynamics.
+Eh bien, nous sommes limités par la thermodynamique.
+
+You see, the first law makes it all seem pretty
+simple.
+Vous voyez, la première loi rend tout cela assez
+simple.
+
+If we can’t create or destroy energy, then any
+change in energy that we have, must have an equal
+and opposite change in energy somewhere else.
+Si nous ne pouvons pas créer ou détruire de l'énergie, alors tout
+changement d'énergie que nous avons doit avoir un
+changement d'énergie égal et opposé ailleurs.
+
+But in reality, it’s a bit more complicated
+than that.
+Mais en réalité, c'est un peu plus compliqué
+que ça.
+
+Based on the first law alone, you might
+think that you could simply recycle energy
+over and over again.
+Sur la seule base de la première loi, vous pourriez
+penser que vous pouvez simplement recycler l'énergie
+encore et encore.
+
+But while energy can’t be created or destroyed,
+it can change into less useful or even unusable forms.
+Mais alors que l'énergie ne peut pas être créée ou détruite,
+elle peut se transformer en des formes moins utiles ou même inutilisables.
+
+In fact, every real-world energy conversion has
+some amount of energy that changes into a form
+that’s unavailable to do work.
+En fait, chaque conversion d'énergie dans le monde réel a une
+certaine quantité d'énergie qui se transforme en une forme
+qui n'est pas disponible pour faire le travail.
+
+And this less-usable energy that’s lost
+is usually heat.
+Et cette énergie moins utilisable qui est perdue
+est généralement de la chaleur.
+
+But can’t we just convert that heat back
+to work?
+Mais ne pouvons-nous pas simplement convertir cette chaleur
+en travail ?
+
+Well yes, but not entirely.
+Eh bien oui, mais pas tout à fait.
+
+Heat can never be turned into another, work-performing
+type of energy with 100% efficiency.
+La chaleur ne peut jamais être transformée en un autre
+type d'énergie performante avec une efficacité de 100 %.
+
+So every time you have a transfer of energy,
+you’ll end up with some more “useless” energy.
+Ainsi, chaque fois que vous avez un transfert d'énergie,
+vous vous retrouvez avec un peu plus d'énergie "inutile".
+
+For example, let’s say you have a hot bowl
+of soup in a cold room.
+Par exemple, disons que vous avez un bol
+de soupe chaud dans une chambre froide.
+
+Over time, the soup will cool off, and whatever
+energy it loses, its surroundings will gain.
+Au fil du temps, la soupe se refroidira et, quelle que soit l'
+énergie qu'elle perd, son environnement en gagnera.
+
+But you can’t take the energy from the cold
+room and use it to heat the soup back up,
+Mais vous ne pouvez pas prendre l'énergie de la
+chambre froide et l'utiliser pour réchauffer la soupe,
+
+even though the exchange didn’t violate
+the first law.
+même si l'échange n'a pas violé
+la première loi.
+
+Or think of it in terms of electricity running
+through a wire that goes to a radiator and
+generates heat.
+Ou pensez-y en termes d'électricité
+traversant un fil qui va à un radiateur et
+génère de la chaleur.
+
+Electricity goes in, and heat comes out.
+L'électricité entre et la chaleur sort.
+
+But if you tried heating the wire, you wouldn’t
+get electricity back, even though, once again,
+the first law isn’t violated.
+Mais si vous essayez de chauffer le fil, vous ne récupérerez pas l'
+électricité, même si, encore une fois,
+la première loi n'est pas violée.
+
+This is where the second law of thermodynamics
+comes in.
+C'est là qu'intervient la deuxième loi de la
+thermodynamique.
+
+While the first law is all about the total
+quantity of energy, the second law is all
+the quality of energy.
+Alors que la première loi concerne la
+quantité totale d'énergie, la deuxième loi concerne toute
+la qualité de l'énergie.
+
+The second law states that as energy is transferred
+or transformed, more and more of it, is wasted.
+La deuxième loi stipule qu'à mesure que l'énergie est transférée
+ou transformée, de plus en plus d'énergie est gaspillée.
+
+It basically restricts the inter-conversion
+between heat and work.
+Il limite fondamentalement l'inter-conversion
+entre la chaleur et le travail.
+
+100% of the work that you put into a system
+can be converted into heat, but 100% of heat
+can’t be converted into work.
+100 % du travail que vous mettez dans un système
+peut être converti en chaleur, mais 100 % de la chaleur
+ne peut pas être convertie en travail.
+
+So to understand what this really means, let’s
+look at a heat engine, an engine that converts
+heat into energy that does work.
+Donc, pour comprendre ce que cela signifie vraiment,
+regardons un moteur thermique, un moteur qui convertit la
+chaleur en énergie qui fonctionne.
+
+Say we put some heat energy into the engine.
+Supposons que nous mettions de l'énergie thermique dans le moteur.
+
+The system will take the heat, go through
+a process, and give us energy in the form
+of work.
+Le système prendra la chaleur, passera par
+un processus et nous donnera de l'énergie sous forme
+de travail.
+
+But some of the heat will always be released
+at a cooler temperature as a secondary output.
+Mais une partie de la chaleur sera toujours libérée
+à une température plus froide en tant que sortie secondaire.
+
+No heat engine could operate without doing
+this.
+Aucun moteur thermique ne pourrait fonctionner sans
+cela.
+
+Basically, unless we’re only trying to get
+heat, we’re going to have some amount of
+inefficiency.
+Fondamentalement, à moins que nous essayions seulement d'obtenir de la
+chaleur, nous allons avoir une certaine
+inefficacité.
+
+So how did we find any of this out?
+Alors, comment avons-nous découvert tout cela?
+
+Well, it all goes back to the work of two
+great minds.
+Eh bien, tout cela remonte au travail de deux
+grands esprits.
+
+The first of these minds belonged to Sadi
+Carnot, a French scientist who was probably
+more brilliant than we’ll ever know.
+Le premier de ces esprits appartenait à Sadi
+Carnot, un scientifique français qui était probablement
+plus brillant que nous ne le saurons jamais.
+
+Carnot came from a famous and influential
+family.
+Carnot est issu d'une famille célèbre et influente
+.
+
+His father was a mathematician and a military
+engineer whose name would eventually be emblazoned,
+along with those of other scientists, on the Eiffel Tower.
+Son père était un mathématicien et un
+ingénieur militaire dont le nom finira par être inscrit
+, avec ceux d'autres scientifiques, sur la Tour Eiffel.
+
+And Carnot followed in his father’s footsteps,
+joining the French army corps of engineers in 1814.
+Et Carnot a suivi les traces de son père en
+rejoignant le corps du génie de l'armée française en 1814.
+
+But, then things got sticky.
+Mais ensuite, les choses se sont gâtées.
+
+His father had become minister of the interior,
+under a fellow named Napoleon.
+Son père était devenu ministre de l'intérieur,
+sous un nommé Napoléon.
+
+And after Napoleon met his literal Waterloo
+and the monarchy was restored, Carnot’s father
+was sent into exile.
+Et après que Napoléon ait rencontré son Waterloo littéral
+et que la monarchie ait été restaurée, le père de Carnot a
+été envoyé en exil.
+
+But Carnot was allowed to stay – languish
+is probably a better word.
+Mais Carnot a été autorisé à rester - languir
+est probablement un meilleur mot.
+
+He spent years inspecting army facilities
+and writing reports that no one read.
+Il a passé des années à inspecter les installations de l'armée
+et à rédiger des rapports que personne ne lisait.
+
+Until, in 1819, he transferred back to Paris
+and, out of curiosity, started attending lectures
+on chemistry and physics.
+Jusqu'à ce qu'en 1819, il retourne à Paris
+et, par curiosité, commence à suivre des cours
+de chimie et de physique.
+
+And there, he became especially interested
+in improving the performance of steam engines.
+Et là, il s'intéresse particulièrement
+à l'amélioration des performances des machines à vapeur.
+
+He published his research in a book called
+Reflections on the Motive Power of Fire, in 1824.
+Il a publié ses recherches dans un livre intitulé
+Réflexions sur la puissance motrice du feu, en 1824.
+
+And although his work was largely ignored, it
+contained a revolutionary idea: a model for the
+most efficient steam engine possible.
+Et bien que son travail ait été largement ignoré, il
+contenait une idée révolutionnaire : un modèle de
+machine à vapeur la plus efficace possible.
+
+Today it’s known as the Carnot engine, and
+the process by which it works is called the
+Carnot Cycle.
+Aujourd'hui, il est connu sous le nom de moteur Carnot, et
+le processus par lequel il fonctionne s'appelle le
+cycle Carnot.
+
+The Carnot cycle is actually a hypothetical
+process – it’s the most ideal cycle of changing
+pressures and temperatures in a fluid.
+Le cycle de Carnot est en fait un
+processus hypothétique - c'est le cycle le plus idéal de changement de
+pressions et de températures dans un fluide.
+
+And it’s ideal because it assumes there aren’t
+any sources of waste, like friction or the conduction
+of heat between different parts of an engine.
+Et c'est idéal parce qu'il suppose qu'il n'y a pas
+de sources de déchets, comme le frottement ou la conduction
+de la chaleur entre les différentes parties d'un moteur.
+
+So we use this cycle as a standard to judge
+the performance of heat engines.
+Nous utilisons donc ce cycle comme étalon pour juger
+des performances des moteurs thermiques.
+
+The Carnot cycle consists of four processes,
+all of which are reversible – two adiabatic and two
+isothermal ones.
+Le cycle de Carnot se compose de quatre processus,
+tous réversibles - deux adiabatiques et deux
+isothermes.
+
+And it can take place in either a closed
+or a steady-state system.
+Et cela peut avoir lieu dans un système fermé
+ou en régime permanent.
+
+Let’s look at it in a closed system.
+Regardons cela dans un système fermé.
+
+Let’s say we have a gas that’s contained
+in an adiabatic piston-cylinder device.
+Disons que nous avons un gaz contenu
+dans un dispositif piston-cylindre adiabatique.
+
+As we start up our piston, the first process in the
+Carnot cycle is called reversible isothermal expansion.
+Lorsque nous démarrons notre piston, le premier processus du
+cycle de Carnot est appelé détente isotherme réversible.
+
+In this stage, the head of the cylinder starts in
+close contact with an energy source, or reservoir,
+at temperature TH.
+A ce stade, la tête du cylindre démarre en
+contact étroit avec une source d'énergie, ou réservoir,
+à la température TH.
+
+This will transfer heat, which we’ll call
+QH, to the gas.
+Cela transférera de la chaleur, que nous appellerons
+QH, au gaz.
+
+As the energy source transfers heat, the gas
+starts to expand slowly, which does work on
+the surroundings.
+Au fur et à mesure que la source d'énergie transfère de la chaleur, le gaz
+commence à se dilater lentement, ce qui agit sur
+l'environnement.
+
+As the gas expands, its initial temperature,
+TH, tends to decrease.
+Au fur et à mesure que le gaz se dilate, sa température initiale,
+TH, tend à diminuer.
+
+But as soon as the temperature drops by a
+very small, almost negligible amount,
+Mais dès que la température baisse d'une
+quantité très faible, presque négligeable, une
+
+some heat is transferred from the reservoir
+to the gas, which warms it up, bringing it back
+to its initial temperature.
+partie de la chaleur est transférée du réservoir
+au gaz, qui le réchauffe, le ramenant
+à sa température initiale.
+
+That means that the temperature of the gas is
+basically kept constant throughout the process, which
+will continue until the piston reaches position 2.
+Cela signifie que la température du gaz est
+essentiellement maintenue constante tout au long du processus, qui
+se poursuivra jusqu'à ce que le piston atteigne la position 2.
+
+At this point, we come to the second stage of
+the Carnot cycle: reversible adiabatic expansion.
+À ce stade, nous arrivons à la deuxième étape du
+cycle de Carnot : la détente adiabatique réversible.
+
+Here, we’ll make the process adiabatic by
+replacing the reservoir with insulation.
+Ici, nous allons rendre le processus adiabatique en
+remplaçant le réservoir par un isolant.
+
+This means that as the gas expands, it can
+cool down, since it won’t be heated back up
+by the reservoir anymore.
+Cela signifie qu'au fur et à mesure que le gaz se dilate, il peut se
+refroidir, car il ne sera plus réchauffé
+par le réservoir.
+
+It will do this until its temperature drops
+from TH to TL, which brings us to position 3.
+Il le fera jusqu'à ce que sa température chute
+de TH à TL, ce qui nous amène à la position 3.
+
+Halfway there!
+À mi-chemin !
+
+Now we just need to go in the opposite
+direction as we begin the third stage of our cycle:
+reversible isothermal compression.
+Il ne nous reste plus qu'à faire le chemin
+inverse pour entamer la troisième étape de notre cycle : la
+compression isotherme réversible.
+
+So now let’s remove the insulation and bring
+the cylinder into contact with an energy sink
+at temperature TL.
+Retirons donc maintenant l'isolant et amenons
+le cylindre en contact avec un dissipateur d'énergie
+à la température TL.
+
+This will cause the gas to transfer heat,
+which we’ll call QL, to the reservoir.
+Cela entraînera le transfert de chaleur du gaz,
+que nous appellerons QL, vers le réservoir.
+
+Now, when some external force pushes the piston
+inward, which does work on the gas, the gas will
+compress and its temperature will tend to rise.
+Maintenant, lorsqu'une force externe pousse le piston
+vers l'intérieur, ce qui agit sur le gaz, le gaz se
+comprime et sa température a tendance à augmenter.
+
+But as soon as the temperature rises by a
+very tiny amount,
+Mais dès que la température augmente d'une
+très petite quantité, une
+
+some heat is transferred from the gas to
+the sink, which cools it down, causing the
+temperature to drop back down to TL.
+partie de la chaleur est transférée du gaz vers
+le dissipateur, ce qui le refroidit, ce qui fait redescendre la
+température à TL.
+
+Now, you’ll notice that this is really similar
+to what happened in the first stage!
+Maintenant, vous remarquerez que c'est vraiment similaire
+à ce qui s'est passé dans la première étape !
+
+The temperature of the gas will stay the same
+throughout this process until the piston reaches
+position 4.
+La température du gaz restera la même
+tout au long de ce processus jusqu'à ce que le piston atteigne la
+position 4.
+
+Now we’re at the fourth stage of our cycle:
+reversible adiabatic compression.
+Nous sommes maintenant à la quatrième étape de notre cycle :
+la compression adiabatique réversible.
+
+In this last stage, we’ll put the insulation
+back on, making the process adiabatic again.
+Dans cette dernière étape, nous remettrons l'
+isolant en place, rendant à nouveau le processus adiabatique.
+
+The gas will continue to slowly compress until its
+temperature rises from TL to TH, which will complete
+the cycle and bring us back to where we started.
+Le gaz continuera à se comprimer lentement jusqu'à ce que sa
+température monte de TL à TH, ce qui achèvera
+le cycle et nous ramènera à notre point de départ.
+
+And, since we’re back where we started,
+we have a fully reversible cycle.
+Et, puisque nous sommes de retour là où nous avons commencé,
+nous avons un cycle entièrement réversible.
+
+This makes the Carnot cycle the most
+efficient cycle that we can have between two
+different temperatures.
+Cela fait du cycle de Carnot le cycle le plus
+efficace que l'on puisse avoir entre deux
+températures différentes.
+
+Now, even though we can’t actually achieve it in
+reality, we can improve the efficiency of our cycles if
+we try to model them more closely to Carnot’s design.
+Maintenant, même si nous ne pouvons pas y parvenir dans la
+réalité, nous pouvons améliorer l'efficacité de nos cycles si
+nous essayons de les modéliser plus étroitement à la conception de Carnot.
+
+His work shows us that the efficiency of a heat engine
+is only dependent on the temperatures of its heat
+reservoirs, rather than the types of fluids that it uses.
+Ses travaux nous montrent que l'efficacité d'un moteur
+thermique ne dépend que des températures de ses
+réservoirs de chaleur, plutôt que des types de fluides qu'il utilise.
+
+As such, the maximum attainable efficiency of a heat
+engine is equal to one minus the temperature of the cold
+sink divided by the temperature of the heat reservoir.
+Ainsi, le rendement maximum atteignable d'un
+moteur thermique est égal à un moins la température du
+dissipateur froid divisée par la température du réservoir thermique.
+
+Now, remember when I said that Carnot was
+probably more brilliant than we’ll ever know?
+Maintenant, rappelez-vous quand j'ai dit que Carnot était
+probablement plus brillant que nous ne le saurons jamais ?
+
+Well, let me finish his story.
+Eh bien, laissez-moi terminer son histoire.
+
+Soon after he published his work on the Carnot
+cycle, he quit his job with the army and was left
+without an income or any pension.
+Peu de temps après avoir publié son travail sur le
+cycle Carnot, il a quitté son emploi dans l'armée et s'est retrouvé
+sans revenu ni pension.
+
+Diagnosed with “mania” and “general delirium,” he was
+then sent to an asylum, where he contracted cholera,
+which was sweeping through Paris at the time.
+Diagnostiqué de « manie » et de « délire général », il est
+alors envoyé dans un asile, où il contracte le choléra
+qui sévit alors à Paris.
+
+Carnot died at the age of 36.
+Carnot est décédé à l'âge de 36 ans.
+
+And because all of his personal belongings were
+considered to be contaminated, they were buried with
+him, including all of his notebooks and papers.
+Et parce que tous ses effets personnels étaient
+considérés comme contaminés, ils ont été enterrés avec
+lui, y compris tous ses cahiers et papiers.
+
+So, the full scope of his work, and his genius,
+has been lost to history.
+Ainsi, toute l'étendue de son travail et de son génie
+a été perdue pour l'histoire.
+
+Nonetheless, we do know that Carnot discovered the
+limitation of efficiency, and his work has become
+foundational to our understanding of wasted energy.
+Néanmoins, nous savons que Carnot a découvert la
+limitation de l'efficacité, et son travail est devenu
+fondamental pour notre compréhension de l'énergie gaspillée.
+
+But, Carnot’s insights alone don’t fully explain
+why we can never build the perfect engine.
+Mais les idées de Carnot à elles seules n'expliquent pas entièrement
+pourquoi nous ne pourrons jamais construire le moteur parfait.
+
+We still need to understand another property – one
+that wasn’t even put into words until a few decades
+after Carnot came up with his cycle.
+Nous avons encore besoin de comprendre une autre propriété - une
+qui n'a même pas été mise en mots jusqu'à quelques décennies
+après que Carnot ait inventé son cycle.
+
+The great mind who gave us this property was
+Rudolf Clausius.
+Le grand esprit qui nous a donné cette propriété était
+Rudolf Clausius.
+
+Clausius was a German mathematician and physicist
+who introduced the concept of entropy around 1850,
+Clausius était un mathématicien et physicien allemand
+qui a introduit le concept d'entropie vers 1850,
+
+after he recognized the confusion between
+Carnot’s work and the conservation of energy.
+après avoir reconnu la confusion entre
+les travaux de Carnot et la conservation de l'énergie.
+
+Entropy is the measure of a system’s thermal
+energy per unit temperature that’s unavailable
+for doing work.
+L'entropie est la mesure de l'énergie thermique d'un système
+par unité de température qui n'est pas disponible
+pour effectuer un travail.
+
+It’s also the measure of the disorder, or
+randomness, of a system.
+C'est aussi la mesure du désordre, ou du
+caractère aléatoire, d'un système.
+
+Mathematically, if the entropy for a system
+is 0, then we have a reversible process with no
+change in entropy, like with a Carnot engine.
+Mathématiquement, si l'entropie d'un système
+est 0, alors nous avons un processus réversible sans
+changement d'entropie, comme avec un moteur de Carnot.
+
+Any value over 0, and then the process is
+irreversible and gains entropy.
+Toute valeur supérieure à 0, puis le processus est
+irréversible et gagne en entropie.
+
+So, every process results in either no change
+in entropy or an increase in entropy.
+Ainsi, chaque processus entraîne soit aucun changement
+d'entropie, soit une augmentation de l'entropie.
+
+It’s impossible to have an overall decrease
+in entropy.
+Il est impossible d'avoir une diminution globale
+de l'entropie.
+
+If you’re only looking at a system itself,
+it’s possible to have a decrease in entropy.
+Si vous ne regardez qu'un système lui-même,
+il est possible d'avoir une diminution de l'entropie.
+
+But, and this is very important, the entropy of the system’s surroundings and the universe would have to increase by an amount greater than or equal to the loss of entropy inside the system.
+Mais, et c'est très important, l'entropie de l'environnement du système et de l'univers devrait augmenter d'une quantité supérieure ou égale à la perte d'entropie à l'intérieur du système.
+
+Simply put, our universe always tends toward
+disorder.
+En termes simples, notre univers tend toujours vers le
+désordre.
+
+It’s just the way of all things.
+C'est juste la voie de toutes choses.
+
+In fact, scary as it may be, entropy and the
+second law of thermodynamics actually predict
+the end of the universe as we know it!
+En fait, aussi effrayant que cela puisse paraître, l'entropie et la
+deuxième loi de la thermodynamique prédisent en fait
+la fin de l'univers tel que nous le connaissons !
+
+If everything is tending toward disorder, than the
+logical conclusion is that all of the usable energy in
+the universe may one day be converted to heat.
+Si tout tend vers le désordre, alors la
+conclusion logique est que toute l'énergie utilisable dans
+l'univers pourra un jour être convertie en chaleur.
+
+This event is known as the heat death of the universe
+and, in addition to being a really wonderful band name,
+it may one day be our fate.
+Cet événement est connu comme la mort par la chaleur de l'univers
+et, en plus d'être un nom de groupe vraiment merveilleux,
+il pourrait un jour être notre destin.
+
+I wouldn’t worry about it, though, because
+while it makes sense in theory, many doubt
+if it would actually happen.
+Je ne m'en inquiéterais pas, cependant, car même
+si cela a du sens en théorie, beaucoup doutent
+que cela se produise réellement.
+
+And even if it did, it probably wouldn’t
+happen for a really long time.
+Et même si c'était le cas, cela n'arriverait probablement pas
+avant très longtemps.
+
+But whether or not entropy will cause the universe
+|to end, it does make it impossible to create a perfect
+engine with an output of 100% work energy.
+Mais que l'entropie provoque ou non la
+fin de l'univers, il est impossible de créer un
+moteur parfait avec une sortie de 100 % d'énergie de travail.
+
+We can try to get closer than we already are,
+but no matter how inventive we get as engineers,
+Nous pouvons essayer de nous rapprocher plus que nous ne le sommes déjà,
+mais peu importe à quel point nous sommes inventifs en tant qu'ingénieurs,
+
+we always have to follow the rules of the
+universe – even if it’s one that will lead to
+our own doom.
+nous devons toujours suivre les règles de l'
+univers - même si c'est celle qui mènera à
+notre propre perte.
+
+So in today’s lesson, we learned about the
+second law thermodynamics and how we came
+to understand it.
+Ainsi, dans la leçon d'aujourd'hui, nous avons appris la
+deuxième loi de la thermodynamique et comment nous en sommes venus
+à la comprendre.
+
+We started by talking about the differences between
+the first and second law of thermodynamics and how
+the second law focuses on quality over quantity.
+Nous avons commencé par parler des différences entre
+la première et la deuxième loi de la thermodynamique et de la façon dont
+la deuxième loi met l'accent sur la qualité plutôt que sur la quantité.
+
+Then we talked about the Carnot cycle and
+how it’s the most efficient form of a heat engine
+with temperature differences.
+Ensuite, nous avons parlé du cycle de Carnot et du fait
+qu'il s'agit de la forme la plus efficace d'un moteur thermique
+avec des différences de température.
+
+We ended our lesson by going over entropy
+and the randomness that can occur with a system.
+Nous avons terminé notre leçon en passant en revue l'entropie
+et le caractère aléatoire qui peut se produire avec un système.
+
+I’ll see you next week, when we’ll learn
+more about heat engines and how systems can
+operate on a cycle.
+Je vous verrai la semaine prochaine, lorsque nous en apprendrons
+davantage sur les moteurs thermiques et sur la façon dont les systèmes peuvent
+fonctionner sur un cycle.
+
+Thank you to CuriosityStream for supporting
+PBS Digital Studios.
+Merci à CuriosityStream pour son soutien à
+PBS Digital Studios.
+
+CuriosityStream is a subscription streaming service that offers documentaries and non-fiction titles from a variety of filmmakers, including CuriosityStream originals.
+CuriosityStream est un service de streaming par abonnement qui propose des documentaires et des titres non romanesques de divers cinéastes, y compris les originaux de CuriosityStream.
+
+For instance, CuriosityStream has a series called “Breakthrough” that’s a deeper look at some major recent developments in physics, astronomy and other sciences.
+Par exemple, CuriosityStream propose une série intitulée "Breakthrough" qui examine de manière plus approfondie certains développements récents majeurs en physique, en astronomie et dans d'autres sciences.
+
+You can learn more at curiositystream.com/crashcourse and use the code crashcourse during the sign-up process.
+Vous pouvez en savoir plus sur le site tourismstream.com/crashcourse et utiliser le code crashcourse lors du processus d'inscription.
+
+Crash Course Engineering is produced in association
+with PBS Digital Studios.
+Crash Course Engineering est produit en association
+avec PBS Digital Studios.
+
+You can head over to their channel to check out a
+playlist of their amazing shows, like The Art
+Assignment, Deep Look, and It’s Okay to Be Smart.
+Vous pouvez vous rendre sur leur chaîne pour consulter une
+liste de lecture de leurs émissions incroyables, comme The Art
+Assignment, Deep Look et It’s Okay to Be Smart.
+
+Crash Course is a Complexly production and
+this episode was filmed in the Dr. Cheryl C. Kinney
+Studio with the help of these wonderful people.
+Crash Course est une production de Complexly et
+cet épisode a été filmé dans le studio du Dr Cheryl C. Kinney
+avec l'aide de ces personnes merveilleuses.
+
+And our amazing graphics team is Thought Cafe.
+Et notre incroyable équipe graphique est Thought Cafe.
+

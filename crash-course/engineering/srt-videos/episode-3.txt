@@ -1,0 +1,607 @@
+Mechanical engineers have changed the world.
+Les ingénieurs en mécanique ont changé le monde.
+
+You could even say: the course of history.
+On pourrait même dire : le cours de l'histoire.
+
+Not just once but countless times.
+Pas une seule fois, mais d'innombrables fois.
+
+Because they’ve identified problems that were
+holding humanity back, and they solved them.
+Parce qu'ils ont identifié des problèmes qui
+retenaient l'humanité, et ils les ont résolus.
+
+Things were too big and heavy to move.
+Travel was too difficult.
+Les choses étaient trop grandes et trop lourdes pour être déplacées.
+Le voyage était trop difficile.
+
+Distances too far.
+Our bodies were too weak.
+Distances trop grandes.
+Nos corps étaient trop faibles.
+
+If you can think of an invention that
+revolutionized the way people live, odds are
+it was created by mechanical engineers.
+Si vous pouvez penser à une invention qui a
+révolutionné la façon dont les gens vivent, il y a de fortes chances
+qu'elle ait été créée par des ingénieurs en mécanique.
+
+And I don’t think I’m being biased.
+Et je ne pense pas être partial.
+
+Theirs is the field of engineering that focuses
+on the design, construction, operation, and
+maintenance of machines and mechanical systems
+– pretty much anything that moves.
+Leur domaine d'ingénierie se concentre
+sur la conception, la construction, l'exploitation et la
+maintenance de machines et de systèmes mécaniques
+- à peu près tout ce qui bouge.
+
+And since the beginning, mechanical engineering
+has faced a great many challenges, and solved
+a lot of problems.
+Et depuis le début, le génie mécanique
+a fait face à de nombreux défis et a résolu
+de nombreux problèmes.
+
+The examples are too many to count, but consider
+things like the steam engine, airplanes, robots, and
+biomechanical suits.
+Les exemples sont trop nombreux pour être comptés, mais considérez des
+choses comme la machine à vapeur, les avions, les robots et
+les combinaisons biomécaniques.
+
+The engineers behind all of these devices
+were able to find solutions to big problems.
+Les ingénieurs derrière tous ces appareils
+ont pu trouver des solutions à de gros problèmes.
+
+And of course, they faced difficulties along
+the way.
+Et bien sûr, ils ont rencontré des difficultés en cours de
+route.
+
+But great efforts almost always do.
+Mais de grands efforts le font presque toujours.
+
+[Theme Music]
+[Thème musical]
+
+Back in the day, if you wanted to get somewhere,
+you would have had two options: your own two
+feet or a horse.
+À l'époque, si vous vouliez vous rendre quelque part,
+vous auriez eu deux options : vos deux
+pieds ou un cheval.
+
+And if you wanted to take a heavy load with
+you, you needed a carriage. Wheels.
+Et si vous vouliez emporter une lourde charge avec
+vous, il vous fallait une voiture.  Roues. 
+
+The invention of the wheel is one of the oldest roots
+of mechanical engineering, along with all of the simple
+tools that went into building the carriage itself.
+L'invention de la roue est l'une des racines les plus anciennes
+de l'ingénierie mécanique, avec tous les
+outils simples qui ont servi à construire le chariot lui-même.
+
+If we include the simple levers that were used to
+open gates and bring down bridges, we’d have a great,
+but primitive, base of early mechanical engineering.
+Si nous incluons les leviers simples qui ont été utilisés pour
+ouvrir les portes et faire tomber les ponts, nous aurions une excellente base,
+mais primitive, de l'ingénierie mécanique primitive.
+
+But horse-drawn carriages aren’t very fast.
+Mais les calèches ne sont pas très rapides.
+
+A horse needs rest and food, so it would be generous
+to say you could cover 80 kilometers a day.
+Un cheval a besoin de repos et de nourriture, il serait donc généreux
+de dire que vous pouvez parcourir 80 kilomètres par jour.
+
+This gave the engineers of the past a problem.
+Cela posait un problème aux ingénieurs du passé.
+
+As the world opened up, it became more
+important to cover distances in less time,
+and horses just weren't cutting it.
+Au fur et à mesure que le monde s'ouvrait, il devenait plus
+important de couvrir des distances en moins de temps,
+et les chevaux ne le coupaient tout simplement pas.
+
+They needed something faster.
+Ils avaient besoin de quelque chose de plus rapide.
+
+They needed an engine.
+Ils avaient besoin d'un moteur.
+
+Making its first appearance in the early 18th century,
+the steam engine marked a major turning point in the
+development of modern mechanical engineering.
+Apparue au début du XVIIIe siècle,
+la machine à vapeur marque un tournant majeur dans le
+développement de la mécanique moderne.
+
+It was proposed that a steam engine could
+do the work of ten, fifteen, or even twenty horses!
+Il a été proposé qu'une machine à vapeur puisse
+faire le travail de dix, quinze ou même vingt chevaux !
+
+And you wouldn’t need to bother with any
+hay...or manure.
+Et vous n'auriez pas besoin de vous soucier du
+foin... ou du fumier.
+
+This brings us to Thomas Newcomen, the British
+inventor who developed the first successful steam
+engine with a piston in 1712.
+Cela nous amène à Thomas Newcomen, l'
+inventeur britannique qui a développé la première machine
+à vapeur à piston en 1712.
+
+In his design, atmospheric pressure pushed
+the piston down, after the condensation of steam
+had created a vacuum in the cylinder.
+Dans sa conception, la pression atmosphérique a poussé
+le piston vers le bas, après que la condensation de la vapeur
+ait créé un vide dans le cylindre.
+
+Its original use was to draw water out of the
+Cornish tin mines, after Newcomen found how
+expensive it was to use horses to pump the water.
+Son utilisation initiale était de puiser de l'eau dans les
+mines d'étain de Cornouailles, après que Newcomen ait découvert à quel point
+il était coûteux d'utiliser des chevaux pour pomper l'eau.
+
+Then along came the Scottish inventor James
+Watt.
+Puis vint l'inventeur écossais James
+Watt.
+
+In 1763, while repairing one of Newcomen’s engines,
+En 1763, alors qu'il réparait l'un des moteurs de Newcomen,
+
+Watt realized that about three quarters of the
+energy from the steam was going to waste, used
+only to heat the chamber of the engine.
+Watt se rendit compte qu'environ les trois quarts de l'
+énergie de la vapeur étaient gaspillés, utilisés
+uniquement pour chauffer la chambre du moteur.
+
+His solution was to have a separate condenser.
+Sa solution était d'avoir un condenseur séparé.
+
+The steam would then be condensed in a
+chamber separate from the piston chamber, so that
+the condensed steam didn't go to waste.
+La vapeur serait alors condensée dans une
+chambre séparée de la chambre du piston, de sorte que
+la vapeur condensée ne soit pas gaspillée.
+
+Keeping the two processes separate allowed
+for continued rotary motion, which was really
+important,
+Garder les deux processus séparés
+permettait un mouvement rotatif continu, ce qui était vraiment
+important,
+
+because it allowed for a more consistent
+source of power.
+car cela permettait une
+source d'énergie plus cohérente.
+
+Watt’s invention came to be widely used
+to run machines in the factories that drove
+the Industrial Revolution.
+L'invention de Watt est devenue largement utilisée
+pour faire fonctionner des machines dans les usines qui ont conduit
+la révolution industrielle.
+
+Watt went on to be the first engineer to be
+commemorated in Westminster Abbey, with a large,
+white marble statue erected in his memory.
+Watt a ensuite été le premier ingénieur à être
+commémoré à l'abbaye de Westminster, avec une grande
+statue de marbre blanc érigée à sa mémoire.
+
+He also had his last name recognized as a
+unit of power, which is perhaps one of the
+highest honors that an engineer can get.
+Il a également fait reconnaître son nom de famille comme une
+unité de pouvoir, ce qui est peut-être l'un des
+plus grands honneurs qu'un ingénieur puisse obtenir.
+
+But steam engines really came into their own,
+especially in the realm of transportation, in the
+locomotives of the 19th century.
+Mais les machines à vapeur ont vraiment pris leur envol,
+notamment dans le domaine des transports, avec les
+locomotives du XIXe siècle.
+
+George and Robert Stephenson, an English father-son
+duo, are famous for their early steam locomotive, which
+they called, aptly enough, “Locomotion.”
+George et Robert Stephenson, un duo père-fils
+anglais, sont célèbres pour leur première locomotive à vapeur,
+qu'ils ont appelée, à juste titre, "Locomotion".
+
+In 1825, it became the first public passenger train,
+carrying 450 people at 24 kilometers per hour.
+En 1825, il devient le premier train public de voyageurs,
+transportant 450 personnes à 24 kilomètres à l'heure.
+
+Quite a bit faster than a horse!
+Un peu plus rapide qu'un cheval !
+
+But while wheeled vehicles allowed people to travel
+more quickly on land, transportation was still limited
+by bodies of water and rough, mountainous terrain.
+Mais alors que les véhicules à roues permettaient aux gens de se déplacer
+plus rapidement sur terre, le transport était encore limité
+par les plans d'eau et les terrains accidentés et montagneux.
+
+If engineers could figure out a way to get
+people to fly, all of that could be avoided!
+Si les ingénieurs pouvaient trouver un moyen de
+faire voler les gens, tout cela pourrait être évité !
+
+This problem-solving led to the invention
+of aircraft.
+Cette résolution de problèmes a conduit à l'invention
+de l'avion.
+
+The first powered aircraft to take flight was the Wright
+Flyer in 1903, which was designed by Wilbur and Orville
+Wright and used a 12-horsepower gas engine.
+Le premier avion motorisé à prendre son envol était le Wright
+Flyer en 1903, qui a été conçu par Wilbur et Orville
+Wright et utilisait un moteur à essence de 12 chevaux.
+
+Orville flew the Wright Flyer on its maiden
+voyage, traveling 36 meters in 12 seconds.
+Orville a piloté le Wright Flyer lors de son
+voyage inaugural, parcourant 36 mètres en 12 secondes.
+
+But the best flight of the day belonged to Wilbur,
+who traveled over 255 meters in 59 seconds,
+Mais le meilleur vol de la journée revient à Wilbur,
+qui a parcouru plus de 255 mètres en 59 secondes,
+
+or a speed of about 15 kilometers an hour,
+earning him some serious bragging rights.
+soit une vitesse d'environ 15 kilomètres à l'heure, ce
+qui lui a valu de sérieux droits de vantardise.
+
+Soon after the Wright brothers’ accomplishment,
+World War I sparked a burst of aircraft innovation.
+Peu de temps après l'accomplissement des frères Wright, la
+Première Guerre mondiale a déclenché une vague d'innovations aéronautiques.
+
+Engineers began using metal in the structures
+of the airplanes, and better engines, allowing
+them to reach higher speeds and altitudes.
+Les ingénieurs ont commencé à utiliser du métal dans les structures
+des avions et de meilleurs moteurs,
+leur permettant d'atteindre des vitesses et des altitudes plus élevées.
+
+Then, in 1930, Sir Frank Whittle obtained
+his first patent for a turbo-jet engine.
+Puis, en 1930, Sir Frank Whittle obtient
+son premier brevet pour un turboréacteur.
+
+But it wasn’t until the outbreak of World War II
+that the British government had a compelling
+reason to support his work.
+Mais ce n'est qu'au début de la Seconde Guerre mondiale
+que le gouvernement britannique a eu une
+raison impérieuse de soutenir son travail.
+
+By 1941, Whittle’s engine featured a multistage
+compressor, a combustion chamber, a single turbine,
+and a nozzle –
+En 1941, le moteur de Whittle comportait un
+compresseur à plusieurs étages, une chambre de combustion, une seule turbine
+et une buse -
+
+which was a big improvement, since previous
+engine designs only had an internal-combustion
+engine and a propeller.
+ce qui était une grande amélioration, puisque les
+conceptions de moteur précédentes n'avaient qu'un moteur
+à combustion interne et une hélice.
+
+Jet engines outperformed the older designs,
+flying farther, faster, and cheaper too.
+Les moteurs à réaction ont surpassé les modèles plus anciens,
+volant plus loin, plus vite et moins cher aussi.
+
+These advances ultimately made commercial
+air travel possible, and soon people were traveling
+where once only the birds had ruled.
+Ces progrès ont finalement rendu
+possible le transport aérien commercial, et bientôt les gens voyageaient
+là où autrefois seuls les oiseaux régnaient.
+
+But mechanical engineering doesn’t stop
+in the air!
+Mais le génie mécanique ne s'arrête pas
+dans les airs !
+
+Beyond planes, we’ve sent satellites into
+orbit, astronauts to the moon, and spacecraft
+carrying rovers all the way to Mars.
+Au-delà des avions, nous avons envoyé des satellites en
+orbite, des astronautes sur la Lune et des engins spatiaux
+transportant des rovers jusqu'à Mars.
+
+The aerospace side of engineering actually
+arose from the mechanical field.
+Le côté aérospatial de l'ingénierie est en fait
+issu du domaine mécanique.
+
+And much of what has allowed us to build these
+machines that move us is another big part of the
+mechanical engineering field: robotics.
+Et une grande partie de ce qui nous a permis de construire ces
+machines qui nous font bouger est une autre grande partie du
+domaine de l'ingénierie mécanique : la robotique.
+
+For most of industrial history, humans have
+been at the center of our workforce.
+Pendant la majeure partie de l'histoire industrielle, les humains ont
+été au centre de notre main-d'œuvre.
+
+But humans have their limits.
+Mais l'humain a ses limites.
+
+Some things are too big and too awkward to
+move, while other processes needed a finer
+precision than the human hand allows.
+Certaines choses sont trop grandes et trop difficiles à
+déplacer, tandis que d'autres processus nécessitent une précision plus fine
+que ne le permet la main humaine.
+
+Industrial environments are also often uncomfortable
+and sometimes even dangerous.
+Les environnements industriels sont aussi souvent inconfortables
+et parfois même dangereux.
+
+And that’s where robots and automation come in.
+Et c'est là que les robots et l'automatisation entrent en jeu.
+
+The first industrial robot, called Unimate,
+appeared around 1960.
+Le premier robot industriel, appelé Unimate,
+est apparu vers 1960.
+
+It was designed by American inventor George
+Devol, Jr., who worked with engineer and entrepreneur
+Joseph Engelberger to get it into factories.
+Il a été conçu par l'inventeur américain George
+Devol, Jr., qui a travaillé avec l'ingénieur et entrepreneur
+Joseph Engelberger pour l'introduire dans les usines.
+
+Unimate robots had up to six fully programmable
+axes of motion and could handle parts weighing
+up to around 225 kilograms at high speeds.
+Les robots Unimate avaient jusqu'à six
+axes de mouvement entièrement programmables et pouvaient manipuler des pièces pesant
+jusqu'à environ 225 kilogrammes à des vitesses élevées.
+
+They soon joined the assembly line at a General
+Motors plant, where they took die castings from
+machines and welded them onto auto bodies.
+Ils ont rapidement rejoint la chaîne de montage d'une
+usine de General Motors, où ils ont pris des pièces moulées sous pression des
+machines et les ont soudées sur des carrosseries d'automobiles.
+
+Since then, robots have gone beyond manufacturing,
+showing up in our homes to clean the floors, and
+even hospitals to perform surgeries.
+Depuis lors, les robots sont allés au-delà de la fabrication,
+apparaissant dans nos maisons pour nettoyer les sols, et
+même dans les hôpitaux pour effectuer des interventions chirurgicales.
+
+But as their applications get more advanced,
+engineers have more and more factors to consider.
+Mais à mesure que leurs applications deviennent plus avancées, les
+ingénieurs ont de plus en plus de facteurs à prendre en compte.
+
+They need to worry about how well robots sense
+their surroundings, how they move and manipulate
+their environments, and much more.
+Ils doivent s'inquiéter de la façon dont les robots perçoivent
+leur environnement, comment ils se déplacent et manipulent
+leur environnement, et bien plus encore.
+
+It’s possible one day that we’ll have
+robots in many of the places you could
+imagine a human working.
+Il est possible qu'un jour nous ayons des
+robots dans de nombreux endroits où vous pourriez
+imaginer un travail humain.
+
+I mean, we’re seeing that now.
+Je veux dire, nous voyons cela maintenant.
+
+And speaking of humans, you can think of the human
+body as just a super complex mechanical system of
+its own, made of links and connecting joints.
+Et en parlant d'humains, vous pouvez considérer le
+corps humain comme un simple système mécanique super complexe
+, composé de liens et d'articulations.
+
+And this is where biomechanics comes in.
+Et c'est là qu'intervient la biomécanique. Les
+
+Engineers need to take into account the stress,
+load, and impact that our bodies can withstand,
+and apply it to machines that are modeled on us.
+ingénieurs doivent prendre en compte le stress, la
+charge et l'impact que notre corps peut supporter,
+et l'appliquer à des machines qui sont calquées sur nous.
+
+Advanced biomechanics is one of the newest
+divisions of mechanical engineering.
+La biomécanique avancée est l'une des plus récentes
+divisions du génie mécanique.
+
+From it, we’re already seeing the beginnings of
+exoskeleton-suits, limbs that move like their biological
+counterparts, and other robotic implants.
+De là, nous voyons déjà les débuts des
+combinaisons d'exosquelette, des membres qui bougent comme leurs
+homologues biologiques et d'autres implants robotiques.
+
+One of the more impressive projects is the
+Berkeley Lower Extremity Exoskeleton.
+L'un des projets les plus impressionnants est l'
+exosquelette des membres inférieurs de Berkeley.
+
+Funded by the Defense Advanced Research
+Project Agency in 2000,
+Financé par la Defense Advanced Research
+Project Agency en 2000,
+
+this device is designed to provide mechanical
+support to allow nearly anyone to carry larger, heavier
+loads than they could ever lift on their own.
+cet appareil est conçu pour fournir un
+support mécanique permettant à presque tout le monde de transporter des
+charges plus lourdes et plus lourdes qu'ils ne pourraient jamais soulever par eux-mêmes.
+
+The ability to carry heavy loads is often a problem
+for soldiers and disaster relief workers, so finding
+a solution to this is pretty important.
+La capacité de transporter de lourdes charges est souvent un problème
+pour les soldats et les secouristes, il
+est donc très important de trouver une solution à ce problème.
+
+But the problems are many.
+Mais les problèmes sont nombreux.
+
+For one thing, power sources for exo-suits
+are often too heavy or cumbersome.
+D'une part, les sources d'alimentation des exo-combinaisons
+sont souvent trop lourdes ou encombrantes.
+
+But the BLEEX, as it’s called, overcomes
+this by using a small hybrid power source
+Mais le BLEEX, comme on l'appelle, surmonte
+cela en utilisant une petite source d'alimentation hybride
+
+that delivers hydraulic power for the suit’s
+locomotion and electrical power for its computer.
+qui fournit de l'énergie hydraulique pour la
+locomotion de la combinaison et de l'énergie électrique pour son ordinateur.
+
+The first prototype was recently introduced,
+consisting of two powered, anthropomorphic legs,
+a power unit, and a backpack-like frame.
+Le premier prototype a été récemment introduit,
+composé de deux jambes anthropomorphes motorisées, d'
+un bloc d'alimentation et d'un cadre en forme de sac à dos.
+
+Using the frame, a person can carry a heavy
+load, but only have it feel like a few pounds.
+En utilisant le cadre, une personne peut porter une lourde
+charge, mais seulement ressentir quelques kilos.
+
+In similar fashion, Berkeley is also behind the
+Austin project, which aims to develop exoskeleton
+systems for people with mobility disorders.
+De la même manière, Berkeley est également à l'origine du
+projet Austin, qui vise à développer des
+systèmes d'exosquelette pour les personnes à mobilité réduite.
+
+So it’s almost as if we’ve gone full circle,
+from the inventors who developed the first
+steam engine to replace the horse,
+C'est donc presque comme si la boucle était bouclée,
+des inventeurs qui ont mis au point la première
+machine à vapeur pour remplacer le cheval,
+
+to the biomechanical engineers who are
+using robotics to simulate the most basic
+means of transportation: walking.
+aux ingénieurs biomécaniciens qui
+utilisent la robotique pour simuler le
+moyen de transport le plus élémentaire : la marche.
+
+Those are some of the very big problems that
+mechanical engineers have managed to solve.
+Ce sont quelques-uns des très gros problèmes que
+les ingénieurs en mécanique ont réussi à résoudre.
+
+And when it comes to the problems that we
+still face today – from driving in traffic to getting
+food and water to remote areas –
+Et en ce qui concerne les problèmes auxquels nous sommes
+encore confrontés aujourd'hui - de la conduite dans la circulation à l'acheminement de la
+nourriture et de l'eau dans les régions éloignées -
+
+you can bet that mechanical engineers
+will be there to tackle them.
+vous pouvez parier que les ingénieurs en mécanique
+seront là pour les résoudre.
+
+So today we learned all about many different
+areas of mechanical engineering, beginning
+with the steam engine.
+Aujourd'hui, nous avons donc tout appris sur de nombreux
+domaines différents de l'ingénierie mécanique, à commencer
+par la machine à vapeur.
+
+We then moved on to aircraft and the work
+behind them.
+Nous sommes ensuite passés aux avions et au travail
+derrière eux.
+
+And we finished by going into the more modern
+areas of robotics and biomechanics.
+Et nous avons fini par entrer dans les domaines plus modernes
+de la robotique et de la biomécanique.
+
+In the next episode we’ll explore electrical
+engineering, its history, and the work that
+electrical engineers do.
+Dans le prochain épisode, nous explorerons le
+génie électrique, son histoire et le travail
+des ingénieurs électriciens.
+
+Thanks for watching and I’ll see you then.
+Merci d'avoir regardé et je vous verrai alors.
+
+Crash Course Engineering is produced in association
+with PBS Digital Studios.
+Crash Course Engineering est produit en association
+avec PBS Digital Studios.
+
+You can head over to their channel to check
+out a playlist of their latest amazing shows,
+Vous pouvez vous rendre sur leur chaîne pour
+consulter une liste de lecture de leurs dernières émissions incroyables,
+
+like PBS Space Time, Above the Noise, and
+Physics Girl.
+comme PBS Space Time, Above the Noise et
+Physics Girl.
+
+Crash Course is a Complexly production and
+this episode of was filmed in the Doctor Cheryl C.
+Kinney Studio with the help of these wonderful
+people.
+Crash Course est une production complexe et
+cet épisode a été filmé dans le studio du docteur Cheryl C.
+Kinney avec l'aide de ces
+personnes merveilleuses.
+
+And our amazing graphics team is Thought Cafe.
+Et notre incroyable équipe graphique est Thought Cafe.
+

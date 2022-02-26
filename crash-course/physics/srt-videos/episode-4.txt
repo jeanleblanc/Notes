@@ -1,0 +1,633 @@
+So far, we've spent a lot of time predicting
+movement: where things are, where they're
+Jusqu'à présent, nous avons passé beaucoup de temps à prédire le
+mouvement : où sont les choses, où elles
+
+going, and how quickly they're gonna get there.
+vont et à quelle vitesse elles vont y arriver.
+
+But there's something missing -- something
+that has a lot to do with Harry Styles.
+Mais il manque quelque chose – quelque chose
+qui a beaucoup à voir avec Harry Styles.
+
+And today, we're gonna address that.
+Et aujourd'hui, nous allons aborder cela.
+
+We've been talking about what happens when
+you do things like throw balls up in the air
+Nous avons parlé de ce qui se passe lorsque
+vous faites des choses comme lancer des balles en l'air
+
+or drive a car down a straight road.
+ou conduire une voiture sur une route droite.
+
+That kind of motion is pretty simple, because
+there's only one axis involved.
+Ce type de mouvement est assez simple, car
+il n'y a qu'un seul axe impliqué.
+
+The car's accelerating either forward or backward.
+The ball's moving up or down. There's no messy
+La voiture accélère en avant ou en arrière.
+La balle monte ou descend.  Il n'y a pas de
+
+second dimension to contend with.
+deuxième dimension désordonnée à affronter.
+
+But this is physics. We may simplify calculations
+a lot of the time, but we still want to describe
+Mais c'est de la physique.  Nous pouvons simplifier les
+calculs la plupart du temps, mais nous voulons toujours décrire
+
+the real world as best we can.
+le monde réel du mieux que nous pouvons.
+
+And in real life, when you need more than
+ONE DIRECTION, you turn to vectors.
+Et dans la vraie vie, quand vous avez besoin de plus d'
+UNE DIRECTION, vous vous tournez vers les vecteurs.
+
+[Theme Music]
+[Thème musical]
+
+Let's say we have a pitching machine, like
+you'd use for baseball practice.
+Disons que nous avons une machine à lancer, comme
+vous l'utiliseriez pour l'entraînement au baseball.
+
+We're going to be using it a lot in this episode,
+so we might as well get familiar with how it works.
+Nous allons beaucoup l'utiliser dans cet épisode,
+alors autant nous familiariser avec son fonctionnement.
+
+We can feed the machine a bunch of baseballs
+and have it spit them out at any speed we want,
+Nous pouvons alimenter la machine avec un tas de balles de baseball
+et la faire recracher à la vitesse que nous voulons,
+
+up to 50 m/s. The pitching height is adjustable,
+jusqu'à 50 m/s.  La hauteur de lancer est réglable
+
+and we can rotate it vertically, so the ball
+can be launched at any angle.
+et nous pouvons la faire pivoter verticalement afin que la balle
+puisse être lancée sous n'importe quel angle.
+
+It also has a random setting, where the machine picks the speed, height, or angle of the ball, all on its own.
+Il a également un réglage aléatoire, où la machine sélectionne la vitesse, la hauteur ou l'angle de la balle, tout seul.
+
+Suddenly we have WAY more options than just
+throwing a ball straight up in the air.
+Soudain, nous avons BEAUCOUP plus d'options que de simplement
+lancer une balle en l'air.
+
+And now the ball can have both horizontal
+AND vertical qualities. At the same time.
+Et maintenant, la balle peut avoir à la fois
+des qualités horizontales ET verticales.  En même temps. 
+
+Before - we were able to use the constant
+acceleration equations to describe vertical
+Avant - nous pouvions utiliser les
+équations d'accélération constante pour décrire le
+
+or horizontal motion -- but we never used
+it for both at once.
+mouvement vertical ou horizontal - mais nous ne l'avons jamais
+utilisé pour les deux à la fois.
+
+And, we're not going to do that today either.
+Et, nous n'allons pas le faire aujourd'hui non plus.
+
+Instead, we're going to split the ball's motion
+into two parts -- we'll talk about what's
+Au lieu de cela, nous allons diviser le mouvement de la balle
+en deux parties - nous parlerons de ce qui se
+
+happening horizontally and vertically, but
+completely separately.
+passe horizontalement et verticalement, mais
+complètement séparément.
+
+And we'll do that with the help of vectors.
+Et nous le ferons à l'aide de vecteurs.
+
+Vectors are kind-of-like ordinary numbers
+-- which are also known as scalars -- because
+Les vecteurs sont un peu comme des nombres ordinaires
+- également appelés scalaires - car
+
+they have a magnitude, which tells you how
+big they are.
+ils ont une magnitude qui vous indique leur
+taille.
+
+But they have another characteristic, too:
+direction.
+Mais ils ont aussi une autre caractéristique : la
+direction.
+
+Previously, we might have said that a ball’s
+velocity was 5 meters per second, and -- assuming
+Auparavant, nous aurions pu dire que la
+vitesse d'une balle était de 5 mètres par seconde, et -- en supposant que
+
+we’d picked DOWNWARD to be the positive
+direction -- we’d know that the ball was
+nous avions choisi DOWNWARD comme
+direction positive -- nous saurions que la balle
+
+falling down, since its VELOCITY was positive.
+tombait, puisque sa VITESSE était positive.
+
+In other words, we were taking DIRECTION
+into account, but we could only describe that
+En d'autres termes, nous tenions compte de la
+DIRECTION, mais nous ne pouvions décrire cette
+
+direction using a positive or a negative.
+So we were limited to two directions along one axis.
+direction qu'en utilisant un positif ou un négatif.
+Nous étions donc limités à deux directions le long d'un axe.
+
+But vectors change all that. Now - instead
+of just two directions, we can talk about ANY direction.
+Mais les vecteurs changent tout cela.  Maintenant - au lieu
+de seulement deux directions, nous pouvons parler de N'IMPORTE QUELLE direction.
+
+It might help to think of a vector like an
+arrow on a treasure map. You could draw an
+Il peut être utile de penser à un vecteur comme une
+flèche sur une carte au trésor.  Vous pouvez dessiner une
+
+arrow that represents 5 kilometers on the
+map -- that length would be the vector’s MAGNITUDE.
+flèche qui représente 5 kilomètres sur la
+carte - cette longueur serait la MAGNITUDE du vecteur.
+
+But you need to point it in a particular direction
+to tell people where to find the treasure.
+Mais vous devez le pointer dans une direction particulière
+pour dire aux gens où trouver le trésor.
+
+Which is actually pretty much, how physicists
+GRAPH vectors. You take your two usual axes,
+Ce qui est en fait à peu près la façon dont les physiciens
+GRAPHIQUEnt les vecteurs.  Vous prenez vos deux axes habituels,
+
+aim in the vector’s direction, and then
+draw an arrow, as long as its magnitude.
+visez dans la direction du vecteur, puis
+dessinez une flèche, aussi longue que sa magnitude.
+
+Like, say your pitching machine launches a
+ball at a 30 degree angle from the horizontal,
+Par exemple, supposons que votre lanceur lance une
+balle à un angle de 30 degrés par rapport à l'horizontale,
+
+with a starting velocity of 5 meters per second.
+avec une vitesse de départ de 5 mètres par seconde.
+
+We can just draw that as a vector with a magnitude
+of 5 and a direction of 30 degrees.
+Nous pouvons simplement dessiner cela comme un vecteur avec une magnitude
+de 5 et une direction de 30 degrés.
+
+And let’s say your catcher didn’t catch
+the ball properly and dropped it.
+Et disons que votre receveur n'a pas attrapé
+la balle correctement et l'a laissé tomber.
+
+Then just before it hits the ground, its velocity
+might’ve had a magnitude of 3 m/s and a
+Ensuite, juste avant qu'il ne touche le sol, sa vitesse
+aurait pu avoir une magnitude de 3 m/s et une
+
+direction of 270 degrees, which we can draw
+like this.
+direction de 270 degrés, que nous pouvons dessiner
+comme ceci.
+
+That’s why vectors are so useful: You can
+describe any direction you want.
+C'est pourquoi les vecteurs sont si utiles :
+vous pouvez décrire la direction de votre choix.
+
+But there’s a problem, one you might have
+already noticed: You can’t just add or multiply
+Mais il y a un problème, que vous avez peut-être
+déjà remarqué : vous ne pouvez pas simplement additionner ou multiplier
+
+these vectors the same way you would ordinary
+numbers, because they AREN'T ordinary numbers.
+ces vecteurs de la même manière que vous le feriez avec des
+nombres ordinaires, car ils NE SONT PAS des nombres ordinaires.
+
+To do that, we have to describe vectors differently.
+Pour ce faire, nous devons décrire les vecteurs différemment.
+
+When you draw a vector, it’s a lot like
+the HYPOTENUSE of a right angle triangle.
+Lorsque vous dessinez un vecteur, cela ressemble beaucoup à
+l'HYPOTÉNUSE d'un triangle rectangle.
+
+The vector’s magnitude tells you the length
+of that hypotenuse, and you can use its ANGLE
+La magnitude du vecteur vous indique la longueur
+de cette hypoténuse, et vous pouvez utiliser son ANGLE
+
+to draw the rest of the triangle.
+pour dessiner le reste du triangle.
+
+Right angle triangles are cool like that: you only
+need to know a couple of things about one,
+Les triangles à angle droit sont cool comme ça : vous
+n'avez besoin de connaître que quelques choses sur un,
+
+like the length of a side and the degrees
+in an angle, to draw the rest of it.
+comme la longueur d'un côté et les degrés
+d'un angle, pour dessiner le reste.
+
+It’s all just trigonometry, connecting sides
+and angles through sines and cosines.
+Tout n'est que trigonométrie, reliant les côtés
+et les angles par des sinus et des cosinus.
+
+Which is why you can also describe a vector
+just by writing the lengths of those two other sides.
+C'est pourquoi vous pouvez également décrire un vecteur
+simplement en écrivant les longueurs de ces deux autres côtés.
+
+In fact, those sides are so good at describing
+a vector that physicists call them its components.
+En fait, ces côtés sont si bons pour décrire
+un vecteur que les physiciens les appellent ses composants.
+
+So let’s go back to our pitching machine
+example for a minute. We said that the VECTOR
+Revenons donc à notre exemple de machine à lancer
+pendant une minute.  Nous avons dit que le VECTEUR
+
+for the ball’s starting velocity had a magnitude
+of 5 and a direction of 30 degrees above the horizontal.
+de la vitesse de départ de la balle avait une magnitude
+de 5 et une direction de 30 degrés au-dessus de l'horizontale.
+
+We can draw that out like this.
+That’s all we need to do the trig.
+On peut dessiner ça comme ça.
+C'est tout ce dont nous avons besoin pour faire le trig.
+
+The length of that horizontal side, or component,
+must be 5cos30, which is 4.33.
+La longueur de ce côté horizontal, ou composant,
+doit être de 5cos30, soit 4,33.
+
+The same math works for the vertical side,
+just with sine instead of cosine -- so we
+Le même calcul fonctionne pour le côté vertical,
+juste avec le sinus au lieu du cosinus - nous
+
+know that the length of the vertical side
+is just 5sin30, which works out to be 2.5.
+savons donc que la longueur du côté vertical
+n'est que de 5sin30, ce qui équivaut à 2,5.
+
+So our vector has a horizontal component of
+4.33 and a vertical component of 2.5.
+Notre vecteur a donc une composante horizontale de
+4,33 et une composante verticale de 2,5.
+
+In what’s known as unit vector notation,
+we’d describe this vector as v = 4.33i + 2.5j.
+Dans ce qu'on appelle la notation vectorielle unitaire,
+nous décrirons ce vecteur comme v = 4,33i + 2,5j.
+
+The arrow on top of the v tells you it’s
+a vector, and the little hats on top of the
+La flèche au-dessus du v vous indique qu'il s'agit d'
+un vecteur, et les petits chapeaux au-dessus du
+
+i and j, tell you that they’re the UNIT
+vectors, and they denote the DIRECTION for each vector.
+i et du j, vous indiquent qu'ils sont les
+vecteurs UNIT, et ils indiquent la DIRECTION pour chaque vecteur.
+
+i just means it’s the direction of what we’d
+normally call the x axis, and j is the y axis.
+i signifie simplement que c'est la direction de ce que nous
+appellerions normalement l'axe x, et j est l'axe y.
+
+You’ll sometimes see another
+one, k, which represents the z axis.
+Vous en verrez parfois un
+autre, k, qui représente l'axe z.
+
+And if we wanted to add or subtract two vectors,
+that’s easy enough -- we just separate them
+Et si nous voulions ajouter ou soustraire deux vecteurs,
+c'est assez simple - nous les séparons simplement
+
+each into their component parts and add or
+subtract each component separately.
+chacun dans leurs composants et ajoutons ou
+soustrayons chaque composant séparément.
+
+So 2i + 3j added to 5i + 6j would just be 7i + 9j.
+And -2i + 3j added to 5i - 6j would be 3i -3j.
+Donc 2i + 3j ajouté à 5i + 6j serait juste 7i + 9j.
+Et -2i + 3j ajouté à 5i - 6j donnerait 3i -3j.
+
+Multiplying by a scalar isn’t a big deal
+either -- you just multiply the number by
+Multiplier par un scalaire n'est pas un gros problème
+non plus - vous multipliez simplement le nombre par
+
+each component, so 2i + 3j times 3 would be
+6i + 9j.
+chaque composant, donc 2i + 3j fois 3 serait
+6i + 9j.
+
+The unit vector notation itself, actually
+takes advantage of this kind of multiplication
+La notation des vecteurs unitaires elle-même
+tire parti de ce type de multiplication
+
+i, j, and k are called unit vectors because
+they’re vectors that are exactly one unit
+i, j et k sont appelés vecteurs unitaires car
+ce sont des vecteurs qui font exactement une unité de
+
+long, each pointing in the direction of a
+different axis.
+long, chacun pointant dans la direction d'un
+axe différent.
+
+So when you write 2i, for example, you’re just saying: take the unit vector i and make it twice as long.
+Ainsi, lorsque vous écrivez 2i, par exemple, vous dites simplement : prenez le vecteur unitaire i et faites-le deux fois plus long.
+
+But it’s NOT the same as multiplying a vector
+by another vector -- that’s a topic for another episode.
+Mais ce n'est PAS la même chose que de multiplier un vecteur
+par un autre vecteur - c'est un sujet pour un autre épisode.
+
+So now we know that a vector has two parts:
+a magnitude and a direction, and that it often
+Nous savons donc maintenant qu'un vecteur a deux parties :
+une amplitude et une direction, et qu'il est souvent
+
+helps to describe it in terms of its components.
+utile de le décrire en termes de ses composants.
+
+And when you separate a vector into its components,
+they really are completely separate.
+Et lorsque vous séparez un vecteur en ses composants,
+ils sont vraiment complètement séparés.
+
+In other words, changing a horizontal vector
+won’t affect its vertical component, and vice versa.
+En d'autres termes, la modification d'un vecteur horizontal
+n'affectera pas sa composante verticale, et vice versa.
+
+And we can test this idea pretty easily.
+Et nous pouvons tester cette idée assez facilement.
+
+Let’s say you have two baseballs, and you let go
+of them at the same time from the same height.
+Disons que vous avez deux balles de baseball et que vous les
+lâchez en même temps à la même hauteur.
+
+But you toss Ball A in such a way that it
+ends up with some starting vertical velocity.
+Mais vous lancez la balle A de telle manière qu'elle
+se retrouve avec une vitesse verticale de départ.
+
+With Ball B, it's just dropped.
+Avec Ball B, c'est juste tombé.
+
+In this case, Ball A will hit the ground first
+because you gave it a head start.
+Dans ce cas, la balle A touchera le sol en premier
+parce que vous lui avez donné une longueur d'avance.
+
+Now, what happens if you repeat the experiment,
+but this time you give Ball A some HORIZONTAL
+Maintenant, que se passe-t-il si vous répétez l'expérience,
+mais cette fois vous donnez à la balle A une
+
+velocity and just drop Ball B straight down?
+Which ball hits the ground first?
+vitesse HORIZONTALE et laissez simplement tomber la balle B vers le bas ?
+Quelle balle touche le sol en premier ?
+
+It’s kind of a trick question, because they
+actually land at the same time.
+C'est une sorte de question piège, car
+ils atterrissent en fait en même temps.
+
+It doesn’t matter how much starting horizontal velocity you give Ball A -- it doesn’t reach the
+Peu importe la vitesse horizontale de départ que vous donnez à la balle A - elle n'atteint pas le
+
+ground any more quickly, because its horizontal motion vector has nothing to do with its vertical motion.
+sol plus rapidement, car son vecteur de mouvement horizontal n'a rien à voir avec son mouvement vertical.
+
+With this in mind, let’s go back to our
+pitching machine, which we’ll set up so
+Dans cet esprit, revenons à notre
+lance-balles, que nous allons configurer pour
+
+it’s pitching balls horizontally, exactly
+a meter above the ground.
+qu'il lance les balles horizontalement, exactement à
+un mètre au-dessus du sol.
+
+Then, we get out of the way and launch a ball,
+assuming that “up” and “right” each are positive.
+Ensuite, nous nous écartons du chemin et lançons une balle, en
+supposant que "haut" et "droit" sont positifs.
+
+How do we figure out how long it takes to hit the ground?
+Comment savoir combien de temps il faut pour toucher le sol ?
+
+That’s easy enough -- we just completely
+ignore the horizontal component and use the
+C'est assez simple - nous
+ignorons complètement la composante horizontale et utilisons les
+
+kinetic equations the same way we’ve been
+using them.
+équations cinétiques de la même manière que nous les avons
+utilisées.
+
+In this case, the one we want is what we’ve been calling the displacement curve equation -- it’s this one.
+Dans ce cas, celle que nous voulons est ce que nous appelons l'équation de la courbe de déplacement - c'est celle-ci.
+
+We just add y subscripts to velocity and acceleration,
+since we’re specifically talking about those
+Nous ajoutons simplement y indices à la vitesse et à l'accélération,
+puisque nous parlons spécifiquement de ces
+
+qualities in the vertical direction.
+qualités dans la direction verticale.
+
+Now we can start plugging in numbers.
+Maintenant, nous pouvons commencer à brancher des chiffres.
+
+The ball’s displacement, on the left side
+of the equation, is just -1 meter.
+Le déplacement de la balle, sur le côté gauche
+de l'équation, n'est que de -1 mètre.
+
+There’s no starting vertical velocity, since
+the machine is pointing sideways.
+Il n'y a pas de vitesse verticale de départ, car
+la machine pointe latéralement.
+
+And the vertical acceleration is
+just the force of gravity.
+Et l'accélération verticale n'est
+que la force de gravité.
+
+Now all we have to do is solve for time, t, and we learn that the ball took 0.452 seconds to hit the ground.
+Maintenant, tout ce que nous avons à faire est de résoudre le temps, t, et nous apprenons que la balle a mis 0,452 secondes pour toucher le sol.
+
+Its horizontal motion didn’t
+affect its vertical motion in any way.
+Son mouvement horizontal
+n'affectait en rien son mouvement vertical.
+
+But sometimes things get a little more complicated
+-- like, what about those pitches we were
+Mais parfois, les choses deviennent un peu plus compliquées
+- comme, qu'en est-il de ces lancers que nous
+
+launching with a starting velocity of 5 meters
+per second, but at an angle of 30 degrees?
+lancions avec une vitesse de départ de 5 mètres
+par seconde, mais à un angle de 30 degrés ?
+
+Well, we can still talk about the ball’s
+vertical and horizontal motion separately.
+Eh bien, nous pouvons toujours parler
+séparément du mouvement vertical et horizontal de la balle.
+
+We just have to separate that velocity vector
+into its components.
+Nous devons juste séparer ce vecteur de vitesse
+en ses composants.
+
+Just like we did earlier, we can use trigonometry
+to get a starting horizontal velocity of 4.33 m/s
+Tout comme nous l'avons fait précédemment, nous pouvons utiliser la trigonométrie
+pour obtenir une vitesse horizontale de départ de 4,33 m/s
+
+and a starting vertical velocity of 2.5
+m/s.
+et une vitesse verticale de départ de 2,5
+m/s.
+
+Now we’re equipped to answer all kinds of
+questions about the ball’s horizontal or vertical motion.
+Nous sommes maintenant équipés pour répondre à toutes sortes de
+questions sur le mouvement horizontal ou vertical de la balle.
+
+Here’s one: how long did it take for the
+ball to reach its highest point?
+En voici une : combien de temps a-t-il fallu à la
+balle pour atteindre son point le plus haut ?
+
+We already know something important
+about this mysterious maximum:
+Nous savons déjà quelque chose d'important à
+propos de ce mystérieux maximum :
+
+At that final point, the ball’s vertical
+velocity had to be zero.
+à ce point final, la vitesse verticale de la balle
+devait être nulle.
+
+That’s because of something we’ve talked
+about before: when you reverse directions,
+C'est à cause de quelque chose dont nous avons déjà
+parlé : lorsque vous inversez les directions,
+
+your velocity has to hit zero, at least for
+that one moment, before you head back the other way.
+votre vitesse doit atteindre zéro, au moins pendant
+ce moment, avant de repartir dans l'autre sens.
+
+So, in this case, we know that the ball’s
+starting vertical velocity was 2.5 m/s.
+Donc, dans ce cas, nous savons que la
+vitesse verticale de départ de la balle était de 2,5 m/s.
+
+And we know that its final vertical velocity,
+at that high point, was 0 m/s.
+Et nous savons que sa vitesse verticale finale,
+à ce point haut, était de 0 m/s.
+
+Finally, we know that its vertical acceleration
+came from the force of gravity --
+Enfin, nous savons que son accélération verticale
+provenait de la force de gravité
+
+so it was -9.81 m/s^2, since up is positive.
+-- elle était donc de -9,81 m/s^2, puisque up est positif.
+
+And we’re looking for time, t.
+Et nous cherchons du temps, t.
+
+Fortunately, you know that there’s a kinematic
+equation that fits this scenario perfectly
+Heureusement, vous savez qu'il existe une
+équation cinématique qui correspond parfaitement à ce scénario
+
+-- the definition of acceleration.
+: la définition de l'accélération.
+
+By plugging in these numbers, we find that it took the ball 0.255 seconds to hit that maximum height.
+En branchant ces chiffres, nous constatons qu'il a fallu 0,255 seconde à la balle pour atteindre cette hauteur maximale.
+
+So, describing motion in more than one dimension
+isn’t really all that different, or complicated.
+Ainsi, décrire le mouvement dans plus d'une dimension
+n'est pas vraiment différent ou compliqué.
+
+You just have to use the power of triangles.
+Il vous suffit d'utiliser la puissance des triangles.
+
+In this episode, you learned about vectors,
+how to resolve them into components,
+Dans cet épisode, vous avez découvert les vecteurs,
+comment les résoudre en composants
+
+and how to add and subtract those components.
+We also talked about how to use the kinematic
+et comment ajouter et soustraire ces composants.
+Nous avons également parlé de la façon d'utiliser les
+
+equations, to describe motion in each dimension
+separately.
+équations cinématiques, pour décrire le mouvement dans chaque dimension
+séparément.
+
+Crash Course Physics is produced in association
+with PBS Digital Studios. You can head over
+Crash Course Physics est produit en association
+avec PBS Digital Studios.  Vous pouvez vous
+
+to their channel to check out amazing shows like The Art Assignment, The Chatterbox, and Blank on Blank.
+rendre sur leur chaîne pour découvrir des émissions incroyables comme The Art Assignment, The Chatterbox et Blank on Blank.
+
+This episode of Crash Course was filmed in
+the Doctor Cheryl C. Kinney Crash Course Studio,
+Cet épisode de Crash Course a été filmé dans
+le studio Doctor Cheryl C. Kinney Crash Course,
+
+with the help of these amazing people and
+our Graphics Team is Thought Cafe.
+avec l'aide de ces personnes incroyables et de
+notre équipe graphique, Thought Cafe.
+

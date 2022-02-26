@@ -1,0 +1,375 @@
+You've probably seen it on TV a bunch of times.
+Vous l'avez probablement vu à la télévision un tas de fois.
+
+A person collapses in a hospital, and a doctor rushes over with a couple of paddles, puts them on the patient’s chest and then shouts "Clear!"
+Une personne s'effondre dans un hôpital, et un médecin se précipite avec quelques pagaies, les pose sur la poitrine du patient puis crie "Clear!"
+
+After a jolt, the patient is saved.
+Après une secousse, le patient est sauvé.
+
+That life-saving technology is real.
+Cette technologie qui sauve des vies est réelle.
+
+And it works because of two main electrical principles: electric potential energy and capacitance.
+Et cela fonctionne grâce à deux grands principes électriques : l'énergie potentielle électrique et la capacité.
+
+Those paddles are parts of a defibrillator,
+which is basically just a really big capacitor.
+Ces palettes font partie d'un défibrillateur,
+qui n'est en fait qu'un très gros condensateur.
+
+It uses electric charge to store energy, which
+is then discharged into the patient’s body.
+Il utilise une charge électrique pour stocker de l'énergie, qui
+est ensuite déchargée dans le corps du patient.
+
+The current stops the irregular contractions of the cardiac muscle, and gives the heart a chance to start beating normally.
+Le courant arrête les contractions irrégulières du muscle cardiaque et donne au cœur une chance de commencer à battre normalement.
+
+Get ready, because this lesson has the potential
+to save lives!
+Préparez-vous, car cette leçon a le potentiel
+de sauver des vies !
+
+[Theme Music]
+[Thème musical]
+
+To understand how a capacitor can save someone’s life, let’s review what capacitors are, and how they work.
+Pour comprendre comment un condensateur peut sauver la vie de quelqu'un, examinons ce que sont les condensateurs et comment ils fonctionnent.
+
+A capacitor consists of two parallel conductive plates of opposite charge, with an electric field between them.
+Un condensateur est constitué de deux plaques conductrices parallèles de charges opposées, avec un champ électrique entre elles.
+
+This set-up allows a capacitor to store energy
+as electric potential energy.
+Cette configuration permet à un condensateur de stocker de l'énergie
+sous forme d'énergie potentielle électrique.
+
+In the same way that an object has ‘gravitational’ potential energy when you hold it above the ground,
+De la même manière qu'un objet a une énergie potentielle "gravitationnelle" lorsque vous le tenez au-dessus du sol,
+
+a charged object can have ‘electric’ potential energy when it’s held in an electric field.
+un objet chargé peut avoir une énergie potentielle "électrique" lorsqu'il est maintenu dans un champ électrique.
+
+And in either case, potential energy can be used to perform work – when a force is applied over a distance.
+Et dans les deux cas, l'énergie potentielle peut être utilisée pour effectuer un travail - lorsqu'une force est appliquée sur une distance.
+
+But how can you determine how much electric potential energy a system has, and how much work it can do?
+Mais comment pouvez-vous déterminer la quantité d'énergie électrique potentielle d'un système et la quantité de travail qu'il peut effectuer ?
+
+Like, in the case of a defibrillator, you just want enough potential energy to stop an irregular heartbeat, but not so much that it causes harm.
+Par exemple, dans le cas d'un défibrillateur, vous voulez juste assez d'énergie potentielle pour arrêter un rythme cardiaque irrégulier, mais pas au point de causer des dommages.
+
+To measure potential energy in an electric field, let’s imagine a positive test charge that’s moving between a capacitor’s plates.
+Pour mesurer l'énergie potentielle dans un champ électrique, imaginons une charge de test positive qui se déplace entre les plaques d'un condensateur.
+
+When we place the positive charge between the plates, the uniform electric field generates a constant force on it, in the direction of the negative plate.
+Lorsque nous plaçons la charge positive entre les plaques, le champ électrique uniforme génère une force constante sur celle-ci, en direction de la plaque négative.
+
+If the test charge starts on the positive plate and travels in the direction of the electric force, we can calculate the work done on it, by multiplying the electric force by the distance between the plates.
+Si la charge d'essai commence sur la plaque positive et se déplace dans la direction de la force électrique, nous pouvons calculer le travail effectué sur celle-ci en multipliant la force électrique par la distance entre les plaques.
+
+We also know that this force is equal to the
+value of the test charge times the electric field.
+Nous savons également que cette force est égale à la
+valeur de la charge d'essai multipliée par le champ électrique.
+
+We can apply an equal and opposite force to the charged particle and move it across the capacitor as slowly as we like, so that the kinetic energy of the particle is negligible.
+Nous pouvons appliquer une force égale et opposée à la particule chargée et la déplacer à travers le condensateur aussi lentement que nous le souhaitons, de sorte que l'énergie cinétique de la particule soit négligeable.
+
+And because of what we know about the work-energy theorem and the law of conservation of energy,
+Et grâce à ce que nous savons du théorème de l'énergie de travail et de la loi de conservation de l'énergie,
+
+we know that a change of potential energy is equal to the work done by the external force, or the negative work done by the electric force.
+nous savons qu'un changement d'énergie potentielle est égal au travail effectué par la force externe, ou au travail négatif effectué par la force électrique.
+
+So, we’ve found the potential energy decrease of a single point charge in a uniform electric field.
+Nous avons donc trouvé la diminution de l'énergie potentielle d'une charge ponctuelle unique dans un champ électrique uniforme.
+
+And this drop in potential energy, divided by the test charge's magnitude, gives us the electric potential energy difference per unit charge, also known as the electric potential.
+Et cette baisse d'énergie potentielle, divisée par l'amplitude de la charge d'essai, nous donne la différence d'énergie potentielle électrique par unité de charge, également appelée potentiel électrique.
+
+The electric potential depends on the electric field and the position, but it does not depend on the charge of the test charge.
+Le potentiel électrique dépend du champ électrique et de la position, mais il ne dépend pas de la charge de la charge de test.
+
+Now, the units of electric potential are Joules
+over Coulombs, more commonly known as Volts.
+Désormais, les unités de potentiel électrique sont les joules
+sur les coulombs, plus communément appelés volts.
+
+And the electric potential difference is also called voltage, which is another way of describing a drop in electric potential.
+Et la différence de potentiel électrique est également appelée tension, ce qui est une autre façon de décrire une chute de potentiel électrique.
+
+When we express it mathematically, voltage is equal to the negative electric field times the distance between the capacitor plates.
+Lorsque nous l'exprimons mathématiquement, la tension est égale au champ électrique négatif multiplié par la distance entre les plaques du condensateur.
+
+OK, we’ve used our hypothetical positive test charge to describe how much voltage is present across the charged capacitor.
+OK, nous avons utilisé notre charge de test positive hypothétique pour décrire la tension présente sur le condensateur chargé.
+
+Now let’s put our new expressions to the test and find the electric potential difference in a real scenario.
+Mettons maintenant nos nouvelles expressions à l'épreuve et trouvons la différence de potentiel électrique dans un scénario réel.
+
+Let’s say we have a capacitor with plates one millimeter apart and an electric field of 1000 Newtons per Coulomb – which is the same as 1000 Volts per meter.
+Disons que nous avons un condensateur avec des plaques distantes d'un millimètre et un champ électrique de 1000 Newtons par Coulomb - ce qui équivaut à 1000 Volts par mètre.
+
+The electric field can be found by dividing force by charge, or, for that matter, Newtons over Coulombs, as well as Voltage over distance, or Volts per meter.
+Le champ électrique peut être trouvé en divisant la force par la charge, ou, d'ailleurs, les newtons sur les coulombs, ainsi que la tension sur la distance, ou les volts par mètre.
+
+They all represent the same value.
+Ils représentent tous la même valeur.
+
+So, say we multiply 1000 volts per meter by
+1mm.
+Donc, disons que nous multiplions 1000 volts par mètre par
+1 mm.
+
+We find that the capacitor has a voltage of one volt.
+Nous constatons que le condensateur a une tension d'un volt.
+
+Now, since a capacitor creates a uniform electric field, we can assume the electric force is constant, and that it acts in the direction in which the test charge moves.
+Maintenant, puisqu'un condensateur crée un champ électrique uniforme, nous pouvons supposer que la force électrique est constante et qu'elle agit dans la direction dans laquelle la charge de test se déplace.
+
+And as it moves, the potential will decrease
+more and more.
+Et au fur et à mesure de son déplacement, le potentiel diminuera de
+plus en plus.
+
+We can represent this voltage drop visually, by drawing lines along the locations where all the test charges have the same voltage.
+Nous pouvons représenter visuellement cette chute de tension en traçant des lignes le long des emplacements où toutes les charges de test ont la même tension.
+
+These are known as equipotential lines.
+Celles-ci sont appelées lignes équipotentielles.
+
+In a capacitor, these lines run parallel to the plates, and each line that’s closer to the negative plate has a lower electric potential, or a lower voltage.
+Dans un condensateur, ces lignes sont parallèles aux plaques, et chaque ligne la plus proche de la plaque négative a un potentiel électrique inférieur ou une tension inférieure.
+
+And these equipotential lines are always perpendicular
+to the electric field.
+Et ces lignes équipotentielles sont toujours perpendiculaires
+au champ électrique.
+
+So far, we’ve learned how to calculate electric potential for capacitors – but can we apply the same ideas to point charges?
+Jusqu'à présent, nous avons appris à calculer le potentiel électrique des condensateurs - mais pouvons-nous appliquer les mêmes idées aux charges ponctuelles ?
+
+Well, we know the equation for the electric
+field generated by a point charge.
+Eh bien, nous connaissons l'équation du champ électrique
+généré par une charge ponctuelle.
+
+But since there’s no uniform field, like there would be with a capacitor, we can’t use all of the equations that we’ve been using so far.
+Mais comme il n'y a pas de champ uniforme, comme il y en aurait avec un condensateur, nous ne pouvons pas utiliser toutes les équations que nous avons utilisées jusqu'à présent.
+
+Finding the electric potential created by a point charge is like finding the difference in potential energy per unit charge, between the spot right next to the point charge and somewhere infinitely far away.
+Trouver le potentiel électrique créé par une charge ponctuelle revient à trouver la différence d'énergie potentielle par unité de charge, entre le point juste à côté de la charge ponctuelle et quelque part infiniment loin.
+
+If a small charged object with the same sign was next to our point charge Q, it would start with a high electric potential while it was close by, and have a very low electric potential as it got farther away.
+Si un petit objet chargé avec le même signe se trouvait à côté de notre charge ponctuelle Q, il commencerait avec un potentiel électrique élevé alors qu'il était à proximité, et aurait un potentiel électrique très faible à mesure qu'il s'éloignerait.
+
+So we can calculate the total electric potential possible, by integrating the negative electric field from to infinity to zero.
+On peut donc calculer le potentiel électrique total possible, en intégrant le champ électrique négatif de l'infini jusqu'à zéro.
+
+We’re left with an equation that describes the electric potential generated by any point charge.
+Il nous reste une équation qui décrit le potentiel électrique généré par toute charge ponctuelle.
+
+And we can map equipotential lines for point
+charges in the same way we did for the capacitor.
+Et nous pouvons cartographier les lignes équipotentielles pour les
+charges ponctuelles de la même manière que nous l'avons fait pour le condensateur.
+
+For a point charge, the equipotential lines look like circles of increasing size around the charged particle.
+Pour une charge ponctuelle, les lignes équipotentielles ressemblent à des cercles de taille croissante autour de la particule chargée.
+
+The farther away from the point charge, the
+lower the voltage.
+Plus on s'éloigne du point de charge,
+plus la tension est faible.
+
+And for an electric dipole – which is one positive point charge and one negative point charge – the electric potentials from individual charges can be added together.
+Et pour un dipôle électrique - qui est une charge ponctuelle positive et une charge ponctuelle négative - les potentiels électriques des charges individuelles peuvent être additionnés.
+
+Here, you’ll see that each equipotential line is not a constant distance from a point charge.
+Ici, vous verrez que chaque ligne équipotentielle n'est pas à une distance constante d'une charge ponctuelle.
+
+That’s because you’ve got two point charges
+with their own electric fields.
+C'est parce que vous avez deux charges ponctuelles
+avec leurs propres champs électriques.
+
+So a test charge on the right side of the positive point charge won’t have the same potential as one the same distance away on the opposite side.
+Ainsi, une charge de test sur le côté droit de la charge ponctuelle positive n'aura pas le même potentiel qu'une charge à la même distance du côté opposé.
+
+Now let’s go back to potential energy in
+capacitors.
+Revenons maintenant à l'énergie potentielle dans les
+condensateurs.
+
+Because it’s largely why capacitors are so incredibly useful – from defibrillators to electronic components:
+Parce que c'est en grande partie pourquoi les condensateurs sont si incroyablement utiles - des défibrillateurs aux composants électroniques :
+
+When a capacitor’s plates store electric
+charge, they’re actually storing energy!
+lorsque les plaques d'un condensateur stockent une
+charge électrique, elles stockent en fait de l'énergie !
+
+If you connect a battery to a basic circuit that contains only a capacitor, the battery causes charge to move from one plate to the other, through the conductive wire.
+Si vous connectez une batterie à un circuit de base qui ne contient qu'un condensateur, la batterie fait passer la charge d'une plaque à l'autre, à travers le fil conducteur.
+
+This results in one positively charged plate
+and one negatively charged plate.
+Il en résulte une plaque chargée positivement
+et une plaque chargée négativement.
+
+But the capacitor hasn’t gained any net charge – there’s just as much positive charge on the positive plate as there is negative charge on the negative one.
+Mais le condensateur n'a pas gagné de charge nette - il y a autant de charge positive sur la plaque positive que de charge négative sur la plaque négative.
+
+So, the battery uses its own electric potential to generate a current that transfers voltage in the battery to voltage in the capacitor, giving the capacitor a certain amount of potential energy.
+Ainsi, la batterie utilise son propre potentiel électrique pour générer un courant qui transfère la tension de la batterie à la tension du condensateur, donnant au condensateur une certaine quantité d'énergie potentielle.
+
+For our defibrillator, this energy is quickly turned from potential energy into a jolt of electricity through the human body.
+Pour notre défibrillateur, cette énergie est rapidement transformée d'énergie potentielle en une secousse électrique à travers le corps humain.
+
+Now if you’re trying to save a life, you want to make sure you’re getting just the right amount of energy out of the capacitor.
+Maintenant, si vous essayez de sauver une vie, vous voulez vous assurer que vous obtenez juste la bonne quantité d'énergie du condensateur.
+
+So to measure how much charge a capacitor can store, we can use a battery in our circuit to create a voltage between the plates, and then divide the charge in each plate by that voltage.
+Donc, pour mesurer la charge qu'un condensateur peut stocker, nous pouvons utiliser une batterie dans notre circuit pour créer une tension entre les plaques, puis diviser la charge de chaque plaque par cette tension.
+
+This value is known as capacitance – how
+much charge a capacitor is able to hold.
+Cette valeur est connue sous le nom de capacité - la
+quantité de charge qu'un condensateur est capable de supporter.
+
+Capacitance uses units of Farads, with one
+Farad equal to one Coulomb per Volt.
+La capacité utilise des unités de Farads, avec un
+Farad égal à un Coulomb par Volt.
+
+Typically, capacitance values are very small, so we often talk about capacitors in terms of microFarads or nanoFarads.
+En règle générale, les valeurs de capacité sont très petites, nous parlons donc souvent de condensateurs en termes de microFarads ou de nanoFarads.
+
+And capacitance is actually determined by
+the size and shape of a capacitor.
+Et la capacité est en fait déterminée par
+la taille et la forme d'un condensateur.
+
+One way to express capacitance is to divide the area of each plate by the distance between them, and multiply that by a constant – known as the permittivity of free space – denoted by epsilon naught.
+Une façon d'exprimer la capacité consiste à diviser la surface de chaque plaque par la distance qui les sépare et à la multiplier par une constante - connue sous le nom de permittivité de l'espace libre - notée epsilon zéro.
+
+Make the plates larger, or move them closer together, then there’s room to fit more charge, creating a stronger electric field.
+Agrandissez les plaques ou rapprochez-les, puis il y a de la place pour plus de charge, créant un champ électrique plus fort.
+
+And once you’ve established the geometry
+of the plates, the capacitance does not change
+Et une fois que vous avez établi la géométrie
+des plaques, la capacité ne change pas
+
+– unless you stick something between them,
+which actually increases the capacitance.
+- à moins que vous ne colliez quelque chose entre elles,
+ce qui augmente en fait la capacité.
+
+And this something is called a dielectric – typically an insulating material like plastic or glass.
+Et ce quelque chose s'appelle un diélectrique - généralement un matériau isolant comme le plastique ou le verre.
+
+A dielectric is used to increase capacitance while preventing any charge from jumping from plate to plate.
+Un diélectrique est utilisé pour augmenter la capacité tout en empêchant toute charge de sauter d'une plaque à l'autre.
+
+Sometimes, as the plates get hotter or the voltage gets higher, some electrons naturally jump between the plates, decreasing the amount of stored charge.
+Parfois, lorsque les plaques deviennent plus chaudes ou que la tension augmente, certains électrons sautent naturellement entre les plaques, diminuant la quantité de charge stockée.
+
+So an insulator prevents electrons from crossing
+the gap.
+Ainsi, un isolant empêche les électrons de traverser
+l'espace.
+
+And you usually want the plates to be as close together as possible without touching, since a smaller distance equals a larger capacitance.
+Et vous voulez généralement que les plaques soient aussi proches que possible sans se toucher, car une distance plus petite équivaut à une capacité plus grande.
+
+So, by using a very thin dielectric, the distance
+is decreased while the plates remain separate.
+Ainsi, en utilisant un diélectrique très fin, la distance
+est diminuée tandis que les plaques restent séparées.
+
+And the molecules that make up dielectrics are polar, which means one side of the molecule is slightly positive while the other side is slightly negative.
+Et les molécules qui composent les diélectriques sont polaires, ce qui signifie qu'un côté de la molécule est légèrement positif tandis que l'autre côté est légèrement négatif.
+
+The molecules align themselves with the electric field and generate their own field in the opposite direction, resulting in an overall weaker electric field, while the plates retain the same amount of charge.
+Les molécules s'alignent avec le champ électrique et génèrent leur propre champ dans la direction opposée, ce qui entraîne un champ électrique global plus faible, tandis que les plaques conservent la même quantité de charge.
+
+So by inserting an insulating material into our capacitor, we’ve increased capacitance and can hold more charge, and thus energy, for the same amount of voltage.
+Ainsi, en insérant un matériau isolant dans notre condensateur, nous avons augmenté la capacité et pouvons contenir plus de charge, et donc d'énergie, pour la même quantité de tension.
+
+And that’s why the full equation for capacitance
+includes a dielectric constant, K.
+Et c'est pourquoi l'équation complète de la capacité
+comprend une constante diélectrique, K.
+
+So dielectrics can help capacitors hold even
+more energy.
+Ainsi, les diélectriques peuvent aider les condensateurs à conserver encore
+plus d'énergie.
+
+And that potential energy is actually stored within the electric field between a capacitor’s charged plates.
+Et cette énergie potentielle est en fait stockée dans le champ électrique entre les plaques chargées d'un condensateur.
+
+We can calculate the potential energy stored in this field by integrating the voltage over the charge in the plates, which reduces down to one half charge time voltage.
+Nous pouvons calculer l'énergie potentielle stockée dans ce champ en intégrant la tension sur la charge dans les plaques, ce qui réduit à une demi-tension de temps de charge.
+
+But when using a capacitor, it’s useful to know how much energy is stored in an electric field per unit volume.
+Mais lors de l'utilisation d'un condensateur, il est utile de savoir combien d'énergie est stockée dans un champ électrique par unité de volume.
+
+We often want to know how much energy is in a certain location, like between capacitor plates, so we use energy density, or the amount of energy stored in the electric field per unit volume.
+Nous voulons souvent savoir combien d'énergie se trouve à un certain endroit, comme entre les plaques de condensateur, nous utilisons donc la densité d'énergie, ou la quantité d'énergie stockée dans le champ électrique par unité de volume.
+
+And we can calculate the energy density associated with an electric field – at any point in space – by dividing the potential energy by the volume between the plates.
+Et nous pouvons calculer la densité d'énergie associée à un champ électrique - en tout point de l'espace - en divisant l'énergie potentielle par le volume entre les plaques.
+
+With some algebra, we find that this boils down to one half epsilon naught times the electric field squared.
+Avec un peu d'algèbre, nous constatons que cela se résume à un demi epsilon zéro fois le champ électrique au carré.
+
+And this relation holds true for any space
+with an electric field.
+Et cette relation est vraie pour tout espace
+avec un champ électrique.
+
+Now that we know all this, a medic can make sure those defibrillator paddles have the right capacitance, have been given enough charge to create a high voltage, and then CLEAR!
+Maintenant que nous savons tout cela, un médecin peut s'assurer que ces palettes de défibrillateur ont la bonne capacité, qu'elles ont été suffisamment chargées pour créer une haute tension, puis CLEAR !
+
+Physics to the rescue.
+La physique à la rescousse.
+
+Today we learned a lot!
+Aujourd'hui, nous avons beaucoup appris!
+
+We talked about electric potential energy and how it differs from electric potential, or voltage.
+Nous avons parlé de l'énergie potentielle électrique et de la façon dont elle diffère du potentiel électrique ou de la tension.
+
+We discussed how capacitors function and the factors that determine how much charge they hold.
+Nous avons discuté du fonctionnement des condensateurs et des facteurs qui déterminent la charge qu'ils contiennent.
+
+We also learned how to maximize energy storage and how to calculate the potential energy held by any capacitor.
+Nous avons également appris comment maximiser le stockage d'énergie et comment calculer l'énergie potentielle détenue par n'importe quel condensateur.
+
+Crash Course Physics is produced in association
+with PBS Digital Studios.
+Crash Course Physics est produit en association
+avec PBS Digital Studios.
+
+You can head over to their channel out a playlist
+of the latest episode from shows like:
+Vous pouvez vous diriger vers leur chaîne pour une liste
+de lecture du dernier épisode d'émissions telles que :
+
+First Person, PBS OffBook, and PBS Game/Show.
+First Person, PBS OffBook et PBS Game/Show.
+
+This episode of Crash Course was filmed in
+the Doctor Cheryl C. Kinney Crash Course Studio
+Cet épisode de Crash Course a été filmé dans
+le studio Doctor Cheryl C. Kinney Crash Course
+
+with the help of these amazing people and
+our equally amazing graphics team, is Thought Cafe.
+avec l'aide de ces personnes incroyables et de
+notre équipe graphique tout aussi incroyable, Thought Cafe.
+

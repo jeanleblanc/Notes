@@ -1,0 +1,405 @@
+Here we have an ordinary piece of rope.
+Ici, nous avons un morceau de corde ordinaire.
+
+It’s not one of those magician’s ropes that can mysteriously put itself back together once it's been cut it in half.
+Ce n'est pas une de ces cordes de magicien qui peut mystérieusement se remettre en place une fois coupée en deux.
+
+And it’s not particularly strong or durable.
+Et ce n'est pas particulièrement solide ou durable.
+
+But you might say that it does have special powers, because it’ll demonstrate for us the physics of traveling waves.
+Mais vous pourriez dire qu'il a des pouvoirs spéciaux, car il va nous démontrer la physique des ondes progressives.
+
+Ropes and strings are really good for this kind of thing,
+Les cordes et les cordes sont vraiment bonnes pour ce genre de choses,
+
+because when you move them back and forth the movement of your hand travels through the rope as a wave.
+car lorsque vous les déplacez d'avant en arrière, le mouvement de votre main se déplace à travers la corde comme une vague.
+
+By observing what happens to this rope when we try different things with it, we’ll be able to see how waves behave.
+En observant ce qui arrive à cette corde lorsque nous essayons différentes choses avec elle, nous pourrons voir comment les vagues se comportent.
+
+Including, how those waves sometimes disappear
+completely.
+Y compris, comment ces ondes disparaissent parfois
+complètement.
+
+How’s that for a magic trick?
+Comment est-ce pour un tour de magie?
+
+[Theme Music]
+[Thème musical]
+
+This is a typical wave.
+C'est une vague typique.
+
+And waves form whenever there’s a disturbance
+of some kind.
+Et des vagues se forment chaque fois qu'il y a une
+perturbation quelconque.
+
+Often, when something about the physical world changes, the information about that disturbance
+Souvent, lorsque quelque chose dans le monde physique change, les informations sur cette perturbation
+
+gradually moves outward, away from the source, in every direction.
+se déplacent progressivement vers l'extérieur, loin de la source, dans toutes les directions.
+
+And as the information travels, it makes a
+wave shape.
+Et au fur et à mesure que l'information voyage, elle forme une
+vague.
+
+Think about all the disturbance you cause, for example, when you jump on a trampoline.
+Pensez à toutes les perturbations que vous causez, par exemple lorsque vous sautez sur un trampoline.
+
+When you hit the trampoline, the downward push that you create moves the material next to it down a little bit, too.
+Lorsque vous frappez le trampoline, la poussée vers le bas que vous créez déplace également un peu le matériau à côté.
+
+And the same goes for the material next to
+that, and so on.
+Et il en va de même pour le matériel à côté de
+cela, et ainsi de suite.
+
+And while that information is traveling outward,
+the spot where your feet first hit the trampoline
+Et pendant que cette information voyage vers l'extérieur,
+l'endroit où vos pieds ont d'abord touché le trampoline
+
+is already recovering, moving upward again, because of the tension force in the trampoline.
+se rétablit déjà, se déplaçant à nouveau vers le haut, en raison de la force de tension dans le trampoline.
+
+And that moves the area next to it upward, too.
+Et cela déplace également la zone à côté vers le haut.
+
+This up-and-down motion gradually ripples outward, covering more and more of the trampoline.
+Ce mouvement de haut en bas se répercute progressivement vers l'extérieur, couvrant de plus en plus le trampoline.
+
+And the ripples take the shape of a wave.
+Et les ondulations prennent la forme d'une vague.
+
+Waves are made up of peaks, with crests -- the bumps on top -- and troughs -- the bumps on the bottom.
+Les vagues sont constituées de pics, avec des crêtes -- les bosses en haut -- et des creux -- les bosses en bas.
+
+They have an amplitude, which is the distance from the peaks to the middle of the wave.
+Ils ont une amplitude, qui est la distance entre les pics et le milieu de la vague.
+
+They also have a wavelength, which is the distance between crests -- a full cycle of the wave --
+Ils ont également une longueur d'onde, qui est la distance entre les crêtes -- un cycle complet de l'onde --
+
+and a frequency, which is how many of those cycles pass through a given point every second.
+et une fréquence, qui est le nombre de ces cycles qui passent par un point donné chaque seconde.
+
+Multiply the wavelength by the frequency,
+and you get the wave’s speed -- how fast it's going.
+Multipliez la longueur d'onde par la fréquence,
+et vous obtenez la vitesse de l'onde - à quelle vitesse elle va.
+
+And the wave’s speed only depends on the medium it’s traveling through.
+Et la vitesse de l'onde ne dépend que du milieu qu'elle traverse.
+
+That’s why the speed of sound -- which is
+a wave -- doesn’t depend on the sound itself.
+C'est pourquoi la vitesse du son - qui est
+une onde - ne dépend pas du son lui-même.
+
+It doesn’t matter how loud or quiet it is.
+Peu importe à quel point il est bruyant ou silencieux.
+
+It just depends on whether the sound is traveling through, say, air or water.
+Cela dépend simplement si le son voyage à travers, disons, l'air ou l'eau.
+
+Now, there are four main kinds of waves, and we can use our rope to show the difference between some of them:
+Maintenant, il existe quatre principaux types d'ondes, et nous pouvons utiliser notre corde pour montrer la différence entre certaines d'entre elles :
+
+A pulse wave is what happens when you move the end of the rope back and forth just one time.
+Une onde de pouls est ce qui se produit lorsque vous déplacez l'extrémité de la corde d'avant en arrière une seule fois.
+
+One lonely crest travels through the rope
+-- that’s the pulse.
+Une crête solitaire traverse la corde
+- c'est le pouls.
+
+Then there’s a continuous wave, which is what happens when you keep moving the rope back and forth.
+Ensuite, il y a une onde continue, qui se produit lorsque vous continuez à déplacer la corde d'avant en arrière.
+
+In that case, your hand is acting as an oscillator.
+Dans ce cas, votre main agit comme un oscillateur.
+
+Anything that causes an oscillation or vibration can create a continuous wave.
+Tout ce qui provoque une oscillation ou une vibration peut créer une onde continue.
+
+Now, things that cause simple harmonic oscillation move in such a way that they create sinusoidal waves --
+Maintenant, les choses qui provoquent une oscillation harmonique simple se déplacent de telle manière qu'elles créent des ondes sinusoïdales -
+
+meaning that if you plotted the waves on a graph, they’d look a lot like the graph of sin(x).
+ce qui signifie que si vous avez tracé les ondes sur un graphique, elles ressembleraient beaucoup au graphique de sin(x).
+
+But the waves we’ve mainly been talking
+about so far are transverse waves --
+Mais les ondes dont nous avons principalement
+parlé jusqu'à présent sont des ondes transversales -
+
+ones in which the oscillation is perpendicular to the direction that the wave is traveling in.
+celles dans lesquelles l'oscillation est perpendiculaire à la direction dans laquelle l'onde se déplace.
+
+When a wave travels along this rope, for example,the peaks are perpendicular to the rope’s length.
+Lorsqu'une onde se déplace le long de cette corde, par exemple, les pics sont perpendiculaires à  la longueur de la corde.
+
+The same thing was mostly true for the waves that you made on the trampoline:
+La même chose était surtout vraie pour les vagues que vous faisiez sur le trampoline :
+
+the waves were traveling along its surface horizontally, but the peaks were vertical.
+les vagues se déplaçaient horizontalement le long de sa surface, mais les pics étaient verticaux.
+
+But there are also longitudinal waves, where the oscillations happen in the same direction as the wave is moving.
+Mais il existe également des ondes longitudinales, où les oscillations se produisent dans la même direction que l'onde se déplace.
+
+In the case of a longitudinal wave, the back-and-forth motion is more of a compression-and-expansion.
+Dans le cas d'une onde longitudinale, le mouvement de va-et-vient est plutôt une compression-expansion.
+
+These are the kinds of waves that you get
+by compressing and stretching a spring --
+Ce sont les types d'ondes que vous obtenez
+en comprimant et en étirant un ressort -
+
+and they’re also the kinds by which sound travels, which we’ll talk more about next time.
+et ce sont aussi les types par lesquels le son se propage, dont nous parlerons plus en détail la prochaine fois.
+
+But all waves -- no matter what kind they
+are -- have something in common:
+Mais toutes les ondes, quel que soit leur
+type, ont quelque chose en commun :
+
+They transport energy as they travel.
+elles transportent de l'énergie lorsqu'elles se déplacent.
+
+At a microscopic level, waves occur when the movement of one particle affects the particle next to it.
+Au niveau microscopique, les ondes se produisent lorsque le mouvement d'une particule affecte la particule voisine.
+
+And to make that next particle start moving, there has to be an energy transfer.
+Et pour que la prochaine particule commence à bouger, il doit y avoir un transfert d'énergie.
+
+But how can you tell how much energy a wave has?
+Mais comment pouvez-vous déterminer la quantité d'énergie d'une onde ?
+
+Well, remember that an object in simple harmonic motion has a total energy of one-half,
+Eh bien, rappelez-vous qu'un objet en mouvement harmonique simple a une énergie totale égale à la moitié,
+
+times the spring constant, times the amplitude of the motion squared.
+fois la constante du ressort, fois l'amplitude du mouvement au carré.
+
+Which means for a wave caused by
+simple harmonic motion,
+Ce qui signifie que pour une onde causée par
+un mouvement harmonique simple,
+
+every particle in the wave will also have that same total energy of (half k A squared).
+chaque particule de l'onde aura également la même énergie totale de (demi k A au carré).
+
+All of this together tells us that a wave’s
+energy is proportional to its amplitude, squared.
+Tout cela nous dit que l'
+énergie d'une onde est proportionnelle à son amplitude, au carré.
+
+In other words, if you double the wave’s
+amplitude, you get four times the energy.
+En d'autres termes, si vous doublez l'
+amplitude de l'onde, vous obtenez quatre fois plus d'énergie.
+
+Triple the amplitude, you get nine times the energy.
+Triplez l'amplitude, vous obtenez neuf fois l'énergie.
+
+So why is the relationship between amplitude and energy transport so important?
+Alors pourquoi la relation entre l'amplitude et le transport d'énergie est-elle si importante ?
+
+Well, the intensity of a wave is related to
+the energy it transports.
+Eh bien, l'intensité d'une onde est liée à
+l'énergie qu'elle transporte.
+
+More specifically, its intensity is equal to its power, divided by the area it’s spread over and power is energy over time.
+Plus précisément, son intensité est égale à sa puissance, divisée par la zone sur laquelle elle est répartie et la puissance est l'énergie dans le temps.
+
+So, changing the amplitude of a wave can change its energy -- and therefore its intensity
+Ainsi, changer l'amplitude d'une onde peut changer son énergie - et donc son intensité
+
+-- by the square of the change in amplitude.
+- du carré du changement d'amplitude.
+
+And this relationship is extremely important for things like figuring out how much damage
+Et cette relation est extrêmement importante pour des choses comme déterminer combien de dommages
+
+can be caused by the shockwaves from an earthquake.
+peuvent être causés par les ondes de choc d'un tremblement de terre.
+
+But waves also get weaker as they spread out, because they’re distributed over more area.
+Mais les vagues s'affaiblissent également à mesure qu'elles s'étendent, car elles sont réparties sur une plus grande surface.
+
+A spherical wave, for example -- one that
+ripples outward in all directions --
+Une onde sphérique, par exemple - une onde qui
+ondule vers l'extérieur dans toutes les directions
+
+will be spread over the surface area of a sphere that gets bigger and bigger, the farther the wave travels.
+- se propagera sur la surface d'une sphère qui devient de plus en plus grande, plus l'onde se déplace loin.
+
+The surface area of a sphere is equal
+to (4) times (pi) times (its radius squared).
+La surface d'une sphère est égale
+à (4) fois (pi) fois (son rayon au carré).
+
+So, as a spherical wave moves farther from its source, its intensity will decrease by the square of the distance from it.
+Ainsi, à mesure qu'une onde sphérique s'éloigne de sa source, son intensité diminue du carré de la distance qui l'en sépare.
+
+Two meters away from the source, and the intensity of the wave will be 4 times less than if you were 1 meter away.
+A deux mètres de la source, l'intensité de l'onde sera 4 fois moindre que si vous étiez à 1 mètre.
+
+Three meters away, and it’ll be 9 times
+less.
+A trois mètres, ce sera 9 fois
+moins.
+
+That’s why being just a little bit farther away from the source of an earthquake can sometimes make a huge difference.
+C'est pourquoi être juste un peu plus loin de la source d'un tremblement de terre peut parfois faire une énorme différence.
+
+Now, let’s go back to the waves we were
+making with the rope.
+Revenons maintenant aux vagues que nous
+faisions avec la corde.
+
+Suppose you attach one end of the rope to a ring that’s free to move up and down on a rod.
+Supposons que vous attachiez une extrémité de la corde à un anneau qui est libre de monter et descendre sur une tige.
+
+Then, with your hand, you send a pulse -- in the form of a crest, rippling along it.
+Ensuite, avec votre main, vous envoyez une impulsion - sous la forme d'une crête, ondulant le long de celle-ci.
+
+When the pulse gets to the end of the rope, the rope slides along the rod.
+Lorsque le pouls arrive au bout de la corde, la corde glisse le long de la tige.
+
+But then, it slides back to where it was.
+Mais ensuite, il glisse vers où il était.
+
+That motion -- the sliding back -- reflects
+the wave back along the rope, again as a crest.
+Ce mouvement -- le glissement vers l'arrière -- renvoie
+la vague le long de la corde, encore une fois sous la forme d'une crête.
+
+But something totally different happens, if you attach the end of the rope so it’s fixed, and can’t move.
+Mais quelque chose de totalement différent se produit, si vous attachez l'extrémité de la corde de sorte qu'elle soit fixée et ne puisse pas bouger.
+
+Now, if you send a pulse along the rope, it
+will still be reflected -- but this time, as a trough.
+Maintenant, si vous envoyez une impulsion le long de la corde, elle
+sera toujours réfléchie -- mais cette fois, comme un creux.
+
+The wave was inverted.
+La vague s'est inversée.
+
+That’s because, when the pulse reached the fixed end of the rope, it was trying to slide the end of the rope upward.
+C'est parce que, lorsque l'impulsion a atteint l'extrémité fixe de la corde, elle essayait de faire glisser l'extrémité de la corde vers le haut.
+
+But it couldn’t, because the end of the
+rope was fixed.
+Mais ce n'était pas possible, car le bout de la
+corde était fixé.
+
+So, instead, the rope got yanked downward.
+Ainsi, à la place, la corde a été tirée vers le bas.
+
+And the momentum from that downward movement carried the rope below the fixed end, inverting the wave.
+Et l'élan de ce mouvement descendant a porté la corde sous l'extrémité fixe, inversant la vague.
+
+Now sometimes, multiple waves can combine.
+Parfois, plusieurs vagues peuvent se combiner.
+
+For example: Say you send two identical pulses -- both crests -- along a rope, one from each end.
+Par exemple : supposons que vous envoyiez deux impulsions identiques -- les deux crêtes -- le long d'une corde, une à chaque extrémité.
+
+When the two pulses overlap, they’ll combine to make one crest, with a higher amplitude than the original ones.
+Lorsque les deux impulsions se chevauchent, elles se combinent pour former une crête, avec une amplitude plus élevée que celles d'origine.
+
+That’s called constructive interference
+-- the waves build on each other.
+C'est ce qu'on appelle une interférence constructive
+- les ondes se construisent les unes sur les autres.
+
+Now, let’s say you do the same thing again.
+Maintenant, disons que vous refaites la même chose.
+
+This time, both waves have the same amplitude,
+but one’s a crest and the other is a trough.
+Cette fois, les deux vagues ont la même amplitude,
+mais l'une est une crête et l'autre un creux.
+
+And when they overlap, the rope will be flat.
+Et quand ils se chevauchent, la corde sera plate.
+
+It looks like the waves just disappeared!
+On dirait que les vagues ont juste disparu !
+
+That’s called destructive interference,
+when waves cancel each other out.
+C'est ce qu'on appelle des interférences destructives,
+lorsque les ondes s'annulent.
+
+Constructive and destructive interference
+happen with all kinds of waves --
+Des interférences constructives et destructives
+se produisent avec toutes sortes d'ondes -
+
+pulse or continuous, transverse or longitudinal.
+pulsées ou continues, transversales ou longitudinales.
+
+And sometimes, we can use the effects to our advantage.
+Et parfois, nous pouvons utiliser les effets à notre avantage.
+
+Noise-canceling headphones, for example, work by analyzing the noise around you and generating
+Les écouteurs antibruit, par exemple, fonctionnent en analysant le bruit autour de vous et en générant
+
+a sound wave that destructively interferes
+with the sound waves from that noise, canceling it out.
+une onde sonore qui interfère de manière destructive
+avec les ondes sonores de ce bruit, l'annulant.
+
+There’s a lot more to talk about when it comes to the physics of sound, but we’ll save that for next time.
+Il y a beaucoup plus à dire sur la physique du son, mais nous garderons cela pour la prochaine fois.
+
+Today, you learned about traveling waves, and how their frequency, wavelength, and speed are all connected.
+Aujourd'hui, vous avez découvert les ondes progressives et comment leur fréquence, leur longueur d'onde et leur vitesse sont toutes liées.
+
+We also talked about different types of waves,
+including pulse, continuous, transverse, and
+Nous avons également parlé des différents types d'ondes,
+y compris les ondes pulsées, continues, transversales et
+
+longitudinal waves, and how they all transport
+energy.
+longitudinales, et de la façon dont elles transportent toutes l'
+énergie.
+
+Finally, we discussed reflection and interference.
+Enfin, nous avons discuté de la réflexion et de l'interférence.
+
+Crash Course Physics is produced in association
+with PBS Digital Studios.
+Crash Course Physics est produit en association
+avec PBS Digital Studios.
+
+You can head over to their channel to check
+out amazing shows like Physics Girl,
+Vous pouvez vous rendre sur leur chaîne pour
+découvrir des émissions incroyables comme Physics Girl,
+
+Shank's FX, and PBS Space Time.
+Shank's FX et PBS Space Time.
+
+This episode of Crash Course was filmed in
+the Doctor Cheryl C. Kinney Crash Course Studio
+Cet épisode de Crash Course a été filmé dans
+le studio Doctor Cheryl C. Kinney Crash Course
+
+with the help of these amazing people and
+our equally amazing graphics team is Thought Cafe
+avec l'aide de ces personnes incroyables et
+notre équipe graphique tout aussi incroyable est Thought Cafe
+

@@ -1,0 +1,755 @@
+Balance and equilibrium.
+Équilibre et équilibre.
+
+They’re ideas that seem peaceful and harmonious
+– surely that’s what we want in life?
+Ce sont des idées qui semblent paisibles et harmonieuses
+- c'est sûrement ce que nous voulons dans la vie ?
+
+Well, as an engineer, sometimes you need to
+upset the balance in the name of solving problems.
+Eh bien, en tant qu'ingénieur, vous devez parfois
+bouleverser l'équilibre au nom de la résolution de problèmes.
+
+Last time, we discussed mass transfer
+and how two substances can form a mixture
+through processes like diffusion,
+La dernière fois, nous avons discuté du transfert de masse
+et de la façon dont deux substances peuvent former un mélange
+par des processus comme la diffusion,
+
+where the individual molecules are driven
+by their concentration differences towards
+a state of chemical equilibrium.
+où les molécules individuelles sont entraînées
+par leurs différences de concentration vers
+un état d'équilibre chimique.
+
+That means having the same concentration on either
+side of a boundary, or uniformly throughout a single
+container, like food dye mixed into a beaker of water.
+Cela signifie avoir la même concentration de chaque
+côté d'une limite, ou uniformément dans un seul
+récipient, comme un colorant alimentaire mélangé dans un bécher d'eau.
+
+But what if one of the components of the mixture
+is more useful than the other?
+Mais que se passe-t-il si l'un des composants du mélange
+est plus utile que l'autre ?
+
+Worse still, what if one of the components
+is actively harmful and you need to isolate it?
+Pire encore, que se passe-t-il si l'un des composants
+est activement nocif et que vous devez l'isoler ?
+
+It’s time to separate the wheat from the
+chaff.
+Il est temps de séparer le bon grain de l'
+ivraie.
+
+[Theme Music]
+[Thème musical]
+
+Much like we’ve seen for momentum and heat,
+Tout comme nous l'avons vu pour la quantité de mouvement et la chaleur,
+
+different types of molecules, especially in liquids,
+are driven towards equilibrium by differences in
+their concentrations.
+différents types de molécules, en particulier dans les liquides,
+sont entraînées vers l'équilibre par des différences dans
+leurs concentrations.
+
+For some liquids, this happens naturally
+through the process of diffusion,
+Pour certains liquides, cela se produit naturellement
+par le processus de diffusion,
+
+when the particles of a substance spread
+from a region of higher concentration to a region
+of lower concentration.
+lorsque les particules d'une substance se propagent
+d'une région de concentration plus élevée à une région
+de concentration plus faible.
+
+But, let’s consider something a little different.
+Mais considérons quelque chose d'un peu différent.
+
+Imagine thoroughly stirring some caramel sauce
+into butterscotch pudding.
+Imaginez que vous mélangez soigneusement de la sauce
+au caramel dans du pudding au caramel.
+
+No complaints here.
+Aucune plainte ici.
+
+But accidentally mixing a dollop of mustard
+into your pudding?
+Mais mélanger accidentellement une cuillerée de moutarde
+dans votre pudding ?
+
+Well, that’s not going to taste so great.
+Eh bien, ça n'aura pas si bon goût.
+
+You’re probably going to want to get it out of
+there, unless you have some very unusual tastes.
+Vous allez probablement vouloir le sortir de
+là, à moins que vous n'ayez des goûts très inhabituels.
+
+Not that we’re judging.
+Non pas que nous jugeons.
+
+OK, so separating mustard from pudding
+might not sound too vital,
+OK, donc séparer la moutarde du pudding
+peut ne pas sembler trop vital,
+
+but separating different types of chemicals
+from one another is something engineers need
+to do pretty often!
+mais séparer différents types de produits chimiques
+les uns des autres est quelque chose que les ingénieurs
+doivent faire assez souvent !
+
+More specifically, we often want to be able
+to purify chemicals or extract one particular
+product from an evenly balanced mixture.
+Plus précisément, nous voulons souvent
+pouvoir purifier des produits chimiques ou extraire un
+produit particulier d'un mélange uniformément équilibré.
+
+That can be a crucial step in tackling an
+engineering problem.
+Cela peut être une étape cruciale dans la résolution d'un
+problème d'ingénierie.
+
+To achieve this, engineers make clever use of
+temperature, pressure, and flow, to create the right
+conditions for separating two or more substances.
+Pour y parvenir, les ingénieurs utilisent intelligemment la
+température, la pression et le débit, afin de créer les bonnes
+conditions pour séparer deux ou plusieurs substances.
+
+Concentration differences might cause substances
+to mix, but with the right apparatus, you can use
+mass transfer to isolate substances instead.
+Les différences de concentration peuvent entraîner le
+mélange des substances, mais avec le bon appareil, vous pouvez utiliser
+le transfert de masse pour isoler les substances à la place.
+
+Let’s take a closer look at three particularly
+useful separation techniques: distillation,
+liquid-liquid extraction, and reverse osmosis.
+Examinons de plus près trois
+techniques de séparation particulièrement utiles : la distillation, l'
+extraction liquide-liquide et l'osmose inverse.
+
+Now, if you’ve ever been to a bar, you’ll
+know that the most popular drinks on the menu
+have one thing in common: ethanol.
+Maintenant, si vous êtes déjà allé dans un bar, vous
+saurez que les boissons les plus populaires au menu
+ont un point commun : l'éthanol.
+
+That’s the type of alcohol people drink.
+C'est le type d'alcool que les gens boivent.
+
+And along with causing tipsy Saturday nights
+and terrible headaches on Sunday mornings,
+Et en plus de provoquer des samedis soirs éméchés
+et de terribles maux de tête le dimanche matin, l'
+
+ethanol has lots of important industrial uses
+as a disinfectant, a preservative, and even a
+source of renewable fuel!
+éthanol a de nombreuses utilisations industrielles importantes
+comme désinfectant, conservateur et même une
+source de carburant renouvelable !
+
+But in the form we produce it, it’s often
+mixed in with too much water for those purposes.
+Mais sous la forme où nous le produisons, il est souvent
+mélangé avec trop d'eau à ces fins.
+
+Whatever you’re using it for, you’ll need
+to find a way to separate it into a purer state.
+Quelle que soit l'utilisation que vous en faites, vous
+devrez trouver un moyen de le séparer dans un état plus pur.
+
+And that’s where a process like distillation
+can help.
+Et c'est là qu'un processus comme la distillation
+peut aider.
+
+You might have heard of distillation before,
+and for good reason!
+Vous avez peut-être déjà entendu parler de la distillation,
+et pour cause !
+
+It’s really important for engineering.
+C'est très important pour l'ingénierie.
+
+It’s based on the fact that often the
+components in a mixture have different
+boiling points and volatilities;
+Il est basé sur le fait que souvent les
+composants d'un mélange ont des
+points d'ébullition et des volatilités différents ;
+
+that is, their tendency to vaporize at a
+given temperature and pressure.
+c'est-à-dire leur tendance à se vaporiser à
+une température et une pression données.
+
+A distillation column uses temperature to
+separate the chemicals in a mixture based
+on their different boiling points.
+Une colonne de distillation utilise la température pour
+séparer les produits chimiques dans un mélange en fonction
+de leurs différents points d'ébullition.
+
+You start by introducing the mixture into the column,
+which can contain several round platforms, called plates,
+that divide the column at different heights up its length.
+Vous commencez par introduire le mélange dans la colonne,
+qui peut contenir plusieurs plates-formes rondes, appelées plaques,
+qui divisent la colonne à différentes hauteurs sur toute sa longueur.
+
+Each of the plates has little holes in it,
+like a sieve.
+Chacune des assiettes est percée de petits trous,
+comme un tamis.
+
+And those columns, by the way, can be as tall
+as two stories high!
+Et ces colonnes, soit dit en passant, peuvent être aussi hautes
+que deux étages !
+
+One of the important features of a distillation
+column is that it’s heated from the bottom,
+L'une des caractéristiques importantes d'une
+colonne de distillation est qu'elle est chauffée par le bas, de
+
+so that the top is much cooler, setting up
+a gradient of warmer to cooler temperatures
+from bottom to top.
+sorte que le haut est beaucoup plus frais, établissant
+un gradient de températures plus chaudes à plus froides
+de bas en haut.
+
+That’s going to be important for separating
+the substances!
+Cela va être important pour séparer
+les substances !
+
+There are two things going on throughout the
+column.
+Il y a deux choses qui se passent tout au long de la
+colonne.
+
+Liquid is falling down the column through the holes
+in the plates or into the spillover, the gap between
+the plates and the walls of the column.
+Le liquide tombe dans la colonne à travers les trous
+des plaques ou dans le débordement, l'espace entre
+les plaques et les parois de la colonne.
+
+Meanwhile, gas is rising up throughout the
+column, passing through the liquid and those
+same holes in the plates.
+Pendant ce temps, le gaz monte dans toute la
+colonne, passant à travers le liquide et ces
+mêmes trous dans les plaques.
+
+Depending on the temperature at a given plate,
+the parts of the mixture that are still firmly in the
+liquid phase will tend to be drawn downwards,
+En fonction de la température à une plaque donnée,
+les parties du mélange qui sont encore fermement en
+phase liquide auront tendance à être attirées vers le bas,
+
+while those chemicals that are at the right
+temperature to become a gas will be drawn
+upwards by the rising vapor.
+tandis que les produits chimiques qui sont à la bonne
+température pour devenir un gaz seront attirés
+vers le haut par la vapeur montante.  .
+
+So the more volatile substances transfer into
+the gas phase and join the rising vapor,
+Ainsi, les substances les plus volatiles sont transférées dans
+la phase gazeuse et rejoignent la vapeur montante,
+
+while the less volatile substances, which are below
+their boiling points, channel downwards as a liquid.
+tandis que les substances les moins volatiles, qui sont en dessous de
+leur point d'ébullition, sont acheminées vers le bas sous forme de liquide.
+
+There’s also some energy transfer going on.
+Il y a aussi un transfert d'énergie en cours.
+
+If some of the gas has risen high enough to
+cool off and become a liquid again, it releases
+some energy as it condenses.
+Si une partie du gaz est montée suffisamment haut pour se
+refroidir et redevenir liquide, elle libère de l'
+énergie en se condensant.
+
+When that energy is absorbed by the more volatile
+substances in the liquid, it causes them to undergo a
+phase change, turning into a gas and traveling upwards.
+Lorsque cette énergie est absorbée par les substances les plus volatiles
+du liquide, elle les fait subir un
+changement de phase, se transformant en gaz et se déplaçant vers le haut.
+
+So you want the liquid and gas to interact as
+much as they can at every point in the column.
+Vous voulez donc que le liquide et le gaz interagissent
+autant que possible à chaque point de la colonne.
+
+The plates are positioned at certain heights
+up the column so they’re at the specific temperatures
+that work for the chemicals you want to separate.
+Les plaques sont positionnées à certaines
+hauteurs dans la colonne afin qu'elles soient à des températures spécifiques
+qui fonctionnent pour les produits chimiques que vous souhaitez séparer.
+
+Over time, they’ll collect concentrations
+of different chemicals in the mixture.
+Au fil du temps, ils recueilleront des concentrations
+de différents produits chimiques dans le mélange.
+
+And there you have it!
+Chemical separation.
+Et voila! 
+Séparation chimique.
+
+Like all processes in engineering distillation
+isn’t 100% efficient at yielding products.
+Comme tous les processus d'ingénierie, la distillation
+n'est pas efficace à 100% pour produire des produits.
+
+The concentration of the product might be higher
+than it was when it started, but it might not be high
+enough after just one pass through the column.
+La concentration du produit peut être plus
+élevée qu'elle ne l'était au début, mais elle peut ne pas être
+suffisamment élevée après un seul passage dans la colonne.
+
+Well, no problem!
+Eh bien, pas de problème !
+
+You can simply do what’s known as reflux, where
+you pass the liquid back down to the bottom.
+Vous pouvez simplement faire ce qu'on appelle le reflux, où
+vous faites redescendre le liquide vers le bas.
+
+There, it enters a reboiler and rises as a
+gas to be further separated in the column.
+Là, il entre dans un rebouilleur et monte sous forme de
+gaz pour être ensuite séparé dans la colonne.
+
+You can keep doing this until you’ve
+separated the mixture into all its components
+at the purities you want.
+Vous pouvez continuer ainsi jusqu'à ce que vous ayez
+séparé le mélange en tous ses composants
+aux puretés souhaitées.
+
+Besides separating ethanol and water, this sort of
+process is also used to separate crude oil into different
+useful components, like motor fuel and lubricants.
+Outre la séparation de l'éthanol et de l'eau, ce type de
+processus est également utilisé pour séparer le pétrole brut en différents
+composants utiles, comme le carburant et les lubrifiants.
+
+For other types of mixtures, you might need
+a different strategy.
+Pour d'autres types de mélanges, vous pourriez avoir besoin d'
+une stratégie différente.
+
+Consider alcohol again, but this time mixed
+with oil.
+Considérez à nouveau l'alcool, mais cette fois mélangé
+avec de l'huile.
+
+Introducing alcohol to vegetable oil, the
+kind you cook with, is part of the process of
+extracting lecithin, a mixture of fats.
+L'introduction d'alcool dans l'huile végétale, celle avec laquelle
+vous cuisinez, fait partie du processus d'
+extraction de la lécithine, un mélange de graisses.
+
+You can use it for all kinds of things, from
+making chocolate flow better to intensifying
+the colors in paint.
+Vous pouvez l'utiliser pour toutes sortes de choses, de l'
+amélioration de l'écoulement du chocolat à l'intensification
+des couleurs de la peinture.
+
+As an added bonus, extracting lecithin also
+helps refine vegetable oil.
+En prime, l'extraction de la lécithine
+aide également à raffiner l'huile végétale.
+
+But you generally don’t want that alcohol
+still in the oil when you come to actually use it.
+Mais vous ne voulez généralement pas que cet alcool
+reste dans l'huile lorsque vous l'utilisez réellement.
+
+That’s where liquid-liquid extraction comes
+in.
+C'est là qu'intervient l'extraction liquide-liquide
+.
+
+Liquid-liquid extraction, is exactly what
+it sounds like: extracting something from
+one liquid into another.
+L'extraction liquide-liquide, c'est exactement ce
+à quoi cela ressemble : extraire quelque chose d'
+un liquide dans un autre.
+
+It’s nice when engineers give these things
+sensible names.
+C'est bien quand les ingénieurs donnent à ces choses
+des noms sensés.
+
+This time, instead of separating by temperature,
+you’re separating liquids by density.
+Cette fois, au lieu de séparer par température,
+vous séparez les liquides par densité.
+
+Distillation works for chemicals that are
+willing to mix, like ethanol vapor and liquid water
+so they can exchange volatile particles.
+La distillation fonctionne pour les produits chimiques qui sont
+prêts à se mélanger, comme la vapeur d'éthanol et l'eau liquide
+afin qu'ils puissent échanger des particules volatiles.
+
+For liquids that don’t mix so easily, liquid-liquid
+extraction provides an alternative.
+Pour les liquides qui ne se mélangent pas si facilement, l'extraction liquide-liquide
+offre une alternative.
+
+In an extraction unit, the idea is to decontaminate the
+mixture by transferring the contaminant, in this case
+alcohol, to another liquid with a different density.
+Dans une unité d'extraction, l'idée est de décontaminer le
+mélange en transférant le contaminant, en l'occurrence l'
+alcool, dans un autre liquide de densité différente.
+
+The liquid you’re transferring the contaminant
+into is called the solvent.
+Le liquide dans lequel vous transférez le
+contaminant s'appelle le solvant.
+
+With the alcohol-oil example, the solvent
+would be water.
+Avec l'exemple de l'alcool-huile, le solvant
+serait de l'eau.
+
+The important thing is that the solvent can mix with
+the contaminant, but it won’t mix with the product –
+the purified liquid that you want at the end.
+L'important est que le solvant puisse se mélanger avec
+le contaminant, mais il ne se mélangera pas avec le produit -
+le liquide purifié que vous voulez à la fin.
+
+That way, they can pass through one another
+while only exchanging the contaminant in the
+mixture.
+De cette façon, ils peuvent se traverser
+tout en n'échangeant que le contaminant dans le
+mélange.
+
+So to do the extraction, you put the denser of the
+two inputs – so either the mixture or the solvent – at
+the top, and the lighter of the two inputs at the bottom.
+Donc pour faire l'extraction, on met le plus dense des
+deux apports - donc soit le mélange soit le solvant -
+en haut, et le plus léger des deux apports en bas.
+
+That way, when they enter the extraction unit
+they’ll swap places as the denser liquid sinks
+and the other floats up,
+De cette façon, lorsqu'ils entrent dans l'unité d'extraction,
+ils changent de place lorsque le liquide plus dense coule
+et que l'autre flotte,
+
+forcing the solvent and the mixture
+through one another.
+forçant le solvant et le mélange à se
+traverser.
+
+In this case, water is denser than the oil-alcohol
+mixture, so you’d feed the solvent in at the top and
+the mixture at the bottom,
+Dans ce cas, l'eau est plus dense que le mélange huile-alcool
+, vous devez donc introduire le solvant en haut et
+le mélange en bas,
+
+but different scenarios might require that the
+solvent and the mixture to be the other way around!
+mais différents scénarios peuvent nécessiter que le
+solvant et le mélange soient dans l'autre sens !
+
+Either way, you want to pick a solvent that the contaminant is more chemically attracted to than
+in the original mixture –
+Quoi qu'il en soit, vous voulez choisir un solvant vers lequel le contaminant est plus chimiquement attiré que
+dans le mélange d'origine -
+
+in other words, that the contaminant is
+more soluble in.
+en d'autres termes, dans lequel le contaminant est
+plus soluble. De
+
+That way, the contaminant will transfer to
+the solvent and get carried away with it, leaving
+behind a purer version of the product.
+cette façon, le contaminant sera transféré dans
+le solvant et se laissera emporter par  il, laissant
+derrière lui une version plus pure du produit.
+
+Since alcohol mixes more easily with water than
+oil, it gets drawn into the water as the water passes
+through the mixture, leaving a purer form of oil.
+Étant donné que l'alcool se mélange plus facilement à l'eau qu'à l'
+huile, il est aspiré dans l'eau lorsque l'eau
+traverse le mélange, laissant une forme d'huile plus pure.
+
+So even when temperature differences can’t
+help you, solubility can!
+Ainsi, même lorsque les différences de température ne peuvent pas
+vous aider, la solubilité le peut !
+
+Other times, the best way to separate things
+is through reverse osmosis.
+D'autres fois, la meilleure façon de séparer les choses
+est par osmose inverse.
+
+That might sound like a science-fiction
+surgical procedure,
+Cela peut ressembler à une
+intervention chirurgicale de science-fiction,
+
+but it’s really just a fancy term for filtering
+molecules or small particles from the medium
+they’re mixed into.
+mais ce n'est en réalité qu'un terme fantaisiste pour filtrer les
+molécules ou les petites particules du milieu dans
+lequel elles sont mélangées.
+
+For example, of all the water on Earth, only
+2.5% of it is fresh water, the kind we drink,
+and most of that is locked up in glaciers!
+Par exemple, de toute l'eau sur Terre, seulement
+2,5 % est de l'eau douce, celle que nous buvons,
+et la plus grande partie est enfermée dans les glaciers !
+
+The rest of it is undrinkable salt water – the
+kind you find in the ocean.
+Le reste est de l'eau salée non potable - celle que
+l'on trouve dans l'océan.
+
+And the amount of fresh water available per
+person on Earth is rapidly shrinking.
+Et la quantité d'eau douce disponible par
+personne sur Terre diminue rapidement.
+
+But if you can find a way to separate out
+the salt, you can make more fresh water from
+salt water.
+Mais si vous pouvez trouver un moyen de séparer
+le sel, vous pouvez produire plus d'eau douce à partir d'
+eau salée.
+
+In other words, you need a way to tip the
+see-saw of chemical balance to isolate water
+from the stuff it’s mixed with.
+En d'autres termes, vous avez besoin d'un moyen de faire basculer
+la balançoire de l'équilibre chimique pour isoler l'eau
+de la substance avec laquelle elle est mélangée.
+
+To understand reverse osmosis, let’s take
+a look at plain old osmosis first.
+Pour comprendre l'osmose inverse,
+examinons d'abord l'osmose ordinaire.
+
+Osmosis is based on the ideas of mass transfer
+we looked at last episode.
+L'osmose est basée sur les idées de transfert de masse que
+nous avons examinées dans le dernier épisode.
+
+You have two liquids on either side of a semipermeable
+barrier, which allows the solvent to pass through,
+but not the other molecules in the mixture.
+Vous avez deux liquides de chaque côté d'une
+barrière semi-perméable, qui laisse passer le solvant,
+mais pas les autres molécules du mélange.
+
+In regular osmosis, the solvent moves from the side of
+the barrier with a higher concentration to the side with a
+lower concentration until both sides are in equilibrium.
+En osmose régulière, le solvant se déplace du côté de
+la barrière avec une concentration plus élevée vers le côté avec une
+concentration plus faible jusqu'à ce que les deux côtés soient en équilibre.
+
+If we can reverse the process by forcing only the
+solvent through the barrier while leaving the other types
+of molecules behind, we can separate the two out.
+Si nous pouvons inverser le processus en forçant uniquement le
+solvant à travers la barrière tout en laissant les autres types
+de molécules derrière, nous pouvons séparer les deux.
+
+To make things less abstract, let’s go back
+to our salt water conundrum.
+Pour rendre les choses moins abstraites, revenons
+à notre énigme de l'eau salée.
+
+We wanted to filter out the salt from the salt
+water, and we can do that with reverse osmosis.
+Nous voulions filtrer le sel de l'
+eau salée, et nous pouvons le faire avec l'osmose inverse.
+
+All you have to do is pressurize the water
+and force it through a semipermeable barrier.
+Tout ce que vous avez à faire est de pressuriser l'eau
+et de la forcer à travers une barrière semi-perméable.
+
+With the right kind of filtering material,
+the water is forced through,
+Avec le bon type de matériau filtrant,
+l'eau est forcée à travers,
+
+while ions like salt and bigger things like
+other molecules, tiny bits of dirt, and bacteria,
+are held back and removed.
+tandis que les ions comme le sel et des choses plus grosses comme d'
+autres molécules, de minuscules morceaux de saleté et des bactéries,
+sont retenus et éliminés.
+
+The stuff that gets filtered out is known
+as a reject stream.
+Les éléments filtrés sont appelés
+flux de rejet.
+
+At its best, reverse osmosis can remove over 99%
+of the salt and other unwanted stuff from water!
+À son meilleur, l'osmose inverse peut éliminer plus de 99 %
+du sel et d'autres substances indésirables de l'eau !
+
+Some countries that don’t have much fresh water, like
+Saudi Arabia, have giant plants that use reverse osmosis
+to generate over a million liters of fresh water every day.
+Certains pays qui n'ont pas beaucoup d'eau douce, comme l'
+Arabie saoudite, ont des usines géantes qui utilisent l'osmose inverse
+pour générer plus d'un million de litres d'eau douce chaque jour.
+
+For the record, there are lots of other methods for
+separating the different mass species in a mixture,
+Pour mémoire, il existe de nombreuses autres méthodes pour
+séparer les différentes espèces de masse dans un mélange,
+
+like absorption columns, stripping columns,
+driers, humidifiers, evaporators, and more.
+comme les colonnes d'absorption, les colonnes de stripage, les
+sécheurs, les humidificateurs, les évaporateurs, etc.
+
+Diffusion, liquid-liquid extraction, and reverse
+osmosis are three methods that come up a lot,
+La diffusion, l'extraction liquide-liquide et l'
+osmose inverse sont trois méthodes qui reviennent souvent,
+
+but lots of the products we use every day
+are made of materials derived from some
+of the other processes.
+mais de nombreux produits que nous utilisons quotidiennement
+sont fabriqués à partir de matériaux dérivés de certains
+des autres procédés.
+
+Unfortunately, rescuing your butterscotch
+pudding is more difficult than it seems.
+Malheureusement, sauver votre
+pudding au caramel est plus difficile qu'il n'y paraît.
+
+You’d have to use a combination of different
+techniques to separate components of the mustard
+and pudding, like distillation and filtration.
+Vous devrez utiliser une combinaison de différentes
+techniques pour séparer les composants de la moutarde
+et du pudding, comme la distillation et la filtration.
+
+And even then, in the process you’d probably
+also separate the pudding itself into streams of
+isolated fats, sugars, dairy, starch, and salt.
+Et même alors, dans le processus, vous sépareriez probablement
+aussi le pudding lui-même en flux de
+graisses isolées, de sucres, de produits laitiers, d'amidon et de sel.
+
+On second thought, maybe you should just have
+an apple instead.
+À la réflexion, vous devriez peut-être simplement prendre
+une pomme à la place.
+
+Today we’ve covered the need for separating
+chemicals from one another, and three different
+processes engineers use to achieve that separation:
+Aujourd'hui, nous avons couvert la nécessité de séparer les
+produits chimiques les uns des autres, et trois procédés différents que
+les ingénieurs utilisent pour réaliser cette séparation : la
+
+distillation, which separates substances 
+based on their different boiling points;
+distillation, qui sépare les substances en
+fonction de leurs différents points d'ébullition ;
+
+liquid-liquid extraction, which uses
+differences in solubility to transfer a
+contaminant into a solvent;
+l'extraction liquide-liquide, qui utilise les
+différences de solubilité pour transférer un
+contaminant dans un solvant ;
+
+and reverse osmosis, which filters molecules
+from a solvent by pressurizing it through a
+semipermeable barrier.
+et l'osmose inverse, qui filtre les molécules
+d'un solvant en le pressurisant à travers une
+barrière semi-perméable.
+
+Next time, we’ll be taking a broader look at
+materials, what kinds there are, the properties
+they have,
+La prochaine fois, nous examinerons plus en détail les
+matériaux, leurs types, leurs propriétés
+
+and how we use them to build everything
+from screwdrivers to skyscrapers.
+et la manière dont nous les utilisons pour tout construire,
+des tournevis aux gratte-ciel.
+
+Crash Course Engineering is produced in association
+with PBS Digital Studios.
+Crash Course Engineering est produit en association
+avec PBS Digital Studios.
+
+For more inventive approaches to daily life,
+check out our sister channel ReInventors,
+Pour des approches plus inventives de la vie quotidienne,
+consultez notre chaîne sœur ReInventors
+
+and meet scientists, inventors, and tinkerers
+who are working to create a more sustainable future.
+et rencontrez des scientifiques, des inventeurs et des bricoleurs
+qui travaillent pour créer un avenir plus durable.
+
+Crash Course is a Complexly production and this
+episode was filmed in the Doctor Cheryl C. Kinney Studio
+with the help of these wonderful people.
+Crash Course est une production de Complexly et cet
+épisode a été filmé dans le studio du docteur Cheryl C. Kinney
+avec l'aide de ces personnes merveilleuses.
+
+And our amazing graphics team is Thought Cafe.
+Et notre incroyable équipe graphique est Thought Cafe.
+

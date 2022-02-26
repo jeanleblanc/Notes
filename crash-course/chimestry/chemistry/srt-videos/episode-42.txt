@@ -1,0 +1,651 @@
+We've talked up carbon quite a bit here on
+Crash Course Chemistry,
+Nous avons pas mal parlé de carbone ici sur
+Crash Course Chemistry,
+
+but we really haven't justified the lofty
+position I put it in.
+mais nous n'avons vraiment pas justifié la position élevée dans laquelle
+je l'ai mis.
+
+Just chains so far and while chains are good, they're not enough reason on their own for this high level of esteem.
+Jusqu'à présent, jusqu'à présent, les chaînes et bien que les chaînes soient bonnes, elles ne suffisent pas à elles seules.  ce haut niveau d'estime.
+
+But carbon atoms, they do more than just form
+chains.
+Mais les atomes de carbone, ils font plus que simplement former des
+chaînes.
+
+Sometimes, they form rings, or as chemists
+call them: cyclic structures,
+Parfois, ils forment des anneaux, ou comme les chimistes les
+appellent : des structures cycliques,
+
+and if the rings have the right number and placement of double bonds they start acting weird and wonderful.
+et si les anneaux ont le bon nombre et le bon placement de doubles liaisons, ils commencent à agir bizarrement et merveilleusement.
+
+The compounds made from them are called aromatic,
+Les composés fabriqués à partir d'eux sont appelés aromatiques,
+
+literally because they have aromas, they can
+smell amazing.
+littéralement parce qu'ils ont des arômes, ils peuvent
+sentir incroyable.
+
+Basil, vanilla, cloves, tarragon, lemon, cinnamon.
+Basilic, vanille, clous de girofle, estragon, citron, cannelle.
+
+When we smell these things, it's because aromatic
+compounds, compounds with carbon rings,
+Lorsque nous sentons ces choses, c'est parce que des
+composés aromatiques, des composés avec des anneaux de carbone,
+
+are binding to receptors in our noses that
+tell our brains "OMG tasty stuff nearby".
+se lient à des récepteurs dans notre nez qui
+disent à notre cerveau "OMG des trucs savoureux à proximité".
+
+Of course, moth-balls and modelling glue and lots of other stuff are also aromatic and don't smell so good...
+Bien sûr, les boules antimites, la colle à modeler et plein d'autres choses sont aussi aromatiques et ne sentent pas si bon...
+
+But if you've ever smelled an herb, taken
+medicine, worn clothes or enjoyed a meal,
+Mais si vous avez déjà senti une herbe, pris des
+médicaments, porté des vêtements ou apprécié un repas,
+
+you probably owe that experience, at least
+in part, to aromatic hydrocarbons.
+vous devez probablement  cette expérience, au moins
+en partie, aux hydrocarbures aromatiques.
+
+[Theme Music]
+[Thème musical]
+
+But before we talk about aromatics, let's talk about the most basic cyclic structures, the cycloalkanes.
+Mais avant de parler des aromatiques, parlons des structures cycliques les plus élémentaires, les cycloalcanes.
+
+You recognize the -alkane ending there, so
+there must be no double bonds, right?
+Vous reconnaissez le -alcane se terminant là, donc
+il ne doit pas y avoir de doubles liaisons, n'est-ce pas ?
+
+And you can't make a ring with one or two carbons, so the simplest cyclic hydrocarbon must be cyclopropane.
+Et vous ne pouvez pas faire un cycle avec un ou deux carbones, donc l'hydrocarbure cyclique le plus simple doit être le cyclopropane.
+
+But those tight bond angles of that triangular
+cyclopropane make it very fragile.
+Mais ces angles de liaison serrés de ce cyclopropane triangulaire le
+rendent très fragile.
+
+This instability makes it highly reactive and it would much rather just be a straight chain.
+Cette instabilité le rend très réactif et il préférerait de loin être simplement une chaîne droite.
+
+But as more carbons join into the ring cyclic
+structures get more stable.
+Mais à mesure que davantage de carbones se joignent au cycle, les
+structures cycliques deviennent plus stables.
+
+Cyclobutane with its four carbon atoms is
+still fairly unstable and reactive,
+Le cyclobutane avec ses quatre atomes de carbone est
+encore assez instable et réactif,
+
+while in cyclopentane the bonds are even more
+stable
+tandis que dans le cyclopentane, les liaisons sont encore plus
+stables
+
+because they form something close to those
+tetrahedral bond angles,
+car elles forment quelque chose de proche de ces
+angles de liaison tétraédriques,
+
+while the angles in cyclohexane are basically perfect for the tetrahedral orbitals to overlap without strain.
+tandis que les angles dans le cyclohexane sont fondamentalement parfaits pour que les orbitales tétraédriques se chevauchent sans contrainte.
+
+Cycloalkenes also start at three carbons and
+get increasingly stable as more are added,
+Les cycloalcènes commencent également à trois carbones et
+deviennent de plus en plus stables à mesure que d'autres sont ajoutés,
+
+though their double bonds make their molecules
+plainer instead of tetrahedral.
+bien que leurs doubles liaisons rendent leurs molécules
+plus simples au lieu de tétraédriques.
+
+Finally, cycloalkynes do exist, but they are crazy hard to form because the triple bond is linear,
+Enfin, les cycloalcynes existent, mais ils sont extrêmement difficiles à former car la triple liaison est linéaire
+
+so it hates bending into rings, and that is
+why the simplest cycloalkyne has eight carbons.
+, elle déteste donc se plier en anneaux, et c'est
+pourquoi le cycloalcyne le plus simple a huit carbones.
+
+Of course these rings can have all sorts of
+things stringing off of them
+Bien sûr, ces anneaux peuvent contenir toutes
+sortes de choses
+
+and their names work almost exactly the same
+way as straight chains do.
+et leurs noms fonctionnent presque exactement de la même
+manière que les chaînes droites.
+
+Example: This ring has five carbon atoms and
+a double bond, so it's a cyclopentene.
+Exemple : Ce cycle a cinq atomes de carbone et
+une double liaison, c'est donc un cyclopentène.
+
+It has two branches, an ethyl group and a
+methyl group.
+Il a deux branches, un groupe éthyle et un
+groupe méthyle.
+
+We list these in alphabetical order in the
+name.
+Nous les listons par ordre alphabétique dans le
+nom.
+
+And we number the carbons in the ring so we get the lowest possible numbers on the branches and on the double bond.
+Et nous numérotons les carbones dans le cycle afin d'obtenir les nombres les plus bas possibles sur les branches et sur la double liaison.
+
+If we number counterclockwise from the beginning of the double bond, we get the branches at the 2 and 5 positions,
+Si nous numérotons dans le sens antihoraire à partir du début de la double liaison, nous obtenons les branches aux positions 2 et 5,
+
+but if we number clockwise from the double
+bond the branches are at the 1 and 3 positions.
+mais si nous numérotons dans le sens horaire à partir de la double
+liaison, les branches sont aux positions 1 et 3.
+
+So, this must be 1-Ethyl-3-methylcyclopent-1-ene.
+Donc, ce doit être le 1-éthyl-3-méthylcyclopent-1-ène.
+
+But since it's only one double bond and it's
+in the first position,
+Mais comme il ne s'agit que d'une double liaison et qu'elle est
+en première position,
+
+the second one is often left out as being
+understood.
+la seconde est souvent laissée de côté comme étant
+comprise.
+
+So we simply call it 1-Ethyl-3-methylcyclopentene.
+Nous l'appelons donc simplement 1-éthyl-3-méthylcyclopentène.
+
+Incidentally all of the identifying parts
+of an organic molecule,
+Incidemment, toutes les parties d'identification
+d'une molécule organique,
+
+the double and triple bonds, the carbon chains
+that branch off the main chain,
+les doubles et triples liaisons, les chaînes carbonées
+qui se ramifient de la chaîne principale
+
+those are called substituents because they
+substitute for hydrogen atoms.
+, sont appelées substituants car elles se
+substituent aux atomes d'hydrogène.
+
+So far we've just been looking at the cyclic
+hydrocarbons, so what's up with the aromatics?
+Jusqu'à présent, nous n'avons examiné que les
+hydrocarbures cycliques, alors qu'en est-il des aromatiques ?
+
+How are they different?
+Comment sont-ils différents? 
+
+Well this is one of the times when carbon
+starts doing some of its spectacular dances.
+Eh bien, c'est l'un des moments où le carbone
+commence à faire certaines de ses danses spectaculaires.
+
+Cyclic hydrocarbons that contain resonant
+structures.
+Hydrocarbures cycliques contenant des
+structures résonnantes.
+
+Things are getting interesting, and by interesting,
+I mean--what?
+Les choses deviennent intéressantes, et par intéressantes,
+je veux dire... quoi ?
+
+Resonance occurs when electrons are distributed
+around the molecule
+La résonance se produit lorsque les électrons sont répartis
+autour de la molécule
+
+in a way that makes it impossible to draw
+with a single Lewis structure.
+d'une manière qui rend impossible le dessin
+avec une seule structure de Lewis.
+
+It's a limitation of our tools to represent
+this beauty and complexity of reality.
+C'est une limite de nos outils pour représenter
+cette beauté et cette complexité de la réalité.
+
+In a resonance structure, the real world structure
+of a molecule is essentially
+Dans une structure de résonance, la structure réelle
+d'une molécule est essentiellement
+
+an average of all the possible structures
+that we can draw.
+une moyenne de toutes les structures possibles
+que nous pouvons dessiner.
+
+The simplest aromatic hydrocarbon (and one
+of the most common) is benzene (C6H6).
+L'hydrocarbure aromatique le plus simple (et l'un
+des plus courants) est le benzène (C6H6).
+
+It's the pungent compound that gives gasoline
+its strong sweet smell.
+C'est le composé piquant qui donne à l'essence
+sa forte odeur sucrée.
+
+It contains 3 double bonds, so that each carbon
+has a total of 4 bonds.
+Il contient 3 doubles liaisons, de sorte que chaque carbone
+a un total de 4 liaisons.
+
+We normally write this and other organic structures without the hydrogens in order to simplify things,
+Nous écrivons normalement ceci et d'autres structures organiques sans les hydrogènes afin de simplifier les choses,
+
+and we often don't even write the c's for
+the carbons.
+et souvent nous n'écrivons même pas les c pour
+les carbones.
+
+Every corner is assumed to be a carbon atom,
+and since we know carbon needs four bonds,
+Chaque coin est supposé être un atome de carbone,
+et puisque nous savons que le carbone a besoin de quatre liaisons,
+
+it's easy to figure out where the hydrogens
+belong even when they are not written.
+il est facile de déterminer où appartiennent les hydrogènes
+même lorsqu'ils ne sont pas écrits.
+
+Here's the thing though.
+Voici la chose cependant.
+
+Those double bonds could just as easily be in these positions and they are in those positions -- sort of.
+Ces doubles liaisons pourraient tout aussi bien être dans ces positions et elles sont dans ces positions -- en quelque sorte.
+
+Remember there are two types of bonds in double
+bonds.
+N'oubliez pas qu'il existe deux types de liaisons dans les doubles
+liaisons.
+
+There's those sigma bonds that happen linearly,
+Il y a ces liaisons sigma qui se produisent de manière linéaire,
+
+and then there's those p-orbitals that stick
+up above and below the plane of the molecule.
+puis il y a ces orbitales p qui se
+dressent au-dessus et au-dessous du plan de la molécule.
+
+Those p-orbitals in an aromatic compound all
+merge together in a ring
+Ces orbitales p dans un composé aromatique
+fusionnent toutes dans un anneau
+
+that stretches above and below the whole molecule.
+qui s'étend au-dessus et au-dessous de la molécule entière.
+
+It's a distribution of electrons that's like a donut on top of and below a molecule-it's extremely stable.
+C'est une distribution d'électrons qui ressemble à un beignet au-dessus et au-dessous d'une molécule - c'est extrêmement stable.
+
+Overall, the bonds are in both places so the
+actual structure is essentially an average
+Dans l'ensemble, les liaisons se trouvent aux deux endroits, de sorte que la
+structure réelle est essentiellement une moyenne
+
+of the two draw-able Lewis structures.
+des deux structures de Lewis pouvant être dessinées.
+
+That's resonance, it's reality poking us in
+the nose and saying,
+C'est la résonance, c'est la réalité qui nous pique
+le nez et nous dit :
+
+"oh you thought you were so clever with your Lewis structures, but in this situation, they are useless."
+« Oh, vous pensiez que vous étiez si intelligents avec vos structures de Lewis, mais dans cette situation, elles sont inutiles.
+
+To show that the double bonds aren't in any specific place, we often just show the structure with a circle in the middle
+Pour montrer que les doubles liaisons ne se trouvent pas à un endroit spécifique, nous montrons souvent simplement la structure avec un cercle au milieu,
+
+signifying that the double bonds are averaged
+in a ring throughout the benzene group.
+ce qui signifie que les doubles liaisons sont moyennées
+dans un cycle dans tout le groupe benzène.
+
+Technically the number of bonds between each
+pair of carbons is defined as 1.5.
+Techniquement, le nombre de liaisons entre chaque
+paire de carbones est défini comme 1,5.
+
+It's not a double bond, it's a one-and-a-half
+bond.
+Ce n'est pas une double liaison, c'est une liaison un et demi
+.
+
+Now aromatics can have all sorts of substituents
+as well,
+Désormais, les aromatiques peuvent également avoir toutes sortes de
+substituants,
+
+and the naming system is pretty much the same
+as with other cyclics.
+et le système de dénomination est à peu près le même
+que pour les autres cycliques.
+
+Another example: So this is a benzene with
+two methyl groups on it.
+Un autre exemple : il s'agit donc d'un benzène avec
+deux groupes méthyle.
+
+As always, we number the rings so that the
+branches have the smallest possible numbers.
+Comme toujours, nous numérotons les anneaux afin que les
+branches aient le plus petit nombre possible.
+
+In this case, if one of the methyl is in the
+1 position, the other is in position 2.
+Dans ce cas, si l'un des méthyle est en
+position 1, l'autre est en position 2.
+
+Note that the numbering can also be done like
+this,
+Notez que la numérotation peut aussi se faire comme
+ça,
+
+but it doesn't matter as long as the branches
+are at the lowest possible numbers.
+mais cela n'a pas d'importance tant que les branches
+sont au nombre le plus bas possible  .
+
+That makes this molecule 1, 2-dimethylbenzene.
+Cela fait de cette molécule le 1,2-diméthylbenzène.
+
+Now if you swap the methyls out for a couple
+of other slightly more complicated groups,
+Maintenant, si vous remplacez les méthyles par
+quelques autres groupes légèrement plus compliqués
+
+then you get acetylsalicylic acid, or aspirin.
+, vous obtenez de l'acide acétylsalicylique ou de l'aspirine.
+
+Aromatic rings can be used the other way around
+too, as substituents on dihydrocarbons.
+Les cycles aromatiques peuvent également être utilisés dans l'autre
+sens, comme substituants sur les dihydrocarbures.
+
+Consider this molecule, a hexane with a benzene
+ring attached to carbon number 2.
+Considérez cette molécule, un hexane avec un cycle
+benzénique attaché au carbone numéro 2.
+
+When benzene is used as an attachment, we
+call it a phenyl group, so this is 2-phenylhexane.
+Lorsque le benzène est utilisé comme attachement, nous l'
+appelons un groupe phényle, il s'agit donc de 2-phénylhexane.
+
+Or 2-phenylhexane. [Different pronunciation]
+It doesn't matter.
+Ou 2-phénylhexane.  [Prononciation différente]
+Peu importe.
+
+What's important is that it is not a benzyl
+group. Why?
+Ce qui est important, c'est que ce n'est pas un
+groupe benzyle.  Pourquoi? 
+
+Well, it was English genius Michael Faraday who first isolated benzene in 1825 from the gas used in lamps.
+Eh bien, c'est le génie anglais Michael Faraday qui, le premier, a isolé le benzène en 1825 du gaz utilisé dans les lampes.
+
+In honor of this, his French contemporary chemist Auguste Laurent started calling the derivatives of benzene "phene,"
+En l'honneur de cela, son chimiste contemporain français Auguste Laurent a commencé à appeler les dérivés du benzène « phène »,
+
+from the Greek "I illiminate." It's a lovely
+gesture, very sweet, but, like, seriously?
+du grec « j'illiminate ».  C'est un beau
+geste, très doux, mais sérieux ?
+
+But just to make sure you're, like, good and
+solidly confused, benzyl groups do exist.
+Mais juste pour vous assurer que vous êtes, comme, bon et
+solidement confus, les groupes benzyle existent.
+
+They're a phenyl group joined by a methyl
+group instead of just directly.
+Ils sont un groupe phényle rejoint par un
+groupe méthyle au lieu de simplement directement.
+
+So now that we know where the word "phenyl"
+comes from,
+Alors maintenant que nous savons d'où vient le mot "phényle
+",
+
+I bet you're just salivating with curiosity, wanting to know where "benzene" comes from, because,
+je parie que vous salivez juste de curiosité, voulant savoir d'où vient le "benzène", parce que,
+
+like, your desire to know things is stronger
+than any of your other desires, right?
+comme, votre désir de savoir des choses est plus fort
+que n'importe lequel de vos autres  envies, non ?
+
+Yeah, I thought so.
+So here's how it happened.
+Ouais je le pensais. 
+Voici donc comment cela s'est passé.
+
+Back in the 1400s when the spice trade drove
+the majority of the global economy,
+Dans les années 1400, lorsque le commerce des épices était le moteur de
+la majeure partie de l'économie mondiale,
+
+Arabic traders sold European traders a resin
+used in perfumes and medicine that they called
+les commerçants arabes vendaient aux commerçants européens une résine
+utilisée dans les parfums et les médicaments qu'ils appelaient
+
+"luban jawi" or "incense of Java."
+"luban jawi" ou "encens de Java".
+
+Of course, it didn't come from Java, it came
+from Sumatra,
+Bien sûr, ça ne venait pas de Java, ça venait
+de Sumatra,
+
+but the world was a big and complicated place so we can't really blame them for being a little bit confused.
+mais le monde était un endroit vaste et compliqué donc on ne peut pas vraiment leur reprocher d'être un peu confus.
+
+The "lu" was mistaken by the Italians for the definite article "la", and so it was dropped, making it "banjawa,"
+Le « lu » a été confondu par les Italiens avec l'article défini « la », et il a donc été abandonné, ce qui en fait « banjawa »
+
+and then the French called it "banjoin," and eventually the German and English made it "benzoin."
+, puis les Français l'ont appelé « banjoin », et finalement les Allemands et les Anglais l'ont fait « benjoin ».  "
+
+This is also, by the way, the same root as
+the name Bon Jovi (it's not...).
+C'est aussi, soit dit en passant, la même racine que
+le nom Bon Jovi (ce n'est pas le cas...).
+
+When we started doing some chemistry, we found
+that most of benzoin was composed of an acid,
+Lorsque nous avons commencé à faire de la chimie, nous avons découvert
+que la majeure partie du benjoin était composée d'un acide,
+
+which chemists named benzoic acid, or acid
+of benzoin.
+que les chimistes appelaient acide benzoïque ou acide
+de benjoin.
+
+Then, a little chemistry knocked the acid off, creating what was clearly an alkene, so they named it benzene,
+Ensuite, un peu de chimie a fait tomber l'acide, créant ce qui était clairement un alcène, alors ils l'ont nommé benzène,
+
+because it was an alkene that was from the
+benzoin resin.
+parce que c'était un alcène qui provenait de la
+résine de benjoin.
+
+History is hiding everywhere!
+And so is chemistry.
+L'histoire se cache partout !
+Et la chimie aussi.
+
+Now benzoic acid is one of literally infinite
+possible benzene-based compounds.
+Maintenant, l'acide benzoïque est l'un des
+composés à base de benzène littéralement infinis possibles.
+
+There's naphthalene, the main ingredient in
+mothballs.
+Il y a du naphtalène, l'ingrédient principal des
+boules de naphtaline.
+
+It's basically two benzene rings stuck together.
+Il s'agit essentiellement de deux anneaux de benzène collés ensemble.
+
+And there's anthracene, with three benzenes, which is probably the dye that's making your blue jeans blue.
+Et il y a de l'anthracène, avec trois benzènes, qui est probablement le colorant qui rend vos jeans bleus.
+
+And it can get crazy complicated all the way
+up to humic acid, a component of soil.
+Et cela peut devenir extrêmement compliqué
+jusqu'à l'acide humique, un composant du sol.
+
+Now you might be wondering how something so complicated as that could ever even come into being.
+Maintenant, vous vous demandez peut-être comment quelque chose d'aussi compliqué que cela a pu voir le jour.
+
+Like any organic compound, aromatics can undergo tons of reactions that produce all sorts of molecules.
+Comme tout composé organique, les aromatiques peuvent subir des tonnes de réactions qui produisent toutes sortes de molécules.
+
+By far the simplest and most common are substitution reactions in which one substituent is substituted for another.
+De loin les plus simples et les plus courantes sont les réactions de substitution dans lesquelles un substituant est remplacé par un autre.
+
+Like one of the hydrogen atoms on a benzene
+might be changed to a propyl group,
+Comme l'un des atomes d'hydrogène sur un benzène
+pourrait être changé en un groupe propyle,
+
+or that a halogen might come in and replace
+that propyl group with a bromine.
+ou qu'un halogène pourrait entrer et remplacer
+ce groupe propyle par un brome.
+
+These changes alter the compound, of course, but it may not be that major a change, like changing your shoes.
+Ces changements modifient le composé, bien sûr, mais ce n'est peut-être pas un changement aussi important, comme changer de chaussures.
+
+(Unless you put on some really weird shoes.)
+(À moins que vous ne mettiez des chaussures vraiment bizarres.)
+
+Another fairly common reaction of aromatic hydrocarbons is coupling, the joining of two aromatic structures,
+Une autre réaction assez courante des hydrocarbures aromatiques est le couplage, la jonction de deux structures aromatiques,
+
+and it basically works the same as a substitution
+reaction.
+et cela fonctionne fondamentalement de la même manière qu'une
+réaction de substitution.
+
+The only difference is that the new substituent
+is a another aromatic structure
+La seule différence est que le nouveau substituant
+est une autre structure aromatique
+
+and it typically requires some kind of catalyst.
+et qu'il nécessite généralement une sorte de catalyseur.
+
+A final common reaction of aromatics is hydrogenation,
+which we talked about a little last week,
+Une dernière réaction courante des aromatiques est l'hydrogénation,
+dont nous avons parlé un peu la semaine dernière,
+
+the addition of hydrogen atoms to remove double
+bonds.
+l'ajout d'atomes d'hydrogène pour éliminer les doubles
+liaisons.
+
+Now of course getting rid of even a single double bond in a phenyl group always destroys the resonance,
+Maintenant, bien sûr, se débarrasser même d'une seule double liaison dans un groupe phényle détruit toujours la résonance,
+
+and thus it is no longer an aromatic compound
+after hydrogenation.
+et donc ce n'est plus un composé aromatique
+après hydrogénation.
+
+Now obviously we haven't covered all the possibilities
+here,
+Maintenant, évidemment, nous n'avons pas couvert toutes les possibilités
+ici,
+
+but you can already see that organic molecules have the potential to become extremely large and complex,
+mais vous pouvez déjà voir que les molécules organiques ont le potentiel de devenir extrêmement grandes et complexes,
+
+integrating straight chains, cyclic structures,
+and aromatic groups in the same molecule.
+intégrant des chaînes droites, des structures cycliques
+et des groupes aromatiques dans la même molécule.
+
+This literally infinite variety is what makes organic compounds the basis for the infinite variety of life on Earth.
+Cette variété littéralement infinie est ce qui fait des composés organiques la base de la variété infinie de la vie sur Terre.
+
+So we'll leave you to jeans and basil pesto and aspirin now to appreciate them on a whole new level
+Nous vous laissons donc les jeans et le pesto au basilic et l'aspirine maintenant pour les apprécier à un tout autre niveau
+
+that simply was not possible just ten minutes ago.
+qui n'était tout simplement pas possible il y a à peine dix minutes.
+
+Meanwhile, thank you for watching this episode
+of Crash Course Chemistry.
+En attendant, merci d'avoir regardé cet épisode
+de Crash Course Chemistry.
+
+If you paid attention, you learned about the
+structure of cyclic organic compounds
+Si vous avez fait attention, vous avez appris la
+structure des composés organiques cycliques
+
+and how to name them and their substituents.
+et comment les nommer ainsi que leurs substituants.
+
+You also learned what an aromatic compound
+is, what resonance is,
+Vous avez également appris ce qu'est un composé aromatique
+, ce qu'est la résonance
+
+and how to name aromatics and their substituents.
+et comment nommer les aromatiques et leurs substituants.
+
+And finally, you learned a few common reactions
+and uses for aromatic compounds.
+Et enfin, vous avez appris quelques réactions
+et utilisations courantes des composés aromatiques.
+
+This episode was written by Edi Gonzalez and
+myself.
+Cet épisode a été écrit par Edi Gonzalez et
+moi-même.
+
+It was edited by Blake de Pastino and the
+chemistry consultant was Dr. Heiko Langner.
+Il a été édité par Blake de Pastino et le
+consultant en chimie était le Dr Heiko Langner.
+
+It was filmed and edited then directed by
+Nicholas Jenkins.
+Il a été filmé et monté puis réalisé par
+Nicholas Jenkins.
+
+The script supervisor was Michael Aranda,
+who is also our sound designer.
+Le superviseur du scénario était Michael Aranda,
+qui est également notre concepteur sonore.
+
+And the graphics team is Thought Cafe.
+Et l'équipe graphique est Thought Cafe.
+

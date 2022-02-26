@@ -1,0 +1,491 @@
+Bon, vous étudiez la chimie, quelle est la pire
+chose qui puisse arriver ?
+
+Dans la plupart des cours, la pire chose qui puisse
+arriver c'est l'échec total.
+
+Vous pouvez échouer au contrôle, ne pas avoir la
+moyenne au cours et devoir repenser vos choix de
+vie,
+
+peut-être même arrêter les cours, trouver un job
+dans un restaurant et vous mettre à fumer des Lucky
+Strikes.
+
+Mais en chimie, le pire qui puisse arriver, c’est
+la mort.
+
+Et je ne veux pas prendre ça à la légère, les
+laboratoires sont des endroits dangereux.
+
+Les chimistes meurent plus jeunes que la moyenne
+des gens,
+
+à la fois à cause d’accidents de travail et de
+cancers causés par l’exposition aux produits
+chimiques.
+
+Mais les chimistes ont également plus contribué à
+augmenter l’espérance de vie des humains sur Terre
+que,
+
+à mon avis, n’importe quelle autre profession.
+
+Donc c’est un mal pour un bien.
+
+La semaine dernière, on a parlé de choses qui se
+mélangent, et c’est important bien sûr.
+
+Mais aujourd’hui et pour les prochaines semaines,
+nous allons parler des réactions qui se produisent
+dans ces solutions.
+
+Des réactions dangereuses : des atomes qui se
+réorganisent pour créer de nouvelles substances.
+
+Ce sont des processus qui font de notre monde celui
+qu’on connait et qu’on aime.
+
+Certaines sont bénignes et magnifiques, d’autres
+sont terrifiantes à vous en dissoudre le visage.
+
+Et ce n’est pas une hyperbole, je parle vraiment de
+visage dissous.
+
+[Thème Musical]
+
+Voici le capitaine John Mullen,
+
+il a frayé le premier chemin de fer à travers les
+montagnes Rocheuses vers le nord-ouest du
+Pacifique.
+
+Le capitaine est ici depuis seulement 75 ans.
+
+Et regardez ce qui est arrivé à son visage.
+
+Je sais que ce n’est pas le genre de visage dissout
+auquel vous vous attendiez,
+
+mais on n’est pas aussi horrible que ça à Crash
+Course Chimie.
+
+L’état du visage de M. Mullen est le résultat d’une
+réaction acide-base,
+
+un des trois grands types de réactions qui se
+produisent dans une solution,
+
+et dont nous allons parler dans Crash Course
+Chimie.
+
+Et l’acide qui a fait ça est principalement de
+l’acide sulfurique.
+
+Vous vous demandez peut-être qui vient jeter de
+l’acide sulfurique sur des statues.
+
+En réalité, ce sont les nuages, le ciel,
+
+même si la vraie source de l’acide sulfurique
+
+se trouve à plus de 600 km, dans la centrale électrique
+de Colstrip, dans le Montana,
+
+et dans les centrales au charbon dans tous les
+Etats-Unis.
+
+Les Etats-Unis d’Amérique brûlent environ un milliard
+de tonnes de charbon par an,
+
+et la plupart de ce charbon est extrait ici.
+
+Dans le Montana, là où je vis, se trouve le bassin
+de la rivière Powder,
+
+qui est le lieu responsable de 40% de la production
+américaine de charbon.
+
+Entre cinquante et soixante-dix trains de marchandises
+partent du bassin chaque jour.
+
+Chaque train a environ 115 wagons de charbon et
+mesure plus deux kilomètres de long.
+
+Et toute cette combustion de charbon a des effets,
+des effets importants et acides.
+
+Mais d’abord, que sont exactement les acides et les
+bases. Les acides sont...aigres.
+
+Si aigres que c’est la première chose qu’on a appris
+des acides,
+
+et c’est pour ça qu’acide signifie aigre en grec ou
+en latin... en latin.
+
+Les acides sont doués pour dissoudre les choses ;
+ils tuent et dissolvent des visages.
+
+Et les bases ?
+
+Vous avez peut-être une idée de ce qu’est une base
+: goût amer, glissant comme du savon ; le savon est
+d’ailleurs une base.
+
+Et les bases, comme les acides, sont très dangereuses
+et peuvent dissoudre votre visage.
+
+Elles sont aussi un genre d’anti-acide. D’ailleurs,
+elles sont des antiacides.
+
+Si on mélange des acides et des bases, ils se
+neutralisent mutuellement.
+
+Mais comme beaucoup de choses en chimie et dans la
+vie,
+
+quand on essaie de définir clairement ce qu’est une
+chose,
+
+ça devient bizarre, compliqué, confus et horrible.
+
+Alors oubliez tout ce que vous savez sur les acides,
+on repart à zéro, l’acide le plus commun sur Terre
+est l’eau.
+
+Quoi ? Et l’eau est la base la plus commune, est-ce
+que je dis ça juste pour vous perturber ? Oui !
+
+Enfin surtout pour vous convaincre que le monde est
+bien plus compliqué qu’il n’y parait.
+
+En 1923, deux hommes ont simultanément défini les
+acides et les bases exactement de la même façon.
+
+Bronsted et Lowry les ont définis ; ils ne les ont
+pas classés selon leur façon d’agir
+
+ou leur goût ni même selon leur composition, ils
+les ont définis.
+
+Et c’est impressionnant, car une large gamme de
+molécules,
+
+d’une façon ou d’une autre, agissent comme acides
+et bases.
+
+Donc trouver une définition qui correspondait à tous
+n’était pas si simple.
+
+Bronsted et Lowry ont défini un acide comme quelque
+chose qui donne un proton
+
+et une base comme quelque chose qui accepte un
+proton.
+
+Et quand on dit proton, ce dont on parle ici c’est
+d’un atome d’hydrogène sans son électron.
+
+Généralement, ça se produit dans l’eau, les acides
+et bases peuvent réagir dans du gaz,
+
+mais ils sont presque toujours dans des solutions
+aqueuses,
+
+et quand un proton est donné dans de l’eau, il est
+accepté par de l’eau.
+
+Et H2O est converti en H3O+, l’ion hydronium.
+
+Donc quand un acide est ajouté à de l’eau, il se
+dissocie, comme n’importe quel autre composé ionique,
+formant de l’H3O+ et un ion négatif.
+
+L’acide a donné un proton à l’eau.
+
+Un petit point de terminologie chimique :
+
+on écrit généralement H+ et on dit « protons en
+solutions » quand on parle en fait d’ions
+hydronium.
+
+C’est juste pour raccourcir. En réalité, H+ dans
+une solution aqueuse est toujours H3O+.
+
+Regardons la dissociation de l’acide hydrochlorique
+pour plus de terminologie.
+
+On voit tout de suite que le HCl donne un proton.
+
+Mais avec beaucoup d’acides, surtout les acides les
+plus faibles,
+
+la réaction peut s’inverser, avec l’H3O+ qui donne
+son proton.
+
+Donc dans cette situation, chaque produit chimique
+dans la réaction,
+
+et même parfois les espèces majeures, peut être
+appelé acide ou base.
+
+D’un côté, l’eau accepte le proton donc elle est la
+base, et HCl le donne, donc c’est l’acide.
+
+Et de l’autre côté, le Cl- accepte le proton,
+
+donc c’est la base conjuguée, et l’ion hydronium
+est l’acide conjugué.
+
+L’expression acide conjugué me perturbait beaucoup
+avant,
+
+parce que je pensais que ça avait un rapport avec
+la conjugaison des verbes.
+
+Mais c’est en réalité le sens premier du mot :
+
+là d’où vient le mot conjugal, comme les visites
+conjugales pour les prisonniers, qui signifie se
+rassembler.
+
+Pour chaque acide, il y a une base conjuguée, et
+pour chaque base, il y a un acide conjugué.
+
+Les définitions précédentes des acides et bases,
+
+surtout celle proposée par notre vieil ami Arrhenius,
+se basaient sur des espèces majeures spécifiques.
+
+Notamment notre ami l’OH, ou l’ion hydroxyde.
+
+Et même si l’hydroxyde est dans la plupart des bases,
+il n’est pas dans toutes.
+
+Par exemple, l’ammoniac agit comme une base quand
+il réagit avec de l’acide hydrochlorique pour former
+du chlorure d’ammonium.
+
+Il n’y a pas d’hydroxyde mais il y a bien une donation
+et une acceptation de proton.
+
+Tous les acides et bases ne sont pas créés égaux.
+
+Certains acides aiment se débarrasser de leurs
+protons
+
+et rechignent à se reconvertir en base conjuguée en
+acceptant un proton.
+
+On les appelle acides forts, et la base conjuguée
+est une base faible.
+
+On peut dire la même chose des bases fortes et leurs
+acides conjugués faibles.
+
+La raison qui fait que les réactions acides-bases
+les plus intéressantes se passent dans l’eau
+
+est que l’oxyde de dihydrogène est très doué en tant
+que base, acceptant un proton d’un acide,
+
+ou en tant qu’acide, donnant un proton à une base.
+
+Donc l’eau est l’acide le plus commun au monde et
+aussi la base a plus commune.
+
+Alors, quel est le rapport avec les centrales
+électriques et le visage de John Mullen ?
+
+Quand on brûle du charbon, le sulfure qu'il contient
+réagit avec l’oxygène pour former du dioxyde de
+sulfure.
+
+Ce dioxyde de sulfure réagit ensuite avec l’eau et
+l’oxygène de l’air pour former de l’acide
+sulfurique.
+
+Quand cet acide sulfurique tombe, un ensemble de
+réactions acides-bases se produit et abîme la roche
+calcaire et le métal,
+
+acidifie l’eau, ce qui rend plus difficile la vie
+des poissons, des coraux, des salamandres, et de
+tout le reste.
+
+La roche calcaire est constituée principalement d’un
+produit chimique du nom de carbonate de calcium.
+
+Le carbonate agit comme base, acceptant les protons
+de l’acide sulfurique, ce qui les convertit en acide
+carbonique :
+
+l’acide conjugué, qui se sépare en CO2 et en eau.
+
+Les ions de calcium et de sulfate peuvent se précipiter
+en un sel mieux connu sous le nom de gypse.
+
+Ok, donc la moyenne d’une tonne de charbon an Amérique
+est de 3% de sulfure.
+
+Si 100% de ces 30 kilos de sulfure quittent la
+fumée
+
+et se convertissent en acide sulfurique, combien de
+roche calcaire peut-être dissoute ?
+
+Comme je l’ai dit auparavant, suivez les unités.
+
+30 kilogrammes de sulfure multipliés par 1000 grammes
+par kilo,
+
+multipliez ça par 1 mole sur 32,1 grammes de sulfure
+pour obtenir 935 moles de sulfure par tonne de
+charbon brûlé.
+
+Si chaque mole de ce sulfure est convertie en
+H2SO4
+
+et chaque mole de cet acide sulfurique réagit avec
+une mole de roche calcaire pour la convertir en une
+mole de gypse,
+
+ça fait 935 moles de roche calcaire dissoute.
+
+Il y a 100,1 grammes de carbonate de calcium par
+mole,
+
+si on multiplie ça par 935 moles, on obtient 93 600
+grammes, soit 93,6 kilogrammes.
+
+Donc chaque tonne de charbon brûlé par une centrale
+électrique américaine produit assez d’acide
+sulfurique
+
+pour dissoudre environ 94 kilos de roche calcaire.
+
+Et comme on brûle environ un milliard de tonnes de
+charbon par an,
+
+on peut dire qu’aucune statue n’est en sécurité, à
+part celles fabriquées en matériaux immunisés contre
+les acides,
+
+en particulier la cuivre oxydé, qui peut survivre
+pour toujours.
+
+D’où la présence de la Statue de la Liberté dans la
+Planète des Singes.
+
+Donc c’est clairement un problème. Et je ne parle
+pas seulement des statues, mais la pluie acide a
+tué
+
+ou abîmé de grandes parties de forêts.
+
+Au point maximal des problèmes de pluie acide aux
+Etats-Unis, l’acidité la plus élevée enregistrée
+était au niveau du jus de citron,
+
+et je peux vous dire que c’est plutôt acide, assez
+pour irriter la peau humaine.
+
+C’est devenu un problème pour la production d’énergie
+quand en 1929, la Chambre des Lords britannique
+
+a jugé qu’une station électrique était responsable
+des dommages causés aux exploitations agricoles
+voisines par de la pluie acide.
+
+Alors il fallait faire quelque chose, mais quoi ?
+
+Eh bien, on connait déjà un produit chimique très
+courant qui réagit facilement avec l’acide sulfurique
+:
+
+cette bonne vielle roche calcaire, et en Angleterre,
+il y a beaucoup de roche calcaire.
+
+En passant les gaz de cheminée à travers de la roche
+calcaire,
+
+le SO2 se convertit en acide et réagit avec la roche
+pour former du CaSO3, du sulfate de calcium.
+
+Maintenant on va faire quelque chose de différent
+pour ceux d’entre vous qui veulent aller plus
+loin.
+
+En partant du principe qu’un milliard de tonnes de
+charbon avec 3% de sulfure est brûlé en Amérique
+chaque année,
+
+et que tout ça est convertit en SO2, combien de
+tonnes de roche calcaire faudrait-il pour se
+débarrasser de 100% de ce sulfure ?
+
+La réponse est dans les commentaires.
+
+La roche calcaire est un bon système, mais il n’est
+pas parfait.
+
+Beaucoup de systèmes de désulfuration des gaz de
+combustion ont été développés,
+
+et maintenant, grâce à une combinaison de bonnes
+lois, de bonne science et de travail acharné,
+
+environ 95% du sulfure produit dans les centrales
+au charbon américaines est extrait
+
+avant de sortir des cheminées.
+
+Et avec de la chimie encore plus brillante, une
+partie de ce SO2 est converti en produits chimiques
+industriels.
+
+Par exemple, l’acide sulfurique pur,
+
+qui est utilisé dans les papeteries, dans la
+fabrication de fer et d’acier, pour les nettoyants
+industriels et la synthèse chimique.
+
+La chimie ! Elle cause des problèmes, mais elle les
+résout aussi.
+
+Merci d’avoir regardé cet épisode de Crash Course
+Chimie.
+
+Si vous avez bien suivi vous savez que la chimie
+peut causer la mort,
+
+que les acides et bases sont plus compliqués que
+vous ne le pensiez,
+
+que l’acide donne des protons et que la base les
+accepte.
+
+Vous devriez aussi avoir appris que quand un acide
+donne un proton il forme une base conjuguée,
+
+et quand une base accepte un proton elle devient un
+acide conjugué.
+
+On a aussi fait un peu de stœchiométrie des
+acides-bases.
+
+Cet épisode de Crash Course Chimie a été écrit par
+Kim Krieger et moi-même.
+
+Le script a été révisé par Blake de Pastino, et
+notre consultant en chimie est le Dr Heiko
+Langner.
+
+Notre réalisateur, directeur de la photographie et
+monteur est Nicholas Jenkins. La superviseuse du
+script est Caitlin Hofmeister.
+
+Le concepteur sonore est Michael Aranda et notre
+équipe graphique est Thought Cafe.
+

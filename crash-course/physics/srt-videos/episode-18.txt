@@ -1,0 +1,726 @@
+When you think about it, you probably receive
+hundreds -- even thousands -- of cues about
+Lorsque vous y réfléchissez, vous recevez probablement des
+centaines, voire des milliers, d'indices sur
+
+what’s going on in your environment every
+day, strictly from sound.
+ce qui se passe dans votre environnement chaque
+jour, uniquement à partir du son.
+
+In addition to things like speech and music,
+there are other bits of auditory information
+En plus des choses comme la parole et la musique,
+il y a d'autres informations auditives
+
+that shape your day: an ambulance passing
+by, a baby crying in the next room,
+qui façonnent votre journée : une ambulance qui
+passe, un bébé qui pleure dans la pièce voisine,
+
+and of course [cell-phone style text ding goes off]
+--
+et bien sûr [un ding de texte de style téléphone portable s'éteint]
+--
+
+-- sorry.
+-  - Pardon. 
+
+Just got a text.
+Je viens de recevoir un texto.
+
+But there’s a lot that we can learn, not
+just from what these cues MEAN, but from how
+Mais il y a beaucoup de choses que nous pouvons apprendre, pas
+seulement de ce que ces signaux SIGNIFIENT, mais aussi du fonctionnement du
+
+Sound itself works.
+son lui-même.
+
+Studying sound waves has helped doctors learn
+more about our ears, and has allowed engineers
+L'étude des ondes sonores a aidé les médecins à en savoir
+plus sur nos oreilles et a permis aux ingénieurs
+
+to design things like microphones and speakers.
+de concevoir des choses comme des microphones et des haut-parleurs.
+
+Biologists have even used the science of sound
+to figure out how animals like elephants can
+Les biologistes ont même utilisé la science du son
+pour comprendre comment des animaux comme les éléphants peuvent
+
+communicate over long distances -- when we
+can’t even hear them doing it.
+communiquer sur de longues distances – alors que nous
+ne pouvons même pas les entendre le faire.
+
+It all comes down to the fact that SOUND is
+a wave, which travels through a medium like
+Tout se résume au fait que le SON est
+une onde qui se déplace à travers un milieu comme l'
+
+air or water.
+air ou l'eau.
+
+And knowing that sound is a wave is important,
+because it means that we can use the physics
+Et savoir que le son est une onde est important,
+car cela signifie que nous pouvons utiliser la physique
+
+of waves to describe the qualities of sound.
+des ondes pour décrire les qualités du son.
+
+[Intro Music Plays]
+[Intro Music Plays]
+
+When you think of a wave, you probably think
+of the kind you see at the ocean, or the ones
+Lorsque vous pensez à une vague, vous pensez probablement à celle que
+vous voyez sur l'océan, ou à celles que
+
+you made when you jumped on that trampoline
+last time.
+vous avez créées lorsque vous avez sauté sur ce trampoline la
+dernière fois.
+
+Those waves produce ripples that run perpendicular
+to the direction, that the wave is traveling in.
+Ces ondes produisent des ondulations perpendiculaires
+à la direction dans laquelle l'onde se déplace.
+
+But sound is the other kind of wave: it’s
+a longitudinal wave, meaning that the wave’s
+Mais le son est l'autre type d'onde : c'est
+une onde longitudinale, ce qui signifie que le
+
+back-and-forth motion happens in the same direction in which the wave travels.
+mouvement de va-et-vient de l'onde se produit dans la même direction dans laquelle le  voyage des ondes.
+
+Say you get a text message on your phone,
+and it makes a nice, bright little ‘ding!’ sound.
+Supposons que vous receviez un message texte sur votre téléphone
+et qu'il produise un son agréable et brillant.
+
+What actually happened? Like, on a physical level?
+Que s'est-il réellement passé ?  Genre, au niveau physique ?
+
+Your phone’s speaker contains a diaphragm
+-- a piece of stiff material, usually in the
+Le haut-parleur de votre téléphone contient un diaphragme
+- un morceau de matériau rigide, généralement en
+
+shape of a cone.
+forme de cône.
+
+When you got the message, the electronics
+inside the speaker made the diaphragm move
+Lorsque vous avez reçu le message, l'électronique
+à l'intérieur du haut-parleur a fait bouger le diaphragme d'
+
+back and forth, which vibrated the air around
+your phone.
+avant en arrière, ce qui a fait vibrer l'air autour de
+votre téléphone.
+
+That made the atoms and molecules in the air
+move back and forth.
+Cela faisait aller et venir les atomes et les molécules de l'air
+.
+
+Then, those moving particles vibrated the
+air around them -- and as the process continued,
+Ensuite, ces particules en mouvement ont fait vibrer l'
+air autour d'elles - et au fur et à mesure que le processus se poursuivait,
+
+the sound wave spread outward.
+l'onde sonore s'est propagée vers l'extérieur.
+
+[ding!]
+[ding !]
+
+Sorry! I’m just gonna turn this off now.
+Désolé !  Je vais juste éteindre ça maintenant.
+
+Anyway, physicists sometimes describe sound
+waves in terms of the movement of these particles
+Quoi qu'il en soit, les physiciens décrivent parfois les
+ondes sonores en termes de mouvement de ces particules
+
+in the air -- in what’s known as a displacement
+wave.
+dans l'air - dans ce qu'on appelle une
+onde de déplacement.
+
+But by moving particles in the air, sound
+waves also do something else:
+Mais en déplaçant les particules dans l'air, les
+ondes sonores font aussi autre chose :
+
+They cause the air to compress and expand
+-- which is why sound waves are sometimes
+elles provoquent la compression et l'expansion de l'air,
+c'est pourquoi les ondes sonores sont parfois
+
+described as ‘pressure waves’.
+décrites comme des « ondes de pression ».
+
+As the wave spreads through the air, the particles
+end up bunching together in some places, and
+Au fur et à mesure que l'onde se propage dans l'air, les particules
+finissent par se regrouper à certains endroits et à
+
+‘spreading out’ in others.
+« se répandre » à d'autres.
+
+Together, all that bunching and spreading-out
+causes areas of high pressure and low pressure
+Ensemble, tout ce regroupement et cet étalement
+provoquent la formation et le déplacement de zones de haute et de basse
+
+to form and move through the air.
+pression dans l'air.
+
+It’s useful to describe sound waves as pressure
+waves, because we can build devices that detect
+Il est utile de décrire les ondes sonores comme des ondes de pression
+, car nous pouvons construire des appareils qui détectent
+
+those changes in pressure.
+ces changements de pression.
+
+That’s how some microphones work, for example:
+They use a diaphragm stretched over a sealed
+C'est ainsi que fonctionnent certains microphones, par exemple :
+ils utilisent un diaphragme tendu sur un
+
+compartment, and as sound waves pass by, they
+create areas of lower or higher pressure in
+compartiment étanche, et au fur et à mesure que les ondes sonores passent, ils
+créent des zones de pression inférieure ou supérieure dans
+
+the compartment.
+le compartiment.
+
+The differences in pressure cause the diaphragm
+to move back and forth, which electronics
+Les différences de pression provoquent un
+mouvement de va-et-vient du diaphragme, que l'électronique
+
+then translate into audio data
+traduit ensuite en données audio.
+
+And your eardrums basically work the same
+way!
+Et vos tympans fonctionnent essentiellement de la même
+manière !
+
+As pressure waves pass through, they make
+your eardrum vibrate.
+Lorsque les ondes de pression passent, elles font
+vibrer votre tympan.
+
+Your brain then interprets those vibrations
+as sound.
+Votre cerveau interprète alors ces vibrations
+comme un son.
+
+But not all sounds are the same.
+Mais tous les sons ne sont pas identiques.
+
+Even before we knew much about physics, humans
+were describing sound in terms of certain qualities:
+Même avant que nous en sachions beaucoup sur la physique, les
+humains décrivaient le son en termes de certaines qualités :
+
+mainly, by things like ‘loudness’
+and ‘pitch’.
+principalement, par des choses comme la « sonie »
+et la « hauteur ».
+
+Our understanding of those qualities helped
+shape the development of music -- which we’ll
+Notre compréhension de ces qualités a contribué à
+façonner le développement de la musique - dont nous
+
+talk more about next time.
+parlerons plus en détail la prochaine fois.
+
+But there’s also a more physics-y side to
+those qualities of music.
+Mais il y a aussi un côté plus physique à
+ces qualités musicales.
+
+Pitch can be high or low, and it corresponds
+to the ‘frequency’ of the wave.
+Le pitch peut être haut ou bas, et il correspond
+à la "fréquence" de l'onde.
+
+So, air that’s vibrating back and forth
+more times per second will have a higher pitch,
+Ainsi, l'air qui vibre d'avant en arrière
+plus de fois par seconde aura une tonalité plus élevée,
+
+and air that’s vibrating fewer times per
+second will have a lower pitch.
+et l'air qui vibre moins de fois par
+seconde aura une tonalité plus faible.
+
+Humans hear sounds best when the vibrations
+are somewhere between 20 per second on the
+Les humains entendent mieux les sons lorsque les vibrations
+se situent entre 20 par seconde dans le
+
+low end and 20,000 per second on the high
+end.
+bas et 20 000 par seconde dans le
+haut.
+
+As we get older and lose more of the cells
+that help us detect sound, we start to lose
+À mesure que nous vieillissons et que nous perdons davantage de cellules
+qui nous aident à détecter les sons, nous commençons à perdre
+
+the ability to hear higher-pitched sounds.
+la capacité d'entendre les sons plus aigus.
+
+Some building security companies will take
+advantage of this, using devices that emit
+Certaines entreprises de sécurité des bâtiments en
+profiteront en utilisant des appareils qui émettent
+
+a high-pitched noise that most people over
+the age of 25 can’t hear.
+un bruit aigu que la plupart des personnes de
+plus de 25 ans ne peuvent pas entendre.
+
+The idea is that since kids and teens can
+hear it, and it’s super annoying to them,
+L'idée est que puisque les enfants et les adolescents peuvent l'
+entendre, et que c'est super ennuyeux pour eux,
+
+they won’t hang out near the building.
+ils ne traîneront pas près du bâtiment.
+
+But some sounds are too high or low for any
+humans to hear.
+Mais certains sons sont trop aigus ou trop graves pour que les
+humains puissent les entendre.
+
+Sounds that are too high in pitch are called
+ultrasonic, and sounds that are too low are
+Les sons trop aigus sont appelés
+ultrasons et les sons trop graves sont
+
+called infrasonic.
+appelés infrasons.
+
+Dog whistles, for example, use an ultrasonic
+pitch that’s too high for us, but is perfectly
+Les sifflets pour chiens, par exemple, utilisent une
+tonalité ultrasonique trop élevée pour nous, mais parfaitement
+
+audible to dogs.
+audible pour les chiens.
+
+Elephants, on the other hand, use INFRAsonic
+sound to communicate with each other across
+Les éléphants, quant à eux, utilisent le
+son INFRAsonic pour communiquer entre eux sur de
+
+long distances.
+longues distances.
+
+They can hear these calls from several kilometers
+away, but we can’t hear them at all.
+Ils peuvent entendre ces appels à plusieurs kilomètres de
+distance, mais nous ne les entendons pas du tout.
+
+Another aspect that shapes sound is its loudness
+-- when you increase the intensity of a sound,
+Un autre aspect qui façonne le son est son intensité
+- lorsque vous augmentez l'intensité d'un son,
+
+you increase its loudness, and vice versa.
+vous augmentez son intensité, et vice versa.
+
+We’ve talked about the intensity of a wave
+before: it’s the wave’s power over its
+Nous avons déjà parlé de l'intensité d'une
+onde : c'est la puissance de l'onde sur sa
+
+area, measured in Watts per square meter.
+surface, mesurée en watts par mètre carré.
+
+We’ve also said that the intensity of a
+wave is proportional to the wave’s amplitude, squared.
+Nous avons également dit que l'intensité d'une
+onde est proportionnelle à l'amplitude de l'onde, au carré.
+
+And the farther you are from the source of
+a wave, the lower its intensity -- by the
+Et plus vous êtes loin de la source d'
+une onde, plus son intensité est faible -- du
+
+square of the distance between you and the
+source.
+carré de la distance entre vous et la
+source.
+
+And just as there’s a range of pitches that
+humans can hear, there’s also a range of
+Et tout comme il existe une gamme de hauteurs que les
+humains peuvent entendre, il existe également une gamme d'
+
+sound wave intensity that humans can comfortably
+hear.
+intensités d'ondes sonores que les humains peuvent
+entendre confortablement.
+
+Generally, people can safely hear sounds from
+about 1 picowatt per square meter,
+Généralement, les gens peuvent entendre en toute sécurité des sons d'
+environ 1 picowatt par mètre carré,
+
+up to 1 Watt per square meter -- which is about as loud as a rock concert, if you’re near the speakers.
+jusqu'à 1 Watt par mètre carré - ce qui est à peu près aussi fort qu'un concert de rock, si vous êtes à proximité des haut-parleurs.
+
+The sound waves coming from a jet plane that’s
+30 meters away, for example, probably has
+Les ondes sonores provenant d'un avion à réaction situé à
+30 mètres, par exemple, ont probablement
+
+an intensity of around 100 Watts per square
+meter.
+une intensité d'environ 100 watts par mètre carré
+.
+
+Now, I don’t know if you’ve ever been
+that close to a roaring jet plane.
+Maintenant, je ne sais pas si vous avez déjà été
+aussi près d'un avion à réaction rugissant.
+
+But there’s a reason people who work on
+the tarmac at airports use those heavy-duty headphones.
+Mais il y a une raison pour laquelle les gens qui travaillent sur
+le tarmac des aéroports utilisent ces écouteurs robustes.
+
+Below 1 picowatt per square meter, sounds
+are just too soft for us to detect them.
+En dessous de 1 picowatt par mètre carré, les sons
+sont tout simplement trop faibles pour que nous puissions les détecter.
+
+And although we will HEAR sounds above a Watt
+per square meter, they tend to hurt our ears.
+Et bien que nous entendions des sons supérieurs à un watt
+par mètre carré, ils ont tendance à nous faire mal aux oreilles.
+
+But here’s a weird thing about loudness
+and intensity: it’s not a linear relationship.
+Mais voici une chose étrange à propos du volume
+et de l'intensité : ce n'est pas une relation linéaire.
+
+Generally, a sound wave needs to have ten
+times the intensity to sound twice as loud to us.
+Généralement, une onde sonore doit avoir dix
+fois plus d'intensité pour nous sembler deux fois plus forte.
+
+This relationship holds true as long as the
+sound is toward the middle of the range of
+Cette relation reste vraie tant que le
+son se situe vers le milieu de la gamme de
+
+frequencies we can hear.
+fréquences que nous pouvons entendre.
+
+So, instead of directly measuring the loudness
+of sounds by their intensity, we use units
+Ainsi, au lieu de mesurer directement le volume
+des sons par leur intensité, nous utilisons des unités
+
+called ‘decibels’ -- which are based on
+bels.
+appelées "décibels" - qui sont basées sur les
+bels.
+
+Bels convert a sound wave’s intensity to
+a ‘logarithmic scale’, where every notch
+Les Bels convertissent l'intensité d'une onde sonore en
+une "échelle logarithmique", où chaque cran
+
+on the scale is ten times higher than the
+previous one.
+sur l'échelle est dix fois plus élevé que le
+précédent.
+
+The scale starts off with an intensity of
+1 picowatt per square meter, corresponding
+L'échelle part d'une intensité de
+1 picowatt par mètre carré, correspondant
+
+to 0 bels.
+à 0 bel.
+
+So a sound that’s 1 bel is ten times as
+intense as a sound that’s 0 bels.
+Ainsi, un son de 1 bel est dix fois plus
+intense qu'un son de 0 bel.
+
+And a sound that’s 2 bels is 10 times as
+intense as a sound that’s 1 bel --
+Et un son de 2 bels est 10 fois plus
+intense qu'un son de 1 bel --
+
+-- but 100 times as intense as a sound that’s
+0 bels.
+-- mais 100 fois plus intense qu'un son de
+0 bel.
+
+Measuring everything in bels can be kind of
+annoying, because sometimes you want to talk
+Tout mesurer en bels peut être un peu
+ennuyeux, car parfois vous voulez parler
+
+about sounds that are, say, 3.4 bels without
+having to deal with decimal points.
+de sons qui sont, disons, de 3,4 bels sans
+avoir à gérer les décimales.
+
+That’s why most of the time, you’ll hear
+the loudness of a sound described using the
+C'est pourquoi la plupart du temps, vous entendrez
+le volume d'un son décrit à l'aide de l'
+
+more familiar decibel unit -- a tenth of a
+bel.
+unité de décibel la plus familière - un dixième de
+bel.
+
+To find the loudness of a sound when you know
+its intensity, you take the base-10 logarithm
+Pour trouver l'intensité d'un son lorsque l'on connaît
+son intensité, on prend le logarithme en base 10
+
+of its intensity, over the reference intensity
+of 1 picowatt per square meter.
+de son intensité, au-dessus de l'intensité
+de référence de 1 picowatt par mètre carré.
+
+Then, you multiply that number by 10 to get
+the sound’s decibel level.
+Ensuite, vous multipliez ce nombre par 10 pour obtenir
+le niveau de décibels du son.
+
+We can use this equation to convert the intensity
+of that noisy rock concert -- which we said
+Nous pouvons utiliser cette équation pour convertir l'intensité
+de ce concert de rock bruyant - dont nous avons dit qu'il
+
+was 1 Watt per square meter -- to decibels.
+était de 1 watt par mètre carré - en décibels.
+
+First, we take the base 10 log of 1 Watt per
+square meter, over 1 picowatt per square meter.
+Premièrement, nous prenons le log de base 10 de 1 Watt par
+mètre carré, sur 1 picowatt par mètre carré.
+
+Now, 1 divided by 1 x 10^-12 is just 1 x 10^12.
+Maintenant, 1 divisé par 1 x 10^-12 est juste 1 x 10^12.
+
+So what we really want to do is take the base
+10 log of 1 x 10^12 -- or a trillion -- watts
+Donc, ce que nous voulons vraiment faire, c'est prendre le
+logarithme de base 10 de 1 x 10 ^ 12 - ou un billion - de watts
+
+per square meter.
+par mètre carré.
+
+What a logarithm asks you to do, is find the
+power that you would need to raise the base
+Ce qu'un logarithme vous demande de faire, c'est de trouver la
+puissance à laquelle vous auriez besoin pour élever la base
+
+to in order to get the number in parentheses.
+afin d'obtenir le nombre entre parenthèses.
+
+In other words, we’re looking for the exponent
+of 10 that would equal 1 x 10^12.
+En d'autres termes, nous recherchons l'exposant
+de 10 qui serait égal à 1 x 10 ^ 12.
+
+Which is just 12.
+Ce qui n'est que 12.
+
+To finish off the calculation of decibels
+from intensity, we multiply that value -- 12
+Pour terminer le calcul des décibels à
+partir de l'intensité, nous multiplions cette valeur -- 12
+
+-- by 10 to get the decibel level of the rock
+concert, where you were standing: 120 decibels.
+-- par 10 pour obtenir le niveau de décibels du
+concert de rock, où vous vous trouviez : 120 décibels.
+
+Ouch.
+Aie. 
+
+You’ll notice that as the source of a sound
+moves closer to you, it gets louder, and as
+Vous remarquerez que lorsque la source d'un son
+se rapproche de vous, elle devient plus forte et
+
+it moves away, it gets softer.
+lorsqu'elle s'éloigne, elle devient plus douce.
+
+That makes sense, since the closer you are
+to the source of a sound, the greater the
+Cela a du sens, car plus vous êtes proche
+de la source d'un son, plus l'
+
+intensity of the wave that hits your ear.
+intensité de l'onde qui frappe votre oreille est grande.
+
+But have you ever noticed that the pitch of
+the sound changes, too?
+Mais avez-vous déjà remarqué que la hauteur
+du son change aussi ?
+
+It’s called the ‘Doppler effect’: As
+a source of sound moves toward you, the pitch
+C'est ce qu'on appelle « l'effet Doppler » :
+lorsqu'une source sonore se déplace vers vous, la hauteur
+
+of the sound you hear increases.
+du son que vous entendez augmente.
+
+And as the source moves away, the pitch decreases.
+Et à mesure que la source s'éloigne, la hauteur diminue.
+
+To see why, imagine you’re standing on the
+sidewalk, when suddenly you hear an ambulance
+Pour comprendre pourquoi, imaginez que vous êtes debout sur le
+trottoir, quand soudain vous entendez une
+
+siren start up.
+sirène d'ambulance se déclencher.
+
+It’s coming from down the road, and it seems
+to be moving toward you.
+Il vient du bas de la route et il
+semble se diriger vers vous.
+
+The ambulance is continuously emitting sound
+waves at a certain frequency, in the form
+L'ambulance émet en permanence des
+ondes sonores à une certaine fréquence, sous la forme
+
+of that siren.
+de cette sirène.
+
+But as the ambulance moves toward you, the
+ambulance is also driving toward those sound waves.
+Mais au fur et à mesure que l'ambulance se dirige vers vous, l'
+ambulance se dirige également vers ces ondes sonores.
+
+So, the peaks that hit your eardrums are closer
+together -- even though they’re moving at
+Ainsi, les pics qui frappent vos tympans sont plus proches les
+uns des autres - même s'ils se déplacent à
+
+the same speed -- and you get hit by them
+more often.
+la même vitesse - et ils vous frappent
+plus souvent.
+
+Which means you hear a higher-pitched sound.
+Ce qui signifie que vous entendez un son plus aigu.
+
+At the same time, it keeps emitting more sound,
+which adds more peaks to those earlier sound
+En même temps, il continue d'émettre plus de son,
+ce qui ajoute plus de pics à ces ondes sonores antérieures
+
+waves that are heading your way.
+qui se dirigent vers vous.
+
+What you end up with, is a sound wave with
+a higher frequency than before.
+Vous vous retrouvez avec une onde sonore avec
+une fréquence plus élevée qu'auparavant.
+
+That’s what hits your eardrum, so you hear
+a sound that’s higher in pitch than the
+C'est ce qui frappe votre tympan, vous entendez donc
+un son plus aigu que
+
+one you heard before the ambulance started
+moving.
+celui que vous avez entendu avant que l'ambulance ne commence à
+bouger.
+
+As the ambulance passes you and starts to
+drive away down the road, the opposite happens.
+Lorsque l'ambulance vous dépasse et commence
+à s'éloigner sur la route, c'est l'inverse qui se produit.
+
+The sound waves are still coming toward you,
+but the ambulance is driving away from them.
+Les ondes sonores arrivent toujours vers vous,
+mais l'ambulance s'en éloigne.
+
+So the peaks that hit your eardrum are farther
+apart, and you hear a sound with a lower pitch.
+Ainsi, les pics qui frappent votre tympan sont plus
+éloignés et vous entendez un son avec un ton plus bas.
+
+The Doppler effect isn’t unique to sound
+waves, though -- it happens with light, too.
+L'effet Doppler n'est cependant pas propre aux
+ondes sonores - il se produit également avec la lumière.
+
+Which means we can actually use it to measure
+the distance of stars -- but more on that much later.
+Ce qui signifie que nous pouvons réellement l'utiliser pour mesurer
+la distance des étoiles - mais nous en reparlerons beaucoup plus tard.
+
+For now, you learned about sound waves, and
+how they move particles back and forth to
+Pour l'instant, vous avez découvert les ondes sonores et
+comment elles déplacent les particules d'avant en arrière pour
+
+create differences in pressure.
+créer des différences de pression.
+
+We also talked about pitch, and how the intensity
+of a sound wave changes with amplitude and distance.
+Nous avons également parlé de la hauteur et de la façon dont l'intensité
+d'une onde sonore change avec l'amplitude et la distance.
+
+Finally, we covered decibels, as well as the
+Doppler effect.
+Enfin, nous avons couvert les décibels, ainsi que l'
+effet Doppler.
+
+Crash Course Physics is produced in association
+with PBS Digital Studios.
+Crash Course Physics est produit en association
+avec PBS Digital Studios.
+
+You can head over to their channel to check
+out amazing shows like Gross Science,
+Vous pouvez vous rendre sur leur chaîne pour
+découvrir des émissions incroyables comme Gross Science,
+
+PBS Idea Channel, and It's Okay to be Smart.
+PBS Idea Channel et It's Okay to be Smart.
+
+This episode of Crash Course was filmed in
+the Doctor Cheryl C. Kinney Crash Course Studio
+Cet épisode de Crash Course a été filmé dans
+le studio Doctor Cheryl C. Kinney Crash Course
+
+with the help of these amazing people and
+our equally amazing graphics team is Thought Cafe.
+avec l'aide de ces personnes incroyables et
+notre équipe graphique tout aussi incroyable est Thought Cafe.
+

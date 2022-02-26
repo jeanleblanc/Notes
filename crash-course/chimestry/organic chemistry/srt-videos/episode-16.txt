@@ -1,0 +1,466 @@
+You can review content from Crash Course Organic Chemistry with the Crash Course app, available now for Android and iOS devices.
+Vous pouvez consulter le contenu de Crash Course Organic Chemistry avec l'application Crash Course, disponible dès maintenant pour les appareils Android et iOS.
+
+Hi! I’m Deboki Chakravarti and welcome to Crash Course Organic Chemistry!
+Salut!  Je suis Deboki Chakravarti et bienvenue au cours intensif de chimie organique !
+
+The Portuguese explorer Vasco da Gama sought a sea route to India in 1497 to bring black pepper and other spices back to Europe,
+L'explorateur portugais Vasco da Gama a cherché une route maritime vers l'Inde en 1497 pour ramener le poivre noir et d'autres épices en Europe,
+
+which helped kick off the Age of Discovery.
+ce qui a contribué à lancer l'ère de la découverte.
+
+So, in some way, the pursuit of black pepper, and the organic chemical piperine, changed the world.
+Ainsi, d'une certaine manière, la poursuite du poivre noir et de la pipérine chimique organique a changé le monde.
+
+Named for the tropical vine, Piper nigrum, piperine triggers the "spicy" receptors in our mouths that lead to a little bit of pain.
+Nommée d'après la vigne tropicale, Piper nigrum, la pipérine déclenche les récepteurs "épicés" dans notre bouche qui provoquent un peu de douleur.
+
+But flavorful pain, because it makes spicy food taste good!
+Mais une douleur savoureuse, car elle donne un bon goût aux plats épicés !
+
+The E-double bonds in piperine can be converted to cis bonds in a rare isomerization reaction with sunlight.
+Les doubles liaisons E de la pipérine peuvent être converties en liaisons cis dans une réaction d'isomérisation rare avec la lumière du soleil.
+
+And these isomers of piperine don't have the same heat to them.
+Et ces isomères de la pipérine n'ont pas la même chaleur.
+
+It's unclear if this isomerization is why old, ground pepper isn't super hot, and if you want to become an organic chemist to investigate that mystery, go for it!
+On ne sait pas si cette isomérisation est la raison pour laquelle le vieux poivre moulu n'est pas super chaud, et si vous voulez devenir un chimiste organique pour enquêter sur ce mystère, allez-y !
+
+With this spicy pepper inspiration, though, let’s focus on more chemical reactions involving alkenes.
+Avec cette inspiration de piment épicé, concentrons-nous sur des réactions plus chimiques impliquant des alcènes.
+
+[Theme Music]
+[Thème musical]
+
+Over the past few episodes, we've been doing reactions with alkenes that follow the same general pattern.
+Au cours des derniers épisodes, nous avons fait des réactions avec des alcènes qui suivent le même schéma général.
+
+Alkenes are nucleophilic and can attack electrophiles, so the pi bond gets broken and two sigma bonds form.
+Les alcènes sont nucléophiles et peuvent attaquer les électrophiles, de sorte que la liaison pi est rompue et que deux liaisons sigma se forment.
+
+Two groups get added to the former alkene, one to each carbon on either side of the double bond.
+Deux groupes sont ajoutés à l'ancien alcène, un à chaque carbone de chaque côté de la double liaison.
+
+But that’s a mouthful, so organic chemists say those two groups get added across the double bond, and we call these addition reactions.
+Mais c'est une bouchée, donc les chimistes organiques disent que ces deux groupes s'ajoutent à travers la double liaison, et nous appelons ces réactions d'addition.
+
+Before we dive into these puzzles, which can feel huge and messy, let's touch base.
+Avant de nous plonger dans ces énigmes, qui peuvent sembler énormes et désordonnées, touchons à la base.
+
+Organic chemistry is full of patterns, and we can use those patterns to predict, instead of memorize, reaction products.
+La chimie organique regorge de modèles, et nous pouvons utiliser ces modèles pour prédire, au lieu de mémoriser, les produits de réaction.
+
+For alkene addition reactions, there are three key questions we can ask to help us figure out what's going on.
+Pour les réactions d'addition d'alcènes, il y a trois questions clés que nous pouvons poser pour nous aider à comprendre ce qui se passe.
+
+Think of these questions as three moves that combine to make up a dance, a cool fighting combo, or a secret handshake.
+Considérez ces questions comme trois mouvements qui se combinent pour former une danse, un combo de combat cool ou une poignée de main secrète.
+
+Except... that dance or combo or handshake is just a specific kind of addition reaction with a special name.
+Sauf que... cette danse, ce combo ou cette poignée de main n'est qu'un type spécifique de réaction d'addition avec un nom spécial.
+
+Question Number 1:
+Question numéro 1 :
+
+What are we adding across the double bond?
+Qu'ajoutons-nous à travers la double liaison ?
+
+Maybe we're adding hydrogen bromide, like we have in previous episodes,
+Peut-être que nous ajoutons du bromure d'hydrogène, comme nous l'avons fait dans les épisodes précédents,
+
+so there's a proton on one carbon of the former double-bond and there's a bromine on the other carbon.
+donc il y a un proton sur un carbone de l'ancienne double liaison et il y a un brome sur l'autre carbone.
+
+Or maybe we're adding water across a double bond, H on one side and OH on the other.
+Ou peut-être ajoutons-nous de l'eau à travers une double liaison, H d'un côté et OH de l'autre.
+
+And if it is water… we call it hydration.
+Et si c'est de l'eau… nous l'appelons hydratation.
+
+Question Number 2:
+Question numéro 2 :
+
+Where will the group add on an asymmetrical molecule?
+Où le groupe va-t-il ajouter une molécule asymétrique ?
+
+For example, the left-hand carbon of the double bond in this molecule is bonded to two carbons.
+Par exemple, le carbone de gauche de la double liaison de cette molécule est lié à deux carbones.
+
+And the right-hand carbon of the double bond in this molecule is bonded to two hydrogens.
+Et le carbone de droite de la double liaison de cette molécule est lié à deux hydrogènes.
+
+As a refresher from episode 14, we learned Markovnikov's rule,
+En rappel de l'épisode 14, nous avons appris la règle de Markovnikov,
+
+which tells us that a proton adds to the carbon of the double bond that has the most hydrogens.
+qui nous dit qu'un proton s'ajoute au carbone de la double liaison qui a le plus d'hydrogènes.
+
+We call that Markovnikov addition.
+Nous appelons cela l'addition de Markovnikov.
+
+With some special reactants, these groups can add in the opposite orientation.
+Avec certains réactifs spéciaux, ces groupes peuvent s'ajouter dans l'orientation opposée.
+
+And if a proton adds to the carbon with less hydrogens, it's anti-Markovnikov addition.
+Et si un proton s'ajoute au carbone avec moins d'hydrogènes, c'est une addition anti-Markovnikov.
+
+In general, this question is defining a reaction’s tendency to bond groups to one atom over another in an asymmetrical molecule,
+En général, cette question définit la tendance d'une réaction à lier des groupes à un atome plutôt qu'à un autre dans une molécule asymétrique,
+
+a property called regioselectivity.
+une propriété appelée régiosélectivité.
+
+And Question Number 3:
+Et la question numéro 3 :
+
+What is the expected stereochemistry of the added groups?
+Quelle est la stéréochimie attendue des groupes ajoutés ?
+
+Here, we need to pay attention to how the groups add in 3D space.
+Ici, nous devons faire attention à la façon dont les groupes s'ajoutent dans l'espace 3D.
+
+If the groups we’re adding add to the same face of the double bond, it's called syn addition.
+Si les groupes que nous ajoutons s'ajoutent à la même face de la double liaison, cela s'appelle l'addition syn.
+
+Or if they add on opposite faces, it's called anti addition.
+Ou s'ils ajoutent sur des faces opposées, cela s'appelle anti-addition.
+
+That's it!
+C'est ça! 
+
+These three questions are the key to deciphering the secret handshakes of addition reactions.
+Ces trois questions sont la clé pour déchiffrer les poignées de main secrètes des réactions d'addition.
+
+Let's start with an addition reaction called halogenation.
+Commençons par une réaction d'addition appelée halogénation.
+
+We're adding chlorine or bromine across the double bond, both of which are in the halogen group of the periodic table.
+Nous ajoutons du chlore ou du brome à travers la double liaison, qui sont tous deux dans le groupe halogène du tableau périodique.
+
+That answers Question Number 1!
+Cela répond à la question numéro 1 !
+
+By the way, we typically perform this reaction in a non-nucleophilic solvent like carbon tetrachloride.
+Soit dit en passant, nous effectuons généralement cette réaction dans un solvant non nucléophile comme le tétrachlorure de carbone.
+
+For Question Number 2, we're adding the same group, a bromine, on both sides so regioselectivity doesn't matter here.
+Pour la question numéro 2, nous ajoutons le même groupe, un brome, des deux côtés, donc la régiosélectivité n'a pas d'importance ici.
+
+And for Question Number 3, see that one bromine adds to the top of the ring and one bromine adds to the bottom of the ring, so this is anti addition.
+Et pour la question numéro 3, voyez qu'un brome s'ajoute au sommet de l'anneau et un brome s'ajoute au bas de l'anneau, il s'agit donc d'un anti-ajout.
+
+We've got to step through the reaction to understand why it happens this way though.
+Nous devons passer par la réaction pour comprendre pourquoi cela se produit de cette façon.
+
+Let's look at the mechanism of cycloheptene with molecular bromine.
+Regardons le mécanisme du cycloheptène avec le brome moléculaire.
+
+Remember HBr is a strong acid and completely dissociates in water.
+N'oubliez pas que le HBr est un acide fort et qu'il se dissocie complètement dans l'eau.
+
+This means that bromide, Br minus, is pretty stable on its own.
+Cela signifie que le bromure, Br moins, est assez stable en soi.
+
+So, the nucleophilic alkene can attack bromine, pushing off Br minus and forming a cation.
+Ainsi, l'alcène nucléophile peut attaquer le brome, repoussant Br moins et formant un cation.
+
+But here's a possible dilemma: thinking about stereochemistry, the bromide ion could attack a planar carbocation on either face of the ring.
+Mais voici un dilemme possible : en pensant à la stéréochimie, l'ion bromure pourrait attaquer un carbocation plan sur l'une ou l'autre face de l'anneau.
+
+That would give us a mixture of syn and anti addition, but experimentally that doesn’t happen here, we only get the anti product.
+Cela nous donnerait un mélange d'addition syn et anti, mais expérimentalement, cela ne se produit pas ici, nous n'obtenons que l'anti produit.
+
+So there's something tricky going on that prevents the syn addition: we don’t form a simple carbocation here!
+Il y a donc quelque chose de délicat qui empêche l'addition de syn : nous ne formons pas un simple carbocation ici !
+
+If we think about bromine donating a pair of its electrons to the nearby positive charge, we form a structure called a bromonium ion.
+Si nous pensons au brome donnant une paire de ses électrons à la charge positive voisine, nous formons une structure appelée ion bromonium.
+
+This high-energy bridge helps stabilize the positive charge.
+Ce pont à haute énergie aide à stabiliser la charge positive.
+
+To get straight to the bromonium ion, we need to adjust our arrow pushing for the first step.
+Pour accéder directement à l'ion bromonium, nous devons ajuster notre flèche en poussant pour la première étape.
+
+The alkene attacks, Br-minus is kicked off, and we also show a lone pair from the bromine we attacked reaching back to attack the alkene to form the bridge.
+L'alcène attaque, Br-moins est lancé, et nous montrons également une seule paire du brome que nous avons attaqué en remontant pour attaquer l'alcène pour former le pont.
+
+The bromonium ion is a major contributor to the resonance hybrid and blocks that face of the ring.
+L'ion bromonium est un contributeur majeur à l'hybride de résonance et bloque cette face de l'anneau.
+
+So the remaining bromide ion is forced to attack the opposite side of the ring, and it's anti-addition.
+Ainsi, l'ion bromure restant est forcé d'attaquer le côté opposé de l'anneau, et c'est anti-addition.
+
+To sum up our combo key to halogenation, we've got this notecard!
+Pour résumer notre clé combo à l'halogénation, nous avons cette notecard !
+
+We'll make one for all these reactions.
+Nous en ferons un pour toutes ces réactions.
+
+Now let's learn a twist on halogenation: an addition reaction called halohydrin formation.
+Apprenons maintenant une tournure sur l'halogénation : une réaction d'addition appelée formation d'halohydrine.
+
+"Halo-" comes from halogen and the "hydrin" comes from water, think hydration.
+"Halo-" vient de l'halogène et "l'hydrine" vient de l'eau, pensez à l'hydratation.
+
+So for Question Number 1, we're still adding chlorine or bromine across the double bond, just in a solvent like water that's also a nucleophile.
+Donc, pour la question numéro 1, nous ajoutons toujours du chlore ou du brome à travers la double liaison, juste dans un solvant comme l'eau qui est aussi un nucléophile.
+
+Because there are many solvent molecules around, we get a different final product.
+Comme il existe de nombreuses molécules de solvant, nous obtenons un produit final différent.
+
+To see what I mean, let's predict the products if we had an asymmetrical alkene such as Z-3-methylpent-2-ene
+Pour voir ce que je veux dire, prédisons les produits si nous avions un alcène asymétrique tel que le Z-3-méthylpent-2-ène
+
+and react it with molecular chlorine, but
+this time using water as a solvent.
+et le faisions réagir avec du chlore moléculaire, mais
+cette fois en utilisant de l'eau comme solvant.
+
+First, the nucleophilic alkene attacks chlorine.
+Premièrement, l'alcène nucléophile attaque le chlore.
+
+Like what we saw with bromination, a chloronium ion forms to stabilize the positive charge.
+Comme ce que nous avons vu avec la bromation, un ion chloronium se forme pour stabiliser la charge positive.
+
+Stereochemically speaking, the chloronium bridge can be sticking up or down,
+Stéréochimiquement parlant, le pont chloronium peut être collé vers le haut ou vers le bas,
+
+which ultimately means that we'll get equal amounts of these two enantiomers reacting with water to make our final products.
+ce qui signifie finalement que nous obtiendrons des quantités égales de ces deux énantiomères réagissant avec l'eau pour fabriquer nos produits finaux.
+
+If you remember all the way back to episodes 8 and 9, that's a racemic mixture!
+Si vous vous souvenez des épisodes 8 et 9, c'est un mélange racémique !
+
+Now it's time to think about Question Number 2.
+Il est maintenant temps de penser à la question numéro 2.
+
+The next step in a halohydrin reaction involves a water molecule as our nucleophilic attacker.
+La prochaine étape d'une réaction d'halohydrine implique une molécule d'eau comme attaquant nucléophile.
+
+Oxygen’s lone pair is going to attack at the side where we can draw a carbocation that contributes more to the resonance hybrid, which is the tertiary one.
+La seule paire d'oxygène va attaquer du côté où l'on peut dessiner un carbocation qui contribue davantage à l'hybride de résonance, qui est le tertiaire.
+
+So we would expect water to add to the more substituted side of the bond, and this reaction is regioselective.
+Nous nous attendrions donc à ce que de l'eau s'ajoute au côté le plus substitué de la liaison, et cette réaction est régiosélective.
+
+For Question Number 3, the chloronium ion blocks syn addition, so the water molecule adds anti.
+Pour la question numéro 3, l'ion chloronium bloque l'addition syn, donc la molécule d'eau ajoute anti.
+
+And then a second water molecule deprotonates the oxonium ion… forming an alcohol group in the final products.
+Et puis une deuxième molécule d'eau déprotone l'ion oxonium… formant un groupe alcool dans les produits finaux.
+
+They're called chlorohydrins, because this is a halohydrin formation reaction.
+On les appelle chlorhydrines, car il s'agit d'une réaction de formation d'halohydrine.
+
+Whew!
+Ouf! 
+
+We can sum up halohydrin formation with this notecard.
+Nous pouvons résumer la formation d'halohydrine avec cette notecard.
+
+Both of the addition reactions we just learned involve halogens and alkenes, but in episode 14 we looked at acid-catalyzed hydration.
+Les deux réactions d'addition que nous venons d'apprendre impliquent des halogènes et des alcènes, mais dans l'épisode 14, nous avons examiné l'hydratation catalysée par un acide.
+
+An acid catalyst helped us add water across the double bond.
+Un catalyseur acide nous a aidés à ajouter de l'eau à travers la double liaison.
+
+This reaction involves a 1,2 hydride shift, but not all acid-catalyzed hydrations do.
+Cette réaction implique un déplacement 1,2 hydrure, mais pas toutes les hydratations catalysées par un acide.
+
+If you want a detailed reaction mechanism, you can go watch episode 14.
+Si vous voulez un mécanisme de réaction détaillé, vous pouvez aller regarder l'épisode 14.
+
+But here's a notecard to compare it with the other reactions we're learning in this episode.
+Mais voici une notecard pour le comparer avec les autres réactions que nous apprenons dans cet épisode.
+
+To add a nucleophile like water without carbocation rearrangements, we can use a reaction called oxymercuration/reduction.
+Pour ajouter un nucléophile comme l'eau sans réarrangements de carbocation, nous pouvons utiliser une réaction appelée oxymercuration/réduction.
+
+To help remember this, think of mercury as a tiny red stop sign of a planet, blocking shifty carbocations.
+Pour vous aider à vous en souvenir, considérez le mercure comme un minuscule panneau d'arrêt rouge d'une planète, bloquant les carbocations sournois.
+
+The name oxymercuration means using a mercury atom to help add oxygen across the double bond.
+Le nom d'oxymercuration signifie l'utilisation d'un atome de mercure pour aider à ajouter de l'oxygène à travers la double liaison.
+
+And the reduction part is how we get rid of the mercury atom after it's done its job.
+Et la partie réduction est la façon dont nous nous débarrassons de l'atome de mercure après qu'il a fait son travail.
+
+So for Question Number 1, we're adding a nucleophile with an oxygen in it across a double bond, with the help of mercury acetate.
+Donc, pour la question numéro 1, nous ajoutons un nucléophile avec un oxygène à travers une double liaison, à l'aide d'acétate de mercure.
+
+We’re going to use water here to be consistent with our other reactions, but we can also use alcohols in this reaction and form an ether as the product.
+Nous allons utiliser de l'eau ici pour être cohérent avec nos autres réactions, mais nous pouvons également utiliser des alcools dans cette réaction et former un éther comme produit.
+
+Let's start by looking at our reaction arrow.
+Commençons par regarder notre flèche de réaction.
+
+Next to the "1." we have mercury (II) acetate and water.
+À côté du "1".  nous avons de l'acétate de mercure (II) et de l'eau.
+
+What's interesting about metal complexes like our mercury friend here, is that the bonds aren’t as tight as organic molecules,
+Ce qui est intéressant avec les complexes métalliques comme notre ami le mercure ici, c'est que les liaisons ne sont pas aussi étroites que les molécules organiques,
+
+which means the attached groups dissociate easily.
+ce qui signifie que les groupes attachés se dissocient facilement.
+
+Our mercury (II) can either be attached to one or two acetate molecules at any time in solution.
+Notre mercure (II) peut être attaché à une ou deux molécules d'acétate à tout moment en solution.
+
+And when it's single-bonded, the mercury has a formal positive charge.
+Et lorsqu'il est à simple liaison, le mercure a une charge positive formelle.
+
+That makes our first step pretty clear: mercury (II) acetate is our cation and electrophile.
+Cela rend notre première étape assez claire : l'acétate de mercure (II) est notre cation et notre électrophile.
+
+So the alkene, our nucleophile, has something to attack!
+Alors l'alcène, notre nucléophile, a quelque chose à attaquer !
+
+But, like bromine and chlorine, the mercury has a lone pair of electrons that can reach back and make another high-energy bridge… do you sense a pattern here?
+Mais, comme le brome et le chlore, le mercure a une seule paire d'électrons qui peut revenir en arrière et créer un autre pont à haute énergie... sentez-vous un motif ici ?
+
+This makes an intermediate called a mercurinium ion, which helps stabilize the positive charge,
+Cela crée un intermédiaire appelé ion mercurinium, qui aide à stabiliser la charge positive,
+
+but also blocks any sort of 1,2-shifts we’d get with a plain old carbocation!
+mais bloque également toute sorte de décalages 1,2 que nous obtiendrions avec un simple carbocation !
+
+The mercurinium can form on either face of the alkene, like we saw with the chloronium ion before.
+Le mercurinium peut se former sur l'une ou l'autre face de l'alcène, comme nous l'avons vu avec l'ion chloronium auparavant.
+
+We still haven't used up everything from the
+"1." above the reaction arrow.
+Nous n'avons pas encore tout utilisé du
+"1".  au-dessus de la flèche de réaction.
+
+So in this next step, water is our nucleophile and attacks the carbon that better stabilizes a positive charge.
+Ainsi, dans cette prochaine étape, l'eau est notre nucléophile et attaque le carbone qui stabilise mieux une charge positive.
+
+Then, a second molecule of water swoops in and deprotonates, just like the one-two punch in other hydration reactions we’ve seen.
+Ensuite, une deuxième molécule d'eau pénètre et se déprotone, tout comme le coup de poing un-deux dans d'autres réactions d'hydratation que nous avons vues.
+
+That's another pattern to notice as we do more reactions!
+C'est une autre tendance à remarquer alors que nous faisons plus de réactions !
+
+And to answer Question Number 2 about regioselectivity, water adds to the more substituted carbon.
+Et pour répondre à la question numéro 2 sur la régiosélectivité, l'eau s'ajoute au carbone le plus substitué.
+
+Finally, we're ready to move onto the "2." below the reaction arrow, which is sodium borohydride.
+Enfin, nous sommes prêts à passer au "2".  sous la flèche de réaction, qui est le borohydrure de sodium.
+
+We're actually going to skip the details here because it's a metal reaction mechanism, which gets into inorganic chemistry.
+Nous allons en fait sauter les détails ici car il s'agit d'un mécanisme de réaction métallique, qui entre dans la chimie inorganique.
+
+Basically, all we need to know for this series is that a hydrogen atom replaces the mercury and we get our alcohol.
+Fondamentalement, tout ce que nous devons savoir pour cette série, c'est qu'un atome d'hydrogène remplace le mercure et nous obtenons notre alcool.
+
+And to answer Question Number 3, the mercurinium ion blocks a side of the double bond, so we have anti addition of the alcohol.
+Et pour répondre à la question numéro 3, l'ion mercurinium bloque un côté de la double liaison, nous avons donc un anti-addition de l'alcool.
+
+The really important piece to remember here is that we get Markovnikov addition and no rearrangement products.
+L'élément vraiment important à retenir ici est que nous obtenons une addition de Markovnikov et aucun produit de réarrangement.
+
+So to sum up our combo key to oxymercuration, here's another notecard.
+Donc, pour résumer notre clé combo à l'oxymercuration, voici une autre notecard.
+
+OK, we're just going to squeeze in one more alkene addition reaction here: deep breath, we got this!
+OK, nous allons juste insérer une autre réaction d'ajout d'alcène ici : respiration profonde, nous avons compris !
+
+Our last reaction is called hydroboration.
+Notre dernière réaction s'appelle l'hydroboration.
+
+Its name comes from the fact that we're adding water across the double bond, which gives us "hydro-"
+Son nom vient du fait que nous ajoutons de l'eau à travers la double liaison, ce qui nous donne "hydro-"
+
+and we're going to use boron to help us do it, which gives us "-boration."
+et nous allons utiliser du bore pour nous aider à le faire, ce qui nous donne "-boration".
+
+So the answer to Question Number 1 is: we add borane and replace it with an OH.
+La réponse à la question numéro 1 est donc : nous ajoutons du borane et le remplaçons par un OH.
+
+Overall, it’s like adding water across the double bond.
+Dans l'ensemble, c'est comme ajouter de l'eau à travers la double liaison.
+
+Like most of these alkene addition reactions, hydroboration has two separate steps.
+Comme la plupart de ces réactions d'addition d'alcènes, l'hydroboration comporte deux étapes distinctes.
+
+To start the reaction, our nucleophile, 1-methylpent-1-ene, attacks the boron-containing reagent, which we will represent here as BH3.
+Pour démarrer la réaction, notre nucléophile, le 1-méthylpent-1-ène, attaque le réactif contenant du bore, que nous représenterons ici par BH3.
+
+And in hydroboration, this kicks off a weird chain reaction where all bonds break and form at the same time, called a concerted reaction.
+Et dans l'hydroboration, cela déclenche une étrange réaction en chaîne où toutes les liaisons se rompent et se forment en même temps, appelée réaction concertée.
+
+Because a boron atom is chunkier it has to add to the less hindered carbon and our four-membered transition state looks like this.
+Parce qu'un atome de bore est plus gros, il doit s'ajouter au carbone le moins encombré et notre état de transition à quatre membres ressemble à ceci.
+
+We show the remaining two H's from BH3 still on the boron, but in reality, those hydrogens can also add to two other alkene molecules.
+Nous montrons les deux H restants de BH3 toujours sur le bore, mais en réalité, ces hydrogènes peuvent également s'ajouter à deux autres molécules d'alcène.
+
+So to answer Question Number Two, this is anti-Markovnikov addition.
+Donc, pour répondre à la question numéro deux, c'est un ajout anti-Markovnikov.
+
+The boron reagent is big, so the smaller hydrogen has to be added to the more substituted carbon.
+Le réactif de bore est grand, donc le plus petit hydrogène doit être ajouté au carbone le plus substitué.
+
+For Question Number Three, because the B and the H are still attached during this funky concerted reaction, they have to add to the same side of the ring.
+Pour la question numéro trois, parce que le B et le H sont toujours attachés pendant cette réaction concertée géniale, ils doivent s'ajouter du même côté de l'anneau.
+
+So hydroboration is always syn addition.
+L'hydroboration est donc toujours une addition syn.
+
+This isn't our final product because we still have to use the chemicals in step 2 to get rid of the borane and make our alcohol, in a reaction called oxidation.
+Ce n'est pas notre produit final car nous devons encore utiliser les produits chimiques de l'étape 2 pour nous débarrasser du borane et fabriquer notre alcool, dans une réaction appelée oxydation.
+
+The peroxide, H2O2, and sodium hydroxide act like referees in this process, breaking off the boron and leaving behind the alcohol group.
+Le peroxyde, H2O2 et l'hydroxyde de sodium agissent comme des arbitres dans ce processus, brisant le bore et laissant derrière eux le groupe alcool.
+
+We'll get into oxidation more next time, but for now, let's sum up our three-combo key to hydroboration.
+Nous aborderons davantage l'oxydation la prochaine fois, mais pour l'instant, résumons notre clé à trois combos de l'hydroboration.
+
+And here's a quick comparison of the three alkene addition reactions that form alcohols:
+Et voici une comparaison rapide des trois réactions d'addition d'alcènes qui forment des alcools : l'
+
+Acid-catalyzed hydration has Markovnikov regioselectivity, is not stereoselective, and can have carbocation rearrangements.
+hydratation catalysée par un acide a une régiosélectivité de Markovnikov, n'est pas stéréosélective et peut avoir des réarrangements de carbocation.
+
+Oxymercuration has Markovnikov regioselectivity and blocks carbocation rearrangements.
+L'oxymercuration a une régiosélectivité de Markovnikov et bloque les réarrangements de carbocation.
+
+And hydroboration has anti-Markovnikov regioselectivity, syn-stereochemistry, and no carbocation rearrangements.
+Et l'hydroboration a une régiosélectivité anti-Markovnikov, une syn-stéréochimie et aucun réarrangement de carbocation.
+
+Depending on where we want the alcohol to end up, we can choose the perfect reagent!
+En fonction de l'endroit où nous voulons que l'alcool aboutisse, nous pouvons choisir le réactif parfait !
+
+So remember to practice recognizing these patterns… even though they might be tricky at first.
+N'oubliez donc pas de vous entraîner à reconnaître ces schémas… même s'ils peuvent être difficiles au début.
+
+In this episode:
+Dans cet épisode :
+
+We began to create three-move combos for alkene addition reactions that specify
+Nous avons commencé à créer des combos en trois mouvements pour les réactions d'addition d'alcènes qui spécifient
+
+1) what is being added across the alkene,
+1) ce qui est ajouté à travers l'alcène,
+
+2) regioselectivity, and
+2) la régiosélectivité et
+
+3) stereochemistry.
+3) la stéréochimie.
+
+And we learned a bunch of addition reactions to alkenes
+Et nous avons appris un tas de réactions d'addition aux alcènes
+
+In the next episode, we'll investigate even more alkene addition reactions, focusing on oxidation and reduction.
+Dans le prochain épisode, nous étudierons encore plus de réactions d'addition d'alcènes, en nous concentrant sur l'oxydation et la réduction.
+
+Thanks for watching this episode of Crash Course Organic Chemistry.
+Merci d'avoir regardé cet épisode de Crash Course Organic Chemistry.
+
+If you want to help keep all Crash Course free for everybody, forever, you can join our community on Patreon.
+Si vous voulez aider à garder tous les cours intensifs gratuits pour tout le monde, pour toujours, vous pouvez rejoindre notre communauté sur Patreon.
+

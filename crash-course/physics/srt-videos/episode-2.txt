@@ -1,0 +1,302 @@
+Chaque discipline scientifique a son propre langage,
+
+une manière de communiquer sur ses problématiques propres.
+
+Par exemple, la biologie ordonne le monde en donnant à tout être vivant un nom en latin.
+
+La chimie a un système de préfixes, suffixes et numéros pour vous donner en quelques mots
+
+la composition exacte d'un atome ou d'un composé.
+
+Mais la physique doit communiquer ses idées différemment.
+
+Le langage de la physique, ce sont les mathématiques.
+
+Parce que si vous voulez décrire le fonctionnement du monde, vous devez savoir comment
+
+les choses sont liées entre elles mathématiquement.
+
+Par exemple, nous avons beaucoup parlé de position, de vitesse et d'accélération, et de leurs liens.
+
+La vitesse mesure la variation de votre position, et l'accélération mesure la variation de votre vitesse.
+
+Elles sont reliées, une décrit comment l'autre varie.
+
+Et en mathématiques, les variations s'expriment grâce à l'algèbre.
+
+L'algèbre explique comment et pourquoi les choses changent, en utilisant les dérivées,
+
+ce qui vous aidera à étudier la variation d'une expression, de même que les intégrales,
+
+qui vous aideront à calculer l'aire sous une courbe.
+
+Les dérivées et les intégrales sont elles-mêmes étroitement liées. Mais commençons par les dérivées.
+
+Vous ne réussirez probablement pas votre examen uniquement grâce à ce cours.
+
+Mais heureusement, en environ 10 minutes, vous serez capable de mieux comprendre les raisonnements
+
+utilisés par les scientifiques pour penser la physique durant les 400 dernières années.
+
+Et vous aurez aussi une nouvelle façon de combattre les contraventions pour excès de vitesse. Au cas où.
+
+[Musique du générique]
+
+La dernière fois, nous avons parlé de cette épisode malheureux où vous avez eu une contravention.
+
+Votre compteur de vitesse était cassé, mais grâce à votre accélération, nous avons pu calculer
+
+la vitesse à laquelle la police vous a arrêté.
+
+Maintenant, parlons de la suite.
+
+La police s'en va. Vous êtes prêt à repartir, donc vous appuyez sur la pédale et
+
+vous avancez, de plus en plus vite.
+
+Mais dans ce scénario, nous ne connaissons pas votre accélération.
+
+Nous savons juste comment votre position évolue dans le temps.
+
+Ici, votre position est égale à la durée pendant laquelle vous
+
+avez conduit, élevée au carré. Nous décrirons cela avec l'équation x = t^2.
+
+20 secondes plus tard, vous passez devant un panneau indiquant votre vitesse. Vous poursuivez votre route,
+
+le pied toujours sur l'accélérateur, quand vous réalisez le nombre que vous avez vu sur le panneau.
+
+Et... Oh non ! Vous avez eu une amende dans l'épisode précédent en roulant à 126 km/h au lieu de 100 km/h,
+
+Et d'après le panneau vous êtes en train d'aller encore plus vite !
+
+Vous voulez savoir si le nombre sur le panneau est fiable, en d'autres termes vous voulez
+
+retrouver votre vitesse, au moment où vous êtes passé devant.
+
+Cette vitesse n'est qu'une mesure de la variation de votre vitesse, sa dérivée.
+
+Donc, pour trouver votre vitesse, vous aurez besoin de trouver la dérivée de votre position.
+
+Et pour ce faire, nous devons d'abord parler des limites.
+
+Pas les limites de vitesse, je parle toujours des dérivées. Je vais expliquer.
+
+Les limites reposent sur l'idée que si vous avez une équation sur un graphe, vous pouvez souvent prédire
+
+à quoi elle va ressembler en un point, juste en connaissant à quoi elle ressemble aux points voisins.
+
+Par exemple, prenons le graphe de x = t^2, de notre scénario précédent.
+
+Et vous voulez savoir comment évolue votre position au moment où t = 0.
+
+C'est ce que nous appelons la limite quant t tend vers zéro.
+
+Donc vous regardez ce qui se passe autour de t = 0.
+
+À t = 1, x vaut 1.
+
+À t = 0,5, x vaut 0,25.
+
+Et à t = 0,1, x vaut 0,01.
+
+Nous pouvons dire qu'en se rapprochant de plus en plus de t = 0, la valeur de x va
+
+se rapprocher elle aussi de zéro. C'est ce qu'entendent les mathématiciens en parlant de limite.
+
+Les limites aident à prédire ce qui se passe quand les intervalles deviennent de plus en plus petits.
+
+Un intervalle est un segment sur un graphe, c'est l'espace entre deux points sur l'axe horizontal.
+
+La première chose que nous allons faire est calculer la vitesse moyenne sur l'intervalle de
+
+15 à 20 secondes. Pour ce faire, nous pouvons utiliser une équation dont nous avons parlé
+
+la dernière fois. La vitesse moyenne est égale à
+
+la variation de votre position divisée par la variation de temps.
+
+Ce qui donne 35 m/s.
+
+Le problème est, ce n'est qu'une moyenne. Ce n'est pas exactement la vitesse à laquelle vous allez après
+
+une accélération de 20 secondes, quand vous avez passé le radar.
+
+Grâce aux limites, nous savons que nous pouvons approcher le bon nombre en
+
+calculant votre moyenne sur des intervalles de plus en plus petit. Ainsi vous verriez que le
+
+nombre semble se rapprocher de plus en plus près de 40 m/s.
+
+Ce qui signifie que vous allez devoir ralentir si vous ne voulez pas avoir
+
+une seconde contravention aujourd'hui.
+
+Mais c'est le principe des dérivées : vous pouvez utiliser des intervalles infiniment petits pour découvrir
+
+exactement comment évolue une expression à n'importe quel moment.
+
+Vous pouvez même trouver une expression pour décrire cette variation. C'est ce qu'est la vitesse,
+
+une expression qui décrit la variation d'une position.
+
+Et l'accélération décrit la variation de la vitesse.
+
+Donc nous appellerons « vitesse » la dérivée de la position et « accélération » la dérivée de la vitesse.
+
+Quand il s'agit de l'expression d'une dérivée, les mathématiciens ont
+
+trouvé des astuces.
+
+Comme ce que nous appelons la « règle des puissances ».
+
+Comme le suggère le nom, on l'utilise pour les équations avec des variables élevées à une certaine puissance,
+
+du moment que l'exposant est un nombre.
+
+Par exemple, avec x = t^2, on peut appliquer la règle des puissances, parce que t est élevé à la puissance 2.
+
+La règle des puissances dit que pour calculer la dérivée de ce genre d'expression,
+
+vous devez utiliser une simple astuce.
+
+Prenez le nombre en exposant -- ici, 2 -- et mettez le devant la
+
+variable. Ensuite, retirez 1 de l'exposant.
+
+Et vous avez votre dérivée.
+
+Donc la dérivée de x = t^2 est simplement 2t. Ce qui signifie que quelque soit le temps où vous avez
+
+eu votre pied sur la pédale d'accélération, votre vitesse sera de 2t, soit le double du nombre de secondes.
+
+Après 5 secondes, vous irez à 10 m/s. Mais après 20 secondes, vous irez à
+
+40 m/s. Ce qui n'est pas bien. Nous écririons ceci ainsi, où dx/dt est simplement une façon de
+
+dire que nous prenons la dérivée de la partie de l'expression qui implique t.
+
+Ou, comme dirait un mathématicien, nous prenons la dérivée de x par rapport à t.
+
+Vous verrez aussi quelquefois ceci écrit de cette façon :
+
+« Si f de t est égal à t au carré, alors f prime de t est égal à deux t. »
+
+Maintenant, trouvons d'autres dérivées en utilisant la règle des puissances.
+
+x = 7t^6 est une autre expression de ce genre. Il y a la variable t élevée à la puissance 6,
+
+avec un nombre placé devant, 7. La première chose à faire est de prendre l'exposant, et de le mettre
+
+devant la variable.
+
+Mais il y a déjà un nombre devant t : 7. Donc nous les multiplions entre eux. 7 fois
+
+6 donne 42. Puis nous soustrayons 1 de la puissance de t. Nous obtenons 42t^5.
+
+Il en va de même quand les exposants ne sont pas des nombres entiers. Donc la dérivée
+
+de t^½ est un demi t à la puissance « -½ ».
+
+Cela marche aussi pour les exposants négatifs, la dérivée de t^-2 est simplement -2t^-3.
+
+Cela marche aussi pour les exposants négatifs, la dérivée de t^-2 est simplement -2t^-3.
+
+Il y a quelques autres expressions dont vous devriez connaître les dérivées.
+
+La trigonométrie, qui permet de calculer les angles et les longueurs des côtés des triangles, va
+
+servir beaucoup en physique, parce que nous utiliserons des triangles rectangles tout le temps.
+
+Donc c'est une bonne idée de connaître la dérivée de sin(x) et de cos(x).
+
+Le sinus vous dit que si vous avez un triangle rectangle et que x est un angle dans ce triangle, alors sin(x)
+
+sera la longueur du côté opposé à x divisée par la longueur de l'hypoténuse.
+
+Le cosinus fait la même chose, avec la longueur du côté adjacent à x divisée par la longueur de l'hypoténuse.
+
+Donc leurs graphes vous diront ce que valent ces ratios, selon la valeur de l'angle.
+
+Nous pouvons essayer de deviner la dérivée de sin(x), uniquement en regardant son graphe.
+
+Vous pouvez voir que la courbe atteint des extrêmes régulièrement, à x = -90 degrés, à x = 90
+
+degrés, et ainsi de suite, tout les 180 degrés.
+
+Ce qui signifie, en ces points, les expressions ne changent pas du tout. Donc la dérivée en ces
+
+points extrêmes va valoir exactement zéro.
+
+Prenons un autre graphe où nous allons tracer la dérivée, et plaçons les points où
+
+nous savons que la dérivée vaudra zéro.
+
+Que se passe-t-il en ces extrêmes ? De -270 à -90 degrés, sin(x)
+
+est décroissante.
+
+En d'autres mots, sa variation, et donc sa dérivée, est négative.
+
+Ensuite, de -90 à 90 degrés, sin(x) est croissante, donc elle aura une dérivée positive. Et ainsi de suite.
+
+Il y a bien d'autres indications dans ce graphe pour nous aider à trouver la dérivée, mais
+
+nous en savons déjà suffisamment pour en faire une approximation décente.
+
+Si nous relions soigneusement les points sur le graphe de notre dérivée, en gardant à l'esprit où la
+
+courbe doit être positive et où elle doit être négative... nous obtenons une dérivée qui ressemble
+
+beaucoup au graphe de cos(x).
+
+Parce que c'est le cas. La dérivée de sinus est simplement cosinus, et cela va
+
+revenir très souvent.
+
+De même que ceux-là, que vous pouvez retrouver en répétant ce que nous venons de faire avec les
+
+graphes de sin(x) et cos(x).
+
+Une autre dérivée importante qui revient souvent est un cas très spécial, il s'agit de
+
+e^x. La dérivée de e^x est simplement... e^x.
+
+Oui, c'est comme ça. Quoique vous puissiez dire.
+
+En fait, c'est une manière de définir e, qui est un peu comme pi au sens où il s'agit
+
+d'une simple lettre représentant un nombre irrationnel très spécifique valant environ 2,718 avec
+
+encore plus de décimales derrière la virgule.
+
+Il a toute sorte d'applications en algèbre, mais il apparaît aussi quand vous étudier des choses
+
+comme la finance et les probabilités.
+
+Armé avec toutes ces méthodes, vous pouvez prendre presque n'importe quelle expression de
+
+votre position et calculer sa dérivée, et ainsi votre vitesse.
+
+De même, vous pouvez prendre la dérivée de votre vitesse et trouvez votre accélération.
+
+Mais il y a toujours toute une partie de l'algèbre que nous n'avons pas encore évoqué : les intégrales,
+
+qui vous permettront de faire ceci dans l'autre sens.
+
+Avec les intégrales, vous pouvez retrouver votre vitesse à partir de votre accélération, puis votre position.
+
+Mais nous garderons ceci pour la prochaine fois.
+
+Aujourd'hui, vous avez appris les limites, et l'utilisation qu'en font les dérivées pour étudier les variations.
+
+Nous avons aussi vu quelques dérivées : les puissances, les constantes, la trigonométrie et e^x.
+
+Crash Course Physics est produit en association avec PBS Digital Studios. Vous pouvez aller sur
+
+leur chaîne et découvrir des émissions formidables comme Deep Look, The Good Stuff et PBS Space Time.
+
+Cet épisode de Crash Course a été filmé dans le Doctor Cheryl C. Kinney Crash Course Studio
+
+avec l'aide de tous ces gens formidables... et notre équipe graphique est Thought Cafe.
+

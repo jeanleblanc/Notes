@@ -1,0 +1,857 @@
+You can review content from Crash Course Organic Chemistry with the Crash Course App,
+Vous pouvez consulter le contenu de Crash Course Organic Chemistry avec l'application Crash Course,
+
+available now for Android and iOS devices.
+disponible dès maintenant pour les appareils Android et iOS.
+
+Hi! I’m Deboki Chakravarti and welcome 
+to Crash Course Organic Chemistry!
+Salut!  Je suis Deboki Chakravarti et bienvenue
+au cours intensif de chimie organique !
+
+In this series, we've been sprinkling in synthesis episodes to introduce   lab techniques that an organic chemist might use in a typical day –
+Dans cette série, nous avons saupoudré d'épisodes de synthèse pour présenter   les techniques de laboratoire qu'un chimiste organique pourrait utiliser au cours d'une journée type -
+
+it can get pretty busy!
+cela peut être très chargé !
+
+A lot of research and planning 
+goes into running new reactions,
+De nombreuses recherches et planifications sont
+consacrées à l'exécution de nouvelles réactions
+
+so first they perform structure-based 
+computer searches of chemical reactions to find what's been done before.
+. Ils effectuent donc d'abord des recherches informatiques basées sur la structure
+des réactions chimiques pour trouver ce qui a été fait auparavant.
+
+They could be making new chemicals,
+Ils pourraient fabriquer de nouveaux produits chimiques
+
+so they’ll spend lots of time reading procedures and consulting safety data sheets of compounds similar to what they want to make
+, ils passeront donc beaucoup de temps à lire des procédures et à consulter des fiches de données de sécurité de composés similaires à ce qu'ils veulent fabriquer
+
+Once our chemist finds procedures,
+Une fois que notre chimiste aura trouvé des procédures,
+
+they’ll want to try different reaction 
+conditions to see which works best.
+il voudra essayer différentes
+conditions de réaction pour voir ce qui fonctionne  meilleur. 
+
+So they set up tiny reactions to preview 
+using thin layer chromatography –
+Ils ont donc mis en place de minuscules réactions à prévisualiser à l'
+aide de la chromatographie sur couche mince.
+
+remember, that's TLC for short!
+N'oubliez pas que c'est TLC en abrégé !
+
+And if TLC looks promising,
+Et si la CCM semble prometteuse,
+
+they may take a proton NMR of the unpurified reaction mixture to check for characteristic product peaks.
+ils peuvent effectuer une RMN du proton du mélange réactionnel non purifié pour vérifier les pics caractéristiques du produit.
+
+Next, the chemist will scale up the best 
+reaction to make a larger amount of product.
+Ensuite, le chimiste augmentera la meilleure
+réaction pour fabriquer une plus grande quantité de produit.
+
+When the reaction is done, they’ll work it up,
+Une fois la réaction terminée, ils la travailleront,
+
+which is lab lingo for performing an extraction 
+to remove some side products based on solubility.
+ce qui est un jargon de laboratoire pour effectuer une extraction
+afin d'éliminer certains produits secondaires en fonction de la solubilité.
+
+Now it’s purification time!
+C'est maintenant l'heure de la purification !
+
+Organic chemistry involves a 
+LOT of flash chromatography –
+La chimie organique implique
+BEAUCOUP de chromatographie flash -
+
+sometimes running several columns in one day.
+exécutant parfois plusieurs colonnes en une journée.
+
+Remember, this type of purification lets 
+us separate compounds based on polarity.
+N'oubliez pas que ce type de purification nous permet de
+séparer les composés en fonction de leur polarité.
+
+But we can also use other chemical 
+properties to purify organic compounds.
+Mais nous pouvons également utiliser d'autres
+propriétés chimiques pour purifier les composés organiques.
+
+So let’s learn about some different lab techniques and practice some synthesis problems along the way!
+Alors apprenons différentes techniques de laboratoire et pratiquons quelques problèmes de synthèse en cours de route !
+
+[Theme Music]
+[Thème musical]
+
+In the past three episodes, we learned five major 
+electrophilic aromatic substitution reactions:
+Au cours des trois derniers épisodes, nous avons appris cinq
+réactions de substitution électrophiles aromatiques majeures : l'
+
+halogenation, nitration, sulfonation,  
+halogénation, la nitration, la sulfonation, l'
+
+Friedel-Crafts alkylation, 
+and Friedel-Crafts acylation.
+alkylation
+de Friedel-Crafts et l'acylation de Friedel-Crafts.
+
+We also learned that the Friedel-Crafts 
+reactions have three main limitations.
+Nous avons également appris que les réactions de Friedel-
+Crafts ont trois limites principales.
+
+First of all, both of them don’t work so well on rings with powerful electron-withdrawing groups,
+Tout d'abord, les deux ne fonctionnent pas si bien sur les anneaux avec de puissants groupes attracteurs d'électrons,
+
+like nitrobenzene.
+comme le nitrobenzène.
+
+Second, the Friedel-Crafts alkylation 
+reaction can lead to over-alkylated products.
+Deuxièmement, la réaction d'alkylation de Friedel-
+Crafts peut conduire à des produits sur-alkylés.
+
+And, third, those alkylation products can rearrange if a more stable carbocation intermediate can form.
+Et, troisièmement, ces produits d'alkylation peuvent se réorganiser si un intermédiaire de carbocation plus stable peut se former.
+
+In Episode 39, we learned how to work around both overalkylation and rearrangement using a Friedel-Crafts acylation reaction.
+Dans l'épisode 39, nous avons appris à contourner à la fois la suralkylation et le réarrangement à l'aide d'une réaction d'acylation de Friedel-Crafts.
+
+By introducing the deactivating acyl 
+group, we avoid the overalkylation issue.
+En introduisant le groupe acyle désactivant
+, nous évitons le problème de suralkylation.
+
+And by reducing the carbonyl 
+completely off the molecule,
+Et en réduisant complètement le carbonyle
+de la molécule,
+
+we can form an alkylated 
+product without rearrangement.
+nous pouvons former un
+produit alkylé sans réarrangement.
+
+In that episode, we also saw that 
+benzylic carbons have special reactivity,
+Dans cet épisode, nous avons également vu que les
+carbones benzyliques ont une réactivité particulière,
+
+allowing them to be halogenated 
+or oxidized to carboxylic acids.
+leur permettant d'être halogénés
+ou oxydés en acides carboxyliques.
+
+And in Episode 38, we learned that EAS reactions 
+are influenced by groups already on the ring,
+Et dans l'épisode 38, nous avons appris que les réactions EAS
+sont influencées par des groupes déjà sur le ring,
+
+which direct the incoming 
+group to a specific spot.
+qui dirigent le
+groupe entrant vers un endroit spécifique.
+
+Electron withdrawing groups usually direct new groups to the meta position and electron donating groups direct new groups to the ortho and para positions.
+Les groupes attracteurs d'électrons dirigent généralement les nouveaux groupes vers la position méta et les groupes donneurs d'électrons dirigent les nouveaux groupes vers les positions ortho et para.
+
+Although we didn’t mention it in that episode,
+Bien que nous ne l'ayons pas mentionné dans cet épisode,
+
+we usually want either the 
+ortho or para product, not both.
+nous voulons généralement le produit
+ortho ou para, pas les deux.
+
+So, in the lab, we’ll need to purify one compound from this mixture before moving onto the next step of our synthesis.
+Ainsi, en laboratoire, nous devrons purifier un composé de ce mélange avant de passer à l'étape suivante de notre synthèse.
+
+If we want the para product exclusively,
+Si nous voulons exclusivement le produit para,
+
+sometimes we can block the ortho 
+positions with a bulky group.
+nous pouvons parfois bloquer les
+positions ortho avec un groupe volumineux.
+
+Let’s take a peek at the 
+synthesis of sulfanilamide,
+Jetons un coup d'œil à la
+synthèse du sulfanilamide, l'
+
+one of the first broadly used 
+antibiotics, to see this in action.
+un des premiers antibiotiques largement utilisés
+, pour le voir en action.
+
+We start with aniline, which is a 
+benzene ring with an N-H-2 group.
+Nous commençons par l'aniline, qui est un
+cycle benzénique avec un groupe N-H-2.
+
+By adding a somewhat bulky and easily 
+removable acetyl group to the nitrogen,
+En ajoutant un groupe acétyle quelque peu volumineux et facilement
+amovible à l'azote,
+
+we block access to the adjacent ortho position,  
+nous bloquons l'accès à la position ortho adjacente
+
+and we can add an electrophile 
+to just the para position.
+et nous pouvons ajouter un
+électrophile uniquement à la position para.
+
+One way to acetylate our aniline is using acetyl chloride and pyridine as a base to accept the proton on the N-H-2 group.
+Une façon d'acétyler notre aniline consiste à utiliser du chlorure d'acétyle et de la pyridine comme base pour accepter le proton sur le groupe N-H-2.
+
+So, let's say our chemist heads to the 
+chemical shelf to locate the acetyl chloride!
+Supposons que notre chimiste se dirige vers l'
+étagère des produits chimiques pour localiser le chlorure d'acétyle !
+
+But they only find a really old bottle.
+Mais ils ne trouvent qu'une très vieille bouteille.
+
+Acid chlorides are very reactive,  
+Les chlorures d'acide sont très réactifs,
+
+so will this old bottle that's been 
+opened a lot still do the trick?
+alors cette vieille bouteille qui a été
+souvent ouverte fera-t-elle encore l'affaire ?
+
+Well, the air contains water vapor… and acid 
+chloride undergoes hydrolysis with water.
+Eh bien, l'air contient de la vapeur d'eau… et le
+chlorure d'acide subit une hydrolyse avec l'eau.
+
+So, the acetyl chloride is likely contaminated 
+with acetic acid and hydrochloric acid,
+Ainsi, le chlorure d'acétyle est probablement contaminé
+par de l'acide acétique et de l'acide chlorhydrique,
+
+and they'd need to purify it 
+before doing anything else.
+et ils devraient le purifier
+avant de faire quoi que ce soit d'autre.
+
+So let's hit pause on our 
+aniline reaction and do that!
+Alors arrêtons notre
+réaction à l'aniline et faisons-le !
+
+The acid chloride would be really difficult to purify using flash chromatography because it’s so reactive.
+Le chlorure d'acide serait vraiment difficile à purifier par chromatographie flash car il est très réactif.
+
+But both of these compounds are liquids.
+Mais ces deux composés sont des liquides.
+
+So instead of using flash chromatography 
+and polarity to purify the acetyl chloride,
+Ainsi, au lieu d'utiliser la chromatographie flash
+et la polarité pour purifier le chlorure d'acétyle,
+
+we can use a method called distillation.
+nous pouvons utiliser une méthode appelée distillation.
+
+If the boiling points of the components in a mixture differ by about 25 degrees Celsius or more,
+Si les points d'ébullition des composants d'un mélange diffèrent d'environ 25 degrés Celsius ou plus,
+
+we can separate them by distillation.
+nous pouvons les séparer par distillation.
+
+The boiling point of acetyl 
+chloride is 51 degrees Celsius,
+Le point d'ébullition du
+chlorure d'acétyle est de 51 degrés Celsius
+
+and acetic acid’s boiling 
+point is 118 degrees Celsius.
+et celui de l'acide acétique
+est de 118 degrés Celsius.
+
+So that’s a nice 67 degrees difference!
+C'est donc une belle différence de 67 degrés!
+
+In distillation, the liquids are heated,
+Lors de la distillation, les liquides sont chauffés
+
+and the one with the lower boiling 
+point evaporates more readily.
+et celui dont le
+point d'ébullition est le plus bas s'évapore plus facilement.
+
+The vapors travel up a tube, and when they hit a hollow tube surrounded by chilled water called a condenser,
+Les vapeurs remontent un tube, et lorsqu'elles frappent un tube creux entouré d'eau réfrigérée appelée condenseur,
+
+the vapors condense back into the 
+liquid phase into a receiving flask.
+les vapeurs se condensent dans la
+phase liquide dans un flacon récepteur.
+
+So we'll be able to collect the liquid with a lower boiling point before the one with a higher boiling point even evaporates.
+Ainsi, nous pourrons collecter le liquide avec un point d'ébullition inférieur avant même que celui avec un point d'ébullition plus élevé ne s'évapore.
+
+The rotovap, which we used to remove the extra solvent from our fractions after chromatography in episode 25,
+Le rotovap, que nous avons utilisé pour éliminer le solvant supplémentaire de nos fractions après la chromatographie dans l'épisode 25,
+
+is an example of vacuum distillation.
+est un exemple de distillation sous vide.
+
+Vacuum distillation is good for separating 
+liquids with high boiling points,
+La distillation sous vide est idéale pour séparer les
+liquides à point d'ébullition élevé,
+
+because the vacuum lowers the boiling point.
+car le vide abaisse le point d'ébullition.
+
+That way, we can use gentler 
+warming to make the liquids boil.
+De cette façon, nous pouvons utiliser un réchauffement plus doux
+pour faire bouillir les liquides.
+
+In the rotovap,
+Dans le rotovap,
+
+we’re usually just getting rid of solvent from a less volatile or non-volatile compound.
+nous nous débarrassons généralement simplement du solvant d'un composé moins volatil ou non volatil.
+
+But with other distillation equipment,
+Mais avec d'autres équipements de distillation,
+
+we’re collecting all the evaporated-then-condensed 
+liquid in a clean receiving flask to use later.
+nous collectons tout le liquide évaporé puis condensé
+dans un flacon de réception propre pour une utilisation ultérieure.
+
+Got it?
+J'ai compris? 
+
+Okay, let's go back to our aniline reaction with our now-purified acetyl chloride from that old bottle.
+Bon, revenons à notre réaction d'aniline avec notre chlorure d'acétyle maintenant purifié de cette vieille bouteille.
+
+We can use an amide forming reaction 
+to turn aniline into acetanilide,
+Nous pouvons utiliser une réaction de formation d'amide
+pour transformer l'aniline en acétanilide,
+
+and once we've done this, we'll 
+need to purify our new product.
+et une fois cela fait, nous
+devrons purifier notre nouveau produit.
+
+Acetanilide, like many aromatic 
+compounds, is a crystalline solid.
+L'acétanilide, comme de nombreux
+composés aromatiques, est un solide cristallin.
+
+So to purify this, we need a method based 
+on solubility, called recrystallization.
+Donc, pour purifier cela, nous avons besoin d'une méthode basée
+sur la solubilité, appelée recristallisation.
+
+This involves heating up a mixture of 
+compounds in a solvent until they all dissolve,
+Cela implique de chauffer un mélange de
+composés dans un solvant jusqu'à ce qu'ils se dissolvent tous,
+
+and having one selectively crystallize back out –
+et d'en faire cristalliser sélectivement un -
+
+that’s where recrystallization gets its name.
+c'est là que la recristallisation tire son nom.
+
+The recrystallization solvent 
+has to meet two criteria:
+Le solvant de recristallisation
+doit répondre à deux critères :
+
+Number 1: The solid has to be 
+soluble in the solvent when heated,
+Numéro 1 : Le solide doit être
+soluble dans le solvant lorsqu'il est chauffé,
+
+but insoluble or slightly 
+soluble at room temperature
+mais insoluble ou légèrement
+soluble à température ambiante
+
+Number 2: The impurities must be soluble 
+in the solvent at any temperature
+Numéro 2 : Les impuretés doivent être solubles
+dans le solvant à n'importe quelle température
+
+There can be a lot of trial and error 
+when picking a recrystallization solvent.
+Il peut y avoir un  beaucoup d'essais et d'erreurs
+lors du choix d'un solvant de recristallisation.
+
+But if we identify a suitable solvent
+Mais si nous identifions un solvant
+
+(or combination of solvents)
+(ou une combinaison de solvants) approprié,
+
+it’s pretty awesome because we often get really 
+pure compound without a lot of solvent waste,
+c'est assez génial car nous obtenons souvent
+un composé vraiment pur sans beaucoup de déchets de solvant,
+
+which is a big advantage compared 
+to column chromatography.
+ce qui est un gros avantage par rapport
+à la chromatographie sur colonne.
+
+Plus, no switching test tubes!
+De plus, pas de changement de tubes à essai !
+
+Our chemist can use their time efficiently and work on another reaction while the chemical crystallizes.
+Notre chimiste peut utiliser son temps efficacement et travailler sur une autre réaction pendant que le produit chimique cristallise.
+
+We can collect the pure crystals using 
+a technique called vacuum filtration.
+Nous pouvons collecter les cristaux purs à l'aide d'
+une technique appelée filtration sous vide.
+
+A special flask with a sidearm lets us rapidly suck the crystals and recrystallization solvent through a flat-bottomed Buchner funnel.
+Un flacon spécial avec une arme de poing nous permet d'aspirer rapidement les cristaux et le solvant de recristallisation à travers un entonnoir Buchner à fond plat.
+
+And we collect the pure crystals on top 
+of a piece of filter paper in the funnel.
+Et nous recueillons les cristaux purs
+sur un morceau de papier filtre dans l'entonnoir.
+
+Now that we've purified our crystalline 
+solid acetanilide, it's a big moment!
+Maintenant que nous avons purifié notre
+acétanilide solide cristallin, c'est un grand moment !
+
+We can finish off our synthesis 
+of the antibiotic sulfanilamide.
+Nous pouvons terminer notre synthèse
+de l'antibiotique sulfanilamide.
+
+Our EAS reaction is a modified sulfonation 
+reaction called chlorosulfonation,
+Notre réaction EAS est une
+réaction de sulfonation modifiée appelée chlorosulfonation,
+
+which adds an S-O-2-C-L group instead of the 
+S-O-3-H group we saw with plain old sulfonation.
+qui ajoute un groupe S-O-2-C-L au lieu du groupe
+S-O-3-H que nous avons vu avec la sulfonation ordinaire.
+
+The chloride leaving group is turned into an amine using ammonium hydroxide in a substitution reaction.
+Le groupe partant chlorure est transformé en amine à l'aide d'hydroxyde d'ammonium dans une réaction de substitution.
+
+Since that bulky blocking group that we used to direct new groups to the para position is an amide,
+Étant donné que ce groupe de blocage volumineux que nous avons utilisé pour diriger de nouveaux groupes vers la position para est un amide,
+
+it can be removed in the last step through 
+an acid-catalyzed hydrolysis reaction –
+il peut être éliminé lors de la dernière étape par
+une réaction d'hydrolyse catalysée par un acide
+
+and then neutralized with base.
+, puis neutralisé avec une base.
+
+Practice is so important in organic chemistry,
+La pratique est si importante en chimie organique,
+
+so let’s do some synthesis problems to reinforce what we’ve learned about EAS and benzylic reactions.
+alors faisons quelques problèmes de synthèse pour renforcer ce que nous avons appris sur l'EAS et les réactions benzyliques.
+
+Here’s our first problem: 
+notice the retrosynthesis arrow.
+Voici notre premier problème :
+remarquez la flèche de rétrosynthèse.
+
+We’re going to make 1-bromo-4-nitrobenzene, 
+or para-bromonitrobenzene,
+Nous allons fabriquer du 1-bromo-4-nitrobenzène,
+ou para-bromonitrobenzène, à
+
+starting from benzene.
+partir de benzène.
+
+We know how to do nitration and 
+bromination using EAS reactions,
+Nous savons comment effectuer la nitration et la
+bromation à l'aide des réactions EAS,
+
+so there’s nothing too wild going on here.
+il n'y a donc rien de trop fou ici.
+
+But we do need to decide on the order to add 
+the groups to make sure they end up para,
+Mais nous devons décider de l'ordre d'ajout
+des groupes pour nous assurer qu'ils finissent para,
+
+so let’s think about the 
+directing effects of each group.
+alors réfléchissons aux
+effets directifs de chaque groupe.
+
+The nitro group is an electron-withdrawing 
+group, an EWG that directs groups meta.
+Le groupe nitro est un groupe attracteur d'électrons
+, un groupe de travail électronique qui dirige les groupes méta.
+
+Halogens like our bromide direct the incoming 
+group to park at the ortho or para positions.
+Les halogènes comme notre bromure ordonnent au groupe entrant
+de se garer aux positions ortho ou para.
+
+If we label the positions that 
+are ortho and para to the bromide,
+Si nous étiquetons les
+positions ortho et para du bromure,
+
+we can see that’s where our nitro group ends up!
+nous pouvons voir que c'est là que notre groupe nitro se termine !
+
+But when we label the positions meta 
+to the nitro, there’s no group there.
+Mais lorsque nous étiquetons les positions méta
+à la nitro, il n'y a pas de groupe là-bas.
+
+We need to put our bromide on first.
+Nous devons d'abord mettre notre bromure.
+
+In our forward synthesis, we first add bromine 
+to benzene with our ferric bromide catalyst.
+Dans notre synthèse directe, nous ajoutons d'abord du brome
+au benzène avec notre catalyseur au bromure ferrique.
+
+Then, we nitrate using a mixture 
+of sulfuric and nitric acid.
+Ensuite, nous nitrons à l'aide d'un mélange
+d'acide sulfurique et nitrique.
+
+The product is a solid,
+Le produit est un solide
+
+so we can recrystallize the para-bromonitrobenzene 
+from our mixture of ortho and para products.
+, nous pouvons donc recristalliser le para-bromonitrobenzène à
+partir de notre mélange de produits ortho et para.
+
+We’ve solved this puzzle!
+Nous avons résolu ce casse-tête !
+
+Let’s try another synthesis.
+Essayons une autre synthèse.
+
+Starting again with benzene, we want 
+to make 1-chloro-3-propylbenzene,
+En recommençant avec le benzène, nous
+voulons fabriquer du 1-chloro-3-propylbenzène,
+
+a meta-substituted product.
+un produit méta-substitué.
+
+Again, let’s analyze the 
+effects of our directing groups.
+Encore une fois, analysons les
+effets de nos groupes de direction.
+
+The halogen, chloride, is an 
+ortho/para-directing group,
+L'halogène, le chlorure, est un
+groupe directeur ortho/para,
+
+and the alkyl group is also 
+an ortho/para-directing EDG.
+et le groupe alkyle est également
+un EDG directeur ortho/para.
+
+So... we need to get creative here.
+Donc... nous devons faire preuve de créativité ici.
+
+Chlorines are put onto aromatic 
+rings by EAS halogenation reactions –
+Les chlores sont placés sur des
+cycles aromatiques par des réactions d'halogénation EAS -
+
+not much else we can do there.
+nous ne pouvons pas faire grand-chose d'autre là-bas.
+
+But what about this straight-chained alkyl group?
+Mais qu'en est-il de ce groupe alkyle à chaîne droite ?
+
+Hmm… chains like this tend to rearrange 
+in Friedel-Crafts alkylation reactions.
+Hmm… des chaînes comme celle-ci ont tendance à se réorganiser
+dans les réactions d'alkylation de Friedel-Crafts.
+
+So we usually make these in a roundabout 
+way using acylation reactions.
+Nous les fabriquons donc généralement de manière détournée en
+utilisant des réactions d'acylation.
+
+Looking at this retrosynthetically, and thinking 
+about the directing effects of these groups,
+En regardant cela de manière rétrosynthétique et en pensant
+aux effets directeurs de ces groupes,
+
+the ketone is actually an electron 
+withdrawing group and a meta director!
+la cétone est en fait un
+groupe attracteur d'électrons et un méta-directeur !
+
+To do the forward synthesis, 
+we can first acylate the ring,
+Pour faire la synthèse directe,
+nous pouvons d'abord acyler l'anneau,
+
+and with that EWG still in place, we chlorinate.
+et avec cet EWG toujours en place, nous chlorons.
+
+And in our final step, a Wolff-Kishner 
+reduction completely removes the carbonyl,
+Et dans notre dernière étape, une
+réduction de Wolff-Kishner élimine complètement le carbonyle,
+
+giving our desired product.
+donnant le produit souhaité.
+
+And we’re done!
+Et nous avons terminé !
+
+Okay, let's do one more 
+retrosynthesis problem together.
+OK, faisons un autre
+problème de rétrosynthèse ensemble.
+
+This time our starting material, toluene, 
+has a C-H-three group on the ring.
+Cette fois, notre matériau de départ, le toluène,
+a un groupe C-H-trois sur l'anneau.
+
+That’s an ortho/para director.
+C'est un directeur ortho/para.
+
+And we don’t have an easy way 
+to remove this methyl group,  
+Et nous n'avons pas de moyen simple
+d'éliminer ce groupe méthyle
+
+so it needs to be in our product too.
+,  il doit donc également figurer dans notre produit.
+
+The carbon from the methyl has to 
+be one of these two carbon atoms.
+Le carbone du méthyle doit
+être l'un de ces deux atomes de carbone.
+
+So which carbon is it?
+Alors, de quel carbone s'agit-il ?
+
+Let’s think about which carbon is easier to add 
+through electrophilic aromatic substitution.
+Réfléchissons au carbone le plus facile à ajouter
+par substitution aromatique électrophile.
+
+It's this one!
+C'est celui la! 
+
+It may look big and complicated, but it’s just 
+an acyl group with another benzene ring attached.
+Cela peut sembler gros et compliqué, mais ce n'est qu'un
+groupe acyle avec un autre cycle benzénique attaché.
+
+Now, we don’t know a reaction to make 
+this SH group directly from our methyl,
+Maintenant, nous ne connaissons pas de réaction pour fabriquer
+ce groupe SH directement à partir de notre méthyle,
+
+but we do know benzylic bromination.
+mais nous connaissons la bromation benzylique.
+
+We also know halides are good 
+leaving groups in SN2 reactions  
+Nous savons également que les halogénures sont de bons
+groupes partants dans les réactions SN2
+
+and that sulfur is a good nucleophile.
+et que le soufre est un bon nucléophile.
+
+For our forward synthesis,  
+Pour notre synthèse vers l'avant,
+
+let’s capitalize on the ortho/para directing 
+effect of our methyl group and acylate first.
+capitalisons d'abord sur l'effet de direction ortho/para
+de notre groupe méthyle et acylate.
+
+With a purified para product, we 
+can do a benzylic bromination,
+Avec un produit para purifié, nous
+pouvons faire une bromation benzylique,
+
+and then an SN2 reaction on our benzylic 
+substrate with a sulfur nucleophile.
+puis une réaction SN2 sur notre
+substrat benzylique avec un nucléophile soufré.
+
+And we’ve completed another synthesis!
+Et nous avons terminé une autre synthèse !
+
+Now that we've walked through a few 
+examples, let’s try some rapid fire problems!
+Maintenant que nous avons parcouru quelques
+exemples, essayons quelques problèmes de tir rapide !
+
+We’re going to put three problems on screen 
+and you’ll predict syntheses for the first two,
+Nous allons mettre trois problèmes à l'écran
+et vous prédisez des synthèses pour les deux premiers
+
+and the product for the third.
+et le produit pour le troisième.
+
+As a hint, the synthesis problems 
+can be done in two steps.
+À titre indicatif, les problèmes de synthèse
+peuvent être résolus en deux étapes.
+
+Like always, pause the video if you want 
+to practice without seeing the solution.
+Comme toujours, mettez la vidéo en pause si vous souhaitez
+vous entraîner sans voir la solution.
+
+Ready?
+Prêt? 
+
+Here’s problem number one.
+Voici le problème numéro un.
+
+We’re turning this ketone into 
+a para-substituted product.
+Nous transformons cette cétone en
+un produit para-substitué.
+
+The starting ketone is a meta director,  
+La cétone de départ est un méta-directeur,
+
+so first we’ll reduce that to an 
+ortho/para directing alkyl chain.
+nous allons donc d'abord le réduire à une
+chaîne alkyle à direction ortho/para.
+
+Then, we'll do the chlorosulfonation 
+reaction we met this episode!
+Ensuite, nous ferons la
+réaction de chlorosulfonation que nous avons rencontrée dans cet épisode !
+
+Onto problem number two.
+Sur le problème numéro deux.
+
+We’re starting with toluene, and 
+making a meta-substituted product.
+Nous commençons avec le toluène
+et fabriquons un produit méta-substitué.
+
+As we’ve seen a lot now, alkyl 
+groups direct ortho-para.
+Comme nous l'avons vu beaucoup maintenant, les
+groupes alkyle dirigent ortho-para.
+
+So we need to make a meta director first.
+Nous devons donc d'abord créer un méta-directeur.
+
+A benzylic oxidation makes a carboxylic acid.
+Une oxydation benzylique donne un acide carboxylique.
+
+And this carbon atom is directly 
+attached to more electronegative oxygens,
+Et cet atome de carbone est directement
+attaché à des oxygènes plus électronégatifs,
+
+so the trick we learned in episode 38 tells 
+us this is an EWG and a meta director.
+donc l'astuce que nous avons apprise dans l'épisode 38
+nous dit qu'il s'agit d'un EWG et d'un méta-directeur.
+
+For our second step, let's do a nitration.
+Pour notre deuxième étape, faisons une nitration.
+
+And we’re done!
+Et nous avons terminé !
+
+And finally, here's problem number three.
+Et enfin, voici le problème numéro trois.
+
+Let's predict the product of this 
+Friedel-Crafts acylation reaction.
+Prédisons le produit de cette
+réaction d'acylation de Friedel-Crafts.
+
+In episode 39, we learned that the more activating group is our parking lot attendant when we have multiple substituents.
+Dans l'épisode 39, nous avons appris que le groupe le plus activant est notre préposé au parking lorsque nous avons plusieurs remplaçants.
+
+So, the hydroxyl group is the activating 
+group here, and directs ortho-para.
+Ainsi, le groupe hydroxyle est le
+groupe d'activation ici et dirige l'ortho-para.
+
+And our electron withdrawing sulfonic acid is a 
+meta director and reinforces the positioning –
+Et notre acide sulfonique attracteur d'électrons est un
+méta-directeur et renforce le positionnement -
+
+so this is our product!
+c'est donc notre produit !
+
+In this episode, we:
+Dans cet épisode, nous : avons
+
+Used distillation to separate 
+compounds based on boiling point
+utilisé la distillation pour séparer les
+composés en fonction du point d'ébullition
+
+Used recrystallization to 
+purify crystalline solids, and
+utilisé la recristallisation pour
+purifier les solides cristallins, et
+
+Practiced EAS reactions, benzylic reactions,  
+pratiqué les réactions EAS, les réactions
+
+and directing effects through 
+lots of synthesis problems
+benzyliques et les effets directs à travers de
+nombreux problèmes de synthèse
+
+In the next episode, we’ll look more at conjugated 
+compounds and learn about UV/Vis spectroscopy.
+Dans le prochain épisode, nous examinerons davantage les conjugués
+composés et découvrez la spectroscopie UV/Vis.
+
+Until then, thanks for watching this 
+episode of Crash Course Organic Chemistry.
+En attendant, merci d'avoir regardé cet
+épisode du cours intensif de chimie organique.
+
+If you want to help keep all Crash 
+Course free for everybody, forever,
+Si vous souhaitez aider à garder tous les
+cours d'initiation gratuits pour tout le monde, pour toujours,
+
+you can join our community on Patreon.
+vous pouvez rejoindre notre communauté sur Patreon.
+

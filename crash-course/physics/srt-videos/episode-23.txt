@@ -1,0 +1,250 @@
+Ce petit jouet est appelé Oiseau Buveur.
+
+Placer un verre d'eau devant, et il plonge sa tête dedans.
+
+Pendant un moment, la tête balance à nouveau - puis replonge directement droit dans l'eau.
+
+Si vous n'y connaissez rien en thermodynamique, l'Oiseau buveur semble bouger comme s'il allait continuer pour toujours, sans une source d'énergie extérieur pour l'alimenter - une machine à mouvement perpétuel, en d'autres mots.
+
+Mais le jouet n'est pas une machine à mouvement perpétuel – parce que le mouvement perpétuel n'existe pas, selon les lois de la physique.
+
+Une des raisons est la première loi de thermodynamique.
+
+[Thème musical]
+
+Une des principaux buts de la thermodynamique est de décrire le transfert d'énergie.
+
+Nous avons déjà décrit 2 processus de transfert de l'énergie -- le travail et la chaleur -- et ils sont connectés entre eux.
+
+Quand un système thermodynamique effectue un travail, il perd de la chaleur.
+
+Quand un travail est effectué sur un système, il gagne de la chaleur.
+
+Ainsi, la chaleur est convertie en travail, et le travail en chaleur.
+
+Ensemble, le travail et la chaleur transférée dans ou hors du système représente le changement de son énergie interne,
+
+qui – comme vous vous en souvenez – est l'énergie cinétique et potentiel total de toutes les molécules dans un système.
+
+Cette idée – que le changement en énergie interne est égale au changement en travail et en chaleur – est si fondamental qu'elle est connue comme la première loi de la thermodynamique.
+
+Donc nous avons une équation à utiliser pour l'analyse de problèmes, nous écrivons la première loi comme ceci:
+
+L'énergie interne U, d'un système fermé, est égale à Q, la chaleur transférée vers le système,
+
+moins W, le travail fait sur ou par le système.
+
+Il est important de se souvenir que lorsque nous parlons de changement d'énergie interne, si la chaleur est transférée vers le système, Q est positif,
+
+et si la chaleur est transférée hors du système, Q est négatif.
+
+Et, si le travail est fait sur le système, W est négatif.
+
+Et si le travail est fait par le système, W est positif.
+
+Certains manuels changent ces signes, donc il est important de garder en tête ce que les signes signifient.
+
+Désormais, vous noterez que la première loi de la thermodynamique ne décrit que ces deux facteurs
+
+– le travail et la chaleur – comme provoquant un changement d'énergie interne.
+
+C'est parce que tant que le système est fermé – à savoir qu'il est isolé du reste
+
+de l'univers – il n'y a tout simplement pas d'autres facteurs impliqués.
+
+La quantité de chaleur perdu par le système est égale à la quantité de travail fait par le système , et vice versa.
+
+En fait, la première loi de la thermodynamique est simplement une autre façon de décrire la conservation de l'énergie,
+
+qui ne cesse d'intervenir dans nos leçons car c'est un principe clé de la physique.
+
+Il y a toujours des pertes de chaleur, comme celle par frottement par exemple.
+
+Mais cette petite quantité implique que le mouvement ne peut pas continuer indéfiniment.
+
+Il va un moment être à cours de l'énergie nécessaire pour qu'il poursuit le travail qu'il fait.
+
+C'est une raison qui explique pourquoi l'Oiseau Buveur n'est pas pas une machine  à mouvement perpétuel – Il dépend de l'énergie qu'il tire de la tasse d'eau pour poursuivre son mouvement.
+
+L'oiseau est rempli avec un liquide qui possède un faible point d'ébullition, de tels sorte qu'il peut facilement passer de de gaz à liquide et revenir, avec un léger changement de température.
+
+Il y du liquide au fond, et de la vapeur au sommet.
+
+Lorsque la tête de l'oiseau plonge dans la tasse, elle se mouille.
+
+Elle continue de se balancer pendant un moment et puisque l'eau s'évapore, elle refroidit la vapeur dans la tête de l'oiseau, qui se condense en liquide, créant un un vide partiel à l'intérieur de la tête.
+
+Ce qui fait remonter le liquide dans le tube.
+
+La tête s'alourdit et plonge dans l'eau.
+
+Mais la plongée fait remonter une bulle à travers le liquide jusqu'à la tête de l'oiseau, envoyant de plus de plus de liquide au fond, ce qui fait balancer le petit oiseau, et recommencer le cycle encore et encore.
+
+Mais il a constamment besoin d'eau pour faire ceci: Dès qu'il n'y en a plus assez, l'oiseau s'arrête de bouger.
+
+Maintenant, il y a quatre types de processus basiques où les propriétées thermodynamique d'un système
+
+–généralement un gaz parfait dans un container – peuvent changer selon la première loi.
+
+Dans chaque cas, une propriété est maintenue constante – volume, pression, température, ou chaleur – tandis que les autres propriétés changent.
+
+Des variations de toutes propriétés sont utilisées dans toute sortes de machines, particulièrement les moteurs.
+
+Premièrement, il y a les processus isochores , où le volume est maintenu constant – souvent parce que le gaz est dans dans un réservoir rigide – tandis que de la chaleur est ajoutée ou retirée.
+
+Puisque vous ajoutez de la chaleur, la pression du gaz augmentera, ainsi que sa température.
+
+Lorsque vous retirez de la chaleur, la pression et la température diminuent.
+
+Les processus isochores sont un peu ennuyants, comme peuvent l'être les processus thermodynamiques.
+
+Le gaz est coincé à l'intérieur de son réservoir, et peu importe la quantité de chaleur que vous ajoutez, le gaz n'effectue aucun travail.
+
+Vous augmentez seulement son énergie interne.
+
+Mais les processus isobares, où la pression est maintenue constante tandis que de la chaleur est ajoutée ou enlevée, sont un peu plus intéressants.
+
+Ici, le volume du réservoir est autorisé à changer, souvent parce que la gaz peut déplacer un piston.
+
+Puisque vous ajoutez de la chaleur, le volume et la température du système augmente, et si vous retirez de la chaleur, le volume et la température diminue.
+
+Ce qui signifie qu'un processus isobare peut effectuer un travail. Voilà pourquoi :
+
+Dans les épisodes précédents, nous avons dis que le travail et est égale à force x distance – ici, le distance à laquelle le piston se déplace.
+
+Nous avons aussi dit que la pression est égale à force/aire, ce qui signifie que la force est égale à pression x aire.
+
+Ici, c'est la pression du gaz x l'aire du piston.
+
+Donc le travail est égale à la pression du gaz x l'aire du piston x la distance à laquelle il se déplace.
+
+De plus : l'aire du piston x la distance à laquelle il se déplace, sera égale à la variation de volume du réservoir.
+
+Donc le travail fourni durant un processus isobare est égale à la pression du gaz x la variation de volume.
+
+Si la chaleur est ajoutée, le volume et le piston recule, donc le système fourni un travail.
+
+Si vous poussez le piston à l'intérieur, vous effectuez un travail sur le système, donc son volume – diminue.
+
+Le troisième type de processus thermodynamique sont les isothermes.
+
+C'est celles où la température est maintenue constante,
+
+habituellement en connectant le système à un autre bien plus grand dont il faudrait beaucoup de chaleur pour voir sa température changer, appelés réservoirs de chaleur.
+
+La chaleur ou le volume du système est modifiés très lentement, pour que les autres propriétés
+
+s'ajustent tandis que la température demeure constante.
+
+Un processus isotherme est un peu comme un processus isobare, dans le sens où si vous ajoutée de la chaleur le volume s'agrandit, donc le système effectuera un travail
+
+Mais pour les processus isothermes, on ne peut pas utiliser la simple équation W = P delta V, parce que la change.
+
+À la place, on doit prendre l'intégrale de la pression par rapport au volume.
+
+De cette manière, on calcule toujours le travail, mais on prend aussi en compte le changement de pression.
+
+Une autre différence entre les processus isobares et isothermes est que, puisque la température est maintenue constante dans les processus isothermes, l'énergie interne d'un gas rare ne varie pas.
+
+Et la première loi de thermodynamique dit que la chaleur moins le travail est égale à la variation d'énergie interne du système - dans ce cas, zéro.
+
+Donc, le travail effectué par le système sera égal à la quantité de chaleur ajouté, et vice versa.
+
+Enfin, il y a les processus adiabatiques, où la chaleur ne peut pas traversée dans ou hors du système, mais le gaz peut s'étendre ou être comprimé.
+
+Encore une fois, l'équation pour la première loi de la thermodynamique nous aide.
+
+Q vaut zéro, parce que la chaleur du système ne change pas.
+
+Mais l'énergie interne d'un gaz peut varier, donc le système peut effectuer un travail ou être soumis à un travail.
+
+En fait, la variation d'énergie interne d'un gaz sera exactement égale à la valeur négative du travail.
+
+Mais ça c'est just pour la première loi de la thermodynamique.
+
+Il y a aussi la seconde loi, qui dit que la chaleur ira spontanément de la chose la plus chaud à celle la plus froide,
+
+mais elle ne se diffusera pas de quelque chose froid à quelque chose chaud.
+
+Et c'est à cause de cette chose appelé entropie.
+
+L'Entropie est parfois décrite comme le désordre interne d'un système - plus un système est désordonnée plus son entropie est grande.
+
+Donc un gaz, par exemple, dont les molécules rebondissent au hasard,  a une plus grande entropie qu'un solide, avec ses molécules parfaitement arrangées.
+
+Une façon plus générale d'exprimer la seconde loi de la thermodynamique est que de la vraie vie, l'entropie ne peut qu'augmenter.
+
+Ça ne signifie pas que l'entropie ne peut jamais diminuer dans certain cas.
+
+Parfois les gaz se changent en liquide ou solide évidemment.
+
+Vous avez déjà vu de la vapeur se condenser et de l'eau geler
+
+Mais si l'entropie dans un système diminue, ça veut dire que l'entropie de l'environnement autour du système doit augmenter assez pour compenser, de tels sorte qu'il y ait une augmentation global de l'entropie de l'univers.
+
+Disons que vous mettez de l'eau dans votre congelateur
+
+L'entropie de l'eau diminue en gelant.
+
+Et au même moment, votre congélateur rejette de la chaleur en maintenant l'intérieur froid.
+
+Et la chaleur venant de votre congélateur augment l'entropie de votre cuisine, d'une quantité supérieure à l'entropie diminuant de la glace.
+
+Donc, il ya globalement une augmentation de l'entropie de l'univers.
+
+Souvenez-vous ! Chaque fois que vous faites de la glace, vous augmentez le désordre dans l'univers !
+
+En fait, la tendance de l'entropie à augmenter à un rapport avec les probabilités.
+
+Pour comprendre mon propos, imaginez une tasse en céramique brisée.
+
+Ce sont des molécules qui composent cette tasse.
+
+Et il y a beaucoup, beaucoup de façons que ces molécules peuvent être disposées dans l'espace, et toutes ont la même probabilité.
+
+Mais c'est seulement dans un petit nombre de ces dispositions que les molécules peuvent créer un tasse dans son ensemble, solide et non brisée - l'état où ils ont la plus basse entropie.
+
+Pourtant, il y a beaucoup d'arrangements possibles de ces molécules où elles pourraient formées une tasse brisée - un ensemble de pièces, avec une entropie plus élevée.
+
+La tasse peut être brisé en morceaux, 300 pièces, avec des pièces éloignées ou très proches.
+
+Et pour chaque façon dont la tasse peut être brisée, il existe plusieurs dispositions que les molécules à l'intérieur peuvent avoir.
+
+Puisqu'il y a tant de façons pour la tasse d'être brisées, et si peu pour ne former qu'un ensemble,
+
+il devient très, très peu probable que les morceaux vont se mettre spontanément à revenir ensemble si vous les laissez tomber.
+
+En fait, ça n'arrivera jamais.
+
+Par contre, il est très probable qu'une tasse se brisera lorsque vous la laisserez tomber.
+
+Ainsi, le processus qui conduit à une augmentation de l'entropie a une probabilité beaucoup plus élevée de se produire.
+
+Et en thermodynamique, l'entropie est liée à l'écoulement de chaleur, parce que lorsque les flux de chaleur entre les systèmes, leur entropie augmente.
+
+Avant, quand leurs molécules avaient d'autres températures, la disposition étaient ordonnées.
+
+Mais quand leurs températures deviennent égales, cette organisation ordonnée s'en va, de sorte que les systèmes ont une entropie plus élevée.
+
+Donc: la chaleur s'écoule spontanément des systèmes les plus chauds au systèmes les plus froids, parce que cela mène à une augmentation de l'entropie.
+
+Ce qui est aussi la raison pour laquelle ce petit oiseau continue de sautiller haut et en bas !
+
+Lorsque le flux de chaleur s'en échappe, le gaz se condense et il plonge dans l'eau.
+
+Cette oiseau n'est pas peut-être pas une machine à mouvement perpétuel, mais c'est un bon moyen de voir la première et la seconde loi de la thermodynamique en action.
+
+Aujourd'hui, vous avez appris sur la première loi de la thermodynamique, et son application aux processus  isovolumétriques, isobariques,  isothermes et adiabatiques.
+
+Nous avons également parlé de la deuxième loi de la thermodynamique et l'entropie.
+
+Crash Course Physics est produit en association avec PBS Digital Studios.
+
+Vous pouvez vous diriger vers leur chaîne et regarder les des derniers épisodes de shows comme :
+
+The Good Stuff, Brain Craft, et Physics Girl.
+
+Cet épisode de Crash Course a été filmé au Doctor Cheryl C. Kinney Crash Course Studio.
+
+avec l'aide de ces personnes extraordinaires et notre équipe graphique tout aussi étonnante, est Thought Cafe.
+

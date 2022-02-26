@@ -1,0 +1,697 @@
+What does your perfect world look like?
+À quoi ressemble votre monde parfait ?
+
+An end to genocide, corn dogs for dinner everyday,
+David Tennant at my house for board games
+La fin du génocide, des chiens de maïs pour le dîner tous les jours,
+David Tennant chez moi pour les jeux de société
+
+and Carl Sagan would be there too, he'd be
+immortal...and not dead.
+et Carl Sagan serait là aussi, il serait
+immortel... et pas mort.
+
+We could cure cancer with puppies and vomit
+wouldn't exist.
+On pourrait soigner le cancer avec des chiots et le vomi
+n'existerait pas.
+
+Unfortunately, sometimes we need to vomit
+to survive, David Tennant doesn't know I exist,
+Malheureusement, nous devons parfois vomir
+pour survivre, David Tennant ne sait pas que j'existe,
+
+and while scientists are experimenting with
+dogs that can diagnose cancer through scent,
+et tandis que les scientifiques expérimentent avec des
+chiens qui peuvent diagnostiquer le cancer grâce à l'odeur, les
+
+puppies are not helping to cure the disease.
+chiots n'aident pas à guérir la maladie.
+
+Gases, likewise, don't live in a perfect world
+either.
+Les gaz, de même, ne vivent pas non plus dans un monde parfait
+.
+
+It'd be great if their particles always fulfilled
+the assumptions of the ideal gas law,
+Ce serait formidable si leurs particules remplissaient toujours
+les hypothèses de la loi des gaz parfaits,
+
+and we could use PV=nRT to get the right answer
+every time.
+et nous pourrions utiliser PV=nRT pour obtenir la bonne réponse à
+chaque fois.
+
+But the ideal gas law, much like our culture,
+Mais la loi des gaz parfaits, tout comme notre culture,
+
+has really unrealistic expectations when it
+comes to size and attraction.
+a des attentes vraiment irréalistes en
+matière de taille et d'attraction.
+
+Namely, it assumes that particles do not have size at all, and that particles never attract each other.
+À savoir, il suppose que les particules n'ont pas de taille du tout et que les particules ne s'attirent jamais.
+
+Well I don't know about you, but it's hard
+for me to take up no space,
+Eh bien, je ne sais pas pour vous, mais c'est difficile
+pour moi de ne pas prendre de place,
+
+no matter how much I want to disappear and
+attraction, so far, that's never gone away.
+peu importe à quel point je veux disparaître et l'
+attirance, jusqu'à présent, n'a jamais disparu.
+
+So the ideal gas "law" often becomes little more than the ideal gas estimate when it comes to what gases do naturally.
+Ainsi, la "loi" des gaz parfaits devient souvent un peu plus que l'estimation des gaz parfaits lorsqu'il s'agit de ce que les gaz font naturellement.
+
+[Theme Music]
+[Thème musical]
+
+You remember the ideal gas law,
+Vous vous souvenez de la loi des gaz parfaits,
+
+it's a combination of three related laws that
+were discovered by a variety of scientists.
+c'est une combinaison de trois lois liées qui
+ont été découvertes par une variété de scientifiques.
+
+Let's review real quick.
+Passons en revue très rapidement.
+
+Boyle's law was first published by Robert
+Boyle in 1660,
+La loi de Boyle a été publiée pour la première fois par Robert
+Boyle en 1660,
+
+but it was actually discovered by two of his contemporaries, Richard Towneley and Henry Power.
+mais elle a en fait été découverte par deux de ses contemporains, Richard Towneley et Henry Power.
+
+It says that the product of the pressure and
+the volume of a gas is
+Il dit que le produit de la pression et
+du volume d'un gaz est
+
+always constant as long as the temperature
+remains the same.
+toujours constant tant que la température
+reste la même.
+
+Boyle's law requires a closed system where the amount of gas is constant (like in my balloon).
+La loi de Boyle nécessite un système fermé où la quantité de gaz est constante (comme dans mon ballon).
+
+Next is Charles' law, which was discovered
+by Jacques Charles and actually named for him,
+Vient ensuite la loi de Charles, qui a été découverte
+par Jacques Charles et porte son nom,
+
+though it was first published by Joseph Louis
+Gay-Lussac, who wasn't a scoundrel.
+bien qu'elle ait été publiée pour la première fois par Joseph Louis
+Gay-Lussac, qui n'était pas un scélérat.
+
+Yes, I'm looking at you Robert Boyle.
+Oui, je te regarde Robert Boyle.
+
+Charles' law, which also requires a closed
+system, states that
+La loi de Charles, qui exige également un
+système fermé, stipule que
+
+the volume of a gas divided by its temperature gives a constant as long as the pressure is held steady.
+le volume d'un gaz divisé par sa température donne une constante tant que la pression est maintenue constante.
+
+And then there's Avogadro law, discovered
+by resident house elf, Amedeo Avogadro,
+Et puis il y a la loi Avogadro, découverte
+par l'elfe de maison résident, Amedeo Avogadro,
+
+and this one does not require a closed system.
+et celle-ci ne nécessite pas de système fermé.
+
+In fact, it's all about changing the amount
+of gas (like - like I just did there).
+En fait, il s'agit de changer la quantité
+de gaz (comme - comme je viens de le faire là-bas).
+
+It says that the volume if the gas divided
+by the amount, results in a constant
+Il dit que le volume du gaz divisé
+par la quantité donne une constante
+
+as long as the temperature and pressure are
+held steady.
+tant que la température et la pression sont
+maintenues stables.
+
+The more gas you have at a given temperature and pressure, the more space it takes up, and vice versa.
+Plus vous avez de gaz à une température et une pression données, plus il prend de place, et vice versa.
+
+That's pretty intuitive, right?
+C'est assez intuitif, non ?
+
+The trouble is that it's kind of inconvenient
+to use three different laws to figure out
+Le problème est qu'il n'est pas pratique
+d'utiliser trois lois différentes pour déterminer
+
+what one sample of gas is doing.
+ce que fait un échantillon de gaz.
+
+So eventually the three laws combined into
+one by, surprise, our old friend Dmitri Mendeleev.
+Donc, finalement, les trois lois ont été combinées en
+une seule par, surprise, notre vieil ami Dmitri Mendeleïev.
+
+He pulled all the elements together into the
+periodic table and it turns out he pulled
+Il a rassemblé tous les éléments dans le
+tableau périodique et il s'avère qu'il a
+
+all the gas laws together too.
+également rassemblé toutes les lois des gaz.
+
+Smart guy! The main thing Mendeleev did was
+to calculate just one constant, R,
+Gars intelligent!  La principale chose que Mendeleïev a faite a été
+de calculer une seule constante, R,
+
+also called the universal gas constant, which incorporates the various constants from all the gas laws.
+également appelée constante universelle des gaz, qui intègre les différentes constantes de toutes les lois des gaz.
+
+With a little rearranging, we now have the
+ideal gas law that we know and love.
+Avec un peu de réorganisation, nous avons maintenant la
+loi des gaz parfaits que nous connaissons et aimons.
+
+R equals 8.3145 liter kilo-Pascals per Kelvin
+mole.
+R est égal à 8,3145 litres de kilo-Pascals par
+mole Kelvin.
+
+But don't let the crazy units scare you.
+Mais ne laissez pas les unités folles vous effrayer.
+
+It looks complicated but it's really just
+a measurement label like meters or Newtons
+Cela semble compliqué mais c'est vraiment juste
+une étiquette de mesure comme des mètres ou des Newtons
+
+and it helps us out a lot in our calculations,
+which is mostly what we'll be doing today.
+et cela nous aide beaucoup dans nos calculs,
+ce qui est principalement ce que nous allons faire aujourd'hui.
+
+This is all pretty cool, but remember that
+it's called the ideal gas law for a reason:
+Tout cela est plutôt cool, mais rappelez-vous que
+cela s'appelle la loi des gaz parfaits pour une raison :
+
+it only works perfectly when gases behave
+ideally,
+elle ne fonctionne parfaitement que lorsque les gaz se comportent de manière
+idéale
+
+with the particles not taking up too much
+space and not being attracted to each other.
+, les particules ne prenant pas trop de
+place et ne s'attirant pas les unes vers les autres.
+
+It's a bit of an impressive regime,
+C'est un régime un peu impressionnant,
+
+but under normal conditions most gases come close enough to ideal behavior that we get very little error.
+mais dans des conditions normales, la plupart des gaz se rapprochent suffisamment du comportement idéal pour que nous obtenions très peu d'erreurs.
+
+It only breaks down badly in conditions like
+high pressure or low temperature or high density
+Il ne se décompose mal que dans des conditions telles que la
+haute pression ou la basse température ou la haute densité
+
+that shove the particles so close together that they take up a large proportion of the available space.
+qui poussent les particules si près les unes des autres qu'elles occupent une grande partie de l'espace disponible.
+
+This also causes any attraction between them
+to be magnified,
+Cela amplifie également toute attirance entre
+eux,
+
+just like how I didn't think that Alison Cayne was that attractive until she became my lab partner,
+tout comme je ne pensais pas qu'Alison Cayne était aussi attirante jusqu'à ce qu'elle devienne ma partenaire de laboratoire,
+
+and then she was right there next to me all
+the time, and I couldn't handle it.
+puis elle était juste là à côté de moi tout
+le temps, et je ne pouvais pas  le gérer.
+
+Johannes van der Waals came up with a way
+to correct the equation for real gas behavior,
+Johannes van der Waals a trouvé un moyen
+de corriger l'équation du comportement réel du gaz,
+
+and we're going to explore that soon, but it's important that we know first how to use the base equation.
+et nous allons l'explorer bientôt, mais il est important que nous sachions d'abord comment utiliser l'équation de base.
+
+And besides, it's close enough most of the
+time without the correction factor,
+Et en plus, c'est assez proche la plupart du
+temps sans le facteur de correction,
+
+so why make it harder than it needs to be?
+alors pourquoi le rendre plus difficile qu'il ne devrait l'être ?
+
+One last thing: remember that STP, or Standard Temperature and Pressure, is 0 degrees Celsius and 100 kilo-Pascals,
+Une dernière chose : rappelez-vous que STP, ou Température et Pression Standard, est de 0 degrés Celsius et 100 kilo-Pascals,
+
+but gas law equations are done in Kelvins, not degrees Celsius, so we'll call it 273.15 K and 100 kilo-Pascals.
+mais les équations de la loi des gaz sont faites en Kelvins, pas en degrés Celsius, donc nous l'appellerons 273,15 K et 100 kilo-Pascals  .
+
+STP is sort of a baseline level that we use so scientists everywhere can compare gas behaviors under the same conditions,
+Le STP est une sorte de niveau de référence que nous utilisons pour que les scientifiques du monde entier puissent comparer les comportements des gaz dans les mêmes conditions,
+
+and as we'll see, it's useful in calculations
+too.
+et comme nous le verrons, il est également utile dans les
+calculs.
+
+So, we've got this fancy-shmancy new law just
+lying around doing nothing.
+Donc, nous avons cette nouvelle loi fantaisiste qui traîne à
+ne rien faire.
+
+Let's figure out some stuff! I wonder how much space 1.00 mole of an ideal gas takes up at STP.
+Découvrons quelques trucs !  Je me demande combien d'espace 1,00 mole d'un gaz parfait occupe à STP.
+
+That would be its volume, and we can
+calculate it like this:
+Ce serait son volume, et nous pouvons le
+calculer comme ceci :
+
+We know that PV=nRT.
+We know that we want 1.00 mole.
+Nous savons que PV=nRT.
+Nous savons que nous voulons 1,00 mole.
+
+We know what R is, since it's constant, and since we're at STP, we know the temperature and pressure too.
+Nous savons ce que R est, puisqu'il est constant, et puisque nous sommes à STP, nous connaissons aussi la température et la pression.
+
+Plug in all the numbers, leaving the volume as a variable (since that's what we're trying to find out).
+Branchez tous les chiffres, en laissant le volume comme variable (puisque c'est ce que nous essayons de savoir).
+
+By doing the math (I'm doing it in my imaginary calculator here) we find that the volume equals 22.71105675.
+En faisant le calcul (je le fais dans ma calculatrice imaginaire ici), nous constatons que le volume est égal à 22,71105675.
+
+And because of the big, scary unit on R, the
+kilo-Pascals, moles, and Kelvins all cancel out,
+Et à cause de la grande unité effrayante sur R, les
+kilo-Pascals, les taupes et les Kelvins s'annulent tous,
+
+leaving us with liters, which is exactly what
+you'd expect for a volume unit.
+nous laissant avec des litres, ce qui est exactement ce
+à quoi vous vous attendez pour une unité de volume.
+
+This confirms that the problem was set up
+correctly, so that's nice.
+Cela confirme que le problème a été configuré
+correctement, donc c'est bien.
+
+Rounding our answer to the correct number
+of significant digits
+Arrondir notre réponse au nombre correct
+de chiffres significatifs
+
+and adding the unit gives a final answer of
+22.7 liters per 1.00 mole of gas.
+et ajouter l'unité donne une réponse finale de
+22,7 litres par 1,00 mole de gaz.
+
+'But wait!' you cry. 'Didn't we learn last time that 1.00 mole of any gas is a volume of 22.4 liters?'
+'Mais attendez!'  tu pleures.  « N'avons-nous pas appris la dernière fois que 1,00 mole de n'importe quel gaz équivaut à un volume de 22,4 litres ?
+
+Yes! I am astounded that you remembered that
+so well.
+Oui!  Je suis étonné que vous vous en souveniez
+si bien.
+
+In fact, 1.00 mole of a gas will take up slightly different amounts of space depending on what the pressure is.
+En fait, 1,00 mole de gaz occupera un espace légèrement différent selon la pression.
+
+I said, just now, that it was at STP, which
+is a pressure of 100 kilo-Pascals.
+Je disais, tout à l'heure, que c'était à STP, qui
+est une pression de 100 kilo-Pascals.
+
+The 22.4 liter number is for a gas at 1 atmosphere.
+Le nombre de 22,4 litres est pour un gaz à 1 atmosphère.
+
+While one hundred kilo-Pascals and one atmosphere
+are similar, they are not the same.
+Si cent kilo-Pascals et une atmosphère
+se ressemblent, ce ne sont pas les mêmes.
+
+In fact, 1 atmosphere is 101.325 kilo-Pascals,
+En fait, 1 atmosphère équivaut à 101,325 kilo-Pascals,
+
+and I assure you that if you did the calculation using 101.324 kilo-Pascals of pressure, you'd get 22.4 liters.
+et je vous assure que si vous faisiez le calcul en utilisant 101,324 kilo-Pascals de pression, vous obtiendriez 22,4 litres.
+
+But you don't have to trust me, you can do
+the calculation yourself.
+Mais vous n'avez pas à me faire confiance, vous pouvez faire
+le calcul vous-même.
+
+So instead of doing that, which would be boring,
+let's make things a little more interesting.
+Alors au lieu de faire ça, ce qui serait ennuyeux,
+rendons les choses un peu plus intéressantes.
+
+Like bigger! You know, like super big, like
+way... bigger. Let's make it Hindenburg big.
+Comme plus grand !  Vous savez, comme super gros, comme
+bien... plus gros.  Faisons en sorte que Hindenburg soit grand.
+
+The Hindenburg was a zeppelin, a flying machine
+that's held aloft by a lighter-than-air gas,
+Le Hindenburg était un zeppelin, une machine volante
+qui est maintenue en l'air par un gaz plus léger que l'air,
+
+but, unlike a hot air balloon or a blimp,
+has a rigid metal frame to support its shape.
+mais, contrairement à une montgolfière ou à un dirigeable,
+a un cadre métallique rigide pour soutenir sa forme.
+
+It was nearly as big as a cruise ship and
+many times larger than the Airbus A380,
+Il était presque aussi grand qu'un bateau de croisière et
+plusieurs fois plus grand que l'Airbus A380
+
+today's largest flying passenger vehicle.
+, le plus grand véhicule volant de passagers d'aujourd'hui.
+
+It was built in Germany in 1936 and made 10 trips to the US and 7 to Brazil in its first year of service.
+Il a été construit en Allemagne en 1936 et a effectué 10 voyages aux États-Unis et 7 au Brésil au cours de sa première année de service.
+
+The Hindenburg annoyed Hitler and the Nazis.
+Le Hindenburg agaçait Hitler et les nazis.
+
+For one thing, it was named for Paul von Hindenburg,
+the president of Germany before Hitler took over.
+D'une part, il a été nommé en l'honneur de Paul von Hindenburg,
+le président de l'Allemagne avant qu'Hitler ne prenne le pouvoir.
+
+Propaganda Minister Joseph Goebbels tried
+to make the Germans name it "the Hitler",
+Le ministre de la Propagande Joseph Goebbels a tenté
+de faire appeler les Allemands "Hitler",
+
+but they refused, thankfully.
+mais ils ont heureusement refusé.
+
+And second, the Hindenburg was fancy new technology that the Nazis wanted to use both militarily and as propaganda.
+Et deuxièmement, le Hindenburg était une nouvelle technologie sophistiquée que les nazis voulaient utiliser à la fois militairement et à des fins de propagande.
+
+The makers did not want that to happen.
+Les fabricants ne voulaient pas que cela se produise.
+
+They did allow it to be used for one huge
+propaganda mission,
+Ils ont permis qu'il soit utilisé pour une énorme
+mission de propagande,
+
+called the Die Deutschlandfahrt, or Tour of
+Germany (no giggling!),
+appelée Die Deutschlandfahrt, ou Tour d'
+Allemagne (pas de rire !),
+
+but after that, it was used only for passenger
+and freight service.
+Mais après cela, il n'a été utilisé que pour
+le service de passagers et de fret.
+
+But none of that is the reason that we still
+talk about the Hindenburg today.
+Mais rien de tout cela n'est la raison pour laquelle nous
+parlons encore du Hindenburg aujourd'hui.
+
+Sadly, it's most famous for catching on fire
+and crashing while it was trying to land in
+Malheureusement, il est surtout connu pour avoir pris feu
+et s'être écrasé alors qu'il tentait d'atterrir à
+
+Lakehurst, New Jersey on May 6th, 1937.
+Lakehurst, dans le New Jersey, le 6 mai 1937.
+
+That's bad enough under any circumstances,
+C'est assez grave en toutes circonstances,
+
+but it also happened to be filled with hydrogen
+gas, H2, which is highly flammable.
+mais il se trouve également qu'il était rempli d'hydrogène
+gazeux, H2, qui est  hautement inflammable. 
+
+The original plan was to fill it with non-flammable helium, but helium was extremely expensive at that time.
+Le plan initial était de le remplir d'hélium ininflammable, mais l'hélium était extrêmement cher à l'époque.
+
+And because hydrogen gas has a molar mass roughly half that of helium, it provides more lift too,
+Et parce que l'hydrogène gazeux a une masse molaire environ la moitié de celle de l'hélium, il fournit également plus de portance, de
+
+so the zeppelin company felt that using hydrogen was an acceptable risk, but the result was the loss of 36 lives.
+sorte que la société de zeppelin a estimé que l'utilisation d'hydrogène était un risque acceptable, mais le résultat a été la perte de 36 vies.
+
+No one knows how the fire started, but it's
+clear that it ended in tragedy.
+Personne ne sait comment l'incendie a commencé, mais il est
+clair qu'il s'est terminé en tragédie.
+
+So let's do some calculations to build our understanding of what the Hindenburg was all about.
+Faisons donc quelques calculs pour construire notre compréhension de ce qu'était le Hindenburg.
+
+First, let's figure out how many moles of
+H2 were aboard the ship when it left Germany.
+Tout d'abord, déterminons combien de moles de
+H2 se trouvaient à bord du navire lorsqu'il a quitté l'Allemagne.
+
+We know that the hydrogen bags had a total
+volume of 211,890,000 L, so we can start there.
+Nous savons que les sacs à hydrogène avaient un
+volume total de 211 890 000 L, nous pouvons donc commencer par là.
+
+We don't know what the atmospheric pressure
+was that day,
+Nous ne savons pas quelle était la pression atmosphérique
+ce jour-là,
+
+but we can assume that it was close to average
+atmospheric pressure, about 100 kPa,
+mais nous pouvons supposer qu'elle était proche de
+la pression atmosphérique moyenne, environ 100 kPa,
+
+and the internal pressure would be about the
+same.
+et que la pression interne serait à peu près la
+même.
+
+So the volume is 2.1189 X 108 L,
+n is what we are trying to find out,
+Donc le volume est de 2,1189 X 108 L,
+n est ce que nous essayons de savoir,
+
+R is always the same (8.3145 liter kilo-Pascals
+per Kelvin mole)
+R est toujours le même (8,3145 litre kilo-Pascals
+par Kelvin mole)
+
+and average early May temperatures rage around
+10° Celsius which is 283.15 Kelvin.
+et les températures moyennes début mai tournent autour de
+10° Celsius soit 283,15 Kelvin.
+
+With this information we can now solve for
+the amount of hydrogen gas.
+Avec cette information, nous pouvons maintenant résoudre
+la quantité d'hydrogène gazeux.
+
+Doing the math and rounding properly we find
+that n equals 9.00 x 10^6.
+En faisant le calcul et en arrondissant correctement, nous constatons
+que n est égal à 9,00 x 10 ^ 6.
+
+All the units cancel except for moles which
+we add to the end.
+Toutes les unités s'annulent sauf les taupes que l'
+on ajoute à la fin.
+
+So the Hindenburg started out with 9.00 x
+10^6, that's 9 million moles of hydrogen gas.
+Ainsi, le Hindenburg a commencé avec 9,00 x
+10 ^ 6, soit 9 millions de moles d'hydrogène gazeux.
+
+That is a lot.
+C'est beaucoup. 
+
+So how much extra could the Hindenburg carry
+because it was using hydrogen instead of helium?
+Alors, quelle quantité supplémentaire le Hindenburg pouvait-il transporter
+parce qu'il utilisait de l'hydrogène au lieu de l'hélium ?
+
+9 million moles of H2 times its molar mass,
+2.016 grams per mole,
+9 millions de moles de H2 fois sa masse molaire
+, 2,016 grammes par mole, équivaut
+
+calculates to a little over 18 000 kilograms,
+or 18 metric tons of gas.
+à un peu plus de 18 000 kilogrammes,
+soit 18 tonnes métriques de gaz.
+
+On the other hand helium's molar mass it 4.003
+grams per mole.
+D'autre part, la masse molaire de l'hélium est de 4,003
+grammes par mole.
+
+So if they'd used 9 million moles of that, the gas would have had a total mass of over 36 000 kilograms.
+Donc, s'ils en avaient utilisé 9 millions de moles, le gaz aurait eu une masse totale de plus de 36 000 kilogrammes.
+
+So with hydrogen instead of helium the Hindenburg
+could carry 18 metric tons more.
+Ainsi, avec de l'hydrogène au lieu de l'hélium, le Hindenburg
+pourrait transporter 18 tonnes métriques de plus.
+
+Here's another interesting question: It's
+warmer in New Jersey than in Germany.
+Voici une autre question intéressante : il fait
+plus chaud dans le New Jersey qu'en Allemagne.
+
+On an average day in May the outdoor temperature there would be around 18° Celsius or 291.15 Kelvin.
+Un jour moyen en mai, la température extérieure serait d'environ 18° Celsius ou 291,15 Kelvin.
+
+If we assume that the volume and amount of
+gas in the Hindenburg were constant,
+Si nous supposons que le volume et la quantité de
+gaz dans le Hindenburg étaient constants, de
+
+how much did the internal pressure increase?
+combien la pression interne a-t-elle augmenté ?
+
+We're looking for P, so we leave that as variable.
+Nous recherchons P, nous le laissons donc comme variable.
+
+The amount and the volume have to stay the
+same as before.
+La quantité et le volume doivent rester les
+mêmes qu'avant.
+
+R is always the same and our new temperature
+is 291.15.
+R est toujours le même et notre nouvelle température
+est de 291,15.
+
+Using those numbers we find that the new pressure
+is 102.822.
+En utilisant ces chiffres, nous constatons que la nouvelle pression
+est de 102,822.
+
+Given the right number of significant digits and the right unit, the final answer becomes 103 kPa.
+Étant donné le bon nombre de chiffres significatifs et la bonne unité, la réponse finale devient 103 kPa.
+
+So looks like we've gotten pretty good at these calculations, time for some fun! This is a fire piston.
+Il semble donc que nous soyons devenus assez bons dans ces calculs, il est temps de s'amuser !  C'est un piston à incendie.
+
+Like everything around us it contains air and it has a plunger that allows you to compress that air very quickly.
+Comme tout ce qui nous entoure, il contient de l'air et il possède un piston qui vous permet de comprimer cet air très rapidement.
+
+The sudden but extreme increase in pressure
+will cause the temperature of the air inside
+L'augmentation soudaine mais extrême de la
+pression entraînera une
+
+to rise equally suddenly and extremely.
+augmentation tout aussi soudaine et extrême de la température de l'air à l'intérieur.
+
+Of course hot air looks just like cool air,
+so that's kind of boring on its own.
+Bien sûr, l'air chaud ressemble à de l'air frais,
+donc c'est un peu ennuyeux en soi.
+
+But if I put a small piece of cotton inside
+to provide fuel, watch closely.
+Mais si je mets un petit morceau de coton à l'intérieur
+pour fournir du carburant, surveillez bien.
+
+And... boom! Did you see that?
+Et... boum !  As-tu vu ça? 
+
+The inside of the piston actually got so hot
+that it ignited the cotton.
+L'intérieur du piston est devenu si chaud
+qu'il a enflammé le coton.
+
+Solid prove that increased pressure does indeed
+lead to increased temperature. Pretty cool!
+Une preuve solide qu'une pression accrue
+entraîne effectivement une augmentation de la température.  Plutôt cool! 
+
+Thank you for watching Crash Course Chemistry!
+Merci d'avoir regardé Crash Course Chemistry !
+
+If you were paying attention,
+you learned that
+Si vous étiez attentif,
+vous avez appris que
+
+taking up space and attraction to others cause just as much trouble for gases as it does for us.
+prendre de la place et attirer les autres cause autant de problèmes aux gaz qu'à nous.
+
+That Mendeleev came to the rescue once again
+Que Mendeleïev est venu à la rescousse une fois
+
+by combining three separate gas laws into
+one simple equation and how to use that equation.
+de plus en combinant trois lois distinctes sur les gaz en
+une seule équation simple et comment utiliser cette équation.
+
+You also learned a lot about the amazing Hindenburg
+and its tragic end,
+Vous avez également beaucoup appris sur l'incroyable Hindenburg
+et sa fin tragique,
+
+why the stuff that makes party balloons cool
+might have made the Hindenburg cooler too,
+pourquoi les trucs qui rendent les ballons de fête cool
+auraient pu aussi rendre le Hindenburg plus frais,
+
+and how to make fire with cotton and your
+fist.
+et comment faire du feu avec du coton et votre
+poing.
+
+This episode of Crash Course Chemistry was
+written by Edi González.
+Cet épisode de Crash Course Chemistry a été
+écrit par Edi González.
+
+The script was edited by myself and Blake
+de Pastino.
+Le script a été édité par moi-même et Blake
+de Pastino.
+
+Our chemistry consultant was Dr. Heiko Langner.
+Notre consultant en chimie était le Dr Heiko Langner.
+
+It was filmed, edited and directed by Nicholas
+Jenkins.
+Il a été filmé, monté et réalisé par Nicholas
+Jenkins.
+
+Our script supervisor is Caitlin Hofmeister.
+Notre scénariste est Caitlin Hofmeister.
+
+Our sound designer is Michael Aranda and our
+graphics team is Thought Café.
+Notre concepteur sonore est Michael Aranda et notre
+équipe graphique est Thought Café.
+

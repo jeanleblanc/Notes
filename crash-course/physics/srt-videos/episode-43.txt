@@ -1,0 +1,621 @@
+Here’s a question that’s plagued physicists
+for centuries.
+Voici une question qui tourmente les physiciens
+depuis des siècles.
+
+What exactly is light?
+Qu'est-ce que la lumière exactement ?
+
+When we talked about this earlier, we came
+to the conclusion that light is a wave.
+Lorsque nous en avons parlé plus tôt, nous sommes arrivés
+à la conclusion que la lumière est une onde.
+
+Which it is.
+Ce qu'il est.
+
+Or at least, light behaves like a wave, when
+you you use it in certain experiments.
+Ou du moins, la lumière se comporte comme une onde, lorsque
+vous l'utilisez dans certaines expériences.
+
+So for most of the 19th century, it seemed
+like the question had been settled.
+Ainsi, pendant la majeure partie du XIXe siècle, il semblait
+que la question avait été réglée.
+
+Physicists agreed: light is a wave.
+Les physiciens étaient d'accord : la lumière est une onde.
+
+Then, new discoveries made them start to question
+that.
+Puis, de nouvelles découvertes les ont amenés à remettre
+cela en question.
+
+They started getting more and more clues that
+light could also behave like a particle.
+Ils ont commencé à obtenir de plus en plus d'indices indiquant que la
+lumière pouvait également se comporter comme une particule.
+
+Which led to the strange concept that light
+was both a particle and a wave.
+Ce qui a conduit à l'étrange concept selon lequel la lumière
+était à la fois une particule et une onde.
+
+This kickstarted the development of a
+little something you might have heard of,
+called quantum mechanics.
+Cela a lancé le développement d'un
+petit quelque chose dont vous avez peut-être entendu parler,
+appelé la mécanique quantique.
+
+[Theme Music]
+[Thème musical]
+
+One of the most important clues that light
+had to be more than just a wave was what’s
+known as the ultraviolet catastrophe.
+L'un des indices les plus importants que la lumière
+devait être plus qu'une simple onde était ce qu'on
+appelle la catastrophe ultraviolette.
+
+And that name isn’t really an exaggeration
+– the ultraviolet catastrophe was disastrous for
+conventional thinking about the physics of light.
+Et ce nom n'est pas vraiment exagéré
+- la catastrophe ultraviolette a été désastreuse pour
+la pensée conventionnelle sur la physique de la lumière.
+
+We’ve talked before about how objects radiate
+heat.
+Nous avons déjà parlé de la façon dont les objets émettent de la
+chaleur.
+
+Specifically, the amount of heat they radiate
+over time is proportional to their temperature
+raised to the fourth power.
+Plus précisément, la quantité de chaleur qu'ils dégagent au
+fil du temps est proportionnelle à leur température
+élevée à la puissance quatre.
+
+But there’s more going on there than just
+heat.
+Mais il se passe plus que de la
+chaleur.
+
+Objects actually radiate energy that covers
+a whole range of frequencies on the electromagnetic
+spectrum – all different kinds of light.
+Les objets rayonnent en fait une énergie qui
+couvre toute une gamme de fréquences sur le
+spectre électromagnétique - tous les différents types de lumière.
+
+Now, there’s this thing called a blackbody,
+which is basically the idealized version of
+a radiating object.
+Maintenant, il y a cette chose appelée un corps noir,
+qui est essentiellement la version idéalisée d'
+un objet rayonnant.
+
+No true blackbodies exist, but in theory,
+they absorb all incoming light without reflecting
+any, and radiate energy accordingly.
+Il n'existe pas de véritables corps noirs, mais en théorie,
+ils absorbent toute la lumière entrante sans en refléter
+aucune et émettent de l'énergie en conséquence.
+
+Not all of the energy coming from a blackbody
+has the same intensity.
+Toute l'énergie provenant d'un corps noir
+n'a pas la même intensité.
+
+You can predict the intensity of the energy
+coming from a blackbody – or blackbody radiation
+– based on its temperature.
+Vous pouvez prédire l'intensité de l'énergie
+provenant d'un corps noir - ou rayonnement du corps noir
+- en fonction de sa température.
+
+But when physicists came up with an
+equation for this intensity, using the idea that
+light is a wave, they ran into a big problem.
+Mais lorsque les physiciens ont proposé une
+équation pour cette intensité, en utilisant l'idée que la
+lumière est une onde, ils se sont heurtés à un gros problème.
+
+The equation they came up with, known as the
+Rayleigh-Jeans law, predicted that the higher
+the frequency of the radiation
+L'équation qu'ils ont trouvée, connue sous le nom de
+loi de Rayleigh-Jeans, prévoyait que plus
+la fréquence du rayonnement était élevée
+
+– and therefore, the shorter the wavelength –
+the higher the intensity.
+- et donc, plus la longueur d'onde était courte
+- plus l'intensité était élevée.
+
+And that matched up with experimental results
+really well but, only to a point.
+Et cela correspondait très bien aux résultats expérimentaux
+, mais seulement jusqu'à un certain point.
+
+Once the frequency of light got into the
+ultraviolet range or higher, the Rayleigh-Jeans law
+didn’t fit the results of experiments at all.
+Une fois que la fréquence de la lumière est entrée dans la
+gamme ultraviolette ou plus, la loi de Rayleigh-Jeans
+ne correspondait plus du tout aux résultats des expériences.
+
+Instead, experiments showed that blackbodies
+had a peak intensity, based on their temperature.
+Au lieu de cela, des expériences ont montré que les corps noirs
+avaient une intensité maximale, basée sur leur température.
+
+At a certain frequency, the light would be at its
+most intense, and after that, the intensity would
+actually drop as the frequency increased.
+À une certaine fréquence, la lumière serait la
+plus intense, et après cela, l'intensité
+chuterait à mesure que la fréquence augmentait.
+
+The warmer the object, the higher the frequency
+of the peak intensity.
+Plus l'objet est chaud, plus la fréquence
+de l'intensité maximale est élevée.
+
+But there was always a peak.
+Mais il y avait toujours un pic.
+
+It wasn’t supposed to be this way.
+Ce n'était pas censé être comme ça.
+
+Even worse, if you summed up the contributions
+of higher and higher frequencies to calculate
+Pire encore, si vous additionniez les contributions
+des fréquences de plus en plus élevées pour calculer
+
+the total power emitted by a blackbody, the
+Rayleigh-Jeans law predicted that you’d find
+infinite power.
+la puissance totale émise par un corps noir, la
+loi de Rayleigh-Jeans prédisait que vous trouveriez
+une puissance infinie.
+
+Which contradicts the principle of conservation
+of energy.
+Ce qui contredit le principe de conservation
+de l'énergie.
+
+This was the ultraviolet catastrophe.
+Ce fut la catastrophe ultraviolette.
+
+Something was clearly wrong with the way
+physicists were thinking about light.
+Quelque chose n'allait clairement pas dans la façon dont les
+physiciens pensaient à la lumière.
+
+As far as they knew, intensity was only supposed
+to keep getting stronger, as the frequency got higher.
+Pour autant qu'ils savaient, l'intensité était
+censée continuer à augmenter, à mesure que la fréquence augmentait.
+
+So, what were they missing?
+Alors, que manquaient-ils ?
+
+The catastrophe was resolved using an equation
+derived by German physicist Max Planck –
+La catastrophe a été résolue à l'aide d'une équation
+dérivée du physicien allemand Max Planck -
+
+an equation that basically led to the entire
+field of quantum mechanics.
+une équation qui a essentiellement conduit à l'ensemble du
+domaine de la mécanique quantique.
+
+The equation, known as Planck’s law, was
+actually very simple, but the concept it was
+based on was very new.
+L'équation, connue sous le nom de loi de Planck, était en
+fait très simple, mais le concept sur lequel elle était
+basée était très nouveau.
+
+Planck’s law says that electromagnetic energy
+takes the form of tiny, discrete packets, called quanta.
+La loi de Planck dit que l'énergie électromagnétique
+prend la forme de petits paquets discrets, appelés quanta.
+
+In other words, at a certain point, you can’t
+divide energy into anything smaller than these packets.
+En d'autres termes, à un certain point, vous ne pouvez pas
+diviser l'énergie en quelque chose de plus petit que ces paquets.
+
+And the energy in each quantum is equal to
+the frequency of the light, times a very small
+Et l'énergie dans chaque quantum est égale à
+la fréquence de la lumière, multipliée par un très petit
+
+number called Planck’s constant, represented
+by the letter h.
+nombre appelé la constante de Planck, représentée
+par la lettre h.
+
+If you take Planck’s law into account when you
+try to predict the intensity of blackbody radiation,
+Si vous tenez compte de la loi de Planck lorsque vous
+essayez de prédire l'intensité du rayonnement du corps noir,
+
+you end up with an equation that
+predicts the experimental results perfectly,
+including those weird peak intensities.
+vous vous retrouvez avec une équation qui
+prédit parfaitement les résultats expérimentaux,
+y compris ces intensités de pic étranges.
+
+So, the ultraviolet catastrophe was resolved.
+Ainsi, la catastrophe ultraviolette a été résolue.
+
+But now there was this whole new idea that
+had physicists rethinking everything:
+Mais maintenant, il y avait cette toute nouvelle idée qui
+obligeait les physiciens à tout repenser : l'
+
+Energy could only exist in discrete packets: quanta.
+énergie ne pouvait exister que dans des paquets discrets : les quanta.
+
+Before, physicists thought energy was a kind
+of continuous flow.
+Avant, les physiciens pensaient que l'énergie était une sorte
+de flux continu.
+
+But it turned out that at a certain point,
+you couldn’t divide up energy into smaller amounts.
+Mais il s'est avéré qu'à un certain moment,
+vous ne pouviez pas diviser l'énergie en plus petites quantités.
+
+Our old friend Einstein played a big part
+in reworking physics using this new information
+Notre vieil ami Einstein a joué un grand rôle
+dans le remaniement de la physique à l'aide de ces nouvelles informations
+
+– and he won a Nobel prize for it in 1921.
+- et il a remporté un prix Nobel pour cela en 1921.
+
+Einstein argued that light energy traveled in
+packets we now call photons, which would
+essentially make light behave like a particle.
+Einstein a soutenu que l'énergie lumineuse voyageait en
+paquets que nous appelons maintenant des photons, ce qui
+ferait essentiellement que la lumière se comporte comme une particule.
+
+Which was weird, because remember: there
+had been lots of experiments that showed that
+light behaved like a wave.
+Ce qui était bizarre, car rappelez-vous : il y
+avait eu beaucoup d'expériences qui avaient montré que la
+lumière se comportait comme une onde.
+
+But Einstein suggested a way to prove whether
+light traveled in these discrete packets:
+Mais Einstein a suggéré un moyen de prouver si la
+lumière voyageait dans ces paquets discrets :
+
+an experiment involving the photoelectric
+effect.
+une expérience impliquant l'
+effet photoélectrique.
+
+The photoelectric effect describes what happens
+when you shine a beam of light on a metal plate.
+L'effet photoélectrique décrit ce qui se passe
+lorsque vous faites briller un faisceau de lumière sur une plaque de métal.
+
+Electrons leave the plate and hit a nearby
+collector, creating a current.
+Les électrons quittent la plaque et frappent un
+collecteur à proximité, créant un courant.
+
+Einstein realized that by studying the way
+the electrons left the plate, physicists could
+learn a lot about the properties of light.
+Einstein s'est rendu compte qu'en étudiant la façon dont
+les électrons quittent la plaque, les physiciens pourraient en
+apprendre beaucoup sur les propriétés de la lumière.
+
+Because, both the wave theory and the
+particle theory of light predict that light knocks
+electrons out of the metal.
+Parce que la théorie ondulatoire et la
+théorie particulaire de la lumière prédisent que la lumière fait
+sortir les électrons du métal.
+
+But each theory has a different explanation
+for why this happens – and different predictions
+when it comes to the details of the experiment.
+Mais chaque théorie a une explication différente
+pour expliquer pourquoi cela se produit – et des prédictions différentes
+en ce qui concerne les détails de l'expérience.
+
+Wave theory says that when a light wave hits
+an electron, it exerts a force on the electron
+that ejects it from the metal.
+La théorie des ondes dit que lorsqu'une onde lumineuse frappe
+un électron, elle exerce une force sur l'électron
+qui l'éjecte du métal.
+
+According to this theory, if you increase the
+intensity of the light, you increase the strength of
+the electric field hitting the electrons.
+Selon cette théorie, si vous augmentez l'
+intensité de la lumière, vous augmentez la force du
+champ électrique frappant les électrons.
+
+So you eject more electrons, and these
+electrons have a higher speed, and achieve
+a higher maximum kinetic energy,
+Ainsi, vous éjectez plus d'électrons, et ces
+électrons ont une vitesse plus élevée et atteignent
+une énergie cinétique maximale plus élevée,
+
+which is the kinetic energy of the
+fastest-moving electrons leaving the plate.
+qui est l'énergie cinétique des
+électrons les plus rapides quittant la plaque.
+
+One important thing to note here is that,
+according to wave theory, the frequency of
+the light shouldn’t make a difference.
+Une chose importante à noter ici est que,
+selon la théorie des ondes, la fréquence de
+la lumière ne devrait pas faire de différence.
+
+Only the intensity matters.
+Seule l'intensité compte.
+
+Particle theory, on the other hand, says that
+electrons get ejected from the metal when
+they’re hit by individual photons.
+La théorie des particules, d'autre part, dit que les
+électrons sont éjectés du métal
+lorsqu'ils sont touchés par des photons individuels.
+
+The photon transfers its energy to the electron,
+which pops out of the metal.
+Le photon transfère son énergie à l'électron
+qui sort du métal.
+
+And the photon is destroyed in the process.
+Et le photon est détruit dans le processus.
+
+But there’s a minimum energy that the photon needs
+to transfer, in order to get the electron to overcome 
+its attraction to the metal and pop out.
+Mais il y a une énergie minimale que le photon
+doit transférer, afin que l'électron surmonte
+son attraction pour le métal et sorte.
+
+That minimum energy is called the work function,
+W_0.
+Cette énergie minimale est appelée la fonction de travail,
+W_0.
+
+If the photon has less energy than the work
+function, the electron won’t go anywhere.
+Si le photon a moins d'énergie que la
+fonction de travail, l'électron n'ira nulle part.
+
+But if the photon has more energy than the work
+function, then some of the photon’s energy will be
+used up to tear the electron away from the metal,
+Mais si le photon a plus d'énergie que la
+fonction de travail, alors une partie de l'énergie du photon sera
+utilisée pour arracher l'électron du métal,
+
+and the rest will give the electron
+kinetic energy.
+et le reste donnera de
+l'énergie cinétique à l'électron.
+
+And some electrons will be more strongly attracted
+to the metal than others.
+Et certains électrons seront plus fortement
+attirés par le métal que d'autres.
+
+But the electrons with the maximum kinetic energy
+will be the ones that took the bare minimum amount
+of energy to separate from the metal.
+Mais les électrons avec l'énergie cinétique maximale
+seront ceux qui ont pris le minimum
+d'énergie pour se séparer du métal.
+
+So, according to particle theory, we can say that the
+energy of the photon is equal to the work function,
+W_0, plus the maximum kinetic energy.
+Ainsi, selon la théorie des particules, nous pouvons dire que l'
+énergie du photon est égale à la fonction de travail,
+W_0, plus l'énergie cinétique maximale.
+
+And the energy of the photon is also equal
+to Planck’s constant times the frequency.
+Et l'énergie du photon est également égale
+à la constante de Planck multipliée par la fréquence.
+
+This equation tells you that if you increase the
+frequency of the light, the maximum kinetic energy
+of the electrons should increase accordingly.
+Cette équation vous dit que si vous augmentez la
+fréquence de la lumière, l'énergie cinétique maximale
+des électrons devrait augmenter en conséquence.
+
+And if you go below a certain frequency – f_0
+– where Planck’s constant times f_0 would be
+equal to the work function – then you’re not
+going to eject any electrons at all.
+Et si vous descendez en dessous d'une certaine fréquence - f_0
+- où les temps constants de Planck f_0 seraient
+égaux à la fonction de travail - alors
+vous n'éjecterez pas du tout d'électrons.
+
+This means that increasing the intensity of the
+light increases the number of electrons ejected, but
+it doesn’t affect their maximum kinetic energy.
+Cela signifie que l'augmentation de l'intensité de la
+lumière augmente le nombre d'électrons éjectés, mais
+cela n'affecte pas leur énergie cinétique maximale.
+
+So if you want to know whether the wave theory
+or the particle theory is right, all you have to do
+is try a few simple tests:
+Donc, si vous voulez savoir si la théorie des ondes
+ou la théorie des particules est juste, il vous suffit d'
+essayer quelques tests simples :
+
+Is there a cutoff frequency below which
+electrons aren’t ejected from the metal, no matter
+how long you wait?
+Existe-t-il une fréquence de coupure en dessous de laquelle les
+électrons ne sont pas éjectés du métal, quelle
+que soit la durée  attendre? 
+
+What happens when you raise the frequency
+higher?
+Que se passe-t-il lorsque vous augmentez la
+fréquence ?
+
+And when you increase the intensity of the
+light, does that affect the maximum kinetic
+energy of the ejected electrons?
+Et lorsque vous augmentez l'intensité de la
+lumière, cela affecte-t-il l'énergie cinétique maximale
+des électrons éjectés ?
+
+Turns out, there is a cutoff frequency, and
+the higher the frequency is above the cutoff,
+Il s'avère qu'il existe une fréquence de coupure
+et que plus la fréquence est supérieure à la fréquence de coupure
+
+the higher the maximum kinetic energy is of
+the electrons.
+, plus l'énergie cinétique maximale des électrons est élevée
+.
+
+And sure enough, increasing the intensity of the
+light only affects the number of electrons ejected.
+Et bien sûr, l'augmentation de l'intensité de la
+lumière n'affecte que le nombre d'électrons éjectés.
+
+It doesn’t change their maximum kinetic
+energy.
+Cela ne change pas leur énergie cinétique maximale
+.
+
+The results of all these tests with the
+photoelectric effect matchup with the predictions
+of the particle theory of light.
+Les résultats de tous ces tests avec l'
+effet photoélectrique concordent avec les prédictions
+de la théorie particulaire de la lumière.
+
+So, photons really exist.
+Donc, les photons existent vraiment.
+
+Light travels in discrete packets and behaves
+like a particle.
+La lumière voyage en paquets discrets et se comporte
+comme une particule.
+
+But what about all those other experiments
+that showed light behaving like a wave?
+Mais qu'en est-il de toutes ces autres expériences
+qui ont montré que la lumière se comportait comme une onde ?
+
+Well, the thing is light can behave like both.
+Eh bien, la chose est que la lumière peut se comporter comme les deux.
+
+In certain circumstances, it can behave like
+a particle.
+Dans certaines circonstances, il peut se comporter comme
+une particule.
+
+In others, it can behave like a wave.
+Dans d'autres, il peut se comporter comme une vague.
+
+This is called the wave-particle duality.
+C'est ce qu'on appelle la dualité onde-particule.
+
+When it comes to the physics of the very small,
+your intuitive understanding of the world
+just doesn’t apply.
+En ce qui concerne la physique du tout petit,
+votre compréhension intuitive du monde
+ne s'applique tout simplement pas.
+
+You can’t describe things like light using
+the concepts you’re used to, that work on
+a larger scale.
+Vous ne pouvez pas décrire des choses comme la lumière en utilisant
+les concepts auxquels vous êtes habitués, qui fonctionnent
+à plus grande échelle.
+
+When you’re trying to explain something totally
+outside the way you’ve directly experienced the world,
+you’re going to run into some brain-bending physics.
+Lorsque vous essayez d'expliquer quelque chose de totalement différent de
+la façon dont vous avez directement expérimenté le monde,
+vous allez vous heurter à une physique époustouflante.
+
+And the discovery of Planck’s law – along with the
+idea that light energy traveled as discrete packets –
+Et la découverte de la loi de Planck - ainsi que l'
+idée que l'énergie lumineuse voyageait sous forme de paquets discrets -
+
+turned into the foundation for the concepts and
+equations that we use to analyze the behavior
+of the very small.
+est devenue la base des concepts et des
+équations que nous utilisons pour analyser le comportement
+des très petits.
+
+And that field of physics, which studies how
+quanta behave, is what we call quantum mechanics.
+Et ce domaine de la physique, qui étudie le
+comportement des quanta, est ce que nous appelons la mécanique quantique.
+
+Today, you learned about the ultraviolet catastrophe,
+and how it was resolved by Planck’s law.
+Aujourd'hui, vous avez découvert la catastrophe ultraviolette
+et comment elle a été résolue par la loi de Planck.
+
+We also talked about photons, and how the
+photoelectric effect proves the particle nature of light.
+Nous avons également parlé des photons et de la façon dont l'
+effet photoélectrique prouve la nature particulaire de la lumière.
+
+Finally, we discussed the wave-particle duality.
+Enfin, nous avons discuté de la dualité onde-particule.
+
+Crash Course Physics is produced in association
+with PBS Digital Studios.
+Crash Course Physics est produit en association
+avec PBS Digital Studios.
+
+You can head over to their channel to check
+out a playlist of the latest from amazing shows like:
+Vous pouvez vous rendre sur leur chaîne pour
+consulter une liste de lecture des dernières émissions incroyables telles que:
+
+PBS Space Time, Physics Girl, and Brain Craft.
+PBS Space Time, Physics Girl et Brain Craft.
+
+This episode of Crash Course was filmed in
+the Doctor Cheryl C. Kinney Crash Course Studio
+with the help of these amazing people,
+Cet épisode de Crash Course a été filmé dans
+le studio Doctor Cheryl C. Kinney Crash Course
+avec l'aide de ces personnes incroyables,
+
+and our equally amazing graphics team is
+Thought Cafe.
+et notre équipe graphique tout aussi incroyable est
+Thought Cafe.
+

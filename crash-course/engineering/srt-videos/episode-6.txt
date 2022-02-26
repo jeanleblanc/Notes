@@ -1,0 +1,680 @@
+From imagining what it might be like to create
+our own city, to learning about the chemicals that
+go into our food,
+De l'imagination de ce que cela pourrait être de créer
+notre propre ville à l'apprentissage des produits chimiques qui
+entrent dans notre alimentation,
+
+we’ve already covered a good amount of
+engineering history.
+nous avons déjà couvert une bonne partie de l'histoire de l'
+ingénierie.
+
+Civil, mechanical, electrical, and chemical
+are the four main branches of engineering.
+Civil, mécanique, électrique et chimique
+sont les quatre principales branches de l'ingénierie.
+
+But there are many others!
+Mais il y en a bien d'autres !
+
+Some have been around for centuries, while
+others have developed more recently and are
+rapidly growing.
+Certains existent depuis des siècles, tandis que d'
+autres se sont développés plus récemment et se
+développent rapidement.
+
+Some have even broken off of existing branches
+and are quickly becoming their own fields.
+Certains ont même rompu avec des succursales existantes
+et deviennent rapidement leurs propres champs.
+
+One example of this is aerospace engineering,
+which handles the design and construction of
+air and spacecraft.
+L'ingénierie aérospatiale,
+qui s'occupe de la conception et de la construction d'
+avions et d'engins spatiaux, en est un exemple.
+
+This was a natural progression from
+mechanical engineering, as we started
+creating machines that could fly.
+C'était une progression naturelle de
+l'ingénierie mécanique, car nous avons commencé à
+créer des machines capables de voler.
+
+Another example is environmental engineering,
+which uses engineering practices, soil science, biology,
+and chemistry to help find solutions to environmental problems.
+Un autre exemple est l'ingénierie environnementale,
+qui utilise des pratiques d'ingénierie, la science du sol, la biologie
+et la chimie pour aider à trouver des solutions aux problèmes environnementaux.
+
+We’ll cover these and others in more detail later on,
+but for now let’s focus on two of the more prominent
+disciplines of engineering: industrial and biomedical.
+Nous aborderons ces questions et d'autres plus en détail plus tard,
+mais pour l'instant, concentrons-nous sur deux des disciplines les plus importantes
+de l'ingénierie : industrielle et biomédicale.
+
+After we learn about the history of these two branches,
+Après avoir découvert l'histoire de ces deux branches,
+
+we’re going to see what it would take to
+use both of these fields to build and design
+a fully-functioning artificial limb.
+nous verrons ce qu'il faudrait pour
+utiliser ces deux domaines pour construire et concevoir
+un membre artificiel pleinement fonctionnel.
+
+So stick around!
+Alors restez dans les parages !
+
+[Theme Music]
+[Theme Music]
+
+Industrial engineering has been around as long
+as we’ve had factories and other engineering systems.
+L'ingénierie industrielle existe depuis
+que nous avons des usines et d'autres systèmes d'ingénierie.
+
+Just as mechanical engineers work with a bunch
+of different parts to design a machine,
+Tout comme les ingénieurs mécaniciens travaillent avec un tas
+de pièces différentes pour concevoir une machine,
+
+industrial engineers work with many different
+elements to devise an efficient system.
+les ingénieurs industriels travaillent avec de nombreux
+éléments différents pour concevoir un système efficace.
+
+And it’s not just the machines they have
+to think about.
+Et ce ne sont pas seulement les machines auxquelles ils
+doivent penser.
+
+They also have to consider the workers, materials,
+energy flow, and communication that are needed to
+provide the best product or service.
+Ils doivent également tenir compte des travailleurs, des matériaux, du
+flux d'énergie et de la communication nécessaires pour
+fournir le meilleur produit ou service.
+
+Other branches of engineering often take apart
+each system and analyze all of its parts separately,
+before putting a system together.
+D'autres branches de l'ingénierie démontent souvent
+chaque système et analysent toutes ses parties séparément,
+avant d'assembler un système.
+
+But industrial engineers do things a bit differently.
+Mais les ingénieurs industriels font les choses un peu différemment.
+
+They look at the system as a whole first and
+then move on to see how the different parts
+work together.
+Ils examinent d'abord le système dans son ensemble,
+puis se déplacent pour voir comment les différentes parties
+fonctionnent ensemble.
+
+Then they can focus on the specifics to achieve
+the best results.
+Ensuite, ils peuvent se concentrer sur les détails pour obtenir
+les meilleurs résultats.
+
+It’s all about optimization.
+Tout est question d'optimisation.
+
+And one of the most important areas that industrial
+engineers try to optimize is the assembly line.
+Et l'un des domaines les plus importants que les
+ingénieurs industriels tentent d'optimiser est la chaîne de montage.
+
+It’s where we can see the biggest improvements
+in quality, delivery time, and cost.
+C'est là que nous pouvons voir les plus grandes améliorations
+en termes de qualité, de délai de livraison et de coût.
+
+The drive to optimize the assembly line is
+why many factories have switched over to more
+automation instead of manual labor.
+La volonté d'optimiser la chaîne de montage est la
+raison pour laquelle de nombreuses usines sont passées à plus d'
+automatisation au lieu du travail manuel.
+
+And it’s caused the idea of “lights-out manufacturing”
+to grow,
+Et cela a fait grandir l'idée de «fabrication sans éclairage»
+
+which is where factories and manufacturing operations
+don’t physically need humans there to run or operate.
+, c'est-à-dire où les usines et les opérations de fabrication
+n'ont pas physiquement besoin d'humains pour fonctionner ou fonctionner.
+
+Some machines are far less concerned about
+needing light, or heat and air conditioning,
+for that matter.
+Certaines machines sont beaucoup moins soucieuses d'
+avoir besoin de lumière, ou de chaleur et de climatisation,
+d'ailleurs.
+
+And they’re much less likely to complain.
+Et ils sont beaucoup moins susceptibles de se plaindre.
+
+But we’re still a long wayfrom a world where
+robots and machines run everything.
+Mais nous sommes encore loin d'un monde où les
+robots et les machines font tout fonctionner.
+
+Until then, we can learn a good deal from
+Frederick Winslow Taylor,
+Jusque-là, nous pouvons apprendre beaucoup de
+Frederick Winslow Taylor,
+
+an American engineer who we see as the father of
+industrial engineering and scientific management.
+un ingénieur américain que nous considérons comme le père de
+l'ingénierie industrielle et de la gestion scientifique.
+
+Around 1881, Taylor introduced what we know
+as time study.
+Vers 1881, Taylor a introduit ce que nous appelons l'
+étude du temps.
+
+He found that the efficiency in a shop or factory could be greatly improved by looking at the workers and eliminating as much wasted time as was reasonably possible.
+Il a constaté que l'efficacité d'un magasin ou d'une usine pouvait être grandement améliorée en examinant les travailleurs et en éliminant autant de temps perdu qu'il était raisonnablement possible.
+
+His work led to major improvements in factory
+production by focusing on one of the biggest
+variables: people.
+Son travail a conduit à des améliorations majeures dans la
+production en usine en se concentrant sur l'une des plus grandes
+variables : les personnes.
+
+Taylor’s teachings soon became widespread,
+with his work titled The Principles of Scientific
+Management being published in 1911.
+Les enseignements de Taylor se sont rapidement répandus
+, son ouvrage intitulé The Principles of Scientific
+Management étant publié en 1911.
+
+While industrial engineering might not be as flashy
+as some of the other professions, it’s central to the
+overall function of the other branches.
+Bien que le génie industriel ne soit peut-être pas aussi flashy
+que certaines des autres professions, il est au cœur de la
+fonction globale des autres branches.
+
+It’s the backbone of our engineering skelton.
+C'est l'épine dorsale de notre squelette d'ingénierie.
+
+It’s been in the background of engineering
+ever since we built the first factories.
+C'est à l'arrière-plan de l'
+ingénierie depuis que nous avons construit les premières usines.
+
+Which brings us to one of the new fields of
+engineering: biomedical.
+Ce qui nous amène à l'un des nouveaux domaines de l'
+ingénierie : le biomédical.
+
+It’s often used synonymously with bioengineering,
+but the two are not exactly the same.
+Il est souvent utilisé comme synonyme de bio-ingénierie,
+mais les deux ne sont pas exactement les mêmes.
+
+Biomedical engineering applies engineering
+skills and principles to biology and medicine,
+usually for the purpose of healthcare.
+Le génie biomédical applique des
+compétences et des principes d'ingénierie à la biologie et à la médecine,
+généralement à des fins de soins de santé.
+
+It focuses on human and animal biology, whereas
+bioengineering is typically used as a broader term that
+can include other biological systems, like plants.
+Il se concentre sur la biologie humaine et animale, tandis que la
+bio-ingénierie est généralement utilisée comme un terme plus large qui
+peut inclure d'autres systèmes biologiques, comme les plantes.
+
+Biomedical engineering focuses on advancements
+that improve our health, from diagnosis and analysis of
+medical conditions, to their treatment and recovery.
+Le génie biomédical se concentre sur les progrès
+qui améliorent notre santé, du diagnostic et de l'analyse des
+conditions médicales à leur traitement et à leur rétablissement.
+
+This is where we’ll learn the skills to
+try and make an artificial limb.
+C'est là que nous apprendrons les compétences nécessaires pour
+essayer de fabriquer un membre artificiel.
+
+Biomedical engineers differ a bit from the other
+disciplines in that they often need to apply modern
+biological principles to their designs.
+Les ingénieurs biomédicaux diffèrent un peu des autres
+disciplines en ce sens qu'ils doivent souvent appliquer
+des principes biologiques modernes à leurs conceptions.
+
+For example, you have to make sure that the
+materials of an artificial organ don’t cause an
+unwanted reaction inside the body,
+Par exemple, vous devez vous assurer que les
+matériaux d'un organe artificiel ne provoquent
+pas de réaction indésirable à l'intérieur du corps
+
+and that an artificial limb moves in similar
+ways to its organic counterpart.
+et qu'un membre artificiel se déplace de la même
+manière que son homologue organique.
+
+As such, biomedical engineers need to have
+a good working knowledge of many other fields
+En tant que tels, les ingénieurs biomédicaux doivent avoir
+une bonne connaissance pratique de nombreux autres domaines
+
+in addition to biology, including mechanical
+and electrical engineering, materials science,
+and chemistry, to name a few.
+en plus de la biologie, y compris le génie mécanique
+et électrique, la science des matériaux
+et la chimie, pour n'en nommer que quelques-uns.
+
+And biomedical engineering shows up in most
+of our lives.
+Et le génie biomédical apparaît dans la plupart
+de nos vies.
+
+Beyond artificial limbs and organs, we have
+it thank for defibrillators, pacemakers, MRI
+and CT scans, and insulin pumps.
+Au-delà des membres et des organes artificiels, nous l'
+avons grâce aux défibrillateurs, aux stimulateurs cardiaques, aux IRM
+et aux tomodensitogrammes et aux pompes à insuline.
+
+It’s striking to think that most of these technologies
+weren't around 50 or 100 years ago.
+Il est frappant de penser que la plupart de ces technologies
+n'existaient pas il y a 50 ou 100 ans.
+
+That’s because biomedical and bioengineering
+didn’t really show up until after World War II.
+C'est parce que le biomédical et la bio
+-ingénierie ne sont vraiment apparus qu'après la Seconde Guerre mondiale.
+
+There were certainly biomedical inventions
+before that, but they were mostly left to the
+doctors and physicians.
+Il y a eu certes des inventions biomédicales
+avant cela, mais elles ont été pour la plupart laissées aux
+médecins et aux médecins.
+
+Some of the earliest evidence for the practice that
+we’ve found has been a 3,000 year-old wooden and
+leather prosthetic toe found on an Egyptian mummy.
+Certaines des premières preuves de la pratique que
+nous avons trouvées sont une prothèse d'orteil en bois et en cuir vieille de 3 000 ans
+trouvée sur une momie égyptienne.
+
+Moving forward to about 200 years ago, the
+French physician René Laënnec came up with an
+important biomedical invention: the stethoscope.
+Il y a environ 200 ans, le
+médecin français René Laënnec a inventé une
+invention biomédicale importante : le stéthoscope.
+
+After being appointed as a physician in the
+Necker Hospital in Paris in 1816,
+Après avoir été nommé médecin à l'
+hôpital Necker à Paris en 1816,
+
+he developed the stethoscope in response to
+how uncomfortable it was to have to lay your ear on
+a person’s chest to listen to their heart or lungs.
+il a développé le stéthoscope en réponse à
+l'inconfort d'avoir à poser l'oreille sur
+la poitrine d'une personne pour écouter son cœur ou ses poumons.
+
+People who enjoy their personal space have
+been thankful ever since.
+Les personnes qui aiment leur espace personnel
+sont reconnaissantes depuis.
+
+X-ray imaging was another early biomedical
+discovery.
+L'imagerie par rayons X a été une autre des premières
+découvertes biomédicales.
+
+In 1895, German physicist Wilhelm Conrad
+Röntgen discovered X-rays while experimenting
+with electric current flow.
+En 1895, le physicien allemand Wilhelm Conrad
+Röntgen découvrit les rayons X en
+expérimentant la circulation du courant électrique.
+
+He took the first X-ray photographs, which
+included the interiors of metal objects and
+the bones of his wife’s hand.
+Il a pris les premières photographies aux rayons X, qui
+comprenaient l'intérieur d'objets métalliques et
+les os de la main de sa femme.
+
+Even simple crutches and walking sticks can
+be looked at as early biomedical devices.
+Même de simples béquilles et cannes peuvent
+être considérées comme des dispositifs biomédicaux précoces.
+
+There was a medical problem, and people used what
+they had available to them to improve their situation.
+Il y avait un problème médical et les gens ont utilisé ce
+qu'ils avaient à leur disposition pour améliorer leur situation.
+
+But biomedical engineering didn’t really
+take off until 1961,
+Mais le génie biomédical n'a
+vraiment décollé qu'en 1961,
+
+when the University of Pennsylvania offered the
+Ph.D. Program of Biomedical Electronic Engineering,
+the first in the United States.
+lorsque l'Université de Pennsylvanie a proposé le
+doctorat.  Programme de génie électronique biomédical,
+le premier aux États-Unis.
+
+Now that the field was more established, one
+of the biggest steps forward for biomedical
+engineering was computers.
+Maintenant que le domaine était plus établi, l'un
+des plus grands pas en avant pour le
+génie biomédical était l'informatique.
+
+With computers, we could begin to analyze data much
+faster, which made it more efficient to evaluate patients,
+and opened up new ways of doing so.
+Avec les ordinateurs, nous avons pu commencer à analyser les données beaucoup
+plus rapidement, ce qui a rendu plus efficace l'évaluation des patients
+et a ouvert de nouvelles façons de le faire.
+
+Along with the invention of the internet, this is what’s allowed doctors and physicians to create a worldwide network of data to find medical patterns and correlations.
+Parallèlement à l'invention d'Internet, c'est ce qui a permis aux médecins et aux médecins de créer un réseau mondial de données pour trouver des schémas médicaux et des corrélations.
+
+It also led to new imaginingng opportunities
+like the MRI and CT scans, which began to
+pick up in the 1970’s.
+Cela a également conduit à de nouvelles opportunités d'imagination
+comme les IRM et les tomodensitogrammes, qui ont commencé à se
+développer dans les années 1970.
+
+Moving forward, advancements in medical
+instruments and electronics continue to be a
+major goal of biomedical engineers.
+À l'avenir, les progrès des
+instruments médicaux et de l'électronique continuent d'être un
+objectif majeur des ingénieurs biomédicaux.
+
+They continue to seek the answers to questions
+like ‘How can we better take images of the body?
+Ils continuent à chercher des réponses à des questions
+telles que « Comment pouvons-nous mieux prendre des images du corps ? »
+
+Can we reduce any radiation involved?
+Pouvons-nous réduire tout rayonnement impliqué?
+
+Can we come up with better analysis and measurement
+systems?
+Pouvons-nous proposer de meilleurs systèmes d'analyse et de
+mesure ?
+
+How many tests can we do from a single drop
+of blood?’
+Combien de tests pouvons-nous faire à partir d'une seule goutte
+de sang ? »
+
+But there are still some major challenges
+that biomedical engineers are wrestling with.
+Mais il reste encore des défis majeurs
+auxquels les ingénieurs biomédicaux sont confrontés.
+
+One of them is biological modeling.
+L'un d'eux est la modélisation biologique.
+
+We want to know – how we can simulate the
+body and what’s happening inside it.
+Nous voulons savoir – comment nous pouvons simuler le
+corps et ce qui se passe à l'intérieur.
+
+If we can get a realistic and reliable simulation,
+then we can use it to run experiments on rather
+than using a real person.
+Si nous pouvons obtenir une simulation réaliste et fiable
+, nous pouvons l'utiliser pour mener des expériences plutôt
+que d'utiliser une personne réelle.
+
+It would allow us to both experiment in ways
+that could be harmful to a real person and also
+repeat tests more than we normally could.
+Cela nous permettrait à la fois d'expérimenter d'une manière
+qui pourrait être nocive pour une personne réelle et de
+répéter les tests plus que nous ne le pourrions normalement.
+
+Another area we’d like to learn more about
+is drug delivery.
+Un autre domaine sur lequel nous aimerions en savoir plus
+est la livraison de médicaments.
+
+We want the medicine that we create to get
+where it needs to go.
+Nous voulons que le médicament que nous créons arrive
+là où il doit aller.
+
+This is because certain medicine and treatments
+become less effective depending on where and
+how they’re delivered.
+En effet, certains médicaments et traitements
+deviennent moins efficaces selon le lieu et la
+manière dont ils sont administrés.
+
+It’s also important to know how the body
+will react to any implanted biomachines.
+Il est également important de savoir comment le corps
+réagira à toute biomachine implantée.
+
+This is where materials science really comes
+in.
+C'est là que la science des matériaux entre vraiment
+en jeu.
+
+One of the more interesting recent developments
+here is called cell encapsulation.
+L'
+encapsulation cellulaire est l'un des développements récents les plus intéressants.
+
+This is where we surround a cell in biomaterials
+so that it’s protected inside the body.
+C'est là que nous entourons une cellule de biomatériaux
+afin qu'elle soit protégée à l'intérieur du corps.
+
+The materials can act as barriers to protect
+a transplanted cell from being attacked by its
+host’s immune system.
+Les matériaux peuvent agir comme des barrières pour protéger
+une cellule transplantée contre les attaques
+du système immunitaire de son hôte.
+
+The technology is somewhat new, but it has the
+potential to do wonders for cell-based therapy.
+La technologie est quelque peu nouvelle, mais elle a le
+potentiel de faire des merveilles pour la thérapie cellulaire.
+
+Materials are also important as we develop
+prosthetics even further.
+Les matériaux sont également importants car nous développons
+encore plus les prothèses.
+
+When we’re replacing something like a hip
+or a limb, there are many potential issues that
+we need to worry about.
+Lorsque nous remplaçons quelque chose comme une hanche
+ou un membre,
+nous devons nous préoccuper de nombreux problèmes potentiels.
+
+Some of these include making sure that bacteria and
+infections won’t thrive on the material we’ve implanted
+and that the material is durable and will last a long time.
+Certaines d'entre elles consistent à s'assurer que les bactéries et les
+infections ne se développent pas sur le matériau que nous avons implanté
+et que le matériau est durable et durera longtemps.
+
+Let’s look at what it might take to replace
+a fully-functional leg.
+Regardons ce qu'il faudrait pour remplacer
+une jambe entièrement fonctionnelle.
+
+There are many more factors at play than we’ll
+go over for now, but let’s look at the big ones.
+Il y a beaucoup plus de facteurs en jeu que nous n'en
+aborderons pour l'instant, mais examinons les plus importants.
+
+To start off, strength of materials is going
+to be pretty important.
+Pour commencer, la résistance des matériaux
+va être assez importante.
+
+We need the mechanical “bones” of the leg to not
+only last, but to handle both the static and dynamic
+forces that a leg goes through.
+Nous avons besoin des « os » mécaniques de la jambe non
+seulement pour durer, mais aussi pour gérer à la fois les forces statiques et dynamiques
+qu'une jambe subit.
+
+A material that handles the constant stress
+and strain of standing might not hold up well
+to the forces that happen when we run.
+Un matériau qui gère le stress
+et la tension constants de la position debout peut ne pas bien résister
+aux forces qui se produisent lorsque nous courons.
+
+Once that’s figured out, we’ll need to look
+into power and electrical engineering if we
+want it to move, like one of our legs.
+Une fois que cela sera compris, nous devrons nous pencher
+sur l'énergie et l'électrotechnique si nous
+voulons qu'il bouge, comme l'une de nos jambes.
+
+This is also where programming and computer
+science might play a big role.
+C'est également là que la programmation et l'
+informatique pourraient jouer un grand rôle.
+
+Furthermore, it’s not just the strong, rigid
+materials that we’ll have to worry about.
+De plus, ce ne sont pas seulement les matériaux solides et rigides
+dont nous devrons nous soucier.
+
+For instance, our knees and many parts of
+our bodies contain cartilage, which act, in
+part, as shock absorbers.
+Par exemple, nos genoux et de nombreuses parties de
+notre corps contiennent du cartilage, qui agit en
+partie comme amortisseur.
+
+There are also fluids in our knees that help
+them move, called synovial fluids.
+Il y a aussi des fluides dans nos genoux qui les
+aident à bouger, appelés fluides synoviaux.
+
+Finding out how to replicate these, with
+things like hyaluronic acid, could go a long way
+in recreating an artificial leg.
+Découvrir comment les reproduire, avec des
+choses comme l'acide hyaluronique, pourrait grandement contribuer
+à recréer une jambe artificielle.
+
+Now, once we’ve figured out the design for the leg,
+we’ll want to go back to our teachings about industrial
+engineering in order to make them in a factory.
+Maintenant, une fois que nous aurons compris le design de la jambe,
+nous voudrons revenir à nos enseignements sur le
+génie industriel afin de les fabriquer en usine.
+
+Not only will it be good to make them efficiently,
+but we’ll also want to make sure they’re made
+with the best possible quality.
+Non seulement il sera bon de les fabriquer efficacement,
+mais nous voudrons également nous assurer qu'ils sont fabriqués
+avec la meilleure qualité possible.
+
+You see, we have the potential to do great
+things when we apply what we’ve learned.
+Vous voyez, nous avons le potentiel de faire de grandes
+choses lorsque nous appliquons ce que nous avons appris.
+
+Like most engineering pursuits, things really
+come together when we combine at least a few
+of the different fields.
+Comme la plupart des activités d'ingénierie, les choses
+se rejoignent vraiment lorsque nous combinons au moins quelques-
+uns des différents domaines.
+
+So today we started off by learning about
+industrial engineering and the different factors
+involved in an industrial system.
+Aujourd'hui, nous avons donc commencé par apprendre
+le génie industriel et les différents facteurs
+impliqués dans un système industriel.
+
+We talked about Frederick Winslow Taylor,
+the father of industrial engineering, and his
+work with scientific management.
+Nous avons parlé de Frederick Winslow Taylor,
+le père du génie industriel, et de son
+travail sur la gestion scientifique.
+
+Then we moved on to biomedical engineering and
+bioengineering, along with their early inventions.
+Ensuite, nous sommes passés au génie biomédical et à la
+bio-ingénierie, ainsi qu'à leurs premières inventions.
+
+Finally, we ended our lesson by talking about the future
+of the biomedical field and saw what it might be like to
+bring our teachings together in creating an artificial leg.
+Enfin, nous avons terminé notre leçon en parlant de l'avenir
+du domaine biomédical et avons vu ce que cela pourrait être de
+rassembler nos enseignements pour créer une jambe artificielle.
+
+Next time we’ll be moving on from our
+history-based lessons into thermodynamic
+and the laws of conservation.
+La prochaine fois, nous passerons de nos
+leçons basées sur l'histoire à la thermodynamique
+et aux lois de la conservation.
+
+Thanks for watching and I’ll see you then.
+Merci d'avoir regardé et je vous verrai alors.
+
+Crash Course Engineering is produced in association
+with PBS Digital Studios.
+Crash Course Engineering est produit en association
+avec PBS Digital Studios.
+
+You can head over to their channel to check
+out a playlist of their amazing shows, like
+Vous pouvez vous rendre sur leur chaîne pour
+consulter une liste de lecture de leurs émissions incroyables, comme
+
+The Art Assignment, Deep Look, and It’s
+Okay to Be Smart.
+The Art Assignment, Deep Look et It’s
+Okay to Be Smart.
+
+Crash Course is a Complexly production and this
+episode of was filmed in the Doctor Cheryl C. Kinney
+Studio with the help of these wonderful people.
+Crash Course est une production complexe et cet
+épisode a été filmé dans le studio du docteur Cheryl C. Kinney
+avec l'aide de ces personnes merveilleuses.
+
+And our amazing graphics team is Thought Cafe.
+Et notre incroyable équipe graphique est Thought Cafe.
+

@@ -1,0 +1,632 @@
+Apparently, it can turn you into a superhero
+or into a mutant zombie.
+Apparemment, cela peut vous transformer en super-héros
+ou en zombie mutant.
+
+It's the plot device for probably half of
+the sci-fi movies made in the last 60 years
+C'est l'intrigue de probablement la moitié des
+films de science-fiction réalisés au cours des 60 dernières années
+
+and it's even the name of the song that welcomes you to the new age, to the new age, welcome to the new age.
+et c'est même le nom de la chanson qui vous souhaite la bienvenue dans la nouvelle ère, dans la nouvelle ère, bienvenue dans la nouvelle ère.
+
+Presumably this new age occurring after some
+kind of apocalypse.
+Vraisemblablement, ce nouvel âge survient après une
+sorte d'apocalypse.
+
+As principles of chemistry go, few figure more prominently in the popular imagination than radioactivity,
+En ce qui concerne les principes de la chimie, peu figurent plus en évidence dans l'imagination populaire que la radioactivité,
+
+but at the same time few are as completely
+misunderstood.
+mais en même temps peu sont aussi complètement
+incompris.
+
+Most people think of radioactivity as just some thing that mutates genes and melts faces off.
+La plupart des gens pensent que la radioactivité est juste quelque chose qui mute les gènes et qui fond face à face.
+
+And yes, some forms of radioactivity can do
+those things.
+Et oui, certaines formes de radioactivité peuvent faire
+ces choses.
+
+But all the more reason to understand it,
+right?
+Mais raison de plus pour le comprendre,
+non ?
+
+And also we can harness it to produce lots of electricity to fuel our rock and roll lifestyles without contributing to global warming,
+Et nous pouvons également l'exploiter pour produire beaucoup d'électricité pour alimenter nos modes de vie rock and roll sans contribuer au réchauffement climatique,
+
+though as Fukushima has taught us it comes
+with some of its own problems,
+bien que, comme Fukushima nous l'a appris, il
+comporte certains de ses propres problèmes,
+
+which we'll explore more next episode.
+que nous explorerons plus en détail dans le prochain épisode.
+
+Before we get into the nuts and bolts of nuclear
+chemistry,
+Avant d'entrer dans les rouages de la chimi
+ nucléaire, comme
+
+like nuclear fission and why it's so awesome as well as fusion and why it's so hard to do,
+la fission nucléaire et pourquoi c'est si génial ainsi que la fusion et pourquoi c'est si difficile à faire, nous 
+
+we'll first get to know radioactivity.
+llons d'abord connaître la radio
+
+What it is, what different kinds there are,
+and why you don't really need to fear it.
+ctivité.  Qu'est-ce que c'est, quels sont les différents types
+et pourquoi vous n'avez pas vraiment besoin de le craindre.
+
+At least, you know, not all the time.
+Du moins, vous savez, pas tout le temps.
+
+[Theme Music]
+[Thème musical]
+
+So, radioactivity doesn't actually have a
+lot to do with chemistry in the sense that
+Ainsi, la radioactivité n'a pas
+grand-chose à voir avec la chimie au sens où
+
+we've been talking about for most of this
+course.
+nous en avons parlé pendant la majeure partie de ce
+cours.
+
+Chemical reactions happen when an atom's outermost
+electrons do stuff,
+Les réactions chimiques se produisent lorsque les électrons les plus externes d'un atome
+font des choses,
+
+and the protons and neutrons and even the inner electron shells are usually completely unaffected.
+et les protons et les neutrons et même les couches d'électrons internes ne sont généralement pas affectés.
+
+But the protons and neutrons are still part of the atom, of course, still part of the chemicals,
+Mais les protons et les neutrons font toujours partie de l'atome, bien sûr, font toujours partie des produits chimiques,
+
+and their interactions are important.
+et leurs interactions sont importantes.
+
+When protons and neutrons get directly involved
+in reactions and their numbers do change,
+Lorsque les protons et les neutrons sont directement impliqués
+dans les réactions et que leur nombre change, d'
+
+huge amounts of energy can be released.
+énormes quantités d'énergie peuvent être libérées.
+
+Far more than by the transfer of electrons
+that we've learnted about in other reactions.
+Bien plus que par le transfert d'électrons
+dont nous avons entendu parler dans d'autres réactions.
+
+When these changes happen to the nucleus of an atom we rather logically call their study: Nuclear Chemistry.
+Lorsque ces changements se produisent dans le noyau d'un atome, nous appelons assez logiquement leur étude : Chimie Nucléaire.
+
+Now it's probably occurred to you already that changing the nucleus of an atom can completely change it's nature.
+Maintenant, il vous est probablement déjà venu à l'esprit que changer le noyau d'un atome peut complètement changer sa nature.
+
+Protons are the key to an atom's identity
+Les protons sont la clé de l'identité d'un atome,
+
+so any change that affects the number of protons will turn one element into a completely different one.
+donc tout changement affectant le nombre de protons transformera un élément en un élément complètement différent.
+
+An alchemist's dream, right? Lead to gold.
+Le rêve d'un alchimiste, n'est-ce pas ?  Du plomb à l'or.
+
+So as you might expect, that's not something that usually happens in a typical chemical reaction.
+Donc, comme vous vous en doutez, ce n'est pas quelque chose qui se produit habituellement dans une réaction chimique typique.
+
+The same can be said of that other component
+of the nucleus, neutrons.
+On peut dire la même chose de cet autre composant
+du noyau, les neutrons.
+
+Atoms of the same element that have the same number of protons, but different numbers of neutrons are isotopes.
+Les atomes d'un même élément qui ont le même nombre de protons, mais des nombres différents de neutrons sont des isotopes.
+
+So changes in the number of neutrons in an atom create different isotopes of the same element.
+Ainsi, les changements dans le nombre de neutrons dans un atome créent différents isotopes du même élément.
+
+Both of these kinds of changes, changing one
+element to another,
+Ces deux types de changements, le changement d'un
+élément en un autre
+
+or changing one isotope to another are known
+as transmutation.
+ou le changement d'un isotope en un autre sont connus
+sous le nom de transmutation.
+
+And it is, indeed, possible to transmute lead
+to gold.
+Et il est, en effet, possible de transmuter le plomb
+en or.
+
+Its just so ridiculously expensive that the tiny amounts of gold produced could never pay for the process.
+C'est tellement ridiculement cher que les petites quantités d'or produites ne pourraient jamais payer le processus.
+
+But the very fact that it is possible, should clue you in that nuclear chemistry is an entirely different flavor of chemistry sauce.
+Mais le fait même que cela soit possible devrait vous indiquer que la chimie nucléaire est une saveur totalement différente de la sauce chimique.
+
+Though, as with non nuclear chemistry, the
+changes that take place in a nuclear reaction
+Bien que, comme avec la chimie non nucléaire, les
+changements qui se produisent dans une réaction nucléaire se résument
+
+all come down to the atom's desire to have
+what we all want in life, stability.
+tous au désir de l'atome d'avoir
+ce que nous voulons tous dans la vie, la stabilité.
+
+Just as atoms are most stable when their outermost
+electron orbitals are full of electrons,
+Tout comme les atomes sont plus stables lorsque leurs
+orbitales électroniques les plus externes sont pleines d'électrons,
+
+certain combinations of protons and neutrons
+make the nucleus more stable.
+certaines combinaisons de protons et de neutrons
+rendent le noyau plus stable.
+
+And just like when an atom gains or loses or shares electrons to stabilize it's outer shell,
+Et tout comme lorsqu'un atome gagne ou perd ou partage des électrons pour stabiliser sa coque externe,
+
+when the numbers of protons or neutrons aren't
+ideal,
+lorsque le nombre de protons ou de neutrons n'est pas
+idéal,
+
+the nucleus releases some of them to try to
+reach a stable configuration.
+le noyau en libère certains pour essayer d'
+atteindre une configuration stable.
+
+When a nucleus decomposes in this way to form
+a different nucleus that's radioactive decay.
+Lorsqu'un noyau se décompose de cette façon pour former
+un noyau différent, c'est la désintégration radioactive.
+
+And just like with other chemical reactions
+we've talked about,
+Et tout comme pour les autres réactions chimiques dont
+nous avons parlé,
+
+we need to know more about a nuclear reaction than just what's reacting and what's being produced.
+nous devons en savoir plus sur une réaction nucléaire que ce qui réagit et ce qui est produit.
+
+Probably the most important thing to learn is how much of the product is being made and how fast.
+La chose la plus importante à apprendre est probablement la quantité de produit fabriquée et à quelle vitesse.
+
+Now you've heard of half life, it's the measurement
+that tells us just that.
+Maintenant que vous avez entendu parler de la demi-vie, c'est la mesure
+qui nous le dit.
+
+The time it takes for exactly one half of
+the sample to decay.
+Le temps qu'il faut pour qu'exactement la moitié de
+l'échantillon se désintègre.
+
+Different nuclei have different half lives.
+Différents noyaux ont des demi-vies différentes.
+
+By knowing the half life, we can calculate how much of a sample will be gone in a given amount of time.
+En connaissant la demi-vie, nous pouvons calculer la quantité d'un échantillon qui disparaîtra dans un laps de temps donné.
+
+For example, the half life of phosphorus-32
+is 14.3 days.
+Par exemple, la demi-vie du phosphore-32
+est de 14,3 jours.
+
+So if you start with a 100 gram sample, after
+about 2 weeks you'll have 50 grams left.
+Donc, si vous commencez avec un échantillon de 100 grammes, après
+environ 2 semaines, il vous restera 50 grammes.
+
+After another 2 weeks, half of the remainder would decay leaving only 25 grams of undecayed phosphorus, and so on.
+Après encore 2 semaines, la moitié du reste se décomposerait en ne laissant que 25 grammes de phosphore non décomposé, et ainsi de suite.
+
+Now you might be asking, if radioactive elements are always decaying in to more and more stable isotopes
+Maintenant, vous vous demandez peut-être si les éléments radioactifs se désintègrent toujours en isotopes de plus en plus stables
+
+that are eventually no longer radioactive,
+why are they still around at all?
+qui ne sont finalement plus radioactifs,
+pourquoi sont-ils toujours là ?
+
+Fascinating question, you seem to have brought
+your clever pants today.
+Question fascinante, vous semblez avoir apporté
+votre pantalon intelligent aujourd'hui.
+
+Well it's fairly simple, given enough time all radioactive elements would decay in to non radioactive forms.
+Eh bien, c'est assez simple, avec suffisamment de temps, tous les éléments radioactifs se désintégreraient en des formes non radioactives.
+
+Even ultra stable bismuth, with it's half
+life longer than the age of the universe.
+Même le bismuth ultra stable, avec sa demi-
+vie plus longue que l'âge de l'univers.
+
+But elements with short half lives are around because they were decayed in to by elements that recently decayed in to them.
+Mais les éléments avec de courtes demi-vies sont là parce qu'ils ont été décomposés par des éléments qui se sont récemment décomposés en eux.
+
+The chain of decay from the element originally
+produced in whatever supernova created them,
+La chaîne de désintégration de l'élément
+produit à l'origine dans la supernova qui les a créés,
+
+to the elements that exist on Earth now last
+billions and billions of years.
+aux éléments qui existent sur Terre dure maintenant des
+milliards et des milliards d'années.
+
+Also, I should note that some radioactive
+isotopes like carbon-14 in the atmosphere
+Aussi, je dois noter que certains
+isotopes radioactifs comme le carbone 14 dans l'atmosphère
+
+are constantly being renewed by cosmic rays.
+sont constamment renouvelés par les rayons cosmiques.
+
+Now radioactive decay occurs when a nucleus has a higher energy level than a potentially more stable version.
+Désormais, la désintégration radioactive se produit lorsqu'un noyau a un niveau d'énergie plus élevé qu'une version potentiellement plus stable.
+
+Typically this difference in energy is released
+as what's called ionizing radiation.
+Généralement, cette différence d'énergie est libérée
+sous la forme de ce qu'on appelle un rayonnement ionisant.
+
+Which you know as radioactivity.
+Ce que vous appelez la radioactivité.
+
+It's ionizing because it has enough energy to knock electrons out or add electrons to other atoms.
+Il est ionisant car il a suffisamment d'énergie pour éliminer des électrons ou ajouter des électrons à d'autres atomes.
+
+Essentially creating ions.
+Créer essentiellement des ions.
+
+There are three general types of radioactive
+decay,
+Il existe trois types généraux de
+désintégration radioactive,
+
+each named for exactly what is released from
+the nucleus as it decays.
+chacun portant le nom exact de ce qui est libéré
+du noyau lors de sa désintégration.
+
+Let's take a look at what may be the most
+famous radioactive element, uranium.
+Jetons un coup d'œil à ce qui pourrait être l'
+élément radioactif le plus célèbre, l'uranium.
+
+By far the most common naturally occurring
+form of uranium is the isotope uranium-238.
+La forme naturelle d'uranium de loin la plus courante
+est l'isotope uranium-238.
+
+More than 99% of the natural uranium in the
+world is in this form.
+Plus de 99% de l'uranium naturel dans le
+monde est sous cette forme.
+
+U-238 spontaneously decays in to thorium-234, in a process that releases something called an alpha particle.
+U-238 se désintègre spontanément en thorium-234, dans un processus qui libère quelque chose appelé une particule alpha.
+
+This is called alpha decay and the particle that it emits is basically the same as a helium nucleus:
+C'est ce qu'on appelle la désintégration alpha et la particule qu'elle émet est fondamentalement la même qu'un noyau d'hélium :
+
+two protons and two neutrons.
+deux protons et deux neutrons.
+
+We even describe it that way when writing
+it.
+Nous le décrivons même ainsi au moment de l'
+écrire.
+
+So right away you can see that the math checks
+out when it comes to the protons and neutrons.
+Donc, tout de suite, vous pouvez voir que les calculs sont
+vérifiés en ce qui concerne les protons et les neutrons.
+
+92 minus 2, is 90.
+And 238 minus 4, leaves you with 234.
+92 moins 2, c'est 90.
+Et 238 moins 4, il vous reste 234.
+
+But you'll note, that we don't write the charges.
+Mais vous remarquerez que nous n'écrivons pas les charges.
+
+The helium nucleus obviously has a plus 2 charge, and the thorium atom would have a negative charge as well.
+Le noyau d'hélium a évidemment une charge plus 2, et l'atome de thorium aurait également une charge négative.
+
+While its not incorrect to write them,
+Bien qu'il ne soit pas incorrect de les écrire,
+
+these charges are often omitted to emphasize
+what's going on in the nucleus.
+ces charges sont souvent omises pour souligner
+ce qui se passe dans le noyau.
+
+Now alpha particles have relatively low energy,
+they're pretty heavy as particles go.
+Maintenant, les particules alpha ont une énergie relativement faible,
+elles sont assez lourdes au fur et à mesure que les particules disparaissent.
+
+So while I try not to make a habit of walking
+around with a hunk of uranium in my pocket,
+Ainsi, alors que j'essaie de ne pas prendre l'habitude de me
+promener avec un morceau d'uranium dans ma poche,
+
+alpha particles can be stopped by nothing
+more than a sheet of paper or cloth.
+les particules alpha peuvent être arrêtées par rien de
+plus qu'une feuille de papier ou de tissu.
+
+The second type of radioactive decay is beta
+decay, which simply emits electrons.
+Le deuxième type de désintégration radioactive est la
+désintégration bêta, qui émet simplement des électrons.
+
+It has somewhat higher energy than alpha radiation,
+Il a une énergie un peu plus élevée que le rayonnement alpha,
+
+but it can still be stopped by a sheet of
+aluminum foil or the top layers of your skin.
+mais il peut toujours être arrêté par une feuille de
+papier d'aluminium ou les couches supérieures de votre peau.
+
+So that thorium-234 that formed when uranium
+underwent alpha decay?
+Alors ce thorium-234 qui s'est formé lorsque l'uranium a
+subi une désintégration alpha ?
+
+It can continue to decay on its own, and when
+it does it undergoes beta decay.
+Il peut continuer à se désintégrer tout seul et,
+lorsqu'il le fait, il subit une désintégration bêta.
+
+Releasing an electron and an atom of xenon.
+Libération d'un électron et d'un atome de xénon.
+
+Notice that again, the way we write this is
+a little different.
+Notez qu'encore une fois, la façon dont nous écrivons ceci est
+un peu différente.
+
+Even though the thorium emits an electron
+we don't use the usual symbol for electrons.
+Même si le thorium émet un électron,
+nous n'utilisons pas le symbole habituel des électrons.
+
+Instead we write it in nuclear notation form, with the mass number at top and the atomic number at the bottom.
+Au lieu de cela, nous l'écrivons sous forme de notation nucléaire, avec le nombre de masse en haut et le numéro atomique en bas.
+
+Since its an electron, and not a proton, we
+put a negative 1 for the atomic number.
+Comme il s'agit d'un électron et non d'un proton, nous
+mettons un 1 négatif pour le numéro atomique.
+
+That probably seems a little weird right now,
+Cela semble probablement un peu bizarre en ce moment,
+
+but next week when we talk about nuclear equations,
+you will see why it's useful.
+mais la semaine prochaine, lorsque nous parlerons des équations nucléaires,
+vous comprendrez pourquoi c'est utile.
+
+The third type of decay, is a little different,
+because it only emits energy, not a particle.
+Le troisième type de désintégration est un peu différent,
+car il n'émet que de l'énergie, pas une particule.
+
+Its called gamma decay, and it releases electromagnetic
+radiation similar to visible light,
+C'est ce qu'on appelle la désintégration gamma et elle libère un
+rayonnement électromagnétique similaire à la lumière visible
+
+or UV radiation,
+but higher on the energy scale.
+ou au rayonnement UV,
+mais plus élevé sur l'échelle de l'énergie.
+
+Because it's just energy, gamma radiation has no mass and contains no protons, neutrons, or electrons.
+Parce qu'il ne s'agit que d'énergie, le rayonnement gamma n'a pas de masse et ne contient pas de protons, de neutrons ou d'électrons.
+
+So it's written with two zeros.
+C'est donc écrit avec deux zéros.
+
+This form of radiation is often released when electrons transition from an unstable excited state,
+Cette forme de rayonnement est souvent libérée lorsque les électrons passent d'un état excité instable
+
+to a more stable state that has a lower energy.
+That's called the ground state.
+à un état plus stable qui a une énergie plus faible.
+C'est ce qu'on appelle l'état fondamental.
+
+Depending on how much energy the electron loses, the extra energy can be released in the form of visible,
+Selon la quantité d'énergie que l'électron perd, l'énergie supplémentaire peut être libérée sous forme de lumière visible
+
+or ultraviolet light, x-rays,
+or gamma waves.
+ou ultraviolette, de rayons X
+ou d'ondes gamma.
+
+Let's take the example of nickle-60.
+Prenons l'exemple du nickel-60.
+
+Imagine there's an atom of nickle-60 with one or more of its electrons in an excited state.
+Imaginez qu'il y ait un atome de nickel-60 avec un ou plusieurs de ses électrons dans un état excité.
+
+That's what the little asterisks designates.
+C'est ce que désignent les petits astérisques.
+
+Atoms can get to this state when they are
+themselves the products of radioactive decay,
+Les atomes peuvent atteindre cet état lorsqu'ils sont
+eux-mêmes les produits de la désintégration radioactive,
+
+or if they get bombarded with radiation from other reactions pushing their electrons in to a higher energy level.
+ou s'ils sont bombardés de radiations provenant d'autres réactions poussant leurs électrons à un niveau d'énergie plus élevé.
+
+Now when all those electrons drop down to
+the ground state,
+Maintenant, lorsque tous ces électrons tombent dans
+l'état fondamental,
+
+that atom is going to release some gamma radiation.
+cet atome va libérer un rayonnement gamma.
+
+This kind of transition can also take place where other kinds of nuclear reactions are going on.
+Ce type de transition peut également avoir lieu là où d'autres types de réactions nucléaires se produisent.
+
+So gamma decay often occurs along with some
+other form of decay too.
+Ainsi, la désintégration gamma se produit souvent avec une
+autre forme de désintégration.
+
+So for example, if that uranium atom is at
+an excited state when it decays in to thorium,
+Ainsi, par exemple, si cet atome d'uranium est dans
+un état excité lorsqu'il se désintègre en thorium,
+
+it can simultaneous release gamma waves as
+well as the alpha particle I already mentioned.
+il peut simultanément libérer des ondes gamma
+ainsi que la particule alpha que j'ai déjà mentionnée.
+
+Now you might have heard of gamma radiation
+more than the other kinds I've mentioned
+Maintenant, vous avez peut-être entendu parler du rayonnement gamma
+plus que des autres types que j'ai mentionnés,
+
+because it can actually do some serious harm.
+car il peut en fait causer de graves dommages.
+
+Like potentially turning you in to a giant
+green rage monster
+Comme potentiellement vous transformer en un
+monstre de rage vert géant
+
+that doesn't obey the laws of conservation
+of matter.
+qui n'obéit pas aux lois de la conservation
+de la matière.
+
+Unlike the particles emitted by other kinds of radiation, gamma rays can penetrate your skin,
+Contrairement aux particules émises par d'autres types de rayonnement, les rayons gamma peuvent pénétrer votre peau,
+
+your cell membranes, and ultimately the organelles
+within your cells.
+vos membranes cellulaires et, finalement, les organites
+de vos cellules.
+
+So gamma radiation can not only cause skin
+burns, nausea,
+Ainsi, le rayonnement gamma peut non seulement provoquer des
+brûlures cutanées, des nausées et d'
+
+other symptoms we associate with radiation
+poisoning,
+autres symptômes que nous associons à l'empoisonnement par rayonnement
+, mais
+
+it can also alter your DNA causing mutations
+and cancer.
+il peut également altérer votre ADN, provoquant des mutations
+et le cancer.
+
+OK, but to turn the frown upside down.
+OK, mais pour renverser le froncement de sourcils.
+
+There's one more type of radioactivity that
+I'm happy to say is really simple.
+Il y a un autre type de radioactivité dont
+je suis heureux de dire qu'il est très simple.
+
+It's called spontaneous fission and it occurs when an atom simply breaks in to 2 smaller atoms without any outside help.
+C'est ce qu'on appelle la fission spontanée et cela se produit lorsqu'un atome se brise simplement en 2 atomes plus petits sans aucune aide extérieure.
+
+This occurs at a ridiculously slow rate in
+most cases.
+Cela se produit à un rythme ridiculement lent dans la
+plupart des cas.
+
+In fact, the only substances that does it at a rate that sufficient to serve any purposes is Californium-254.
+En fait, la seule substance qui le fait à un taux suffisant pour servir à quelque fin que ce soit est le Californium-254.
+
+And that purpose is to produce neutrons for
+use in other nuclear reactions.
+Et ce but est de produire des neutrons à
+utiliser dans d'autres réactions nucléaires.
+
+But we'll talk more about that when we go
+in to fission, fusion,
+Mais nous en reparlerons davantage lorsque nous aborderons la
+fission, la fusion
+
+and how scientists use and control nuclear
+reactions.
+et la manière dont les scientifiques utilisent et contrôlent les
+réactions nucléaires.
+
+In the meantime, thank you for watching this
+episode of Crash Course Chemistry.
+En attendant, merci d'avoir regardé cet
+épisode de Crash Course Chemistry.
+
+If you listened carefully, you learned what
+radioactivity really is.
+Si vous avez écouté attentivement, vous avez appris ce
+qu'est vraiment la radioactivité.
+
+And about transmutation among elements and
+among isotopes.
+Et sur la transmutation entre éléments et
+entre isotopes.
+
+And how to make calculations based on an elements
+half life.
+Et comment faire des calculs basés sur la
+demi-vie d'un élément.
+
+You also learned about different types of
+radioactive decay: alpha, beta, and gamma.
+Vous avez également découvert différents types de
+désintégration radioactive : alpha, bêta et gamma.
+
+And about spontaneous fission.
+Et à propos de la fission spontanée.
+
+This episode was written by Edi González
+and Blake de Pastino.
+Cet épisode a été écrit par Edi González
+et Blake de Pastino.
+
+It was edited by Blake de Pastino. And our
+chemistry consultant is Dr. Heiko Langner.
+Il a été édité par Blake de Pastino.  Et notre
+consultant en chimie est le Dr Heiko Langner.
+
+It was filmed, edited, and directed by Nicholas
+Jenkins.
+Il a été filmé, monté et réalisé par Nicholas
+Jenkins.
+
+The script supervisor was Michael Aranda,
+who is also our sound designer.
+Le superviseur du scénario était Michael Aranda,
+qui est également notre concepteur sonore.
+
+And our graphics team is Thought Café.
+Et notre équipe graphique est Thought Café.
+

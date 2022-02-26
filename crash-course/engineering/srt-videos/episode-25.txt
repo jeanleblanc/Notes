@@ -1,0 +1,693 @@
+Engineers often worry about laws.
+Les ingénieurs s'inquiètent souvent des lois.
+
+Not necessarily the legal system kind, although
+most engineers have to consider those as well!
+Pas nécessairement le genre de système juridique, bien que la
+plupart des ingénieurs doivent également en tenir compte !
+
+What I mean is laws, like the laws of physics.
+Ce que je veux dire, ce sont des lois, comme les lois de la physique.
+
+Those laws describe limits on the sorts of
+things that are possible;
+Ces lois décrivent des limites sur les sortes de
+choses qui sont possibles ;
+
+for example, there’s no way of getting around the
+conservation of momentum that we know of!
+par exemple, il n'y a aucun moyen de contourner la
+conservation de la quantité de mouvement que nous connaissons !
+
+But outside of physics, there’s one law
+that keeps many an engineer up at night:
+Murphy’s Law.
+Mais en dehors de la physique, il existe une loi
+qui empêche de nombreux ingénieurs de dormir la nuit :
+la loi de Murphy.
+
+Murphy’s so-called ‘law’ is more of a
+tongue-in-cheek proverb, named after
+aerospace engineer Edward A. Murphy.
+La soi-disant «loi» de Murphy est plutôt un
+proverbe ironique, du nom de
+l'ingénieur aérospatial Edward A. Murphy.
+
+Simply put, it says:
+“Anything that can go wrong will go wrong.”
+En termes simples, il dit:
+"Tout ce qui peut mal tourner ira mal."
+
+That makes it sound like all attempts at engineering
+are doomed.
+Cela donne l'impression que toutes les tentatives d'ingénierie
+sont vouées à l'échec.
+
+But we’re going to find a way to use Murphy’s
+law to make us better engineers.
+Mais nous allons trouver un moyen d'utiliser la loi de Murphy
+pour faire de nous de meilleurs ingénieurs.
+
+[Theme Music]
+[Theme Music]
+
+Murphy’s “law” isn’t a literal statement.
+La "loi" de Murphy n'est pas une déclaration littérale.
+
+Your calculator isn’t going to spontaneously
+combust every time you use it.
+Votre calculatrice ne va pas s'enflammer spontanément à
+chaque fois que vous l'utiliserez.
+
+But, keeping in mind all the different ways
+mishaps can jeopardize an engineering process,
+Mais garder à l'esprit toutes les différentes façons dont les
+accidents peuvent compromettre un processus d'ingénierie,
+
+as Murphy’s Law tells us they can, is a
+good reminder to stay vigilant.
+comme nous le dit la loi de Murphy, est un
+bon rappel de rester vigilant.
+
+Even if many parts of a process are in flux
+or changing, you need a system to keep things
+stable and reliable.
+Même si de nombreuses parties d'un processus évoluent
+ou changent, vous avez besoin d'un système pour que les choses restent
+stables et fiables.
+
+That same system should also prevent mistakes
+from spiraling into a major disaster!
+Ce même système devrait également empêcher les erreurs
+de dégénérer en catastrophe majeure !
+
+To do this, engineers use what’s called process
+control: an automated system that takes a look
+at what’s going on in your process,
+Pour ce faire, les ingénieurs utilisent ce qu'on appelle le
+contrôle de processus : un système automatisé qui
+examine ce qui se passe dans votre processus
+
+and makes adjustments based on those
+observations to keep everything on track.
+et effectue des ajustements en fonction de ces
+observations pour que tout reste sur la bonne voie.
+
+The aspects of the system your process control
+looks at are called parameters,
+Les aspects du système que votre contrôle de processus
+examine sont appelés paramètres,
+
+while the outputs that get changed as a result of
+those observations are called controlled variables.
+tandis que les sorties qui sont modifiées à la suite de
+ces observations sont appelées variables contrôlées.
+
+To see all this in action and understand why
+process control matters, consider cheese.
+Pour voir tout cela en action et comprendre pourquoi le
+contrôle des processus est important, pensez au fromage.
+
+A few years ago, a cheese company based in
+Toronto ran into trouble when some of the vats they
+used for storing milk started having problems.
+Il y a quelques années, une entreprise fromagère basée à
+Toronto a eu des problèmes lorsque certaines des cuves qu'elle
+utilisait pour stocker le lait ont commencé à avoir des problèmes.
+
+The vats needed a certain amount of milk in
+them for the cheese making process.
+Les cuves avaient besoin d'une certaine quantité de
+lait pour la fabrication du fromage.
+
+Like many industrial processes, precision
+is what allows high quality products to be
+manufactured with consistency.
+Comme de nombreux processus industriels, la précision
+est ce qui permet de fabriquer avec constance des produits de haute qualité
+.
+
+And no one wants bad cheese!
+Et personne ne veut de mauvais fromage !
+
+Too little milk in the tank, and it would affect
+production further down the line, perhaps leading
+to a loss of the entire production run.
+Trop peu de lait dans le réservoir, et cela affecterait la
+production plus loin dans la chaîne, entraînant peut-être
+une perte de l'ensemble du cycle de production.
+
+Too much milk in the vat, and some of it would
+start to spill over.
+Trop de lait dans la cuve, et une partie
+commencerait à déborder.
+
+At first, that might not seem like a big deal.
+Au début, cela pourrait ne pas sembler être un gros problème.
+
+Even if it did spill over, some of it would be
+directed into the drains leading to the sewer,
+removing it from the factory floor.
+Même s'il se renversait, une partie serait
+dirigée dans les égouts menant à l'égout, l'
+enlevant du sol de l'usine.
+
+The rest could be cleaned up and, as in
+the case of too little milk, you might need
+to write off this production run.
+Le reste pourrait être nettoyé et, comme dans
+le cas d'une trop faible quantité de lait, vous devrez peut-être
+annuler ce cycle de production.
+
+But that’s not the worst of it!
+Mais ce n'est pas le pire !
+
+Cheese is made using bacteria.
+Le fromage est fabriqué à l'aide de bactéries.
+
+If the milk containing that bacteria
+overflows from the vat and into the drains,
+it could end up in the sewer systems.
+Si le lait contenant cette bactérie
+déborde de la cuve et dans les égouts,
+il pourrait se retrouver dans les égouts.
+
+And at the end of the sewer line would be
+a waste treatment plant that uses its own 
+bacteria to treat wastewater!
+Et au bout de la ligne d'égout se trouverait
+une station d'épuration qui utilise ses propres
+bactéries pour traiter les eaux usées !
+
+If the bacteria in the cheese began to kill
+off the plant’s bacteria, it would jeopardize
+the whole system,
+Si les bactéries présentes dans le fromage commençaient à
+tuer les bactéries de la plante, cela mettrait en
+péril tout le système,
+
+perhaps even threatening the water supply
+of an entire urban area, like the city of Toronto.
+menaçant peut-être même l'approvisionnement en eau
+de toute une zone urbaine, comme la ville de Toronto.
+
+This sounds like exactly the sort of catastrophe
+Murphy’s Law tries to warn us about!
+Cela ressemble exactement au genre de catastrophe contre laquelle
+la loi de Murphy essaie de nous mettre en garde !
+
+Thankfully, process control is exactly the
+sort of thing that prevents both major and
+minor problems like these.
+Heureusement, le contrôle des processus est exactement le
+genre de chose qui empêche les problèmes majeurs et
+mineurs comme ceux-ci.
+
+What was happening with the cheese factory was
+that the inputs to the system of milk vats needed to be
+controlled to maintain the level of the contents inside.
+Ce qui se passait avec la fromagerie, c'est
+que les entrées du système de cuves à lait devaient être
+contrôlées pour maintenir le niveau du contenu à l'intérieur.
+
+In the language of process control, one of
+the parameters involved in making the product,
+in this case, the level of milk in the tank,
+Dans le langage du contrôle de processus, l'un
+des paramètres impliqués dans la fabrication du produit,
+dans ce cas, le niveau de lait dans le réservoir,
+
+is sensitive to the controlled variables of
+the process, which are the amounts of all
+the ingredients pumped into the tank.
+est sensible aux variables contrôlées
+du processus, qui sont les quantités de tous
+les ingrédients pompés dans le  Char. 
+
+The failure was that the system that automatically adjusted the flow rate of the ingredients in response to the measurements made in the tank wasn’t working as intended.
+L'échec était que le système qui ajustait automatiquement le débit des ingrédients en réponse aux mesures effectuées dans le réservoir ne fonctionnait pas comme prévu.
+
+As we’ve mentioned, process control uses
+measurements of a process’s parameters to
+make changes to its controlled variables.
+Comme nous l'avons mentionné, le contrôle de processus utilise des
+mesures des paramètres d'un processus pour
+apporter des modifications à ses variables contrôlées.
+
+That might sound a little abstract, but various
+types of process control are currently in use around
+us, making the world run smoothly.
+Cela peut sembler un peu abstrait, mais divers
+types de contrôle de processus sont actuellement utilisés autour de
+nous, assurant le bon fonctionnement du monde.
+
+When you set the thermostat in a building, you’re
+essentially programming a process control system
+to keep it at a particular temperature – say, 25°C.
+Lorsque vous réglez le thermostat dans un bâtiment, vous
+programmez essentiellement un système de contrôle de processus
+pour le maintenir à une température particulière, par exemple 25 °C.
+
+That’s the setpoint – the number that
+represents the target output or operating
+state you want a process to achieve.
+C'est le point de consigne - le nombre qui
+représente la sortie cible ou l'
+état de fonctionnement que vous voulez qu'un processus atteigne.
+
+For example, after you set it, the thermostat
+then turns the furnace or the air conditioner
+on or off,
+Par exemple, après l'avoir réglé, le
+thermostat allume ou éteint la fournaise ou le climatiseur
+
+to heat up or cool down the environment
+and maintain it at 25 degrees.
+pour chauffer ou refroidir l'environnement
+et le maintenir à 25 degrés.
+
+The controlled variable here would be whether the
+furnace was on or off, which has a direct effect on the
+parameter you’re interested in, the temperature.
+La variable contrôlée ici serait de savoir si le
+four était allumé ou éteint, ce qui a un effet direct sur le
+paramètre qui vous intéresse, la température.
+
+Other parameters you might want process control to
+be sensitive to are things like the pressure in an
+oxygen tank, or the force being applied to something.
+D'autres paramètres auxquels vous souhaiterez peut-être que le contrôle de processus
+soit sensible sont des éléments tels que la pression dans un
+réservoir d'oxygène ou la force appliquée à quelque chose.
+
+You can even use it to control a mixture’s
+chemical properties, like acidity.
+Vous pouvez même l'utiliser pour contrôler
+les propriétés chimiques d'un mélange, comme l'acidité.
+
+Because of its broad uses, process control
+is everywhere.
+En raison de ses larges utilisations, le contrôle de processus
+est partout.
+
+It’s a major consideration in chemical,
+electrical, industrial, and mechanical engineering,
+just to name a few.
+C'est une considération majeure dans le génie chimique,
+électrique, industriel et mécanique,
+pour n'en nommer que quelques-uns.
+
+The beauty of it is that along with avoiding big mistakes,
+process control lets you create products to particular
+standards with consistently high quality and precision.
+La beauté est qu'en plus d'éviter les grosses erreurs, le
+contrôle des processus vous permet de créer des produits selon des
+normes particulières avec une qualité et une précision constantes.
+
+Plus, monitoring and controlling things so
+carefully can help you find new ways to use
+materials and energy more efficiently.
+De plus, surveiller et contrôler les choses avec autant de
+soin peut vous aider à trouver de nouvelles façons d'utiliser les
+matériaux et l'énergie plus efficacement.
+
+In modern control systems, measurements are
+taken as electronic readings from sensors,
+Dans les systèmes de contrôle modernes, les mesures sont
+prises sous forme de lectures électroniques à partir de capteurs,
+
+which are delivered to a computerized
+control system, called well, the controller.
+qui sont transmises à un système de
+contrôle informatisé, appelé bien, le contrôleur.
+
+The controller also sends signals to the machinery
+responsible for changing the controlled variables.
+Le contrôleur envoie également des signaux aux machines
+chargées de modifier les variables contrôlées.
+
+This normally means the operation of things
+like valves or switches.
+Cela signifie normalement le fonctionnement de choses
+comme des vannes ou des interrupteurs.
+
+There are two main kinds of process control
+to consider: feedback, and feedforward – which,
+yes, is a real word.
+Il existe deux principaux types de contrôle de processus
+à prendre en compte : la rétroaction et l'anticipation - qui,
+oui, est un vrai mot.
+
+To see this in action, let’s revisit our
+old friend the heat exchanger!
+Pour voir cela en action, revisitons notre
+vieil ami l'échangeur de chaleur !
+
+Heat exchangers transfer thermal energy
+from one fluid to another to raise or cool
+the temperature of one of the fluids.
+Les échangeurs de chaleur transfèrent l'énergie thermique
+d'un fluide à un autre pour élever ou refroidir
+la température de l'un des fluides.
+
+In a shell-and-tube exchanger, you run one
+fluid through a series of pipes to exchange heat
+through the pipes, with the surrounding fluid.
+Dans un échangeur multitubulaire, vous faites passer un
+fluide à travers une série de tuyaux pour échanger de la chaleur à
+travers les tuyaux, avec le fluide environnant.
+
+Let’s say you’re using steam in the pipes to
+raise the temperature of oil to 200°C before
+it flows into an engine.
+Supposons que vous utilisez de la vapeur dans les tuyaux pour
+élever la température de l'huile à 200 °C avant
+qu'elle ne s'écoule dans un moteur.
+
+At the input end for the steam, there’s
+an inlet valve that controls how much steam
+is entering the exchanger.
+À l'extrémité d'entrée de la vapeur, il y a
+une soupape d'admission qui contrôle la quantité de
+vapeur entrant dans l'échangeur.
+
+The goal is to make sure the oil leaves the
+heat exchanger at a given temperature – 200 °C
+– that’s the setpoint.
+Le but est de s'assurer que l'huile quitte l'
+échangeur de chaleur à une température donnée - 200 °C
+- qui est la consigne.
+
+The controller then adjusts the machinery to
+maintain the setpoint condition for the process –
+Le contrôleur ajuste ensuite la machinerie pour
+maintenir la condition de point de consigne du processus -
+
+in this case, by controlling the steam inlet valve
+to maintain the oil’s temperature at 200 degrees.
+dans ce cas, en contrôlant la vanne d'entrée de vapeur
+pour maintenir la température de l'huile à 200 degrés.
+
+One of the ways you can do this is with feedback
+control.
+L'une des façons d'y parvenir est le contrôle par rétroaction
+.
+
+First, you put a sensor to measure temperature
+at the output end of the exchanger for the fluid.
+Tout d'abord, vous placez un capteur pour mesurer la température
+à la sortie de l'échangeur pour le fluide.
+
+In feedback control, the sensor will continuously
+feed temperature data back to the controller.
+Dans le contrôle de rétroaction, le capteur transmet en continu
+les données de température au contrôleur.
+
+The difference between the observed temperature
+of the output and the setpoint is called the error.
+La différence entre la température observée
+de la sortie et le point de consigne est appelée l'erreur.
+
+The controller tries to minimize the error by controlling
+the inlet valve at the start of the process to increase or
+decrease the amount of steam entering the exchanger,
+Le contrôleur essaie de minimiser l'erreur en commandant
+la vanne d'entrée au début du processus pour augmenter ou
+diminuer la quantité de vapeur entrant dans l'échangeur,
+
+depending on whether the error is negative or positive.
+selon que l'erreur est négative ou positive.
+
+If the error is negative, that means the temperature
+is too low, so the controller will open the valve a
+little to let more steam through.
+Si l'erreur est négative, cela signifie que la température
+est trop basse, donc le contrôleur ouvrira un peu la vanne
+pour laisser passer plus de vapeur.
+
+If the error is positive, it will do the opposite.
+Si l'erreur est positive, il fera l'inverse.
+
+On the other hand, you could also use a feedforward
+system.
+D'autre part, vous pouvez également utiliser un
+système d'anticipation.
+
+In that case, you’d be measuring the input
+variables of the process.
+Dans ce cas, vous mesureriez les
+variables d'entrée du processus.
+
+In the heat exchanger, the sensors would
+measure the amount of steam and fluid flowing
+in, and the fluid’s starting temperature.
+Dans l'échangeur de chaleur, les capteurs
+mesureraient la quantité de vapeur et de fluide
+entrant, ainsi que la température de départ du fluide.
+
+Then you’d model what you think the output
+temperature will be, based on those inputs.
+Ensuite, vous modélisez ce que vous pensez que la
+température de sortie sera, en fonction de ces entrées.
+
+In this case, you’d need to know things like the
+specific heat of the fluids and the heat conductance
+between the steam, the pipes, and the oil.
+Dans ce cas, vous devez connaître des éléments tels que la
+chaleur spécifique des fluides et la conductance thermique
+entre la vapeur, les tuyaux et l'huile.
+
+The modeling is often the hardest part, but once it’s
+done, all the input parameters provide a decent estimate
+of what the output temperature of the fluid will be.
+La modélisation est souvent la partie la plus difficile, mais une fois que c'est
+fait, tous les paramètres d'entrée fournissent une estimation décente
+de ce que sera la température de sortie du fluide.
+
+What’s more, from the model, you can then
+work out the best flow rate for the steam,
+given all the other inputs.
+De plus, à partir du modèle, vous pouvez alors
+déterminer le meilleur débit pour la vapeur,
+compte tenu de toutes les autres entrées.
+
+In this case, the difference between the measured flow rate and the flow rate needed to obtain the setpoint temperature would be an example of what’s called the disturbance.
+Dans ce cas, la différence entre le débit mesuré et le débit nécessaire pour obtenir la température de consigne serait un exemple de ce qu'on appelle la perturbation.
+
+The disturbance is the difference between what
+the input parameters should be and what they really
+are – like the output error in a feedback system.
+La perturbation est la différence entre ce que
+devraient être les paramètres d'entrée et ce qu'ils
+sont réellement - comme l'erreur de sortie dans un système de rétroaction.
+
+All the sensor data is fed forward to the
+controller to compare the modeled output
+temperature to the setpoint.
+Toutes les données du capteur sont transmises au
+contrôleur pour comparer la
+température de sortie modélisée au point de consigne.
+
+Depending on the disturbance, it operates the valve
+similarly as before, until the inputs are set according to
+the model to make the oil’s temperature hit the setpoint.
+En fonction de la perturbation, il actionne la vanne de la
+même manière qu'auparavant, jusqu'à ce que les entrées soient réglées en fonction
+du modèle pour que la température de l'huile atteigne le point de consigne.
+
+On their own, both of these approaches have
+some flaws.
+À elles seules, ces deux approches ont
+quelques défauts.
+
+In a feedback control system, you have to
+wait until something has already gone wrong
+in order to fix it!
+Dans un système de contrôle par rétroaction, vous devez
+attendre que quelque chose se soit déjà mal passé
+pour le réparer !
+
+If a lot of errors are creeping into the process
+very quickly, a feedback system might not respond
+fast enough to change the inputs.
+Si de nombreuses erreurs se glissent très rapidement dans le processus
+, un système de rétroaction peut ne pas réagir
+assez rapidement pour modifier les entrées.
+
+On the other hand, a feedforward system relies
+on having to model everything going on inside
+the heat exchanger.
+D'un autre côté, un système à anticipation repose
+sur la nécessité de modéliser tout ce qui se passe à l'intérieur de
+l'échangeur de chaleur.
+
+You can’t be sure that your model is perfectly
+predicting the output temperature,
+Vous ne pouvez pas être sûr que votre modèle
+prédit parfaitement la température de sortie,
+
+and even if it’s pretty close, it usually takes a lot
+of work to get the model right in the first place.
+et même si elle est assez proche, il faut généralement beaucoup
+de travail pour obtenir le bon modèle en premier lieu.
+
+In real life, often the most sensible thing
+to do is just combine the two approaches.
+Dans la vraie vie, la chose la plus sensée
+à faire est souvent de simplement combiner les deux approches.
+
+The feedforward controller can help you get
+the inputs as close to what you need as possible,
+Le contrôleur prédictif peut vous aider à obtenir
+les entrées aussi près que possible de ce dont vous avez besoin,
+
+while the feedback controller can correct
+for the flaws in the model by measuring the
+actual output temperature.
+tandis que le contrôleur de rétroaction peut
+corriger les défauts du modèle en mesurant la
+température de sortie réelle.
+
+You could even implement something called
+cascade control as an additional measure.
+Vous pouvez même implémenter quelque chose appelé
+contrôle en cascade comme mesure supplémentaire.
+
+It helps you make sure that turning the valve
+influences the steam flow rate in the way
+you expect.
+Il vous aide à vous assurer que le fait de tourner la vanne
+influence le débit de vapeur comme
+vous l'attendez.
+
+To do this, you put in a separate controller
+and sensor that measures the steam flow as the
+valve is opened or closed by a certain amount.
+Pour ce faire, vous installez un contrôleur
+et un capteur séparés qui mesurent le débit de vapeur lorsque la
+vanne est ouverte ou fermée d'une certaine quantité.
+
+Otherwise, if the steam is at a higher pressure
+than expected, opening the valve might increase the
+flow rate of the steam by more than you predicted!
+Sinon, si la vapeur est à une pression plus élevée
+que prévu, l'ouverture de la vanne pourrait augmenter le
+débit de vapeur plus que prévu !
+
+The cascade control system puts checks in
+place to prevent that from happening.
+Le système de contrôle en cascade met en
+place des contrôles pour empêcher que cela ne se produise.
+
+With the feedback, feedforward, and cascade
+systems working together, in what’s called an
+integrated approach,
+Avec les systèmes de rétroaction, d'anticipation et de
+cascade travaillant ensemble, dans ce qu'on appelle une
+approche intégrée,
+
+you can keep the oil’s temperature steady at the
+setpoint, despite all the little ways Murphy’s law
+could have made things go off the rails.
+vous pouvez maintenir la température de l'huile stable au point de
+consigne, malgré toutes les petites façons dont la loi de Murphy
+aurait pu faire dérailler les choses.
+
+You can apply the same thinking to the milk
+tanks in the cheese factory.
+Vous pouvez appliquer la même réflexion aux
+tanks à lait de la fromagerie.
+
+To keep everything perfectly balanced, the sensor
+in the tank was meant to measure the milk level, while
+other sensors measured the flow rate of ingredients.
+Pour que tout reste parfaitement équilibré, le capteur
+dans le réservoir était destiné à mesurer le niveau de lait, tandis que d'
+autres capteurs mesuraient le débit des ingrédients.
+
+The controller would then adjust the flow
+rate as needed.
+Le contrôleur ajusterait alors le
+débit selon les besoins.
+
+But because the sensor – in this case a gauge
+in the tank – was misreading the level of milk, the
+entire system was being thrown off.
+Mais parce que le capteur - dans ce cas une jauge
+dans le réservoir - lisait mal le niveau de lait,
+tout le système était ébranlé.
+
+After fixing it to take accurate readings,
+the factory’s process control started working
+properly again.
+Après l'avoir réparé pour prendre des mesures précises,
+le contrôle de processus de l'usine a recommencé à fonctionner
+correctement.
+
+And the water in Toronto stayed nice and clean.
+Et l'eau à Toronto est restée belle et propre.
+
+So while Murphy’s law might paint a pessimistic picture
+of engineering, process control steps in as the linchpin
+that keeps everything from spiraling out of control.
+Ainsi, alors que la loi de Murphy peut brosser un tableau pessimiste
+de l'ingénierie, le contrôle des processus intervient comme la cheville ouvrière
+qui empêche tout de devenir incontrôlable.
+
+Crisis averted!
+Crise évitée! 
+
+In this episode, we looked at process control
+systems, where automated controllers change process
+variables in response to measured parameters.
+Dans cet épisode, nous avons examiné les systèmes de contrôle de processus
+, où les contrôleurs automatisés modifient les
+variables de processus en réponse aux paramètres mesurés.
+
+We looked at how feedforward and feedback
+systems minimize errors and disturbances,
+Nous avons examiné comment les systèmes d'anticipation et de
+rétroaction minimisent les erreurs et les perturbations,
+
+and saw how integrating them both with the final
+check of cascade control creates a system made to
+handle uncertainty the world throws its way.
+et avons vu comment les intégrer tous les deux à la
+vérification finale du contrôle en cascade crée un système conçu pour
+gérer l'incertitude que le monde lui lance.
+
+Next time, we’re looking at how systems react to forces,
+La prochaine fois, nous examinerons comment les systèmes réagissent aux forces,
+
+when we delve into the world of statics and
+dynamics and how they affect all the structures
+an engineer might create.
+lorsque nous plongerons dans le monde de la statique et de la
+dynamique et comment ils affectent toutes les structures
+qu'un ingénieur pourrait créer.
+
+Crash Course Engineering is produced in association
+with PBS Digital Studios.
+Crash Course Engineering est produit en association
+avec PBS Digital Studios.
+
+Wanna keep learning?
+Voulez-vous continuer à apprendre ?
+
+Check out Global Weirding, which explores
+the intersection among climate, politics, and religion,
+hosted by climate scientist Katharine Hayhoe.
+Découvrez Global Weirding, qui explore
+l'intersection entre le climat, la politique et la religion,
+animé par la climatologue Katharine Hayhoe.
+
+Crash Course is a Complexly production and this
+episode was filmed in the Doctor Cheryl C. Kinney
+Studio with the help of these wonderful people.
+Crash Course est une production de Complexly et cet
+épisode a été filmé dans le studio du docteur Cheryl C. Kinney
+avec l'aide de ces personnes merveilleuses.
+
+And our amazing graphics team is Thought Cafe.
+Et notre incroyable équipe graphique est Thought Cafe.
+

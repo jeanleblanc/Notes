@@ -1,0 +1,716 @@
+You can review content from Crash Course Organic Chemistry with the Crash Course App,
+Vous pouvez consulter le contenu de Crash Course Organic Chemistry avec l'application Crash Course,
+
+available now for Android and iOS devices.
+disponible dès maintenant pour les appareils Android et iOS.
+
+Hi!
+Salut! 
+
+I’m Deboki Chakravarti and welcome to Crash
+Course Organic Chemistry!
+Je suis Deboki Chakravarti et bienvenue au cours intensif de
+chimie organique !
+
+What’s the connection between the smells
+of feet, underarms, vomit and... goats?
+Quel est le lien entre les odeurs
+de pieds, d'aisselles, de vomi et... de chèvres ?
+
+Carboxylic acids.
+Acides carboxyliques. 
+
+The smell of feet is partly due to the presence
+of isovaleric acid,
+L'odeur des pieds est en partie due à la présence
+d'acide isovalérique,
+
+which is produced by the bacteria living on your foot skin.
+qui est produit par les bactéries vivant sur la peau de vos pieds.
+
+Bacteria also turn odorless underarm secretions,
+such as amino acids, into malodorous molecules,
+Les bactéries transforment également les sécrétions inodores des aisselles,
+telles que les acides aminés, en molécules malodorantes
+
+which include carboxylic acids.
+, notamment les acides carboxyliques.
+
+The stench of vomit is caused by butyric acid,
+produced by bacteria in our gut.
+La puanteur du vomi est causée par l'acide butyrique,
+produit par des bactéries dans notre intestin.
+
+Butyric acid is also found in rancid butter
+(that's where its name comes from),
+L'acide butyrique se trouve également dans le beurre rance
+(d'où son nom),
+
+and it's a key part of the aroma of parmesan
+cheese.
+et c'est un élément clé de l'arôme du
+parmesan.
+
+It's also added to some brands of American
+milk chocolate to give a ‘tangy’ flavor.
+Il est également ajouté à certaines marques de
+chocolat au lait américain pour donner une saveur "piquante".
+
+Yes, I basically just said that puke-flavored
+chocolate exists,
+Oui, je viens de dire que le chocolat au
+vomi existe,
+
+and now it's going to haunt me forever.
+et maintenant il va me hanter pour toujours.
+
+And three carboxylic acids take their common
+names from the Latin word for goats:
+Et trois acides carboxyliques tirent leurs
+noms communs du mot latin pour chèvres :
+
+caproic acid, caprylic acid and capric acid.
+acide caproïque, acide caprylique et acide caprique.
+
+Found in small amounts in goats’ milk, and
+produced in larger amounts as the milk ages,
+Présents en petites quantités dans le lait de chèvre et
+produits en plus grande quantité à mesure que le lait vieillit,
+
+they contribute to that goaty stench.
+ils contribuent à cette puanteur de chèvre.
+
+Given these awful smells, you might wonder
+why we’d want to work with carboxylic acids at all.
+Compte tenu de ces odeurs affreuses, vous vous demandez peut-être
+pourquoi nous voudrions travailler avec des acides carboxyliques.
+
+But we can actually make some pretty nice-smelling
+compounds using carboxylic acids as a starting point,
+Mais nous pouvons en fait fabriquer des composés assez odorants en
+utilisant des acides carboxyliques comme point de départ,
+
+and we can convert them into other useful
+compounds for organic synthesis.
+et nous pouvons les convertir en d'autres
+composés utiles pour la synthèse organique.
+
+[Theme Music]
+[Thème musical]
+
+Let’s kick off by reminding ourselves how
+we can make a carboxylic acid.
+Commençons par nous rappeler comment
+nous pouvons fabriquer un acide carboxylique.
+
+For example, we can oxidize alcohols or aldehydes
+with chromic acid or another suitable oxidizing agent.
+Par exemple, on peut oxyder des alcools ou des aldéhydes
+avec de l'acide chromique ou un autre agent oxydant approprié.
+
+We can also make them from Grignard reagents.
+On peut aussi les fabriquer à partir des réactifs de Grignard.
+
+Reacting the Grignard reagent with carbon
+dioxide gives a carboxylate salt,
+La réaction du réactif de Grignard avec du dioxyde de
+carbone donne un sel carboxylate,
+
+which can be protonated with acid to give
+a carboxylic acid.
+qui peut être protoné avec un acide pour donner
+un acide carboxylique.
+
+We can get a more specific name for any carboxylic
+acid by looking at its structure,
+Nous pouvons obtenir un nom plus spécifique pour n'importe quel
+acide carboxylique en examinant sa structure, en
+
+using the number of carbons in the longest
+chain and adding the suffix '-oic acid.'
+utilisant le nombre de carbones dans la chaîne la plus longue
+et en ajoutant le suffixe "acide oique".
+
+A carboxylic acid with two carbons is ethanoic
+acid,
+Un acide carboxylique à deux carbones est l'
+acide éthanoïque,
+
+a carboxylic acid with three carbons is propanoic
+acid, and so on.
+un acide carboxylique à trois carbones est l'
+acide propanoïque, etc.
+
+So in the previous reaction, we made 2-methylpropanoic
+acid.
+Ainsi, dans la réaction précédente, nous avons fabriqué de l'acide 2-méthylpropanoïque
+.
+
+When it comes to naming compounds,
+Lorsqu'il s'agit de nommer les composés,
+
+carboxylic acids have the highest priority among carbon-containing functional groups.
+les acides carboxyliques ont la plus haute priorité parmi les groupes fonctionnels contenant du carbone.
+
+So, say we have a molecule containing both
+a ketone and a carboxylic acid group,
+Ainsi, supposons que nous ayons une molécule contenant à la fois
+une cétone et un groupe acide carboxylique,
+
+the carboxylic acid forms the base name,
+l'acide carboxylique forme le nom de la base,
+
+we assign the carboxylic acid carbon the number 1,
+nous attribuons au carbone de l'acide carboxylique le numéro 1
+
+and the ketone gets a prefix.
+et la cétone reçoit un préfixe.
+
+An example of this is 4-oxopentanoic acid,
+also known as levulinic acid,
+Un exemple de ceci est l'acide 4-oxopentanoïque,
+également connu sous le nom d'acide lévulinique,
+
+a compound used as a starting point for the
+synthesis of some pharmaceuticals and industrial chemicals.
+un composé utilisé comme point de départ pour la
+synthèse de certains produits pharmaceutiques et chimiques industriels.
+
+This compound, like many we've mentioned,
+has a systematic IUPAC name and a common name.
+Ce composé, comme beaucoup d'autres que nous avons mentionnés,
+a un nom IUPAC systématique et un nom commun.
+
+Like how ethanoic acid, the acid in vinegar,
+has the common name acetic acid.
+Comme la façon dont l'acide éthanoïque, l'acide du vinaigre,
+porte le nom commun d'acide acétique.
+
+And as you’d expect from all these names,
+carboxylic acids are acidic.
+Et comme on peut s'y attendre de tous ces noms,
+les acides carboxyliques sont acides.
+
+If they have... oh about 4 carbons or fewer,
+they can dissolve in water.
+S'ils ont... oh environ 4 carbones ou moins,
+ils peuvent se dissoudre dans l'eau.
+
+The hydrogen in the -COOH part of the structure
+will be partially ionized,
+L'hydrogène dans la partie -COOH de la structure
+sera partiellement ionisé,
+
+forming a hydrogen ion and leaving behind
+a carboxylate ion.
+formant un ion hydrogène et laissant derrière lui
+un ion carboxylate.
+
+Specifically, carboxylic acids are weak acids,
+Plus précisément, les acides carboxyliques sont des acides faibles,
+
+because they don’t release hydrogen ions
+into solution as much as a strong acid like hydrochloric acid does.
+car ils ne libèrent pas autant d'ions hydrogène
+en solution qu'un acide fort comme l'acide chlorhydrique.
+
+The -COOH part of these structures allows
+intermolecular hydrogen bonds to form between two acid molecules,
+La partie -COOH de ces structures permet la formation de
+liaisons hydrogène intermoléculaires entre deux molécules d'acide,
+
+or an acid and water.
+ou un acide et l'eau.
+
+So carboxylic acids have high boiling points,
+Ainsi, les acides carboxyliques ont des points d'ébullition élevés,
+
+and all of those with fewer than ten carbons in a straight chain are liquids at room temperature.
+et tous ceux qui ont moins de dix atomes de carbone dans une chaîne droite sont des liquides à température ambiante.
+
+We can react shorter-chain carboxylic acids
+with sodium or potassium hydroxide to form water-soluble salts too.
+Nous pouvons faire réagir des acides carboxyliques à chaîne plus courte
+avec de l'hydroxyde de sodium ou de potassium pour former également des sels solubles dans l'eau.
+
+The hydroxide ion grabs the proton from the
+carboxylic acid group,
+L'ion hydroxyde saisit le proton du
+groupe acide carboxylique,
+
+forming water and leaving a carboxylate ion behind.
+formant de l'eau et laissant derrière lui un ion carboxylate.
+
+In fact, even weak bases like ammonia can
+pull off a hydrogen ion and form a carboxylate ion.
+En fait, même des bases faibles comme l'ammoniac peuvent
+retirer un ion hydrogène et former un ion carboxylate.
+
+As we know from earlier episodes, both hydroxide
+ions and ammonia are good nucleophiles –
+Comme nous le savons des épisodes précédents, les
+ions hydroxyde et l'ammoniac sont de bons nucléophiles -
+
+which actually highlights an issue that can
+come up in the lab.
+ce qui met en évidence un problème qui peut
+survenir en laboratoire.
+
+Most basic nucleophiles tend to deprotonate
+carboxylic acids!
+La plupart des nucléophiles basiques ont tendance à déprotoner
+les acides carboxyliques !
+
+So, unlike aldehydes and ketones, we can’t
+just use a nucleophile to add groups to the carbonyl carbon here.
+Ainsi, contrairement aux aldéhydes et aux cétones, nous ne pouvons pas
+simplement utiliser un nucléophile pour ajouter des groupes au carbone carbonyle ici.
+
+We’ll have to get a little more creative
+with our chemistry.
+Nous devrons être un peu plus créatifs
+avec notre chimie.
+
+Before we tackle that problem, though, let’s
+look at some of the other reactions carboxylic acids can undergo.
+Avant de nous attaquer à ce problème,
+examinons certaines des autres réactions que les acides carboxyliques peuvent subir.
+
+If we want to get back to an alcohol from
+a carboxylic acid,
+Si l'on veut revenir à un alcool à partir d'
+un acide carboxylique,
+
+we can use a reducing agent such as lithium aluminum hydride.
+on peut utiliser un agent réducteur tel que l'hydrure de lithium et d'aluminium.
+
+This is a powerful reducing agent, so after
+the reaction,
+Il s'agit d'un agent réducteur puissant, donc après
+la réaction,
+
+we add a proton source VERY carefully to react
+any unreacted lithium aluminum hydride and give our alcohol a proton back.
+nous ajoutons une source de protons TRÈS soigneusement pour faire réagir
+tout hydrure de lithium et d'aluminium n'ayant pas réagi et redonner un proton à notre alcool.
+
+Another way to remove the carboxylic acid
+group has a very straightforward name: decarboxylation.
+Une autre façon d'éliminer le
+groupe acide carboxylique porte un nom très simple : la décarboxylation.
+
+This involves heating the carboxylic acid,
+and replaces the carboxylic acid group with a hydrogen atom.
+Cela implique de chauffer l'acide carboxylique
+et de remplacer le groupe acide carboxylique par un atome d'hydrogène.
+
+So if we heat the heck out of almost any carboxylic
+acid, we can get it to decarboxylate.
+Donc, si nous chauffons à fond presque n'importe quel
+acide carboxylique, nous pouvons le décarboxyler.
+
+And this reaction happens really easily when you heat compounds that have a carbonyl group one carbon away from the carboxylic acid group.
+Et cette réaction se produit très facilement lorsque vous chauffez des composés qui ont un groupe carbonyle à un carbone du groupe acide carboxylique.
+
+However, sometimes you don't want to get rid
+of the carboxylic acid group entirely,
+Cependant, parfois, vous ne voulez pas vous débarrasser
+entièrement du groupe acide carboxylique
+
+so there are also reactions to convert it
+into other functional groups.
+, il existe donc également des réactions pour le convertir
+en d'autres groupes fonctionnels.
+
+In fact, we can freshen up some of those bad-smells
+by converting carboxylic acids into pleasant-smelling esters by Fischer Esterification.
+En fait, nous pouvons rafraîchir certaines de ces mauvaises odeurs
+en convertissant les acides carboxyliques en esters à l'odeur agréable par estérification Fischer.
+
+This is an acid-catalyzed reaction of a carboxylic
+acid with an alcohol to form an ester.
+Il s'agit d'une réaction catalysée par un
+acide d'un acide carboxylique avec un alcool pour former un ester.
+
+Esters are often key parts of the smells of
+flowers and fruits, and are commonly used in perfumes.
+Les esters sont souvent des éléments clés des odeurs de
+fleurs et de fruits et sont couramment utilisés dans les parfums.
+
+Fischer Esterification can also be classified
+as a type of condensation reaction,
+L'estérification de Fischer peut également être classée
+comme un type de réaction de condensation,
+
+because the two reactants kick out a water
+molecule when they combine.
+car les deux réactifs expulsent une
+molécule d'eau lorsqu'ils se combinent.
+
+To get more specific, first, the carbonyl
+oxygen grabs a proton from the acid catalyst.
+Pour être plus précis, d'abord, l'oxygène du carbonyle
+saisit un proton du catalyseur acide.
+
+Next, the lone pair on the alcohol oxygen
+acts as a nucleophile,
+Ensuite, la paire isolée sur l'oxygène de l'alcool
+agit comme un nucléophile,
+
+attacking the carbonyl carbon.
+attaquant le carbone carbonyle.
+
+Another alcohol molecule swoops in,
+Une autre molécule d'alcool se précipite,
+
+deprotonating the hydrogen from the oxonium ion in that one-two punch of attack-then-deprotonation we’re getting familiar with.
+déprotonant l'hydrogène de l'ion oxonium dans ce coup de poing d'attaque puis de déprotonation avec lequel nous nous familiarisons.
+
+The OH group on the carboxylic acid finds
+a hydrogen ion from the acid catalyst,
+Le groupe OH sur l'acide carboxylique trouve
+un ion hydrogène du catalyseur acide,
+
+which makes water, a good leaving group!
+ce qui fait de l'eau un bon groupe partant !
+
+With a little help from the neighboring oxygen
+atom in the molecule, the water leaves.
+Avec un peu d'aide de l'
+atome d'oxygène voisin dans la molécule, l'eau s'en va.
+
+And finally, another alcohol molecule from
+solution grabs the extra hydrogen on the carbonyl oxygen,
+Et enfin, une autre molécule d'alcool de la
+solution capte l'hydrogène supplémentaire sur l'oxygène carbonyle,
+
+giving us an ester as our final product.
+nous donnant un ester comme produit final.
+
+All of these steps are reversible, so the
+product isn’t formed super efficiently.
+Toutes ces étapes sont réversibles, de sorte que le
+produit n'est pas formé de manière très efficace.
+
+But never fear, le Chatlier is here!
+Mais n'ayez crainte, le Chatlier est là !
+
+We have the power to adjust the equilibrium
+of chemical reactions.
+Nous avons le pouvoir d'ajuster l'équilibre
+des réactions chimiques.
+
+Specifically, if we remove one of the products
+along the way, we can push the reaction forward.
+Plus précisément, si nous supprimons l'un des produits
+en cours de route, nous pouvons faire avancer la réaction.
+
+In a lab, removing the water as it forms using
+a special piece of equipment increases our yield of the ester.
+Dans un laboratoire, l'élimination de l'eau au fur et à mesure de sa formation à l'aide
+d'un équipement spécial augmente notre rendement en ester.
+
+Speaking of tricky lab situations, how about
+that problem we mentioned earlier –
+En parlant de situations de laboratoire délicates, qu'en est-il de
+ce problème que nous avons mentionné plus tôt -
+
+the issue of nucleophiles deprotonating carboxylic
+acids instead of attacking the carbonyl carbon?
+le problème des nucléophiles déprotonant les
+acides carboxyliques au lieu d'attaquer le carbone carbonyle ?
+
+To solve this problem, we can convert the
+carboxylic acid to a more reactive functional group:
+Pour résoudre ce problème, nous pouvons convertir l'
+acide carboxylique en un groupe fonctionnel plus réactif :
+
+an acid chloride, using either phosphorus
+pentachloride or thionyl chloride.
+un chlorure d'acide, en utilisant soit du
+pentachlorure de phosphore, soit du chlorure de thionyle.
+
+And let's just go with phosphorus pentachloride
+as our example.
+Et prenons simplement le pentachlorure de phosphore
+comme exemple.
+
+The reaction starts when the lone pair of
+electrons on the carbonyl oxygen forms a bond with the phosphorus atom –
+La réaction commence lorsque la seule paire d'
+électrons sur l'oxygène du carbonyle forme une liaison avec l'atome de phosphore -
+
+with a little help from the other oxygen in
+the molecule –
+avec un peu d'aide de l'autre oxygène de
+la molécule -
+
+and kicks a chloride ion off of phosphorous
+pentachloride.
+et expulse un ion chlorure du pentachlorure de phosphore
+.
+
+The chloride ion we kicked out in the previous
+step swoops back and attacks the carbonyl carbon.
+L'ion chlorure que nous avons expulsé à l'
+étape précédente revient en flèche et attaque le carbone carbonyle.
+
+Then, a very stable double bond forms between
+the phosphorus and this oxygen.
+Ensuite, une double liaison très stable se forme entre
+le phosphore et cet oxygène.
+
+This double bond is a big part of why this
+reaction happens this way,
+Cette double liaison explique en grande partie pourquoi cette
+réaction se produit de cette façon,
+
+just like we saw in the Wittig reaction in
+Episode 28!
+tout comme nous l'avons vu dans la réaction de Wittig dans l'
+épisode 28 !
+
+Specifically, with the formation of this bond,
+we lose chloride as a leaving group,
+Plus précisément, avec la formation de cette liaison,
+nous perdons du chlorure en tant que groupe partant,
+
+which pulls off the nearby hydrogen to reform
+our carbon-oxygen double bond.
+qui arrache l'hydrogène à proximité pour reformer
+notre double liaison carbone-oxygène.
+
+This gives us the acid chloride, with hydrochloric
+acid and phosphorous oxychloride as the other products.
+Cela nous donne le chlorure d'acide, avec l'
+acide chlorhydrique et l'oxychlorure de phosphore comme autres produits.
+
+Acid chlorides, along with other carboxylic
+acid derivatives, are involved in many useful reactions in organic chemistry.
+Les chlorures d'acide, ainsi que d'autres
+dérivés d'acide carboxylique, sont impliqués dans de nombreuses réactions utiles en chimie organique.
+
+In fact, acid chlorides were used in the synthesis
+of the first mass-produced antibiotic:
+En fait, les chlorures d'acide ont été utilisés dans la synthèse
+du premier antibiotique produit en série : la
+
+penicillin, which is an important carboxylic
+acid in medicine.
+pénicilline, qui est un acide carboxylique important
+en médecine.
+
+Throughout the rest of the Crash Course Organic
+Chemistry series,
+Tout au long du reste de la série Crash Course Organic
+Chemistry,
+
+we’ll apply many of the reactions we learn
+to explore the chemical synthesis of penicillin.
+nous appliquerons bon nombre des réactions que nous apprenons
+pour explorer la synthèse chimique de la pénicilline.
+
+But penicillin was an accidental discovery –
+Mais la pénicilline était une découverte accidentelle -
+
+not a medicine dreamed up by humans.
+pas un médicament imaginé par les humains.
+
+And the story of this compound is much more
+complicated than just one scientist making a lucky discovery in 1928.
+Et l'histoire de ce composé est bien plus
+compliquée que celle d'un seul scientifique faisant une découverte chanceuse en 1928.
+
+Let’s head to the Thought Bubble to learn
+more.
+Dirigeons-nous vers la bulle de pensée pour en savoir
+plus.
+
+Returning to his lab after a summer holiday,
+De retour dans son laboratoire après des vacances d'été,
+
+the microbiologist Alexander Fleming discovered
+that one of his petri dishes of bacteria had been unintentionally left out on a bench.
+le microbiologiste Alexander Fleming a
+découvert qu'une de ses boîtes de Petri contenant des bactéries avait été oubliée par inadvertance sur une paillasse.
+
+Spores of a fungus had blown into the lab
+and contaminated the dish,
+Les spores d'un champignon avaient soufflé dans le laboratoire
+et contaminé le plat,
+
+and the temperatures had been perfect to encourage
+both the fungus and the bacteria to grow.
+et les températures avaient été parfaites pour encourager
+à la fois le champignon et les bactéries à se développer.
+
+But wherever the fungus had grown, the bacteria
+were absent.
+Mais partout où le champignon avait poussé, les bactéries
+étaient absentes.
+
+Fleming realized that the fungus made a chemical
+compound that killed the bacteria.
+Fleming s'est rendu compte que le champignon fabriquait un
+composé chimique qui tuait les bactéries.
+
+The fungus was from the genus Penicillium,
+so Fleming named this mysterious compound ‘penicillin'.
+Le champignon appartenait au genre Penicillium, c'est
+pourquoi Fleming a nommé ce mystérieux composé "pénicilline".
+
+But, despite many attempts, he was unable
+to isolate it.
+Mais, malgré de nombreuses tentatives, il n'a pas réussi
+à l'isoler.
+
+At Oxford University, a biochemist named Ernst
+Chain found Fleming’s publication on penicillin,
+À l'Université d'Oxford, un biochimiste nommé Ernst
+Chain a trouvé la publication de Fleming sur la pénicilline
+
+and suggested to his supervisor, Howard Florey,
+that they try to isolate it.
+et a suggéré à son superviseur, Howard Florey
+, d'essayer de l'isoler.
+
+Penicillin was eventually isolated and purified
+in 1941.
+La pénicilline a finalement été isolée et purifiée
+en 1941.
+
+That same year, penicillin was first used
+to treat an infection in a police officer.
+Cette même année, la pénicilline a été utilisée
+pour la première fois pour traiter une infection chez un policier.
+
+It was later hailed as a wonder drug during
+World War II for its ability to combat infections in wounded troops.
+Il a ensuite été salué comme un médicament miracle pendant la
+Seconde Guerre mondiale pour sa capacité à combattre les infections chez les soldats blessés.
+
+But there was still a huge unsolved problem
+in the early 1940s:
+Mais il y avait encore un énorme problème non résolu
+au début des années 1940 :
+
+the low yield of penicillin from the mold.
+le faible rendement en pénicilline de la moisissure.
+
+But in 1943, a bacteriologist named Mary Hunt
+made a breakthrough
+Mais en 1943, une bactériologiste du nom de Mary Hunt a
+fait une percée
+
+while working at the US Department of Agriculture's Northern Regional
+Research Laboratory in Peoria, Illinois!
+alors qu'elle travaillait au Laboratoire de recherche régional nord du Département américain de l'agriculture
+à Peoria, dans l'Illinois !
+
+Nicknamed ‘Moldy Mary,’ she hunted down
+moldy fruits and vegetables to test for the presence of penicillin in the lab.
+Surnommée «Moldy Mary», elle a traqué les
+fruits et légumes moisis pour tester la présence de pénicilline dans le laboratoire.
+
+A spoiled cantalope melon had a fungus, Penicillium
+chrysogenum,
+Un melon cantalope gâté avait un champignon, Penicillium
+chrysogenum,
+
+that produced 200 times more penicillin than
+the fungus that Fleming stumbled upon, making mass production possible!
+qui produisait 200 fois plus de pénicilline que
+le champignon sur lequel Fleming était tombé, rendant la production de masse possible !
+
+Thanks, Thought Bubble!
+Merci, bulle de pensée !
+
+Since Mary Hunt's cantalope discovery, we've
+learned a lot more –
+Depuis la découverte du cantalope de Mary Hunt, nous en avons
+appris beaucoup plus -
+
+like, the penicillins are actually a family
+of compounds,
+comme, les pénicillines sont en fait une famille
+de composés,
+
+with different potencies and ways to administer the medicine.
+avec différentes puissances et façons d'administrer le médicament.
+
+The penicillin that Fleming discovered and
+Chain and Florey isolated
+La pénicilline que Fleming a découverte et que
+Chain et Florey ont isolée
+
+(and even won a Nobel Prize for in 1945) was penicillin F.
+(et qui a même remporté un prix Nobel en 1945) était la pénicilline F.
+
+The stuff that was produced from Hunt’s
+spoiled cantalope melon was penicillin G.
+La substance produite à partir du
+melon cantalope gâté de Hunt était la pénicilline G.
+
+In later episodes, we’ll be looking at Dr.
+John C. Sheehan’s synthesis of penicillin V,
+Dans les épisodes ultérieurs, nous examinerons le Dr
+La synthèse de la pénicilline V par John C. Sheehan,
+
+which is the first penicillin to be synthesized
+from scratch instead of extracted from a fungus.
+qui est la première pénicilline à être synthétisée à
+partir de rien au lieu d'être extraite d'un champignon.
+
+This synthesis takes many steps.
+Cette synthèse comporte plusieurs étapes.
+
+So over the course of the series, we’ll
+fill out what we're calling our Mold Medicine Map,
+Ainsi, au cours de la série, nous
+remplirons ce que nous appelons notre carte de la médecine des moisissures
+
+and we'll discover how penicillin kills bacteria
+– all using organic chemistry!
+et nous découvrirons comment la pénicilline tue les bactéries
+- le tout en utilisant la chimie organique !
+
+In this episode, we:
+Dans cet épisode, nous avons : passé en
+
+Reviewed the reactions that form carboxylic
+acids
+revue les réactions qui forment les
+acides
+
+Recapped nomenclature and explained the properties
+of carboxylic acids
+carboxyliques, récapitulé la nomenclature et expliqué les propriétés
+des acides carboxyliques, fait
+
+Reacted carboxylic acids to form salts,
+réagir les acides carboxyliques pour former des sels,
+
+and Formed esters and acid chlorides from carboxylic
+acids
+et formé des esters et des chlorures d'acides à partir d'acides carboxyliques.
+
+In the next episode, we’ll start looking
+at how we can use carboxylic acid derivatives to get to other functional groups,
+Dans le prochain épisode, nous commencerons à examiner
+comment  nous pouvons utiliser des dérivés d'acide carboxylique pour accéder à d'autres groupes fonctionnels
+
+and see where some of these reactions fit
+into our synthesis of penicillin.
+et voir où certaines de ces réactions s'intègrent
+dans notre synthèse de pénicilline.
+
+Until then, thanks for watching this episode
+of Crash Course Organic Chemistry.
+En attendant, merci d'avoir regardé cet épisode
+de Crash Course Organic Chemistry.
+
+If you want to help keep all Crash Course
+free for everybody, forever, you can join our community on Patreon.
+Si vous voulez aider à garder tous les cours intensifs
+gratuits pour tout le monde, pour toujours, vous pouvez rejoindre notre communauté sur Patreon.
+

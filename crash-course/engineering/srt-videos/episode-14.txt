@@ -1,0 +1,570 @@
+Whether you’re heating up leftovers from
+last night, or just trying to stay cool in the
+summer, heat transfer is everywhere.
+Que vous réchauffiez les restes de
+la nuit dernière ou que vous essayiez simplement de rester au frais en
+été, le transfert de chaleur est partout.
+
+In some ways, the world is literally built
+around it.
+À certains égards, le monde est littéralement construit
+autour de lui.
+
+Any well-engineered building is designed and
+made out of materials that help keep the inside
+of the building at a good temperature,
+Tout bâtiment bien conçu est conçu et
+fabriqué à partir de matériaux qui aident à maintenir l'intérieur
+du bâtiment à une bonne température,
+
+even during bitter blizzards or horrendous heat waves.
+même pendant les violents blizzards ou les horribles vagues de chaleur.
+
+A furnace or A/C will only get you so far – without
+protecting against heat transfer, you might as well
+try to air condition your whole neighborhood.
+Une fournaise ou un climatiseur ne vous mènera que jusqu'à présent - sans
+protection contre le transfert de chaleur, autant
+essayer de climatiser tout votre quartier.
+
+A big part of engineering is using your knowledge
+of natural processes to keep them from interfering
+with whatever you’re trying to do –
+Une grande partie de l'ingénierie consiste à utiliser votre connaissance
+des processus naturels pour les empêcher d'interférer
+avec ce que vous essayez de faire -
+
+or in some cases, taking advantage of
+those processes.
+ou, dans certains cas, de tirer parti de
+ces processus.
+
+So without a solid understanding of how and
+why heat moves the way it does, your designs
+won’t be very successful.
+Donc, sans une solide compréhension de comment et
+pourquoi la chaleur se déplace comme elle le fait, vos conceptions
+ne seront pas très réussies.
+
+Especially if you’ve just discovered a tropical
+island.
+Surtout si vous venez de découvrir une
+île tropicale.
+
+[Theme Music]
+[Musique à thème]
+
+So. This tropical island.
+Alors.  Cette île tropicale.
+
+It’s small, totally deserted, and seems
+like the perfect place to build that vacation
+home you’ve always dreamed of.
+C'est petit, totalement désert, et semble
+être l'endroit idéal pour construire cette
+maison de vacances dont vous avez toujours rêvé.
+
+The tropical weather is really nice, but it’s
+also hot – very hot.
+Le climat tropical est vraiment agréable, mais il fait
+aussi chaud – très chaud.
+
+So you’ll probably want to design your house
+to keep the heat out, and the cold in.
+Vous voudrez donc probablement concevoir votre maison de manière
+à empêcher la chaleur d'entrer et le froid.
+
+In other words: you’ll want to prevent as
+much heat transfer as possible.
+En d'autres termes, vous voudrez empêcher
+autant que possible le transfert de chaleur.
+
+Even though heat isn’t a fluid itself, heat transfers
+in a way that’s kind of similar to the fluid movement
+we’ve talked about in past episodes.
+Même si la chaleur n'est pas un fluide en soi, la chaleur se transfère
+d'une manière assez similaire au mouvement des fluides dont
+nous avons parlé dans les épisodes précédents.
+
+When fluids move, there’s always a driving
+force behind them – specifically, a difference
+in either pressure or velocity.
+Lorsque les fluides se déplacent, il y a toujours une
+force motrice derrière eux - en particulier, une différence
+de pression ou de vitesse.
+
+With heat transfer, the driving force is a
+difference in temperature.
+Avec le transfert de chaleur, la force motrice est une
+différence de température.
+
+In fact, if you don’t have a temperature
+difference, you can’t have heat transfer.
+Period.
+En fait, si vous n'avez pas de
+différence de température, vous ne pouvez pas avoir de transfert de chaleur.
+Point final. 
+
+If you have two boxes right next to each other,
+and they’re both at the same temperature,
+Si vous avez deux boîtes juste à côté l'une de l'autre
+et qu'elles sont toutes les deux à la même température,
+
+then one of the boxes won’t randomly start
+giving its heat energy away to the other one.
+alors l'une des boîtes ne commencera pas au hasard à
+donner son énergie thermique à l'autre.
+
+But if you're watching this video on your
+laptop and it’s, well, on top of your lap,
+Mais si vous regardez cette vidéo sur votre
+ordinateur portable et qu'elle est, eh bien, sur vos genoux
+
+then your legs might be warming up as heat
+is transferred to them from your laptop.
+, vos jambes pourraient se réchauffer lorsque la chaleur leur
+est transférée depuis votre ordinateur portable.
+
+That’s because right now your laptop is warmer
+than your skin, and when heat passively transfers,
+En effet, en ce moment, votre ordinateur portable est plus chaud
+que votre peau, et lorsque la chaleur est transférée passivement,
+
+it always moves from a higher temperature
+to a lower one.
+elle passe toujours d'une température plus élevée
+à une température plus basse.
+
+You'd have to use the cycles and work energy
+we’ve talked about before – basically, an engine –
+to make it move in the opposite direction.
+Il faudrait utiliser les cycles et l'énergie de travail dont
+nous avons déjà parlé - en gros, un moteur -
+pour le faire bouger dans la direction opposée.
+
+And unless you have perfect insulation, which
+is practically impossible in most settings, then a
+temperature difference will cause heat transfer.
+Et à moins d'avoir une isolation parfaite, ce qui
+est pratiquement impossible dans la plupart des environnements, une
+différence de température entraînera un transfert de chaleur.
+
+So, this house you’re building is going to heat up
+from the warm, tropical air no matter what.
+Donc, cette maison que vous construisez va se réchauffer à cause
+de l'air chaud et tropical quoi qu'il arrive.
+
+But there’s a lot you can do to slow down
+the process.
+Mais vous pouvez faire beaucoup pour ralentir
+le processus.
+
+There are three main types of heat transfer
+to look out for: conduction, convection, and
+radiation.
+Il existe trois principaux types de transfert de chaleur
+à surveiller : la conduction, la convection et le
+rayonnement.
+
+With conduction, heat energy is transferred
+by the collisions of molecules or other particles.
+Avec la conduction, l'énergie thermique est transférée
+par les collisions de molécules ou d'autres particules.
+
+When two things touch, the faster moving
+molecules of the warmer object crash into the
+slower moving molecules of the colder object,
+Lorsque deux choses se touchent, les molécules se déplaçant plus rapidement
+de l'objet le plus chaud s'écrasent sur les
+molécules se déplaçant plus lentement de l'objet le plus froid,
+
+transferring energy that heats them up.
+transférant de l'énergie qui les réchauffe.
+
+In your house, that will cause heat transfer
+through the layers of the walls.
+Dans votre maison, cela provoquera un transfert de chaleur à
+travers les couches des murs.
+
+As the outer layer warms up, conduction will
+transfer the heat through to the cooler inner layers.
+Au fur et à mesure que la couche externe se réchauffe, la conduction
+transfère la chaleur aux couches internes plus froides.
+
+To slow this down, you’ll want to build the walls
+out of a material with low thermal conductivity –
+something that doesn’t transfer heat well.
+Pour ralentir cela, vous voudrez construire les murs à
+partir d'un matériau à faible conductivité thermique -
+quelque chose qui ne transfère pas bien la chaleur.
+
+Copper, for example, has a high thermal conductivity,
+so if you made your walls out of it, you’d effectively
+be making a giant sauna.
+Le cuivre, par exemple, a une conductivité thermique élevée,
+donc si vous en faisiez vos murs, vous feriez
+effectivement un sauna géant.
+
+Which doesn’t sound like a great place to
+live.
+Ce qui ne ressemble pas à un endroit où il fait bon
+vivre.
+
+For one thing, it would probably be a burn
+hazard.
+D'une part, ce serait probablement un
+risque de brûlure.
+
+Materials like brick and drywall, on the other
+hand, have lower thermal conductivities, so
+they’d be much better choices.
+Les matériaux comme la brique et les cloisons sèches, en
+revanche, ont des conductivités thermiques plus faibles,
+ce sont donc de bien meilleurs choix.
+
+Anything that’s sold as insulation also
+has a very low thermal conductivity, so you’ll
+probably want some layers of that, too.
+Tout ce qui est vendu comme isolant a également
+une conductivité thermique très faible, vous en voudrez donc
+probablement aussi quelques couches.
+
+The thicker these layers, the more resistant
+the walls will be to heat transfer by conduction.
+Plus ces couches sont épaisses, plus
+les parois seront résistantes aux transferts thermiques par conduction.
+
+Specifically, they’ll have more of what’s
+called thermal resistance,
+Plus précisément, ils auront plus de ce qu'on
+appelle la résistance thermique,
+
+which is defined as the thickness of the layer
+of material, divided by the material’s thermal
+conductivity and the area of the layer.
+qui est définie comme l'épaisseur de la couche
+de matériau, divisée par la conductivité thermique du matériau
+et la surface de la couche.
+
+All this means is that materials with a lower thermal
+conductivity have a higher thermal resistance, and that a
+thicker layer will also have a higher thermal resistance.
+Tout cela signifie que les matériaux ayant une conductivité thermique plus faible
+ont une résistance thermique plus élevée, et qu'une
+couche plus épaisse aura également une résistance thermique plus élevée.
+
+But if there’s more area for heat to be conducted
+through, that will lower the thermal resistance.
+Mais s'il y a plus d'espace pour que la chaleur soit
+conduite, cela réduira la résistance thermique.
+
+Thermal resistance is also equal to the temperature
+difference divided by the heat transfer rate.
+La résistance thermique est également égale à la
+différence de température divisée par le taux de transfert de chaleur.
+
+Which also makes sense.
+Ce qui a aussi du sens.
+
+It means that for a given temperature difference,
+materials with a higher heat transfer rate will have
+a lower thermal resistance, and vice versa.
+Cela signifie que pour une différence de température donnée, les
+matériaux avec un taux de transfert de chaleur plus élevé auront
+une résistance thermique plus faible, et vice versa.
+
+You can use this equation to determine
+the level of thermal resistance you’ll need
+Vous pouvez utiliser cette équation pour déterminer
+le niveau de résistance thermique dont vous aurez besoin
+
+if you want a low rate of heat transfer for
+the temperature difference you’d expect to
+have in the layers of your walls.
+si vous voulez un faible taux de transfert de chaleur pour
+la différence de température que vous vous attendez à
+avoir dans les couches de vos murs.
+
+And the resistance of the different layers adds up,
+so the total thermal resistance of the walls is equal
+to the resistance of each layer combined.
+Et la résistance des différentes couches s'additionne, de
+sorte que la résistance thermique totale des murs est égale
+à la résistance de chaque couche combinée.
+
+It’s like putting on layers of clothing
+on a cold day.
+C'est comme mettre des couches de vêtements
+par une journée froide.
+
+The more layers you have, the lower your rate of
+heat loss will be, and the easier it is to stay warm.
+Plus vous avez de couches, plus votre taux de
+perte de chaleur sera faible et plus il vous sera facile de rester au chaud.
+
+So for your house, if the drywall and brick don’t have
+enough thermal resistance to keep the inside cool,
+you can add layers of insulation to up the resistance.
+Donc, pour votre maison, si la cloison sèche et la brique n'ont pas
+assez de résistance thermique pour garder l'intérieur frais,
+vous pouvez ajouter des couches d'isolant pour augmenter la résistance.
+
+That takes care of the heat transfer within the walls,
+but there’s more going on outside of them.
+Cela prend en charge le transfert de chaleur à l'intérieur des murs,
+mais il se passe plus de choses à l'extérieur.
+
+Which brings us to the second method of
+heat transfer:
+Ce qui nous amène à la deuxième méthode de
+transfert de chaleur : la
+
+convection, the transfer of energy by the
+physical movement of a fluid – which in
+engineering, can be a liquid or a gas.
+convection, le transfert d'énergie par le
+mouvement physique d'un fluide - qui, en
+ingénierie, peut être un liquide ou un gaz.
+
+As a fluid moves against or across a surface,
+it can add or take away heat.
+Lorsqu'un fluide se déplace contre ou à travers une surface,
+il peut ajouter ou enlever de la chaleur.
+
+For example, as air heats up, its particles
+spread out, lowering its density.
+Par exemple, lorsque l'air se réchauffe, ses particules se
+dispersent, ce qui réduit sa densité.
+
+That warmer air rises, taking heat energy
+with it, and is replaced by cooler, denser air.
+Cet air plus chaud monte, emportant
+avec lui de l'énergie thermique, et est remplacé par de l'air plus frais et plus dense.
+
+That’s called natural convection, because
+variations in the temperature of the fluid create
+natural movement without any external forces.
+C'est ce qu'on appelle la convection naturelle, car les
+variations de température du fluide créent
+un mouvement naturel sans aucune force extérieure.
+
+There’s also forced convection, where something
+external like a fan or the wind moves the fluid.
+Il y a aussi la convection forcée, où quelque chose d'
+extérieur comme un ventilateur ou le vent déplace le fluide.
+
+Heat transfer by convection actually involves
+some conduction, especially at first.
+Le transfert de chaleur par convection implique en fait une
+certaine conduction, surtout au début.
+
+When the warm outside air comes into contact
+with your house’s walls,
+Lorsque l'air extérieur chaud entre en contact
+avec les murs de votre maison,
+
+it creates the no-slip condition we’ve talked
+about before, where the layer touching the surface
+comes to a stop.
+cela crée la condition antidérapante dont nous avons déjà
+parlé, où la couche touchant la
+surface s'arrête.
+
+Right on top of that, there’s what’s called
+a boundary layer, where the air is moving,
+but slowly.
+Juste au-dessus de cela, il y a ce qu'on appelle
+une couche limite, où l'air se déplace,
+mais lentement.
+
+The lower velocity slows down the rate of
+heat transfer,
+La vitesse inférieure ralentit le taux de
+transfert de chaleur,
+
+creating a thermal boundary layer where
+there’s more conduction between the particles,
+and less convection.
+créant une couche limite thermique où
+il y a plus de conduction entre les particules
+et moins de convection.
+
+Beyond the boundary layer, though, heat transfer
+mostly happens by convection through the faster-moving air.
+Au-delà de la couche limite, cependant, le transfert de chaleur
+se produit principalement par convection à travers l'air qui se déplace plus rapidement.
+
+You can measure how much heat is being transferred
+by convection using what’s known as the convective
+heat transfer coefficient, represented by the letter h.
+Vous pouvez mesurer la quantité de chaleur transférée
+par convection en utilisant ce que l'on appelle le
+coefficient de transfert de chaleur par convection, représenté par la lettre h.
+
+It’s proportional to the thermal conductivity of
+the fluid over the thickness of the boundary layer,
+Il est proportionnel à la conductivité thermique
+du fluide sur l'épaisseur de la couche limite,
+
+which just means that thinner fluids with higher
+thermal conductivity will transfer more heat.
+ce qui signifie simplement que les fluides plus minces avec
+une conductivité thermique plus élevée transféreront plus de chaleur.
+
+Makes sense.
+Logique. 
+
+h also depends on how fast a fluid is moving.
+h dépend également de la vitesse à laquelle un fluide se déplace.
+
+The less a gas moves around, the less heat
+is transferred through convection.
+Moins un gaz se déplace, moins il
+y a de transfert de chaleur par convection.
+
+That’s why windows often have double panes.
+C'est pourquoi les fenêtres ont souvent des doubles vitrages.
+
+The air trapped between the layers of glass
+can’t move very much, reducing the heat transfer.
+L'air emprisonné entre les couches de verre
+ne peut pas beaucoup bouger, ce qui réduit le transfert de chaleur.
+
+So, double-paned windows are probably a good
+idea for your house.
+Ainsi, les fenêtres à double vitrage sont probablement une bonne
+idée pour votre maison.
+
+There’s not much else you can do to minimize the
+effects of convection, since you can’t really control
+what the air does as it moves around outside.
+Vous ne pouvez pas faire grand-chose d'autre pour minimiser les
+effets de la convection, car vous ne pouvez pas vraiment contrôler
+ce que fait l'air lorsqu'il se déplace à l'extérieur.
+
+But you can reduce the effects of the last
+type of heat transfer: radiation.
+Mais vous pouvez réduire les effets du dernier
+type de transfert de chaleur : le rayonnement.
+
+Radiation is the transfer of energy in the
+form of electromagnetic waves –
+Le rayonnement est le transfert d'énergie sous
+forme d'ondes électromagnétiques -
+
+and in this context, we’re talking about
+any electromagnetic waves, not just the
+cancer-causing kind.
+et dans ce contexte, nous parlons de
+toutes les ondes électromagnétiques, pas seulement de celles qui
+causent le cancer.
+
+You feel this radiation every time you walk
+outside and bask in the sun or warm up by a fire.
+Vous ressentez ce rayonnement chaque fois que vous
+sortez et que vous vous prélassez au soleil ou que vous vous réchauffez près d'un feu.
+
+Unlike conduction and convection, radiation
+can happen without any contact between the
+heat source and the object.
+Contrairement à la conduction et à la convection, le rayonnement
+peut se produire sans aucun contact entre la
+source de chaleur et l'objet.
+
+That’s why heat energy from the sun is able
+to reach the earth.
+C'est pourquoi l'énergie thermique du soleil
+peut atteindre la terre.
+
+Reflective coatings can help reduce the heat
+transfer from radiation a little since they absorb
+fewer electromagnetic waves.
+Les revêtements réfléchissants peuvent aider à réduire
+un peu le transfert de chaleur par rayonnement car ils absorbent
+moins d'ondes électromagnétiques.
+
+But when it comes to radiation, where your
+house is will be much more important than
+what it’s made of.
+Mais en ce qui concerne les radiations, l'endroit où se trouve votre
+maison sera beaucoup plus important que
+ce dont elle est faite.
+
+Since the sun will likely be the biggest radiative
+source, you’ll want to build the house somewhere
+it won’t get too much direct sunlight.
+Étant donné que le soleil sera probablement la plus grande
+source radiative, vous voudrez construire la maison à un endroit où
+elle ne recevra pas trop de lumière directe du soleil.
+
+So, there are a lot of factors to consider
+when you’re trying to minimize heat transfer.
+Il y a donc de nombreux facteurs à prendre en compte
+lorsque vous essayez de minimiser le transfert de chaleur.
+
+But with a shady spot, walls with lots of thermal
+resistance, and some double-paned windows,
+Mais avec un endroit ombragé, des murs très
+résistants à la chaleur et des fenêtres à double vitrage,
+
+you should have a pretty comfortable
+place to hang out on your tropical island.
+vous devriez avoir un endroit assez confortable
+pour vous détendre sur votre île tropicale.
+
+So today we learned all about heat transfer
+and the different mechanisms behind it.
+Aujourd'hui, nous avons donc tout appris sur le transfert de chaleur
+et les différents mécanismes qui le sous-tendent.
+
+We started with conduction and learned about
+the thermal conductivity of materials.
+Nous avons commencé par la conduction et appris
+la conductivité thermique des matériaux.
+
+Then we moved on to convection and
+boundary layers, learning that convection
+can be both forced and natural.
+Ensuite, nous sommes passés à la convection et aux
+couches limites, apprenant que la convection
+peut être à la fois forcée et naturelle.
+
+Finally, we covered radiation and how it differs
+from the other two methods in that it doesn’t need
+an intervening medium to transfer heat energy.
+Enfin, nous avons couvert le rayonnement et comment il diffère
+des deux autres méthodes en ce qu'il n'a pas besoin d'
+un milieu intermédiaire pour transférer l'énergie thermique.
+
+Next time we’ll talk all about how we can
+use what we just learned about heat transfer,
+and apply that to heat exchangers.
+La prochaine fois, nous parlerons de la façon dont nous pouvons
+utiliser ce que nous venons d'apprendre sur le transfert de chaleur
+et l'appliquer aux échangeurs de chaleur.
+
+Crash Course Engineering is produced in association
+with PBS Digital Studios.
+Crash Course Engineering est produit en association
+avec PBS Digital Studios.
+
+You can head over to their channel to check
+out a playlist of their latest amazing shows,
+Vous pouvez vous rendre sur leur chaîne pour
+consulter une liste de lecture de leurs dernières émissions incroyables,
+
+like It’s Okay to Be Smart, Above the Noise,
+and Global Weirding with Katharine Hayhoe.
+comme It’s Okay to Be Smart, Above the Noise
+et Global Weirding avec Katharine Hayhoe.
+
+Crash Course is a Complexly production and this
+episode was filmed in the Doctor Cheryl C. Kinney
+Studio with the help of these wonderful people.
+Crash Course est une production de Complexly et cet
+épisode a été filmé dans le studio du docteur Cheryl C. Kinney
+avec l'aide de ces personnes merveilleuses.
+
+And our amazing graphics team is Thought Cafe.
+Et notre incroyable équipe graphique est Thought Cafe.
+

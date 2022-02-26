@@ -1,0 +1,287 @@
+Jusqu'ici vous et moi avons exploré les lois qui gouvernent beaucoup d'objets qui se déplacent.
+
+Mais la physique ce n'est pas juste une histoire de blocs sur des plans inclinées, ou des astronautes flottant dans des Machines à Vomir.
+
+Il y a aussi ...des collisions
+
+Et la physique a beaucoup de choses à dire sur les collisions -- que ce soient deux boules de billard se tapant
+
+l'une contre l'autre, ou ce qui arrive lorsque vous ratez un niveau à Super Mario pour la 47ième fois.
+
+et jetez la manette sur le sol.
+
+Satané lave !
+
+Pour comprendre ce qui se passe quand deux objets entre en collision, nous devrons prendre en compte
+
+deux facteurs principaux : la quantité de mouvement et l'impulsion.
+
+Nous discuterons aussi de ce que les physiciens veulent dire lorsqu'ils parlent de centre de masse, et pourquoi est-ce si important.
+
+Et nous aurons toujours notre viel ami Isaac Newton pour nous aider tout le long.
+
+[Musique d'intro]
+
+Vous vous souvenez de la seconde loi de Newton ?
+
+C'est celle qui dit que la force nette sur un objet est égale à sa masse fois son accélération
+
+Sauf que, ce n'est pas exactement ce que Newton a dit.
+
+En fait, il a dit que quelque chose appelé "quantité de mouvement" était égale à sa masse fois sa vitesse.
+
+Et la force nette est égale à la variation de la masse fois la vitesse dans le temps.
+
+En d'autres mots, c'est la dérivée de la masse fois la vitesse par rapport au temps.
+
+Et si vous calculiez cette dérivée, vous trouveriez que la force nette est simplement égale à la masse fois l'accélération.
+
+Mais exprimer la seconde loi de Newton en terme de masses et de vitesses introduit un aspect
+
+du déplacement dont nous n'avons pas encore discuté.
+
+Newton n'a jamais donné de nom à ce concept, mais nous le ferons: on l'appele quantité de mouvement.
+
+et c'est l'une des choses qui sont plus faciles à observer dans la vie réelle qu'à décrire.
+
+La quantité de mouvement est parfois décrit comme la tendance d'un objet à rester en mouvement, mais d'un point de vue plus technique,
+
+c'est la masse d'un objet fois son accélération.
+
+Comme un sac remplie de feuilles dévalant une colline ? Même si il va très vite
+
+il n'a pas beaucoup de masse donc pas une grande quantité de mouvement, et il ne sera pas trop difficile à arrêter.
+
+Par contre le rocher poursuivant Indiana Jones ? C'est très massif -- par conséquent a une grande quantité de mouvement.
+
+Donc ça devrait être beaucoup plus difficile à arrêter.
+
+Et la quantité de mouvement est l'un des facteurs qui affectent les collisions entre les objets.
+
+Après tout, si un énorme rocher s'écrasait contre un autre gros rocher, ce serait
+
+une collision totalement diférente qu'un sac de feuilles percutant un rocher.
+
+Et l'autre caractéristique d'une collision que l'on considère souvent est connue comme l'impulsion
+
+qui -- en physique en tout cas -- n'a rien à voir avec le contrôle de soi.
+
+Ou pourquoi vous jetez la manette de jeu sur le sol lorsque vous êtes bloqué à un niveau.
+
+En l'impulsion -- souvent représentée par un J -- est l'intégrale de la force nette sur
+
+un objet dans le temps -- en d'autres mots, sa variation de quantité de mouvement.
+
+L'impulsion se révèle un très bon moyen pour décrire des crashes --
+
+parce que très souvent, dans les collisions, les forces varient très rapidement.
+
+Ainsi, si une balle cogne un mur, durant moins d'une seconde, sa force sur
+
+le mur en Newtons est égale au temps, multiplié par 25,  nous dirons que son impulsion vaut 3.1 Newton-secondes.
+
+Maintenant, considérons les différents types de collisions que nous pouvons étudier.
+
+Généralement, les collisions peut être décrites comme élastique ou inélastique.
+
+Et ça va être important de déterminer à laquelle on a affaire, parce que les maths utilisés ne seront pas les mêmes.
+
+Si collisions élastiques sonne bondissant, c'est parce qu'elle le sont.
+
+Comme les systèmes conservatifs dont nous avons parlés la dernière fois, dans les collisions élastiques, l'énergie cinétique n'est ni créée ni détruite.
+
+Par exemple, disons que vous frappez une balle blanche de billard dans une autre, une rouge,
+
+et elles se tapent l'une contre l'autre de la bonne façon.
+
+Pour que ceci soit une collision complètement élastique, toute l'énergie cinétique de la boule blanche
+
+devrait être transférée à la boule rouge.
+
+De telle sorte que, après qu'elles se soient percutées, la boule blanche ne bouge plus, et la rouge, elle,
+
+fonce avec toute l'énergie cinétique -- soit, presque la même vitesse -- que la boule blanche avait précédemment.
+
+Mais vous ne rencontrerez pas de collisions élastiques dans la vie réelle.
+
+Parce que : il y aura toujours de l'énergie perdue quelque part dans une collision,
+
+souvent sous forme de chaleur ou de sons.
+
+Et lorsque l'énergie cinétique n'est pas conservées, c'est une collision inélastique.
+
+Il y a une chose par contre qui sera vraie pour toutes les collisions, qu'elles soient élastiques ou non.
+
+La quantité de mouvement sera toujours conservée.
+
+Elle peut être transférée à un autre objet -- ou même plus d'un objet --
+
+mais la quantité de mouvement va toujours quelque part,
+
+Et nous utiliserons les maths pour découvrir où est-ce qu'elle est partie.
+
+Et on peut utiliser ce que nous savons de l'impulsion -- et la troisième loi de Newton -- afin de le prouver.
+
+La troisième loi est, évidemment, celle qui dit que toute action provoque une réaction opposée et égale.
+
+Et elle s'applique aux collisions dans le sens où, si une balle frappe un mur, elle exerce une force
+
+sur le mur, et le mur exerce une force égale sur la balle en retour.
+
+On peut décrire chacune de ces forces comme des impulsions, puisque une impulsion est simplement
+
+un changement de la quantité de mouvement d'un objet.
+
+Donc, la quantité de mouvement de la balle diminue lorsqu'elle frappe le mur. Par contre, par la troisième
+
+loi de Newton, nous savons que la quantité de mouvement du mur va augmenter de la même quantité.
+
+La variation de quantité de mouvement du mur est peut-être impossible à voir, parce que le mur
+
+est lié au sol, et la Terre est massive. Mais c'est ce qui se passe.
+
+Et ce fait --que la quantité de mouvement est toujours conservée -- s'avère être très utile pour décrire les collisions avec les math.
+
+Comme dans le cas où vous tappez une boule blanche de billard dans une rouge.
+
+Puisque la quantité de mouvement est conservée, et qu'elle vaut la masse fois la vitesse,
+
+le produit masse fois vitesse de la boule blanche avant collision doit être égale au le produit masse-vitesse de la boule blanche plus
+
+celle de la boule rouge, après collision.
+
+C'est pourquoi --en supposant que les boules ont la même masse -- si la boule blanche s'arrête de bouger
+
+après la collision, alors la boule rouge doit se déplacer à la vitesse qu'avait la boule blanche.
+
+Désormais on s'y connait un peu en collisions élastiques et inélastiques.
+
+Mais il existe aussi des collisions parfaitement inélastique, parce que... ça existe.
+
+Et c'est plus facile pour moi de vous dire d'abord, ce qui n'en ait pas.
+
+Alors, ce n'est pas une collision lorsque les objets perdent toutes leur énergie cinétique.
+
+Par contre, une collision parfaitement inélastique c'est quand des objets se collent ensemble.
+
+Ces collisions perdent autant d'énergie cinétique que d'autres formes d'énergie, comme
+
+la chaleur, le son ou même de l'énergie potentielle... mais comme toujours, leur quantité de mouvement est conservée.
+
+Par exemple, si vous poussiez un aimant contre un autre --avec le bon angle
+
+pour qu'ils reste en contact -- et qu'ils commencent à glisser ensemble à
+
+la moitié de la vitesse de l'aimant que vous avez poussé.
+
+Avant la collision, la quantité de mouvement d'un des aimants était zéro, et celle de l'aimant que
+
+vous avez poussé était sa masse fois sa vitesse.
+
+Dès que les aimants se touchent , la masse est doublée, et la vitesse est divisée par deux.
+
+Ainsi, la quantité de mouvement totale reste la même, mais on perd de l'énergie cinétique car la vitesse impliquée est moins élevée.
+
+Voilà les bases du fonctionnement des collisions et leur liens avec la quantité de mouvement pour des déplacements rectiligne.
+
+Mais il y a un détail de plus à explorer pour vraiment comprendre comment les objets se déplacent,
+
+qu'il entre en collision ou non.
+
+Et c'est : le centre de masse.
+
+Jusqu'à maintenant, nous avons considérés les objets comme étant de petites particules.
+
+Et ça marchait bien -- dans la plupart des cas, les objets dont nous avons discuté se comporteraient comme le point le feraient.
+
+Mais bien sûr, tous les objets ne marchent pas comme ça.
+
+Si vous avez déjà essayé de lancer un marteau par exemple -- ce que je ne recommande pas !
+
+-- il ne volerait pas dans l'air de la même manière qu'une balle le ferait, parce que la masse du marteau n'est pas répartie de façon uniforme.
+
+De la même manière, un pendule avec une grande boule accrochée à une corde très fine -- appelé pendule simple --
+
+se comporterait différemment qu'un autre avec une corde plus épaisse -- connu sous le nom de pendule physique.
+
+Dans ces situations, il est plus utile de décrire ce que le centre de masse fait.
+
+Quand vous lancez un marteau par exemple, il tourne autour de son centre de masse.
+
+Donc, qu'est-ce que le centre de masse ?
+
+C'est en fait la position moyenne de toutes les masses dans le système.
+
+Disons que vous avez un bâton de 3 mètres -- faisons comme si il n'avait pas de masse -- avec une balle de 2 kilogrammes à chacune de ses extrémités.
+
+C'est facile de voir où le centre de masse devrait être -- la masse est répartie symétriquement,
+
+donc le centre sera au milieu du bâton.
+
+Maintenant, disons que vous avez un autre bâton de 3 mètres, et à gauche il y a une
+
+balle de 2 kilogrammes, mais à droite, il y a une balle de 4 kilogrammes.
+
+Cette fois, il y a deux fois plus de masse du côté droit du bâton.
+
+Par conséquent, quand vous tenterez de calculer la position moyenne de toutes les masses attachées au bâton,
+
+vous compterez le côté droit comme valant deux fois plus qu'avant.
+
+Ça veut dire que le centre de masse sera au deux tiers du bâton,
+
+proche de la balle de 4 kilogrammes.
+
+C'est comme si chaque masse tirait le centre de masse un petit peu de son côté,
+
+et les masses les plus fortes tiraient plus fort et le rapprochait plus.
+
+Mais, si vous ne voulez pas calculer ça de tête -- et si il y a sept masses à calculer
+
+vous ne le ferez probablement pas -- mais il y a une équation pour ça !
+
+D'abord choisissez un point de départ pour les mesures, où x=0.
+
+Ça peut être une extrémité du bâton, le milieu du bâton, peut importe prenez le plus facile.
+
+Tant que vous vous y teniez.
+
+Ensuite, le centre de masse sera égale à la somme de chaque masse individuelle, fois
+
+sa distance du point de départ, le tout divisé par la masse totale du système.
+
+Essayons ça avec notre bâton pour différentes balles.
+
+Nous choisissons l'extrémité gauche du bâton, là où se trouve la balle de 2 kilogrammes, comme notre point de départ.
+
+La balle de 2 kilogrammes fois sa position donne 0.
+
+La masse de 4 kilogrammes fois sa position -- 3 mètres -- est de 12 kilogrammes-mètres.
+
+Et la masse totale du système est 6 kilogrammes.
+
+Donc, divisez 12 kilogrammes-mètres par 6 kilogrammes, et vous obtenez 2 mètres.
+
+C'st la position du centre de masse, il se situe à 2/3 du baton,
+
+vers le côté de la balle de 4 kilogrammes. Exactement ce que nous avons trouvé plus tôt.
+
+Je vous dis ça parce que à partir de maintenant, nous nous dirigerons vers une toute nouvelle direction.
+
+Littéralement!
+
+Mais, pour l'instant, vous avez appris des choses sur les collisions et comment la quantité de mouvement et l'impulsion peuvent aider à les décrire.
+
+Nous avons aussi discuté de la différence entre les collisions élastiques et inélastiques,
+
+et comment calculer le centre de masse d'un système.
+
+Crash Course Physique est produit en association avec PBS Digital Studios. Vous pouvez vous diriger
+
+vers leur chaîne pour voir des émissions géniales comme Physics Girl, Gross Science, et The Chatterbox.
+
+Cet épisode de Crash Course a été filmé au Doctor Cheryl C. Kinney Crash Course Studio
+
+avec l'aide de toutes ces personnes géniales et
+notre équipe de graphiste est Thought Cafe.
+

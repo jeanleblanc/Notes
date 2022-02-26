@@ -1,0 +1,817 @@
+Sometimes, scientists realize they are doing
+revolutionary work, and the world agrees.
+Parfois, les scientifiques se rendent compte qu'ils font un
+travail révolutionnaire, et le monde est d'accord.
+
+Darwin and Pasteur, for example, were massive
+celebrities.
+Darwin et Pasteur, par exemple, étaient des
+célébrités massives.
+
+Other times, revolutionaries toil quietly
+for decades, leaving behind work that the
+D'autres fois, les révolutionnaires peinent tranquillement
+pendant des décennies, laissant derrière eux un travail que le
+
+rest of us appreciate only much later.
+reste d'entre nous n'apprécie que beaucoup plus tard.
+
+This is the story of Gregor Mendel and the
+birth, loss, and rebirth of classical genetics.
+C'est l'histoire de Gregor Mendel et de la
+naissance, de la perte et de la renaissance de la génétique classique.
+
+[Intro Music Plays]
+[Intro Music Plays]
+
+According to Darwin, organisms have slightly
+different traits, and this slight variation
+Selon Darwin, les organismes ont
+des traits légèrement différents, et cette légère variation
+
+becomes more important over time, as environments
+change and some traits become more useful
+devient plus importante avec le temps, à mesure que les environnements
+changent et que certains traits deviennent plus utiles
+
+than others.
+que d'autres.
+
+Organisms give traits to their descendants.
+Les organismes donnent des traits à leurs descendants.
+
+Over millions of years, new species split
+off as they become so different from their
+Au cours de millions d'années, de nouvelles espèces se sont
+séparées car elles sont devenues si différentes de leurs
+
+ancestral species that they can no longer
+interbreed.
+espèces ancestrales qu'elles ne peuvent plus se
+croiser.
+
+Sounds good!
+Ça a l'air bien! 
+
+But wait, how are traits passed down?
+Mais attendez, comment les traits sont-ils transmis ?
+
+If a tall person marries a short person and
+they have a kid, how likely is that kid to
+Si une personne de grande taille épouse une personne de petite taille et
+qu'elle a un enfant, quelle est la probabilité que cet enfant
+
+be tall, medium, short?
+soit grand, moyen, petit ?
+
+Darwin knew perfectly well that he didn’t
+know.
+Darwin savait parfaitement qu'il ne savait pas
+.
+
+He theorized the general category of thing
+that he thought he should—or someone should—figure
+Il a théorisé la catégorie générale de choses
+qu'il pensait qu'il devrait – ou que quelqu'un devrait –
+
+out.
+comprendre.
+
+He called the hypothetical unit of heredity
+the “pangene.”
+Il a appelé l'unité hypothétique de l'hérédité
+le « pangène ».
+
+This is where we get “gene.”
+C'est là que nous obtenons le "gène".
+
+But Darwin didn’t know what a “gene”
+should look like.
+Mais Darwin ne savait pas à quoi devait ressembler un « gène »
+.
+
+Would there be a gene for “tall” or “short?”
+Y aurait-il un gène pour "grand" ou "petit" ?
+
+Or a bunch of genes that somehow interacted
+to influence height?
+Ou un tas de gènes qui ont interagi d'une manière ou d'une autre
+pour influencer la taille ?
+
+Or was height all a product of what you ate
+as a kid?
+Ou la taille était-elle uniquement le produit de ce que vous mangiez quand vous étiez
+enfant ?
+
+Today, geneticists can answer these questions,
+in part thanks to a contemporary of Darwin’s
+Aujourd'hui, les généticiens peuvent répondre à ces questions,
+en partie grâce à un contemporain de Darwin
+
+who went largely unknown in his day.
+qui est resté largement inconnu à son époque.
+
+Gregor Mendel was born in the Austrian Empire,
+in what is now the Czech Republic, in 1822—the
+Gregor Mendel est né dans l'Empire autrichien,
+dans l'actuelle République tchèque, en 1822, la
+
+same year as Galton and Pasteur.
+même année que Galton et Pasteur.
+
+Mendel’s family were poor farmers.
+La famille de Mendel était composée de paysans pauvres.
+
+He was always interested in growing plants
+and beekeeping.
+Il s'est toujours intéressé à la culture des plantes
+et à l'apiculture.
+
+He went off to college to study philosophy
+and physics at Palacký University.
+Il est allé à l'université pour étudier la philosophie
+et la physique à l'Université Palacký.
+
+There, he studied with an agricultural scientist
+named Johann Karl Nestler who specialized
+Là, il a étudié avec un agronome
+nommé Johann Karl Nestler qui s'est spécialisé
+
+in breeding sheep.
+dans l'élevage de moutons.
+
+But he ultimately became a monk at St. Thomas’s
+Abbey.
+Mais il est finalement devenu moine à l'abbaye Saint-Thomas
+.
+
+Still, that didn’t stop Mendel from studying
+science.
+Pourtant, cela n'a pas empêché Mendel d'étudier les
+sciences.
+
+He asked his abbot for some land to set up
+an experimental garden, specifically to study
+Il a demandé à son abbé un terrain pour mettre en place
+un jardin expérimental, spécifiquement pour étudier
+
+natural variation in English peas.
+la variation naturelle des pois anglais.
+
+And from 1856 to 1863, that’s what Mendel
+did.
+Et de 1856 à 1863, c'est ce que Mendel a
+fait.
+
+ThoughtBubble, show us the wonders of counting
+English peas:
+ThoughtBubble, montrez-nous les merveilles du comptage
+des pois anglais :
+
+Mendel grew and tracked 28,000 plants.
+Mendel a cultivé et suivi 28 000 plants.
+
+He focused on seven traits: seed color, individual
+seed shape, unripe seed pod color, seed pod
+Il s'est concentré sur sept traits : la couleur des
+graines, la forme individuelle des graines, la couleur des gousses non mûres, la
+
+shape, flower color, flower location, and
+plant height.
+forme des gousses, la couleur des fleurs, l'emplacement des fleurs et
+la hauteur de la plante.
+
+Importantly, these traits seemed to be inherited
+independently of each other, which made these
+Il est important de noter que ces traits semblaient être hérités
+indépendamment les uns des autres, ce qui rendait ces
+
+seven traits really useful for doing quantitative,
+or measurement-based, biology.
+sept traits vraiment utiles pour faire de la
+biologie quantitative ou basée sur des mesures.
+
+This work on peas wasn’t that different
+from Darwin’s pigeon breeding: both scientists
+Ce travail sur les pois n'était pas si différent
+de l'élevage de pigeons de Darwin : les deux scientifiques
+
+wanted to see how traits vary over time.
+voulaient voir comment les traits varient dans le temps.
+
+But you can grow more peas, faster, than you
+can pigeons.
+Mais vous pouvez faire pousser plus de pois, plus rapidement, que
+de pigeons.
+
+So, after seven years of carefully tending
+peas, what did my dude conclude?
+Alors, après sept ans à s'occuper soigneusement des
+pois, qu'est-ce que mon mec a conclu ?
+
+Mendel noticed that some characteristics seemed
+to be passed down often, and some tended to
+Mendel a remarqué que certaines caractéristiques
+semblaient être transmises souvent, et certaines avaient tendance à
+
+disappear after only one generation.
+disparaître après une seule génération.
+
+He coined the terms “dominant” and “recessive”
+to describe these traits.
+Il a inventé les termes « dominant » et « récessif »
+pour décrire ces traits.
+
+Putting numbers to his experiments, Mendel
+saw that 1 in 4 pea plants had purebred recessive
+En mettant des chiffres sur ses expériences, Mendel a
+vu qu'un plant de pois sur quatre avait des traits récessifs de race pure
+
+traits.
+.
+
+2 in 4 were hybrids with both recessive and
+dominant traits.
+2 sur 4 étaient des hybrides avec des traits à la fois récessifs et
+dominants.
+
+And 1 in 4 were purebred dominant for the
+traits.
+Et 1 sur 4 était de race pure dominante pour les
+traits.
+
+You can draw this as a square to help visualize
+the “crosses” of the dominant and recessive
+Vous pouvez dessiner cela sous forme de carré pour aider à visualiser
+les "croix" des traits dominants et récessifs
+
+traits.
+.
+
+Mendel also figured out three general claims
+that are now known as the Laws of Menmdelian
+Mendel a également découvert trois affirmations générales
+qui sont maintenant connues sous le nom de lois de l'
+
+Inheritance.
+héritage menmdélien.
+
+The first is the Law of Segregation, which
+states that the genes that control traits
+La première est la loi de ségrégation, qui
+stipule que les gènes qui contrôlent les traits
+
+are distinct.
+sont distincts.
+
+Some of them, anyways.
+Certains d'entre eux, en tout cas.
+
+The second is the Law of Independent Assortment:
+genes that control different traits switch
+La seconde est la loi de l'assortiment indépendant : les
+gènes qui contrôlent différents traits
+
+around when organisms breed.
+changent lorsque les organismes se reproduisent.
+
+Changing a pea’s seed color in breeding,
+say, doesn’t seem to change its height.
+Changer la couleur des graines d'un pois lors de l'élevage, par
+exemple, ne semble pas changer sa hauteur.
+
+And the third Mendelian law is that of Dominance:
+some traits are dominant, and others recessive.
+Et la troisième loi mendélienne est celle de la dominance :
+certains traits sont dominants, et d'autres récessifs.
+
+Thanks Thoughtbubble.
+Merci Bulle de Pensée.
+
+Mendel shared his pea results in a paper called
+“Experiments on Plant Hybridization” in
+Mendel a partagé ses résultats sur les pois dans un article intitulé
+"Experiments on Plant Hybridization" en
+
+1865.
+1865.
+
+And Mendel corresponded with the influential
+Swiss botanist Carl Nägeli from 1866 to 1873.
+Et Mendel a correspondu avec l'influent
+botaniste suisse Carl Nägeli de 1866 à 1873.
+
+Boom!
+Boom !
+
+Within one decade of Darwin's Origin, Wallace’s
+Malay Archipelago, Galton’s Hereditary Genius,
+Moins d'une décennie après l'origine de Darwin, l'
+archipel malais de Wallace, le génie héréditaire de Galton
+
+and Pasteur’s experiments on biogenesis—Mendel
+had created a quantitative genetics.
+et les expériences de Pasteur sur la biogenèse, Mendel
+avait créé une génétique quantitative.
+
+And yet… nobody cared.
+Et pourtant… personne ne s'en souciait.
+
+Why the eclipse of poor Gregor?
+Pourquoi l'éclipse du pauvre Gregor ?
+
+First of all, Mendel himself didn’t care,
+in the big-picture sense.
+Tout d'abord, Mendel lui-même s'en fichait,
+au sens large.
+
+His goal had been to improve plant breeding.
+Son objectif était d'améliorer la sélection végétale.
+
+In no way was he trying to be like Chuck Darwin
+and promote a grand theory of Life.
+Il n'essayait en aucun cas d'être comme Chuck Darwin
+et de promouvoir une grande théorie de la vie.
+
+Second, Mendel was so isolated in a backwater
+abbey in eastern Europe, far from London or
+Deuxièmement, Mendel était tellement isolé dans une abbaye reculée d'
+Europe de l'Est, loin de Londres ou de
+
+Paris.
+Paris.
+
+Third, Mendel just had super bad luck: he
+tried to reproduce the results of his pea
+Troisièmement, Mendel a juste eu une super malchance : il a
+essayé de reproduire les résultats de ses
+
+experiments—because, you know, the scientific
+method.
+expériences sur les pois – à cause, vous savez, de la
+méthode scientifique.
+
+But his second model plant was hawkweed.
+Mais sa deuxième plante modèle était l'épervière.
+
+No one knew at the time, but unlike humans
+and mice and flies and peas, hawkweed reproduces
+Personne ne le savait à l'époque, mais contrairement aux humains
+, aux souris, aux mouches et aux pois, l'épervière se reproduit de
+
+asexually.
+manière asexuée.
+
+Two parents don’t neatly cross traits when
+they make offspring.
+Deux parents ne croisent pas parfaitement les traits
+lorsqu'ils font une progéniture.
+
+So, no Mendelian recessive and dominant traits.
+Donc, pas de traits mendéliens récessifs et dominants.
+
+No square.
+Pas de carré.
+
+Fourth, right after his hawkweed debacle,
+Mendel got promoted to abbot in 1868.
+Quatrièmement, juste après sa débâcle de l'épervière,
+Mendel a été promu abbé en 1868.
+
+This sidelined him with administrative duties.
+Cela l'a écarté des tâches administratives.
+
+Mendel didn’t publish after that, and he
+wasn’t part of a larger scientific debate
+Mendel n'a pas publié après cela, et il
+ne faisait pas partie d'un débat scientifique plus large
+
+about heredity.
+sur l'hérédité.
+
+He was just too busy to write a book like
+Origin.
+Il était tout simplement trop occupé pour écrire un livre comme
+Origin.
+
+He had an abbey to run.
+Il avait une abbaye à diriger.
+
+And fifth and finally, Mendel was scientifically
+so far ahead of his time that other biologists
+Et cinquièmement et enfin, Mendel était scientifiquement
+tellement en avance sur son temps que d'autres biologistes
+
+didn’t see how his work with peas related
+to the grand sweep of evolution.
+n'ont pas vu comment son travail avec les pois était lié
+au grand balayage de l'évolution.
+
+It just wasn’t obvious.
+Ce n'était tout simplement pas évident.
+
+So Mendel died, and genetics was lost.
+Alors Mendel est mort et la génétique a été perdue.
+
+For a few decades.
+Depuis quelques décennies.
+
+Who rediscovered Mendel?
+Qui a retrouvé Mendel ?
+
+Who didn’t!?
+Qui ne l'a pas fait ?
+
+Right around 1900, four different researchers
+working on the heritability of traits independently
+Vers 1900, quatre chercheurs différents
+travaillant sur l'héritabilité des traits ont
+
+read Mendel’s landmark paper and understood
+just how critical his pea experiments had
+lu indépendamment l'article historique de Mendel et ont compris
+à quel point ses expériences sur les pois avaient
+
+been.
+été essentielles.
+
+They became champions of “Mendelism,”
+or the science of heredity, which was soon
+Ils sont devenus les champions du «mendélisme»,
+ou la science de l'hérédité, bientôt
+
+renamed genetics.
+rebaptisée génétique.
+
+The rediscovery of Mendel’s research led
+to the formulation of a specific research
+La redécouverte des recherches de Mendel a conduit
+à la formulation d'un
+
+plan by these geneticists.
+plan de recherche spécifique par ces généticiens.
+
+In 1900, Dutch botanist Hugo de Vries rediscovered
+Mendel’s isolation of traits.
+En 1900, le botaniste néerlandais Hugo de Vries a redécouvert
+l'isolement des traits de Mendel.
+
+De Vries was already a famous biologist for
+popularizing Darwin’s term “pangene”
+De Vries était déjà un biologiste célèbre pour avoir
+popularisé le terme « pangène » de Darwin
+
+for the unit of heredity, and for coming up
+with the term “mutation.”
+pour l'unité d'hérédité et pour avoir
+inventé le terme « mutation ».
+
+De Vries rejected the gradual blending of
+characteristics that others argued for.
+De Vries a rejeté le mélange progressif des
+caractéristiques que d'autres préconisaient.
+
+He thought traits could jump around, because
+he could observe changes in his evening primroses
+Il pensait que les traits pouvaient sauter, car
+il pouvait observer des changements dans ses primevères du soir
+
+after only one generation.
+après seulement une génération.
+
+Also in 1900, German botanist Carl Correns
+rediscovered Mendel.
+Toujours en 1900, le botaniste allemand Carl Correns a
+redécouvert Mendel.
+
+Correns had been a student of Mendel’s famous
+colleague, Nägeli.
+Correns avait été l'élève du célèbre collègue de Mendel
+, Nägeli.
+
+Also–also in 1900, Austrian agronomist Erich
+von Tschermak rediscovered Mendel and developed
+Toujours en 1900, l'agronome autrichien Erich
+von Tschermak redécouvre Mendel et développe
+
+disease-resistant hybrid crops.
+des cultures hybrides résistantes aux maladies.
+
+And then in 1901, American economist William
+Jasper Spillman published his own independent
+Et puis en 1901, l'économiste américain William
+Jasper Spillman a publié son propre
+
+high-fiving of Mendel in a paper called “Quantitative
+Studies on the Transmission of Parental Characters
+high-five indépendant de Mendel dans un article intitulé "
+Études quantitatives sur la transmission des caractères parentaux
+
+to Hybrid Offspring.”
+à la progéniture hybride".
+
+Which pretty much sums up classical genetics.
+Ce qui résume à peu près la génétique classique.
+
+Just think about these events: one monk who
+loved gardening worked out how traits are
+Pensez à ces événements : un moine qui
+aimait le jardinage a découvert comment les traits sont
+
+passed on in living things.
+transmis aux êtres vivants.
+
+No one cared.
+Personne ne s'en souciait.
+
+And then decades later, in the span of a single
+year, four separate researchers realized that
+Et puis des décennies plus tard, en l'espace d'une seule
+année, quatre chercheurs distincts ont réalisé que
+
+this monk’s data on peas was absolutely
+priceless.
+les données de ce moine sur les pois étaient absolument
+inestimables.
+
+Retroactively, Mendel became the “father”
+of genetics.
+Rétroactivement, Mendel est devenu le « père »
+de la génétique.
+
+Historians of biology have debated exactly
+how Mendel well really fits that title.
+Les historiens de la biologie ont débattu de la
+manière dont Mendel correspond vraiment à ce titre.
+
+But, overall, his legacy was secured by de
+Vries and his contemporaries.
+Mais, dans l'ensemble, son héritage a été assuré par de
+Vries et ses contemporains.
+
+The work of the first geneticists also gave
+rise to a controversy in the life sciences.
+Les travaux des premiers généticiens ont également
+suscité une polémique dans les sciences de la vie.
+
+On the one hand, those scientists who followed
+Darwin and Galton believed that traits blended
+D'une part, les scientifiques qui ont suivi
+Darwin et Galton croyaient que les traits se mélangeaient en
+
+smoothly.
+douceur.
+
+This is what Galton saw in human populations.
+C'est ce que Galton a vu dans les populations humaines.
+
+On the other hand, the geneticists like de
+Vries had extensive hands-on experience with
+D'un autre côté, les généticiens comme de
+Vries avaient une vaste expérience pratique de
+
+plant breeding and could see that Mendel was
+right: many traits jump around from generation
+la sélection végétale et pouvaient voir que Mendel avait
+raison : de nombreux traits sautent de génération
+
+to generation.
+en génération.
+
+But the botanists didn’t make Mendel a famous
+science hero: the Fly Boys did.
+Mais les botanistes n'ont pas fait de Mendel un
+héros scientifique célèbre : les Fly Boys l'ont fait.
+
+In the 1910s, a group at Columbia University
+in New York led by Thomas Hunt Morgan conducted
+Dans les années 1910, un groupe de l'Université de Columbia
+à New York dirigé par Thomas Hunt Morgan a mené
+
+extensive experiments on the genetics of fruit
+flies.
+des expériences approfondies sur la génétique des
+mouches des fruits.
+
+The scientists at Columbia’s Fly Room researched
+mutations in the common fruit fly, Drosophila
+Les scientifiques de la Fly Room de Columbia ont recherché des
+mutations chez la mouche commune des fruits, Drosophila
+
+melanogaster.
+melanogaster.
+
+One of Morgan’s star student’s, Alfred
+“Hot Dog” Sturtevant, pioneered genetic
+L'un des étudiants vedettes de Morgan, Alfred
+"Hot Dog" Sturtevant, a été le pionnier des
+
+linkage maps, or ways of finding the locations
+of genes on chromosomes, the tubelike physical
+cartes de liaison génétique, ou des moyens de trouver l'emplacement
+des gènes sur les chromosomes, les structures physiques en forme de tube
+
+structures that store genetic material.
+qui stockent le matériel génétique.
+
+This involved painstakingly breeding flies
+with two different mutations and comparing
+Cela impliquait de reproduire minutieusement des mouches
+avec deux mutations différentes et de comparer
+
+their chromosomes.
+leurs chromosomes.
+
+Linkage maps are markers of order—of which
+genes come after which—not exact locations.
+Les cartes de liaison sont des marqueurs d'ordre - dont les
+gènes viennent après lesquels - et non des emplacements exacts.
+
+But they were still very useful in working
+out how traits are passed down.
+Mais ils étaient toujours très utiles
+pour déterminer comment les traits sont transmis.
+
+With many, many, gross experiments going on,
+the Fly Room researchers needed a lot of flies.
+Avec de nombreuses expériences grossières en cours,
+les chercheurs de Fly Room avaient besoin de beaucoup de mouches.
+
+They also had to develop standardized breeding
+practices.
+Ils ont également dû développer des
+pratiques d'élevage standardisées.
+
+Over many fly generations, they “reconstructed”
+their flies into a standard type that could
+Au cours de nombreuses générations de mouches, ils ont "reconstruit"
+leurs mouches en un type standard qui pouvait
+
+be crossed with stable mutants.
+être croisé avec des mutants stables.
+
+This became the first real model organism,
+a living laboratory technology that could
+C'est devenu le premier véritable organisme modèle,
+une technologie de laboratoire vivant qui pouvait
+
+be shared with distant colleagues, upgraded
+to surpass rivals, customized on demand, and
+être partagée avec des collègues éloignés, mise
+à niveau pour surpasser ses rivaux, personnalisée à la demande
+
+re-made easily in case of emergency.
+et refaite facilement en cas d'urgence.
+
+Today, we have many other model organisms,
+including worms, mice, rats, rabbits, pigs,
+Aujourd'hui, nous avons de nombreux autres organismes modèles,
+notamment des vers, des souris, des rats, des lapins, des cochons, des
+
+monkeys, and everyone’s favorite, bread
+mold.
+singes et la moisissure du pain préférée de tous
+.
+
+Three of the Fly Guys authored The Mechanism
+of Mendelian Heredity in 1915, which became
+Three of the Fly Guys a écrit The Mechanism
+of Mendelian Heredity en 1915, qui est devenu
+
+the foundational textbook of classical genetics.
+le manuel fondamental de la génétique classique.
+
+And Morgan won the Nobel Prize in Physiology
+or Medicine in 1933 for his lab’s work on
+Et Morgan a remporté le prix Nobel de physiologie
+ou médecine en 1933 pour les travaux de son laboratoire sur
+
+the role that chromosomes play in heredity.
+le rôle que jouent les chromosomes dans l'hérédité.
+
+But the Nobelist who did the most work on
+how chromosomes transmit genetic information—in
+Mais le prix Nobel qui a le plus travaillé sur la
+façon dont les chromosomes transmettent l'information génétique - dans
+
+an organism with way more chromosomes than
+fruit flies—was American geneticist Barbara
+un organisme avec beaucoup plus de chromosomes que
+les mouches des fruits - était la généticienne américaine Barbara
+
+McClintock.
+McClintock.
+
+In the 1920s, she discovered how genes combine—and
+thus how information is exchanged when cells
+Dans les années 1920, elle a découvert comment les gènes se combinent et
+donc comment les informations sont échangées lorsque les cellules se
+
+divide.
+divisent.
+
+She produced the first genetic map for corn
+or maize, linking regions of the chromosome
+Elle a produit la première carte génétique du maïs
+ou du maïs, reliant les régions du chromosome
+
+to physical traits.
+à des traits physiques.
+
+Then, in the 1940s and 50s, McClintock discovered
+transposition of genes, or the ability of
+Puis, dans les années 40 et 50, McClintock a découvert la
+transposition des gènes, ou la capacité des
+
+genes to change position on chromosomes.
+gènes à changer de position sur les chromosomes.
+
+She worked out how genes are responsible for
+turning physical characteristics on and off.
+Elle a découvert comment les gènes sont responsables de l'
+activation et de la désactivation des caractéristiques physiques.
+
+She explained color variation in corn, theorizing
+how genetic information is expressed across
+Elle a expliqué la variation de couleur du maïs, théorisant
+comment l'information génétique est exprimée à travers les
+
+generations, including why it’s sometimes
+suppressed.
+générations, y compris pourquoi elle est parfois
+supprimée.
+
+And yet McClintock stopped publishing her
+data in 1953 due to her colleagues’ skepticism.
+Et pourtant, McClintock a cessé de publier ses
+données en 1953 en raison du scepticisme de ses collègues.
+
+She was too far ahead of her time.
+Elle était trop en avance sur son temps.
+
+Basically, she got Mendeled.
+En gros, elle a eu Mendeled.
+
+But at least McClintock was awarded the Nobel
+in Physiology or Medicine in 1983—four decades
+Mais au moins McClintock a reçu le prix Nobel
+de physiologie ou médecine en 1983, quatre décennies
+
+later—for her discovery of jumping genes.
+plus tard, pour sa découverte des gènes sauteurs.
+
+She remains the only woman to receive an unshared
+Nobel Prize in that category.
+Elle reste la seule femme à recevoir un prix Nobel non partagé
+dans cette catégorie.
+
+Next time—we’ll heat things up and get
+to work with the birth of thermodynamics!
+La prochaine fois, nous chaufferons les choses et nous mettrons
+au travail avec la naissance de la thermodynamique !
+
+Crash Course History of Science is filmed
+in the Dr. Cheryl C. Kinney studio in Missoula,
+Crash Course History of Science est filmé
+dans le studio du Dr Cheryl C. Kinney à Missoula,
+
+Montana and it’s made with the help of all
+this nice people and our animation team is
+Montana et il est réalisé avec l'aide de toutes
+ces personnes sympathiques et notre équipe d'animation est
+
+Thought Cafe.
+Thought Cafe.
+
+Crash Course is a Complexly production.
+Crash Course est une production complexe.
+
+If you wanna keep imagining the world complexly
+with us, you can check out some of our other
+Si vous voulez continuer à imaginer le monde de manière complexe
+avec nous, vous pouvez consulter certaines de nos autres
+
+channels like Scishow, Eons, and Sexplanations.
+chaînes comme Scishow, Eons et Sexplanations.
+
+And, if you’d like to keep Crash Course
+free for everybody, forever, you can support
+Et, si vous souhaitez que Crash Course reste
+gratuit pour tout le monde, pour toujours, vous pouvez soutenir
+
+the series at Patreon; a crowdfunding platform
+that allows you to support the content you
+la série sur Patreon ;  une plateforme de financement participatif
+qui vous permet de soutenir le contenu que vous
+
+love.
+aimez.
+
+Thank you to all of our patrons for making
+Crash Course possible with their continued
+Merci à tous nos mécènes d'avoir rendu
+Crash Course possible grâce à leur
+
+support.
+soutien continu.
+

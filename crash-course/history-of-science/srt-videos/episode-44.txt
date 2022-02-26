@@ -1,0 +1,876 @@
+Last time, we asked some big questions about
+the future of computing and artificial intelligence.
+La dernière fois, nous avons posé de grandes questions sur
+l'avenir de l'informatique et de l'intelligence artificielle.
+
+Today, we’re going to ask about the life
+sciences, medicine, and the brain.
+Aujourd'hui, nous allons poser des questions sur les
+sciences de la vie, la médecine et le cerveau.
+
+Like what happens when medicine shifts from
+treating illness to preventing it, and then
+Par exemple, que se passe-t-il lorsque la médecine passe du
+traitement de la maladie à sa prévention, puis
+
+to a whole new terrain: enhancing life and
+longevity?
+à un tout nouveau terrain : améliorer la vie et la
+longévité ?
+
+What happens when life itself becomes a technology?
+Que se passe-t-il lorsque la vie elle-même devient une technologie ?
+
+Something increasingly cheap and fast to redesign?
+Quelque chose de plus en plus bon marché et rapide à reconcevoir ?
+
+And why has mapping DNA been easier than mapping
+our brains?
+Et pourquoi la cartographie de l'ADN a-t-elle été plus facile que la cartographie de
+notre cerveau ?
+
+[Intro Music Plays]
+[Intro Music Plays]
+
+When we last left medicine, giant companies
+had commercialized pills that targeted specific
+Lorsque nous avons quitté la médecine pour la dernière fois, des entreprises géantes
+avaient commercialisé des pilules ciblant des
+
+physiological systems.
+systèmes physiologiques spécifiques.
+
+And the human genome was decoded!
+Et le génome humain a été décodé !
+
+But the links between particular alleles,
+or versions of genes, and specific diseases—like
+Mais les liens entre des allèles particuliers,
+ou des versions de gènes, et des maladies spécifiques – comme les
+
+cancers, immune diseases, or psychiatric disorders—remained
+to be proven.
+cancers, les maladies immunitaires ou les troubles psychiatriques – restaient
+à prouver.
+
+So in the 1990s, scientists began developing
+cheaper, faster, more robust genetic tests
+Ainsi, dans les années 1990, les scientifiques ont commencé à développer
+des tests génétiques moins chers, plus rapides et plus robustes
+
+for well-known genes linked to disease.
+pour des gènes bien connus liés à la maladie.
+
+This has given rise to a new way of associating
+with each other, based on shared molecules—biosociality.
+Cela a donné naissance à une nouvelle façon de s'associer
+les uns aux autres, basée sur des molécules partagées : la biosocialité.
+
+Nowadays, for example, many women with a family
+history of breast cancer get tested to see
+De nos jours, par exemple, de nombreuses femmes ayant des
+antécédents familiaux de cancer du sein se font tester pour voir
+
+what version they have of two genes called
+BRCA1 and BRCA2.
+quelle version elles ont de deux gènes appelés
+BRCA1 et BRCA2.
+
+Communities have formed around people who
+have the versions of these genes that make
+Des communautés se sont formées autour de personnes qui
+possèdent les versions de ces gènes qui rendent une
+
+someone much more likely
+personne beaucoup plus susceptible
+
+to develop breast or ovarian cancer later
+in life.
+de développer un cancer du sein ou de l'ovaire plus tard
+dans la vie.
+
+There was a big fight over whether a private
+company called Myriad Genetics
+Il y a eu une grande bataille pour savoir si une
+société privée appelée Myriad Genetics
+
+could patent the natural DNA tied to these
+genes.
+pouvait breveter l'ADN naturel lié à ces
+gènes.
+
+But the Supreme Court ruled in 2013 that they
+couldn’t patent the natural DNA,
+Mais la Cour suprême a statué en 2013 qu'ils
+ne pouvaient pas breveter l'ADN naturel,
+
+or anything invented by evolution.
+ou quoi que ce soit inventé par l'évolution.
+
+Genetic testing has helped with the early
+diagnosis of thousands of cases of cancer.
+Les tests génétiques ont aidé au
+diagnostic précoce de milliers de cas de cancer.
+
+Some medical researchers have experimented
+with genetic therapies.
+Certains chercheurs en médecine ont expérimenté
+des thérapies génétiques.
+
+These would involve replacing a region of
+DNA giving rise to a disease with a doctor-designed
+Celles-ci impliqueraient de remplacer une région d'
+ADN à l'origine d'une maladie par un
+
+“therapeutic gene.”
+«gène thérapeutique» conçu par un médecin.
+
+Basically, patients’ genes get taken out,
+changed, and put back in.
+Fondamentalement, les gènes des patients sont retirés,
+modifiés et réinsérés.
+
+In 1990, the first genetic therapy temporarily
+corrected an immune system disorder.
+En 1990, la première thérapie génique
+corrige temporairement un trouble du système immunitaire.
+
+Other trials followed.
+D'autres essais ont suivi.
+
+But in 1999, Jesse Gelsinger, a young man
+with a rare genetic liver disease, died four
+Mais en 1999, Jesse Gelsinger, un jeune homme
+atteint d'une maladie génétique rare du foie, est décédé quatre
+
+days after receiving a genetic therapy.
+jours après avoir reçu une thérapie génique.
+
+This had a chilling effect on the field for
+years, although research continues.
+Cela a eu un effet dissuasif sur le terrain pendant des
+années, bien que les recherches se poursuivent.
+
+Genetic therapies points toward an even bigger
+promise—of personalized medicine.
+Les thérapies génétiques pointent vers une promesse encore plus grande
+: la médecine personnalisée.
+
+We don’t have it yet, but many companies
+are winning investors on the promise that
+Nous ne l'avons pas encore, mais de nombreuses
+entreprises gagnent des investisseurs sur la promesse que
+
+we will soon.
+nous le ferons bientôt.
+
+In this new regime, each patient will have
+care tailored to her individual genome, and
+Dans ce nouveau régime, chaque patiente bénéficiera de
+soins adaptés à son génome individuel, et
+
+more.
+plus encore.
+
+First, we need more basic science in human
+genomics and several other fields—including
+Premièrement, nous avons besoin de plus de science fondamentale en
+génomique humaine et dans plusieurs autres domaines, y compris la
+
+transcriptomics,
+transcriptomique,
+
+or how regions of DNA are copied into little
+strands of RNA, and what effects those have.
+ou comment les régions d'ADN sont copiées dans de petits
+brins d'ARN, et quels effets cela a.
+
+Then there’s proteomics, or how proteins
+fold together, which affects how they work.
+Ensuite, il y a la protéomique, ou la façon dont les protéines se
+replient, ce qui affecte leur fonctionnement.
+
+Then there’s metabolomics, or how energy
+moves around inside and outside of cells,
+Ensuite, il y a la métabolomique, ou comment l'énergie
+se déplace à l'intérieur et à l'extérieur des cellules, à
+
+through fats, sugars, and acids.
+travers les graisses, les sucres et les acides.
+
+Collectively, these are called - wait for
+it - … omics—the total study of life at
+Collectivement, ceux-ci sont appelés - attendez-
+le - … omiques - l'étude totale de la vie
+
+the scale smaller than the cell.
+à une échelle plus petite que la cellule.
+
+But even with more information, engineering
+life using twentieth-century technology
+Mais même avec plus d'informations, l'ingénierie de la
+vie utilisant la technologie du XXe siècle
+
+still meant painstakingly creating new synthetic
+DNA parts and proteins by hand,
+signifiait toujours créer minutieusement de nouvelles
+parties d'ADN synthétique et de nouvelles protéines à la main,
+
+and testing over and over again to find the
+rare successful result.
+et tester encore et encore pour trouver le
+rare résultat réussi.
+
+Plus, the vast majority of diseases are linked
+to many genes—so changing anything means
+De plus, la grande majorité des maladies sont liées
+à de nombreux gènes. Changer quoi que ce soit signifie donc
+
+making not one, but several stable edits.
+faire non pas une, mais plusieurs modifications stables.
+
+And every edit increases the chances that
+something is changed elsewhere—an off-target
+Et chaque modification augmente les chances que
+quelque chose soit modifié ailleurs - un effet hors cible
+
+effect.
+.
+
+Which is potentially really bad.
+Ce qui est potentiellement très mauvais.
+
+What was needed was a way to edit not single
+regions of a genome, but many regions, with
+Ce qu'il fallait, c'était un moyen de modifier non pas des
+régions uniques d'un génome, mais de nombreuses régions, avec
+
+less likelihood of off-target effects.
+moins de probabilité d'effets hors cible.
+
+Enter the “technology of the century”
+and one of the most valuable suites of patents
+Entrez dans la « technologie du siècle »
+et l'une des suites de brevets les plus précieuses de
+
+on the planet: clustered regularly interspaced
+palindromic repeats.
+la planète :
+des répétitions palindromiques régulièrement espacées.
+
+Which just… rolls right off the tongue.
+Qui juste… roule sur la langue.
+
+Hence why everyone calls this system CRISPR.
+C'est pourquoi tout le monde appelle ce système CRISPR.
+
+CRISPR isn’t free or one-hundred-percent
+perfect.
+CRISPR n'est pas gratuit ou parfait à cent pour cent
+.
+
+But it’s the most efficient way to edit
+genes right now, and it may revolutionize
+Mais c'est le moyen le plus efficace d'éditer des
+gènes à l'heure actuelle, et cela pourrait révolutionner la
+
+medicine and agriculture.
+médecine et l'agriculture.
+
+Who “invented” CRISPR?
+Qui a « inventé » CRISPR ?
+
+Our little buddies, bacteria!
+Nos petits copains, les bactéries !
+
+And archaea, bacteria’s weird uncle.
+Et les archées, l'oncle bizarre des bactéries.
+
+Many microbes use CRISPR to keep a list of
+viruses that can kill them by putting the
+De nombreux microbes utilisent CRISPR pour conserver une liste de
+virus qui peuvent les tuer en mettant le
+
+bad DNA in between repeated palindromes.
+mauvais ADN entre des palindromes répétés.
+
+It’s sort of like a police directory of
+prior arrests: when a virus enters the microbe’s
+C'est un peu comme un répertoire policier des
+arrestations antérieures : lorsqu'un virus pénètre dans la cellule du microbe
+
+cell,
+,
+
+if it’s recognized as being on the list,
+s'il est reconnu comme étant sur la liste,
+
+a CRISPR-associated protein cuts up the virus.
+une protéine associée à CRISPR découpe le virus.
+
+And the system is a good editor: it reads
+for specific DNA sequences and only cuts these.
+Et le système est un bon éditeur : il lit
+des séquences d'ADN spécifiques et ne coupe que celles-ci.
+
+ThoughtBubble, show us more:
+ThoughtBubble, montrez-nous plus :
+
+Spanish microbiologist Francisco Mojica first
+published about this system in 1993.
+le microbiologiste espagnol Francisco Mojica a
+publié pour la première fois sur ce système en 1993.
+
+But back then, he saw a bunch of repeated
+segments of DNA with weird other DNA in between.
+Mais à l'époque, il a vu un tas de
+segments répétés d'ADN avec d'étranges autres ADN entre les deux.
+
+He didn’t know what it meant, and it wasn’t
+major news.
+Il ne savait pas ce que cela signifiait, et ce n'était pas une
+grande nouvelle.
+
+But Mojica didn’t give up.
+Mais Mojica n'a pas abandonné.
+
+In 2003, after a long decade of clever bioinformatic
+work,
+En 2003, après une longue décennie de travaux bioinformatiques intelligents
+,
+
+Mojica realized that CRISPR must be an adaptive
+immune system—
+Mojica s'est rendu compte que CRISPR devait être un système
+immunitaire adaptatif -
+
+a way for microbes to protect themselves against
+viruses.
+un moyen pour les microbes de se protéger contre les
+virus.
+
+But on its own, in nature, CRISPR didn’t
+help humans.
+Mais à lui seul, dans la nature, CRISPR n'a pas
+aidé les humains.
+
+In fact, when Mojica submitted his discovery
+to the scientific journal, Nature, they rejected
+En fait, lorsque Mojica a soumis sa découverte
+à la revue scientifique Nature, ils l'ont
+
+it!
+rejetée !
+
+CRISPR had to be transformed into a tool.
+CRISPR devait être transformé en un outil.
+
+There were lots of steps and scientists involved.
+Il y avait beaucoup d'étapes et de scientifiques impliqués.
+
+First, scientists had to move beyond finding
+the palindromic repeats in different microbes
+Premièrement, les scientifiques ont dû aller au-delà de la recherche
+des répétitions palindromiques dans différents microbes
+
+to understanding how the whole system worked:
+pour comprendre comment l'ensemble du système fonctionnait :
+
+what told the cutting protein where to cut?
+qu'est-ce qui disait à la protéine de coupe où couper ?
+
+How could the system be reprogrammed?
+Comment le système pourrait-il être reprogrammé ?
+
+Swiss microbiologist Emmanuelle Charpentier
+and German microbiologist Jörg Vogel
+La microbiologiste suisse Emmanuelle Charpentier
+et le microbiologiste allemand Jörg Vogel
+
+figured out that a special piece of nucleic
+acid called a guide RNA tells the cutting
+ont découvert qu'un morceau spécial d'
+acide nucléique appelé ARN guide dit à la
+
+Cas9 protein to cut DNA at the right place.
+protéine Cas9 coupante de couper l'ADN au bon endroit.
+
+Other scientists worked out how to move a
+whole system that evolved in microbes into
+D'autres scientifiques ont découvert comment déplacer
+tout un système qui évoluait dans les microbes dans
+
+the cells of mice and humans—
+les cellules de souris et d'humains -
+
+a whole system of genes, tracer RNAs, and
+proteins.
+tout un système de gènes, d'ARN traceurs et de
+protéines.
+
+In 2011,
+En 2011,
+
+Charpentier met American structural biologist
+Jennifer Doudna,
+Charpentier rencontre la biologiste structurale américaine
+Jennifer Doudna,
+
+and they decided to collaborate on studying
+synthetic CRISPR systems, outside of microbes.
+et ils décident de collaborer sur l'étude
+des systèmes CRISPR synthétiques, en dehors des microbes.
+
+Meanwhile, in Cambridge, Massachusetts, Chinese-American
+molecular biologist Feng Zhang
+Pendant ce temps, à Cambridge, dans le Massachusetts, le biologiste moléculaire sino-américain
+Feng Zhang
+
+and synthetic biologist George Church worked
+on putting CRISPR systems into mammalian cells.
+et le biologiste synthétique George Church ont travaillé
+sur l'intégration de systèmes CRISPR dans des cellules de mammifères.
+
+For example, Zhang made mouse models of human
+disease using CRISPR.
+Par exemple, Zhang a créé des modèles murins de maladies humaines à l'
+aide de CRISPR.
+
+Within fewer than ten years, CRISPR had gone
+from a cool immune system for microbes to
+En moins de dix ans, CRISPR était passé
+d'un système immunitaire cool pour les microbes à
+
+the hot new tool in biology.
+un nouvel outil en vogue en biologie.
+
+Thanks, ThoughtBubble.
+Merci, Bulle de Pensée.
+
+In the wake of transforming CRISPR from a
+microbial trick into a tool for the future
+Dans le sillage de la transformation de CRISPR d'une
+astuce microbienne en un outil pour l'avenir
+
+of biology,
+de la biologie,
+
+Doudna and Charpentier filed patents through
+their universities, to work with their companies…
+Doudna et Charpentier ont déposé des brevets par l'intermédiaire de
+leurs universités, pour travailler avec leurs entreprises
+
+and so did Zhang and Church, for their companies.
+… tout comme Zhang et Church, pour leurs entreprises.
+
+These biologists are academics, but they are
+also entrepreneurs.
+Ces biologistes sont des universitaires, mais ils sont
+aussi des entrepreneurs.
+
+So, why is CRISPR such a big deal?
+Alors, pourquoi CRISPR est-il si important ?
+
+Instead of part-by-part steps, each likely
+to fail, CRISPR enables a whole solution to
+Au lieu d'étapes étape par étape, chacune susceptible
+d'échouer, CRISPR permet de programmer une solution complète
+
+be programmed at once.
+en une seule fois.
+
+It’s not super simple, but it’s simpler
+than what came before.
+Ce n'est pas super simple, mais c'est plus simple
+qu'avant.
+
+Proposed applications include precision medicine
+as well as a new Green Revolution:
+Les applications proposées incluent la médecine de précision
+ainsi qu'une nouvelle révolution verte :
+
+imagine staple crops edited to put their own
+nitrogen into the ground.
+imaginez des cultures de base modifiées pour mettre leur propre
+azote dans le sol.
+
+Or to breathe out less water, requiring less
+irrigation.
+Ou pour expirer moins d'eau, nécessitant moins d'
+irrigation.
+
+Or to photosynthesize more efficiently.
+Ou pour photosynthétiser plus efficacement.
+
+Or make more of the nutrients humans want.
+Ou faire plus de nutriments dont les humains ont besoin.
+
+And if you can engineer an apple, you can
+engineer a human!
+Et si vous pouvez concevoir une pomme, vous pouvez
+concevoir un humain !
+
+This is reprogenetics, or engineering babies—both
+to make them healthier and to make “designer”
+C'est de la reprogénétique, ou de l'ingénierie des bébés, à la fois
+pour les rendre plus sains et pour créer des bébés "sur mesure"
+
+babies with specific traits like eye color
+or height.
+avec des traits spécifiques comme la couleur des yeux
+ou la taille.
+
+Which—yeah—eugenics never dies.
+Ce qui, oui, l'eugénisme ne meurt jamais.
+
+But CRISPR isn’t the only promising development
+in medicine.
+Mais CRISPR n'est pas le seul développement prometteur
+en médecine.
+
+Other researchers are working to understand
+how environmental stimuli like the foods we
+D'autres chercheurs s'efforcent de comprendre
+comment les stimuli environnementaux comme les aliments que nous
+
+eat interact with genes via epigenetics,
+mangeons interagissent avec les gènes via l'épigénétique,
+
+or the regulation of which genes can be expressed.
+ou la régulation des gènes qui peuvent être exprimés.
+
+Historian of science Hannah Landecker calls
+to rethink human health as existing in a “metabolic
+L'historienne des sciences Hannah Landecker appelle
+à repenser la santé humaine comme existant dans un "
+
+landscape.”
+paysage métabolique".
+
+Another important area of research is microbiomics,
+or the genomics of microbes.
+Un autre domaine de recherche important est la microbiomique,
+ou la génomique des microbes.
+
+The human gut only works because of the trillions
+of bacteria that live inside it.
+L'intestin humain ne fonctionne que grâce aux billions
+de bactéries qui y vivent.
+
+But, just as we don’t know everything about
+the human genome,
+Mais, tout comme nous ne savons pas tout sur
+le génome humain,
+
+we also don’t know everything about how
+these microbes function, interact with each
+nous ne savons pas non plus tout sur la façon dont
+ces microbes fonctionnent, interagissent entre
+
+other, and interact with different foods.
+eux et interagissent avec différents aliments.
+
+If scientists could understand these complex
+relationships better, maybe technologists
+Si les scientifiques pouvaient mieux comprendre ces
+relations complexes, peut-être que les technologues
+
+could make foods that were also therapies.
+pourraient fabriquer des aliments qui seraient aussi des thérapies.
+
+…
+…
+
+Or maybe they could just remind us to eat
+healthy foods!
+Ou peut-être pourraient-ils simplement nous rappeler de manger
+des aliments sains !
+
+With more genetic therapies and a better grasp
+of epigenetics and microbiomics,
+Avec plus de thérapies génétiques et une meilleure compréhension
+de l'épigénétique et de la microbiomique,
+
+some scientists hope that humans will live
+much longer.
+certains scientifiques espèrent que les humains vivront
+beaucoup plus longtemps.
+
+In fact, longevity itself is a hot topic.
+En fait, la longévité elle-même est un sujet brûlant.
+
+Finally, many life scientists are turning
+to one of those epistemic objects the proved
+Enfin, de nombreux scientifiques du vivant se tournent
+vers l'un de ces objets épistémiques qui s'est avéré
+
+remarkably stubborn for a long time: the brain.
+remarquablement têtu pendant longtemps : le cerveau.
+
+Alongside mid-twentieth century work on DNA
+and drugs, other researchers figured out a
+Parallèlement aux travaux du milieu du XXe siècle sur l'ADN
+et les médicaments, d'autres chercheurs ont
+
+lot about brain surgery…
+beaucoup appris sur la chirurgie du cerveau…
+
+But, at a basic level, the brain remained
+mysterious.
+Mais, à la base, le cerveau restait
+mystérieux.
+
+It’s a collection of neurons, joined by
+little gaps called synapses.
+C'est une collection de neurones, reliés par de
+petites lacunes appelées synapses.
+
+Brain signals cross the synapses through a
+mixture of electricity and chemicals.
+Les signaux cérébraux traversent les synapses grâce à un
+mélange d'électricité et de produits chimiques.
+
+Thought, memory, and self are in there somewhere,
+and we mostly know the physical regions of
+La pensée, la mémoire et le soi sont là quelque part,
+et nous connaissons surtout les régions physiques
+
+the brain where they are.
+du cerveau où ils se trouvent.
+
+Although… neuroscientist and tireless brain-mapper
+George Paxinos confirmed a whole new brain
+Bien que… le neuroscientifique et infatigable brain-mapper
+George Paxinos a confirmé une toute nouvelle
+
+region,
+région du cerveau,
+
+the endorestiform nucleus, only in 2018!
+le noyau endorestiforme, seulement en 2018 !
+
+Clearly, there’s room for ongoing research.
+De toute évidence, il y a de la place pour des recherches en cours.
+
+Technologies let scientists see the brain
+in new ways.
+Les technologies permettent aux scientifiques de voir le cerveau
+de nouvelles façons.
+
+Invented in the 1970s, magnetic resonance
+imaging or MRI creates a non-invasive map
+Inventée dans les années 1970, l'imagerie
+par résonance magnétique ou IRM crée une carte non invasive
+
+of the brain.
+du cerveau.
+
+And functional MRI, or fMRI, first used in
+1990, lets scientists see the blood moving
+Et l'IRM fonctionnelle, ou IRMf, utilisée pour la première fois en
+1990, permet aux scientifiques de voir le sang se
+
+around inside.
+déplacer à l'intérieur.
+
+But the dream for many researchers is a database:
+the connectome, or total map of how neurons
+Mais le rêve de nombreux chercheurs est une base de données :
+le connectome, ou carte globale de la façon dont les neurones
+
+are linked in the brain, a “wiring diagram”
+for a brain.
+sont reliés dans le cerveau, un « schéma de câblage »
+pour un cerveau.
+
+The NIH, for example, launched Human Connectome
+Project in 2009.
+Le NIH, par exemple, a lancé le Human Connectome
+Project en 2009.
+
+To date, scientists have mapped the connectome
+of one animal, a worm, and are working on
+À ce jour, les scientifiques ont cartographié le connectome
+d'un animal, un ver, et travaillent sur
+
+the mouse retina.
+la rétine de la souris.
+
+Maybe brains are so complex that we still
+don’t understand much about them.
+Peut-être que les cerveaux sont si complexes que nous
+ne comprenons toujours pas grand-chose à leur sujet.
+
+But we can control them!
+Mais nous pouvons les contrôler !
+
+Think about neuroenhancement: what if there
+was a drug that targeted specific brain regions
+Pensez à la neuro-amélioration : et s'il
+existait un médicament ciblant des régions spécifiques du cerveau
+
+linked to logic problems, memory, or creativity?
+liées aux problèmes de logique, de mémoire ou de créativité ?
+
+In fact, what if there was a drug that affected
+the very genes that code your brain?
+En fait, que se passerait-il s'il y avait un médicament qui affectait
+les gènes mêmes qui codent votre cerveau ?
+
+What if the whole world was, say, on average,
+five percent smarter?
+Et si le monde entier était, disons, en moyenne
+5 % plus intelligent ?
+
+Finally, what if the true power of the brain
+came from being allowed to escape the limits
+Enfin, et si le vrai pouvoir du cerveau
+venait du fait qu'il lui était permis d'échapper aux limites
+
+of the body?
+du corps ?
+
+A technology developed in the late 1990s called
+a brain–computer interface or BCI enables
+Une technologie développée à la fin des années 1990 appelée
+interface cerveau-ordinateur ou BCI permet au
+
+human brains to interact directly with computers.
+cerveau humain d'interagir directement avec les ordinateurs.
+
+BCIs can transform the lives of people suffering
+from paralysis, for one.
+Les BCI peuvent transformer la vie des personnes souffrant
+de paralysie, par exemple.
+
+What else might humans enable themselves to
+do by directly connecting their brains and
+Qu'est-ce que les humains pourraient
+faire d'autre en connectant directement leur cerveau et leurs
+
+computer systems?
+systèmes informatiques ?
+
+To conclude, let’s come back to basics.
+Pour conclure, revenons aux fondamentaux.
+
+Regardless of how immediately revolutionary
+or still-science-fictional the various life-control
+Peu importe à quel point
+les différentes technologies de contrôle de la vie que
+
+technologies we’ve covered in this episode
+are,
+nous avons couvertes dans cet épisode
+sont immédiatement révolutionnaires ou encore de science-fiction,
+
+they have one thing in common: rich people
+will get them way before poor people.
+elles ont une chose en commun : les riches
+les obtiendront bien avant les pauvres.
+
+And old technologies won’t go away due to
+new ones.
+Et les anciennes technologies ne disparaîtront pas à cause des
+nouvelles.
+
+Science, in the sense of a set of methods
+for understanding the natural world, doesn’t
+La science, au sens d'un ensemble de méthodes
+pour comprendre le monde naturel, ne
+
+tell us which technologies we should deploy,
+where, or when.
+nous dit pas quelles technologies nous devons déployer,
+où et quand.
+
+This is the realm of ethics.
+C'est le domaine de l'éthique.
+
+So even as some lucky consumers will begin
+to enjoy medical regimes personalized to their
+Ainsi, même si certains consommateurs chanceux commenceront
+à bénéficier de régimes médicaux personnalisés à leurs
+
+genomes,
+génomes, de
+
+many people don’t have access to healthcare
+at all.
+nombreuses personnes n'ont pas du tout accès aux soins de santé
+.
+
+While access remains uneven, or stratified,
+new groups may arise based on healthcare—
+Alors que l'accès reste inégal ou stratifié, de
+nouveaux groupes peuvent apparaître en fonction des soins de santé, et
+
+not genetics or other forms of biosociality.
+non de la génétique ou d'autres formes de biosocialité.
+
+As some epidemiologists have said: “zip
+code is a better predictor of health than
+Comme l'ont dit certains épidémiologistes : "le code
+postal est un meilleur prédicteur de la santé que
+
+genetic code.”
+le code génétique".
+
+Next time—we’ll talk about the future
+of the planet.
+La prochaine fois, nous parlerons de l'avenir
+de la planète.
+
+It’s time to tackle climate disruption,
+the Anthropocene, and some deep questions
+Il est temps de s'attaquer au dérèglement climatique, à
+l'Anthropocène et à certaines questions profondes
+
+about what knowledge scientists should make.
+sur les connaissances que les scientifiques devraient acquérir.
+
+Crash Course History of Science is filmed
+in the Dr. Cheryl C. Kinney studio in Missoula,
+Crash Course History of Science est filmé
+dans le studio du Dr Cheryl C. Kinney à Missoula,
+
+Montana and it’s made with the help of all
+this nice people and our animation team is
+Montana et il est réalisé avec l'aide de toutes
+ces personnes sympathiques et notre équipe d'animation est
+
+Thought Cafe.
+Thought Cafe.
+
+Crash Course is a Complexly production.
+Crash Course est une production complexe.
+
+If you wanna keep imagining the world complexly
+with us, you can check out some of our other
+Si vous voulez continuer à imaginer le monde de manière complexe
+avec nous, vous pouvez consulter certaines de nos autres
+
+channels like Healthcare Triage, Animal Wonders, and Scishow Psych.
+chaînes comme Healthcare Triage, Animal Wonders et Scishow Psych.
+
+And, if you’d like to keep Crash Course
+free for everybody, forever, you can support
+Et, si vous souhaitez que Crash Course reste
+gratuit pour tout le monde, pour toujours, vous pouvez soutenir
+
+the series at Patreon;
+la série sur Patreon ;
+
+a crowdfunding platform that allows you to
+support the content you love.
+une plateforme de financement participatif qui vous permet de
+soutenir le contenu que vous aimez.
+
+Thank you to all of our patrons for making
+Crash Course possible with their continued
+Merci à tous nos mécènes d'avoir rendu
+Crash Course possible grâce à leur
+
+support.
+soutien continu.
+

@@ -1,0 +1,333 @@
+2640 lumens. 30 centimètres.
+
+2.3 kilogrammes. 9 volts. Aaah !
+
+Je viens de fermer le circuit avec ma langue et j'ai bien senti les 9 volts ! Alors qu'ont toutes
+
+ces choses en commun ? Ce sont des unités.
+
+Oui, mais elles sont aussi absolument et complètement arbitraires.
+
+[Intro]
+CONVERSION D’UNITÉS ET CHIFFRES SIGNIFICATIFS
+[60 miles / 1 heure x 1 heure / 60 min]
+
+Vous savez qui décide combien un kilogramme pèse ? Un morceau de platine et d'iridium connu sous le nom de
+
+Prototype International du Kilogramme, ou PIK
+
+Le PIK n'est pas juste combien un kilogramme pèse. Dans un sens très réel, le PIK *est* le kilogramme.
+
+Chaque autre kilogramme est exactement le même que le PIK, et le PIK est le morceau de métal
+
+qui décide quelle est cette masse. Un kilogramme est défini comme étant la même masse que le PIK.
+
+On a complêtement inventé le kilogramme, tout comme les secondes, les semaines, les volts et les newtons.
+
+Ces unités ne correspondent à aucun absolu.
+
+Quelqu'un a juste décidé que ça, ça faisait un kilogramme.
+
+Après, le fait que je sois fasciné par les unités en dit bien plus sur moi que sur elles,
+
+et je pourrais en parler à longueur de journée.
+
+Par exemple, saviez-vous que le Système international d'unités ne comprend que sept unités de base?
+
+et toutes les autres sont dérivées de ces 7 unités? Une vitesse: c'est une distance divisée par un temps,
+
+Une accéleration c'est une vitesse divisée à nouveau un temps (donc des mètres par seconde par seconde).
+
+La force, c'est cette accélération multipliée par la masse (car F = ma , vous vous souvenez?). Le travail effectué en joules est
+
+c'est la force multipliée par la distance. Et la puissance c'est le travail divisé par le temps, donc la quantité de travail effectuée
+
+en une unité de temps. Logique.
+
+Ca va très loin, et on peut dire à raison qu'il y a une infinité d'unités possibles;
+
+la plupart d'entre elles ne sont juste pas suffisamment utiles pour avoir un nom.
+
+Mais juste pour info ; Quand je dis watts ou hertz, ce sont juste des mots.
+
+Pas besoin d'une majuscule spécifique.
+Mais Hertz et Watt étaient de vraies personnes
+
+avec un nom de famille qui a reçu une majuscule.
+
+Où je veux en venir? Eh bien, Voir son nom devenir une unité c'est une sorte de saint Graal de la science.
+
+Pour citer Richard Hamming: "La vraie grandeur, c'est quond son nom - comme Hertz et
+
+Watt - est écrit avec une lettre minuscule ".
+Bien sûr, quand ces génies ont commencé à décrypter
+
+comment le monde fonctionne, ils n'avaient aucune idée qu'il y avait des unités de base fondamentales en jeu.
+
+comment le monde fonctionne, ils n'avaient aucune idée qu'il y avait des unités de base fondamentales en jeu.
+
+Leurs travaux se basaient sur des unités arbitraires, car comment pourrait-il y avoir
+
+une quantité fondamentale de masse ou de distance?
+
+Fait intéressant; L'une des unités de base est dérivé d'une valeur réelle (bien que non-universelle)
+
+Une seconde, c'est 1/60ème de 1/60ème
+de 1/24ème du temps qu'il faut pour la Terre
+
+pour faire un unique tour sur elle-même. C'est déjà pas mal, mais ça montre aussi que
+
+Aussi absolu que ça en a l'air, quand on se penche sur des détails,
+
+ça devient vite approximatif.
+
+Par exemple, la terre tourne de moins en moins vite. Les secondes sont donc de plus en plus courtes?
+
+Non, ça rendrait faux pas mal de trucs. Donc les secondes sont de moins en moins
+
+basées sur la réalité. Après, ne vous inquiétez pas; Ça va prendre une éternité à la Terre pour ralentir significativement
+
+Et quand ça sera le cas, on aura juste à ajouter des secondes intercalaires.
+
+Mais les unités sont extrêmement importantes en chimie, et dans les sciences en général (comme on a pu le voir
+
+quand le "Mars Climate Orbiter" s'est écrasé sur Mars à cause d'instructions formulées avec
+
+les mauvaises unités)
+
+La prochaine fois que vous avez un 16 au lieu d'un 20/20 parce que vous avez perdu le fil des unités,
+
+dites-vous qu'au moins, vous n'avez pas ruiné une mission pour mars de 300 millions de dollars.
+
+Mais qu'est ce que je veux dire par garder le fil de ses unités?
+
+Eh bien: Je veux dire, surveillez-les. Ne les laissez pas faire quoi que ce soit que vous ne leur ayez pas dit de faire,
+
+parcequ'elles sont sournoises.
+
+Et la chimie, c'est en grande partie convertir d'une unité à une autre; on va dire que vous êtes dans une voiture,
+
+et cette voiture roule à 60 miles par heure. Alors là, tous ceux qui vivent hors des états-unis crient au scandale:
+
+"bouuuuh! les miles c'est nul! HAnks, convertit ça en kilomètres!"
+
+Je vais faire de mon mieux. D'un point de vue scientifique, les kilomètres sont tout aussi pourris.
+
+Ils sont tout aussi arbitraire. On devrait utiliser quelque-chose de plus universel. Comme les Années-Lumière :
+
+La distance parcourue pas la lumière en une année. Mais les heures, ça craint.
+
+Donc on va convertir ça en années lumière par seconde. 60 miles par heures. Dit comme ça,
+
+ça sonne come un nombre entier avec une seule unité. C'est faux. En fait, c'est une fraction. 60 miles
+
+en 1 heure. Commençons par la partie facile, passer ça en secondes.
+
+D'abord, passons en minutes. 60 minutes par heure, et donc une heure pour 60 minutes.
+
+Cette fraction, est valable dans les deux sens. On la veux avec les heures au dessus,
+
+en numérateur. Pourquoi?
+
+Parce qu'on veut que les unités s'annulent. On veut détruire les heures. On ne les veut pas dans nos unités
+
+quand on aura fini.Ensuite, on recommence avec 1 minute pour 60 secondes.
+
+Maintenant, on passe aux années-lumière.
+
+J'ai demandé à Google, et il ya 1 année-lumière
+tous les 5,9 * 10 ^ 12 miles. Maintenant:
+
+Les heures s'annulent, les minutes s'annulent et les miles s'annulent. Il nous reste
+
+les années-lumière par seconde. C'est ce qu'on voulait.
+
+On est arrivé à obtenir les bonnes unités. Il ne reste plus qu'à bourrer tout ça dans une calculette,
+
+et on découvre qu'une voiture qui roule à 60 miles par heure va aussi à 9.3 * 10 ^ -12 années-lumière par seconde.
+
+Maintenant, on doit faire un test important: le test de "Est-ce que ça a un sens?".
+Et la réponse est oui :
+
+parce que 9,3 * 10 ^ -12, c'est un très, très,
+très, très petit nombre. Ce qui est logique
+
+parce que quand vous voyagez dans une voiture, vous vous déplacez à une toute, toute, toute, toute, toute
+
+petite fraction d'une année-lumière à chaque seconde.
+
+Là, il y a probablement entre 50 et 100 000 personnes qui regardent cette vidéo.
+
+Et je devine que AU MOINS sept d'entre vous ont calculé avec moi sur vos petites calculettes.
+
+ce n'est pas pour être méchant, c'est juste une supposition.
+
+Si à l'avenir vous voulez tout suivre avec votre calculette, ça pourrait vous être utile,
+
+mais ça serait aussi très nerd. Mais si vous AVEZ suivi avec votre calculette,
+
+vous avez peut-être remarqué quelque chose d'intéressant:
+J'ai dit 9.3 * 10 ^ -12. alors que votre calculatrice ...
+
+Votre calculatrice a probablement affiché quelque chose comme
+9,3487658140029 * 10 ^ -12. Alors, pourquoi?
+
+J'avais tant d'autres chiffres à donner,  et je n'en donne que deux?
+Peut-être pour gagner du temps? Non, bien sur..
+
+Parce que maintenant, je perds du temps à en parler.
+
+Peut-être parce-que ce serait trop dur de retenir tous ces chiffres? non plus; je viens de vous les donner !
+
+Je vais vous dire pourquoi ;
+
+Quand vous faites des calcus dans une expérience ,
+il ya deux types de valeurs :
+
+exactes ou mesurées.  Les valeurs  exactes, c'est le nombre de secondes dans une minute, ou le nombre d'oeufs dans une douzaine.
+
+Ils sont définis de cette façon, et donc
+nous connaissons ces valeurs avec une pécision infinie.
+
+Quand je parle d'une douzaine d'oeufs,
+
+vous savez qu'il y en a 12, et pas 12.000001, ou 11.99999. juste 12.
+
+Mais ce n'est pas le cas pour les miles
+par heure de ma voiture.
+
+Cette voiture ne se déplace pas à 60,00000... miles par heure, je ne connais sa vitesse qu'à deux décimales près.
+
+Parceque c'est tout ce que le cadran m'affiche. Je pourrais aller à 59,83790038 mph,
+
+ou 60.49321289 mph; le compteur afficherait 60.
+
+Et peu importe à quel point ma mesure est précise, je ne connaitrai jamais ma vitesse avec la même précision
+
+que le nombre d’œufs
+dans une douzaine. Voilà donc le second type de valeur.
+
+les valeurs mesurées. Ce qui est cool avec les valeurs mesurées, vu que leurs mesure n'est jamais infiniment précise,
+
+C'est qu'ils vous disent immédiatement deux choses:
+
+D'abord, ils vous donnent le nombre qui a été mesuré. Ensuite, ils vous disent la précision
+
+avec laquelle ce nombre a été mesurée. Souvent, les gens s’emmêlent les pinceaux,
+
+mais avec une valeur mesuré, vous avez juste à vous rappeler que la valeur réelle a un nombre infini de décimales
+
+Seulement, vous ne les connaissez jamais toutes, c'est impossible.
+
+Donc quand ma balance dit 80 kg, ça ne veut pas dire 80,0000000kg.
+Ca veut dire 80,quelquechose kg.
+
+Et tous ces chiffres après le zéro? On ne les connait pas. Et le truc,
+
+Une valeur mesurée peut être encombrante si vous ne connaissez pas la précision avec laquelle elle a été mesuré
+
+Du coup, vous devez conserver cette précision tout au long de votre calcul.
+
+au risque de tuer quelqu'un avec une dose imprécise d'insuline, par exemple.
+
+Donc, nous avons un ensemble de règles pour ce qu'on appelle
+chiffres significatifs: ce sont les chiffres
+
+de votre numéro que vous connaissez réellement. Avec
+mon compteur de vitesse il y en a deux: 6 et 0.
+
+Mais ce 0 est bizarre. Vu que, des fois, il est juste utilisé pour remplir. Comme si je disais que
+
+l'avion le plus rapide peut aller à 13000 mph (Ce qui est le cas, au passage
+
+Un planeur militaire sans pilote d'essai l'a fait en 2011) Ce n'est pas un nombre exact, ces zéros
+
+ne sont que du replissage. Alors, quand un nombre se termine par un, deux, ou trois zéros, il peut être difficile
+
+de dire si ces zéros sont significatifs. Mais c'est tout de suite plus simple quand vous utilisez
+
+la notation scientifique. Et vu qu'elle est scientifique, on devrait  l'utiliser. Donc 60 mph serait plutôt 6.0* 10 ^ 1.
+
+Nous savons que le zéro est significatif parcequ'on l'a ecrit.
+
+Sinon, on se serait contenté de 6 * 10 ^ 1. On garde ce zero parce-que'on sait qu'il est juste.
+
+La notation scientifique est trop bien, au passage. Une fois que vous avez le déclic. Et si c'est encore un peu flou,
+
+vous pouvez toujours demander à google ou à votre calculette comprendre,
+
+mais le nombre de l'exposant vous indique juste combien
+
+il faut déplacer la virgule.
+
+Donc, pour 10^1, vous décalez la virgule d'un cran à droite et vous obtenez 60. Pour10^-1,
+
+vous la déplacez d'un cran à gauge et vous trouvez 60.
+
+Pour 10 puissance 5, vous obtenez 600 000
+
+Vos chiffres significatifs sont conservés, donc
+2,4590 * 10 ^ -4 devient 0,00024590 pour garder
+
+les cinq chiffres significatifs.
+
+Maintenant, passons à comment déterminer quels chiffres sont significatifs.
+
+Il y a deux règles simples pour ça. Dans une addition / soustraction,  c'est
+
+le plus petit nombre après la virgule qui l'emporte.Il détermine
+
+combien de  chiffres vous aurez à la fin. Donc 1,495.2 + 1,9903 !
+
+vous faites le calcul.
+
+D'abord, vous obtenez 1,497.1903 et vous arrondissez à la première décimale, le premier nombre a seulement
+
+un chiffre après la virgule. Vous obtenez  donc 1,497.2. Pour la multiplication,
+
+contentez-vous d'avoir le même nombre de chiffres significatifs dans votre réponse que dans votre valeur la moins précise.
+
+Donc, 60 x 5,0839 = 305,034, mais nous avons seulement 2 chiffres significatifs, donc tout ce qu'il y a après
+
+ne compte pas. 300. Après, il faudrait préciser que seul le premier zéro est significatif
+
+La notation scientifique donnera donc:
+
+3,0 * 10 ^ 2. Parce que la science!
+
+Maintenant, je sais que c'est contre-intuitif de ne pas utiliser tous ces chiffres que vous aviez sous la main,
+
+mais vous devez comprendre que tous ces chiffres après ceux qui sont significatifs,
+
+ce sont des mensonges. Des chiffres qui mentent éhontément! Vous ne connaissez pas ces chiffres.
+
+Et si vous les écrivez, les gens penseront que vous les connaissez.
+
+Et vous leurs aurez menti. Et vous savez ce qu'on fait aux menteurs en chimies? on les tue.
+
+Merci de regarder cet épisode de Crash Course Chimie. Aujourd'hui vous avez appris quelques clés
+
+pour comprendre les mathématiques de la chimie, et gardez cette vidéo sous le coude
+
+au cas ou vous vous perdriez un peu par la suite.
+
+La conversion entre les unités vous sera utile, et pas seulement en chimie.
+
+La notation scientifique vous donnera toujours l'air de savoir de quoi vous parlez.
+
+attaquer les gens sur un mauvais nombre de chiffres significatifs,
+
+c'est globalement l'équivalent chimique d'être un "grammar nazi"
+
+Alors profitez bien de ces nouveaux pouvoirs que je vous aie conferé, et à la prochaine.
+
+Crash Course Chimie a été filmé, édité,
+et réalisé par Nick Jenkins.
+
+Cet épisode a été écrit par moi. Michael Aranda s'est occupé de toute la partie son, et l"équipe Thought Bubble s'est occupé du design.
+
+Si vous avez des questions, des commentaires ou des idées, laissez-vos sugestions dans
+
+les commentaires. Merci d'avoir regardé Crash Course
+Chimie.
+

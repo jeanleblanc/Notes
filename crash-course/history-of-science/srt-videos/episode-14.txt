@@ -1,0 +1,916 @@
+I started this course by saying that people
+have made knowledge about the natural world,
+J'ai commencé ce cours en disant que les gens
+ont acquis des connaissances sur le monde naturel depuis
+
+pretty much forever.
+presque toujours.
+
+They’ve done this by carefully observing
+the world and then devising tests to find
+Ils l'ont fait en observant attentivement
+le monde, puis en concevant des tests pour
+
+out if their ideas are true.
+savoir si leurs idées sont vraies.
+
+Today, we refer to a specific series of steps—coming
+up with a hypothesis, testing it, and drawing
+Aujourd'hui, nous nous référons à une série spécifique d'étapes -
+proposer une hypothèse, la tester et tirer des
+
+conclusions—as the scientific method.
+conclusions - comme la méthode scientifique.
+
+But, historically speaking, there is no one
+scientific method.
+Mais, historiquement parlant, il n'y a pas
+de méthode scientifique unique.
+
+There’s more than one way to make knowledge.
+Il y a plus d'une façon de faire des connaissances.
+
+Still, if you look at some of the great minds
+who helped shape today’s concept of the
+Pourtant, si vous regardez quelques-uns des grands esprits
+qui ont contribué à façonner le concept actuel de la
+
+scientific method, a set of basic principles
+starts to emerge.
+méthode scientifique, un ensemble de principes de base
+commence à émerger.
+
+Like rationality.
+Comme la rationalité.
+
+Experimentation.
+Expérimentation. 
+
+And ruthless self-examination.
+Et un examen de conscience impitoyable.
+
+For these ideas and a lot of other stuff, we have to
+thank three of the natural philosophers who
+Pour ces idées et bien d'autres choses, nous devons
+remercier trois des philosophes de la nature qui ont
+
+pioneered this abstract “scientific method”:
+Galileo, Bacon, and Descartes.
+été les pionniers de cette « méthode scientifique » abstraite :
+Galilée, Bacon et Descartes.
+
+[INTRO MUSIC PLAYS}
+[INTRO MUSIC PLAYS]
+
+Galileo, Bacon, and Descartes are each so
+Galilée, Bacon et Descartes sont chacun si
+
+fascinating that they could each have their
+own episode.
+fascinants qu'ils pourraient chacun avoir leur
+propre épisode.
+
+But one reason to talk about them together
+is that they lived at roughly the same time.
+Mais une des raisons d'en parler ensemble
+est qu'ils vivaient à peu près à la même époque.
+
+A lot changed in European natural philosophy
+between the mid-1500s and the mid-1600s, when
+Beaucoup de choses ont changé dans la philosophie naturelle européenne
+entre le milieu des années 1500 et le milieu des années 1600, lorsque
+
+Newton started dropping his hits.
+Newton a commencé à sortir ses succès.
+
+We’ll get there later!
+Nous y arriverons plus tard !
+
+But first, Dr. Galileo Galilei was born in
+Pisa in 1564.
+Mais d'abord, le Dr Galileo Galilei est né à
+Pise en 1564.
+
+He considered becoming a priest, studied art,
+attended school for medicine, but then attended
+Il a envisagé de devenir prêtre, a étudié l'art, a
+fréquenté l'école de médecine, mais a ensuite assisté à
+
+a lecture on geometry, and went on to study
+math in secret, because his dad wanted him
+une conférence sur la géométrie et a continué à étudier les
+mathématiques en secret, parce que son père le voulait.
+
+to focus on medicine.
+se concentrer sur la médecine.
+
+Much to his father’s chagrin, I’m sure,
+Galileo became a professor of a bunch of math-related
+Au grand dam de son père, j'en suis sûr,
+Galileo est devenu professeur d'un tas de
+
+stuff at University of Pisa, a lowly, poorly
+paid position.
+trucs liés aux mathématiques à l'Université de Pise, un poste modeste et mal
+payé.
+
+In 1593, Galileo took a job as a ballistics
+consultant at the Arsenal of Venice, which
+En 1593, Galilée a pris un emploi de
+consultant en balistique à l'Arsenal de Venise, ce qui
+
+is a heck of a title to have on your C.V.
+est un sacré titre à avoir sur votre C.V.
+
+Then, starting in 1609, he built and refined
+telescopes, which eventually made him famous.
+Puis, à partir de 1609, il construisit et affina des
+télescopes, ce qui finira par le rendre célèbre.
+
+The very first telescope was invented by Dutch
+spectacle-maker Hans Lippershey in Holland
+Le tout premier télescope a été inventé par le
+fabricant de lunettes hollandais Hans Lippershey en Hollande
+
+in 1608.
+en 1608.
+
+But Galileo’s versions were much better.
+Mais les versions de Galileo étaient bien meilleures.
+
+And telescopes are a good example of how scientific
+instruments change the nature of scientific
+Et les télescopes sont un bon exemple de la façon dont les
+instruments scientifiques changent la nature de la
+
+practice.
+pratique scientifique.
+
+We often design experiments around how we
+can use our instruments—in the case of astronomy,
+Nous concevons souvent des expériences autour de la façon dont nous
+pouvons utiliser nos instruments - dans le cas de l'astronomie,
+
+around what we can see through a telescope.
+autour de ce que nous pouvons voir à travers un télescope.
+
+With his new telescopic success, Galileo quit
+his job at Pisa for a much better one at Padua,
+Avec son nouveau succès télescopique, Galileo a quitté
+son emploi à Pise pour un bien meilleur à Padoue,
+
+and he also took on the role of Chief Mathematician
+and Philosopher of Florence.
+et il a également assumé le rôle de mathématicien en chef
+et philosophe de Florence.
+
+I love this guy's resume!!!
+J'adore le CV de ce mec !!!
+
+As he continued to research the night sky,
+Galileo became convinced that Copernicus was
+En poursuivant ses recherches sur le ciel nocturne,
+Galilée est devenu convaincu que Copernic avait
+
+right: the earth is not the center of the
+universe.
+raison : la terre n'est pas le centre de l'
+univers.
+
+He also looked into Kepler’s ideas but wasn’t
+convinced by them.
+Il a également examiné les idées de Kepler mais n'a pas été
+convaincu par elles.
+
+By 1611, Galileo’s name had been brought
+up by the Inquisition.
+En 1611, le nom de Galilée avait été
+évoqué par l'Inquisition.
+
+And, of course, nobody expects that.
+Et, bien sûr, personne ne s'y attend.
+
+But it seems that his vocal support of Copernicanism
+was creating some friction in the Florentine
+Mais il semble que son soutien vocal au
+copernicisme créait des frictions à la
+
+court.
+cour florentine.
+
+Among many others, the Grand Duchess Christina,
+who was basically one of his patrons, said
+Parmi beaucoup d'autres, la grande-duchesse Christina,
+qui était essentiellement l'une de ses mécènes, a déclaré
+
+she took issue with the idea of heliocentrism.
+qu'elle contestait l'idée de l'héliocentrisme.
+
+So in 1615, he wrote to a letter to explaining
+that the Bible and nature did not disagree:
+Ainsi, en 1615, il écrivit une lettre pour expliquer
+que la Bible et la nature n'étaient pas en désaccord :
+
+One was God’s word to the masses—a story
+about how to behave and why.
+L'une était la parole de Dieu aux masses - une histoire
+sur la façon de se comporter et pourquoi.
+
+The other was God’s work—the physical
+reality that He created.
+L'autre était l'œuvre de Dieu, la
+réalité physique qu'il a créée.
+
+So science, he said, was simply the uncovering
+of God’s work.
+Ainsi, la science, a-t-il dit, était simplement la découverte
+de l'œuvre de Dieu.
+
+Galileo was a man of faith!
+Galilée était un homme de foi !
+
+Unfortunately for him, Church officials didn’t
+like this explanation.
+Malheureusement pour lui, les responsables de l'Église n'aimaient pas
+cette explication.
+
+In 1616, the Church added Copernicus’ text,
+De rev, to its official list of banned books.
+En 1616, l'Église a ajouté le texte de Copernic,
+De rev, à sa liste officielle des livres interdits.
+
+The Inquisitors deemed heliocentrism “foolish
+and absurd in philosophy.”
+Les inquisiteurs considéraient l'héliocentrisme comme "folle
+et absurde en philosophie".
+
+This was bad news for Galileo: he was told
+not to uphold or defend Copernicanism.
+C'était une mauvaise nouvelle pour Galilée : on lui avait dit de
+ne pas soutenir ou défendre le copernicisme.
+
+(But he may have been able to teach a heliocentric
+astronomy as a thought experiment.
+(Mais il a peut-être été capable d'enseigner une
+astronomie héliocentrique comme une expérience de pensée. Les
+
+Historians aren’t sure.)
+historiens ne sont pas sûrs.)
+
+But Galileo wasn’t having any of it.
+Mais Galilée n'en avait rien.
+
+In 1623, Galileo published a pamphlet called
+the Assayer that basically said scientists
+En 1623, Galileo a publié une brochure appelée
+l'Assayer qui disait essentiellement que les scientifiques
+
+should be free to do their work.
+devraient être libres de faire leur travail.
+
+Pope Urban VIII, Galileo’s personal friend,
+was a fan.
+Le pape Urbain VIII, ami personnel de Galilée,
+était un fan.
+
+He said that God could move the heavens in
+numberless ways, so the ultimate source of
+Il a dit que Dieu pouvait déplacer les cieux d'
+innombrables façons, de sorte que la source ultime de la
+
+truth would always be faith.
+vérité serait toujours la foi.
+
+So sure, Galileo, you want to spend your nights
+staring at tiny dots of light?
+Alors bien sûr, Galilée, tu veux passer tes nuits à
+contempler de minuscules points de lumière ?
+
+Knock yourself out.
+Assommez-vous.
+
+Urban even renamed Galileo’s next book,
+Dialogue on the the Two Chief World Systems
+Urban a même renommé le prochain livre de Galilée,
+Dialogue sur les deux systèmes mondiaux principaux
+
+of 1632.
+de 1632.
+
+All Urban asked was for his friend to treat
+different astronomical systems fairly.
+Tout ce qu'Urbain demandait était que son ami traite
+équitablement les différents systèmes astronomiques.
+
+But…
+Mais…
+
+Galileo picked a fight.
+Galileo s'est battu.
+
+The Dialogue made a clear argument for Copernicanism,
+comparing it point by point with the Aristotelian–Ptolemaic
+Le Dialogue a clairement argumenté en faveur du copernicisme, en le
+comparant point par point au système aristotélicien-
+
+system.
+ptolémaïque.
+
+He brought new data to the battle: he described
+the phases of Venus, which appears to grow
+Il a apporté de nouvelles données à la bataille : il a décrit
+les phases de Vénus, qui semble devenir de
+
+larger and smaller like earth’s moon.
+plus en plus petite comme la lune terrestre.
+
+This phasing did not fit with a geocentric
+model.
+Ce phasage ne correspondait pas à un
+modèle géocentrique.
+
+An even stronger argument came from the tides,
+whose movements seemed to prove that the earth
+Un argument encore plus fort est venu des marées,
+dont les mouvements semblaient prouver que la terre
+
+moves.
+bouge.
+
+And the pope was not happy.
+Et le pape n'était pas content.
+
+Urban felt that Galileo had not heard his
+warning.
+Urban a estimé que Galileo n'avait pas entendu son
+avertissement.
+
+All copies of the Dialogue were recalled.
+Tous les exemplaires du Dialogue ont été rappelés.
+
+And in 1632, Galileo was called to Rome to
+speak to the Inquisition.
+Et en 1632, Galilée fut appelé à Rome pour
+parler à l'Inquisition.
+
+His trial got under way in 1633, and in time,
+he was placed under house arrest for the rest
+Son procès a commencé en 1633 et, avec le temps,
+il a été assigné à résidence pour le reste
+
+of his life.
+de sa vie.
+
+Amazingly, Galileo didn’t give up.
+Étonnamment, Galileo n'a pas abandonné.
+
+Humiliated, under arrest, he kept sciencing.
+Humilié, en état d'arrestation, il a continué à faire de la science.
+
+Beyond his contributions to astronomy, physics,
+and the scientific method, Galileo is a rockstar
+Au-delà de ses contributions à l'astronomie, à la physique
+et à la méthode scientifique, Galileo est une rockstar
+
+thanks to his fearlessness.
+grâce à son intrépidité.
+
+Galileo’s last text was also perhaps his
+most relevant to the idea of methods in science:
+Le dernier texte de Galilée était peut-être aussi son
+plus pertinent pour l'idée de méthodes en science :
+
+His Two New Sciences of 1638 was a mathematical
+treatise about how bodies fall through the
+Ses deux nouvelles sciences de 1638 étaient un
+traité mathématique sur la façon dont les corps tombent dans l'
+
+air, and how wooden beams break.
+air et comment les poutres en bois se brisent.
+
+It was also a record of the process by which
+he discovered these physical laws.
+C'était aussi un enregistrement du processus par lequel
+il a découvert ces lois physiques.
+
+He called for specific tests that would let
+experimenters confirm his laws with their
+Il a appelé à des tests spécifiques qui permettraient aux
+expérimentateurs de confirmer ses lois avec leurs
+
+own senses.
+propres sens.
+
+This, in his words, was the mark of a “true
+scientist”: independent confirmation.
+C'était, selon ses mots, la marque d'un « vrai
+scientifique » : une confirmation indépendante.
+
+This is an awesome norm to try to live up
+to!
+C'est une norme impressionnante à essayer de
+respecter !
+
+So, we shouldn’t be surprised that a lifelong
+nerd like Galileo would have played a critical
+Donc, nous ne devrions pas être surpris qu'un
+nerd de longue date comme Galileo ait joué un
+
+role in developing better methods of doing
+science.
+rôle essentiel dans le développement de meilleures méthodes pour faire de la
+science.
+
+But Francis Bacon, born in London in 1561,
+is more of a historical surprise.
+Mais Francis Bacon, né à Londres en 1561,
+est plutôt une surprise historique.
+
+For one, he was cast out of public office
+for taking bribes.
+D'une part, il a été chassé de la fonction publique
+pour avoir accepté des pots-de-vin.
+
+Two, some people for some reason think he
+was Shakespeare.
+Deuxièmement, certaines personnes, pour une raison quelconque, pensent qu'il
+était Shakespeare.
+
+And I mean, if you’ve ever read these two
+writers… there’s a clear difference.
+Et je veux dire, si vous avez déjà lu ces deux
+écrivains… il y a une nette différence.
+
+And most of Bacon’s impact on science was
+posthumous.
+Et la plupart de l'impact de Bacon sur la science était
+posthume.
+
+We can basically boil it to down to a new
+approach to science, which was practical,
+Nous pouvons essentiellement résumer cela à une nouvelle
+approche de la science, qui était pratique,
+
+instrumental, and supported by the state.
+instrumentale et soutenue par l'État.
+
+Bacon wanted to create a whole replacement
+system of natural philosophy—that meant
+Bacon voulait créer tout un
+système de remplacement de la philosophie naturelle, c'est-à-dire la
+
+philosophy, mathematics, physics, biology,
+all wrapped up together.
+philosophie, les mathématiques, la physique, la biologie, le
+tout regroupé.
+
+He rejected the Aristotelian way of doing
+science—arguing rationally using logic.
+Il a rejeté la manière aristotélicienne de faire de la
+science - argumenter rationnellement en utilisant la logique.
+
+Instead, he believed that natural philosophers
+should help improve the wellbeing of humanity
+Au lieu de cela, il croyait que les philosophes naturels
+devraient aider à améliorer le bien-être de l'humanité
+
+through technological advances.
+grâce aux progrès technologiques.
+
+Bacon expressed this within a Christian framework,
+casting Aristotle’s philosophy as a dereliction
+Bacon a exprimé cela dans un cadre chrétien,
+présentant la philosophie d'Aristote comme un
+
+of the Christian duty of charity toward others.
+manquement au devoir chrétien de charité envers les autres.
+
+Improving wellbeing meant understanding and
+controlling the chaos of the natural.
+Améliorer le bien-être signifiait comprendre et
+contrôler le chaos du naturel.
+
+Bacon described nature as female and passive,
+and humanity as male and active.
+Bacon a décrit la nature comme féminine et passive,
+et l'humanité comme masculine et active.
+
+So, science was supposed to be a masculine
+activity: it allowed humans to exploit nature.
+Ainsi, la science était censée être une
+activité masculine : elle permettait aux humains d'exploiter la nature.
+
+Now, this metaphor has not aged well at all,
+and not just because it was sexist and horrible.
+Or, cette métaphore n'a pas du tout bien vieilli,
+et pas seulement parce qu'elle était sexiste et horrible.
+
+We also now have plenty of examples of all
+the ways that humans simply can’t control
+Nous avons également maintenant de nombreux exemples de toutes
+les façons dont les humains ne peuvent tout simplement pas contrôler la
+
+nature.
+nature.
+
+And yet this metaphor is, sadly, still very
+much alive.
+Et pourtant, cette métaphore est, malheureusement, toujours
+très vivante.
+
+So.
+Alors. 
+
+What did Bacon’s new system of natural philosophy
+look like up close?
+À quoi ressemblait de près le nouveau système de philosophie naturelle de Bacon
+?
+
+Help us out, ThoughtBubble:
+Aidez-nous, ThoughtBubble :
+
+For Bacon, control over nature meant deriving
+useful arts—or technē—like gunpowder,
+Pour Bacon, contrôler la nature signifiait dériver
+des arts utiles – ou technē – comme la poudre à canon, la
+
+silk, and the printing press, from basic knowledge.
+soie et l'imprimerie, à partir de connaissances de base.
+
+And how were Baconians supposed to make useful
+knowledge?
+Et comment les Baconiens étaient-ils censés faire des
+connaissances utiles ?
+
+They needed first-hand experiences.
+Ils avaient besoin d'expériences de première main.
+
+This meant testing answers to important questions,
+without relying on the words of long-dead
+Cela signifiait tester des réponses à des questions importantes,
+sans s'appuyer sur les paroles de
+
+Greek and Arabic philosophers.
+philosophes grecs et arabes morts depuis longtemps.
+
+For Bacon, science also required central planning
+and state support.
+Pour Bacon, la science nécessitait également une planification centrale
+et le soutien de l'État.
+
+Natural philosophy should not be the domain
+of a few random nobles, he thought.
+La philosophie naturelle ne devrait pas être le domaine
+de quelques nobles au hasard, pensait-il.
+
+It should be a program, or system, that worked
+for the public good.
+Ce devrait être un programme, ou un système, qui a fonctionné
+pour le bien public.
+
+He outlined a vision of a utopian science
+bureaucracy in his book called New Atlantis,
+Il a esquissé une vision d'une bureaucratie scientifique utopique
+dans son livre intitulé New Atlantis,
+
+published in 1626.
+publié en 1626.
+
+Bacon proposed creating a hub for intellectual
+work, a kind of super-university called Salomon’s
+Bacon a proposé de créer un centre de
+travail intellectuel, une sorte de super-université appelée Maison de Salomon
+
+House.
+.
+
+Here, the personnel—all male, of course—would
+be strictly segregated into specific roles.
+Ici, le personnel - entièrement masculin, bien sûr -
+serait strictement séparé dans des rôles spécifiques.
+
+Some would travel the world to gather facts.
+Certains parcourraient le monde pour recueillir des faits.
+
+Others would conduct experiments to generate
+new facts.
+D'autres mèneraient des expériences pour générer de
+nouveaux faits.
+
+Yet others would extract potential facts from
+books—but these proto-facts would have to
+D'autres encore extrairaient des faits potentiels de
+livres, mais ces proto-faits devraient
+
+be tested experimentally.
+être testés expérimentalement.
+
+Further up the hierarchy, others would analyze
+all of the different natural facts and experimental
+Plus haut dans la hiérarchie, d'autres analyseraient
+tous les différents faits naturels et
+
+outcomes and direct the next round of research.
+résultats expérimentaux et dirigeraient la prochaine série de recherches.
+
+And at the very top were the Interpreters
+of Nature—three men who would take all facts
+Et tout en haut se trouvaient les interprètes
+de la nature, trois hommes qui prenaient tous les faits
+
+and use them to produce axioms.
+et les utilisaient pour produire des axiomes.
+
+Working along with them were “dowry men”
+who drew conclusions from these axioms to
+Travaillant avec eux, des «hommes de la dot»
+ont tiré des conclusions de ces axiomes pour
+
+yield specific practical benefits.
+apporter des avantages pratiques spécifiques.
+
+That, in a nutshell, is the scientific world
+according to Bacon.
+Voilà, en un mot, le monde scientifique
+selon Bacon.
+
+Thanks Thought Bubble, Now, another thinker who advocated for a practical
+Merci Thought Bubble, Maintenant, un autre penseur qui a plaidé pour une
+
+science was René Descartes.
+science pratique était René Descartes.
+
+Born in central France in 1596, Descartes
+lived mostly in the Netherlands.
+Né dans le centre de la France en 1596, Descartes a
+vécu principalement aux Pays-Bas.
+
+He’s known as a founding figure in mathematics
+and modern philosophy.
+Il est connu comme une figure fondatrice des mathématiques
+et de la philosophie moderne.
+
+So, that's not bad.
+Donc, ce n'est pas mal.
+
+In math, he’s known as the dude who bridged
+geometry and algebra.
+En mathématiques, il est connu comme le mec qui a fait le pont entre la
+géométrie et l'algèbre.
+
+We call the numbered X–Y axes the plane
+of “Cartesian” coordinates.
+Nous appelons les axes X–Y numérotés le plan
+des coordonnées « cartésiennes ».
+
+You can map a lot of math with this system.
+Vous pouvez cartographier beaucoup de mathématiques avec ce système.
+
+Now, Descartes knew what had happened to Galileo,
+and his publishers in France didn’t want
+Maintenant, Descartes savait ce qui était arrivé à Galileo,
+et ses éditeurs en France ne voulaient pas non plus
+
+to wind up on trial, too.
+être jugés.
+
+So Descartes stopped publication of his own
+Copernican book, Le monde or The World, in
+Alors Descartes a arrêté la publication de son propre
+livre copernicien, Le monde ou The World, en
+
+1633.
+1633.
+
+But he did come up with a whole new cosmology,
+based on Copernicus, that featured a chaotic,
+Mais il a proposé une toute nouvelle cosmologie,
+basée sur Copernic, qui présentait un
+
+rapidly moving ætherial fluid in which the
+planets and stars were suspended—instead
+fluide ætherial chaotique et en mouvement rapide dans lequel les
+planètes et les étoiles étaient  suspendu au lieu
+
+of perfect crystalline spheres.
+de sphères cristallines parfaites.
+
+His Discourse on Method, published in 1637,
+was his major contribution to the history
+Son Discours sur la méthode, publié en 1637,
+est sa contribution majeure à l'histoire
+
+of making knowledge.
+de la fabrication du savoir.
+
+But, more than Galileo—a practicing experimentalist—or
+Bacon—a statesman thinking about the practical
+Mais, plus que Galilée — expérimentateur pratiquant — ou
+Bacon — homme d'État réfléchissant aux
+
+uses of natural philosophy—Descartes was
+a pure philosopher.
+usages pratiques de la philosophie naturelle — Descartes était
+un pur philosophe.
+
+He started at the very beginning with an abstract
+question: how we know what we know?
+Il a commencé au tout début par une
+question abstraite : comment savons-nous ce que nous savons ?
+
+This is question at the heart of the philosophical
+discipline of epistemology, which Descartes
+C'est une question au cœur de la
+discipline philosophique de l'épistémologie, que Descartes a
+
+redefined.
+redéfinie.
+
+Philosophers today are still debating some
+of the questions Descartes raised about the
+Les philosophes d'aujourd'hui débattent encore de certaines
+des questions posées par Descartes sur les
+
+origins of knowledge.
+origines de la connaissance.
+
+Descartes wanted to replace Aristotle as the
+king of philosophy.
+Descartes voulait remplacer Aristote comme
+roi de la philosophie.
+
+And Descartes’s attack on Aristotle boiled
+down to two arguments: one, knowledge obtained
+Et l'attaque de Descartes contre Aristote se
+résumait à deux arguments : premièrement, la connaissance obtenue
+
+through the senses lacks absolute certainty,
+because the senses often deceive us.
+par les sens manque de certitude absolue,
+car les sens nous trompent souvent.
+
+And two, human reason can also be deceived!
+Et deux, la raison humaine peut aussi être trompée !
+
+Logical conclusions from false premises will
+lead you to the wrong answers.
+Des conclusions logiques à partir de fausses prémisses
+vous mèneront à de mauvaises réponses.
+
+So Descartes was like, welp, time to formulate a whole
+new philosophy to address these points.
+Il était donc temps pour Descartes de formuler une toute
+nouvelle philosophie pour aborder ces points.
+
+Ultimately, to be certain of the truth, Descartes
+could only count on one thing: his mind.
+Au fond, pour être certain de la vérité, Descartes
+ne pouvait compter que sur une chose : son esprit.
+
+So he described the world reductionistically,
+meaning using math to represent physical phenomena.
+Il a donc décrit le monde de manière réductionniste,
+c'est-à-dire en utilisant les mathématiques pour représenter les phénomènes physiques.
+
+Only math, which is either right or wrong,
+could found a total system of natural philosophy.
+Seules les mathématiques, qui sont bonnes ou mauvaises,
+pourraient fonder un système total de philosophie naturelle.
+
+For Descartes, the universe is composed only
+of things that math can describe.
+Pour Descartes, l'univers est composé uniquement
+de choses que les mathématiques peuvent décrire.
+
+He thought that philosophers should be able
+to provide causal explanations for all observed
+Il pensait que les philosophes devraient être capables
+de fournir des explications causales pour tous les
+
+phenomena, showing the or the mechanical
+principles behind the things that happen in
+phénomènes observés, montrant le ou les
+principes mécaniques derrière les choses qui se produisent dans
+
+the universe.
+l'univers.
+
+And the tactic Descartes used for checking
+the validity of your own knowledge is famous
+Et la tactique utilisée par Descartes pour vérifier
+la validité de vos propres connaissances est célèbre
+
+and still useful today: systematic doubting.
+et toujours utile aujourd'hui : le doute systématique.
+
+When in doubt, doubt yourself!
+En cas de doute, doutez de vous-même !
+
+This pairs nicely with what Bacon argued:
+don’t trust old books; check!
+Cela correspond bien à ce que Bacon a soutenu :
+ne faites pas confiance aux vieux livres ;  Chèque! 
+
+When you add Galileo’s focus on independent,
+rational comparison of theories about natural
+Lorsque vous ajoutez l'accent mis par Galilée sur
+la comparaison indépendante et rationnelle des théories sur les
+
+phenomena to Bacon’s focus on experiment
+and social norms promoting scientific research,
+phénomènes naturels à l'accent mis par Bacon sur l'expérimentation
+et les normes sociales promouvant la recherche scientifique,
+
+and then Descartes’s reminder to always
+ask yourself how sure you are that you know
+puis le rappel de Descartes de toujours
+vous demander à quel point vous êtes sûr de savoir des
+
+stuff, you get a kind of method or system.
+choses, vous obtenez une sorte de méthode  ou système.
+
+Was it thought of as a single philosophy at
+the time?
+Était-ce considéré comme une philosophie unique à
+l'époque ?
+
+Sort of.
+Sorte de. 
+
+Some of the most important members of the
+early Royal Society, where we’ll head in
+Certains des membres les plus importants de la
+première Royal Society, où nous nous dirigerons
+
+a couple of episodes, pointed explicitly to
+Bacon as an inspiration.
+dans quelques épisodes, ont explicitement désigné
+Bacon comme source d'inspiration.
+
+But this story isn’t all all about better
+descriptions of the Solar System.
+Mais cette histoire ne se limite pas à de meilleures
+descriptions du système solaire.
+
+It’s also about winning wars and conquering
+new territory.
+Il s'agit aussi de gagner des guerres et de conquérir de
+nouveaux territoires.
+
+Stay tuned.
+Restez à l'écoute. 
+
+Next time—we’ll look at how the “new
+science” affected the healing arts and beliefs
+La prochaine fois, nous verrons comment la "nouvelle
+science" a affecté les arts de la guérison et les croyances
+
+about the human form… and, yes, there will
+be dissections.
+sur la forme humaine... et, oui, il y aura des
+dissections.
+
+A lot of dissections!
+Beaucoup de dissections !
+
+Crash Course History of Science is filmed
+in the Dr. Cheryl C. Kinney studio in Missoula,
+Crash Course History of Science est filmé
+dans le studio du Dr Cheryl C. Kinney à Missoula,
+
+Montana and it’s made with the help of all
+this nice people and our animation team is
+Montana et il est réalisé avec l'aide de toutes
+ces personnes sympathiques et notre équipe d'animation est
+
+Thought Cafe.
+Thought Cafe.
+
+Crash Course is a Complexly production.
+Crash Course est une production complexe.
+
+If you wanna keep imagining the world complexly
+with us, you can check out some of our other
+Si vous voulez continuer à imaginer le monde de manière complexe
+avec nous, vous pouvez consulter certaines de nos autres
+
+channels like Scishow, Nature League, and
+The Financial Diet.
+chaînes comme Scishow, Nature League et
+The Financial Diet.
+
+And, if you’d like to keep Crash Course
+free for everybody, forever, you can support
+Et, si vous souhaitez que Crash Course reste
+gratuit pour tout le monde, pour toujours, vous pouvez soutenir
+
+the series at Patreon; a crowdfunding platform
+that allows you to support the content you love.
+la série sur Patreon ;  une plateforme de financement participatif
+qui vous permet de soutenir le contenu que vous aimez.
+
+Thank you to all of our patrons for making
+Crash Course possible with their continued support.
+Merci à tous nos mécènes d'avoir rendu
+Crash Course possible grâce à leur soutien continu.
+

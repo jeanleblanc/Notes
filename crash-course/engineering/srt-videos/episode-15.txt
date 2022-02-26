@@ -1,0 +1,674 @@
+Temperature matters.
+La température compte.
+
+In almost everything we do, we’re trying
+to heat something up, cool something down,
+or just trying to maintain a temperature.
+Dans presque tout ce que nous faisons, nous essayons
+de chauffer quelque chose, de refroidir quelque chose
+ou simplement de maintenir une température.
+
+As an engineer, you’ll often need to find
+that Goldilocks temperature, the one that’s
+“just right” for your devices and designs.
+En tant qu'ingénieur, vous aurez souvent besoin de trouver la
+température de Boucle d'or, celle qui est
+"juste" pour vos appareils et vos conceptions.
+
+But once you figure that out, how do you achieve it?
+Mais une fois que vous avez compris cela, comment y parvenez-vous ?
+
+Well, you’ll need some equipment, and to
+learn how to use it.
+Eh bien, vous aurez besoin d'équipement et d'
+apprendre à l'utiliser.
+
+More specifically, you’ll need to know about
+heat exchangers, and how they can affect
+heat transfer.
+Plus précisément, vous devrez connaître
+les échangeurs de chaleur et comment ils peuvent affecter
+le transfert de chaleur.
+
+Just make sure to watch out for those three
+bears.
+Assurez-vous simplement de faire attention à ces trois
+ours.
+
+[Theme Music]
+[Thème musical]
+
+So far in this course, we’ve learned a good
+deal about heat transfer and the different ways
+heat moves throughout our world.
+Jusqu'à présent, dans ce cours, nous avons
+beaucoup appris sur le transfert de chaleur et les différentes façons dont la
+chaleur se déplace dans notre monde.
+
+We’ve also talked a bit about the devices
+that help move heat energy, like refrigerators
+and heat pumps,
+Nous avons également parlé un peu des appareils
+qui aident à déplacer l'énergie thermique, comme les réfrigérateurs
+et les pompes à chaleur,
+
+and how you can slow down the transfer of
+heat with layers of insulation.
+et comment vous pouvez ralentir le transfert de
+chaleur avec des couches d'isolation.
+
+But that’s just the beginning of the ways
+you can affect heat transfer!
+Mais ce n'est que le début des façons dont
+vous pouvez affecter le transfert de chaleur !
+
+There are lots of different types of equipment
+you can use to transfer heat between two things.
+Il existe de nombreux types d'équipements différents que
+vous pouvez utiliser pour transférer de la chaleur entre deux choses.
+
+They’re called heat exchangers, because
+they exchange heat.
+On les appelle des échangeurs de chaleur, car
+ils échangent de la chaleur.
+
+But don’t let the simplicity of the name
+fool you.
+Mais ne laissez pas la simplicité du nom
+vous tromper.
+
+Heat exchangers are everywhere.
+Les échangeurs de chaleur sont partout.
+
+They show up as radiators in cars, where they
+transfer heat energy away from the engine so
+it doesn’t...overheat.
+Ils apparaissent comme des radiateurs dans les voitures, où ils
+transfèrent l'énergie thermique du moteur afin
+qu'il ne... surchauffe pas.
+
+You’ll also find them in military equipment
+and power supplies.
+Vous les trouverez également dans les équipements militaires
+et les alimentations électriques.
+
+You can even find them in medical devices.
+Vous pouvez même les trouver dans les dispositifs médicaux.
+
+Have you ever had an X-ray?
+Avez-vous déjà passé une radiographie ?
+
+Well, X-rays actually produce a large amount of heat,
+so they need heat exchangers to draw that heat away
+and keep it from damaging the equipment.
+Eh bien, les rayons X produisent en fait une grande quantité de chaleur
+, ils ont donc besoin d'échangeurs de chaleur pour évacuer cette chaleur
+et l'empêcher d'endommager l'équipement.
+
+Even when you create something amazing – something
+that can literally see the bones under your skin – you
+still have to account for its byproducts.
+Même lorsque vous créez quelque chose d'incroyable - quelque chose
+qui peut littéralement voir les os sous votre peau - vous
+devez toujours tenir compte de ses sous-produits.
+
+Engineers can’t just make a good meal;
+we have to clean up the kitchen, too.
+Les ingénieurs ne peuvent pas simplement préparer un bon repas ;
+nous devons aussi nettoyer la cuisine.
+
+So heat exchangers are pretty important.
+Les échangeurs de chaleur sont donc assez importants.
+
+Without them, there’s all kinds of stuff
+we wouldn’t be able to do.
+Sans eux, il y a toutes sortes de choses que
+nous ne pourrions pas faire.
+
+And the type of heat exchanger you use is
+even more important,
+Et le type d'échangeur de chaleur que vous utilisez est
+encore plus important,
+
+because it’s not always as simple as heating
+something up or cooling it down in any way
+that you can.
+car ce n'est pas toujours aussi simple que de chauffer
+quelque chose ou de le refroidir de toutes les
+manières possibles.
+
+There’s a lot more to consider.
+Il y a beaucoup plus à considérer.
+
+For example, let’s say you want to heat
+up your leftovers from last night.
+Par exemple, disons que vous voulez
+réchauffer vos restes de la nuit dernière.
+
+Technically, you could do that by setting your
+pizza on fire, but unless you’d like your crust
+extra crispy, that seems a bit extreme.
+Techniquement, vous pouvez le faire en mettant
+le feu à votre pizza, mais à moins que vous ne souhaitiez que votre croûte soit
+plus croustillante, cela semble un peu extrême.
+
+A much better choice would be a microwave.
+Un bien meilleur choix serait un micro-ondes.
+
+Maybe an oven.
+Peut-être un four.
+
+Or, say your tea is a little too hot to drink
+and you want to cool it down.
+Ou, disons que votre thé est un peu trop chaud pour être bu
+et que vous voulez le refroidir.
+
+You could blast it with a firehose of cold
+water, but that would likely ruin your tea,
+and everything else around it.
+Vous pourriez le faire exploser avec un tuyau d'
+eau froide, mais cela gâcherait probablement votre thé
+et tout ce qui l'entoure.
+
+It would probably be better to just wait a
+bit – maybe put your tea in a colder room
+or leave it in the refrigerator.
+Il serait probablement préférable d'attendre un
+peu - peut-être mettre votre thé dans une pièce plus froide
+ou le laisser au réfrigérateur.
+
+In engineering, you need tools and methods
+that are more precise.
+En ingénierie, vous avez besoin d'outils et de
+méthodes plus précis.
+
+Surgeons have their scalpels; we have heat
+exchangers.
+Les chirurgiens ont leurs scalpels ;  nous avons des
+échangeurs de chaleur.
+
+So let’s look at the ones we’ve got!
+Alors regardons ceux que nous avons !
+
+The first, and most basic example of a heat
+exchanger is a concentric tube.
+Le premier exemple, et le plus basique, d'un échangeur de chaleur
+est un tube concentrique.
+
+Here, one pipe or tube is placed inside another one,
+with a colder fluid moving through the center tube, and
+a warmer fluid moving through the outer tube.
+Ici, un tuyau ou un tube est placé à l'intérieur d'un autre,
+avec un fluide plus froid se déplaçant à travers le tube central et
+un fluide plus chaud se déplaçant à travers le tube extérieur.
+
+This fluid might be a liquid, or it could
+be a gas.
+Ce fluide peut être un liquide ou
+un gaz.
+
+A common place you’d find concentric tube
+heat exchangers is inside air conditioners.
+Un endroit commun où vous trouverez des
+échangeurs de chaleur à tubes concentriques est à l'intérieur des climatiseurs.
+
+With concentric tubes, and in most heat exchangers
+you’ll encounter, it’s important to note that the two fluids
+are sealed off from each other and never mix.
+Avec des tubes concentriques, et dans la plupart des échangeurs de chaleur
+que vous rencontrerez, il est important de noter que les deux fluides
+sont isolés l'un de l'autre et ne se mélangent jamais.
+
+But as the fluids move down their separate tubes,
+energy transfers from the hotter outer fluid to the
+colder inner fluid through the wall of the inner tube.
+Mais au fur et à mesure que les fluides descendent dans leurs tubes séparés, l'
+énergie est transférée du fluide externe le plus chaud au
+fluide interne le plus froid à travers la paroi du tube interne.
+
+That’s the heat transfer.
+C'est le transfert de chaleur.
+
+In some concentric tubes, the fluids will flow in
+the same direction – what’s known as parallel flow –
+Dans certains tubes concentriques, les fluides s'écouleront dans
+la même direction - ce qu'on appelle un écoulement parallèle -
+
+and other times they’ll move in opposite
+directions, which is called counterflow.
+et d'autres fois, ils se déplaceront dans des
+directions opposées, ce qui s'appelle le contre-courant.
+
+Whichever way the fluid flows, You’ll probably
+want to know just how good the heat transfer is.
+Quelle que soit la manière dont le fluide s'écoule, vous voudrez probablement
+savoir à quel point le transfert de chaleur est bon.
+
+That’s the point of a heat exchanger after
+all.
+C'est le but d'un échangeur de chaleur après
+tout.
+
+There are two main equations for heat transfer
+that you can use to figure this out.
+Il existe deux équations principales pour le transfert de chaleur
+que vous pouvez utiliser pour comprendre cela.
+
+The first looks at each fluid individually, and defines
+heat transfer – represented with the letter Q – as the
+product of three of the chosen fluid’s properties:
+Le premier examine chaque fluide individuellement et définit
+le transfert de chaleur - représenté par la lettre Q - comme le
+produit de trois des propriétés du fluide choisi :
+
+its mass flow rate, m, or how fast it’s
+moving;
+son débit massique, m, ou sa vitesse de
+déplacement ;
+
+its heat capacity, c, or how much heat you
+need to raise the fluid’s temperature;
+sa capacité calorifique, c, ou la quantité de chaleur dont vous avez
+besoin pour élever la température du fluide ;
+
+and its change in temperature, ΔT, after
+it passes through the heat exchanger.
+et son changement de température, ΔT, après
+son passage dans l'échangeur de chaleur.
+
+This equation tells you that no matter what,
+if there’s a greater change in the fluid’s
+temperature, there was more heat transfer.
+Cette équation vous dit que quoi qu'il arrive,
+s'il y a un changement plus important dans la température du fluide
+, il y a plus de transfert de chaleur.
+
+Which, obviously.
+Lequel, évidemment.
+
+It also tells you that there’s more heat
+transfer if it’s a type of fluid that just generally
+needs more heat to raise its temperature.
+Il vous indique également qu'il y a plus de
+transfert de chaleur s'il s'agit d'un type de fluide qui a généralement
+besoin de plus de chaleur pour augmenter sa température.
+
+Finally, it says that it takes more heat transfer
+to accomplish a given temperature change in
+a fluid that’s moving really fast.
+Enfin, il indique qu'il faut plus de transfert de chaleur
+pour accomplir un changement de température donné dans
+un fluide qui se déplace très rapidement.
+
+If each particle of fluid isn’t staying in the heat
+exchanger for very long, you need more heat transfer
+to raise its temperature quickly, before it leaves.
+Si chaque particule de fluide ne reste pas très longtemps dans l'échangeur de chaleur
+, vous avez besoin de plus de transfert de chaleur
+pour augmenter sa température rapidement, avant qu'elle ne parte.
+
+Let’s say you have a heat exchanger with the colder
+fluid in the inner tube moving at a high flow rate and
+the warmer fluid in the outer tube moving slowly.
+Disons que vous avez un échangeur de chaleur avec le fluide le plus froid
+dans le tube interne se déplaçant à un débit élevé et
+le fluide le plus chaud dans le tube externe se déplaçant lentement.
+
+Even if there’s plenty of heat being transferred,
+you might not get a major temperature increase in
+the inner tube since it has such a high flow rate.
+Même s'il y a beaucoup de chaleur transférée,
+vous n'obtiendrez peut-être pas une augmentation importante de la température dans
+la chambre à air car elle a un débit si élevé.
+
+Meanwhile, all that heat being transferred to the
+outer tube will cause a significant temperature
+change, since it’s moving so slowly.
+Pendant ce temps, toute cette chaleur transférée au
+tube extérieur provoquera un
+changement de température important, car il se déplace si lentement.
+
+Which is what we want!
+C'est ce que nous voulons !
+
+The whole point of a heat exchanger is to
+accomplish that significant temperature change.
+L'intérêt d'un échangeur de chaleur est d'
+accomplir ce changement de température important.
+
+Now, the other equation for heat transfer
+also describes it in terms of three properties,
+but it takes both fluids into account:
+Maintenant, l'autre équation pour le transfert de chaleur le
+décrit également en termes de trois propriétés,
+mais elle prend en compte les deux fluides :
+
+The first property is the heat transfer coefficient, U,
+which is a measure of how easily heat is transferred
+between the fluids through whatever is separating them;
+La première propriété est le coefficient de transfert de chaleur, U,
+qui est une mesure de la facilité avec laquelle la chaleur est transférée
+entre les fluides à travers  tout ce qui les sépare ;
+
+second, there’s the area, A, over which
+the heat transfers;
+deuxièmement, il y a la zone, A, sur laquelle
+la chaleur est transférée ;
+
+and third, there’s the temperature difference,
+ΔT, but this time between the two fluids.
+et troisièmement, il y a la différence de température,
+ΔT, mais cette fois entre les deux fluides.
+
+The heat transfer coefficient is actually the inverse
+of the thermal resistance we discussed last time,
+Le coefficient de transfert de chaleur est en fait l'inverse
+de la résistance thermique dont nous avons discuté la dernière fois,
+
+so the larger the value for U, the less resistance
+there is, allowing for more heat transfer.
+donc plus la valeur de U est grande, moins
+il y a de résistance, ce qui permet plus de transfert de chaleur.
+
+This equation also tells you there’s more
+heat transferred when there’s a greater area
+of contact between the two fluids.
+Cette équation vous indique également qu'il y a plus de
+chaleur transférée lorsqu'il y a une plus grande surface
+de contact entre les deux fluides.
+
+And no matter what the heat transfer coefficient
+is or how much contact there is between the two fluids,
+Et quel que soit le coefficient de transfert de chaleur
+ou le degré de contact entre les deux fluides,
+
+a greater temperature change will always
+involve more heat.
+un changement de température plus important impliquera toujours
+plus de chaleur.
+
+You can use these two different ways of defining
+heat transfer to change your operating conditions as
+necessary and get the heat transfer you need.
+Vous pouvez utiliser ces deux manières différentes de définir
+le transfert de chaleur pour modifier vos conditions de fonctionnement si
+nécessaire et obtenir le transfert de chaleur dont vous avez besoin.
+
+In the design of the heat exchanger, you can affect
+the heat transfer through the heat transfer coefficient
+and the area of contact between the fluids.
+Dans la conception de l'échangeur de chaleur, vous pouvez affecter
+le transfert de chaleur via le coefficient de transfert de chaleur
+et la zone de contact entre les fluides.
+
+And while the heat exchanger is up and running, you can affect its heat transfer by the temperature differences between the fluids and their mass flow rates.
+Et pendant que l'échangeur de chaleur est opérationnel, vous pouvez affecter son transfert de chaleur par les différences de température entre les fluides et leurs débits massiques.
+
+But all of this leads to some inherent problems
+with the simple concentric tube heat exchanger.
+Mais tout cela entraîne certains problèmes inhérents
+au simple échangeur de chaleur à tubes concentriques.
+
+If the temperature difference between the
+fluids is the driving force,
+Si la différence de température entre les
+fluides est la force motrice
+
+then the heat exchanger will need to have an
+appropriate area and U value to achieve a reasonable
+amount of heat transfer.
+, l'échangeur de chaleur devra avoir
+une surface et une valeur U appropriées pour obtenir une
+quantité raisonnable de transfert de chaleur.
+
+There are two ways to increase that heat
+transfer: increase the value of U, or increase
+the value of the area.
+Il existe deux façons d'augmenter ce
+transfert de chaleur : augmenter la valeur de U ou augmenter
+la valeur de la surface.
+
+You could increase the heat transfer coefficient by
+using more conductive pipes or making them thinner,
+but at a certain point you’ll hit a physical limit.
+Vous pouvez augmenter le coefficient de transfert de chaleur en
+utilisant des tuyaux plus conducteurs ou en les rendant plus minces,
+mais à un certain point, vous atteindrez une limite physique.
+
+Which leaves you with only one real way to
+increase the heat transfer: increase the area
+of contact between the fluids.
+Ce qui ne vous laisse qu'un seul véritable moyen d'
+augmenter le transfert de chaleur : augmenter la surface
+de contact entre les fluides.
+
+For a concentric tube design, the only way to
+increase the area is either by the pipe’s radius
+or length, which isn’t too practical.
+Pour une conception de tube concentrique, la seule façon d'
+augmenter la surface est soit par le rayon
+ou la longueur du tuyau, ce qui n'est pas trop pratique.
+
+For one thing, the heat exchanger will take
+up more space.
+D'une part, l'échangeur de chaleur
+prendra plus de place.
+
+And it’s going to increase not only the cost of the
+building materials, but the operating cost of any
+pumps pushing the fluid through the device as well.
+Et cela va augmenter non seulement le coût
+des matériaux de construction, mais aussi le coût de fonctionnement de toutes les
+pompes poussant le fluide à travers l'appareil.
+
+If we only used concentric tubes in our designs, we’d
+need more space under the hoods of our cars and our
+X-ray machines would be even bigger and clunkier.
+Si nous n'utilisions que des tubes concentriques dans nos conceptions, nous aurions
+besoin de plus d'espace sous les capots de nos voitures et nos appareils à
+rayons X seraient encore plus gros et plus encombrants.
+
+So it’s worth looking at some other heat
+exchanger designs too.
+Il vaut donc la peine d'examiner également d'autres
+conceptions d'échangeurs de chaleur.
+
+Take finned tubes, for example, which you’ll often find in industrial applications like power plants, industrial dryers, and in the air conditioning units of large buildings.
+Prenez les tubes à ailettes, par exemple, que vous trouverez souvent dans les applications industrielles telles que les centrales électriques, les séchoirs industriels et les unités de climatisation des grands bâtiments.
+
+In these designs, fins are added to a tube to
+increase its surface area, which enhances its
+rate of heat transfer at the same time.
+Dans ces conceptions, des ailettes sont ajoutées à un tube pour
+augmenter sa surface, ce qui améliore
+en même temps son taux de transfert de chaleur.
+
+There are two main types of finned tube designs.
+Il existe deux principaux types de conceptions de tubes à ailettes.
+
+With axial fin structures, fins run along
+the tube lengthwise.
+Avec les structures à ailettes axiales, les ailettes courent le long
+du tube dans le sens de la longueur.
+
+They’re best suited for devices where fluid flow outside
+of the tube is slower and more viscous, like oil, but you
+still want it to distribute a greater amount of energy.
+Ils conviennent mieux aux appareils où l'écoulement de fluide à l'extérieur
+du tube est plus lent et plus visqueux, comme l'huile, mais vous
+voulez toujours qu'il distribue une plus grande quantité d'énergie.
+
+With radial fin structures, on the other hand,
+discs are added to the tube and spaced out from
+each other, usually in regular intervals.
+Avec les structures à ailettes radiales, en revanche, des
+disques sont ajoutés au tube et espacés les
+uns des autres, généralement à intervalles réguliers.
+
+This type of finned design is best suited
+for a faster-moving fluid like air to flow
+around the tube.
+Ce type de conception à ailettes est le mieux adapté
+pour qu'un fluide se déplaçant plus rapidement, comme l'air, circule
+autour du tube.
+
+Another heat exchanger worth looking at is
+the plate heat exchanger, which uses metal
+plates to transfer heat between fluids.
+Un autre échangeur de chaleur qui mérite d'être examiné est
+l'échangeur de chaleur à plaques, qui utilise des
+plaques métalliques pour transférer la chaleur entre les fluides.
+
+With these, the warmer fluid flows through
+one port and the colder fluid flows through
+another, typically in counterflow.
+Avec ceux-ci, le fluide plus chaud s'écoule à travers
+un orifice et le fluide plus froid s'écoule à travers
+un autre, généralement à contre-courant.
+
+Both fluids are restricted by seals so they
+can only follow a certain path, kind of snaking
+their way through the exchanger.
+Les deux fluides sont limités par des joints de sorte qu'ils
+ne peuvent suivre qu'un certain chemin, en
+serpentant à travers l'échangeur.
+
+The fluid between each set of plates alternates,
+with the plates providing a large surface area
+for a high rate of heat transfer.
+Le fluide entre chaque ensemble de plaques alterne
+, les plaques offrant une grande surface
+pour un taux élevé de transfert de chaleur.
+
+So, plate heat exchangers would be a little better than
+concentric tubes for something like an X-ray machine,
+since it produces a lot of heat you’d want to get rid of.
+Ainsi, les échangeurs de chaleur à plaques seraient un peu mieux que
+les tubes concentriques pour quelque chose comme une machine à rayons X,
+car ils produisent beaucoup de chaleur dont vous voudriez vous débarrasser.
+
+Now, both finned tubes and plate heat exchangers
+are usually a step up from concentric tubes,
+Maintenant, les tubes à ailettes et les échangeurs de chaleur à plaques
+sont généralement un pas en avant par rapport aux tubes concentriques,
+
+but one of the most common heat exchangers is
+the shell-and-tube design.
+mais l'un des échangeurs de chaleur les plus courants est
+la conception à coque et tube.
+
+You can find them practically anywhere, from
+large oil refineries, to engines and transmissions,
+and even in swimming pools.
+Vous pouvez les trouver pratiquement n'importe où, des
+grandes raffineries de pétrole aux moteurs et transmissions,
+et même dans les piscines.
+
+Like its name implies, a shell-and-tube heat
+exchanger is made up of a larger shell with
+a bundle of smaller tubes inside it.
+Comme son nom l'indique, un échangeur de chaleur à coque et tube
+est composé d'une coque plus grande avec
+un faisceau de tubes plus petits à l'intérieur.
+
+One fluid, usually the colder one, moves through
+this series of tubes while another fluid flows
+outside of them and through the shell.
+Un fluide, généralement le plus froid, se déplace à travers
+cette série de tubes tandis qu'un autre fluide s'écoule à l'
+extérieur d'eux et à travers la coque.
+
+There would be large pockets of stagnant
+shell-side fluid in the corners of the shell if
+this design was left as-is, though.
+Il y aurait cependant de grandes poches de
+liquide stagnant côté coque dans les coins de la coque
+si cette conception était laissée telle quelle.
+
+So you can put baffles, which are obstructing
+vanes or panels, inside the shell to drive the
+shell-side fluid through in a maze-like pattern.
+Ainsi, vous pouvez placer des déflecteurs, qui obstruent des
+aubes ou des panneaux, à l'intérieur de la coque pour faire
+passer le fluide côté coque à travers un motif semblable à un labyrinthe.
+
+Baffles not only help to increase the overall
+average heat transfer through the system by
+directing the flow of the fluid,
+Les déflecteurs contribuent non seulement à augmenter le
+transfert de chaleur moyen global à travers le système en
+dirigeant le flux de fluide,
+
+but also by increasing the shell-side velocity
+and promoting turbulence.
+mais également en augmentant la vitesse côté coque
+et en favorisant la turbulence.
+
+So, between concentric tubes, finned tubes, plates,
+and shell-and-tube designs, you’ve got plenty of
+options when you need to transfer heat.
+Ainsi, entre les tubes concentriques, les tubes à ailettes, les plaques
+et les conceptions à coque et tube, vous disposez de nombreuses
+options lorsque vous avez besoin de transférer de la chaleur.
+
+Which, among other things, means there’s
+no need to set any pizza on fire.
+Ce qui, entre autres, signifie qu'il n'est
+pas nécessaire de mettre le feu à une pizza.
+
+That would just be a travesty.
+Ce ne serait qu'une parodie.
+
+Today we learned all about the different types
+of heat exchangers and how they can be used
+to transfer heat.
+Aujourd'hui, nous avons tout appris sur les différents types
+d'échangeurs de chaleur et sur la manière dont ils peuvent être utilisés
+pour transférer de la chaleur.
+
+We started off with concentric tubes , and
+the two main equations that can help us define
+heat transfer in heat exchangers.
+Nous sommes partis des tubes concentriques et
+des deux principales équations qui peuvent nous aider à définir
+le transfert de chaleur dans les échangeurs de chaleur.
+
+Then we flowed on over to finned tubes and
+found the differences between axial or radial fins.
+Ensuite, nous sommes passés aux tubes à ailettes et avons
+trouvé les différences entre les ailettes axiales ou radiales.
+
+Finally, we covered plate heat exchangers
+and studied the most common heat
+exchanger design: shell-and-tube.
+Enfin, nous avons couvert les échangeurs de chaleur à plaques
+et étudié la
+conception d'échangeur de chaleur la plus courante : calandre et tube.
+
+I’ll see you next time, when we’ll continue
+on our journey and learn all about mass transfer.
+Je vous verrai la prochaine fois, quand nous
+continuerons notre voyage et apprendrons tout sur le transfert de masse.
+
+Crash Course Engineering is produced in association
+with PBS Digital Studios.
+Crash Course Engineering est produit en association
+avec PBS Digital Studios.
+
+You can head over to their channel to check
+out a playlist of their latest amazing shows, like
+America from Scratch, Hot Mess, and Eons.
+Vous pouvez vous rendre sur leur chaîne pour
+consulter une liste de lecture de leurs dernières émissions incroyables, comme
+America from Scratch, Hot Mess et Eons.
+
+Crash Course is a Complexly production and this
+episode was filmed in the Doctor Cheryl C. Kinney
+Studio with the help of these wonderful people.
+Crash Course est une production de Complexly et cet
+épisode a été filmé dans le studio du docteur Cheryl C. Kinney
+avec l'aide de ces personnes merveilleuses.
+
+And our amazing graphics team is Thought Cafe.
+Et notre incroyable équipe graphique est Thought Cafe.
+

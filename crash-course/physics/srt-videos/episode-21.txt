@@ -1,0 +1,456 @@
+On November 14, 1971, NASA’s Mariner 9 probe, entered orbit around Mars, becoming the first spacecraft to orbit another planet.
+Le 14 novembre 1971, la sonde Mariner 9 de la NASA est entrée en orbite autour de Mars, devenant ainsi le premier vaisseau spatial à orbiter autour d'une autre planète.
+
+Its mission? Mainly, to take lots of pictures
+and map out the Martian surface.
+Sa mission ?  Principalement, pour prendre beaucoup de photos
+et cartographier la surface martienne.
+
+But mission engineers found themselves facing
+a challenge that they’d never faced before on Earth.
+Mais les ingénieurs de mission se sont retrouvés face à
+un défi qu'ils n'avaient jamais relevé auparavant sur Terre.
+
+On our planet, we talk about altitude in terms
+of sea level.
+Sur notre planète, on parle d'altitude en termes
+de niveau de la mer.
+
+The highest point on Earth, for example, is at the top of Mount Everest, which is 8,850 meters above sea level.
+Le point culminant de la Terre, par exemple, se situe au sommet du mont Everest, à 8 850 mètres d'altitude.
+
+But Mars doesn’t have a sea.
+Mais Mars n'a pas de mer.
+
+So the mission team had to pick something
+else to use as a reference point.
+L'équipe de la mission a donc dû choisir
+autre chose à utiliser comme point de référence.
+
+They chose the point where Mars’s atmospheric pressure was 6.105 millibars -- the minimum pressure that liquid water needs to exist.
+Ils ont choisi le point où la pression atmosphérique de Mars était de 6,105 millibars - la pression minimale dont l'eau liquide a besoin pour exister.
+
+That’s right -- at very low pressures, liquid water just isn’t a thing, no matter the temperature.
+C'est vrai - à très basse pression, l'eau liquide n'est tout simplement pas une chose, quelle que soit la température.
+
+Why not?
+Pourquoi pas? 
+
+The answer lies in phase changes: what happens when molecules don’t quite live up to what we’d predict for an ideal gas.
+La réponse réside dans les changements de phase : que se passe-t-il lorsque les molécules ne sont pas tout à fait à la hauteur de ce que nous prévoyons pour un gaz parfait ?
+
+[Theme Music]
+[Thème musical]
+
+We’ve talked before about temperature,
+and how it’s a measure of the kinetic energy
+-- the energy of motion -- of a substance.
+Nous avons déjà parlé de la température
+et de la façon dont c'est une mesure de l'énergie cinétique
+-- l'énergie du mouvement -- d'une substance.
+
+And we know that as temperature increases, so does kinetic energy, because of the kinetic theory of gases, which describes how ideal gas molecules behave.
+Et nous savons que lorsque la température augmente, l'énergie cinétique augmente également, en raison de la théorie cinétique des gaz, qui décrit le comportement des molécules de gaz idéales.
+
+As you might remember from our last episode, a gas is considered ideal, if it fits a few basic assumptions:
+Comme vous vous en souvenez peut-être dans notre dernier épisode, un gaz est considéré comme idéal s'il répond à quelques hypothèses de base :
+
+First, that the total volume of the gas molecules
+is much less than the volume of the container they’re in.
+premièrement, que le volume total des molécules de gaz
+est bien inférieur au volume du récipient dans lequel elles se trouvent.
+
+Second, that these molecules only interact
+with each other when they collide.
+Deuxièmement, que  ces molécules
+n'interagissent entre elles que lorsqu'elles entrent en collision.
+
+And last, that the collisions are perfectly
+elastic, meaning that no energy is lost.
+Et enfin, que les collisions sont parfaitement
+élastiques, ce qui signifie qu'aucune énergie n'est perdue.
+
+The kinetic theory of gases is based on the idea that if you have all these gas molecules bouncing around, you can calculate the average kinetic energy of each particle.
+La théorie cinétique des gaz est basée sur l'idée que si toutes ces molécules de gaz rebondissent, vous pouvez calculer l'énergie cinétique moyenne de chaque particule.
+
+We’ve already talked about how, in general, the kinetic energy of an object is equal to half of its mass x its velocity squared.
+Nous avons déjà expliqué comment, en général, l'énergie cinétique d'un objet est égale à la moitié de sa masse x sa vitesse au carré.
+
+And the average kinetic energy of the ideal gas molecules in a container, is equal to half of a molecule’s mass x the average squared velocity of the molecules.
+Et l'énergie cinétique moyenne des molécules de gaz parfait dans un récipient est égale à la moitié de la masse d'une molécule x la vitesse moyenne au carré des molécules.
+
+And if you do the math, this average kinetic energy also turns out to be equal to 3/2 x a set constant k x the temperature.
+Et si vous faites le calcul, cette énergie cinétique moyenne s'avère également égale à 3/2 x une constante de consigne k x la température.
+
+k is just equal to the constant R we talked about last time, divided by Avogadro’s number, 6.02 x 10^23, the number of molecules in a mole.
+k est juste égal à la constante R dont nous avons parlé la dernière fois, divisée par le nombre d'Avogadro, 6,02 x 10 ^ 23, le nombre de molécules dans une mole.
+
+This equation might not look like much, but it’s important because it tells you exactly how kinetic energy and temperature are related in an ideal gas
+Cette équation n'a peut-être pas l'air de grand-chose, mais elle est importante car elle vous indique exactement comment l'énergie cinétique et la température sont liées dans un gaz parfait.
+
+As the kinetic energy of the gas increases,
+temperature increases proportionally.
+À mesure que l'énergie cinétique du gaz augmente, la
+température augmente proportionnellement.
+
+We already knew that - but now we’ve done what we often have to do in physics which is back up our assumptions using math.
+Nous le savions déjà - mais maintenant nous avons fait ce que nous devons souvent faire en physique, c'est-à-dire étayer nos hypothèses en utilisant les mathématiques.
+
+Now, you may have noticed something a little unusual about the way we’ve been representing the velocity of these ideal gas molecules.
+Maintenant, vous avez peut-être remarqué quelque chose d'un peu inhabituel dans la façon dont nous avons représenté la vitesse de ces molécules de gaz parfait.
+
+We’ve been talking about their velocities
+in terms of averages, which makes sense,
+Nous avons parlé de leurs vitesses
+en termes de moyennes, ce qui est logique,
+
+since we’re trying to describe the overall behavior
+of all the molecules, not individual ones.
+puisque nous essayons de décrire le comportement global
+de toutes les molécules, pas des molécules individuelles.
+
+To get the average kinetic energy, we didn’t
+just take the average velocity and square it.
+Pour obtenir l'énergie cinétique moyenne, nous n'avons pas
+simplement pris la vitesse moyenne et l'avons mise au carré.
+
+Instead, we squared all the individual velocities, then used the average of those squared values.
+Au lieu de cela, nous avons élevé au carré toutes les vitesses individuelles, puis utilisé la moyenne de ces valeurs au carré.
+
+This whole average-squared-velocity thing, helps our math work out, and it’s important to remember when you’re analyzing an ideal gas.
+Toute cette histoire de vitesse moyenne au carré aide nos calculs, et il est important de se rappeler quand vous analysez un gaz parfait.
+
+The square root of the average squared velocity
+is what we call the root mean square speed.
+La racine carrée de la vitesse quadratique moyenne
+est ce que nous appelons la vitesse quadratique moyenne.
+
+We write it as v_RMS, and it’s a different
+number from the average speed.
+Nous l'écrivons comme v_RMS, et c'est un
+nombre différent de la vitesse moyenne.
+
+Say you know that a gas’s temperature is 300 Kelvin, and the mass of each molecule is 5.3 x 10^-26 kilograms.
+Disons que vous savez que la température d'un gaz est de 300 Kelvin et que la masse de chaque molécule est de 5,3 x 10 ^ -26 kilogrammes.
+
+And you want to find the speed of a typical
+molecule.
+Et vous voulez trouver la vitesse d'une
+molécule typique.
+
+Well, we have an equation for that!
+Eh bien, nous avons une équation pour ça !
+
+Half the mass x the average squared velocity
+is equal to 3/2 x k x the temperature.
+La moitié de la masse x la vitesse quadratique moyenne
+est égale à 3/2 x k x la température.
+
+So, to get the typical speed of a gas molecule,
+you’re going to want to find
+Donc, pour obtenir la vitesse typique d'une molécule de gaz,
+vous allez vouloir trouver
+
+the square root of the average squared velocity, which
+is equal to the square root of 3 x k x the temperature divided by the mass.
+la racine carrée de la vitesse moyenne au carré, qui
+est égale à la racine carrée de 3 x k x la température divisée par la masse.
+
+In this case, that works out to 484 m/s.
+Dans ce cas, cela équivaut à 484 m/s.
+
+But 484 m/s isn’t the average speed -- it’s
+the root mean square speed.
+Mais 484 m/s n'est pas la vitesse moyenne, c'est
+la vitesse quadratique moyenne.
+
+So, how does the root mean square speed compare
+to the actual speeds of the molecules in the gas?
+Alors, comment la racine signifie-t-elle la vitesse carrée par rapport
+aux vitesses réelles des molécules dans le gaz ?
+
+Well, back in 1859, Scottish physicist James Clerk Maxwell used statistical analysis to figure out the distribution of speeds in an ideal gas.
+Eh bien, en 1859, le physicien écossais James Clerk Maxwell a utilisé l'analyse statistique pour déterminer la distribution des vitesses dans un gaz parfait.
+
+And it looks like this.
+Et ça ressemble à ça.
+
+The top of the curve shows the speed that’s
+close to the speed of the greatest number of molecules.
+Le haut de la courbe montre la vitesse qui est
+proche de la vitesse du plus grand nombre de molécules.
+
+And the root mean square speed is slightly
+to the right of that.
+Et la vitesse quadratique moyenne est légèrement
+à droite de cela.
+
+So the molecules in an ideal gas can actually
+have a whole range of different speeds.
+Ainsi, les molécules d'un gaz parfait peuvent en fait
+avoir toute une gamme de vitesses différentes.
+
+But most of them are pretty close to
+the root mean square speed,
+Mais la plupart d'entre eux sont assez proches de
+la vitesse quadratique moyenne,
+
+so it’s a useful way to get a picture of
+how fast a gas’s molecules are moving.
+c'est donc un moyen utile d'avoir une idée de
+la vitesse à laquelle les molécules d'un gaz se déplacent.
+
+Now, we’ve seen the smooth, even way pressure
+and volume change with temperature in an ideal gas.
+Maintenant, nous avons vu le
+changement de pression et de volume régulier et uniforme avec la température dans un gaz parfait.
+
+But gases aren’t always ideal.
+Mais les gaz ne sont pas toujours idéaux.
+
+When the pressure gets too high, or the temperature
+too low, they start to act very strange.
+Lorsque la pression devient trop élevée ou la température
+trop basse, ils commencent à agir de manière très étrange.
+
+High pressure is a problem, because it forces molecules together to the point where they start to interact.
+La haute pression est un problème, car elle force les molécules ensemble au point où elles commencent à interagir.
+
+Low temperature is an issue for similar reasons.
+La basse température est un problème pour des raisons similaires.
+
+The molecules have less kinetic energy -- they’re
+moving around less energetically --
+Les molécules ont moins d'énergie cinétique - elles se
+déplacent avec moins d'énergie -
+
+so their attraction to each other starts to have an effect.
+donc leur attraction mutuelle commence à avoir un effet.
+
+And, remember, we said that one of our assumptions about ideal gases was that they don't have forces acting between molecules.
+Et, rappelez-vous, nous avons dit que l'une de nos hypothèses sur les gaz parfaits était qu'ils n'ont pas de forces agissant entre les molécules.
+
+They just bounce off of each other like ping
+pong balls.
+Ils rebondissent les uns sur les autres comme des balles de ping-
+pong.
+
+So, at higher pressures and lower temperatures, real gases tend to have a bit less volume than ideal gases would.
+Ainsi, à des pressions plus élevées et à des températures plus basses, les gaz réels ont tendance à avoir un peu moins de volume que les gaz idéaux.
+
+And at really high pressures and really low
+temperatures, gases just start acting weird.
+Et à des pressions très élevées et à des températures très basses
+, les gaz commencent à agir bizarrement.
+
+And then eventually they aren’t even gases
+anymore.
+Et puis finalement ce ne sont même
+plus des gaz.
+
+At a certain point, the attraction between the molecules takes over and stops them from bouncing around so much.
+À un certain moment, l'attraction entre les molécules prend le dessus et les empêche de rebondir autant.
+
+They become slightly more ordered, and take
+the form that we call a liquid.
+Ils deviennent un peu plus ordonnés et prennent
+la forme que nous appelons un liquide.
+
+Like when water vapor from the air condenses on the outside of your nice cool glass of orange juice, kind of making it look like it’s sweating.
+Comme lorsque la vapeur d'eau de l'air se condense à l'extérieur de votre bon verre de jus d'orange frais, ce qui donne l'impression qu'il transpire.
+
+Increase the pressure or lower the temperature even more, and the attraction between the molecules has even more of an effect.
+Augmentez la pression ou baissez encore plus la température, et l'attraction entre les molécules a encore plus d'effet.
+
+The liquid freezes into a solid.
+Le liquide se congèle en un solide.
+
+In the same way, lowering a solid’s pressure or raising its temperature will eventually make it melt into a liquid and then boil into a gas.
+De la même manière, abaisser la pression d'un solide ou augmenter sa température finira par le faire fondre en un liquide puis bouillir en un gaz.
+
+Well … usually.
+Eh bien… généralement.
+
+Take a look at this diagram.
+Jetez un oeil à ce schéma.
+
+It shows the different phases of water depending
+on its pressure and temperature.
+Il montre les différentes phases de l'eau en fonction
+de sa pression et de sa température.
+
+The vertical axis shows pressure, so the higher
+up you go in the diagram, the more pressure there is.
+L'axe vertical indique la pression, donc plus
+vous montez dans le diagramme, plus il y a de pression.
+
+The horizontal axis shows temperature, so the farther you are to the right, the higher the temperature.
+L'axe horizontal indique la température, donc plus vous êtes loin vers la droite, plus la température est élevée.
+
+Below the diagonal line (so, at low pressures
+and high temperatures) water takes the form of
+water vapor: a gas.
+Au-dessous de la ligne diagonale (donc, à basse pression
+et à haute température), l'eau prend la forme de
+vapeur d'eau : un gaz.
+
+To the left of the line that’s nearly vertical,
+water is ice: a solid.
+À gauche de la ligne presque verticale, l'
+eau est de la glace : un solide.
+
+And at the pressures and temperatures represented
+by the triangle in the middle, water is a liquid.
+Et aux pressions et températures représentées
+par le triangle au milieu, l'eau est un liquide.
+
+But you’ll notice that there’s a point
+toward the top right labeled the critical point.
+Mais vous remarquerez qu'il y a un point
+vers le haut à droite étiqueté le point critique.
+
+On a phase diagram, the critical point represents the maximum temperature and pressure where the substance can be a liquid.
+Sur un diagramme de phase, le point critique représente la température et la pression maximales auxquelles la substance peut être un liquide.
+
+For a gas to become a liquid, it has to be below a certain temperature known as the critical temperature.
+Pour qu'un gaz devienne liquide, il doit être en dessous d'une certaine température appelée température critique.
+
+For water, the critical temperature is about
+647 Kelvin.
+Pour l'eau, la température critique est d'environ
+647 Kelvin.
+
+Above the critical temperature, you can increase the pressure as much as you want, but the gas will never condense into a liquid.
+Au-dessus de la température critique, vous pouvez augmenter la pression autant que vous le souhaitez, mais le gaz ne se condensera jamais en liquide.
+
+There’s a critical pressure, too, which
+for water is about 22 megapascals.
+Il y a aussi une pression critique qui,
+pour l'eau, est d'environ 22 mégapascals.
+
+If the pressure is above the critical pressure, you can raise the temperature as much as you want, but the liquid will never boil.
+Si la pression est supérieure à la pression critique, vous pouvez augmenter la température autant que vous le souhaitez, mais le liquide ne bouillira jamais.
+
+Then there’s the point toward the bottom
+left, where the two lines intersect.
+Ensuite, il y a le point vers le bas à
+gauche, où les deux lignes se croisent.
+
+That’s the triple point.
+And that's what Mariner 9 used to map out Mars!
+C'est le triple point.
+Et c'est ce que Mariner 9 a utilisé pour cartographier Mars !
+
+A triple point is the temperature and pressure at which a substance coexists as a solid, a liquid, and a gas.
+Un point triple est la température et la pression auxquelles une substance coexiste sous forme solide, liquide et gazeuse.
+
+It’s also what we use to define the Kelvin
+temperature scale.
+C'est aussi ce que nous utilisons pour définir l'
+échelle de température Kelvin.
+
+The triple point of water is 6.105 millibars
+and exactly 273.16 Kelvin.
+Le point triple de l'eau est de 6,105 millibars
+et exactement 273,16 Kelvin.
+
+That pressure and temperature is special, because at thermal equilibrium, water can exist in three phases at once -- ice, liquid, and vapor.
+Cette pression et cette température sont particulières, car à l'équilibre thermique, l'eau peut exister en trois phases à la fois : glace, liquide et vapeur.
+
+Now, you’ll notice on the diagram that at pressures and temperatures below the triple point, there’s only the gas phase and the solid phase.
+Maintenant, vous remarquerez sur le diagramme qu'aux pressions et températures inférieures au point triple, il n'y a que la phase gazeuse et la phase solide.
+
+That’s because below its triple point, a
+substance can’t actually take a liquid form.
+C'est parce qu'en dessous de son point triple, une
+substance ne peut pas réellement prendre une forme liquide.
+
+Instead, it’s either a gas or a solid -- and
+it transitions directly from one to the other,
+Au lieu de cela, c'est soit un gaz, soit un solide - et
+il passe directement de l'un à l'autre,
+
+a process that’s known as sublimation if it goes from solid to gas, and as deposition if it goes from gas to solid.
+un processus connu sous le nom de sublimation s'il passe du solide au gaz, et de dépôt s'il passe du gaz au solide.
+
+That’s why dry ice, which is made of carbon
+dioxide, vaporizes directly to gas.
+C'est pourquoi la neige carbonique, composée de dioxyde de
+carbone, se vaporise directement en gaz.
+
+The triple point of carbon dioxide is about 5 times atmospheric pressure, so liquid carbon dioxide can’t naturally exist on Earth.
+Le point triple du dioxyde de carbone est d'environ 5 fois la pression atmosphérique, de sorte que le dioxyde de carbone liquide ne peut pas exister naturellement sur Terre.
+
+The triple point of water is used to define
+the Kelvin temperature scale because it’s consistent:
+Le point triple de l'eau est utilisé pour définir
+l'échelle de température Kelvin parce qu'il est cohérent :
+
+You just find the temperature
+where you get three phases of water at once
+vous trouvez simplement la température à
+laquelle vous obtenez trois phases d'eau à la fois
+
+-- which scientists have set to be 273.16
+Kelvin by definition.
+- que les scientifiques ont fixée à 273,16
+Kelvin par définition.
+
+It also made a lot of sense for the Mariner 9 mission to use the pressure of the triple point of water as the reference point for its Martian maps.
+Il était également très logique que la mission Mariner 9 utilise la pression du point triple de l'eau comme point de référence pour ses cartes martiennes.
+
+One of our main goals in exploring Mars has always been to search for evidence of life, either now or in the past.
+L'un de nos principaux objectifs dans l'exploration de Mars a toujours été de rechercher des preuves de vie, que ce soit maintenant ou dans le passé.
+
+And as far as we know, life needs liquid water.
+Et pour autant que nous sachions, la vie a besoin d'eau liquide.
+
+Since the reference point for Martian altitudes
+was the triple point of water, liquid water
+Étant donné que le point de référence pour les altitudes martiennes
+était le point triple de l'eau, l'eau liquide
+
+couldn't exist at altitudes above the reference
+point, where the pressure would be too low.
+ne pouvait pas exister à des altitudes supérieures au
+point de référence, où la pression serait trop basse.
+
+That made it easy to see on a map all the
+places where liquid water could be --
+Cela a permis de voir facilement sur une carte tous les
+endroits où l'eau liquide pourrait être -
+
+or have been -- and where life could possibly survive,
+or have survived.
+ou a été - et où la vie pourrait éventuellement survivre
+ou avoir survécu.
+
+Today, you learned about the kinetic theory
+of gases, and how to calculate the root mean square speed.
+Aujourd'hui, vous avez appris la théorie cinétique
+des gaz et comment calculer la vitesse quadratique moyenne.
+
+We also talked about phase changes, including the critical point, the triple point, and how that all applies on Mars.
+Nous avons également parlé des changements de phase, y compris le point critique, le point triple et comment tout cela s'applique sur Mars.
+
+Crash Course Physics is produced in association
+with PBS Digital Studios.
+Crash Course Physics est produit en association
+avec PBS Digital Studios.
+
+You can head over to their channel and check out a playlist of the latest episodes from shows like
+Vous pouvez vous rendre sur leur chaîne et consulter une liste de lecture des derniers épisodes d'émissions telles que
+
+PBS Idea Channel, Brain Craft, and Shank's FX.
+PBS Idea Channel, Brain Craft et Shank's FX.
+
+This episode of Crash Course was filmed in
+the Doctor Cheryl C. Kinney Crash Course Studio
+Cet épisode de Crash Course a été filmé dans
+le studio Doctor Cheryl C. Kinney Crash Course
+
+with the help of these amazing people and
+our equally amazing graphics team is Thought Cafe.
+avec l'aide de ces personnes incroyables et de
+notre équipe graphique tout aussi incroyable, Thought Cafe.
+

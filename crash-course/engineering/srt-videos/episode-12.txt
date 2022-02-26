@@ -1,0 +1,618 @@
+No matter where we are, we’re almost always
+affected by our environment.
+Peu importe où nous sommes, nous sommes presque toujours
+affectés par notre environnement.
+
+Because, we’re affected by the medium that
+we’re in.
+Parce que nous sommes affectés par le milieu dans lequel
+nous nous trouvons.
+
+Usually that medium is a fluid, like air.
+Habituellement, ce milieu est un fluide, comme l'air.
+
+And, to understand how these fluids work, and
+to be able to optimize our designs, we’re going to
+need to learn about fluid mechanics.
+Et, pour comprendre le fonctionnement de ces fluides
+et pouvoir optimiser nos conceptions, nous allons
+devoir en apprendre davantage sur la mécanique des fluides.
+
+Fluid mechanics explains how the air moves
+around your car, how food coloring moves through
+water, making all those pretty patterns.
+La mécanique des fluides explique comment l'air se déplace
+autour de votre voiture, comment le colorant alimentaire se déplace dans l'
+eau, créant tous ces jolis motifs.
+
+And it explains what makes quicksand act like,
+well, quicksand.
+Et cela explique ce qui fait que les sables mouvants agissent comme,
+eh bien, des sables mouvants.
+
+All of which seems worth knowing, don’t
+you think?
+Tout cela mérite d'être connu, vous ne pensez pas
+?
+
+[Theme Music]
+[Theme Music]
+
+So far, we’ve talked systems versus their
+surroundings.
+Jusqu'à présent, nous avons parlé des systèmes par rapport à leur
+environnement.
+
+We’ve learned that mass and energy
+cannot be created or destroyed, but that
+they can be converted.
+Nous avons appris que la masse et l'énergie
+ne peuvent être ni créées ni détruites, mais
+qu'elles peuvent être converties.
+
+What this means for us as engineers is that,
+in the real world, we can’t simply focus on
+what’s going on inside our system.
+Cela signifie pour nous, en tant qu'ingénieurs, que,
+dans le monde réel, nous ne pouvons pas simplement nous concentrer sur
+ce qui se passe à l'intérieur de notre système.
+
+We need to think about the outside as well.
+Il faut aussi penser à l'extérieur.
+
+That’s because machines, buildings, even our
+own bodies, are influenced by their surroundings.
+C'est parce que les machines, les bâtiments, même notre
+propre corps, sont influencés par leur environnement.
+
+To see what I mean, let’s say we’re designing
+a new car.
+Pour voir ce que je veux dire, disons que nous concevons
+une nouvelle voiture.
+
+We’ve already learned a good deal about
+engines, so you probably have a decent idea
+of what should go inside the car.
+Nous avons déjà beaucoup appris sur les
+moteurs, vous avez donc probablement une bonne idée
+de ce qui devrait se trouver à l'intérieur de la voiture.
+
+But what about the outside of the car?
+Mais qu'en est-il de l'extérieur de la voiture ?
+
+While a car is moving, it’s going to interact
+with the fluid that it’s moving through which
+will be air in most cases.
+Pendant qu'une voiture se déplace, elle va interagir
+avec le fluide dans lequel elle se déplace, qui
+sera de l'air dans la plupart des cas.
+
+Unless you’re that Tesla that got sent into space.
+À moins que vous ne soyez cette Tesla qui a été envoyée dans l'espace.
+
+As the car interacts with the air, the two
+can affect one another, and this can lead
+to what we call transfer.
+Comme la voiture interagit avec l'air, les deux
+peuvent s'affecter, ce qui peut conduire
+à ce que nous appelons un transfert.
+
+You know what transfer is, right?
+Vous savez ce qu'est un transfert, n'est-ce pas ?
+
+When something moves, or is moved, from one
+place to another?
+Quand quelque chose bouge, ou est déplacé, d'un
+endroit à un autre ?
+
+There can be a transfer of momentum, or a
+transfer of heat.
+Il peut y avoir un transfert de quantité de mouvement ou un
+transfert de chaleur.
+
+Maybe even mass.
+Peut-être même la masse.
+
+But if we’re looking at moving fluids, then we’ll often
+have a transfer of momentum, which can be better
+understood with the help of fluid mechanics.
+Mais si nous examinons des fluides en mouvement, nous aurons souvent
+un transfert de quantité de mouvement, qui peut être mieux
+compris à l'aide de la mécanique des fluides.
+
+Fluid mechanics studies how fluids respond
+to the forces exerted on them.
+La mécanique des fluides étudie la façon dont les fluides réagissent
+aux forces exercées sur eux.
+
+So how exactly do fluids move?
+Alors, comment les fluides se déplacent-ils exactement ?
+
+And how does a particle, or anything for that
+matter, move within a fluid?
+Et comment une particule, ou quoi que ce soit d'
+ailleurs, se déplace-t-elle dans un fluide ?
+
+To answer these questions, we need to know
+about stress, strain, and viscosity.
+Pour répondre à ces questions, nous devons connaître la
+contrainte, la déformation et la viscosité.
+
+Now, if you’ve been a student of physics for any amount
+of time, I’m sure you’re familiar with stress and strain in
+the colloquial sense – especially around exam time.
+Maintenant, si vous étudiez la physique depuis
+un certain temps, je suis sûr que vous connaissez le stress et la tension au
+sens familier, en particulier au moment des examens.
+
+But here, of course, they mean something completely
+different.
+Mais ici, bien sûr, ils signifient quelque chose de complètement
+différent.
+
+Suppose we have a fluid between two flat plates.
+Supposons que nous ayons un fluide entre deux plaques planes.
+
+If we were to move the bottom plate, what
+would happen to the fluid?
+Si nous devions déplacer la plaque inférieure
+, qu'adviendrait-il du fluide ?
+
+How would it move?
+Comment se déplacerait-il ?
+
+Well, at the top and bottom, where the fluid is in contact
+with the surface, the individual particles of the fluid will
+go through something called the no-slip condition.
+Eh bien, en haut et en bas, là où le fluide est en contact
+avec la surface, les particules individuelles du fluide
+passeront par ce qu'on appelle la condition de non-glissement.
+
+In the no-slip condition, a fluid in motion will come
+to a complete stop at a solid surface and assume
+a zero velocity relative to the surface.
+Dans la condition sans glissement, un fluide en mouvement
+s'arrêtera complètement sur une surface solide et adoptera
+une vitesse nulle par rapport à la surface.
+
+Basically, the particles of the fluid that
+are touching the solid will stick to its surface,
+meaning that they won’t slip.
+Fondamentalement, les particules du fluide
+qui touchent le solide se colleront à sa surface,
+ce qui signifie qu'elles ne glisseront pas.
+
+Because of this, the fluid particles in contact with the
+bottom plate will move with it, while the fluid particles
+at the top will stay in place with the stationary plate.
+De ce fait, les particules de fluide en contact avec la
+plaque inférieure se déplaceront avec elle, tandis que les particules de fluide
+en haut resteront en place avec la plaque fixe.
+
+This is all happening due to stress, the
+force that’s applied to a cross-sectional area
+of an object or substance.
+Tout cela est dû au stress, la
+force qui est appliquée à une section transversale
+d'un objet ou d'une substance.
+
+If the force is normal, or perpendicular
+to the surface of the object, then we have
+normal stress.
+Si la force est normale ou perpendiculaire
+à la surface de l'objet, alors nous avons
+une contrainte normale.
+
+If it’s parallel, then we have shear stress.
+Si c'est parallèle, alors nous avons une contrainte de cisaillement.
+
+You thought I was gonna say “parallel stress,”
+didn’t you?
+Vous pensiez que j'allais dire "stress parallèle",
+n'est-ce pas ?
+
+We can find stress by taking the applied force
+and dividing it by our cross-sectional area.
+Nous pouvons trouver la contrainte en prenant la force appliquée
+et en la divisant par notre section transversale.
+
+Now, once a fluid is stressed, the degree
+to which it stretches is called strain.
+Maintenant, une fois qu'un fluide est stressé, le
+degré auquel il s'étire est appelé déformation.
+
+Simply put, strain is the deformation that
+stress causes on a system.
+En termes simples, la contrainte est la déformation que la
+contrainte provoque sur un système.
+
+If the deformation causes something in a
+system to become either shorter or longer,
+Si la déformation fait que quelque chose dans un
+système devient plus court ou plus long,
+
+then we can find its strain by taking the change
+in length and dividing it by the initial length.
+alors nous pouvons trouver sa déformation en prenant le changement
+de longueur et en le divisant par la longueur initiale.
+
+And this is called normal strain
+Et c'est ce qu'on appelle la déformation normale.
+
+But if the deformation is a change in angle between
+two segments that had been perpendicular to each
+other, then we have shear strain.
+Mais si la déformation est un changement d'angle entre
+deux segments qui étaient perpendiculaires l'un à l'
+autre, alors nous avons une déformation de cisaillement.
+
+And we can find that by subtracting the change in
+angle from the original angle, which will either be pi
+over 2 or 90 degrees, depending on your units.
+Et nous pouvons trouver cela en soustrayant le changement d'
+angle de l'angle d'origine, qui sera soit pi
+sur 2 ou 90 degrés, selon vos unités.
+
+So all of this is what would happen if our
+bottom plate was moving.
+Donc, tout cela est ce qui se passerait si notre
+plaque inférieure bougeait.
+
+But what if neither plate moved, and we had a
+pump driving the flow of the fluid between them?
+Mais que se passerait-il si aucune plaque ne bougeait et que nous avions une
+pompe entraînant le flux de fluide entre elles ?
+
+Well, the same no-slip condition would apply, so
+while the fluid moved, its particles at the surface
+of the two plates would stay stationary.
+Eh bien, la même condition de non-glissement s'appliquerait, donc
+pendant que le fluide se déplacerait, ses particules à la surface
+des deux plaques resteraient immobiles.
+
+But another thing that we’d need to take
+into account is viscosity.
+Mais une autre chose dont nous devrions
+tenir compte est la viscosité.
+
+Viscosity is essentially a measure of a fluid’s
+resistance to flow, and it’s often referred to
+as the thickness of a fluid.
+La viscosité est essentiellement une mesure de la résistance d'un fluide
+à l'écoulement, et elle est souvent
+appelée l'épaisseur d'un fluide.
+
+For example, water has a low viscosity, since
+it flows pretty easily, while honey and other thick,
+sticky fluids have a much higher viscosity.
+Par exemple, l'eau a une faible viscosité, car
+elle s'écoule assez facilement, tandis que le miel et d'autres liquides épais et
+collants ont une viscosité beaucoup plus élevée.
+
+Some fluids will also thicken when exposed
+to stress, like when you whisk water mixed
+with cornstarch.
+Certains liquides s'épaissiront également lorsqu'ils seront exposés
+au stress, comme lorsque vous fouettez de l'eau mélangée
+à de la fécule de maïs.
+
+But others will thin out when exposed to stress, like
+quicksand, which is just water mixed with lots of sand.
+Mais d'autres vont s'amincir lorsqu'ils sont exposés au stress, comme les
+sables mouvants, qui ne sont que de l'eau mélangée à beaucoup de sable.
+
+The great Sir Isaac Newton gave us a
+way of describing how fluids move with his
+law of viscosity.
+Le grand Sir Isaac Newton nous a donné une
+façon de décrire comment les fluides se déplacent avec sa
+loi de viscosité.
+
+Simply put, this law describes Newtonian fluids
+as fluids with a viscosity that’s independent of stress.
+En termes simples, cette loi décrit les fluides newtoniens
+comme des fluides dont la viscosité est indépendante de la contrainte.
+
+No matter how much stress you put on the fluid,
+its viscosity never changes.
+Quelle que soit la pression exercée sur le fluide,
+sa viscosité ne change jamais.
+
+While no real fluid is perfectly Newtonian,
+many fluids, like air and water, are close enough
+that we can think of them that way.
+Bien qu'aucun fluide réel ne soit parfaitement newtonien, de
+nombreux fluides, comme l'air et l'eau, sont suffisamment proches pour
+que nous puissions les considérer de cette façon.
+
+Non-Newtonian fluids, on the other hand, don’t
+follow the law of viscosity.
+Les fluides non newtoniens, en revanche, ne
+suivent pas la loi de la viscosité.
+
+Their viscosity can change under stress, and
+therefore their strain can, too.
+Leur viscosité peut changer sous contrainte, et
+donc leur déformation peut également.
+
+A non-Newtonian fluid will actually thicken or thin
+out if you apply a force to it, which is exactly what
+happens when you step into quicksand.
+Un fluide non newtonien va en fait s'épaissir ou
+s'amincir si vous lui appliquez une force, ce qui est exactement ce qui
+se passe lorsque vous entrez dans des sables mouvants.
+
+The stress of you stepping onto it makes it
+become less viscous.
+Le stress de marcher dessus le
+rend moins visqueux.
+
+And then you’re in trouble.
+Et puis vous avez des ennuis.
+
+Now, there’s still the matter of how one
+fluid moves within another fluid.
+Maintenant, il reste la question de savoir comment un
+fluide se déplace dans un autre fluide.
+
+And to understand that, we should turn to
+the work of British engineer Osborne Reynolds.
+Et pour comprendre cela, il faut se tourner vers
+les travaux de l'ingénieur britannique Osborne Reynolds.
+
+In 1868, just a year after graduating college,
+Reynolds became the first professor of engineering
+at Owens College in Manchester.
+En 1868, juste un an après avoir obtenu son diplôme universitaire,
+Reynolds est devenu le premier professeur d'ingénierie
+à l'Owens College de Manchester.
+
+He spent much of his career studying fluid
+mechanics, and one of his greatest contributions
+was his work on fluid flow patterns.
+Il a passé une grande partie de sa carrière à étudier la
+mécanique des fluides, et l'une de ses plus grandes contributions a
+été son travail sur les modèles d'écoulement des fluides.
+
+In 1883, Reynolds conducted an experiment
+that revealed there are two main types of flow
+in a pipe: laminar and turbulent.
+En 1883, Reynolds a mené une expérience
+qui a révélé qu'il existe deux principaux types d'écoulement
+dans un tuyau : laminaire et turbulent.
+
+This experiment was so influential that the
+device that he used to conduct it was still used
+well into the 21st century.
+Cette expérience a eu une telle influence que l'
+appareil qu'il a utilisé pour la mener a encore été
+utilisé jusqu'au 21e siècle.
+
+In his experiment, Reynolds used a colored
+fluid with the same density of water,
+Dans son expérience, Reynolds a utilisé un
+fluide coloré avec la même densité d'eau
+
+and injected a very thin stream of it into a large
+transparent tube with water flowing through it.
+et en a injecté un très mince filet dans un grand
+tube transparent traversé par de l'eau.
+
+When he injected the dye into slow-moving
+water, the flow of the dye maintained its place
+and pattern in the center of the water.
+Lorsqu'il a injecté le colorant dans de l'
+eau lente, le flux du colorant a maintenu sa place
+et son motif au centre de l'eau.
+
+We call this laminar flow.
+Nous appelons ce flux laminaire.
+
+But when Reynolds injected the dye into water that
+was moving fast, the dye spread out and diffused,
+mixing with the water and coloring it.
+Mais lorsque Reynolds a injecté le colorant dans de l'eau qui
+se déplaçait rapidement, le colorant s'est étalé et diffusé, se
+mélangeant à l'eau et la colorant.
+
+This is called turbulent flow.
+C'est ce qu'on appelle un écoulement turbulent.
+
+Those were the two main types of flow that
+Reynolds found, but we also have something
+called transitional flow.
+Ce sont les deux principaux types de flux que
+Reynolds a trouvés, mais nous avons aussi quelque chose
+appelé flux de transition.
+
+Transitional flow is a mixture of laminar
+and turbulent flow.
+L'écoulement transitionnel est un mélange d'écoulement laminaire
+et turbulent.
+
+It often has turbulence in the center of the
+pipe, and laminar flow near the edges.
+Il y a souvent des turbulences au centre du
+tuyau et un écoulement laminaire près des bords.
+
+Reynolds’ experiment allowed him to
+determine when the transition would occur
+from laminar to turbulent,
+L'expérience de Reynolds lui a permis de
+déterminer quand la transition se produirait
+de laminaire à turbulent,
+
+giving us the quantity we now know as
+the Reynolds number.
+nous donnant la quantité que nous connaissons maintenant sous le nom de
+nombre de Reynolds.
+
+We can find the Reynolds number for the
+flow of a fluid in a pipe
+Nous pouvons trouver le nombre de Reynolds pour le
+débit d'un fluide dans un tuyau
+
+by taking the diameter of the pipe and multiplying it
+by the velocity of the fluid and the density of the fluid,
+then dividing all of that by the viscosity of the fluid.
+en prenant le diamètre du tuyau et en le multipliant
+par la vitesse du fluide et la densité du fluide,
+puis en divisant tout cela par la viscosité du fluide.
+
+Now, the value we get for our Reynolds number will be
+dimensionless, meaning there are no units attached to it,
+but it can tell us a lot about the movement of a fluid.
+Maintenant, la valeur que nous obtenons pour notre nombre de Reynolds sera sans
+dimension, ce qui signifie qu'aucune unité ne lui est attachée,
+mais cela peut nous en dire beaucoup sur le mouvement d'un fluide.
+
+It lets us know how predictable, or chaotic,
+our fluid flow will be.
+Cela nous permet de savoir à quel point
+notre flux de fluide sera prévisible ou chaotique.
+
+That’s because we can look at the Reynolds
+number as a ratio of inertial forces to viscous forces.
+C'est parce que nous pouvons considérer le
+nombre de Reynolds comme un rapport des forces d'inertie aux forces visqueuses.
+
+Inertial forces represent the driving kinetic movement
+of the fluid, which result in chaotic flow movement, like
+the swirling motion of eddies and vortices.
+Les forces d'inertie représentent le mouvement cinétique d'entraînement
+du fluide, qui se traduit par un mouvement d'écoulement chaotique, comme
+le mouvement tourbillonnant des tourbillons et des tourbillons.
+
+Viscous forces represent resistance to flow and
+are more likely to provide slow, steady motion.
+Les forces visqueuses représentent la résistance à l'écoulement et
+sont plus susceptibles de fournir un mouvement lent et régulier.
+
+So the more powerful your viscous forces are,
+the slower and more controlled the fluid’s motion
+will be.
+Ainsi, plus vos forces visqueuses sont puissantes,
+plus le mouvement du fluide sera lent et contrôlé
+.
+
+The higher your inertial forces are, the more
+chaotic your flow will be.
+Plus vos forces d'inertie sont élevées, plus
+votre flux sera chaotique.
+
+Therefore, a low Reynolds number
+represents laminar flow, while a high Reynolds
+number represents turbulent flow.
+Par conséquent, un faible nombre de Reynolds
+représente un écoulement laminaire, tandis qu'un
+nombre de Reynolds élevé représente un écoulement turbulent.
+
+In a pipe, laminar flows will usually have a
+Reynolds number lower than 2100, while turbulent
+flows will usually be higher than 4000.
+Dans un tuyau, les écoulements laminaires auront généralement un
+nombre de Reynolds inférieur à 2100, tandis que les
+écoulements turbulents seront généralement supérieurs à 4000.
+
+And a Reynolds number between these two values
+typically represents transitional flow.
+Et un nombre de Reynolds entre ces deux valeurs
+représente généralement un écoulement transitoire.
+
+Understanding fluid mechanics allows us
+to use and apply equipment for fluid flow, like
+pumps and pipes.
+Comprendre la mécanique des fluides nous permet
+d'utiliser et d'appliquer des équipements pour l'écoulement des fluides, comme les
+pompes et les tuyaux.
+
+And we can also apply this knowledge so
+we can better understand how things move
+inside a fluid.
+Et nous pouvons également appliquer ces connaissances afin de
+mieux comprendre comment les choses se déplacent à l'
+intérieur d'un fluide.
+
+Like that new car we’re designing.
+Comme cette nouvelle voiture que nous concevons.
+
+If we’re testing our new car in a wind tunnel, we’ll
+want to see how the air around the car is moving
+and design our vehicle to account for the flow.
+Si nous testons notre nouvelle voiture dans une soufflerie, nous
+voudrons voir comment l'air autour de la voiture se déplace
+et concevoir notre véhicule pour tenir compte du flux.
+
+The more resistance our cars have from the
+air, the harder it is to go faster and the more fuel
+they’ll need to use to travel at a given speed.
+Plus nos voitures ont de la résistance de l'
+air, plus il est difficile d'aller plus vite et plus
+elles auront besoin de carburant pour se déplacer à une vitesse donnée.
+
+This is why understanding fluid flow is so
+important.
+C'est pourquoi la compréhension de l'écoulement des fluides est si
+importante.
+
+So remember, it’s not just the system that
+matters, but also the surroundings.
+N'oubliez donc pas que ce n'est pas seulement le système qui
+compte, mais aussi l'environnement.
+
+Today was all about fluid mechanics.
+Aujourd'hui était consacré à la mécanique des fluides.
+
+We talked about the different scales that
+we work with as engineers as well as mass
+and energy transfers.
+Nous avons parlé des différentes échelles avec lesquelles
+nous travaillons en tant qu'ingénieurs ainsi que des
+transferts de masse et d'énergie.
+
+We learned about the no-slip condition and
+the different types of stress and strain that
+we’ll encounter.
+Nous avons appris la condition antidérapante et
+les différents types de stress et de tension que
+nous rencontrerons.
+
+Newton’s law of viscosity gives us a way to
+describe fluid movement,
+La loi de viscosité de Newton nous donne un moyen de
+décrire le mouvement des fluides,
+
+and Reynold’s number helps in determining the
+difference between laminar and turbulent flow.
+et le nombre de Reynold aide à déterminer la
+différence entre l'écoulement laminaire et turbulent.
+
+I’ll see you next time, when we’ll learn
+even more about fluid flow and some of the
+equipment behind momentum transfer.
+Je vous verrai la prochaine fois, quand nous en apprendrons
+encore plus sur l'écoulement des fluides et certains des
+équipements derrière le transfert d'élan.
+
+Crash Course Engineering is produced in association
+with PBS Digital Studios.
+Crash Course Engineering est produit en association
+avec PBS Digital Studios.
+
+You can head over to their channel to check out a
+playlist of their amazing shows, like The Art Assignment,
+The Origin of Everything, and Physics Girl.
+Vous pouvez vous rendre sur leur chaîne pour consulter une
+liste de lecture de leurs émissions incroyables, comme The Art Assignment,
+The Origin of Everything et Physics Girl.
+
+Crash Course is a Complexly production and this
+episode was filmed in the Doctor Cheryl C. Kinney
+Studio with the help of these wonderful people.
+Crash Course est une production de Complexly et cet
+épisode a été filmé dans le studio du docteur Cheryl C. Kinney
+avec l'aide de ces personnes merveilleuses.
+
+And our amazing graphics team is Thought Cafe.
+Et notre incroyable équipe graphique est Thought Cafe.
+

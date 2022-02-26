@@ -1,0 +1,736 @@
+Welcome to another edition of Crash Course! Today -- what is that smell? Oh, thanks for the rotten eggs.
+Bienvenue dans une autre édition de Crash Course !  Aujourd'hui, quelle est cette odeur ?  Oh, merci pour les œufs pourris.
+
+Who is this -- who -- why are we doing this?
+Qui est-ce -- qui -- pourquoi faisons-nous cela ?
+
+I mean, are going to be using this to illustrate
+some kind of scientific principle?
+Je veux dire, allez-vous utiliser cela pour illustrer
+une sorte de principe scientifique ?
+
+Because we probably could have, like, used some,
+like, some lilacs or something that wasn't egg.
+Parce qu'on aurait probablement pu utiliser des,
+genre, des lilas ou quelque chose qui n'était pas de l'œuf.
+
+So, like, we're saying, "I can smell it when I'm this close, but if I were farther away, I couldn't smell it."
+Donc, comme, nous disons, "Je peux le sentir quand je suis si près, mais si j'étais plus loin, je ne pourrais pas le sentir."
+
+Now, eggs produce hydrogen sulfide when they start to go bad, which smells like sulfur --
+Maintenant, les œufs produisent du sulfure d'hydrogène lorsqu'ils commencent à se gâter, ce qui sent le soufre -
+
+that's what we think of when we think of the
+"sulfur smell."
+c'est ce à quoi nous pensons lorsque nous pensons à
+"l'odeur de soufre".
+
+It takes time for the molecules of hydrogen
+sulfide to make their way to my nose,
+Il faut du temps pour que les molécules de
+sulfure d'hydrogène arrivent jusqu'à mon nez
+
+'cause obviously gases don't travel from one
+place to another instantly.
+, parce qu'évidemment les gaz ne voyagent pas instantanément d'un
+endroit à un autre.
+
+It take some time since, as we've learned
+over the past couple of weeks,
+Cela prend un certain temps car, comme nous l'avons appris
+au cours des deux dernières semaines, les
+
+gases have real-life constraints on how they
+move here in the non-ideal world.
+gaz ont des contraintes réelles sur la façon dont ils se
+déplacent ici dans le monde non idéal.
+
+These are the rules that determine, say, how
+fast a leaking tire goes flat;
+Ce sont les règles qui déterminent, par exemple, la
+vitesse à laquelle un pneu qui fuit se dégonfle ;
+
+or why helium balloons don't last forever;
+and, of course, how, where, and when we smell stuff.
+ou pourquoi les ballons à l'hélium ne durent pas éternellement ;
+et, bien sûr, comment, où et quand nous sentons quelque chose.
+
+One key to understanding the behavior of a gas is its velocity, that is, the speed and direction that it moves.
+Une clé pour comprendre le comportement d'un gaz est sa vitesse, c'est-à-dire la vitesse et la direction dans laquelle il se déplace.
+
+And THAT depends on a few important physical
+factors.
+Et CELA dépend de quelques facteurs physiques importants
+.
+
+You ready to learn more? Let's do it.
+Vous êtes prêt à en savoir plus ?  Faisons-le. 
+
+That smell IS coming from the eggs, isn't
+it?
+Cette odeur vient des œufs, n'est-ce
+pas ?
+
+[Theme Music]
+[Musique à thème]
+
+So. "Velocity of a gas": what does that even mean? I mean, it's easy to understand the velocity of a car.
+Alors.  « Vitesse d'un gaz » : qu'est-ce que cela signifie même ?  Je veux dire, il est facile de comprendre la vitesse d'une voiture.
+
+You can find the velocity by dividing the distance that the thing traveled by the time it took to do it,
+Vous pouvez trouver la vitesse en divisant la distance parcourue par la chose par le temps qu'il a fallu pour le faire,
+
+and then tell what direction it's going, and
+then you're done.
+puis dire dans quelle direction elle va, et
+puis vous avez terminé.
+
+But the velocity of gases is harder t describe, because they move in more than one direction at a time,
+Mais la vitesse des gaz est plus difficile à décrire, car ils se déplacent dans plus d'une direction à la fois,
+
+and the overall shape and volume of a gas
+cloud can change constantly.
+et la forme et le volume généraux d'un
+nuage de gaz peuvent changer constamment.
+
+To understand gas velocity, we have to know
+what factors affect it, and how.
+Pour comprendre la vitesse du gaz, nous devons savoir
+quels facteurs l'affectent et comment.
+
+As you might have guessed, there's math associated
+with this.
+Comme vous l'avez peut-être deviné, il y a des mathématiques associées
+à cela.
+
+There are two ways of studying and talking
+about gases.
+Il y a deux façons d'étudier et de parler
+des gaz.
+
+First, we can consider them as a collection of atoms or molecules that act together as a system.
+Premièrement, nous pouvons les considérer comme un ensemble d'atomes ou de molécules qui agissent ensemble comme un système.
+
+When we do that, we often talk about the net
+velocity,
+Lorsque nous faisons cela, nous parlons souvent de la
+vitesse nette,
+
+or how fast a sample of gas moves from one
+place to another,
+ou de la vitesse à laquelle un échantillon de gaz se déplace d'un
+endroit à un autre,
+
+like the rotten egg smell wafting its way
+to my nose.
+comme l'odeur d'œuf pourri qui se dirige
+vers mon nez.
+
+At other times, we focus on the individual
+atoms and molecules that make up the gas.
+À d'autres moments, nous nous concentrons sur les
+atomes et les molécules individuels qui composent le gaz.
+
+In that case, we use the average velocity
+of each of the particles.
+Dans ce cas, nous utilisons la vitesse moyenne
+de chacune des particules.
+
+That's the statistical mean of the speeds of all the individual atoms or molecules in the system.
+C'est la moyenne statistique des vitesses de tous les atomes ou molécules individuels du système.
+
+There are always faster ones and slower ones,
+but it all evens out in the mean.
+Il y en a toujours des plus rapides et des plus lents,
+mais tout s'équilibre dans la moyenne.
+
+The net velocity of a gas in any one direction will always be lower than the average velocity of its molecules
+La vitesse nette d'un gaz dans n'importe quelle direction sera toujours inférieure à la vitesse moyenne de ses molécules
+
+because the overall motion of the gas is hindered
+by collisions among the individual particles.
+car le mouvement global du gaz est entravé
+par des collisions entre les particules individuelles.
+
+As with most things in chemistry, and also with life, how a gas moves is more complex than it at first appears.
+Comme pour la plupart des choses en chimie, et aussi avec la vie, la façon dont un gaz se déplace est plus complexe qu'il n'y paraît à première vue.
+
+The individual particles in a gas never move at exactly the same speed or direction for very long,
+Les particules individuelles dans un gaz ne se déplacent jamais exactement à la même vitesse ou dans la même direction pendant très longtemps,
+
+instead, they bounce around like crazy, bumping into the walls of the container and each other over and over.
+au lieu de cela, elles rebondissent comme des folles, se cognant contre les parois du récipient et les unes contre les autres encore et encore.
+
+It's sort of like a group of kids in a hallway,
+C'est un peu comme un groupe d'enfants dans un couloir,
+
+they may be moving fast individually, but
+they bounce around a lot and get sidetracked.
+ils peuvent se déplacer rapidement individuellement, mais
+ils rebondissent beaucoup et se laissent distraire.
+
+They always make it to the lunchroom eventually,
+Ils finissent toujours par arriver à la salle à manger,
+
+but the group's overall speed is lower than
+the speed of any individual kid.
+mais la vitesse globale du groupe est inférieure à
+la vitesse de n'importe quel enfant individuel.
+
+So. What makes a gas move faster or slower?
+Alors.  Qu'est-ce qui fait qu'un gaz se déplace plus vite ou plus lentement ?
+
+Well we already know that gas atoms and molecules
+move faster when the temperature increases.
+Eh bien, nous savons déjà que les atomes et les molécules de gaz se
+déplacent plus rapidement lorsque la température augmente.
+
+We can understand why that happens by remembering
+what temperature actually is:
+Nous pouvons comprendre pourquoi cela se produit en nous souvenant de
+ce qu'est réellement la température : la
+
+Temperature is a property of matter that is
+proportional to the average
+température est une propriété de la matière qui est
+proportionnelle à l'
+
+or mean kinetic energy of all the atoms or
+molecules in the system.
+énergie cinétique moyenne ou moyenne de tous les atomes ou
+molécules du système.
+
+We sometimes think of temperature merely in terms of measuring hotness -- not that kind of hotness!
+Nous pensons parfois à la température simplement en termes de mesure de la chaleur -- pas ce genre de chaleur !
+
+The hotness or coldness of a material, and
+it is related to that,
+La chaleur ou la froideur d'un matériau, et
+c'est lié à cela,
+
+but when you get right down to it temperature is really just a way of expressing average kinetic energy.
+mais quand on s'y met, la température n'est en fait qu'une façon d'exprimer l'énergie cinétique moyenne.
+
+The reason a stove burns you, is that the
+fast moving particles of the burner
+La raison pour laquelle un réchaud vous brûle, c'est que les
+particules en mouvement rapide du brûleur
+
+make the particles in your hand move so fast
+that they tear apart your cells and tissues.
+font que les particules de votre main se déplacent si
+rapidement qu'elles déchirent vos cellules et vos tissus.
+
+It's just a transfer of kinetic energy.
+C'est juste un transfert d'énergie cinétique.
+
+And what does kinetic energy have to do with
+velocity? Everything.
+Et qu'est-ce que l'énergie cinétique a à voir avec la
+vitesse ?  Tout. 
+
+And, it also describes the relationship between
+a particle's velocity and its mass.
+Et, il décrit également la relation entre
+la vitesse d'une particule et sa masse.
+
+So, a good understanding of kinetic energy
+will help a lot as we study the motion of gases.
+Ainsi, une bonne compréhension de l'énergie cinétique
+sera d'une grande aide lorsque nous étudierons le mouvement des gaz.
+
+So first, the formula for kinetic energy is
+one half m v squared.
+Alors d'abord, la formule de l'énergie cinétique est
+un demi m v au carré.
+
+And as you can see, any changes in the kinetic
+energy are directly linked to changes in velocity.
+Et comme vous pouvez le voir, tout changement dans l'
+énergie cinétique est directement lié aux changements de vitesse.
+
+If we rearrange the formula, we find that
+the velocity of a body equals
+Si nous réorganisons la formule, nous constatons que
+la vitesse d'un corps est égale à
+
+the square root of two times the kinetic energy,
+divided by its mass.
+la racine carrée de deux fois l'énergie cinétique,
+divisée par sa masse.
+
+This little math exercise highlights two important
+points.
+Ce petit exercice de maths met en évidence deux
+points importants.
+
+One: because the mass is in the denominator, we can tell that it is inversely proportional to the velocity,
+Premièrement : parce que la masse est au dénominateur, nous pouvons dire qu'elle est inversement proportionnelle à la vitesse,
+
+meaning that bigger masses move more slowly than smaller masses that have the same kinetic energy.
+ce qui signifie que les masses plus grandes se déplacent plus lentement que les masses plus petites qui ont la même énergie cinétique.
+
+And two: the velocity is proportional to the
+square root of the mass,
+Et deuxièmement : la vitesse est proportionnelle à la
+racine carrée de la masse,
+
+meaning that a fairly large change in mass is required to make a significant change in the velocity.
+ce qui signifie qu'un changement de masse assez important est nécessaire pour faire un changement significatif de la vitesse.
+
+So, now we can show how the velocity of a
+gas relates to both its temperature,
+Ainsi, nous pouvons maintenant montrer comment la vitesse d'un
+gaz est liée à la fois à sa température
+
+and therefore its average kinetic energy;
+and also to the mass of its particles.
+et donc à son énergie cinétique moyenne ;
+et aussi à la masse de ses particules.
+
+But, how do we put that all together?
+Mais comment concilier tout cela ?
+
+This is where the Scottish chemist Thomas
+Graham comes in.
+C'est là qu'intervient le chimiste écossais Thomas
+Graham.
+
+In 1846, Graham published his research on
+the motion of gas particles.
+En 1846, Graham publie ses recherches sur
+le mouvement des particules de gaz.
+
+Which he did by passing gases, if you will,
+through a porous barrier.
+Ce qu'il a fait en faisant passer des gaz, si vous voulez, à
+travers une barrière poreuse.
+
+The process by which gases travel through
+an orifice or opening is known as effusion.
+Le processus par lequel les gaz traversent
+un orifice ou une ouverture est appelé épanchement.
+
+Graham was interested in how fast the gases
+pass through the barrier.
+Graham s'intéressait à la vitesse à laquelle les
+gaz traversaient la barrière.
+
+But this is called the rate of effusion, not
+the velocity.
+Mais cela s'appelle le taux d'épanchement, pas
+la vitesse.
+
+That's because here we're measuring the amount of gas that passes through at any given period of time,
+C'est parce qu'ici, nous mesurons la quantité de gaz qui traverse à un moment donné, et
+
+not the distance that it moves in that time.
+non la distance qu'il parcourt pendant ce temps.
+
+We might measure amount in terms of moles or in terms of volume, but the rate of effusion never uses distance.
+Nous pourrions mesurer la quantité en termes de grains de beauté ou en termes de volume, mais le taux d'épanchement n'utilise jamais la distance.
+
+One more thing before we move on, don't let
+the symbols confuse you.
+Une dernière chose avant de continuer, ne laissez pas
+les symboles vous confondre.
+
+Notice that lower case v stand for velocity and capital V stands for volume - the perils of symbols.
+Notez que le v minuscule représente la vitesse et le V majuscule représente le volume - les périls des symboles.
+
+Thomas Graham measured the rates of effusion
+for various gases
+Thomas Graham a mesuré les taux d'effusion
+de divers gaz
+
+and his results fit perfectly with what we
+already know: the more massive a gas is, the
+et ses résultats correspondent parfaitement à ce que nous
+savons déjà : plus un gaz est massif,
+
+more slowly it moves.
+plus il se déplace lentement.
+
+From his observations, Graham developed a formula -- now known as Graham's Law of Effusion --
+À partir de ses observations, Graham a développé une formule - maintenant connue sous le nom de loi d'effusion de Graham -
+
+for comparing the rates of effusion of different
+gases.
+pour comparer les taux d'épanchement de différents
+gaz.
+
+It states: Under identical conditions, the ratio of the rate of effusion of gas a to the rate of effusion of gas b
+Elle stipule : Dans des conditions identiques, le rapport du taux d'épanchement du gaz a au taux d'épanchement du gaz b
+
+is equal to the ratio of the square root of the molar mass of gas b to the square root of the molar mass of gas a.
+est égal au rapport de la racine carrée de la masse molaire du gaz b à la racine carrée de la masse molaire du gaz b.  gaz A.
+
+It is a mouthful, but it really just confirms
+what we deduced earlier:
+C'est une bouchée, mais cela ne fait que confirmer
+ce que nous avons déduit plus tôt :
+
+the rate of motion of a gas is inversely proportional
+to the square root of its mass.
+la vitesse de déplacement d'un gaz est inversement proportionnelle
+à la racine carrée de sa masse.
+
+For example, if it takes 4.5 minutes for 1.0 liter of helium to effuse through a porous barrier,
+Par exemple, s'il faut 4,5 minutes pour qu'1,0 litre d'hélium s'écoule à travers une barrière poreuse,
+
+how long will it take for 1.0 liter of chlorine
+to effuse under identical conditions?
+combien de temps faudra-t-il pour qu'1,0 litre de chlore
+s'écoule dans des conditions identiques ?
+
+All we need to figure it out, is Graham's
+Law.
+Tout ce dont nous avons besoin pour comprendre, c'est la loi de Graham
+.
+
+Let's make the helium gas a, and chlorine
+will be our gas b.
+Faisons le gaz hélium a, et le chlore
+sera notre gaz b.
+
+First, we have to find helium's rate of effusion -- in this case, we're using Volume with a capital V.
+Tout d'abord, nous devons trouver le taux d'épanchement de l'hélium -- dans ce cas, nous utilisons Volume avec un V majuscule.
+
+So for helium, 1.0 liter in 4.5 minutes gives
+the rate of 0.22 liters per minute.
+Ainsi, pour l'hélium, 1,0 litre en 4,5 minutes donne
+le taux de 0,22 litre par minute.
+
+So, we plug that into the main formula -- chlorine gas has a molar mass of two times that of atomic chlorine --
+Donc, nous insérons cela dans la formule principale - le chlore gazeux a une masse molaire de deux fois celle du chlore atomique -
+
+35.5 times two equals 70.9,
+and helium's molar mass is 4.00.
+35,5 fois deux égale 70,9,
+et la masse molaire de l'hélium est de 4,00.
+
+Put those numbers in too.
+Mettez ces chiffres aussi.
+
+Careful calculation shows that Cl2's rate of effusion under these conditions would be 0.052 liters per minute,
+Un calcul minutieux montre que le taux d'épanchement de Cl2 dans ces conditions serait de 0,052 litre par minute,
+
+significantly slower than helium.
+nettement plus lent que l'hélium.
+
+This, of course, is reasonable, because Cl2
+is much more massive than helium.
+Ceci, bien sûr, est raisonnable, car Cl2
+est beaucoup plus massif que l'hélium.
+
+Graham mainly studied gases passing through
+orifices in a barrier,
+Graham a principalement étudié les gaz traversant des
+orifices dans une barrière,
+
+but gases aren't usually trapped with an orifice
+in a barrier.
+mais les gaz ne sont généralement pas piégés avec un orifice
+dans une barrière.
+
+They are usually able to just move freely, so how do we study their motion under those conditions?
+Ils sont généralement capables de se déplacer librement, alors comment étudions-nous leur mouvement dans ces conditions ?
+
+When gases are allowed to move freely,
+Lorsque les gaz sont autorisés à se déplacer librement,
+
+they tend to move from regions of high concentration
+to regions of low concentration.
+ils ont tendance à se déplacer des régions à forte concentration
+vers les régions à faible concentration.
+
+In a sense, they move away from places where
+they're crowded
+En un sens, ils s'éloignent des endroits où
+ils sont bondés
+
+and toward places where they have a little
+bit more elbow room.
+et se dirigent vers des endroits où ils ont un
+peu plus de latitude.
+
+The difference in concentration between two
+points is called a concentration gradient,
+La différence de concentration entre deux
+points s'appelle un gradient de concentration,
+
+and it's kind of like a hill that matter rolls
+down, always moving from high to low.
+et c'est un peu comme une colline que la matière
+descend, se déplaçant toujours de haut en bas.
+
+Gases spread out like that until they've dispersed
+evenly throughout the available space.
+Les gaz se répartissent ainsi jusqu'à ce qu'ils se soient dispersés
+uniformément dans tout l'espace disponible.
+
+This process is called diffusion.
+Ce processus est appelé diffusion.
+
+Now, it's important to keep in mind that the particles in a gas don't work together somehow to move in a specific direction.
+Maintenant, il est important de garder à l'esprit que les particules d'un gaz ne fonctionnent pas ensemble pour se déplacer dans une direction spécifique.
+
+Remember those kids making their way down
+the hall?
+Vous souvenez-vous de ces enfants qui se frayaient un chemin dans
+le couloir ?
+
+They all know where the lunchroom is, and
+they're hungry,
+Ils savent tous où se trouve la salle à manger et
+ils ont faim,
+
+so even though there are a lot of distractions,
+they move purposely toward their destination.
+alors même s'il y a beaucoup de distractions,
+ils se dirigent délibérément vers leur destination.
+
+Gases, on the other hand, only appear to move
+in a specific direction.
+Les gaz, en revanche, ne semblent se déplacer que
+dans une direction spécifique.
+
+It's really just random collisions pushing the molecules apart, thus making them spread out in every direction.
+Ce ne sont en réalité que des collisions aléatoires qui écartent les molécules, les dispersant ainsi dans toutes les directions.
+
+In other words, the gross eggy gas that I smelled earlier didn't travel just toward my nose;
+En d'autres termes, le gros gaz d'oeuf que j'ai senti plus tôt ne s'est pas seulement dirigé vers mon nez;
+
+its particles spread out in every direction
+from the eggs,
+ses particules se sont propagées dans toutes les directions à
+partir des œufs,
+
+and my nose simply noticed the ones that happened
+to have spread in THAT direction.
+et mon nez a simplement remarqué celles qui
+se sont propagées dans CETTE direction.
+
+Because diffusion is completely free movement,
+Parce que la diffusion est un mouvement totalement libre, le
+
+calculating the motion of individual particles
+becomes even more complicated.
+calcul du mouvement des particules individuelles
+devient encore plus compliqué.
+
+Now, we're not gonna get into the super complex
+mathematics of all these collisions,
+Maintenant, nous n'allons pas entrer dans les mathématiques super complexes
+de toutes ces collisions,
+
+but it is possible to make decent estimates
+regarding the net velocity of gases
+mais il est possible de faire des estimations décentes
+concernant la vitesse nette des gaz
+
+simply by disregarding the collisions and applying Graham's Law of Effusion to diffusion as well.
+simplement en ne tenant pas compte des collisions et en appliquant également la loi d'effusion de Graham à la diffusion.
+
+Here's how it works: This is a simple acrylic
+tube -- nothing fancy.
+Voici comment cela fonctionne : il s'agit d'un simple
+tube en acrylique - rien d'extraordinaire.
+
+On one side, we have a cotton ball that's
+soaked with concentrated ammonia,
+D'un côté, nous avons une boule de coton
+imbibée d'ammoniac concentré,
+
+and on the other side, a cotton ball soaked
+with concentrated hydrochloric acid,
+et de l'autre, une boule de coton imbibée
+d'acide chlorhydrique concentré
+
+which is why we're doing this in a lab, and
+not at my desk.
+, c'est pourquoi nous faisons cela dans un laboratoire, et
+non à mon bureau.
+
+Both of these substances are very smelly,
+because they're giving off lots of fumes,
+Ces deux substances sont très odorantes,
+car elles dégagent beaucoup de vapeurs,
+
+or in other words, a lot of the molecules
+in the liquid are being released in gas form.
+ou en d'autres termes, beaucoup de molécules
+dans le liquide sont libérées sous forme gazeuse.
+
+When we put the cotton balls in the glass tube and close off the ends, those gases continue to spread,
+Lorsque nous mettons les boules de coton dans le tube de verre et que nous fermons les extrémités, ces gaz continuent de se répandre,
+
+but they have no where to go except farther
+into the tube.
+mais ils n'ont nulle part où aller sauf plus loin
+dans le tube.
+
+Fun fact: ammonia and hydrochloric acid react together readily to form a solid -- ammonium chloride.
+Fait amusant : l'ammoniac et l'acide chlorhydrique réagissent facilement pour former un solide : le chlorure d'ammonium.
+
+That's a precipitation reaction, but this time it's happening in a mixture of gases, not liquids.
+C'est une réaction de précipitation, mais cette fois, cela se produit dans un mélange de gaz, pas de liquides.
+
+Because the ammonium chloride is a solid at
+room temperature,
+Parce que le chlorure d'ammonium est un solide à
+température ambiante,
+
+it forms a superfine white powder where the
+two gases meet in the tubes,
+il forme une poudre blanche superfine là où les
+deux gaz se rencontrent dans les tubes
+
+so we'll be able to tell exactly how far each
+gas traveled before they met.
+, nous serons donc en mesure de dire exactement la distance
+parcourue par chaque gaz avant de se rencontrer.
+
+Let's try to figure out where that's going
+to be.
+Essayons de comprendre où cela
+va se passer.
+
+First of all, remember that Graham's Law is
+only an estimate when applied to diffusion,
+Tout d'abord, rappelez-vous que la loi de Graham n'est
+qu'une estimation lorsqu'elle est appliquée à la diffusion,
+
+but it's a good enough estimate to work for
+our purposes, here.
+mais c'est une estimation suffisamment bonne pour fonctionner pour
+nos besoins, ici.
+
+The molar mass of ammonium, which we call "gas a," is 17 and the molar mass of hydrochloric acid, "gas b," is 36.
+La masse molaire de l'ammonium, que nous appelons "gaz a", est de 17 et la masse molaire de l'acide chlorhydrique, "gaz b", est de 36.
+
+If we plug those into Graham's Law, and set
+hydrochloric acid's rate of diffusion at 1.0,
+Si nous les connectons à la loi de Graham et
+fixons le taux de diffusion de l'acide chlorhydrique à 1,0,
+
+since we are only looking for a ratio, here,
+puisque nous ne cherchons qu'un rapport, ici,
+
+we'll find that ammonia's rate of diffusion will be about 1.5 times as fast as that of hydrochloric acid.
+nous trouverons que la vitesse de diffusion de l'ammoniac sera environ 1,5 fois plus rapide que celle de l'acide chlorhydrique.
+
+That means that the ammonium chloride should form about 3/5 of the way down the tube from the NH3
+Cela signifie que le chlorure d'ammonium doit se former à environ 3/5 du chemin du tube à partir du NH3
+
+and about 2/5 of the way from the HCl.
+et à environ 2/5 du chemin à partir du HCl.
+
+And, there it is. See that white cloud? That's
+the ammonium chloride powder forming.
+Et voilà.  Vous voyez ce nuage blanc ?  C'est
+la formation de poudre de chlorure d'ammonium.
+
+It'll eventually settle in the glass,
+Il finira par se déposer dans le verre,
+
+but it's so fine that even the tiny currents that occur as the two gases mix are enough to toss it around a little.
+mais il est si fin que même les minuscules courants qui se produisent lorsque les deux gaz se mélangent suffisent à le secouer un peu.
+
+The ammonia has indeed moved through about
+three fifths of the tube.
+L'ammoniac a en effet traversé environ les
+trois cinquièmes du tube.
+
+Meanwhile the hydrochloric acid has only traveled
+through about two fifths of the tube.
+Pendant ce temps, l'acide chlorhydrique n'a
+parcouru qu'environ les deux cinquièmes du tube.
+
+So, we've proven now that Graham's Law, as
+an estimate at least, works.
+Donc, nous avons maintenant prouvé que la loi de Graham, du
+moins en tant qu'estimation, fonctionne.
+
+The distances that the two gases traveled were indeed proportional to their molar masses. Makes sense.
+Les distances parcourues par les deux gaz étaient en effet proportionnelles à leurs masses molaires.  Logique. 
+
+That's one of the cool things about science: it always ends up making sense, once you know what you're looking for.
+C'est l'un des aspects intéressants de la science : cela finit toujours par avoir du sens, une fois que vous savez ce que vous recherchez.
+
+And that's it for this episode of Crash Course
+Chemistry. Thank you for watching.
+Et c'est tout pour cet épisode de Crash Course
+Chemistry.  Merci d'avoir regardé. 
+
+If you listened carefully, you learned the
+difference between the net velocity of a gas
+Si vous avez écouté attentivement, vous avez appris la
+différence entre la vitesse nette d'un gaz
+
+and the average velocity of its particles,
+et la vitesse moyenne de ses particules,
+
+and that both things have a lot to do with
+the mass and kinetic energy of the particles.
+et que les deux choses ont beaucoup à voir avec
+la masse et l'énergie cinétique des particules.
+
+You learned about effusion and what Thomas
+Graham's Law of Effusion tells us about it,
+Vous avez appris l'effusion et ce que la
+loi de l'effusion de Thomas Graham nous en dit,
+
+and how the law of effusion can also be applied
+to diffusion, but not as reliably.
+et comment la loi de l'effusion peut également être appliquée
+à la diffusion, mais pas de manière aussi fiable.
+
+You also learned that the collisions that
+occur among the particles of a gas
+Vous avez également appris que les collisions qui
+se produisent entre les particules d'un gaz
+
+have a huge effect on both its motion and
+our attempts to calculate it.
+ont un effet énorme à la fois sur son mouvement et sur
+nos tentatives de calcul.
+
+You learned what a concentration gradient
+is,
+Vous avez appris ce qu'est un gradient de concentration
+,
+
+and finally, you learned how to do a precipitation
+reaction with gases.
+et enfin, vous avez appris comment faire une
+réaction de précipitation avec des gaz.
+
+This episode of Crash Course Chemistry was
+written by Edi González.
+Cet épisode de Crash Course Chemistry a été
+écrit par Edi González.
+
+Who I have to commend for only making one
+fart joke in the whole script!
+Qui je dois féliciter pour n'avoir fait qu'une seule
+blague de pet dans tout le script !
+
+The script was edited by Blake de Pastino
+and myself.
+Le script a été édité par Blake de Pastino
+et moi-même.
+
+And our chemistry consultant was Dr. Heiko
+Langner.
+Et notre consultant en chimie était le Dr Heiko
+Langner.
+
+It was filmed, edited, and directed by Nicholas Jenkins. Our script supervisor was Caitlin Hofmeister.
+Il a été filmé, monté et réalisé par Nicholas Jenkins.  Notre scénariste était Caitlin Hofmeister.
+
+Our sound designer is Michael Aranda.
+And our graphics team is Thought Café.
+Notre concepteur sonore est Michael Aranda.
+Et notre équipe graphique est Thought Café.
+

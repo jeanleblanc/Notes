@@ -1,0 +1,415 @@
+Sunlight, moonlight, torchlight, and flashlight.
+Lumière du soleil, clair de lune, torche et lampe de poche.
+
+They all come from different places, but they’re
+the all very same thing: light!
+Ils viennent tous d'endroits différents, mais ils
+sont tous la même chose : la lumière !
+
+It’s what makes it possible for us to see the world around us, so it’s worth a close, hard look.
+C'est ce qui nous permet de voir le monde qui nous entoure, donc ça vaut le coup d'y regarder de près.
+
+For instance, how does light travel?
+Par exemple, comment la lumière voyage-t-elle ?
+
+When you flip that switch in the bathroom to brush your teeth, how does light move from the light bulb, to the mirror, and into your eyes?
+Lorsque vous actionnez cet interrupteur dans la salle de bain pour vous brosser les dents, comment la lumière se déplace-t-elle de l'ampoule au miroir et dans vos yeux ?
+
+And if you’re one of many people who wear glasses, how do those lenses turn a blurry world into a high-definition experience?
+Et si vous faites partie des nombreuses personnes qui portent des lunettes, comment ces verres transforment-ils un monde flou en une expérience haute définition ?
+
+Whether it’s glasses, microscopes, or telescopes,
+it’s all about bending light to our will.
+Qu'il s'agisse de lunettes, de microscopes ou de télescopes,
+il s'agit de plier la lumière à notre volonté.
+
+How do we go about this grand task of controlling
+the very thing that helps us see?
+Comment abordons-nous cette grande tâche de contrôler
+la chose même qui nous aide à voir ?
+
+Well, let’s take a look!
+Eh bien, jetons un coup d'œil !
+
+[Theme Music]
+[Thème musical]
+
+No matter where light comes from, we generally talk about it in the same way, and make the same assumptions about how it travels.
+Peu importe d'où vient la lumière, nous en parlons généralement de la même manière et faisons les mêmes hypothèses sur la façon dont elle se propage.
+
+Say you’re lying on the beach, basking in
+a ray of sunshine.
+Supposons que vous êtes allongé sur la plage et que vous vous prélassez dans
+un rayon de soleil.
+
+One of the first assumptions we make is that the light is traveling from the sun to you, in a straight line.
+L'une des premières hypothèses que nous faisons est que la lumière se déplace du soleil vers vous, en ligne droite.
+
+This way of thinking about light is called the ray model, and the core tenant of the model is that light travels in straight-line paths called rays.
+Cette façon de penser à la lumière s'appelle le modèle des rayons, et le fondement du modèle est que la lumière se déplace en ligne droite appelée rayons.
+
+But each individual ray is really just a graphical
+representation of actual light.
+Mais chaque rayon individuel n'est en fait qu'une
+représentation graphique de la lumière réelle.
+
+A light source may be emitting an infinite number of rays, but we only draw a few to get the point across.
+Une source lumineuse peut émettre un nombre infini de rayons, mais nous n'en dessinons que quelques-uns pour faire passer le message.
+
+Now, let’s say we have a flashlight that’s
+emitting rays of light.
+Maintenant, disons que nous avons une lampe de poche qui
+émet des rayons de lumière.
+
+If we point the flashlight at a reflective surface, like a calm pool of water, we can trace the rays as lines that leave the flashlight, reflect off the water and continue on as a straight line.
+Si nous dirigeons la lampe de poche vers une surface réfléchissante, comme une mare d'eau calme, nous pouvons tracer les rayons sous forme de lignes qui partent de la lampe de poche, se reflètent sur l'eau et continuent en ligne droite.
+
+Note that the rays on top of the flashlight
+are now on the bottom, and vice versa.
+Notez que les rayons en haut de la lampe de poche
+sont maintenant en bas, et vice versa.
+
+This makes sense, because if you’re viewing something in a reflection, you see its image reversed.
+Cela a du sens, car si vous regardez quelque chose dans un reflet, vous voyez son image inversée.
+
+Another important observation is that rays leave the reflected surface at the same angle at which they struck it.
+Une autre observation importante est que les rayons quittent la surface réfléchie sous le même angle auquel ils l'ont frappée.
+
+So if I point the flashlight at a 30 degree angle – an angle that we call the angle of incidence – it would leave at a 30 degree angle in the other direction.
+Donc, si je pointe la lampe de poche à un angle de 30 degrés - un angle que nous appelons l'angle d'incidence - elle partira à un angle de 30 degrés dans l'autre direction.
+
+So, we’d say that the angle of reflection
+is equal to the angle of incidence.
+Donc, on dirait que l'angle de réflexion
+est égal à l'angle d'incidence.
+
+And the fact that these two angles equal each
+other is called the law of reflection.
+Et le fait que ces deux angles
+soient égaux s'appelle la loi de la réflexion.
+
+Now, the way I described the light hitting the
+pool of water was oversimplified, wasn’t it?
+Maintenant, la façon dont j'ai décrit la lumière frappant la
+mare d'eau était trop simplifiée, n'est-ce pas ?
+
+Because, in reality, some of the incident light will reflect off the water’s surface, while the rest of it will go into the water.
+Parce qu'en réalité, une partie de la lumière incidente se reflétera sur la surface de l'eau, tandis que le reste ira dans l'eau.
+
+And, an interesting phenomenon happens when light rays change from one medium to another, such as going from air into water.
+Et, un phénomène intéressant se produit lorsque les rayons lumineux changent d'un milieu à un autre, comme passer de l'air à l'eau.
+
+Have you ever looked at a straw sitting in a cup of water and noticed how the submerged part of the straw looks bent?
+Avez-vous déjà regardé une paille posée dans une tasse d'eau et remarqué à quel point la partie immergée de la paille semble pliée ?
+
+Of course the straw itself isn’t bent, but the light is,
+when it passes between the water and the air.
+Bien sûr, la paille elle-même n'est pas pliée, mais la lumière l'est,
+lorsqu'elle passe entre l'eau et l'air.
+
+This phenomenon, of light rays changing direction
+at the interface between media, is called refraction.
+Ce phénomène de changement de direction des rayons lumineux
+à l'interface entre milieux est appelé réfraction.
+
+When a ray moves from air into water, the ray’s angle after passing into the water will be less than the incident angle.
+Lorsqu'un rayon passe de l'air à l'eau, l'angle du rayon après son passage dans l'eau sera inférieur à l'angle d'incidence.
+
+So, the straw looks bent because the rays coming from the straw into your eyes don't travel in a straight path.
+Ainsi, la paille semble pliée parce que les rayons provenant de la paille dans vos yeux ne se déplacent pas en ligne droite.
+
+They become bent, so the bottom of the straw
+appears to be in a place where it’s not.
+Ils se plient, de sorte que le bas de la paille
+semble être à un endroit où il ne l'est pas.
+
+The angle of a light ray after it passes from one medium to another is called the angle of refraction, and it’s related to the angle of incidence by Snell’s Law.
+L'angle d'un rayon lumineux après son passage d'un milieu à un autre s'appelle l'angle de réfraction, et il est lié à l'angle d'incidence par la loi de Snell.
+
+Snell’s Law says that angles of refraction are determined by the index of refraction for each medium and the angle of incidence.
+La loi de Snell dit que les angles de réfraction sont déterminés par l'indice de réfraction de chaque milieu et l'angle d'incidence.
+
+The index of refraction for a certain medium is the ratio of the speed of light in a vacuum versus the speed in that medium.
+L'indice de réfraction pour un certain milieu est le rapport de la vitesse de la lumière dans le vide à la vitesse dans ce milieu.
+
+And when a ray enters a medium with an increased
+index of refraction, the angle of refraction decreases.
+Et lorsqu'un rayon pénètre dans un milieu avec un
+indice de réfraction accru, l'angle de réfraction diminue.
+
+In other words, the higher the index of refraction,
+the smaller the angle.
+En d'autres termes, plus l'indice de réfraction est élevé
+, plus l'angle est petit.
+
+And refraction occurs when light leaves a
+medium, too.
+Et la réfraction se produit également lorsque la lumière quitte un
+milieu.
+
+Say you have a flat piece of glass standing on end, and a light ray enters the glass at an incident angle of theta one.
+Supposons que vous ayez un morceau de verre plat debout et qu'un rayon lumineux pénètre dans le verre à un angle d'incidence de thêta.
+
+The angle of refraction inside the glass would be less than theta one, since the index of refraction of glass is greater.
+L'angle de réfraction à l'intérieur du verre serait inférieur à thêta, puisque l'indice de réfraction du verre est plus grand.
+
+But once the ray reaches the interface between the glass and the air on the other side, it refracts again,
+Mais une fois que le rayon atteint l'interface entre le verre et l'air de l'autre côté, il se réfracte à nouveau,
+
+and now the angle of refraction is equal to
+that first incident angle.
+et maintenant l'angle de réfraction est égal à
+ce premier angle incident.
+
+So, if you look from the right side of the glass, your eyes see an object that appears to be lower than it actually is.
+Ainsi, si vous regardez du côté droit du verre, vos yeux voient un objet qui semble être plus bas qu'il ne l'est en réalité.
+
+Now, when you observe an object through refracted light like this, what you’re seeing is an image, a visually reproduced copy of an object.
+Maintenant, lorsque vous observez un objet à travers une lumière réfractée comme celle-ci, ce que vous voyez est une image, une copie visuellement reproduite d'un objet.
+
+And not all images are the same.
+Et toutes les images ne sont pas identiques.
+
+An image is considered to be a real image if the rays from an object converge at some location, such as your eye or on some other surface, like film.
+Une image est considérée comme une image réelle si les rayons d'un objet convergent à un endroit, comme votre œil ou sur une autre surface, comme un film.
+
+Real images can be projected onto screens, because the light rays from an object are actually traveling there.
+De vraies images peuvent être projetées sur des écrans, car les rayons lumineux d'un objet y voyagent réellement.
+
+But the alternative is a virtual image – an image where the light rays don’t actually converge, so your eyes construct an image as if the diverging rays originated from a single point.
+Mais l'alternative est une image virtuelle - une image où les rayons lumineux ne convergent pas réellement, de sorte que vos yeux construisent une image comme si les rayons divergents provenaient d'un seul point.
+
+When you look in the mirror, for example, it looks like you’re standing on the other side of the mirror.
+Lorsque vous vous regardez dans le miroir, par exemple, on dirait que vous vous tenez de l'autre côté du miroir.
+
+But you aren’t.
+Mais vous ne l'êtes pas.
+
+You’re seeing a virtual image, because the light rays that make up your reflection aren’t actually converging to form an image of you.
+Vous voyez une image virtuelle, car les rayons lumineux qui composent votre réflexion ne convergent pas réellement pour former une image de vous.
+
+Now, what if we take that plate of glass and
+re-form both sides so they’re no longer flat?
+Et si nous prenions cette plaque de verre et
+reformions les deux côtés pour qu'ils ne soient plus plats ?
+
+How does that change the law of refraction?
+Comment cela change-t-il la loi de la réfraction ?
+
+It doesn’t!
+Refraction still occurs.
+Ce n'est pas le cas !
+La réfraction se produit toujours.
+
+It’s just that the normal line, which is the imaginary line that the angles are relative to, changes.
+C'est juste que la ligne normale, qui est la ligne imaginaire à laquelle les angles sont relatifs, change.
+
+Warped pieces of material that form images of objects are lenses, and they’re the most critical tool in the field of optics.
+Les morceaux de matériau déformés qui forment des images d'objets sont des lentilles, et ils sont l'outil le plus critique dans le domaine de l'optique.
+
+Say we have a lens that has a spherical face
+on both sides, known as a convex lens.
+Disons que nous avons une lentille qui a une face sphérique
+des deux côtés, connue sous le nom de lentille convexe.
+
+As light rays enter the lens, they turn slightly towards the axis of the lens, the imaginary line that runs through its center, perpendicular to its face.
+Lorsque les rayons lumineux pénètrent dans la lentille, ils se tournent légèrement vers l'axe de la lentille, la ligne imaginaire qui passe par son centre, perpendiculaire à sa face.
+
+As they leave the lens and move back through the air, the rays are angled slightly more toward that central axis, due to the lens’s curvature.
+Lorsqu'ils quittent la lentille et reviennent dans l'air, les rayons sont légèrement plus inclinés vers cet axe central, en raison de la courbure de la lentille.
+
+The rays on the very top and bottom of the lens are bent at a larger angle towards the central axis than the rays near the center, which stay almost parallel.
+Les rayons tout en haut et en bas de la lentille sont courbés à un angle plus grand vers l'axe central que les rayons près du centre, qui restent presque parallèles.
+
+And they all eventually converge at a single
+point called the focal point.
+Et ils finissent tous par converger en un seul
+point appelé le point focal.
+
+Think of a magnifying glass.
+Pensez à une loupe.
+
+If you hold it just right in the sunlight, you can concentrate the sun’s rays into a single, very hot point.
+Si vous le tenez juste au soleil, vous pouvez concentrer les rayons du soleil en un seul point très chaud.
+
+That works because you’ve taken a bunch of incoming parallel rays, and placed your target of choice at the focal length of the magnifying glass.
+Cela fonctionne parce que vous avez pris un tas de rayons parallèles entrants et placé la cible de votre choix à la distance focale de la loupe.
+
+That’s the distance between the lens and
+its focal point.
+C'est la distance entre l'objectif et
+son foyer.
+
+And one measure of a lens is its power, which is expressed simply as one over the focal length.
+Et une mesure d'un objectif est sa puissance, qui s'exprime simplement comme un sur la distance focale.
+
+But a lens that causes light rays to converge
+in this way is known as a converging lens.
+Mais une lentille qui fait converger les rayons lumineux
+de cette manière est appelée lentille convergente.
+
+And when you look through a converging lens, you can see real images from objects that are beyond the focal point.
+Et lorsque vous regardez à travers une lentille convergente, vous pouvez voir des images réelles d'objets qui se trouvent au-delà du point focal.
+
+This is because light rays from those objects
+actually converge after passing through the lens.
+En effet, les rayons lumineux de ces
+objets convergent en fait après avoir traversé la lentille.
+
+And remember, when rays converge at a point,
+that means a real image has been formed.
+Et rappelez-vous, lorsque les rayons convergent en un point,
+cela signifie qu'une image réelle a été formée.
+
+Let’s show this using a ray diagram, which tells us about the position and size of images as seen through a lens.
+Montrons cela à l'aide d'un diagramme de rayons, qui nous renseigne sur la position et la taille des images vues à travers une lentille.
+
+Let’s take a candle that's some distance from
+the lens, which we’ll call the object distance.
+Prenons une bougie à une certaine distance de
+la lentille, que nous appellerons la distance de l'objet.
+
+We will use the object distance and the focal
+length of the lens to find the image distance,
+Nous utiliserons la distance de l'objet et la distance
+focale de l'objectif pour trouver la distance de l'image,
+
+the location where the image forms on the
+other side of the lens.
+l'endroit où l'image se forme de l'
+autre côté de l'objectif.
+
+Lenses have the same focal length on both sides, so we’ll label the focal point on the side opposite of the object as F and the point on the same side as the object as F prime.
+Les objectifs ont la même distance focale des deux côtés, nous allons donc étiqueter le point focal du côté opposé à l'objet comme F et le point du même côté que l'objet comme F prime.
+
+Now, we know that the ray traveling parallel to the axis will pass through the focal point on the other side,
+Maintenant, nous savons que le rayon se déplaçant parallèlement à l'axe passera par le point focal de l'autre côté,
+
+so let’s draw a ray from the top of the candle, refracting through the lens, and then passing straight through the focal point F.
+alors dessinons un rayon du haut de la bougie, réfractant à travers la lentille, puis passant directement par le point focal F.
+
+Since the focal length is the same on both sides, we draw a second ray from the top of the candle, through the F prime focal point,
+Puisque la distance focale est la même des deux côtés, nous tirons un deuxième rayon du haut de la bougie, à travers le point focal principal F,
+
+which then refracts through the lens and travels
+parallel to the axis.
+qui se réfracte ensuite à travers la lentille et se déplace
+parallèlement à l'axe.
+
+The third ray travels straight through the
+center of the lens.
+Le troisième rayon traverse directement le
+centre de la lentille.
+
+We draw this line because if we assume a thin lens, then we can draw a straight line through the center and disregard the slight offset that would occur due to refraction.
+Nous traçons cette ligne car si nous supposons une lentille mince, nous pouvons tracer une ligne droite passant par le centre et ignorer le léger décalage qui se produirait en raison de la réfraction.
+
+With these three rays in place, we see that they intersect at a single point, representing the top of the candle in the newly formed image.
+Avec ces trois rayons en place, nous voyons qu'ils se croisent en un seul point, représentant le haut de la bougie dans l'image nouvellement formée.
+
+You might notice that the image is upside down, which will always be the case for convex lenses.
+Vous remarquerez peut-être que l'image est à l'envers, ce qui sera toujours le cas pour les lentilles convexes.
+
+And the image is formed by light rays that actually originated from the object, so a real image is formed.
+Et l'image est formée par des rayons lumineux qui proviennent réellement de l'objet, donc une image réelle est formée.
+
+The distance between the image and the lens is the image distance and is related to the object distance and the focal length by a very important equation.
+La distance entre l'image et l'objectif est la distance de l'image et est liée à la distance de l'objet et à la distance focale par une équation très importante.
+
+This is the thin lens equation, which is derived
+from ray diagram geometry.
+Il s'agit de l'équation de la lentille mince, dérivée
+de la géométrie du diagramme de rayons.
+
+For a single converging lens, the focal length
+and the object distance will always be positive.
+Pour une seule lentille convergente, la distance focale
+et la distance de l'objet seront toujours positives.
+
+The image distance will be positive if the image
+is on the opposite side of the light source.
+La distance de l'image sera positive si l'image
+se trouve du côté opposé à la source lumineuse.
+
+This equation holds true for converging lenses
+as well as their opposite, diverging lenses.
+Cette équation est vraie pour les lentilles convergentes
+ainsi que pour leurs lentilles divergentes opposées.
+
+Diverging lenses have a concave shape and do the opposite of a converging lens, causing rays of light to diverge away from the lens’s axis.
+Les lentilles divergentes ont une forme concave et font le contraire d'une lentille convergente, faisant diverger les rayons de lumière de l'axe de la lentille.
+
+When we’re looking at an object through a diverging lens, our eyes imagine that the diverging rays originate from a location where the rays don’t actually begin, so the lens generates a virtual image.
+Lorsque nous regardons un objet à travers une lentille divergente, nos yeux imaginent que les rayons divergents proviennent d'un endroit où les rayons ne commencent pas réellement, de sorte que la lentille génère une image virtuelle.
+
+And when we construct a ray diagram for a
+diverging lens, there are a few key differences.
+Et lorsque nous construisons un diagramme de rayons pour une
+lentille divergente, il existe quelques différences essentielles.
+
+First of all, the focal point F is on the same side as the object and F prime is on the opposite side.
+Tout d'abord, le point focal F est du même côté que l'objet et F prime est du côté opposé.
+
+While a single ray of light still goes through the very center of the lens, the other two rays take slightly different paths, resulting in a virtual image forming on the same side as the object itself.
+Alors qu'un seul rayon de lumière traverse toujours le centre même de la lentille, les deux autres rayons empruntent des chemins légèrement différents, ce qui entraîne la formation d'une image virtuelle du même côté que l'objet lui-même.
+
+For a diverging lens, the thin lens equation is still
+true, but the focal length is now a negative value.
+Pour une lentille divergente, l'équation de la lentille mince est toujours
+vraie, mais la distance focale est maintenant une valeur négative.
+
+Another important equation that’s true for both converging and diverging lenses is the magnification equation.
+Une autre équation importante qui est vraie pour les lentilles convergentes et divergentes est l'équation de grossissement.
+
+Magnification is the ratio of the image height
+to the height of the actual object.
+Le grossissement est le rapport entre la hauteur de l'image
+et la hauteur de l'objet réel.
+
+When the image is upside down, like in our converging lens, then the height is a negative value.
+Lorsque l'image est à l'envers, comme dans notre lentille convergente, alors la hauteur est une valeur négative.
+
+And the ratio of the image distance to the
+object distance is also negative.
+Et le rapport entre la distance de l'image et la distance de l'
+objet est également négatif.
+
+But all of these ideas, taken whole, give you a good understanding of optics – the fundamental rules that explain how we can observe particles too small to see with our eyes, as well as objects that are millions of light-years away.
+Mais toutes ces idées, prises dans leur ensemble, vous donnent une bonne compréhension de l'optique - les règles fondamentales qui expliquent comment nous pouvons observer des particules trop petites pour être vues avec nos yeux, ainsi que des objets qui se trouvent à des millions d'années-lumière.
+
+Today we learned about the the ray model of
+light and the laws of reflection and refraction.
+Aujourd'hui, nous avons découvert le modèle des rayons de la
+lumière et les lois de la réflexion et de la réfraction.
+
+We learned about how refraction works with
+converging and diverging lenses.
+Nous avons appris comment fonctionne la réfraction avec
+des lentilles convergentes et divergentes.
+
+Finally, we built ray diagrams to discover how objects are viewed through different kinds of lenses at different points.
+Enfin, nous avons construit des diagrammes de rayons pour découvrir comment les objets sont vus à travers différents types de lentilles à différents points.
+
+Crash Course Physics is produced in association
+with PBS Digital Studios.
+Crash Course Physics est produit en association
+avec PBS Digital Studios.
+
+You can head over to their channel and check out a playlist of the latest episodes from shows like:
+Vous pouvez vous rendre sur leur chaîne et consulter une liste de lecture des derniers épisodes d'émissions telles que :
+
+It’s Okay to be Smart, The Art Assignment,
+and Indi Alaska.
+C'est bon d'être intelligent, The Art Assignment
+et Indi Alaska.
+
+This episode of Crash Course was filmed in
+the Doctor Cheryl C. Kinney Crash Course Studio
+Cet épisode de Crash Course a été filmé dans
+le studio Doctor Cheryl C. Kinney Crash Course
+
+with the help of these amazing people and our
+equally amazing graphics team, is Thought Cafe.
+avec l'aide de ces personnes incroyables et de notre
+équipe graphique tout aussi incroyable, Thought Cafe.
+

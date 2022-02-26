@@ -1,0 +1,612 @@
+At this point, we’ve covered a lot of the
+basics when it comes to how things move.
+À ce stade, nous avons couvert une grande partie des
+bases en ce qui concerne la façon dont les choses bougent.
+
+But we’ve mostly been focusing on only one
+type of motion: translational motion,
+Mais nous nous sommes principalement concentrés sur un seul
+type de mouvement : le mouvement de translation,
+
+which is when something moves through space,
+but doesn’t rotate.
+qui se produit lorsque quelque chose se déplace dans l'espace,
+mais ne tourne pas.
+
+But rotational motion is also a thing -- and
+an important one.
+Mais le mouvement de rotation est aussi une chose - et
+une chose importante.
+
+For example, the spin of a football -- both
+the soccer and the non-soccer kind --
+Par exemple, la rotation d'un ballon de football - à
+la fois le football et le non-football
+
+will affect the way it flies through the air.
+- affectera la façon dont il vole dans les airs.
+
+But the physics of rotational motion isn’t
+all that different from the physics of translational motion.
+Mais la physique du mouvement de rotation n'est
+pas si différente de la physique du mouvement de translation.
+
+It still involves things like position, velocity,
+and acceleration.
+Cela implique toujours des choses comme la position, la vitesse
+et l'accélération.
+
+And many of the equations you use to describe
+rotational motion will look really familiar to you.
+Et la plupart des équations que vous utilisez pour décrire
+le mouvement de rotation vous sembleront vraiment familières.
+
+But there are some important differences.
+Mais il y a des différences importantes.
+
+Like, instead of positions, there are angles.
+Comme, au lieu de positions, il y a des angles.
+
+And instead of points on a line, you follow
+points along an arc.
+Et au lieu de points sur une ligne, vous suivez des
+points le long d'un arc.
+
+And, there are times when rotational motion can explain things that sound impossible, but actually are true.
+Et, il y a des moments où le mouvement de rotation peut expliquer des choses qui semblent impossibles, mais qui sont en réalité vraies.
+
+Like when a point on a spinning wheel,
+is actually standing still.
+Comme quand un point sur une roue qui tourne,
+est en fait immobile.
+
+So, the rules here are the same.
+Donc, les règles ici sont les mêmes.
+
+But rotational motion has what you might call
+its own “circular logic.”
+Mais le mouvement de rotation a ce que vous pourriez appeler
+sa propre "logique circulaire".
+
+[Theme Music]
+[Thème musical]
+
+When it comes to translational motion, we tend to talk about position in terms of x and y.
+Lorsqu'il s'agit de mouvement de translation, nous avons tendance à parler de position en termes de x et y.
+
+Where is this object, horizontally?
+And where is it vertically?
+Où est cet objet, horizontalement ?
+Et où est-il verticalement?
+
+Those axes make sense, because we’re usually
+tracking the object’s motion along those directions.
+Ces axes ont du sens, car nous suivons généralement
+le mouvement de l'objet dans ces directions.
+
+But for rotational motion, we really want
+to know the object’s angle -- what we call theta.
+Mais pour le mouvement de rotation, nous voulons vraiment
+connaître l'angle de l'objet - ce que nous appelons thêta.
+
+Say we have a big disk with a dot painted
+on it.
+Supposons que nous ayons un gros disque avec un point peint
+dessus.
+
+If we call the top of the disk our starting point, then when the dot is at the top, its angle would be zero.
+Si nous appelons le haut du disque notre point de départ, alors lorsque le point est en haut, son angle serait nul.
+
+And when the dot is at the left, its angle
+would be 180 degrees -- half of a full circle.
+Et quand le point est à gauche, son angle
+serait de 180 degrés -- la moitié d'un cercle complet.
+
+But! Even though we’ve been measuring angles
+using degrees until now, there’s another
+Mais!  Même si nous avons mesuré les
+angles en degrés jusqu'à présent, il existe une autre
+
+unit that physicists use a lot, and it’ll
+be the main one we’ll use in this episode and the next.
+unité que les physiciens utilisent beaucoup, et ce
+sera la principale que nous utiliserons dans cet épisode et le suivant.
+
+That unit is called the radian, and its name
+comes from the fact that it’s based on the radius of a circle.
+Cette unité s'appelle le radian, et son nom
+vient du fait qu'elle est basée sur le rayon d'un cercle.
+
+If you think back to basic geometry, you’ll
+recall that the circumference of a circle
+Si vous repensez à la géométrie de base, vous vous
+souviendrez que la circonférence d'un cercle
+
+is just 2, times pi, times the circle’s
+radius, right?
+n'est que de 2, fois pi, fois le
+rayon du cercle, n'est-ce pas ?
+
+Radians describe angles by essentially telling you how much of that circumference is covered by a given angle.
+Les radians décrivent les angles en vous indiquant essentiellement quelle partie de cette circonférence est couverte par un angle donné.
+
+So, 360 degrees -- which is a full circle’s
+worth of angles -- would be 2 pi radians.
+Ainsi, 360 degrés - ce qui correspond à un cercle
+complet d'angles - équivaudrait à 2 pi radians.
+
+180 degrees -- or half a circle’s worth
+of angles -- would be pi radians.
+180 degrés - ou la valeur d'un demi-cercle
+d'angles - seraient pi radians.
+
+And to convert any number of degrees to radians, you just multiply the degrees times pi and divide by 180.
+Et pour convertir n'importe quel nombre de degrés en radians, il suffit de multiplier les degrés par pi et de diviser par 180.
+
+So now we know how to describe the angle of
+something that’s rotating.
+Nous savons maintenant comment décrire l'angle de
+quelque chose qui tourne.
+
+But what about the velocity of its rotation?
+Mais qu'en est-il de la vitesse de sa rotation ?
+
+Well, we’ve already learned that plain old translational, or linear, velocity is a measure of an object’s change in position.
+Eh bien, nous avons déjà appris que la vitesse de translation, ou linéaire, est une mesure du changement de position d'un objet.
+
+And in the same way, rotational velocity is
+a measure of an object’s change in angle.
+Et de la même manière, la vitesse de rotation est
+une mesure du changement d'angle d'un objet.
+
+This is known as its angular velocity, and
+is represented by the lowercase Greek letter, Omega.
+Ceci est connu comme sa vitesse angulaire, et
+est représenté par la lettre grecque minuscule, Omega.
+
+which I want to point out looks a bit like a W, but itsn't a W.
+que je veux souligner ressemble un peu à un W, mais ce n'est pas un W.
+
+And, as you might have guessed by now, angular
+velocity is the derivative -- or, the rate
+Et, comme vous l'avez peut-être déjà deviné, la
+vitesse angulaire est la dérivée - ou le taux
+
+of change -- of angular displacement with
+respect to time.
+de changement - du déplacement angulaire par
+rapport à  au temps.
+
+But we can also describe an object’s rotation
+in terms of its tangential velocity.
+Mais on peut aussi décrire la rotation d'un objet
+en termes de vitesse tangentielle.
+
+This is the same type of velocity we used
+when we talked about the physics of uniform circular motion.
+C'est le même type de vitesse que nous avons utilisé
+lorsque nous avons parlé de la physique du mouvement circulaire uniforme.
+
+Remember? With the key spinning around on
+a string?
+Rappelles toi?  Avec la clé qui tourne sur
+une ficelle ?
+
+And that vomit-causing carnival ride?
+Et ce manège de carnaval qui fait vomir ?
+
+In those cases, we described how, when an
+object moves along a circular path, its velocity
+Dans ces cas, nous avons décrit comment, lorsqu'un
+objet se déplace le long d'une trajectoire circulaire, sa vitesse
+
+is perpendicular to the radius of the circle,
+in the direction of the motion.
+est perpendiculaire au rayon du cercle,
+dans la direction du mouvement.
+
+And, when you think about it, any rigid object
+rotating around a fixed axis is basically
+Et, quand on y pense, tout objet rigide
+tournant autour d'un axe fixe est essentiellement
+
+a set of points, all moving along circular
+paths.
+un ensemble de points, tous se déplaçant le long de
+trajectoires circulaires.
+
+So, at any given moment, each of those points
+will have a tangential velocity that depends
+Ainsi, à tout moment, chacun de ces points
+aura une vitesse tangentielle qui dépend
+
+on the path it moves through -- specifically,
+the radius of that path.
+du chemin qu'il parcourt - plus précisément,
+du rayon de ce chemin.
+
+In fact, its tangential velocity will be equal
+to its angular velocity, times the radius.
+En fait, sa vitesse tangentielle sera égale
+à sa vitesse angulaire multipliée par le rayon.
+
+It’s easy to see why this makes sense, if
+you picture the spokes of a rotating wheel.
+Il est facile de voir pourquoi cela a du sens, si
+vous imaginez les rayons d'une roue en rotation.
+
+All of the points along each spoke have to
+have the same angular velocity, because they
+Tous les points le long de chaque rayon doivent
+avoir la même vitesse angulaire, car ils
+
+all cover the same angular distance in the
+same amount of time.
+couvrent tous la même distance angulaire dans le
+même laps de temps.
+
+But to get from, say, the right-hand side
+of the circle to the bottom, the points on
+Mais pour aller, disons, du côté droit
+du cercle vers le bas, les points à
+
+the outside of the wheel will pass through
+a much bigger arc -- covering more space,
+l'extérieur de la roue passeront par
+un arc beaucoup plus grand - couvrant plus d'espace, en
+
+basically -- than the points on the inside.
+gros - que les points à l'intérieur.
+
+So, the farther that a point on the spoke
+is from the center of the wheel, the greater
+Ainsi, plus un point du rayon
+est éloigné du centre de la roue, plus
+
+its tangential velocity has to be.
+sa vitesse tangentielle doit être grande.
+
+Like circular motion, rotational motion can
+also be periodic -- when the rotation repeats
+Comme le mouvement circulaire, le mouvement de rotation peut
+également être périodique - lorsque la rotation se répète
+
+after a set amount of time, which is represented by a  capital T, also called The Period.
+après un laps de temps défini, qui est représenté par un T majuscule, également appelé la période.
+
+And the equations that describe periodic motion
+are pretty much the same as the ones we used
+Et les équations qui décrivent le mouvement périodique
+sont à peu près les mêmes que celles que nous avons utilisées
+
+for a single point moving along a circular
+path:
+pour un seul point se déplaçant le long d'une
+trajectoire circulaire :
+
+So the frequency, or number of rotations that
+happen every second, is equal to one, divided by the period.
+ainsi, la fréquence, ou le nombre de rotations qui
+se produisent chaque seconde, est égale à un, divisée par la période.
+
+But frequency and angular velocity are really
+just two different ways of describing the
+Mais la fréquence et la vitesse angulaire ne sont en réalité
+que deux façons différentes de décrire la
+
+same thing -- they just use different units.
+même chose - elles utilisent simplement des unités différentes.
+
+Frequency is measured in rotations -- or revolutions
+-- per second, and angular velocity is measured
+La fréquence est mesurée en rotations - ou révolutions
+- par seconde, et la vitesse angulaire est mesurée
+
+in radians per second.
+en radians par seconde.
+
+And one revolution is equal to the circumference
+of the circle: 2 pi radians.
+Et une révolution est égale à la circonférence
+du cercle : 2 pi radians.
+
+So, in order to convert from frequency to
+angular velocity, all you need to do is multiply
+Ainsi, pour convertir la fréquence en
+vitesse angulaire, il vous suffit de multiplier
+
+the frequency by 2 pi.
+la fréquence par 2 pi.
+
+Now, there’s a special case when it comes
+to the velocity of rotating objects, and that’s
+Maintenant, il y a un cas particulier en ce qui
+concerne la vitesse des objets en rotation, et c'est
+
+what’s known as rolling without slipping.
+ce qu'on appelle rouler sans glisser.
+
+This kind of motion shows up in real life
+all the time.
+Ce genre de mouvement apparaît tout le temps dans la vraie vie
+.
+
+It’s what happens to your car’s tires
+when you drive down the street, as long as
+C'est ce qui arrive aux pneus de votre voiture
+lorsque vous conduisez dans la rue, tant que
+
+you aren’t skidding -- which, let’s hope
+you aren’t.
+vous ne dérapez pas - ce qui,
+espérons-le, ne l'est pas.
+
+And it’s what a train’s wheels do as they
+move along the track.
+Et c'est ce que font les roues d'un train lorsqu'elles se
+déplacent le long de la voie.
+
+But it turns out that the translational velocity
+at the bottom of the wheel is /super weird/.
+Mais il s'avère que la vitesse de translation
+au bas de la roue est /super bizarre/.
+
+Mainly, because at any given moment, the point at the bottom of the wheel doesn’t have a translational velocity.
+Principalement parce qu'à un instant donné, le point au bas de la roue n'a pas de vitesse de translation.
+
+In other words, it doesn’t actually move.
+En d'autres termes, il ne bouge pas réellement.
+
+To figure out why, let’s experiment with
+a bicycle wheel.
+Pour comprendre pourquoi, expérimentons avec
+une roue de bicyclette.
+
+If you roll the wheel along the floor for
+one full rotation, that means that the entire
+Si vous faites rouler la roue le long du sol pour
+une rotation complète, cela signifie que toute la
+
+circumference of the wheel will touch the
+floor, one point at a time.
+circonférence de la roue touchera le
+sol, un point à la fois.
+
+And the center of the wheel will move forward
+by a distance that’s equal to the circumference
+Et le centre de la roue avancera
+d'une distance égale à la circonférence
+
+of the wheel -- aka its radius, times 2 pi.
+de la roue - c'est-à-dire son rayon, multiplié par 2 pi.
+
+And the time it took to move that distance
+was equal to the period of the motion.
+Et le temps qu'il a fallu pour parcourir cette distance
+était égal à la période du mouvement.
+
+So, the translational velocity of the center
+was equal to the radius, times the angular velocity.
+Ainsi, la vitesse de translation du centre
+était égale au rayon multiplié par la vitesse angulaire.
+
+Now, what about the top of the wheel?
+Maintenant, qu'en est-il du haut de la roue ?
+
+It has the same translational velocity as
+the center of the wheel, plus the tangential
+Il a la même vitesse de translation que
+le centre de la roue, plus la
+
+velocity that comes from the wheel’s rotation.
+Because, at the top of the wheel, the tangential
+vitesse tangentielle qui provient de la rotation de la roue.
+Parce que, au sommet de la roue, la
+
+velocity is pointing in the direction the
+wheel is rolling in.
+vitesse tangentielle pointe dans la direction dans laquelle la
+roue roule.
+
+And in the same way, the bottom of the wheel
+has the same translational velocity as the
+Et de la même manière, le bas de la roue
+a la même vitesse de translation que le
+
+center of the wheel, minus the tangential
+velocity that comes from the wheel’s rotation.
+centre de la roue, moins la
+vitesse tangentielle  qui vient de la rotation de la roue.
+
+Because at the bottom of the wheel, the tangential velocity is pointing opposite to the direction the wheel is rolling in.
+Parce qu'au bas de la roue, la vitesse tangentielle pointe à l'opposé de la direction dans laquelle la roue roule.
+
+Here’s the weird part:
+Voici la partie étrange :
+
+We just saw that the translational velocity of the wheel is equal to the radius, times the angular velocity.
+nous venons de voir que la vitesse de translation de la roue est égale au rayon multiplié par la vitesse angulaire.
+
+And we know that in general, the magnitude
+of tangential velocity is also equal to
+Et nous savons qu'en général, l'amplitude
+de la vitesse tangentielle est également égale
+
+the radius, times the angular velocity.
+au rayon multiplié par la vitesse angulaire.
+
+So, the top of the wheel will be moving exactly twice as fast as the center of the wheel, relative to the ground.
+Ainsi, le haut de la roue se déplacera exactement deux fois plus vite que le centre de la roue, par rapport au sol.
+
+Because, to get its total velocity, you add
+the translational velocity to the tangential velocity.
+Parce que, pour obtenir sa vitesse totale, vous ajoutez
+la vitesse de translation à la vitesse tangentielle.
+
+But the bottom of the wheel won’t be moving
+at all … because its total velocity is
+Mais le bas de la roue ne bougera pas
+du tout… car sa vitesse totale est
+
+its translational velocity minus the tangential,
+since they’re moving in opposite directions.
+sa vitesse de translation moins la tangentielle,
+puisqu'ils se déplacent dans des directions opposées.
+
+As a result, the total velocity at the bottom
+of the wheel is zero.
+En conséquence, la vitesse totale au bas
+de la roue est nulle.
+
+Even though the wheel is clearly moving relative
+to the ground.
+Même si la roue bouge clairement par rapport
+au sol.
+
+But if you look at the wheel’s motion at
+any given instant, you’ll see that whatever
+Mais si vous regardez le mouvement de la roue à
+un instant donné, vous verrez que tout
+
+point is at the bottom of the wheel can’t
+be moving relative to the ground.
+point situé au bas de la roue ne peut pas
+se déplacer par rapport au sol.
+
+If it was moving relative to the ground
+… that would be what we call slipping.
+S'il se déplaçait par rapport au sol
+… ce serait ce que nous appelons un glissement.
+
+Like when a car is skidding on an icy ground:
+The wheel isn’t turning, but the bottom
+Comme quand une voiture dérape sur un sol verglacé :
+la roue ne tourne pas, mais le bas
+
+of the wheel is moving in relation to the
+ground, because it’s sliding along on top of it.
+de la roue bouge par rapport au
+sol, car elle glisse dessus.
+
+But this wheel isn’t slipping -- its bottom has a total velocity of zero, because its velocities cancel out.
+Mais cette roue ne glisse pas - son fond a une vitesse totale de zéro, car ses vitesses s'annulent.
+
+OK: I know I just blew your mind, so while
+you put your head back together, I want to
+OK : Je sais que je viens de vous époustoufler, alors pendant que
+vous vous remettez la tête en place, je veux
+
+talk about one more basic quality of rotational
+motion: angular acceleration.
+parler d'une autre qualité de base du mouvement de rotation
+: l'accélération angulaire.
+
+Based on what you already know about acceleration,
+you can already guess that angular acceleration
+Sur la base de ce que vous savez déjà sur l'accélération,
+vous pouvez déjà deviner que l'accélération angulaire
+
+is the derivative of angular velocity.
+est la dérivée de la vitesse angulaire.
+
+It’s represented by the lowercase Greek
+letter alpha, and it describes how an object’s
+Il est représenté par la
+lettre grecque minuscule alpha et décrit l'évolution de
+
+angular velocity is changing over time.
+la vitesse angulaire d'un objet au fil du temps.
+
+And as an object rotates,  each point on it can actually accelerate in two different ways.
+Et lorsqu'un objet tourne, chaque point de celui-ci peut en fait accélérer de deux manières différentes.
+
+Radial acceleration is another term for what we’ve been calling centripetal acceleration up until now.
+L'accélération radiale est un autre terme pour ce que nous avons appelé l'accélération centripète jusqu'à présent.
+
+It’s the acceleration inward of any point
+on our rotating object, and it’s equal to
+C'est l'accélération vers l'intérieur de n'importe quel point
+de notre objet en rotation, et elle est égale à
+
+the angular velocity, squared, times the radius.
+la vitesse angulaire, au carré, multipliée par le rayon.
+
+But there’s also tangential acceleration,
+which describes whether an individual point on a rotating object
+Mais il y a aussi l'accélération tangentielle,
+qui décrit si un point individuel sur un objet en rotation
+
+is speeding up or slowing down.
+accélère ou ralentit.
+
+So, like linear velocity, tangential acceleration
+depends on the distance between the point
+Ainsi, comme la vitesse linéaire, l'accélération tangentielle
+dépend de la distance entre le point
+
+and the center of the object.
+et le centre de l'objet.
+
+More specifically, it’s equal to the angular
+acceleration, times the radius.
+Plus précisément, il est égal à l'
+accélération angulaire multipliée par le rayon.
+
+So you see, angular position, velocity, and
+acceleration relate to each other in much
+Vous voyez donc que la position angulaire, la vitesse et l'
+accélération sont liées les unes aux autres de
+
+the same ways that linear position, velocity,
+and acceleration do.
+la même manière que la position, la vitesse
+et l'accélération linéaires.
+
+This allows us to talk about rotational motion
+with terms and equations that are familiar
+Cela nous permet de parler de mouvement de rotation
+avec des termes et des équations qui nous sont
+
+to us, once we’ve gotten the basics of translational
+motion under our belts.
+familiers, une fois que nous avons acquis les bases du mouvement de translation
+sous nos ceintures.
+
+Next time, we’ll see how how the logic of rotational motion applies to another idea: momentum!
+La prochaine fois, nous verrons comment la logique du mouvement de rotation s'applique à une autre idée : l'élan !
+
+For now, you learned about the qualities of
+rotational motion, including angular position,
+Pour l'instant, vous avez appris les qualités du
+mouvement de rotation, y compris la position angulaire,
+
+angular velocity, periodic motion, and the
+special case of rolling without slipping.
+la vitesse angulaire, le mouvement périodique et le
+cas particulier du roulement sans glissement.
+
+We also talked about angular acceleration,
+as well as constant angular acceleration.
+Nous avons également parlé d'accélération angulaire
+, ainsi que d'accélération angulaire constante.
+
+Crash Course Physics is produced in association
+with PBS Digital Studios. You can head over
+Crash Course Physics est produit en association
+avec PBS Digital Studios.  Vous pouvez vous
+
+to their channel to check out amazing shows
+like It's Okay to be Smart, Blank on Blank, and Shank's FX.
+rendre sur leur chaîne pour découvrir des émissions incroyables
+comme It's Okay to be Smart, Blank on Blank et Shank's FX.
+
+This episode of Crash Course was filmed in
+the Doctor Cheryl C. Kinney Crash Course Studio
+Cet épisode de Crash Course a été filmé dans
+le studio Doctor Cheryl C. Kinney Crash Course
+
+with the help of these amazing people and
+our equally amazing graphics team is Thought Cafe.
+avec l'aide de ces personnes incroyables et
+notre équipe graphique tout aussi incroyable est Thought Cafe.
+

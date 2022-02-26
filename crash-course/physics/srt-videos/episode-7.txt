@@ -1,0 +1,665 @@
+Ever been on one of those twirly carnival
+rides?
+Avez-vous déjà participé à l'un de ces manèges tourbillonnants
+?
+
+You know, the ones where you get into a giant cylinder and stand against the wall, and then they spin you around like a wet salad?
+Vous savez, ceux où vous entrez dans un cylindre géant et vous vous tenez contre le mur, puis ils vous font tourner comme une salade humide ?
+
+If you've had that uniquely nauseating experience, then you know that the simple act of spinning in a circle can be ... intense.
+Si vous avez vécu cette expérience unique et nauséabonde, alors vous savez que le simple fait de tourner en rond peut être... intense.
+
+It also happens to be one of the most
+misunderstood concepts in Newtonian physics.
+Il se trouve également que c'est l'un des concepts les plus
+mal compris de la physique newtonienne.
+
+It’s known as uniform circular motion, and it’s what occurs when anything moves along a circular path in a consistent way.
+C'est ce qu'on appelle un mouvement circulaire uniforme, et c'est ce qui se produit lorsque quelque chose se déplace le long d'une trajectoire circulaire de manière cohérente.
+
+Most of the confusion about this idea has to do with the fact that things accelerate inward as they move in a circle --
+La plus grande partie de la confusion à propos de cette idée est liée au fait que les choses accélèrent vers l'intérieur lorsqu'elles se déplacent en cercle -
+
+a kind of acceleration known as centripetal acceleration. But you'll often hear people talking about
+une sorte d'accélération connue sous le nom d'accélération centripète.  Mais vous entendrez souvent des gens parler d'
+
+centrifugal acceleration pushing things
+outward as they move in a circle.
+accélération centrifuge poussant les objets
+vers l'extérieur lorsqu'ils se déplacent en cercle.
+
+That's actually where centrifuges get their name!
+And centrifugal acceleration isn't wrong, exactly.
+C'est en fait là que les centrifugeuses tirent leur nom !
+Et l'accélération centrifuge n'est pas fausse, exactement.
+
+It's just ... not real.
+So, to explain how things really accelerate
+C'est juste... pas réel.
+Donc, pour expliquer comment les choses s'accélèrent vraiment
+
+when they move in circles, let's talk about
+the physics of that ride as it spins you around
+lorsqu'elles tournent en rond, parlons de
+la physique de ce trajet pendant qu'il vous fait tourner
+
+-- assuming you're willing to risk stepping
+inside. I'm getting dizzy just thinking about it.
+- en supposant que vous êtes prêt à risquer d'
+entrer.  J'ai le vertige rien que d'y penser.
+
+[Theme Music]
+[Thème musical]
+
+In 1960, NASA was getting ready
+to send people to space.
+En 1960, la NASA se préparait
+à envoyer des gens dans l'espace.
+
+They knew that a big part of space flight
+would involve acceleration,
+Ils savaient qu'une grande partie du vol
+spatial impliquerait une accélération
+
+so they wanted to test how much acceleration people could handle before they'd black out.
+, ils voulaient donc tester la quantité d'accélération que les gens pouvaient supporter avant de s'évanouir.
+
+Because that’s what happens when too much blood is forced away from your brain for too long.
+Parce que c'est ce qui arrive quand trop de sang est expulsé de votre cerveau pendant trop longtemps.
+
+So engineers tested potential astronauts by putting them in a human centrifuge --
+Les ingénieurs ont donc testé des astronautes potentiels en les mettant dans une centrifugeuse humaine -
+
+Basically, a superpowered version
+of those rides at the fair.
+En gros, une version surpuissante
+de ces manèges à la foire.
+
+They found that most people could withstand an acceleration of around 98 meters per second squared for 10 minutes --
+Ils ont découvert que la plupart des gens pouvaient supporter une accélération d'environ 98 mètres par seconde au carré pendant 10 minutes.
+
+That's about ten times the acceleration caused by gravity that you'd feel just by jumping in the air.
+C'est environ dix fois l'accélération causée par la gravité que vous ressentiriez simplement en sautant dans les airs.
+
+With that in mind, let's say we've been asked to calculate the safety of one of those carnival rides --
+Dans cet esprit, disons qu'on nous a demandé de calculer la sécurité de l'un de ces manèges de carnaval –
+
+which means we'll need to figure
+out how much acceleration riders would experience.
+ce qui signifie que nous devrons
+déterminer l'accélération que subiraient les coureurs.
+
+There are equations we can use to do that,
+because just like with all the other kinds
+Il existe des équations que nous pouvons utiliser pour ce faire,
+car, comme pour tous les autres types
+
+of motion we've talked about so far, uniform
+circular motion has four main qualities --
+de mouvement dont nous avons parlé jusqu'à présent, le
+mouvement circulaire uniforme a quatre qualités principales : la
+
+position, velocity, acceleration, and time.
+And they're all related to each other.
+position, la vitesse, l'accélération et le temps.
+Et ils sont tous liés les uns aux autres.
+
+When it comes to uniform circular motion,
+position is the most obvious quality:
+Lorsqu'il s'agit d'un mouvement circulaire uniforme, la
+position est la qualité la plus évidente : il
+
+There’s an object, and it’s on a circular path.
+But velocity is a little less intuitive.
+y a un objet, et il se trouve sur une trajectoire circulaire.
+Mais la vélocité est un peu moins intuitive.
+
+At any given moment, velocity tells you how fast the object’s going, and in what direction.
+À tout moment, la vitesse vous indique à quelle vitesse l'objet va et dans quelle direction.
+
+And that direction … is NOT along the path of the circle.
+Et cette direction … n'est PAS le long du chemin du cercle.
+
+It’s actually perpendicular to the radius of the circle -- along what we call a tangent.
+C'est en fait perpendiculaire au rayon du cercle - le long de ce que nous appelons une tangente.
+
+So if you draw an arrow representing the velocity on the circle, it’ll only touch the circle in one spot.
+Donc, si vous dessinez une flèche représentant la vitesse sur le cercle, elle ne touchera le cercle qu'à un seul endroit.
+
+OK bear with me here, as this
+might seem kinda strange, but it’s true!
+OK, supportez-moi ici, car cela
+peut sembler un peu étrange, mais c'est vrai !
+
+One of the nice things about the physics
+of motion is that often,
+L'un des avantages de la physique
+du mouvement est que, souvent,
+
+you can just try it out for yourself and see what happens.
+vous pouvez simplement l'essayer par vous-même et voir ce qui se passe.
+
+So here’s a quick way to see tangential velocity in action:
+Voici donc un moyen rapide de voir la vitesse tangentielle en action :
+
+All you need is some string,
+a key -- or some other small object to tie
+tout ce dont vous avez besoin est une ficelle,
+une clé - ou un autre petit objet auquel attacher
+
+the string to -- and a wide open space so
+nobody gets hurt , by a key flying around.
+la ficelle - et un grand espace ouvert pour que
+personne ne soit blessé, par une clé volant autour  .
+
+Move the string so the key starts twirling
+around in counterclockwise circles, parallel
+Déplacez la corde pour que la clé commence à tourner
+en cercles dans le sens inverse des aiguilles d'une montre, parallèlement
+
+to the ground. Then, when the key is at the
+point in the circle that’s farthest away
+au sol.  Ensuite, lorsque la clé est au
+point du cercle le plus éloigné
+
+from you… let go of the string. The key
+flies to the left!
+de vous… lâchez la ficelle.  La clé
+vole vers la gauche !
+
+Here’s why: In earlier episodes, we’ve
+talked about inertia and the idea that if
+Voici pourquoi : dans les épisodes précédents, nous avons
+parlé d'inertie et de l'idée que si
+
+an object is in motion, it’ll remain in
+that motion unless it’s acted upon by a
+un objet est en mouvement, il restera dans
+ce mouvement à moins qu'il ne soit sollicité par une
+
+net external force.
+Which means that something moving in a straight
+force externe nette.
+Ce qui signifie que quelque chose se déplaçant en
+
+line is going to continue moving in a straight
+line unless a force -- one that isn’t balanced
+ligne droite va continuer à se déplacer en
+ligne droite à moins qu'une force - qui n'est pas
+
+out by other forces -- turns it.
+Whenever you see something turning?
+équilibrée par d'autres forces - ne la fasse tourner.
+Chaque fois que vous voyez quelque chose tourner?
+
+There’s a net external force acting on it.
+That’s why, at any given moment, the velocity
+Il y a une force externe nette qui agit dessus.
+C'est pourquoi, à un instant donné, la vitesse
+
+of an object moving in a circle will be tangent
+to it. Without a force to turn it, it just
+d'un objet se déplaçant dans un cercle lui sera
+tangente.  Sans force pour le faire tourner, il
+
+flies in whatever direction it was moving
+last. Once you let go of the string, you got
+vole simplement dans la direction dans laquelle il se déplaçait en
+dernier.  Une fois que vous avez lâché la corde, vous vous êtes
+
+rid of the force that was making the key turn
+in circles.
+débarrassé de la force qui faisait tourner la clé
+en rond.
+
+So it kept moving with the same velocity that
+it had at the exact moment you let go -- perpendicular
+Il a donc continué à se déplacer avec la même vitesse
+qu'au moment exact où vous avez lâché prise - perpendiculairement
+
+to the string connecting it to your hand,
+which was the center of the key’s circular
+à la corde qui le relie à votre main,
+qui était le centre de la trajectoire circulaire de la touche
+
+path. And now, we can finally talk about the
+mysterious force that was accelerating the
+.  Et maintenant, nous pouvons enfin parler de la
+force mystérieuse qui accélérait la
+
+key -- changing the direction of its velocity
+so that it moved in a circle.
+clé -- changeant la direction de sa vitesse
+pour qu'elle se déplace en cercle.
+
+That force is the same reason riders on the
+human centrifuge spin in a circle -- in fact,
+Cette force est la même raison pour laquelle les cavaliers de la
+centrifugeuse humaine tournent en cercle - en fait,
+
+it’s the reason anything moves in a circle.
+That force is known as the centripetal force,
+c'est la raison pour laquelle tout bouge en cercle.
+Cette force est connue sous le nom de force centripète
+
+and the acceleration it causes is called centripetal
+acceleration.
+et l'accélération qu'elle provoque est appelée
+accélération centripète.
+
+And the important thing to remember about
+centripetal acceleration is that it’s always
+Et la chose importante à retenir à propos de l'
+accélération centripète est qu'elle est toujours
+
+directed toward the center of the circular
+path.
+dirigée vers le centre de la
+trajectoire circulaire.
+
+That makes a lot of sense, if you think about
+it in terms of how the velocity’s changing.
+Cela a beaucoup de sens, si vous y
+réfléchissez en termes de changement de vitesse.
+
+The key was only turning in circles because
+your hand was pulling it toward the center
+La clé ne faisait que tourner en rond parce que
+votre main la tirait vers le centre
+
+of a circular path.
+But now think about what it’s like to be
+d'un chemin circulaire.
+Mais maintenant, pensez à ce que c'est que d'être
+
+on one of those centrifuge rides -- or, if
+you’ve never subjected yourself to one,
+sur l'un de ces tours de centrifugeuse - ou, si
+vous ne vous en êtes jamais soumis, à
+
+what it’s like to be in a car that turns
+sharply. The ride -- or the car -- is turning
+ce que c'est que d'être dans une voiture qui tourne
+brusquement.  Le trajet - ou la voiture - tourne
+
+in a circle, so there must be centripetal
+acceleration pushing you toward the middle
+en cercle, il doit donc y avoir une
+accélération centripète qui vous pousse vers le milieu
+
+of that circle.
+Except, it feels like you’re being pushed
+de ce cercle.
+Sauf que vous avez l'impression d'être poussé
+
+outward. People often attribute this sensation
+to centrifugal force. But that’s not real.
+vers l'extérieur.  Les gens attribuent souvent cette sensation
+à la force centrifuge.  Mais ce n'est pas réel.
+
+The reason that people confuse the centripetal
+force with what feels like a centrifugal
+La raison pour laquelle les gens confondent la
+force centripète avec ce qui ressemble à une
+
+force comes down to a change in perspective
+-- what physicists call a frame of reference.
+force centrifuge se résume à un changement de perspective
+- ce que les physiciens appellent un cadre de référence.
+
+From the frame of reference of someone standing
+outside the human centrifuge, it’s easy
+À partir du cadre de référence d'une personne se tenant
+à l'extérieur de la centrifugeuse humaine, il est facile
+
+to see what’s actually happening: As the
+cylinder turns, it forces the people inside
+de voir ce qui se passe réellement : lorsque le
+cylindre tourne, il oblige les personnes à l'
+
+it to move in a circle. And the wall is pressing
+on them to keep them turning -- it’s actually
+intérieur à se déplacer en cercle.  Et le mur appuie
+sur eux pour les faire tourner -- il les
+
+pushing them toward the center of the circle!
+But the person inside the cylinder just sees
+pousse en fait vers le centre du cercle !
+Mais la personne à l'intérieur du cylindre voit
+
+everything moving around with them.
+From their frame of reference, it feels like
+tout ce qui bouge avec elle.
+D'après leur cadre de référence, on a l'impression
+
+they’re just being squashed against the
+wall -- as though there’s a centrifugal
+qu'ils sont juste écrasés contre le
+mur - comme si une
+
+force acting on them.
+But there’s nothing there to actually create
+force centrifuge agissait sur eux.
+Mais il n'y a rien là pour réellement créer
+
+that force. Which is why physicists call it
+a fictitious force -- it doesn’t really exist.
+cette force.  C'est pourquoi les physiciens l'appellent
+une force fictive - elle n'existe pas vraiment.
+
+So! Now that we know how acceleration works
+Alors!  Maintenant que nous savons comment fonctionne l'accélération
+
+when you’re moving in a circle, we can finally
+come up with some ways to connect position,
+lorsque vous vous déplacez en cercle, nous pouvons enfin
+trouver des moyens de relier la position, la
+
+velocity, and acceleration -- and figure out
+if that centrifuge ride is safe for people.
+vitesse et l'accélération - et déterminer
+si ce trajet en centrifugeuse est sans danger pour les personnes.
+
+But first, we have to talk about time. When
+something’s moving around a circle in a
+Mais d'abord, il faut parler du temps.  Lorsque
+quelque chose se déplace autour d'un cercle de
+
+consistent way -- in other words, its acceleration
+is constant -- it’ll take a certain amount
+manière cohérente - en d'autres termes, son accélération
+est constante - il faudra un
+
+of time to return to its starting conditions.
+In this case, those starting conditions are
+certain temps pour revenir à ses conditions de départ.
+Dans ce cas, ces conditions de départ sont
+
+a particular point along the circular path.
+We call that time the period of the motion,
+un point particulier le long de la trajectoire circulaire.
+Nous appelons ce temps la période du mouvement,
+
+and the variable we use to represent it is
+a capital T.
+et la variable que nous utilisons pour le représenter est
+un T majuscule.
+
+Which isn’t too hard to remember, as long
+as you keep in mind that the period is an
+Ce qui n'est pas trop difficile à retenir, tant
+que vous gardez à l'esprit que la période est une
+
+amount of time. From timing the centrifuge
+ride in action, we know that it takes 2 seconds
+durée.  En chronométrant le
+tour de la centrifugeuse en action, nous savons qu'il faut 2 secondes
+
+to spin around once. So we’d say that the
+period of its motion is 2 seconds.
+pour tourner une fois.  Nous dirions donc que la
+période de son mouvement est de 2 secondes.
+
+But sometimes it’s easier to talk about
+the same idea in another way -- how many revolutions
+Mais parfois, il est plus facile de parler de
+la même idée d'une autre manière : combien de
+
+does the ride make in one second? That’s
+what we’d call the frequency of the motion
+révolutions le véhicule effectue-t-il en une seconde ?  C'est
+ce que nous appellerions la fréquence du mouvement
+
+-- which we write as an f in equations.
+That’s simple enough to figure out: if it
+- que nous écrivons comme un f dans les équations.
+C'est assez simple à comprendre : s'il
+
+takes the ride 2 seconds to make one revolution,
+then it’s making one half of a revolution
+faut 2 secondes au trajet pour faire un tour,
+alors il fait un demi-tour
+
+per second.It’s also not too difficult to
+relate period and frequency with an equation:
+par seconde. Il n'est pas non plus trop difficile de
+relier la période et la fréquence avec une équation : la
+
+frequency is just 1, divided by the period.
+Now that we’ve gotten time out of the way,
+fréquence est juste 1, divisé  par la période.
+Maintenant que nous avons gagné du temps,
+
+let’s talk about position. We generally
+talk about distance in terms of the circumference
+parlons de position.  Nous
+parlons généralement de distance en termes de circonférence
+
+of the circle, because that tells us how many
+times you’ve gone around the circle.
+du cercle, car cela nous indique combien de
+fois vous avez fait le tour du cercle.
+
+In other words, if a centrifuge rider covers
+the same distance as one circumference, we
+En d'autres termes, si un pilote de centrifugeuse couvre
+la même distance qu'une circonférence, nous
+
+know they’ve made one revolution. And circumference
+is just 2 times pi times the radius of the
+savons qu'il a fait un tour.  Et la circonférence
+est juste 2 fois pi fois le rayon du
+
+circle. So if that human centrifuge has a
+radius of 5 meters, riders would travel 31.4 meters every revolution.
+cercle.  Donc, si cette centrifugeuse humaine a un
+rayon de 5 mètres, les coureurs parcourraient 31,4 mètres à chaque révolution.
+
+Now: What about their speed? Well, in our
+Maintenant : qu'en est-il de leur vitesse ?  Eh bien, dans nos
+
+episodes on motion in a straight line, we
+talked about how average velocity is generally
+épisodes sur le mouvement en ligne droite, nous
+avons expliqué que la vitesse moyenne est généralement
+
+equal to the change in position over the change
+in time -- -- which turns out to be a great
+égale au changement de position au fil du
+temps -- -- ce qui s'avère être un excellent
+
+way to describe the speed of uniform circular
+motion.
+moyen de décrire la vitesse d'un mouvement circulaire uniforme.
+mouvement. 
+
+When the rider’s made one revolution around
+the circle, they’ve covered a distance equal
+Lorsque le cycliste a fait un tour autour
+du cercle, il a parcouru une distance égale
+
+to 2 times pi times r -- or, in this case,
+31.4 meters. That’s how far they’ve traveled.
+à 2 fois pi fois r -- ou, dans ce cas,
+31,4 mètres.  C'est jusqu'où ils ont voyagé.
+
+And the amount of time it took was equal to
+the period of the ride’s motion. That’s
+Et le temps qu'il a fallu était égal à
+la période du mouvement du manège.  C'est
+
+their change in time.
+Divide the distance they’ve traveled by
+leur changement dans le temps.
+Divisez la distance qu'ils ont parcourue par
+
+their change in time, and you get the speed
+equation for uniform circular motion. Using
+leur changement de temps, et vous obtenez l'
+équation de vitesse pour un mouvement circulaire uniforme.  En utilisant
+
+that equation, we can calculate the speed
+of a rider on the centrifuge -- it’s 15.7
+cette équation, nous pouvons calculer la vitesse
+d'un cycliste sur la centrifugeuse - c'est 15,7
+
+meters per second.
+Next, getting the equation for the magnitude
+mètres par seconde.
+Ensuite, obtenir l'équation de l'ampleur
+
+of centripetal acceleration -- how strong
+it is, basically -- is a little less straightforward.
+de l'accélération centripète - quelle
+est sa force, en gros - est un peu moins simple.
+
+That magnitude will be equal to the change
+in velocity over the change in time at any given
+Cette amplitude sera égale au changement
+de vitesse sur le changement de temps à un moment donné
+
+moment -- in other words, its derivative.
+Actually calculating the derivative can
+- en d'autres termes, sa dérivée.
+En fait, le calcul de la dérivée peut
+
+get complicated, but it turns out to be equal
+to the speed, squared, divided by the radius
+devenir compliqué, mais il s'avère être égal
+à la vitesse, au carré, divisée par le rayon
+
+of the circle.
+This equation makes a lot of sense for a few
+du cercle.
+Cette équation a beaucoup de sens pour plusieurs
+
+reasons: First, take a look at the units.
+Acceleration is measured in meters per second
+raisons : Tout d'abord, jetez un œil aux unités.
+L'accélération est mesurée en mètres par seconde au
+
+squared, so we already know that whatever
+the equation for centripetal acceleration
+carré, donc nous savons déjà que quelle que soit
+l'équation de l'accélération centripète
+
+is, the units have to work out to meters per
+second squared.
+, les unités doivent être exprimées en mètres par
+seconde au carré.
+
+And they do: square the speed, and you end
+up with units of meters squared per second
+Et ils le font : mettez la vitesse au carré, et vous vous
+retrouvez avec des unités de mètres au carré par seconde au
+
+squared. Just divide those units by meters,
+and you get meters per second squared. You
+carré.  Il suffit de diviser ces unités par des mètres
+et vous obtenez des mètres par seconde au carré.  Vous
+
+can also tell from this equation that if you
+increase your speed along the circular path
+pouvez également dire à partir de cette équation que si vous
+augmentez votre vitesse le long de la trajectoire circulaire
+
+or decrease the radius of that path, you should
+end up with a higher acceleration.
+ou diminuez le rayon de cette trajectoire, vous devriez vous
+retrouver avec une accélération plus élevée.
+
+And that relationship between acceleration,
+speed, and radius checks out in real life, too:
+Et cette relation entre l'accélération, la
+vitesse et le rayon se vérifie également dans la vraie vie :
+
+Try spinning the key on a string faster,
+or shortening the string but spinning it at
+essayez de faire tourner la touche d'une corde plus rapidement
+ou de raccourcir la corde mais de la faire tourner à
+
+the same speed. You’ll feel the key pulling
+harder on your fingers, because it’s experiencing
+la même vitesse.  Vous sentirez la touche tirer
+plus fort sur vos doigts, car elle subit
+
+more acceleration.
+And now that we have an equation for the acceleration
+plus d'accélération.
+Et maintenant que nous avons une équation pour l'accélération
+
+that riders would experience on the centrifuge,
+we can finally figure out if that ride is
+que les cyclistes subiraient sur la centrifugeuse,
+nous pouvons enfin déterminer si ce trajet est
+
+safe. We already know that their speed would
+be 15.7 meters per second, and that the radius
+sûr.  On sait déjà que leur vitesse serait de
+15,7 mètres par seconde, et que le rayon
+
+of the ride is 5 meters.
+So, according to the equation for acceleration,
+du trajet est de 5 mètres.
+Ainsi, selon l'équation de l'accélération,
+
+their acceleration would be 49.3 meters per
+second squared. That’s about half the acceleration
+leur accélération serait de 49,3 mètres par
+seconde au carré.  C'est environ la moitié de l'accélération
+
+that NASA found would make people black out.
+So the ride is probably safe, at least for
+que la NASA a trouvée ferait perdre connaissance aux gens.
+Le trajet est donc probablement sûr, au moins
+
+a couple of minutes. Whether that much acceleration
+would be pleasant is a different story -- but
+pendant quelques minutes.  Qu'une telle
+accélération soit agréable est une autre histoire - mais
+
+hey, we’re just here to make sure the ride
+is safe. We’re not responsible for cleaning
+bon, nous sommes juste là pour nous assurer que la conduite
+est sûre.  Nous ne sommes pas responsables de
+
+up the vomit once it’s over.
+Today, you learned that when an object is
+nettoyer le vomi une fois qu'il est terminé.
+Aujourd'hui, vous avez appris que lorsqu'un objet est
+
+in uniform circular motion, its velocity is
+tangent to the circle and its acceleration
+en mouvement circulaire uniforme, sa vitesse est
+tangente au cercle et son
+
+is pointing inward. We also talked about the
+difference between centripetal and centrifugal
+accélération pointe vers l'intérieur.  Nous avons également parlé de la
+différence entre les
+
+forces, and derived equations for period,
+frequency, velocity, and acceleration.
+forces centripètes et centrifuges et des équations dérivées pour la période, la
+fréquence, la vitesse et l'accélération.
+
+Crash Course Physics is produced in association
+with PBS Digital Studios. You can head over
+Crash Course Physics est produit en association
+avec PBS Digital Studios.  Vous pouvez vous
+
+to their channel to check out amazing shows
+like Deep Look, The Good Stuff, and PBS Space Time.
+rendre sur leur chaîne pour découvrir des émissions incroyables
+comme Deep Look, The Good Stuff et PBS Space Time.
+
+This episode of Crash Course was filmed
+in the Doctor Cheryl C. Kinney Crash Course
+Cet épisode de Crash Course a été filmé
+dans le studio Doctor Cheryl C. Kinney Crash Course
+
+Studio with the help of these amazing people
+and our equally amazing graphics team is Thought Cafe.
+avec l'aide de ces personnes incroyables
+et notre équipe graphique tout aussi incroyable est Thought Cafe.
+

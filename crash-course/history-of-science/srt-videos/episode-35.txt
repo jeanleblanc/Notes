@@ -1,0 +1,814 @@
+By the end of World War Two and the beginning
+of the Cold War, physics had been revolutionized—again.
+À la fin de la Seconde Guerre mondiale et au début
+de la guerre froide, la physique avait été révolutionnée, une fois de plus.
+
+Much as Newton had done in 1666, Einstein
+did in 1905.
+Tout comme Newton l'avait fait en 1666, Einstein l'avait
+fait en 1905.
+
+But once again, biology was late to the paradigm-shifting
+party.
+Mais une fois de plus, la biologie était en retard sur le changement de paradigme
+.
+
+Remember how Darwin and Mendel lived around
+the same time, but everyone forgot about Mendel
+Rappelez-vous comment Darwin et Mendel vivaient à peu près à
+la même époque, mais tout le monde a oublié Mendel
+
+until 1900, and even then biologists saw Darwinism
+and Mendelism as two competing grand theories
+jusqu'en 1900, et même alors, les biologistes voyaient le darwinisme
+et le mendélisme comme deux grandes théories concurrentes
+
+about how life works?
+sur le fonctionnement de la vie ?
+
+The Darwin and Wallace people thought traits
+were blended, and they studied big populations
+Les peuples de Darwin et de Wallace pensaient que les traits
+étaient mélangés et ils ont étudié de grandes populations
+
+of different species, in the wild and in fossils.
+While the Mendelians studied roses or flies
+d'espèces différentes, à l'état sauvage et dans les fossiles.
+Alors que les Mendéliens étudiaient les roses ou les mouches
+
+in labs.
+dans les laboratoires.
+
+And they saw that some traits aren’t blended,
+but jump around according to Mendel’s laws.
+Et ils ont vu que certains traits ne sont pas mélangés,
+mais sautent selon les lois de Mendel.
+
+And, meanwhile, the eugenicists studied variation
+in human populations, for creepy reasons.
+Et, pendant ce temps, les eugénistes ont étudié la variation
+des populations humaines, pour des raisons effrayantes.
+
+Well, it’s time to bring these threads together
+into a new paradigm for biology—one that
+Eh bien, il est temps de rassembler ces fils
+dans un nouveau paradigme pour la biologie, qui
+
+accounts for change over time in species through
+exacting quantitative analysis on different
+tient compte des changements au fil du temps chez les espèces grâce à
+une analyse quantitative rigoureuse sur différentes
+
+real-world populations.
+populations du monde réel.
+
+[Intro Music Plays]
+[Intro Music Plays] La
+
+Medicine changed a lot after 1900 due to the
+discovery of different therapies like antibiotics.
+médecine a beaucoup changé après 1900 en raison de la
+découverte de différentes thérapies comme les antibiotiques.
+
+Likewise, biology changed a lot as scientists
+combined different ideas, from natural selection
+De même, la biologie a beaucoup changé car les scientifiques ont
+combiné différentes idées, de la sélection naturelle
+
+to statistics, in new ways.
+aux statistiques, de nouvelles manières.
+
+The result is a framework called the Modern
+Synthesis, or “neo-Darwinism.” And even
+Le résultat est un cadre appelé la
+synthèse moderne, ou « néo-darwinisme ».  Et encore
+
+today, biologists mostly work within it.
+aujourd'hui, les biologistes y travaillent majoritairement.
+
+Basically, the Modern Synthesis uses Mendelian
+inheritance—Mendel’s rules—to explain
+Fondamentalement, la synthèse moderne utilise l'
+héritage mendélien - les règles de Mendel - pour expliquer
+
+how Darwinian natural selection works in real
+time.
+comment la sélection naturelle darwinienne fonctionne en
+temps réel.
+
+So Darwin and Wallace’s big ideas about
+change over long epochs, across vast continents,
+Ainsi, les grandes idées de Darwin et Wallace sur le
+changement sur de longues périodes, à travers de vastes continents, ont
+
+provided a solid theory for different researchers
+to use when designing studies in quantitative
+fourni une théorie solide que différents
+chercheurs peuvent utiliser lors de la conception d'études en
+
+and population genetics, and when trying to
+make sense of their results.
+génétique quantitative et des populations, et lorsqu'ils essaient de
+donner un sens à leurs résultats.
+
+What did the Modern Synthesis look like as
+it happened? From 1928 to 1942, different
+À quoi ressemblait la synthèse moderne au moment où
+elle s'est produite ?  De 1928 à 1942,
+
+people applied one theory across a bunch of
+forms of empirical science, gluing them together.
+différentes personnes ont appliqué une théorie à un tas de
+formes de science empirique, en les collant ensemble.
+
+Hence, “synthesis!”
+Par conséquent, "synthèse!"
+
+They also published influential books that
+knit together Darwinism with Mendelism—such
+Ils ont également publié des livres influents qui
+relient le darwinisme au mendélisme,
+
+as English ecological geneticist E. B. Ford’s
+1931 classic, Mendelism and Evolution.
+comme le classique de 1931 du généticien écologique anglais E. B. Ford
+, Mendelism and Evolution.
+
+Now, there were too many Modern Synthesizers
+to shout out in one episode.
+Maintenant, il y avait trop de synthétiseurs modernes
+pour crier dans un épisode.
+
+But you’ve met a couple of them before.
+Mais vous en avez déjà rencontré quelques-uns.
+
+American geneticist and embryologist Thomas
+Hunt Morgan, for example, directed the Fly
+Le généticien et embryologiste américain Thomas
+Hunt Morgan, par exemple, a dirigé la Fly
+
+Room at Columbia from 1911 to 1928—which
+we visited in Episode Twenty-Five.
+Room à Columbia de 1911 à 1928, que
+nous avons visitée dans l'épisode vingt-cinq.
+
+Morgan trained a lot of biologists who contributed
+to the Modern Synthesis by exploring where
+Morgan a formé de nombreux biologistes qui ont contribué
+à la synthèse moderne en explorant où les
+
+genes are physically located on the chromosomes
+of fruit flies—
+gènes sont physiquement situés sur les chromosomes
+des mouches des fruits,
+
+members of the species Drosophila melanogaster.
+membres de l'espèce Drosophila melanogaster.
+
+They Fly Boys also created databases of different
+alleles, or versions of a gene.
+They Fly Boys a également créé des bases de données de différents
+allèles ou versions d'un gène.
+
+For example, they figured out that the dominant
+allele controlling the color of a fly’s
+Par exemple, ils ont découvert que l'
+allèle dominant contrôlant la couleur des yeux d'une mouche la
+
+eyes makes it red, but recessive alleles exist
+for brown or white eyes.
+rend rouge, mais des allèles récessifs existent
+pour les yeux bruns ou blancs.
+
+In fact, the Fly Room scientists could inbreed
+flies with specific traits until these mutants
+En fait, les scientifiques de Fly Room pouvaient reproduire des
+mouches avec des traits spécifiques jusqu'à ce que ces mutants
+
+were pretty much new species.
+soient à peu près de nouvelles espèces.
+
+But this didn’t prove how species were created
+in the wild.
+Mais cela ne prouve pas comment les espèces ont été créées
+dans la nature.
+
+Maybe, using artificial selection, the scientists
+were doing something that Darwin and Wallace’s
+Peut-être qu'en utilisant la sélection artificielle, les scientifiques
+faisaient quelque chose que le
+
+proposed mechanism, natural selection didn’t
+do, or did a different way.
+mécanisme proposé par Darwin et Wallace, la sélection naturelle, ne faisait
+pas, ou faisait d'une manière différente.
+
+One of Morgan’s students, Ukrainian-American
+geneticist Theodosius Dobzhansky, resolved
+L'un des étudiants de Morgan, le généticien américain d'origine ukrainienne
+Theodosius Dobzhansky, a résolu
+
+this frustration by studying flies similar
+to the lab’s Drosophila.
+cette frustration en étudiant des mouches similaires
+à la drosophile du laboratoire.
+
+Traveling from Canada to Mexico, Dobzhansky
+demonstrated that natural groups of flies
+Voyageant du Canada au Mexique, Dobzhansky a
+démontré que les groupes naturels de mouches
+
+have the same levels of genetic variation
+as mutants in labs.
+ont les mêmes niveaux de variation génétique
+que les mutants en laboratoire.
+
+In fact, Dobzhansky showed that, in the wild,
+variations are inherited pretty much as Darwin
+En fait, Dobzhansky a montré que, dans la nature, les
+variations sont héritées à peu près comme Darwin l'
+
+would have predicted.
+aurait prédit.
+
+And most mutations aren’t good or bad, which
+is why variation is so high! He joined the
+Et la plupart des mutations ne sont ni bonnes ni mauvaises,
+c'est pourquoi la variation est si élevée !  Il rejoint les
+
+worlds laboratory genetics, the realm of experimentation,
+and field naturalism, the realm of observation.
+mondes de la génétique de laboratoire, domaine de l'expérimentation,
+et du naturalisme de terrain, domaine de l'observation.
+
+Dobzhansky published his landmark book, Genetics
+and the Origin of Species in 1937, which established
+Dobzhansky a publié son livre historique, Genetics
+and the Origin of Species en 1937, qui a établi
+
+evolutionary genetics as a discipline.
+la génétique évolutive en tant que discipline.
+
+In his book, Dobzhansky defined evolution
+as the “change in the frequency of an allele
+Dans son livre, Dobzhansky a défini l'évolution
+comme le "changement de la fréquence d'un allèle
+
+within a gene pool.” Which is pretty much
+how we teach it today.
+au sein d'un pool génétique".  C'est à peu près la
+façon dont nous l'enseignons aujourd'hui.
+
+Darwin’s natural selection, culling certain
+alleles from a population and allowing others
+La sélection naturelle de Darwin, éliminant certains
+allèles d'une population et permettant à d'autres
+
+to reproduce, is one of the main drivers of
+the evolution of species—along with completely
+de se reproduire, est l'un des principaux moteurs de
+l'évolution des espèces, avec
+
+random mutation and some other forces called
+gene flow and gene drift.
+une mutation complètement aléatoire et d'autres forces appelées
+flux de gènes et dérive de gènes.
+
+Dobzhansky also spent much of his career trying
+to convince people not to think of humans
+Dobzhansky a également passé une grande partie de sa carrière à essayer
+de convaincre les gens de ne pas considérer les humains
+
+like inbred mutant flies: human “races”
+are not genetically defined, but socially
+comme des mouches mutantes consanguines : les « races » humaines
+ne sont pas définies génétiquement, mais socialement
+
+constructed.
+construites.
+
+The biological features that people have associated
+with different races have changed over time,
+Les caractéristiques biologiques que les gens ont associées
+à différentes races ont changé au fil du temps
+
+and the boundaries between those races have
+been redrawn.
+et les frontières entre ces races ont
+été redessinées.
+
+Dobzhansky was one of many scientists who
+hoped that people would read about human genetics
+Dobzhansky était l'un des nombreux scientifiques qui
+espéraient que les gens liraient sur la génétique humaine
+
+and suddenly change their views on human difference.
+et changeraient soudainement leur point de vue sur la différence humaine.
+
+Turns out, we need more than just science.
+Il s'avère que nous avons besoin de plus que de la science.
+
+Dobzhansky was not the only biologist to turn
+to statistics as a tool for describing variation
+Dobzhansky n'était pas le seul biologiste à se tourner
+vers les statistiques comme outil pour décrire la variation
+
+in living things.
+des êtres vivants.
+
+Starting around 1918, English statistician
+Ronald A. Fisher made numerous contributions
+À partir de 1918 environ, le statisticien anglais
+Ronald A. Fisher a apporté de nombreuses contributions
+
+to statistics and genetics, culminating in
+his banger, The Genetical Theory of Natural
+aux statistiques et à la génétique, aboutissant à
+son banger, The Genetical Theory of Natural
+
+Selection, in 1930.
+Selection, en 1930.
+
+He showed statistically that what looks like
+continuous natural selection is actually the
+Il a montré statistiquement que ce qui ressemble à
+une sélection naturelle continue est en fait le
+
+result of combined changes to many different
+genes.
+résultat de changements combinés.  à de nombreux
+gènes différents.
+
+Fisher’s work provided much of the foundation
+for biostatistics, or how to apply statistics
+Les travaux de Fisher ont fourni une grande partie de la base
+de la biostatistique, ou comment appliquer les statistiques
+
+to biology, including using statistical concepts
+to understand the results of experiments.
+à la biologie, y compris l'utilisation de concepts statistiques
+pour comprendre les résultats des expériences.
+
+Unfortunately, Fisher was also a massive eugenicist
+who insisted that racial differences in humans
+Malheureusement, Fisher était aussi un eugéniste massif
+qui insistait sur le fait que les différences raciales chez les humains avaient une
+
+mattered scientifically.
+importance scientifique.
+
+Sort of the opposite of Dobzhansky.
+Un peu à l'opposé de Dobzhansky.  J. B. S. Haldane
+
+English scientist, socialist organizer, and
+consummate natty dresser J. B. S. Haldane
+, scientifique anglais, organisateur socialiste et
+habilleur natty accompli, a
+
+also helped pioneer biostatistics, and a bunch
+of other stuff.
+également aidé à lancer la biostatistique et un tas
+d'autres choses.
+
+In a 1915 paper, Haldane published the first
+genetic linkage maps for mammals—showing
+Dans un article de 1915, Haldane a publié les premières
+cartes de liaison génétique pour les mammifères, montrant
+
+the order and relative distances of genes
+in guinea pigs and mice, and later chickens.
+l'ordre et les distances relatives des gènes
+chez les cobayes et les souris, et plus tard les poulets.
+
+This was a big step, moving from flies to
+mice!
+Ce fut un grand pas, passer des mouches aux
+souris !
+
+Haldane’s work, like his 1932 book The Causes
+of Evolution, helped establish—with Fisher
+Le travail de Haldane, comme son livre de 1932 Les causes
+de l'évolution, a aidé à établir - avec Fisher
+
+and American geneticist Sewall Wright—population
+genetics.
+et le généticien américain Sewall Wright - la
+génétique des populations.
+
+This is the study of how genes vary in populations,
+including models of how different alleles
+Il s'agit de l'étude de la façon dont les gènes varient dans les populations,
+y compris des modèles de la façon dont différents allèles
+
+will change in a population over time.
+changeront dans une population au fil du temps.
+
+Other scientists focused not on gene-by-gene
+change, but on whole species. German ornithologist
+D'autres scientifiques se sont concentrés non pas sur le changement gène par gène
+, mais sur des espèces entières.  L'ornithologue allemand
+
+Ernst Mayr came up with the modern biological
+definition of a species:
+Ernst Mayr a proposé la définition biologique moderne
+d'une espèce :
+
+not just a bunch of similar organisms, but
+a group that can only breed with each other.
+pas seulement un groupe d'organismes similaires, mais
+un groupe qui ne peut se reproduire qu'entre eux.
+
+Mayr published Systematics and the Origin
+of Species from the Viewpoint of a Zoologist
+Mayr a publié Systematics and the Origin
+of Species from the Viewpoint of a Zoologist
+
+in 1942, helping establish evolutionary biology
+as distinct from genetics and the other life
+en 1942, aidant à établir la biologie évolutive
+comme distincte de la génétique et des autres
+
+sciences.
+sciences de la vie.
+
+Finally, British evolutionary biologist and
+eugenicist Julian Huxley published Evolution:
+Enfin, le biologiste évolutionniste et
+eugéniste britannique Julian Huxley a publié Evolution:
+
+The Modern Synthesis in 1942.
+The Modern Synthesis en 1942.
+
+This one was kind of the capstone to the whole
+Modern Synthesis: it summarized the research
+Celui-ci était en quelque sorte la pierre angulaire de toute
+la synthèse moderne: il résumait les recherches
+
+uniting evolution and genetics up to World
+War Two.
+unissant l'évolution et la génétique jusqu'à la Seconde
+Guerre mondiale.
+
+And Julian Huxley coined many terms still
+used by evolutionary biologists, such as cline,
+Et Julian Huxley a inventé de nombreux termes encore
+utilisés par les biologistes de l'évolution, tels que cline,
+
+or the gradient of some trait—say, some
+gene—within a population across a geographical
+ou le gradient de certains traits - disons, certains
+gènes - au sein d'une population à travers une
+
+range.
+aire géographique.
+
+Fun fact: Julian’s little brother, Aldous
+Huxley wrote the dystopia Brave New World
+Fait amusant : le petit frère de Julian, Aldous
+Huxley, a écrit la dystopie Brave New World
+
+in 1932, which argued that technology might
+not only not be the solution to the world’s
+en 1932, qui affirmait que la technologie pourrait
+non seulement ne pas être la solution aux problèmes du monde,
+
+problems—it might be a major source of them.
+mais aussi en être une source majeure.
+
+And we have to shout-out their grandpa, Thomas
+Henry Huxley, AKA “Darwin’s Bulldog,”
+Et nous devons remercier leur grand-père, Thomas
+Henry Huxley, alias "Darwin's Bulldog",
+
+who helped make Darwin the most famous scientist
+of the nineteenth century.
+qui a contribué à faire de Darwin le scientifique le plus célèbre
+du XIXe siècle.
+
+Just… a lot going on with the Huxley family.
+Juste… il se passe beaucoup de choses avec la famille Huxley.
+
+So the Modern Synthesizers had links back
+to Darwin himself.
+Ainsi, les synthétiseurs modernes avaient des liens
+avec Darwin lui-même.
+
+And with Julian Huxley’s book, the work
+of figuring out the how of evolution was publicly
+Et avec le livre de Julian Huxley, le travail
+de comprendre le comment de l'évolution a été
+
+announced, a little less than a century after
+the Origin of Species.
+annoncé publiquement, un peu moins d'un siècle après
+l'Origine des espèces.
+
+In the public eye, biology gained credibility.
+After striving for decades to make their field
+Aux yeux du public, la biologie a gagné en crédibilité.
+Après s'être efforcés pendant des décennies de faire en sorte que leur domaine
+
+better resemble physics, biologists were finally
+using mathematics and massive data sets regularly
+ressemble davantage à la physique, les biologistes utilisaient enfin les
+mathématiques et des ensembles de données massifs de manière régulière
+
+and convincingly.
+et convaincante.
+
+It’s important to note that the Synthesizers
+weren’t really a clearly defined group,
+Il est important de noter que les synthétiseurs
+n'étaient pas vraiment un groupe clairement défini
+
+and they didn’t always agree with each other.
+et qu'ils n'étaient pas toujours d'accord les uns avec les autres.
+
+And while their work was transformative and
+still provides a basis for some of the day-to-day
+Et bien que leur travail ait été transformateur et
+fournisse toujours une base pour une partie du
+
+work for biologists, not everyone was down
+with the Synthesis in the Forties, and new
+travail quotidien des biologistes, tout le monde n'était pas tombé
+avec la synthèse dans les années 40, et de nouvelles
+
+ideas continue to reshape it today.
+idées continuent de la remodeler aujourd'hui.
+
+But still, by 1942, biology had become, by
+its own account, “modern.”
+Pourtant, en 1942, la biologie était devenue, de
+son propre aveu, « moderne ».
+
+Notice, the Synthesizers were mostly English
+and American dudes. Dobzhansky was born in
+Remarquez, les synthétiseurs étaient pour la plupart
+des mecs anglais et américains.  Dobzhansky est né
+
+the Ukraine, but he immigrated to the United
+States at age twenty seven.
+en Ukraine, mais il a immigré aux États-
+Unis à l'âge de vingt-sept ans.
+
+While they were meticulously using Mendelian
+genetics to explain natural selection, their
+Alors qu'ils utilisaient méticuleusement la
+génétique mendélienne pour expliquer la sélection naturelle, leurs
+
+counterparts in the newly powerful Soviet
+Union faced a different intellectual landscape.
+homologues de la toute nouvelle
+Union soviétique étaient confrontés à un paysage intellectuel différent.
+
+Science and technology were strongly prized
+in the Soviet Union.
+La science et la technologie étaient très prisées
+en Union soviétique.
+
+After all, the country had been founded on
+Marxist principles: there is only one, material
+Après tout, le pays avait été fondé sur
+des principes marxistes : il n'y a qu'un seul
+
+world, and whoever controls the means of production—capital
+and technology—controls that world.
+monde, le monde matériel, et celui qui contrôle les moyens de production, le capital
+et la technologie, contrôle ce monde.
+
+After the World War Two, elite schools pumped
+out many highly skilled engineers every year,
+Après la Seconde Guerre mondiale, les écoles d'élite ont formé
+chaque année de nombreux ingénieurs hautement qualifiés
+
+and Soviet scientists began to win Nobel Prizes.
+et les scientifiques soviétiques ont commencé à remporter des prix Nobel.
+
+They had to catch up on the whole atomic bomb
+fad, for one.
+Ils devaient rattraper toute la
+mode de la bombe atomique, pour commencer.
+
+But in the life sciences, instead of competing
+with the Modern Synthesizers, the Soviets
+Mais dans les sciences de la vie, au lieu de
+concurrencer les synthétiseurs modernes, les Soviétiques se sont
+
+focused on applications— agriculture.
+concentrés sur les applications : l'agriculture.
+
+The question facing Soviet geneticists was,
+how to improve varieties of wheat and other
+La question à laquelle étaient confrontés les généticiens soviétiques était de
+savoir comment améliorer les variétés de blé et d'autres
+
+staples so that they could grow longer, even
+in the harsh environments that made up a lot
+denrées de base afin qu'elles puissent pousser plus longtemps, même
+dans les environnements difficiles qui constituaient une grande partie
+
+of the Soviet Union?
+de l'Union soviétique ?
+
+ThoughtBubble, show us what happened next:
+Soviet agronomist Trofim Lysenko rose from
+ThoughtBubble, montrez-nous ce qui s'est passé ensuite :
+l'agronome soviétique Trofim Lysenko est sorti de l'
+
+obscurity to become the director of the Soviet Union's Lenin All Union Academy of Agricultural Sciences.
+obscurité pour devenir le directeur de l'Académie des sciences agricoles de l'Union soviétique Lénine.
+
+all because he claimed that wheat subjected
+to cold would produce a next generation better
+tout cela parce qu'il a affirmé que le blé soumis
+au froid produirait une prochaine génération mieux
+
+able to withstand even more cold.
+à même de résister à encore plus de froid.
+
+This process was call vernalization, and it
+caught on, along with Lysenko’s other ideas
+Ce processus s'appelait la vernalisation, et il s'est
+propagé, avec les autres idées de Lyssenko
+
+for farming, faster than scientists could
+investigate whether they actually worked.
+sur l'agriculture, plus rapidement que les scientifiques ne pouvaient
+déterminer si elles fonctionnaient réellement.
+
+So now, promoted up to science boss, Lysenko
+focused on developing ideas similar to those
+Alors maintenant, promu au poste de patron scientifique, Lyssenko
+s'est concentré sur le développement d'idées similaires à celles
+
+of Jean-Baptiste Lamarck,
+de Jean-Baptiste Lamarck,
+
+the French evolutionary theorist who thought
+that organisms could inherit characteristics
+le théoricien français de l'évolution qui pensait
+que les organismes pouvaient hériter de caractéristiques
+
+based on their individual experiences.
+basées sur leurs expériences individuelles.
+
+This theory, in which experience mattered
+more than a competition among inherited genes,
+Cette théorie, dans laquelle l'expérience importait
+plus qu'une compétition entre gènes hérités
+
+was a better fit with Marxism.
+, correspondait mieux au marxisme.
+
+Lysenko and his yes-men also made lots of
+unscientific claims about agriculture, including
+Lyssenko et ses partisans ont également fait de nombreuses
+affirmations non scientifiques sur l'agriculture, notamment
+
+that rye could transform into wheat.
+que le seigle pouvait se transformer en blé.
+
+He also used his power to destroy the careers
+of geneticists in the Soviet Union—all of
+Il a également utilisé son pouvoir pour détruire la carrière
+des généticiens en Union soviétique,
+
+them.
+tous.
+
+He had the real scientists fired and replaced
+with his lackeys.
+Il a fait virer les vrais scientifiques et les remplacer
+par ses laquais.
+
+This system of science-purely-for-politics’-sake
+became known as Lysenkoism.
+Ce système de science purement politique
+est devenu connu sous le nom de lyssenkisme.
+
+Now, all systems of science are political—saying
+you’re “apolitical” just means you’re
+Maintenant, tous les systèmes scientifiques sont politiques - dire que
+vous êtes "apolitique" signifie simplement que vous êtes
+
+for the status quo—but Lysenkoism wasn’t
+even science any more.
+pour le statu quo - mais le lyssenkisme n'était
+même plus une science.
+
+It was a pure power play.
+C'était un pur jeu de pouvoir.
+
+So in 1940, the leading Soviet geneticist,
+Nikolai Vavilov , was arrested.
+Ainsi, en 1940, le principal généticien soviétique,
+Nikolai Vavilov, a été arrêté.
+
+Lysenko took up his post as director of the
+Institute of Genetics.
+Lyssenko a pris ses fonctions de directeur de l'
+Institut de génétique.
+
+In 1941, Vavilov was put through a sham trial
+and found guilty of sabotage. Imprisoned,
+En 1941, Vavilov a été soumis à un simulacre de procès
+et reconnu coupable de sabotage.  Emprisonné,
+
+he died of malnutrition in 1943.
+il mourut de malnutrition en 1943.
+
+Thanks Thoughtbubble.
+Merci Thoughtbubble.
+
+And then, in 1948, Lysenko talked Joseph Stalin
+into banning population genetics and other
+Et puis, en 1948, Lyssenko a persuadé Joseph Staline
+d'interdire complètement la génétique des populations et d'autres
+
+types of “bourgeois” biology entirely.
+types de biologie « bourgeoise ».
+
+This meant no more artificial selection of
+crop varietals based on neo-Darwinian science.
+Cela signifiait qu'il n'y avait plus de sélection artificielle de
+variétés de cultures basée sur la science néo-darwinienne.
+
+The Soviet Union, already facing serious food
+shortages, lost an important tool for fighting
+L'Union soviétique, déjà confrontée à de graves
+pénuries alimentaires, a perdu un outil important de lutte contre la
+
+famine.
+famine.
+
+Lysenkoism only ended in the 1960s, after
+Lysenko’s Stalin died, and three prominent
+Le lyssenkisme n'a pris fin que dans les années 1960, après
+la mort de Staline de Lyssenko, et trois éminents
+
+Soviet physicists spoke out against his pseudoscience
+and political manipulations.
+physiciens soviétiques se sont prononcés contre sa pseudoscience
+et ses manipulations politiques.
+
+But at least, thanks to scientists including
+Julian Huxley, Nikolai Vavilov’s reputation
+Mais au moins, grâce à des scientifiques dont
+Julian Huxley, la réputation de Nikolai Vavilov en
+
+as a great geneticist was finally restored.
+tant que grand généticien a finalement été restaurée.
+
+Next time—another bridge from World War
+Two to the Cold War: it’s time to meet Alan
+La prochaine fois, un autre pont entre la Seconde Guerre
+mondiale et la guerre froide : il est temps de rencontrer Alan
+
+Turing and invent the computer.
+Turing et d'inventer l'ordinateur.
+
+Crash Course History of Science is filmed
+in the Dr. Cheryl C. Kinney studio in Missoula,
+Crash Course History of Science est filmé
+dans le studio du Dr Cheryl C. Kinney à Missoula,
+
+Montana and it’s made with the help of all
+this nice people and our animation team is
+Montana et il est réalisé avec l'aide de toutes
+ces personnes sympathiques et notre équipe d'animation est
+
+Thought Cafe.
+Thought Cafe.
+
+Crash Course is a Complexly production. If
+you wanna keep imagining the world complexly
+Crash Course est une production complexe.  Si
+vous voulez continuer à imaginer le monde de manière complexe
+
+with us, you can check out some of our other
+channels like Nature League, Sexplanations,
+avec nous, vous pouvez consulter certaines de nos autres
+chaînes comme Nature League, Sexplanations
+
+and Scishow.
+et Scishow.
+
+And, if you’d like to keep Crash Course
+free for everybody, forever, you can support
+Et, si vous souhaitez que Crash Course reste
+gratuit pour tout le monde, pour toujours, vous pouvez soutenir
+
+the series at Patreon; a crowdfunding platform
+that allows you to support the content you
+la série sur Patreon ;  une plateforme de financement participatif
+qui vous permet de soutenir le contenu que vous
+
+love. Thank you to all of our patrons for
+making Crash Course possible with their continued
+aimez.  Merci à tous nos mécènes d'
+avoir rendu Crash Course possible grâce à leur
+
+support.
+soutien continu.
+

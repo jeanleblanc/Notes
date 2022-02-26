@@ -1,0 +1,710 @@
+Imagine you’re putting together your dream
+home.
+Imaginez que vous construisez la
+maison de vos rêves.
+
+Maybe you’re after a mansion on the rolling hills
+of LA, or a mountain-top ski lodge, or a beautiful
+cottage somewhere in the countryside.
+Peut-être êtes-vous à la recherche d'un manoir sur les collines
+de Los Angeles, ou d'un chalet de ski au sommet d'une montagne, ou d'un magnifique
+cottage quelque part à la campagne.
+
+Whatever it is, unless you’re willing to
+give up a lot of modern conveniences, you’ll
+want electrical power in your home.
+Quoi qu'il en soit, à moins que vous ne soyez prêt à
+renoncer à de nombreuses commodités modernes, vous aurez
+besoin d'électricité dans votre maison.
+
+It took scientists and engineers hundreds of years
+of experimenting with electricity to get us to a point
+where we can use it for our benefit.
+Il a fallu aux scientifiques et aux ingénieurs des centaines d'années
+d'expérimentation de l'électricité pour nous amener à un point
+où nous pouvons l'utiliser à notre avantage.
+
+Along the way, electrical engineers had to make choices
+about the materials they used to stop, start, and change
+the flow of electrical current as it was needed.
+En cours de route, les ingénieurs électriciens ont dû faire des choix
+concernant les matériaux qu'ils utilisaient pour arrêter, démarrer et modifier
+le flux de courant électrique selon les besoins.
+
+And although we may take it for granted,
+getting power to your new house will involve
+some pretty clever thinking.
+Et bien que nous puissions le prendre pour acquis,
+l'alimentation de votre nouvelle maison impliquera
+une réflexion assez intelligente.
+
+[Theme Music]
+[Thème musical]
+
+Electrical power is carried in a material
+by the flow of electrons – charged subatomic
+particles found in all materials.
+L'énergie électrique est transportée dans un matériau
+par le flux d'électrons - des
+particules subatomiques chargées présentes dans tous les matériaux.
+
+Most electrons are bound up in atoms not doing
+very much, but certain materials allow electrons
+to flow through them, carrying charge.
+La plupart des électrons sont liés dans des atomes qui ne font pas
+grand-chose, mais certains matériaux permettent aux électrons
+de les traverser, en portant une charge.
+
+That flow is what we call an electrical current,
+and it’s measured in units called Amperes.
+Ce flux est ce que nous appelons un courant électrique,
+et il est mesuré en unités appelées ampères.
+
+In diagrams, you’ll see that current is shown to be
+flowing from positive to negative, which might seem
+kind of confusing, since it’s opposite to the direction
+the electrons are flowing.
+Dans les diagrammes, vous verrez que le courant
+circule du positif au négatif, ce qui peut sembler un
+peu déroutant, car il est opposé à la direction dans laquelle
+les électrons circulent.
+
+But it becomes much easier to decode if you
+think about current as a flow of charge.
+Mais cela devient beaucoup plus facile à décoder si vous
+considérez le courant comme un flux de charge.
+
+As electrons flow toward a positive charge,
+their destination becomes more negative, and
+their source becomes more positive.
+Lorsque les électrons se dirigent vers une charge positive,
+leur destination devient plus négative et
+leur source devient plus positive.
+
+Essentially, charge is flowing in the opposite
+direction to the electrons.
+Essentiellement, la charge circule dans la
+direction opposée aux électrons.
+
+For our purposes, though, we just need to
+know how easily electrons flow in the material.
+Pour nos besoins, cependant, nous avons juste besoin de
+savoir avec quelle facilité les électrons circulent dans le matériau.
+
+When they’re able to flow in a material with a voltage
+applied to it – meaning it’s connected to something that
+can generate an electric current, like a battery –
+Lorsqu'ils sont capables de circuler dans un matériau auquel une tension est
+appliquée - c'est-à-dire qu'il est connecté à quelque chose qui
+peut générer un courant électrique, comme une batterie -
+
+we say the material conducts an electrical current.
+nous disons que le matériau conduit un courant électrique.
+
+The degree to which a material can conduct
+the flow of electricity is called its conductivity.
+Le degré auquel un matériau peut conduire
+le flux d'électricité s'appelle sa conductivité.
+
+Then there’s resistance, which describes how much
+a material resists the flow of current through it.
+Ensuite, il y a la résistance, qui décrit à quel point
+un matériau résiste au passage du courant à travers lui.
+
+It’s inversely proportional to conductivity,
+meaning that when one increases, the other
+decreases proportionally, and vice versa.
+Il est inversement proportionnel à la conductivité,
+ce qui signifie que lorsque l'un augmente, l'autre
+diminue proportionnellement, et vice versa.
+
+Resistance is measured in units called ohms,
+represented by the capital Greek letter omega, so we
+talk about conductivity in units of inverse ohms
+– that is, 1 divided by ohms.
+La résistance est mesurée en unités appelées ohms,
+représentées par la lettre grecque majuscule oméga, nous
+parlons donc de conductivité en unités d'ohms inverses
+, c'est-à-dire 1 divisé par ohms.
+
+For electrical engineers, conductivity is
+often a good thing, like for the material
+inside an electrical wire.
+Pour les ingénieurs électriciens, la conductivité est
+souvent une bonne chose, comme pour le matériau à l'
+intérieur d'un fil électrique.
+
+We want that to carry a flow of electrical
+power to our devices.
+Nous voulons que cela transporte un flux d'énergie
+électrique vers nos appareils.
+
+As for the casing around that wire, if we
+don’t want our electrical current escaping
+into unwanted materials,
+En ce qui concerne le boîtier autour de ce fil, si nous
+ne voulons pas que notre courant électrique s'échappe
+dans des matériaux indésirables,
+
+we’d better make sure that the casing’s
+material doesn’t have a lot of conductivity.
+nous ferions mieux de nous assurer que le matériau du boîtier
+n'a pas beaucoup de conductivité.
+
+In electrical engineering, we can broadly
+categorize materials into three types based
+on their conductivity:
+En génie électrique, nous pouvons globalement
+classer les matériaux en trois types en fonction
+de leur conductivité : Les
+
+Conductors, which, as you might expect, have
+high conductivities.
+conducteurs, qui, comme on peut s'y attendre, ont
+des conductivités élevées.
+
+Insulators, which have extremely low conductivities
+Les isolants, qui ont des conductivités extrêmement faibles
+
+And semiconductors, which are somewhere in
+between.
+Et les semi-conducteurs, qui se situent quelque part
+entre les deux.
+
+For now, we’ll be concentrating on those
+first two.
+Pour l'instant, nous allons nous concentrer sur ces
+deux premiers.
+
+Metals, like silver, copper, gold, or aluminum,
+are good conductors.
+Les métaux, comme l'argent, le cuivre, l'or ou l'aluminium,
+sont de bons conducteurs.
+
+You’ve probably noticed that a lot of electrical
+circuitry is made of metal.
+Vous avez probablement remarqué que de nombreux
+circuits électriques sont en métal.
+
+Their conductivities are nice and high at
+around ten million inverse ohms per meter.
+Leurs conductivités sont agréables et élevées à
+environ dix millions d'ohms inverses par mètre.
+
+On the other end of the scale, insulators
+barely conduct electricity at all.
+À l'autre extrémité de l'échelle, les isolateurs
+conduisent à peine l'électricité.
+
+Those are materials like plastic, glass, and
+rubber.
+Ce sont des matériaux comme le plastique, le verre et le
+caoutchouc.
+
+As an electrical engineer, which type of material
+appeals to you usually depends on how much
+conductivity you need.
+En tant qu'ingénieur électricien, le type de matériau
+qui vous intéresse dépend généralement de la
+conductivité dont vous avez besoin.
+
+So it’s going to be important to consider
+that when figuring out how to get power to
+your dream home.
+Il sera donc important d'en tenir
+compte lorsque vous déterminerez comment alimenter la maison de
+vos rêves en électricité.
+
+Chances are, we’ll have to transport the
+electrical power over long distances – far
+from a power plant.
+Il y a de fortes chances que nous devions transporter l'
+énergie électrique sur de longues distances - loin
+d'une centrale électrique.
+
+Of course, the electricity grid has to supply
+other users too, like businesses, factories
+and other homes.
+Bien sûr, le réseau électrique doit également approvisionner d'
+autres utilisateurs, comme les entreprises, les usines
+et les autres foyers.
+
+It takes a lot of material to supply electricity to
+an entire nation or continent, so we need to make
+a sensible decision about the cables we use to
+carry power throughout the grid.
+Il faut beaucoup de matériel pour fournir de l'électricité à
+une nation ou à un continent entier, nous devons donc prendre
+une décision judicieuse concernant les câbles que nous utilisons pour
+transporter l'électricité à travers le réseau.
+
+Our material has to be highly conductive, to transport
+as much of the required electrical current as possible,
+Notre matériau doit être hautement conducteur, pour
+transporter autant que possible le courant électrique requis,
+
+and high in tensile strength to ensure that it lasts for
+a long time hanging between transmission towers.
+et avoir une résistance à la traction élevée pour garantir qu'il
+dure longtemps entre les pylônes de transmission.
+
+And, like so many materials in electrical
+engineering, it needs to be ductile so we
+can shape it to our needs.
+Et, comme tant de matériaux en
+génie électrique, il doit être ductile pour que nous
+puissions le façonner selon nos besoins.
+
+The good news is that there is a material
+that fits the bill!
+La bonne nouvelle, c'est qu'il existe un matériau
+qui fait l'affaire !
+
+Copper is ductile, and has a high tensile
+strength, and best of all, is very conductive.
+Le cuivre est ductile et a une résistance à la traction
+élevée, et surtout, il est très conducteur.
+
+Job done, right?
+Travail fait, non ?
+
+Well, the bad news is that copper is too expensive
+to make a power grid from.
+Eh bien, la mauvaise nouvelle est que le cuivre est trop cher
+pour fabriquer un réseau électrique.
+
+Cost is one of those pesky engineering considerations
+that’s hard to get around!
+Le coût est l'une de ces considérations d'ingénierie embêtantes
+qu'il est difficile de contourner !
+
+Instead, transmission lines are typically
+made of a cheaper metal: aluminum.
+Au lieu de cela, les lignes de transmission sont généralement
+constituées d'un métal moins cher : l'aluminium.
+
+Aluminum has a high conductivity – although
+not quite as high as copper – and is lightweight,
+so it’s less likely to sag over time.
+L'aluminium a une conductivité élevée -
+bien que pas aussi élevée que le cuivre - et est léger,
+il est donc moins susceptible de s'affaisser avec le temps.
+
+But despite this, it’s not strong enough
+to support the tension power cables are put
+under for extended periods.
+Mais malgré cela, il n'est pas assez solide
+pour supporter la tension que les câbles électriques
+subissent pendant de longues périodes.
+
+Well, no worries.
+Eh bien, pas de soucis.
+
+We’re not restricted to using just one material!
+Nous ne sommes pas limités à n'utiliser qu'un seul matériau !
+
+And steel has a very high tensile strength.
+Et l'acier a une résistance à la traction très élevée.
+
+So if we take strands of conductive aluminum
+and arrange them around a core of high strength
+steel strands,
+Donc, si nous prenons des brins d'aluminium conducteur
+et les arrangeons autour d'un noyau de
+brins d'acier à haute résistance,
+
+the cable can transmit lots of power while
+the steel provides extra strength and support.
+le câble peut transmettre beaucoup de puissance tandis que
+l'acier offre une résistance et un soutien supplémentaires.
+
+Which is exactly how power cables are designed.
+C'est exactement la façon dont les câbles d'alimentation sont conçus.
+
+But just because copper is expensive for power
+grids, doesn’t mean it’s not used at all.
+Mais ce n'est pas parce que le cuivre est cher pour les
+réseaux électriques qu'il n'est pas du tout utilisé.
+
+With all that power now being supplied to
+your house, you probably have some electrical
+appliances that you’d like to put in there.
+Avec toute cette électricité qui est maintenant fournie à
+votre maison, vous avez probablement des
+appareils électriques que vous aimeriez y installer.
+
+Copper will have an important role in those
+appliances!
+Le cuivre aura un rôle important dans ces
+appareils !
+
+In smaller quantities, copper is useful in
+electronic circuitry, especially since it’s very
+easy to shape, weld and solder.
+En plus petites quantités, le cuivre est utile dans
+les circuits électroniques, d'autant plus qu'il est très
+facile à façonner, à souder et à braser.
+
+The purer the copper, the better it is for
+conducting electricity.
+Plus le cuivre est pur, mieux il est
+conducteur d'électricité.
+
+Perhaps one of the most important examples
+is in printed circuit boards, or PCBs.
+L'un des exemples les plus importants est peut-être celui des
+cartes de circuits imprimés, ou PCB.
+
+PCBs are boards that allow for complex
+arrangements of electrical components to be
+connected and arranged on small scales.
+Les PCB sont des cartes qui permettent de connecter et d'agencer des
+agencements complexes de composants électriques
+à petite échelle.
+
+And they’re absolutely everywhere!
+Et ils sont absolument partout !
+
+Any modern electronic items in this dream
+home, from televisions to microwaves or even
+a digital clock, will contain a PCB.
+Tous les articles électroniques modernes de cette
+maison de rêve, des téléviseurs aux micro-ondes ou même
+une horloge numérique, contiendront un PCB.
+
+If you’re watching this on your phone or
+your computer, there’s a PCB already hidden
+away in the circuitry of your device.
+Si vous regardez cela sur votre téléphone ou
+votre ordinateur, il y a un PCB déjà
+caché dans les circuits de votre appareil.
+
+And it’s copper, with its marvelous conducting
+properties, that provide the tracks on those
+boards, connecting all the tiny components inside
+your devices together.
+Et c'est le cuivre, avec ses merveilleuses
+propriétés conductrices, qui fournit les pistes sur ces
+cartes, connectant tous les petits composants à l'intérieur de
+vos appareils.
+
+High conductivity isn’t the be all and end
+all of electrical engineering though.
+Cependant, une conductivité élevée n'est pas la
+fin de l'électrotechnique.
+
+Stopping an electrical current from going
+where it shouldn’t is just as important as
+helping it flow where it should!
+Empêcher un courant électrique d'aller
+là où il ne devrait pas est tout aussi important que de l'
+aider à circuler là où il devrait !
+
+Consider the wiring in the walls of your dream
+home.
+Considérez le câblage dans les murs de la maison de vos
+rêves.
+
+As with the wire we considered earlier, insulators
+like plastic or rubber will be vital to stop the currents
+from flowing out of the circuit and getting where they
+shouldn’t.
+Comme pour le fil que nous avons considéré plus tôt, les isolants
+comme le plastique ou le caoutchouc seront essentiels pour empêcher les
+courants de sortir du circuit et d'arriver là où ils
+ne devraient pas.
+
+But even within that circuit itself, materials
+on the lower end of being conductors are often
+super important.
+Mais même au sein de ce circuit lui-même, les matériaux
+à l'extrémité inférieure des conducteurs sont souvent
+très importants.
+
+You might have noticed that your new place
+doesn’t really have much lighting yet.
+Vous avez peut-être remarqué que votre nouvel endroit
+n'a pas encore vraiment beaucoup d'éclairage.
+
+That’s where low conductivity conductors
+can help us!
+C'est là que les conducteurs à faible conductivité
+peuvent nous aider !
+
+See, when we apply a current in a low
+conductivity conductor,
+Vous voyez, lorsque nous appliquons un courant dans un
+conducteur à faible conductivité,
+
+the electrons, which are carrying the current,
+can’t zip past the material’s atoms quite as easily
+and carry all the electrical energy through.
+les électrons, qui transportent le courant,
+ne peuvent pas passer devant les atomes du matériau aussi facilement
+et transporter toute l'énergie électrique.
+
+Instead, the material’s resistance causes the
+electrons to convert some of their electrical energy
+to heat, and in some cases, even light.
+Au lieu de cela, la résistance du matériau amène les
+électrons à convertir une partie de leur énergie électrique
+en chaleur et, dans certains cas, même en lumière.
+
+Which means low conductivity conductors
+give us a way to generate heat and light from
+an electrical current.
+Ce qui signifie que les conducteurs à faible conductivité
+nous permettent de générer de la chaleur et de la lumière à partir d'
+un courant électrique.
+
+So, resistance isn’t always futile;
+sometimes it’s rather useful.
+Ainsi, la résistance n'est pas toujours futile;
+parfois c'est plutôt utile.
+
+The amount of power lost to a resistor to generate
+heat and light is given by the square of the current
+multiplied by the total resistance of the material.
+La quantité de puissance perdue par une résistance pour générer de la
+chaleur et de la lumière est donnée par le carré du courant
+multiplié par la résistance totale du matériau.
+
+Under the circumstances they’re typically
+used in, it’s also helpful for low-conductivity
+conductors to have some other features,
+Dans les circonstances dans lesquelles ils sont généralement
+utilisés, il est également utile que les conducteurs à faible conductivité
+aient d'autres caractéristiques,
+
+like a high melting point and mechanical strength.
+comme un point de fusion élevé et une résistance mécanique.
+
+They still need to be ductile, though, so
+we can shape them into a wire.
+Cependant, ils doivent toujours être ductiles, afin que
+nous puissions les façonner en un fil.
+
+So it’s also handy if those materials are
+resistant to corrosion, have a long lifetime,
+and are inexpensive – ideally.
+Il est donc également utile que ces matériaux
+résistent à la corrosion, aient une longue durée de vie
+et soient peu coûteux - idéalement.
+
+Not asking much, are we?
+On ne demande pas grand chose, n'est-ce pas ?
+
+We do have some options, though.
+Nous avons cependant quelques options.
+
+Tungsten, for example, is a metal that’s
+typically extracted from chemical compounds
+in ores or tungstic acid.
+Le tungstène, par exemple, est un métal qui est
+généralement extrait de composés chimiques
+dans les minerais ou l'acide tungstique.
+
+It’s name comes from the term “Tung sten”,
+meaning “Heavy stone” in Swedish.
+Son nom vient du terme « Tung sten », qui
+signifie « pierre lourde » en suédois.
+
+And that’s a pretty apt name for it!
+Et c'est un joli nom pour ça !
+
+Tungsten is heavy; by density it’s so similar to gold
+that counterfeiters sometimes cover a slab of tungsten
+with a bit of gold to make fake solid gold bars!
+Le tungstène est lourd ;  par sa densité, il ressemble tellement à l'or
+que les faussaires recouvrent parfois une plaque de tungstène
+avec un peu d'or pour fabriquer de faux lingots d'or massif !
+
+But it also has the highest tensile strength and
+melting point of any metal on the periodic table.
+Mais il a également la résistance à la traction et le point de fusion les plus élevés
+de tous les métaux du tableau périodique.
+
+That makes it perfect for drawing into long,
+thin wires – better known as filaments.
+Cela le rend parfait pour dessiner des fils longs et
+fins, mieux connus sous le nom de filaments.
+
+And here’s the important thing: tungsten
+is quite a low conductivity conductor, with twice
+the resistivity of a material like aluminum.
+Et voici la chose importante : le
+tungstène est un conducteur à faible conductivité, avec deux fois
+la résistivité d'un matériau comme l'aluminium.
+
+So it also does a great job of generating
+light.
+Il fait donc également un excellent travail de génération de
+lumière.
+
+Tungsten filaments can handle extremely high
+temperatures, up to two thousand degrees Celsius!
+Les filaments de tungstène peuvent supporter des températures extrêmement élevées
+, jusqu'à deux mille degrés Celsius !
+
+Which means a filament can give off a lot of
+light before hitting a temperature where it melts.
+Ce qui signifie qu'un filament peut émettre beaucoup de
+lumière avant d'atteindre une température à laquelle il fond.
+
+Unfortunately, though, we can’t expose it to the
+atmosphere, since oxygen reacts with the tungsten to
+form tungsten oxide, which burns out the filament.
+Malheureusement, nous ne pouvons pas l'exposer à l'
+atmosphère, car l'oxygène réagit avec le tungstène pour
+former de l'oxyde de tungstène, qui brûle le filament.
+
+So instead, we encase it in glass, and surround the
+filament with an inert gas like argon or nitrogen so it can
+continue to shine when we put a current through it.
+Donc, à la place, nous l'enfermons dans du verre et entourons le
+filament d'un gaz inerte comme l'argon ou l'azote afin qu'il puisse
+continuer à briller lorsque nous le traversons par un courant.
+
+If you feel like you’ve just had a light-bulb
+moment you’re completely right.
+Si vous sentez que vous venez d'avoir un
+moment d'ampoule, vous avez tout à fait raison.
+
+We’ve literally just described how incandescent
+light bulbs work!
+Nous venons littéralement de décrire le fonctionnement des
+ampoules à incandescence !
+
+Admittedly, more modern light bulbs, like
+LEDs, are much more efficient and better
+for the environment.
+Certes, les ampoules plus modernes, comme les
+LED, sont beaucoup plus efficaces et meilleures
+pour l'environnement.
+
+But tungsten’s ability to withstand the
+destructive forces of electrical contact are
+still pretty useful elsewhere.
+Mais la capacité du tungstène à résister aux
+forces destructrices du contact électrique est
+encore assez utile ailleurs.
+
+For example, tungsten can handle being
+bombarded by electrons –
+Par exemple, le tungstène peut supporter d'être
+bombardé par des électrons -
+
+those electrons cause it to emit electromagnetic
+radiation in the form of X-rays, which is how X-rays
+are generated in hospitals!
+ces électrons lui font émettre un
+rayonnement électromagnétique sous forme de rayons X, c'est ainsi que les rayons X
+sont générés dans les hôpitaux !
+
+Another low-conductivity conductor that shows
+up in electrical engineering is carbon,
+Un autre conducteur à faible conductivité qui
+apparaît dans l'ingénierie électrique est le carbone,
+
+which is used in things like resistors, electrical
+contacts, and battery cell elements.
+qui est utilisé dans des choses comme les résistances, les
+contacts électriques et les éléments de cellule de batterie.
+
+So we have light, but can we provide some
+extra heat?
+Nous avons donc de la lumière, mais pouvons-nous apporter un peu
+de chaleur supplémentaire ?
+
+A dream mountain-top ski lodge, for example,
+definitely needs a way to keep you extra nice
+and toasty in the winter.
+Un chalet de ski de rêve au sommet d'une montagne, par exemple, a
+certainement besoin d'un moyen de vous garder bien
+au chaud en hiver.
+
+Well, one low-conductivity conductor, nichrome,
+is up to the task.
+Eh bien, un conducteur à faible conductivité, le nichrome,
+est à la hauteur de la tâche.
+
+It’s a metal alloy that’s mostly nickel and chromium,
+and because it’s on the lower end of conducting,
+when we apply a voltage through it, it does a great
+job of heating up.
+C'est un alliage métallique composé principalement de nickel et de chrome,
+et parce qu'il se trouve à l'extrémité inférieure de la conduction,
+lorsque nous appliquons une tension à travers lui,
+il chauffe très bien.
+
+That makes it perfect to function as the heating
+element in an electric heater or furnace.
+Cela le rend parfait pour fonctionner comme
+élément chauffant dans un radiateur électrique ou un four.
+
+And with that, we’ve got the electrical
+essentials covered for your dream home!
+Et avec cela, nous avons
+couvert l'essentiel de l'électricité pour la maison de vos rêves !
+
+Of course, if you want a device like a computer
+in your new place, we’ll have to take a look at the
+intermediate materials on the spectrum that
+ushered in the computer age: semiconductors.
+Bien sûr, si vous voulez un appareil comme un ordinateur
+dans votre nouvel endroit, nous devrons jeter un coup d'œil aux
+matériaux intermédiaires du spectre qui ont
+inauguré l'ère informatique : les semi-conducteurs.
+
+But that’s a story for the next episode.
+Mais c'est une histoire pour le prochain épisode.
+
+Today, we looked at the materials electrical
+engineers work with.
+Aujourd'hui, nous avons examiné les matériaux avec lesquels les
+ingénieurs électriciens travaillent.
+
+We looked at how high-conductors help us transport
+electrical power and form the basis of circuitry,
+Nous avons examiné comment les hauts conducteurs nous aident à transporter
+l'énergie électrique et à former la base des circuits,
+
+how insulators stop flow from going where
+it shouldn’t,
+comment les isolants empêchent le flux d'aller là où
+il ne devrait pas
+
+and how low-conductivity conductors can
+be used to generate light and heat.
+et comment les conducteurs à faible conductivité peuvent
+être utilisés pour générer de la lumière et de la chaleur.
+
+Crash Course Engineering is produced in association
+with PBS Digital Studios, which also produces Space Time.
+Crash Course Engineering est produit en association
+avec PBS Digital Studios, qui produit également Space Time.
+
+Space Time explores the outer reaches of space,
+the depths of astrophysics, the possibilities
+of sci-fi, and anything else you can think
+of beyond Planet Earth.
+Space Time explore les confins de l'espace,
+les profondeurs de l'astrophysique, les possibilités
+de la science-fiction et tout ce à quoi vous pouvez penser
+au-delà de la planète Terre.
+
+Check out Space Time and subscribe at the
+link below.
+Découvrez Space Time et abonnez-vous au
+lien ci-dessous.
+
+Crash Course is a Complexly production and this
+episode was filmed in the Doctor Cheryl C. Kinney
+Studio with the help of these wonderful people.
+Crash Course est une production de Complexly et cet
+épisode a été filmé dans le studio du docteur Cheryl C. Kinney
+avec l'aide de ces personnes merveilleuses.
+
+And our amazing graphics team is Thought Cafe.
+Et notre incroyable équipe graphique est Thought Cafe.
+

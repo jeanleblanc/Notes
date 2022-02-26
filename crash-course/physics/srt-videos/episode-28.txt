@@ -1,0 +1,356 @@
+Imagine you’re floating down a river.
+Imaginez que vous flottez sur une rivière.
+
+Maybe the stream is calm and serene, flowing
+without obstruction.
+Peut-être que le ruisseau est calme et serein, coulant
+sans obstruction.
+
+Or perhaps it’s a rushing river, churning
+and splashing over rocks!
+Ou peut-être est-ce une rivière impétueuse, bouillonnant
+et éclaboussant les rochers !
+
+Well, the way water moves in a river is a
+lot like how electricity flows through a wire.
+Eh bien, la façon dont l'eau se déplace dans une rivière
+ressemble beaucoup à la façon dont l'électricité circule à travers un fil.
+
+But when we say that electricity is flowing,
+we’re really talking about the flow of electrons.
+Mais quand nous disons que l'électricité circule,
+nous parlons en fait du flux d'électrons.
+
+Electric current is the total amount of charge
+passing through a wire over a period of time.
+Le courant électrique est la quantité totale de charge
+traversant un fil pendant une période de temps.
+
+But how does current actually form?
+Mais comment se forme réellement le courant ?
+
+What can it pass through?
+Par quoi peut-il passer ?
+
+And what determines how strong it is?
+Et qu'est-ce qui détermine sa force?
+
+It’s time to sit back, relax, and go with
+the flow.
+Il est temps de s'asseoir, de se détendre et de suivre
+le courant.
+
+[Theme Music]
+[Theme Music]
+
+Let’s talk about how we get charges to flow
+from one place to another.
+Parlons de la façon dont nous faisons circuler les charges
+d'un endroit à un autre.
+
+Last time, we learned that when there’s a difference in electric potential between two points, the voltage gives charged particles, like electrons, the energy to move from one place to another.
+La dernière fois, nous avons appris que lorsqu'il y a une différence de potentiel électrique entre deux points, la tension donne aux particules chargées, comme les électrons, l'énergie nécessaire pour se déplacer d'un endroit à un autre.
+
+Just like a river flows from high elevation to low elevation, electric charge flows from high voltage to low voltage.
+Tout comme une rivière coule de haute à basse altitude, la charge électrique passe de la haute tension à la basse tension.
+
+So, we need a way to generate a voltage that gets charge to flow continuously, creating an electric current.
+Nous avons donc besoin d'un moyen de générer une tension qui fait circuler la charge en continu, créant un courant électrique.
+
+Before the 19th century, scientists had been able to generate static charge by rubbing different materials together.
+Avant le 19e siècle, les scientifiques étaient capables de générer une charge statique en frottant différents matériaux ensemble.
+
+But they couldn’t do much more than create
+small sparks.
+Mais ils ne pouvaient pas faire beaucoup plus que créer de
+petites étincelles.
+
+They didn’t fully understand what they were doing, so they couldn’t figure out how to create a constant voltage to generate a steady flow of electricity.
+Ils ne comprenaient pas parfaitement ce qu'ils faisaient, ils ne pouvaient donc pas comprendre comment créer une tension constante pour générer un flux constant d'électricité.
+
+To solve this problem, Italian scientist Alessandro Volta invented the first voltaic cell,
+Pour résoudre ce problème, le scientifique italien Alessandro Volta a inventé la première cellule voltaïque,
+
+which uses chemical reactions to create an electric potential difference between two pieces of different metals, known as electrodes.
+qui utilise des réactions chimiques pour créer une différence de potentiel électrique entre deux pièces de métaux différents, appelées électrodes.
+
+When the two electrodes are connected, current
+begins to flow.
+Lorsque les deux électrodes sont connectées, le courant
+commence à circuler.
+
+We call these connection points terminals, and we can connect multiple voltaic cells together by placing wires between their opposite electrodes.
+Nous appelons ces bornes de points de connexion, et nous pouvons connecter plusieurs cellules voltaïques ensemble en plaçant des fils entre leurs électrodes opposées.
+
+When one or more voltaic cells are combined, their voltages add up, and together they form a battery.
+Lorsqu'une ou plusieurs cellules voltaïques sont combinées, leurs tensions s'additionnent et, ensemble, elles forment une batterie.
+
+Today’s batteries operate under the same
+principle as the very first voltaic cell.
+Les batteries d'aujourd'hui fonctionnent selon le même
+principe que la toute première pile voltaïque.
+
+Now that we have a source for our current, we’ll also need a ground that’s connected to the wire.
+Maintenant que nous avons une source pour notre courant, nous aurons également besoin d'une masse connectée au fil.
+
+This is just a common conductor that ensures the current always has a path to a large reservoir of charge -- usually the Earth itself.
+Il s'agit simplement d'un conducteur commun qui garantit que le courant a toujours un chemin vers un grand réservoir de charge - généralement la Terre elle-même.
+
+Next, once we can generate an electric current, we’ll need a way to describe how strongly the charge flows.
+Ensuite, une fois que nous pourrons générer un courant électrique, nous aurons besoin d'un moyen de décrire la force avec laquelle la charge circule.
+
+If you picture the cross section of a wire, you can measure how much charge flows through that cross section over a period of time.
+Si vous imaginez la section transversale d'un fil, vous pouvez mesurer la quantité de charge qui traverse cette section transversale sur une période de temps.
+
+The amount of charge moving past this point, divided by the time period, gives us a value in Coulombs per second, which we call by the special unit, amperes.
+La quantité de charge dépassant ce point, divisée par la période de temps, nous donne une valeur en coulombs par seconde, que nous appelons par l'unité spéciale, ampères.
+
+So one Coulomb of charge passing through that cross section of wire over one second is equal to one ampere of current.
+Ainsi, un coulomb de charge traversant cette section de fil pendant une seconde est égal à un ampère de courant.
+
+OK but wait.
+D'accord mais attendez.
+
+Did you notice that we’re talking about
+positive charge flowing through a wire?
+Avez-vous remarqué que nous parlons d'
+une charge positive circulant dans un fil ?
+
+How can that be?
+Comment est-ce possible ?
+
+After all, the current is made up of negatively
+charged electrons moving through the wire.
+Après tout, le courant est composé d'
+électrons chargés négativement se déplaçant à travers le fil.
+
+Well, when American polymath Benjamin Franklin
+did experiments with electricity in the 1700s,
+Eh bien, lorsque le polymathe américain Benjamin Franklin a
+fait des expériences avec l'électricité dans les années 1700,
+
+he established what he thought to be the direction in which electricity flows, and he named it the “positive” direction of current.
+il a établi ce qu'il pensait être la direction dans laquelle l'électricité circule, et il l'a nommée la direction "positive" du courant.
+
+It’s a convention we still use today.
+C'est une convention que nous utilisons encore aujourd'hui.
+
+It wasn’t until much later that we learned the direction Franklin chose was actually the opposite of how electrons move in a wire.
+Ce n'est que bien plus tard que nous avons appris que la direction choisie par Franklin était en fait l'opposé de la façon dont les électrons se déplacent dans un fil.
+
+But as far as electric current is concerned, the flow of negatively charged electrons in one direction is equivalent to the flow of positively charged particles in the opposite direction.
+Mais en ce qui concerne le courant électrique, le flux d'électrons chargés négativement dans une direction équivaut au flux de particules chargées positivement dans la direction opposée.
+
+While this can be confusing, remember that when we talk about the flow of current, the convention is to say the current is in the direction that positive charge flows.
+Bien que cela puisse prêter à confusion, rappelez-vous que lorsque nous parlons de la circulation du courant, la convention veut que le courant soit dans la direction dans laquelle la charge positive circule.
+
+Now, if you’ve ever installed a battery in…anything…you also know that one terminal of a battery is called positive and the other one is negative.
+Maintenant, si vous avez déjà installé une batterie dans… n'importe quoi… vous savez également qu'une borne d'une batterie est appelée positive et l'autre est négative.
+
+And conventionally speaking, current flows
+from the positive to the negative terminal.
+Et de manière conventionnelle, le courant circule
+de la borne positive à la borne négative.
+
+But this means that electrons must flow from
+the negative terminal of the battery to the positive.
+Mais cela signifie que les électrons doivent circuler de
+la borne négative de la batterie vers la borne positive.
+
+Picture the positive terminal as the start of our river, up in the mountains, and the negative terminal as the end of the river, draining out into the ocean.
+Imaginez la borne positive comme le début de notre rivière, dans les montagnes, et la borne négative comme la fin de la rivière, se déversant dans l'océan.
+
+In a river, the strength of the water’s flow depends on how far the river drops from a high point to a low point.
+Dans une rivière, la force du débit de l'eau dépend de la distance à laquelle la rivière descend d'un point haut à un point bas.
+
+And the same is true for electric current
+and voltage.
+Et il en va de même pour le courant électrique
+et la tension.
+
+A high voltage typically corresponds to a
+high current in a circuit.
+Une haute tension correspond typiquement à un
+courant élevé dans un circuit.
+
+But voltage alone doesn’t determine how
+much current flows.
+Mais la tension seule ne détermine pas la
+quantité de courant qui circule.
+
+Just like rocks and branches obstruct the passage of water, the materials used to conduct electricity have properties that impede the perfect flow of electrons.
+Tout comme les roches et les branchages obstruent le passage de l'eau, les matériaux utilisés pour conduire l'électricité ont des propriétés qui empêchent la parfaite circulation des électrons.
+
+This property is known as resistance.
+Cette propriété est connue sous le nom de résistance.
+
+And resistance is described in Ohms, where one Ohm of resistance would let one Volt of potential generate one Ampere of current.
+Et la résistance est décrite en Ohms, où un Ohm de résistance laisserait un Volt de potentiel générer un Ampère de courant.
+
+When resistance is constant, voltage is directly
+proportional to current.
+Lorsque la résistance est constante, la tension est directement
+proportionnelle au courant.
+
+And this relationship is known as Ohm’s
+Law.
+Et cette relation est connue sous le nom de loi d'
+Ohm.
+
+This law assumes that the resistance of a
+material is constant.
+Cette loi suppose que la résistance d'un
+matériau est constante.
+
+So we can express voltage simply as current
+times resistance.
+Nous pouvons donc exprimer la tension simplement en tant que courant
+multiplié par la résistance.
+
+There are substances in which the resistance is not constant, and it changes with current or voltage.
+Il existe des substances dans lesquelles la résistance n'est pas constante et change avec le courant ou la tension.
+
+But for many materials -- known as ohmic materials
+-- Ohm’s law works quite well.
+Mais pour de nombreux matériaux - connus sous le nom de matériaux ohmiques
+- la loi d'Ohm fonctionne assez bien.
+
+Now, in ohmic materials, we can use our new expression of Ohm’s Law to predict and calculate the behavior of a circuit.
+Maintenant, dans les matériaux ohmiques, nous pouvons utiliser notre nouvelle expression de la loi d'Ohm pour prédire et calculer le comportement d'un circuit.
+
+Let’s say we have a 9 Volt battery, and we want to know how much current it supplies to a light bulb when we complete the circuit.
+Disons que nous avons une batterie de 9 volts et que nous voulons savoir combien de courant elle fournit à une ampoule lorsque nous terminons le circuit.
+
+If we know the system has a total resistance of 15 Ohms, we can divide the battery’s voltage by the resistance, to find that it has a current of 0.6 amperes, or 600 milliamperes.
+Si nous savons que le système a une résistance totale de 15 Ohms, nous pouvons diviser la tension de la batterie par la résistance, pour trouver qu'elle a un courant de 0,6 ampère, soit 600 milliampères.
+
+And whether it’s a light bulb, a speaker system, or a supercomputer, most electrical devices and materials contain some level of resistance.
+Et qu'il s'agisse d'une ampoule, d'un système de haut-parleurs ou d'un superordinateur, la plupart des appareils et matériaux électriques contiennent un certain niveau de résistance.
+
+Even wires in a circuit have some resistance, but compared to the resistance of a connected device like a light bulb, it’s so minuscule that we typically neglect it.
+Même les fils d'un circuit ont une certaine résistance, mais comparée à la résistance d'un appareil connecté comme une ampoule, elle est si minuscule que nous la négligeons généralement.
+
+But you want to know a neat trick?
+Mais vous voulez connaître une astuce?
+
+Well it doesn't matter because I'm going to tell you, anyway.
+Eh bien, ce n'est pas grave parce que je vais vous le dire, de toute façon.
+
+If you can make certain conductive materials
+extremely cold, you can bring their resistance to zero.
+Si vous pouvez rendre certains matériaux conducteurs
+extrêmement froids, vous pouvez ramener leur résistance à zéro.
+
+We call these materials superconductors, and trust me when I say that research into these materials is a very important -- and lucrative -- field of study.
+Nous appelons ces matériaux des supraconducteurs, et croyez-moi quand je dis que la recherche sur ces matériaux est un domaine d'étude très important - et lucratif.
+
+Because, if you can reduce the resistance of a material, by getting rid of that natural loss of energy, you can significantly increase the amount of electricity you transmit.
+Parce que si vous pouvez réduire la résistance d'un matériau, en vous débarrassant de cette perte naturelle d'énergie, vous pouvez augmenter considérablement la quantité d'électricité que vous transmettez.
+
+And in all aspects of engineering, efficiency
+is key.
+Et dans tous les aspects de l'ingénierie, l'efficacité
+est essentielle.
+
+Now, in that spirit, I should probably point out here that the whole point of batteries isn’t to just push electrons around.
+Maintenant, dans cet esprit, je devrais probablement souligner ici que le but des batteries n'est pas simplement de pousser les électrons.
+
+We need to put those electrons to work.
+Nous devons faire travailler ces électrons.
+
+For example, when we attach a battery to a light bulb, we take the potential energy in the battery and turn it into what we need, light.
+Par exemple, lorsque nous attachons une pile à une ampoule, nous prenons l'énergie potentielle de la pile et la transformons en ce dont nous avons besoin, la lumière.
+
+As current flows through the light bulb, the small piece of filament provides resistance, which transfers electric energy into thermal energy and light.
+Lorsque le courant traverse l'ampoule, le petit morceau de filament fournit une résistance qui transfère l'énergie électrique en énergie thermique et en lumière.
+
+And since we’re dealing with energy transformed over time, what we really want to know is how much power is used by the bulb.
+Et puisqu'il s'agit d'énergie transformée au fil du temps, ce que nous voulons vraiment savoir, c'est combien d'énergie est utilisée par l'ampoule.
+
+Power is the amount of energy transformed
+by a device over time.
+La puissance est la quantité d'énergie transformée
+par un appareil au fil du temps.
+
+And by “transformed,” I mean the energy is converted from electric energy into some other useful kind of energy, like heat or light.
+Et par "transformé", je veux dire que l'énergie est convertie de l'énergie électrique en un autre type d'énergie utile, comme la chaleur ou la lumière.
+
+We’ve already learned how to calculate how much energy is in a certain amount of charge that’s moving between a difference in potential -- that is, the voltage.
+Nous avons déjà appris à calculer la quantité d'énergie contenue dans une certaine quantité de charge qui se déplace entre une différence de potentiel, c'est-à-dire la tension.
+
+And since charge transferred over time is just current, it follows that the power used by the bulb is equal to the current in the circuit times the voltage across the system.
+Et puisque la charge transférée au fil du temps n'est que du courant, il s'ensuit que la puissance utilisée par l'ampoule est égale au courant dans le circuit multiplié par la tension aux bornes du système.
+
+And just like in our other calculations of power, our resulting units are in Watts, named for Scottish inventor James Watt.
+Et tout comme dans nos autres calculs de puissance, nos unités résultantes sont en watts, du nom de l'inventeur écossais James Watt.
+
+This equation holds true for the power used by any electronic device, or the power supplied by a battery.
+Cette équation est vraie pour la puissance utilisée par n'importe quel appareil électronique, ou la puissance fournie par une batterie.
+
+Now, anything that consumes power -- from a light bulb to a refrigerator to an entire house -- can be modeled in our equations as a resistor, because they create resistance.
+Maintenant, tout ce qui consomme de l'énergie - d'une ampoule à un réfrigérateur à une maison entière - peut être modélisé dans nos équations comme une résistance, car ils créent une résistance.
+
+And if you want to find the power that’s consumed by a resistor, you can substitute Ohm’s law into the power equation to discover some helpful relationships that hold true for all ohmic materials.
+Et si vous voulez trouver la puissance consommée par une résistance, vous pouvez substituer la loi d'Ohm dans l'équation de puissance pour découvrir des relations utiles qui s'appliquent à tous les matériaux ohmiques.
+
+Let’s start with the fact that power is a function of current through, and voltage across, a resistor.
+Commençons par le fait que la puissance est fonction du courant traversant et de la tension aux bornes d'une résistance.
+
+And Ohm’s law is about relating voltage,
+current, and resistance together.
+Et la loi d'Ohm concerne la relation entre la tension, le
+courant et la résistance.
+
+So, you can either replace the current in the equation, and get a new power equation in terms of voltage and resistance
+Ainsi, vous pouvez soit remplacer le courant dans l'équation et obtenir une nouvelle équation de puissance en termes de tension et de résistance
+
+…or you can replace the voltage, and get an expression in terms of only current and resistance.
+… soit vous pouvez remplacer la tension et obtenir une expression en termes de courant et de résistance uniquement.
+
+This is especially useful when you don’t
+have all the possible information about the circuit.
+Ceci est particulièrement utile lorsque vous ne disposez pas de
+toutes les informations possibles sur le circuit.
+
+So that’s your introduction to electric
+currents!
+Voilà donc votre introduction aux
+courants électriques !
+
+They really are just like flowing rivers!
+Ils sont vraiment comme des rivières qui coulent!
+
+And, once you understand the elegant math
+behind them, they’re almost as beautiful.
+Et, une fois que vous comprenez les mathématiques élégantes
+derrière eux, ils sont presque aussi beaux.
+
+Today we learned about what defines electric current and how we generate it using voltaic cells that make up batteries.
+Aujourd'hui, nous avons appris ce qui définit le courant électrique et comment nous le générons à l'aide de cellules voltaïques qui composent les batteries.
+
+We also learned about Ohm’s Law and the
+relationship between voltage, current, and resistance.
+Nous avons également appris la loi d'Ohm et la
+relation entre la tension, le courant et la résistance.
+
+Finally, we discussed what power is and how we measure the power produced and consumed in a circuit.
+Enfin, nous avons discuté de ce qu'est la puissance et de la façon dont nous mesurons la puissance produite et consommée dans un circuit.
+
+Crash Course Physics is produced in association
+with PBS Digital Studios.
+Crash Course Physics est produit en association
+avec PBS Digital Studios.
+
+You can head over to their channel to check out amazing shows like PBS Game Show, The Good BBQ With Franklin, and Blank on Blank.
+Vous pouvez vous rendre sur leur chaîne pour découvrir des émissions incroyables comme PBS Game Show, The Good BBQ With Franklin et Blank on Blank.
+
+This episode of Crash Course was filmed in
+the Doctor Cheryl C. Kinney Crash Course Studio
+Cet épisode de Crash Course a été filmé dans
+le studio Doctor Cheryl C. Kinney Crash Course
+
+with the help of these amazing people and
+our equally amazing graphics team, is Thought Cafe.
+avec l'aide de ces personnes incroyables et de
+notre équipe graphique tout aussi incroyable, Thought Cafe.
+

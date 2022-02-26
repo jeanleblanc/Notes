@@ -1,0 +1,608 @@
+[flute plays Crash Course theme]
+[la flûte joue le thème du Crash Course]
+
+That’s a familiar tune!
+C'est un air familier !
+
+How do instruments, like this guitar, create
+music?
+Comment des instruments, comme cette guitare, créent-ils de la
+musique ?
+
+We’ve talked about the science of sound,
+and some of the properties of sound waves.
+Nous avons parlé de la science du son
+et de certaines des propriétés des ondes sonores.
+
+But when we talk about sound waves in the context of music, there are all kinds of fascinating properties and weird rules to talk about.
+Mais lorsque nous parlons d'ondes sonores dans le contexte de la musique, il y a toutes sortes de propriétés fascinantes et de règles étranges dont il faut parler.
+
+I’m talking about the music that comes from
+string, wind, and brass instruments.
+Je parle de la musique qui vient des
+cordes, des vents et des cuivres.
+
+String instruments create sound when their
+strings vibrate in the air.
+Les instruments à cordes créent un son lorsque leurs
+cordes vibrent dans l'air.
+
+And in order to understand how these instruments work, you have to realize that making music is not just an art.
+Et pour comprendre le fonctionnement de ces instruments, il faut se rendre compte que faire de la musique n'est pas qu'un art.
+
+It’s ALSO a science.
+C'est AUSSI une science.
+
+[Theme Music]
+[Theme Music] Le
+
+Sound, you’ll recall, is a wave: a ‘longitudinal’
+wave.
+son, vous vous en souviendrez, est une onde : une onde « longitudinale »
+.
+
+This means that the medium that the wave travels
+through oscillates -- or moves back and forth
+Cela signifie que le milieu
+traversé par l'onde oscille - ou se déplace d'avant en arrière
+
+-- in the same direction that the wave is
+moving.
+- dans la même direction que l'onde se
+déplace.
+
+But string, wind, and brass instruments use
+a special kind of wave — they’re ‘standing waves.'
+Mais les instruments à cordes, à vent et en cuivre utilisent
+un type particulier d'ondes : ce sont des « ondes stationnaires ».
+
+A standing wave is a wave that looks like
+it isn't moving.
+Une onde stationnaire est une onde qui semble
+ne pas bouger.
+
+Its ‘amplitude’ may change, but it isn't
+traveling anywhere.
+Son "amplitude" peut changer, mais elle ne
+voyage nulle part.
+
+Standing waves are the result of two other things waves do, both of which we’ve talked about before:
+reflection and interference.
+Les ondes stationnaires sont le résultat de deux autres choses que font les ondes, dont nous avons déjà parlé : la
+réflexion et l'interférence.
+
+Reflection is what happens when a wave reaches the end of a path, and then moves back along the same path.
+La réflexion est ce qui se produit lorsqu'une onde atteint la fin d'un chemin, puis revient le long du même chemin.
+
+That’s what happens when you send a pulse down a rope -- it reaches the end, and then comes right back.
+C'est ce qui se passe lorsque vous envoyez une impulsion le long d'une corde - elle atteint la fin, puis revient tout de suite.
+
+When we send a continuous wave down the rope,
+that’s when interference comes into play.
+Lorsque nous envoyons une onde continue le long de la corde,
+c'est là que les interférences entrent en jeu.
+
+The wave reaches the end of the rope and is
+reflected, but there are more peaks on the way.
+La vague arrive au bout de la corde et se
+réfléchit, mais il y a plus de pics sur le chemin.
+
+As the peaks pass each other, they interfere
+with one another, changing their sizes.
+Au fur et à mesure que les pics se croisent, ils interfèrent les
+uns avec les autres, modifiant leur taille.
+
+Usually, you end up with crests and troughs
+that are different sizes and various distances apart.
+Habituellement, vous vous retrouvez avec des crêtes et des creux de
+différentes tailles et à différentes distances.
+
+But at certain frequencies, the reflected waves interfere in such a way that you end up
+Mais à certaines fréquences, les ondes réfléchies interfèrent de telle sorte que l'on se retrouve
+
+with a wave that seems to stay perfectly
+still, with only its amplitude changing.
+avec une onde qui semble rester parfaitement
+immobile, seule son amplitude changeant.
+
+That’s a standing wave, and it can happen
+both in strings and in the air in pipes.
+C'est une onde stationnaire, et cela peut se produire à la
+fois dans les cordes et dans l'air dans les tuyaux.
+
+And that's what makes music: Standing waves with different frequencies correspond to different musical notes.
+Et c'est ce qui fait la musique : les ondes stationnaires avec différentes fréquences correspondent à différentes notes de musique.
+
+Now, in order to understand how standing
+waves operate, you should get to know their anatomy.
+Maintenant, pour comprendre comment
+fonctionnent les ondes stationnaires, vous devez connaître leur anatomie.
+
+The points of a standing wave that don’t
+oscillate are called nodes,
+Les points d'une onde stationnaire qui
+n'oscillent pas sont appelés nœuds,
+
+and the points at the maximum height of the peaks are antinodes.
+et les points à la hauteur maximale des pics sont des ventres.
+
+And here’s something cool.
+Et voici quelque chose de cool.
+
+If you look at a string on a stringed instrument, you can actually see where the nodes and antinodes are.
+Si vous regardez une corde sur un instrument à cordes, vous pouvez réellement voir où se trouvent les nœuds et les ventres.
+
+The standing wave creates peaks along the string, and between those peaks, there are points that just stay still.
+L'onde stationnaire crée des pics le long de la corde, et entre ces pics, il y a des points qui restent immobiles.
+
+So the peaks are the antinodes, and the points
+that don’t oscillate are nodes.
+Ainsi, les pics sont les ventres et les points
+qui n'oscillent pas sont les nœuds.
+
+And if one or both of the string’s ends are fixed, then each fixed end is a node too, because it’s stuck in place.
+Et si l'une ou les deux extrémités de la chaîne sont fixes, chaque extrémité fixe est également un nœud, car elle est bloquée en place.
+
+Now, in a pipe, the standing waves are made
+of air molecules moving back and forth.
+Or, dans un tuyau, les ondes stationnaires sont constituées
+de molécules d'air qui vont et viennent.
+
+But the areas where molecules oscillate the most
+Mais les zones où les molécules oscillent le plus
+
+(including those near any open ends of the pipe) form the peaks, and therefore the antinodes.
+(y compris celles proches des extrémités ouvertes du tuyau) forment les pics, et donc les ventres.
+
+And between those peaks, as well as at any closed ends of the pipe, are areas where molecules don’t move at all; those are the nodes.
+Et entre ces pics, ainsi qu'à toutes les extrémités fermées du tuyau, se trouvent des zones où les molécules ne bougent pas du tout ;  ce sont les nœuds.
+
+Generally, musicians make their music using
+the frequencies of these standing waves.
+Généralement, les musiciens font leur musique en utilisant
+les fréquences de ces ondes stationnaires.
+
+But the nature of these waves depends a lot
+on what the ends of the string or pipe look like.
+Mais la nature de ces ondes dépend beaucoup
+de l'apparence des extrémités de la corde ou du tuyau.
+
+Remember how a wave traveling down a rope gets reflected differently, depending on whether the end of the rope is fixed or loose?
+Vous souvenez-vous qu'une onde se déplaçant le long d'une corde est réfléchie différemment, selon que l'extrémité de la corde est fixe ou lâche ?
+
+A fixed end will invert the wave -- turning
+crests into troughs, and vice versa --
+Une extrémité fixe inversera la vague - transformant les
+crêtes en creux, et vice versa -
+
+while a loose end will just reflect it without inverting it.
+tandis qu'une extrémité libre la reflétera simplement sans l'inverser.
+
+The same thing holds true for air in a pipe: a closed end will invert the wave, while an open end won’t.
+La même chose est vraie pour l'air dans un tuyau : une extrémité fermée inversera l'onde, tandis qu'une extrémité ouverte ne le fera pas.
+
+So the properties of a standing wave will
+be a little different,
+Ainsi, les propriétés d'une onde stationnaire
+seront un peu différentes,
+
+depending on whether it’s made with a string with two fixed ends, or a pipe with two ends open,
+selon qu'elle est faite avec une ficelle à deux extrémités fixes, ou un tuyau à deux extrémités ouvertes,
+
+or a string or a pipe with one end fixed,
+and the other open.
+ou une ficelle ou un tuyau avec une extrémité fixe,
+et l'autre ouverte.
+
+A string with two fixed ends -- like in a piano -- is probably the simplest way to understand standing waves.
+Une corde à deux extrémités fixes - comme dans un piano - est probablement la façon la plus simple de comprendre les ondes stationnaires.
+
+Because, we know that no matter what, the wave made by a fixed string will have at least two nodes -- one at each end.
+Parce que, nous savons que quoi qu'il arrive, la vague faite par une corde fixe aura au moins deux nœuds -- un à chaque extrémité.
+
+And in its most basic form, it would have
+just one antinode, in the middle.
+Et dans sa forme la plus élémentaire, il n'aurait
+qu'un seul ventre, au milieu.
+
+So the wave is basically a peak that moves
+from being a crest to a trough and vice versa
+Ainsi, la vague est essentiellement un pic qui passe
+d'une crête à un creux et vice versa
+
+like some kind of one-dimensional jump rope.
+comme une sorte de corde à sauter unidimensionnelle.
+
+This most basic kind of standing wave is known
+as the fundamental -- or the 1st harmonic.
+Ce type d'onde stationnaire le plus élémentaire est connu
+sous le nom de fondamentale - ou 1ère harmonique.
+
+It’s the simplest possible standing wave
+you can have, with the fewest nodes and antinodes.
+C'est l'onde stationnaire la plus simple que
+vous puissiez avoir, avec le moins de nœuds et de ventres.
+
+There are other, more complex standing waves
+that you can have, too.
+Il existe également d'autres ondes stationnaires plus
+complexes.
+
+These are known as overtones.
+Celles-ci sont connues sous le nom d'harmoniques.
+
+Overtones build on the fundamental, incrementally:
+each overtone adds a node and an antinode.
+Les harmoniques s'appuient sur la fondamentale, progressivement :
+chaque harmonique ajoute un nœud et un anti-nœud.
+
+So each of these overtones is related to the fundamental wave -- and all of the overtones are related to each other.
+Ainsi, chacune de ces harmoniques est liée à l'onde fondamentale - et toutes les harmoniques sont liées les unes aux autres.
+
+Together, the fundamental wave and the overtones
+make up what are known as harmonics.
+Ensemble, l'onde fondamentale et les harmoniques
+constituent ce que l'on appelle les harmoniques.
+
+The fundamental is the 1st harmonic, and the
+overtones are higher-numbered harmonics.
+La fondamentale est la 1ère harmonique et les
+harmoniques sont les harmoniques de numéro supérieur.
+
+With each node-and-antinode pair that’s
+added to the standing wave,
+Avec chaque paire nœud-antinode
+ajoutée à l'onde stationnaire,
+
+the number of the harmonic goes up:
+2nd harmonic, 3rd harmonic, and so on.
+le nombre d'harmoniques augmente :
+2e harmonique, 3e harmonique, etc.
+
+Now, physicists sometimes express harmonics
+in terms of wavelength.
+Or, les physiciens expriment parfois les harmoniques
+en termes de longueur d'onde.
+
+For example, for a string with two fixed ends, you’ll notice that the fundamental covers exactly half a wavelength.
+Par exemple, pour une corde à deux extrémités fixes, vous remarquerez que la fondamentale couvre exactement une demi-longueur d'onde.
+
+A full wavelength of the wave would
+span two peaks: a crest and a trough,
+Une longueur d'onde complète de l'onde
+couvrirait deux pics : une crête et un creux,
+
+but the fundamental spans exactly one peak,
+which is half the wavelength.
+mais la fondamentale couvre exactement un pic,
+qui correspond à la moitié de la longueur d'onde.
+
+So, for the fundamental of a string with two fixed ends, the length of the string is equal to half a wavelength.
+Ainsi, pour le fondamental d'une corde à deux extrémités fixes, la longueur de la corde est égale à une demi-longueur d'onde.
+
+The second-simplest standing wave you can have on a string with two fixed ends has 3 nodes --
+La deuxième onde stationnaire la plus simple que vous pouvez avoir sur une corde à deux extrémités fixes a 3 nœuds -
+
+one at each end, and one in the middle
+-- plus 2 antinodes in between the nodes.
+un à chaque extrémité et un au milieu
+- plus 2 ventres entre les nœuds.
+
+It’s called the 2nd harmonic, and the string
+holds exactly one wavelength.
+C'est ce qu'on appelle la 2ème harmonique, et la corde
+contient exactement une longueur d'onde.
+
+You can probably guess what the 3rd harmonic
+looks like: it has 4 nodes and 3 antinodes,
+Vous pouvez probablement deviner à quoi ressemble la 3e harmonique
+: elle a 4 nœuds et 3 ventres,
+
+and the string holds 1.5 -- or, 3/2 -- wavelengths.
+et la chaîne contient 1,5 -- ou 3/2 -- longueurs d'onde.
+
+You may have started to notice a pattern:
+For a standing wave on a given length of string,
+Vous avez peut-être commencé à remarquer une tendance :
+pour une onde stationnaire sur une longueur de corde donnée,
+
+the number of wavelengths that fit on the string is equal to the number of the harmonic, divided by 2.
+le nombre de longueurs d'onde qui tiennent sur la corde est égal au nombre d'harmoniques, divisé par 2.
+
+So, now we have an equation that relates the wavelength of a standing wave to the number of the harmonic and the length of the string.
+Nous avons donc maintenant une équation qui  relie la longueur d'onde d'une onde stationnaire au nombre d'harmoniques et à la longueur de la corde.
+
+Once you get a handle on wavelength, you can figure out the aspect of the wave that musicians care about most -- the frequency.
+Une fois que vous maîtrisez la longueur d'onde, vous pouvez déterminer l'aspect de l'onde qui intéresse le plus les musiciens : la fréquence.
+
+We’ve already established that a wave’s wavelength, times its frequency, is equal to its velocity,
+Nous avons déjà établi que la longueur d'onde d'une onde, multipliée par sa fréquence, est égale à sa vitesse,
+
+which will be the same for each harmonic, because a wave’s velocity only depends on the medium it’s traveling through.
+qui sera la même pour chaque harmonique, car la vitesse d'une onde ne dépend que du milieu qu'elle traverse.
+
+So a standing wave’s frequency will be equal
+to its velocity divided by its wavelength.
+Ainsi, la fréquence d'une onde stationnaire sera égale
+à sa vitesse divisée par sa longueur d'onde.
+
+For the fundamental with two fixed ends, we already know that the wavelength is twice the string's length.
+Pour le fondamental à deux extrémités fixes, nous savons déjà que la longueur d'onde est le double de la longueur de la corde.
+
+So the frequency of that fundamental standing
+wave -- known as the fundamental frequency
+Ainsi, la fréquence de cette onde stationnaire fondamentale
+- connue sous le nom de fréquence fondamentale
+
+-- is equal to the velocity, divided by
+twice the length of the string.
+- est égale à la vitesse, divisée par
+deux fois la longueur de la corde.
+
+We write it as f, with a subscript of 1.
+Nous l'écrivons comme f, avec un indice de 1.
+
+Now what about the frequency of the second harmonic -- the standing wave with 3 nodes and 2 antinodes?
+Maintenant, qu'en est-il de la fréquence de la deuxième harmonique -- l'onde stationnaire avec 3 nœuds et 2 ventres ?
+
+It will be equal to the velocity, divided
+by the length of the string.
+Elle sera égale à la vélocité divisée
+par la longueur de la corde.
+
+Which is twice the fundamental frequency.
+Soit le double de la fréquence fondamentale.
+
+And the frequency of the third harmonic,
+with its 4 nodes and 3 antinodes,
+Et la fréquence de la troisième harmonique,
+avec ses 4 nœuds et 3 ventres,
+
+will be equal to three times
+the fundamental frequency.
+sera égale à trois fois
+la fréquence fondamentale.
+
+So, we’re starting to see another pattern here:
+Donc, nous commençons à voir un autre schéma ici :
+
+The frequency of a standing wave with two fixed ends will just be equal to the number of the harmonic, times the fundamental frequency.
+la fréquence d'une onde stationnaire avec deux extrémités fixes sera juste égale au nombre de l'harmonique, multiplié par la fréquence fondamentale.
+
+In fact, that’s one way to define harmonics:
+En fait, c'est une façon de définir les harmoniques :
+
+The number of a harmonic is equal to the number you multiply by the fundamental frequency, to get the harmonic’s frequency.
+le nombre d'harmoniques est égal au nombre que vous multipliez par la fréquence fondamentale, pour obtenir la fréquence de l'harmonique.
+
+This math is what makes musical instruments
+work.
+Ce calcul est ce qui fait fonctionner les instruments de
+musique.
+
+When you press down a key on a piano, you make a hammer strike a string, creating standing waves in that string.
+Lorsque vous appuyez sur une touche d'un piano, vous faites frapper une corde par un marteau, créant des ondes stationnaires dans cette corde.
+
+Every string in the piano is tuned so that
+its fundamental frequency --
+Chaque corde du piano est accordée de manière à ce que
+sa fréquence fondamentale -
+
+which depends on the string’s mass, length, and tension -- corresponds to a given note.
+qui dépend de la masse, de la longueur et de la tension de la corde - corresponde à une note donnée.
+
+Middle C, for example, is 261.6 Hz.
+Le do médian, par exemple, est de 261,6 Hz.
+
+Guitars are also tuned so that the fundamental frequencies of their strings, correspond to set notes.
+Les guitares sont également accordées de manière à ce que les fréquences fondamentales de leurs cordes correspondent à des notes réglées.
+
+And when you press down on the strings
+in certain places,
+Et lorsque vous appuyez sur les cordes
+à certains endroits,
+
+you change the length of the active part of string so that its fundamental frequency corresponds to a different note.
+vous modifiez la longueur de la partie active de la corde pour que sa fréquence fondamentale corresponde à une note différente.
+
+So, for a standing wave with two fixed ends,
+we can relate wavelength, frequency, velocity,
+Ainsi, pour une onde stationnaire à deux extrémités fixes,
+nous pouvons relier la longueur d'onde, la fréquence, la vitesse,
+
+the length of the string, and the number of
+the harmonic.
+la longueur de la corde et le numéro de
+l'harmonique.
+
+And we can do the exact same thing for a standing wave with two loose ends -- in an open pipe, for example, like in a flute.
+Et nous pouvons faire exactement la même chose pour une onde stationnaire avec deux extrémités libres -- dans un tuyau ouvert, par exemple, comme dans une flûte.
+
+A standing wave in a pipe with two open ends is kind of the opposite, of the wave with two fixed ends:
+Une onde stationnaire dans un tuyau à deux extrémités ouvertes est en quelque sorte l'opposé de l'onde à deux extrémités fixes : au
+
+Instead of having a node at each end, it has
+an antinode at each end.
+lieu d'avoir un nœud à chaque extrémité, elle a
+un ventre à chaque extrémité.
+
+So the fundamental standing wave for a pipe
+with two open ends will have two antinodes,
+Ainsi, l'onde stationnaire fondamentale pour un tuyau
+à deux extrémités ouvertes aura deux ventres
+
+and one node in the middle of the wave.
+et un nœud au milieu de l'onde.
+
+Then, the 2nd harmonic will have three antinodes
+and two nodes, and so on.
+Ensuite, la 2e harmonique aura trois ventres
+et deux nœuds, et ainsi de suite.
+
+But each harmonic still covers the same number
+of wavelengths.
+Mais chaque harmonique couvre toujours le même nombre
+de longueurs d'onde.
+
+Remember how the fundamental wave for a string
+with two fixed ends covered half of a wavelength?
+Rappelez-vous comment l'onde fondamentale d'une corde
+à deux extrémités fixes couvrait la moitié d'une longueur d'onde ?
+
+The fundamental wave for a pipe with two open
+ends also covers half of a wavelength.
+L'onde fondamentale d'un tuyau à deux
+extrémités ouvertes couvre également la moitié d'une longueur d'onde.
+
+That half is just in a different section of
+the wave.
+Cette moitié est juste dans une section différente de
+la vague.
+
+And just like a string with two fixed ends, the second harmonic for a pipe with two open ends also covers a full wavelength.
+Et tout comme une corde à deux extrémités fixes, la deuxième harmonique d'un tuyau à deux extrémités ouvertes couvre également une longueur d'onde complète.
+
+It’s just that, in the case of the pipe, the wave starts and ends with a peak instead of a node.
+C'est juste que, dans le cas du tuyau, l'onde commence et se termine par un pic au lieu d'un nœud.
+
+So the equations for wavelength and frequency
+for a standing wave with two open ends
+Ainsi, les équations de longueur d'onde et de fréquence
+pour une onde stationnaire à deux extrémités ouvertes
+
+will be the same as they were for a standing wave with two fixed ends.
+seront les mêmes que pour une onde stationnaire à deux extrémités fixes.
+
+So, we’ve covered guitars and pianos and flutes!
+Donc, nous avons couvert les guitares, les pianos et les flûtes !
+
+But a pipe with one closed end and one open
+end works a little differently.
+Mais un tuyau avec une extrémité fermée et une
+extrémité ouverte fonctionne un peu différemment.
+
+These kinds of pipes are used in instruments like pan flutes, where you blow across the top of a closed pipe to make music.
+Ces types de tuyaux sont utilisés dans des instruments comme les flûtes de pan, où vous soufflez sur le haut d'un tuyau fermé pour faire de la musique.
+
+Here, standing waves need a separate set of
+equations, for a couple of reasons:
+Ici, les ondes stationnaires ont besoin d'un ensemble d'
+équations distinct, pour deux raisons :
+
+First, the closed end of the pipe will be a node, because the air molecules aren’t oscillating there.
+premièrement, l'extrémité fermée du tuyau sera un nœud, car les molécules d'air n'y oscillent pas.
+
+And the open end will be an antinode, because
+that’s where there’s a peak in the oscillations.
+Et l'extrémité ouverte sera un ventre, car
+c'est là qu'il y a un pic dans les oscillations.
+
+Which means that the simplest wave you can make in this pipe will stretch from one node, to one peak.
+Ce qui signifie que la vague la plus simple que vous puissiez créer dans ce tuyau s'étendra d'un nœud à un pic.
+
+But that’s only a span of a quarter of a
+wavelength in the pipe.
+Mais ce n'est qu'une étendue d'un quart de
+longueur d'onde dans le tuyau.
+
+Before, with both a string fixed at both ends, and an open pipe, the fundamental spanned half a wavelength.
+Avant, avec à la fois une corde fixée aux deux extrémités et un tuyau ouvert, la fondamentale s'étendait sur une demi-longueur d'onde.
+
+The fact that a pan-flute pipe only covers
+a quarter of a wavelength changes things.
+Le fait qu'un tuyau de flûte de pan ne couvre
+qu'un quart de longueur d'onde change la donne.
+
+Because, remember: the frequency of each harmonic is equal to the number of the harmonic, times the fundamental frequency.
+Parce que, rappelez-vous : la fréquence de chaque harmonique est égale au nombre de l'harmonique, multiplié par la fréquence fondamentale.
+
+But for a pipe that’s closed on one end,
+you can’t double the fundamental frequency,
+Mais pour un tuyau fermé à une extrémité,
+vous ne pouvez pas doubler la fréquence fondamentale,
+
+or quadruple it -- or multiply it by any even
+number.
+ni la quadrupler, ni la multiplier par un
+nombre pair.
+
+Because it would result in a wave that would
+need a node on both ends, or a peak on both ends.
+Parce qu'il en résulterait une vague qui aurait
+besoin d'un nœud aux deux extrémités, ou d'un pic aux deux extrémités.
+
+Which isn't possible.
+Ce qui n'est pas possible.
+
+So, a pipe that’s closed on one end can’t
+have even-numbered harmonics.
+Ainsi, un tuyau fermé à une extrémité ne peut pas
+avoir d'harmoniques pairs.
+
+All of this helps explain why musical instruments sound different, even when they’re playing the same note.
+Tout cela aide à expliquer pourquoi les instruments de musique sonnent différemment, même lorsqu'ils jouent la même note.
+
+When you play a note, you’re creating the fundamental wave, plus some of the other harmonics -- the overtones.
+Lorsque vous jouez une note, vous créez l'onde fondamentale, ainsi que certaines des autres harmoniques - les harmoniques.
+
+And for each instrument, different harmonics will have different amplitudes -- and therefore sound louder.
+Et pour chaque instrument, différentes harmoniques auront des amplitudes différentes - et donc un son plus fort.
+
+But because of the physics of standing waves, instruments that have pipes with one closed end
+Mais à cause de la physique des ondes stationnaires, les instruments qui ont des tuyaux avec une extrémité fermée
+
+won't create the even-numbered harmonics
+at all.
+ne créeront pas du tout les harmoniques paires
+.
+
+That’s why a C on the flute sounds so different
+from a C on, say, the bassoon!
+C'est pourquoi un C sur la flûte sonne si différemment
+d'un C sur, disons, le basson !
+
+Today, you learned about standing waves, and
+how they’re made up of nodes and antinodes.
+Aujourd'hui, vous avez découvert les ondes stationnaires et
+comment elles sont constituées de nœuds et de ventres.
+
+We discussed harmonics, and how to find the
+frequency of a standing wave on a string with
+Nous avons discuté des harmoniques et de la manière de trouver la
+fréquence d'une onde stationnaire sur une corde à
+
+two fixed ends, a pipe with two open ends,
+and a pipe with one closed end.
+deux extrémités fixes, un tuyau à deux extrémités ouvertes
+et un tuyau à une extrémité fermée.
+
+Finally, we explained why a pipe with one
+closed end can’t have even-numbered harmonics.
+Enfin, nous avons expliqué pourquoi un tuyau avec une
+extrémité fermée ne peut pas avoir d'harmoniques pairs.
+
+Crash Course Physics is produced in association
+with PBS Digital Studios.
+Crash Course Physics est produit en association
+avec PBS Digital Studios.
+
+You can head over to their channel and check
+out a playlist of the latest episodes from
+Vous pouvez vous rendre sur leur chaîne et
+consulter une liste de lecture des derniers épisodes d'
+
+shows like First Person, PBS Game/Show, and
+The Good Stuff.
+émissions telles que First Person, PBS Game/Show et
+The Good Stuff.
+
+This episode of Crash Course was filmed in
+the Doctor Cheryl C. Kinney Crash Course Studio
+Cet épisode de Crash Course a été filmé dans
+le studio Doctor Cheryl C. Kinney Crash Course
+
+with the help of these amazing people and
+our equally amazing graphics team is Thought Cafe.
+avec l'aide de ces personnes incroyables et de
+notre équipe graphique tout aussi incroyable, Thought Cafe.
+

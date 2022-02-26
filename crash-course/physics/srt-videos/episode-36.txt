@@ -1,0 +1,488 @@
+We couldn’t keep the lights on without alternating
+currents.
+Nous ne pouvions pas garder les lumières allumées sans
+courant alternatif.
+
+We’ve talked about how they change voltage, which helps transmit electricity over long distances, but there’s so much more to the physics of AC circuitry.
+Nous avons parlé de la façon dont ils changent de tension, ce qui aide à transmettre l'électricité sur de longues distances, mais il y a tellement plus dans la physique des circuits AC.
+
+For example, how are alternating currents affected
+when you add resistors? Or capacitors? Or an inductor?
+Par exemple, comment les courants alternatifs sont-ils affectés
+lorsque vous ajoutez des résistances ?  Ou des condensateurs ?  Ou un inducteur ?
+
+These three pieces of the electricity puzzle are used everywhere, and today we’re going to put them together.
+Ces trois pièces du puzzle de l'électricité sont utilisées partout, et aujourd'hui nous allons les assembler.
+
+[Theme Music]
+[Thème musical]
+
+When you talk about direct current circuits, describing the voltage and current in a given situation is pretty straightforward.
+Lorsque vous parlez de circuits à courant continu, décrire la tension et le courant dans une situation donnée est assez simple.
+
+Typically, the voltage source in a DC circuit is
+unchanging, so the current will be constant, too.
+En règle générale, la source de tension dans un circuit CC ne
+change pas, de sorte que le courant sera également constant.
+
+But in an AC circuit, both the voltage and the current are constantly changing directions, from positive to negative and back again.
+Mais dans un circuit alternatif, la tension et le courant changent constamment de sens, du positif au négatif et inversement.
+
+So how do you describe values when they’re
+constantly changing?
+Alors, comment décrire des valeurs alors qu'elles
+changent constamment ?
+
+Well, when a current alternates quickly, it’s changing back and forth between maximum and minimum values, known as peak current.
+Eh bien, lorsqu'un courant alterne rapidement, il oscille entre les valeurs maximales et minimales, appelées courant de crête.
+
+And “peak” here means either maximum or minimum, positive or negative, since the flow of current has the same magnitude.
+Et "pic" signifie ici maximum ou minimum, positif ou négatif, puisque le flux de courant a la même amplitude.
+
+Mathematically, a current is equal to the peak current times a sine function related to the system’s frequency, typically 60 Hertz.
+Mathématiquement, un courant est égal au courant de crête multiplié par une fonction sinusoïdale liée à la fréquence du système, généralement 60 Hertz.
+
+And the same is true for the voltage in an
+AC circuit.
+Et il en va de même pour la tension dans un
+circuit alternatif.
+
+It changes between a maximum and minimum peak voltage in order to generate the alternating current.
+Il alterne entre une tension de crête maximale et minimale afin de générer le courant alternatif.
+
+Now, let’s say you’re calculating the
+average power consumed by an AC circuit.
+Maintenant, disons que vous calculez la
+puissance moyenne consommée par un circuit AC.
+
+You can use the handy power expression for
+DC circuits, which we’ve already derived,
+Vous pouvez utiliser l'expression de puissance pratique pour
+les circuits CC, que nous avons déjà dérivée
+
+in order to find the consumed energy over
+time, in terms of current and resistance.
+, afin de trouver l'énergie consommée au fil du
+temps, en termes de courant et de résistance.
+
+Then you can replace the current with our
+new equation for alternating current.
+Ensuite, vous pouvez remplacer le courant par notre
+nouvelle équation pour le courant alternatif.
+
+Then, since you want to find the average power,
+just take the average of the power expression.
+Ensuite, puisque vous voulez trouver la puissance moyenne,
+prenez simplement la moyenne de l'expression de la puissance.
+
+The sine squared function always reduces to
+one half when averaged.
+La fonction sinus carré se réduit toujours à la
+moitié lorsqu'elle est moyennée.
+
+This leaves you with an average power of peak current squared, times resistance, divided by two.
+Cela vous laisse avec une puissance moyenne de courant de crête au carré, multipliée par la résistance, divisée par deux.
+
+But you can only take this equation for DC circuits so far, before you have to start making some serious changes for it to help you figure out AC circuits.
+Mais vous ne pouvez prendre cette équation que pour les circuits CC jusqu'à présent, avant de devoir commencer à apporter de sérieux changements pour qu'elle vous aide à comprendre les circuits CA.
+
+Why?
+Because of I: the value for the current itself.
+Pourquoi? 
+A cause de I : la valeur du courant lui-même.
+
+Think of driving a car in stop-and-go traffic.
+Pensez à conduire une voiture dans des embouteillages.
+
+You speed up at times, you slow down at others,
+but if you average it out over the whole trip,
+Vous accélérez parfois, vous ralentissez à d'autres,
+mais si vous faites la moyenne sur tout le trajet,
+
+you’ve got an “effective” speed somewhere
+in the middle.
+vous avez une vitesse « effective » quelque part
+au milieu.
+
+That’s what current is like in AC calculations.
+C'est à quoi ressemble le courant dans les calculs AC.
+
+So, in order to express current in this equation, we need a new variable that represents this effective value.
+Donc, pour exprimer le courant dans cette équation, nous avons besoin d'une nouvelle variable qui représente cette valeur effective.
+
+And that variable is the root-mean-squared,
+or RMS value, of current.
+Et cette variable est la moyenne quadratique,
+ou valeur RMS, du courant.
+
+It's really just the value you would get if you squared the current, took the average, and then square rooted it again.
+C'est vraiment juste la valeur que vous obtiendriez si vous mettiez le courant au carré, preniez la moyenne, puis la racine carrée à nouveau.
+
+Hence the name: root mean square.
+D'où le nom : racine carrée.
+
+Now, this same derivation works for alternating voltage, as well, with the RMS value of voltage being equal to the peak voltage divided by the square root of 2.
+Maintenant, cette même dérivation fonctionne également pour la tension alternative, la valeur RMS de la tension étant égale à la tension de crête divisée par la racine carrée de 2.
+
+With these two RMS values at your disposal, you can then use them in place of current and voltage in DC equations, with power equaling the RMS current times RMS voltage.
+Avec ces deux valeurs RMS à votre disposition, vous pouvez ensuite les utiliser à la place de  courant et tension dans les équations CC, avec une puissance égale au courant RMS multiplié par la tension RMS.
+
+So, now that we have RMS values to better
+describe current and voltage in AC circuits,
+Donc, maintenant que nous avons des valeurs RMS pour mieux
+décrire le courant et la tension dans les circuits AC,
+
+let’s think about how we can use the unique
+nature of AC circuits to our advantage.
+réfléchissons à la façon dont nous pouvons utiliser la
+nature unique des circuits AC à notre avantage.
+
+For example, with coils of wire, we know that when the current is changing, a magnetic flux is induced in the coil.
+Par exemple, avec des bobines de fil, nous savons que lorsque le courant change, un flux magnétique est induit dans la bobine.
+
+And that flux seeks to oppose the current with an electromotive force, or emf, in the opposite direction.
+Et ce flux cherche à opposer au courant une force électromotrice, ou emf, dans la direction opposée.
+
+And this is the rule that we know as Lenz’s
+Law.
+Et c'est la règle que nous connaissons sous le nom de loi de Lenz
+.
+
+And this relationship works the opposite way as well, with a changing magnetic flux inducing an emf that opposes the flux.
+Et cette relation fonctionne également dans le sens inverse, avec un flux magnétique changeant induisant une emf qui s'oppose au flux.
+
+So in an AC circuit, what you end up with is a changing current that induces an opposing magnetic flux, which in turn induces an emf in the opposite direction of the current!
+Ainsi, dans un circuit alternatif, vous vous retrouvez avec un courant changeant qui induit un flux magnétique opposé, qui à son tour induit une emf dans la direction opposée du courant !
+
+This induction of an emf that opposes the
+main current is called self-inductance.
+Cette induction d'une fem qui s'oppose au
+courant principal est appelée auto-inductance.
+
+And to calculate an induced emf, you just take the change in current over time and multiply it by negative L.
+Et pour calculer une force électromotrice induite, il vous suffit de prendre le changement de courant dans le temps et de le multiplier par L négatif.
+
+L is a constant, known as the inductance, signifying how well that specific coil induces an opposing current, depending on its shape and size.
+L est une constante, connue sous le nom d'inductance, indiquant à quel point cette bobine spécifique induit un courant opposé, en fonction de sa forme et de sa taille.  .
+
+And it’s negative, because the induced emf
+is in the opposite direction of the main current.
+Et c'est négatif, car la force électromotrice induite
+est dans la direction opposée au courant principal.
+
+Inductance, by the way, is expressed in units
+called Henrys.
+Soit dit en passant, l'inductance est exprimée en unités
+appelées Henrys.
+
+Induction of an electromagnetic force is so useful, that engineers make coils that are designed to maximize their self-inductance.
+L'induction d'une force électromagnétique est si utile que les ingénieurs fabriquent des bobines conçues pour maximiser leur auto-inductance.
+
+These coils that are designed for self-inductance
+are called inductors.
+Ces bobines conçues pour l'auto-inductance
+sont appelées inductances.
+
+In a circuit diagram, they look like small coils,
+'cause that’s pretty much what they are!
+Dans un schéma de circuit, elles ressemblent à de petites bobines
+, car c'est à peu près ce qu'elles sont !
+
+So to get a handle on how inductors work,
+let’s first consider one in a DC circuit.
+Donc, pour comprendre le fonctionnement des inductances,
+considérons d'abord une dans un circuit CC.
+
+Let’s say this circuit has an inductor connected in series with a battery that has a constant voltage, V naught.
+Disons que ce circuit a une inductance connectée en série avec une batterie qui a une tension constante, V zéro.
+
+Since most inductors have a natural resistance, we’ll say that there’s also a small resistor in series with the inductor and battery.
+Étant donné que la plupart des inducteurs ont une résistance naturelle, nous dirons qu'il existe également une petite résistance en série avec l'inducteur et la batterie.
+
+And because we have an inductance L and a resistance R, we call this configuration an LR circuit.
+Et parce que nous avons une inductance L et une résistance R, nous appelons cette configuration un circuit LR.
+
+If we set up this circuit and then insert the battery,
+the voltage will immediately be V naught.
+Si nous installons ce circuit puis insérons la batterie,
+la tension sera immédiatement V nulle.
+
+But the current won’t reach its maximum
+value.
+Mais le courant n'atteindra pas sa
+valeur maximale.
+
+That’s because the inductor opposes the sudden change in current that was caused by the sudden voltage change.
+C'est parce que l'inducteur s'oppose au changement soudain de courant causé par le changement soudain de tension.
+
+So the current will increase gradually, until it eventually reaches maximum current, which is the battery’s voltage divided by the resistance.
+Ainsi, le courant augmentera progressivement, jusqu'à ce qu'il atteigne finalement le courant maximum, qui est la tension de la batterie divisée par la résistance.
+
+The current in this case is kind of like a
+car that’s accelerating from a dead stop.
+Le courant dans ce cas est un peu comme une
+voiture qui accélère à partir d'un arrêt net.
+
+Even if you stomp down on the gas pedal, you
+won’t immediately start going at top speed.
+Même si vous appuyez sur la [ __ ] d'accélérateur, vous
+ne commencerez pas immédiatement à rouler à toute vitesse.
+
+You’re going to have to build up to it over
+time.
+Vous allez devoir vous y préparer avec le
+temps.
+
+So you have to consider time when you’re
+dealing with inductors.
+Vous devez donc tenir compte du temps lorsque vous avez
+affaire à des inducteurs.
+
+Mathematically, the current in a circuit with an inductor is expressed as the maximum current times one minus e to the negative t over tau.
+Mathématiquement, le courant dans un circuit avec une inductance est exprimé comme le courant maximal multiplié par un moins e au négatif t sur tau.
+
+The maximum current is the voltage divided
+by the resistance, and tau is the time constant,
+Le courant maximum est la tension divisée
+par la résistance, et tau est la constante de temps,
+
+equal to the inductance divided by the resistance.
+égale à l'inductance divisée par la résistance.
+
+This time constant has all kinds of mathematical
+meaning that we can’t get into right now.
+Cette constante de temps a toutes sortes de significations mathématiques dans
+lesquelles nous ne pouvons pas entrer pour le moment.
+
+But you can see that as time goes to infinity,
+you get closer to the maximum current value.
+Mais vous pouvez voir qu'à mesure que le temps tend vers l'infini,
+vous vous rapprochez de la valeur de courant maximale.
+
+Put in terms of our car analogy, the maximum current is like the fastest that your car will go.
+En termes d'analogie avec la voiture, le courant maximum est comme le plus rapide que votre voiture ira.
+
+And the time constant lets you know how long you need to press down on the accelerator to get there.
+Et la constante de temps vous permet de savoir combien de temps vous devez appuyer sur l'accélérateur pour y arriver.
+
+A small time constant means less time is needed to reach maximum speed, and also less time to slow down to a stop.
+Une petite constante de temps signifie qu'il faut moins de temps pour atteindre la vitesse maximale, et aussi moins de temps pour ralentir jusqu'à l'arrêt.
+
+A large time constant means the opposite: that a lot of time is necessary to speed up and slow down.
+Une grande constante de temps signifie le contraire : il faut beaucoup de temps pour accélérer et ralentir.
+
+Now, let’s say the circuit has reached steady-state,
+with the current at that maximum value.
+Maintenant, disons que le circuit a atteint un état stable,
+avec le courant à cette valeur maximale.
+
+There’s no longer a changing current, so
+the inductor acts just like a piece of wire.
+Il n'y a plus de courant changeant, donc
+l'inductance agit comme un morceau de fil.
+
+But if the battery is suddenly removed, the
+current won’t drop to 0 immediately.
+Mais si la batterie est soudainement retirée, le
+courant ne tombera pas immédiatement à 0.
+
+Because, remember, the inductor opposes the change in current with its own changing magnetic flux.
+Parce que, rappelez-vous, l'inducteur s'oppose au changement de courant avec son propre flux magnétique changeant.
+
+So after the battery is removed, the inductor
+generates its own current!
+Ainsi, une fois la batterie retirée, l'inductance
+génère son propre courant !
+
+This is like driving a car and then taking
+your foot off the accelerator.
+C'est comme conduire une voiture et ensuite lever
+le pied de l'accélérateur.
+
+You’ve stopped the car from going faster,
+but you won’t stop immediately.
+Vous avez empêché la voiture d'aller plus vite,
+mais vous ne vous arrêterez pas immédiatement.
+
+Instead, you’ll slow down over time, before
+you stop entirely.
+Au lieu de cela, vous ralentirez avec le temps, avant de
+vous arrêter complètement.
+
+So you can write this as the decreasing version
+of the earlier current equation,
+Vous pouvez donc écrire cela comme la version décroissante
+de l'équation de courant précédente,
+
+with current equaling the maximum possible
+current, times e to the negative t over tau.
+avec un courant égal au courant maximum possible
+, multiplié par e au t négatif sur tau.
+
+I max is the same, and tau is the same, and once enough time has passed, then the current is equal to 0.
+I max est le même, et tau est le même, et une fois que suffisamment de temps s'est écoulé, le courant est égal à 0.
+
+So, inductors oppose a change in current,
+whether it’s an increase or a decrease.
+Ainsi, les inducteurs s'opposent à un changement de courant,
+qu'il s'agisse d'une augmentation ou d'une diminution.
+
+When you switch a device on or off, and you notice a delay, that’s probably because an inductor is in the system.
+Lorsque vous allumez ou éteignez un appareil et que vous remarquez un retard, c'est probablement parce qu'une inductance se trouve dans le système.
+
+By flipping the switch, you’ve either started or ended a voltage supply, but an inductor in the system delays the current from starting or stopping immediately.
+En basculant l'interrupteur, vous avez démarré ou arrêté une alimentation en tension, mais une inductance dans le système retarde le démarrage ou l'arrêt immédiat du courant.
+
+OK so that’s inductors 101!
+OK donc c'est les inducteurs 101 !
+
+Now let’s go back to AC circuits, and combine an inductor, a resistor, and a capacitor all in one circuit.
+Revenons maintenant aux circuits AC et combinons une inductance, une résistance et un condensateur dans un seul circuit.
+
+Each component will behave differently when
+connected to the source of alternating voltage.
+Chaque composant se comporte différemment lorsqu'il est
+connecté à la source de tension alternative.
+
+So before we combine everything, let’s look at each component as if it alone were in series with the source.
+Alors avant de tout combiner, regardons chaque composant comme s'il était seul en série avec la source.
+
+Let’s start with a resistor.
+Commençons par une résistance.
+
+When the voltage is at peak voltage, the current through the resistor will also be at peak current.
+Lorsque la tension est à la tension de crête, le courant traversant la résistance sera également au courant de crête.
+
+Since the voltage and current peaks occur at the
+same time, the two are said to be in phase.
+Puisque les pics de tension et de courant se produisent en
+même temps, on dit que les deux sont en phase.
+
+For inductors and capacitors, however, the
+story’s a little different.
+Pour les inductances et les condensateurs, cependant, l'
+histoire est un peu différente.
+
+As the alternating voltage is applied across the inductor, the opposing emf that’s induced equals the amount of voltage that drops across the device.
+Comme la tension alternative est appliquée à travers l'inductance, la force électromotrice opposée qui est induite est égale à la quantité de tension qui chute à travers l'appareil.
+
+The inductor has an insignificant amount of resistance, so when it’s the only device in the circuit, all the voltage must be opposed by the opposing emf.
+L'inductance a une résistance insignifiante, donc quand c'est le seul appareil dans le circuit, toute la tension doit être opposée par la force électromotrice opposée.
+
+In this equation, the voltage is at maximum when the current is changing the fastest, and the voltage is 0 when the current isn’t changing at all.
+Dans cette équation, la tension est au maximum lorsque le courant change le plus rapidement et la tension est de 0 lorsque le courant ne change pas du tout.
+
+This means that, when the current is 0, there’s peak voltage, and when current is at its peak and unchanging, the voltage is 0.
+Cela signifie que, lorsque le courant est de 0, il y a une tension de crête, et lorsque le courant est à son maximum et inchangé, la tension est de 0.
+
+When you express this graphically, it means that the current lags behind voltage by 90 degrees, or a quarter cycle.
+Lorsque vous exprimez cela graphiquement, cela signifie que le courant est en retard de 90 degrés sur la tension, soit un quart  cycle. 
+
+So in AC circuit inductors, we say that the current and voltage are out-of-phase, which means they don’t peak at the same time.
+Ainsi, dans les inductances de circuit alternatif, nous disons que le courant et la tension sont déphasés, ce qui signifie qu'ils ne culminent pas en même temps.
+
+Capacitors in AC circuits are also out of
+phase, but for a different reason.
+Les condensateurs des circuits AC sont également
+déphasés, mais pour une raison différente.
+
+Let’s look at a circuit with only an alternating
+voltage source and a capacitor.
+Regardons un circuit avec seulement une
+source de tension alternative et un condensateur.
+
+When the current flows in one direction, charge
+momentarily builds up on one of the plates.
+Lorsque le courant circule dans une direction, la charge
+s'accumule momentanément sur l'une des plaques.
+
+So when the voltage changes from positive to negative, the capacitor acts as a smaller voltage source that still pushes the current along.
+Ainsi, lorsque la tension passe du positif au négatif, le condensateur agit comme une source de tension plus petite qui pousse toujours le courant.
+
+In this case, current leads voltage by 90 degrees, changing the direction ahead of the voltage source.
+Dans ce cas, le courant est en avance sur la tension de 90 degrés, changeant la direction devant la source de tension.
+
+So let’s sum up: Current in inductors lags
+voltage.
+Résumons donc : le courant dans les inductances est en retard sur la
+tension.
+
+Current in resistors is in phase with voltage.
+Le courant dans les résistances est en phase avec la tension.
+
+And current in capacitors leads voltage.
+Et le courant dans les condensateurs est en avance sur la tension.
+
+Another thing that sets inductors and capacitors apart from resistors is that they don’t release a lot of heat.
+Une autre chose qui distingue les inducteurs et les condensateurs des résistances est qu'ils ne dégagent pas beaucoup de chaleur.
+
+The only part of an AC circuit that dissipates
+power as thermal energy is the resistance.
+La seule partie d'un circuit AC qui dissipe l'
+énergie sous forme d'énergie thermique est la résistance.
+
+Inductors and capacitors both have negligible
+resistance, and they don’t dissipate heat,
+Les inducteurs et les condensateurs ont tous deux une
+résistance négligeable et ils ne dissipent pas la chaleur,
+
+but they do have voltage drops across each
+component.
+mais ils ont des chutes de tension sur chaque
+composant.
+
+So their voltage drops will still affect how much voltage the circuit can supply to other components that DO need to dissipate power.
+Ainsi, leurs chutes de tension affecteront toujours la quantité de tension que le circuit peut fournir à d'autres composants qui ont besoin de dissiper la puissance.
+
+So, when you have an AC circuit with a resistor, inductor, and capacitor in series, you can calculate the voltage supplied,
+Ainsi, lorsque vous avez un circuit alternatif avec une résistance, une inductance et un condensateur en série, vous pouvez calculer la tension fournie,
+
+versus the voltage applied across each component, by adding all of the component voltage drops together.
+par rapport à la tension appliquée sur chaque composant, en additionnant toutes les chutes de tension des composants.
+
+Every voltage drop peaks at a different time,
+but the sum will always equal that of the source.
+Chaque chute de tension culmine à un moment différent,
+mais la somme sera toujours égale à celle de la source.
+
+What goes in must go out!
+Ce qui entre doit sortir !
+
+This wraps up our last look at electricity!
+Ceci conclut notre dernier regard sur l'électricité !
+
+But you can’t forget everything you’ve learned about electromagnetism yet, because it’s coming back in a shiny new form, known as light!
+Mais vous ne pouvez pas encore oublier tout ce que vous avez appris sur l'électromagnétisme, car il revient sous une nouvelle forme brillante, connue sous le nom de lumière !
+
+Today, we learned about currents and voltages
+in AC circuits.
+Aujourd'hui, nous avons découvert les courants et les tensions
+dans les circuits alternatifs.
+
+We also learned about inductors and we combined
+our knowledge of AC circuits with inductors,
+Nous avons également appris les inductances et nous avons combiné
+nos connaissances des circuits AC avec des inductances, des
+
+capacitors, and resistors in order to analyze how voltage and current interact with an alternating voltage source.
+condensateurs et des résistances afin d'analyser comment la tension et le courant interagissent avec une source de tension alternative.
+
+Crash Course Physics is produced in association
+with PBS Digital Studios.
+Crash Course Physics est produit en association
+avec PBS Digital Studios.
+
+You can head over to their channel and check out a playlist of the latest episodes from shows like:
+Vous pouvez vous rendre sur leur chaîne et consulter une liste de lecture des derniers épisodes d'émissions telles que :
+
+PBS Offbook, Gross Science, and Coma Niddy.
+PBS Offbook, Gross Science et Coma Niddy.
+
+This episode of Crash Course was filmed in
+the Doctor Cheryl C. Kinney Crash Course Studio
+Cet épisode de Crash Course a été filmé dans
+le studio Doctor Cheryl C. Kinney Crash Course
+
+with the help of these amazing people and our equally amazing graphics team, is Thought Cafe.
+avec l'aide de ces personnes incroyables et de notre équipe graphique tout aussi incroyable, Thought Cafe.
+

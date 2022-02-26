@@ -1,0 +1,625 @@
+This video is remarkable.
+Cette vidéo est remarquable.
+
+You’re hearing these words months, maybe years,
+after I’ve spoken them, yet everything is as clear as if
+we were sitting in the same room.
+Vous entendez ces mots des mois, peut-être des années,
+après que je les ai prononcés, mais tout est aussi clair que si
+nous étions assis dans la même pièce.
+
+The ability to record and transmit different
+kinds of information is a core part of modern
+engineering – and the world as we know it.
+La capacité d'enregistrer et de transmettre différents
+types d'informations est au cœur de l'
+ingénierie moderne - et du monde tel que nous le connaissons.
+
+That’s why some say we’re living in the
+information age.
+C'est pourquoi certains disent que nous vivons à l'
+ère de l'information.
+
+Whether you’re using your phone, turning on
+the radio, or strumming your electric guitar, you’re
+sending and receiving signals all the time.
+Que vous utilisiez votre téléphone, allumiez
+la radio ou grattiez votre guitare électrique, vous
+envoyez et recevez des signaux tout le temps.
+
+And to get all that information where it needs
+to go, you’ll need signal processing.
+Et pour obtenir toutes ces informations là où elles
+doivent aller, vous aurez besoin d'un traitement du signal.
+
+[Theme Music]
+[Thème musical]
+
+As an engineer, communicating means more than
+having a chat in the break room.
+En tant qu'ingénieur, communiquer signifie plus
+que discuter dans la salle de pause.
+
+Whether you’re watching YouTube videos, using
+satellite navigation, or just making a phone call,
+there’s communication happening.
+Que vous regardiez des vidéos YouTube, utilisiez
+la navigation par satellite ou que vous passiez simplement un appel téléphonique,
+il y a une communication.
+
+Signals are representations of the information
+we’re sending when we do this.
+Les signaux sont des représentations des informations
+que nous envoyons lorsque nous faisons cela.
+
+Text, sounds, images, and even computer files
+will all be converted into a signal when you send them.
+Le texte, les sons, les images et même les fichiers informatiques
+seront tous convertis en un signal lorsque vous les enverrez.
+
+And that’s really what communication is,
+sending stuff from one place to another to
+convey information.
+Et c'est vraiment ce qu'est la communication,
+envoyer des choses d'un endroit à un autre pour
+transmettre des informations.
+
+The basic task is to take content, turn it
+into a signal, transmit it, and then turn it
+all back into content on the other end.
+La tâche de base consiste à prendre du contenu, à le transformer
+en signal, à le transmettre, puis à le
+transformer en contenu à l'autre bout.
+
+These steps are known as signal processing.
+Ces étapes sont connues sous le nom de traitement du signal.
+
+The signal itself will be a current running
+through a wire or an electromagnetic wave,
+like radio or light.
+Le signal lui-même sera un courant
+traversant un fil ou une onde électromagnétique,
+comme la radio ou la lumière.
+
+However you choose to relay it, the overall
+process is basically the same.
+Quelle que soit la façon dont vous choisissez de le relayer, le
+processus global est fondamentalement le même.
+
+The problem of communicating remotely is one
+engineers faced long before digital computers
+came onto the scene.
+Le problème de la communication à distance est l'un des problèmes
+rencontrés par les ingénieurs bien avant l'
+apparition des ordinateurs numériques.
+
+We saw an example of this in the history of
+electrical engineering, with Samuel Morse’s
+1837 telegraph.
+Nous en avons vu un exemple dans l'histoire de
+l'électrotechnique, avec le télégraphe de Samuel Morse en
+1837.
+
+In his design, the operator pushed down a lever,
+called a key, to complete a circuit and transmit an
+electric current down a wire.
+Dans sa conception, l'opérateur a abaissé un levier,
+appelé clé, pour compléter un circuit et transmettre un
+courant électrique sur un fil.
+
+At the other end, a machine called a register
+would receive that current and mark a piece
+of paper.
+À l'autre extrémité, une machine appelée registre
+recevrait ce courant et marquerait un morceau
+de papier.
+
+By pressing down the key for different lengths of
+time, the operator could make the register draw little
+dots and dashes that spelled out a message.
+En appuyant sur la touche pendant différentes
+durées, l'opérateur pouvait faire en sorte que le registre dessine de petits
+points et des tirets qui épelaient un message.
+
+The key and register in Morse’ telegraph
+are both examples of what are called transducers.
+La clé et le registre du télégraphe de Morse
+sont tous deux des exemples de ce qu'on appelle des transducteurs.
+
+Transducers take physical information, like
+the operator’s press of the lever, and turn it
+into a signal or vice versa.
+Les transducteurs prennent des informations physiques, comme
+la pression de l'opérateur sur le levier, et les transforment
+en signal ou vice versa.
+
+To record this video, for example, the input
+transducers were the microphone and the
+camera I’m speaking to,
+Pour enregistrer cette vidéo, par exemple, les
+transducteurs d'entrée étaient le microphone et la
+caméra à laquelle je parle,
+
+which measures the sound and light in this
+environment and converted them to electrical
+signals.
+qui mesure le son et la lumière dans cet
+environnement et les convertit en
+signaux électriques.
+
+Watching the video involves output transducers,
+things like your headphones and monitor.
+Regarder la vidéo implique des transducteurs de sortie, des
+choses comme vos écouteurs et votre moniteur.
+
+Unlike Morse’ system, however, the signal
+won’t stay in one form between transducers.
+Contrairement au système Morse, cependant, le signal
+ne restera pas sous une forme entre les transducteurs.
+
+It might start out as an electric current
+in the camera that gets converted into a file
+on a memory card.
+Cela peut commencer par un courant électrique
+dans l'appareil photo qui est converti en un fichier
+sur une carte mémoire.
+
+That’s transmitted again as a signal when we send
+the file to a computer or upload it to the internet,
+where it’s stored on YouTube’s servers.
+Cela est à nouveau transmis sous forme de signal lorsque nous envoyons
+le fichier à un ordinateur ou que nous le téléchargeons sur Internet,
+où il est stocké sur les serveurs de YouTube.
+
+At least, until you request that the signal
+be sent to you in its final form, to be converted
+back into light and sound.
+Au moins, jusqu'à ce que vous demandiez que le signal
+vous soit envoyé dans sa forme finale, pour être
+reconverti en lumière et en son.
+
+Morse’s system was popular because it was simple
+and remarkably easy to use, ushering in the era of
+instant communication we enjoy today.
+Le système de Morse était populaire parce qu'il était simple
+et remarquablement facile à utiliser, inaugurant l'ère de la
+communication instantanée que nous apprécions aujourd'hui.
+
+The ingenious part was finding a way to take
+information as people understand it, in terms
+of ordinary letters and words,
+La partie ingénieuse consistait à trouver un moyen de prendre l'
+information telle que les gens la comprennent, en termes
+de lettres et de mots ordinaires,
+
+and encode it in a form that could be
+transmitted as electricity.
+et de l'encoder sous une forme qui pourrait être
+transmise sous forme d'électricité.
+
+Encoding is a key part of signal processing.
+L'encodage est un élément clé du traitement du signal.
+
+Signals need a transmission-friendly way of
+representing the information you’re trying to relay.
+Les signaux ont besoin d'un moyen convivial de transmission pour
+représenter les informations que vous essayez de relayer.
+
+A hundred years after Morse unveiled his telegraph, it
+was replaced by more sophisticated and convenient
+forms of communication, like telephones and radios.
+Cent ans après que Morse ait dévoilé son télégraphe, il a
+été remplacé par des formes de communication plus sophistiquées et pratiques
+, comme les téléphones et les radios.
+
+But these methods – and everything up to
+the internet today – are still based on encoding.
+Mais ces méthodes - et tout
+jusqu'à Internet aujourd'hui - sont toujours basées sur l'encodage.
+
+It’s the way the information is encoded
+and how it’s transmitted that’s changed.
+C'est la façon dont l'information est encodée
+et dont elle est transmise qui change.
+
+Consider radio waves, like the kind used to
+transmit signals between your phone and a cell tower.
+Considérez les ondes radio, comme celles utilisées pour
+transmettre des signaux entre votre téléphone et une tour cellulaire.
+
+It’s the wave nature of radio that lets
+your phone encode the information you need
+to make a call.
+C'est la nature ondulatoire de la radio qui permet à
+votre téléphone d'encoder les informations dont vous avez besoin
+pour passer un appel.
+
+Engineers design hardware that changes, or modulates,
+the behavior of that wave to encode information about
+the pressure of the air near the microphone –
+Les ingénieurs conçoivent du matériel qui modifie ou module
+le comportement de cette onde pour encoder des informations sur
+la pression de l'air près du microphone -
+
+in other words, the physical effects of sound.
+en d'autres termes, les effets physiques du son.
+
+Two of the most common ways of doing this
+are Amplitude Modulation and Frequency Modulation,
+Deux des façons les plus courantes de le faire
+sont la modulation d'amplitude et la modulation de fréquence,
+
+or AM and FM – that’s where the names
+on your radio dial come from!
+ou AM et FM - c'est de là que viennent les noms
+sur votre cadran radio !
+
+One adjusts the amplitude, or strength of the wave,
+while the other changes the frequency, or distance
+between one peak and the next.
+L'un ajuste l'amplitude ou la force de l'onde,
+tandis que l'autre modifie la fréquence ou la distance
+entre un pic et le suivant.
+
+Much like telegraph signals, the transmitted
+wave carries the information you want, which
+is then decoded on the other side.
+Tout comme les signaux télégraphiques, l'
+onde transmise transporte les informations que vous souhaitez, qui
+sont ensuite décodées de l'autre côté.
+
+Similar methods can even represent sounds
+and images, which is how television broadcasts
+work.
+Des méthodes similaires peuvent même représenter des sons
+et des images, c'est ainsi que fonctionnent les émissions de
+télévision.
+
+But these methods have two pretty big limitations!
+Mais ces méthodes ont deux très grosses limites !
+
+The first is capacity.
+Le premier est la capacité.
+
+The signal of a radio wave can be thought
+of as a combination of other, simpler waves
+put together.
+Le signal d'une onde radio peut être
+considéré comme une combinaison d'autres ondes plus simples
+mises ensemble.
+
+Specifically, you can represent a signal as
+the sum of radio waves with different frequencies.
+Plus précisément, vous pouvez représenter un signal comme
+la somme d'ondes radio avec différentes fréquences.
+
+The range of different frequencies you can
+represent is called the bandwidth,
+La gamme de fréquences différentes que vous pouvez
+représenter s'appelle la bande passante,
+
+and it limits how much information can be
+encoded by your signal, as well as how many of
+them can be sent at the same time.
+et elle limite la quantité d'informations pouvant être
+encodées par votre signal, ainsi que le nombre d'
+entre elles pouvant être envoyées en même temps.
+
+Think of signals as fluids and radio channels
+as pipes; the bandwidth is like the size of the pipe,
+which controls how much fluid can flow at once.
+Considérez les signaux comme des fluides et les canaux radio
+comme des tuyaux ;  la bande passante est comme la taille du tuyau,
+qui contrôle la quantité de fluide pouvant s'écouler à la fois.
+
+The other problem is noise.
+L'autre problème est le bruit.
+
+As they travel through the atmosphere, radio waves
+interfere with each other and are warped by objects
+in their path, which both cause distortions.
+Lorsqu'elles traversent l'atmosphère, les ondes radio
+interfèrent les unes avec les autres et sont déformées par les objets
+sur leur chemin, ce qui provoque des distorsions.
+
+So the signal the other person receives usually
+ends up pretty different from the one that you sent!
+Ainsi, le signal que l'autre personne reçoit
+finit généralement par être assez différent de celui que vous avez envoyé !
+
+Noise is anything that changes your signal
+from its original form, usually in a random way.
+Le bruit est tout ce qui modifie votre signal
+par rapport à sa forme d'origine, généralement de manière aléatoire.
+
+The greater the noise, the more distorted and
+unrecognizable the received message will be.
+Plus le bruit est important, plus
+le message reçu sera déformé et méconnaissable.
+
+That’s why old TV sets sometimes ended up
+with ‘static’ in the image!
+C'est pourquoi les anciens téléviseurs se retrouvaient parfois
+avec du « statique » dans l'image !
+
+To go back to the pipe analogy, noise would
+be any contamination the pipe puts into the
+fluid, changing its concentration.
+Pour revenir à l'analogie du tuyau, le bruit
+serait toute contamination que le tuyau met dans le
+fluide, modifiant sa concentration.
+
+A tiny, contaminated pipe does a pretty terrible
+job of delivering lots of clean water.
+Un petit tuyau contaminé fait un travail assez terrible
+en fournissant beaucoup d'eau propre.
+
+So as you can imagine, noisy channels with low
+bandwidth aren’t great for sending signals that can
+be reliably decoded on the receiving end.
+Ainsi, comme vous pouvez l'imaginer, les canaux bruyants à faible
+bande passante ne sont pas parfaits pour envoyer des signaux qui peuvent
+être décodés de manière fiable à la réception.
+
+Worse still, both of these problems happen
+for wired communications as well.
+Pire encore, ces deux problèmes se produisent également
+pour les communications filaires.
+
+The signal traveling down a wire is also a wave,
+where the amplitude is represented by the the power
+of the electric current at any given point in time.
+Le signal voyageant le long d'un fil est également une onde,
+où l'amplitude est représentée par la puissance
+du courant électrique à un moment donné.
+
+That’s how we modulate electric currents to
+carry signals, but it also means that those signals
+suffer from noise and capacity issues, too.
+C'est ainsi que nous modulons les courants électriques pour
+transporter les signaux, mais cela signifie également que ces signaux
+souffrent également de problèmes de bruit et de capacité.
+
+Radio and wired communications faced these
+sorts of problems during World War II,
+Les communications radio et filaires ont été confrontées à ce
+genre de problèmes pendant la Seconde Guerre mondiale,
+
+which brought them to the attention of engineer
+and mathematician Claude Shannon.
+ce qui les a portés à l'attention de l'ingénieur
+et mathématicien Claude Shannon.
+
+In 1948, he published A Mathematical
+Theory of Communication,
+En 1948, il a publié A Mathematical
+Theory of Communication,
+
+which revolutionized how engineers
+consider information itself, and what it
+takes to send information reliably.
+qui a révolutionné la façon dont les ingénieurs
+considèrent l'information elle-même et ce qu'il
+faut pour envoyer des informations de manière fiable.
+
+Among Shannon’s contributions was a mathematical
+formula for determining the conditions needed for
+sending a signal at a particular rate.
+Parmi les contributions de Shannon figurait une
+formule mathématique permettant de déterminer les conditions nécessaires à l'
+envoi d'un signal à un taux particulier.
+
+Imagine sending a Morse Code message down
+a noisy wire.
+Imaginez envoyer un message en code Morse sur
+un fil bruyant.
+
+Each segment of the code represents a dot or a
+dash, what you might call a “bit” of the message.
+Chaque segment du code représente un point ou un
+tiret, ce que vous pourriez appeler un "morceau" du message.
+
+“Bit” stands for “binary digit”, because
+each part of our message only occupies one
+of two states.
+"Bit" signifie "chiffre binaire", car
+chaque partie de notre message n'occupe qu'un
+des deux états.
+
+In his paper, Shannon developed a formula
+that determines the number of bits you can
+transmit per second, or “bit-rate” –
+Dans son article, Shannon a développé une formule
+qui détermine le nombre de bits que vous pouvez
+transmettre par seconde, ou "débit binaire" -
+
+given the power of your signal, the amount
+of noise, and the bandwidth of the channel.
+compte tenu de la puissance de votre signal, de la quantité
+de bruit et de la bande passante du canal.
+
+When your internet provider advertises a speed
+of 50 megabits per second, that’s Shannon’s bit rate!
+Quand votre fournisseur d'accès Internet annonce une vitesse
+de 50 mégabits par seconde, c'est le débit de Shannon !
+
+He figured out that it’s the ratio of the
+power of the signal to the power of the noise
+that determines the bit rate.
+Il a compris que c'est le rapport entre la
+puissance du signal et la puissance du bruit
+qui détermine le débit binaire.
+
+So either the signal needs to be strong enough,
+or the bandwidth needs to be large enough
+Ainsi, soit le signal doit être suffisamment puissant,
+soit la bande passante doit être suffisamment large
+
+for there to be so many frequencies representing
+the signal that noise can’t affect them all at once.
+pour qu'il y ait tellement de fréquences représentant
+le signal que le bruit ne puisse pas toutes les affecter à la fois.
+
+As well as this handy formula, Shannon laid out
+lots of groundwork for calculating the exact
+conditions needed for reliable communication.
+En plus de cette formule pratique, Shannon a établi de
+nombreuses bases pour calculer les
+conditions exactes nécessaires à une communication fiable.
+
+Just as importantly, he worked out what
+kinds of signals you might need to represent
+the information you’re trying to communicate.
+Tout aussi important, il a déterminé les
+types de signaux dont vous pourriez avoir besoin pour représenter
+les informations que vous essayez de communiquer.
+
+That work would be vital once signal processing
+entered the digital age.
+Ce travail serait vital une fois que le traitement du signal serait
+entré dans l'ère numérique.
+
+Digital signals represent information using
+a small set of distinct states rather than the
+continuous variation of a wave.
+Les signaux numériques représentent des informations en utilisant
+un petit ensemble d'états distincts plutôt que la
+variation continue d'une onde.
+
+Instead of FM radio, where changes in frequency
+translate exactly to changes in sound,
+Au lieu de la radio FM, où les changements de fréquence se
+traduisent exactement par des changements de son,
+
+digital radio sends the data piece by piece and
+everything is reassembled on the receiving end.
+la radio numérique envoie les données morceau par morceau et
+tout est réassemblé du côté récepteur.
+
+Because the different states of the signal
+can be more distinct, they’re much less
+susceptible to noise.
+Parce que les différents états du signal
+peuvent être plus distincts, ils sont beaucoup moins
+sensibles au bruit.
+
+A large difference is easier to distinguish
+than a small one, even when it gets distorted.
+Une grande différence est plus facile à distinguer
+qu'une petite, même lorsqu'elle est déformée.
+
+Morse code, with its dots, dashes, and spaces,
+was an early digital communication system.
+Le code Morse, avec ses points, ses tirets et ses espaces,
+était l'un des premiers systèmes de communication numérique.
+
+But it would take the advent of computers
+for digital signaling to really take off.
+Mais il faudrait l'avènement des ordinateurs
+pour que la signalisation numérique décolle vraiment.
+
+And it was Shannon’s work that allowed computer scientists and electrical engineers to find ways of encoding different kinds of information in terms of 1s and 0s – what we now call binary code.
+Et ce sont les travaux de Shannon qui ont permis aux informaticiens et aux ingénieurs électriciens de trouver des moyens de coder différents types d'informations en termes de 1 et de 0 - ce que nous appelons maintenant le code binaire.
+
+Digital signals have come to form the basis
+of computing, and every form of data associated
+with it.
+Les signaux numériques sont devenus la base
+de l'informatique et de toutes les formes de données qui y sont
+associées.
+
+All of which are still used today!
+Tout cela est encore utilisé aujourd'hui !
+
+Of course, we’ve only just skimmed the surface.
+Bien sûr, nous n'avons fait qu'effleurer la surface.
+
+Signal processing overlaps with some serious
+technical challenges.
+Le traitement du signal se chevauche avec de sérieux
+défis techniques.
+
+There’s the task of actually encoding different sorts
+of information as signals, and creating channels like
+phone lines and WiFi routers to transmit them.
+Il s'agit en fait d'encoder différents types
+d'informations sous forme de signaux et de créer des canaux tels que
+des lignes téléphoniques et des routeurs WiFi pour les transmettre.
+
+And there’s the challenge of building hardware
+that transmits the final output, like computer
+monitors and headphones.
+Et il y a le défi de construire du matériel
+qui transmet la sortie finale, comme des
+moniteurs d'ordinateur et des écouteurs.
+
+But the end result is that you can stream
+videos like this one at the click of a button,
+virtually anywhere in the world.
+Mais le résultat final est que vous pouvez diffuser des
+vidéos comme celle-ci en un clic,
+pratiquement partout dans le monde.
+
+I might be a little biased, but I think that
+it’s pretty darn cool.
+Je suis peut-être un peu partial, mais je pense que
+c'est sacrément cool.
+
+In this episode, we looked at the fundamentals
+of signal processing.
+Dans cet épisode, nous avons abordé les fondamentaux
+du traitement du signal.
+
+We saw the need to represent information
+as a signal so it can be transmitted, and an
+example of that in Morse Code.
+Nous avons vu la nécessité de représenter l'information
+comme un signal afin qu'elle puisse être transmise, et un
+exemple de cela dans le code Morse.
+
+We explain how wired and wireless
+communications can suffer from the problems
+of bandwidth capacity and noise,
+Nous expliquons comment les communications filaires et sans fil
+peuvent souffrir des problèmes
+de capacité de bande passante et de bruit,
+
+and how Claude Shannon helped quantify the
+problem so that engineers could build around
+those limitations and bring about the digital age.
+et comment Claude Shannon a aidé à quantifier le
+problème afin que les ingénieurs puissent construire autour de
+ces limitations et introduire l'ère numérique.
+
+Next time, we’re headed out to sea to talk
+about moving physical objects with ships and
+marine engineering.
+La prochaine fois, nous irons en mer pour parler du
+déplacement d'objets physiques avec des navires et de
+l'ingénierie marine.
+
+Crash Course Engineering is produced in association
+with PBS Digital Studios,
+Crash Course Engineering est produit en association
+avec PBS Digital Studios,
+
+which also produces It's Okay To Be Smart, a show
+about our curious universe and the science that makes
+it possible, hosted by Dr. Joe Hanson.
+qui produit également It's Okay To Be Smart, une émission
+sur notre univers curieux et la science qui le
+rend possible, animée par le Dr Joe Hanson.
+
+Check it out at the link in the description.
+Découvrez-le sur le lien dans la description.
+
+Crash Course is a Complexly production and this
+episode was filmed in the Doctor Cheryl C. Kinney
+Studio with the help of these wonderful people.
+Crash Course est une production de Complexly et cet
+épisode a été filmé dans le studio du docteur Cheryl C. Kinney
+avec l'aide de ces personnes merveilleuses.
+
+And our amazing graphics team is Thought Cafe.
+Et notre incroyable équipe graphique est Thought Cafe.
+

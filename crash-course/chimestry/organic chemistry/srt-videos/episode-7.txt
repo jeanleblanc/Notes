@@ -1,0 +1,537 @@
+You can review content from Crash Course Organic Chemistry with the Crash Course app, available now for Android and iOS devices.
+Vous pouvez consulter le contenu de Crash Course Organic Chemistry avec l'application Crash Course, disponible dès maintenant pour les appareils Android et iOS.
+
+Hi!
+Salut! 
+
+I’m Deboki Chakravarti and welcome back to Crash Course Organic Chemistry!
+Je m'appelle Deboki Chakravarti et je vous souhaite la bienvenue au cours intensif de chimie organique !
+
+What do Saturn, a diamond, and Giant’s Causeway in Ireland all have in common?
+Qu'est-ce que Saturne, un diamant et la Chaussée des Géants en Irlande ont en commun ?
+
+Hexagons.
+Hexagones.
+
+From honeycombs to the shells of tortoises, hexagons appear all over the natural world.
+Des nids d'abeilles aux carapaces de tortues, les hexagones apparaissent partout dans le monde naturel.
+
+Even when you push bubbles together, they’ll make hexagons.
+Même lorsque vous poussez des bulles ensemble, elles formeront des hexagones.
+
+But the scientific reasons why hexagons seem to be everywhere are debatable.
+Mais les raisons scientifiques pour lesquelles les hexagones semblent être partout sont discutables.
+
+Some people consider hexagons a space-saving wonder.
+Certaines personnes considèrent les hexagones comme une merveille peu encombrante.
+
+For example, pencil companies realized that they could pack more hexagonal pencils in a box and save storage space.
+Par exemple, les entreprises de crayons ont réalisé qu'elles pouvaient emballer plus de crayons hexagonaux dans une boîte et économiser de l'espace de stockage.
+
+So that’s why every Number 2 is hexagonal.
+C'est pourquoi chaque numéro 2 est hexagonal.
+
+Hexagons are even in the arrangement of carbon atoms, like the close-packed that structure gives diamond its famous hardness.
+Les hexagones sont même dans l'arrangement des atomes de carbone, comme la structure serrée qui donne au diamant sa fameuse dureté.
+
+And in graphite, hexagonal sheets of carbon conduct in one direction but not the other.
+Et dans le graphite, les feuilles hexagonales de carbone conduisent dans un sens mais pas dans l'autre.
+
+In this episode, we’ll uncover the secrets of one of organic chemistry’s favorite manifestations of this shape:
+Dans cet épisode, nous allons découvrir les secrets d'une des manifestations préférées de la chimie organique de cette forme :
+
+the cyclohexane molecule.
+la molécule de cyclohexane.
+
+[Theme Music]
+[Thème musical]
+
+As we learned last time, cycloalkanes are named like other alkanes, except they have the prefix cyclo- right before the root name.
+Comme nous l'avons appris la dernière fois, les cycloalcanes sont nommés comme les autres alcanes, sauf qu'ils ont le préfixe cyclo- juste avant le nom de la racine.
+
+A plain old five-carbon ring would be called cyclopentane.
+Un vieil anneau ordinaire à cinq carbones serait appelé cyclopentane.
+
+If we just have one substituent, we don’t need a number.
+Si nous n'avons qu'un seul substituant, nous n'avons pas besoin d'un nombre.
+
+Like methylcyclopentane.
+Comme le méthylcyclopentane.
+
+But if there are two or more substituents, the carbons are numbered to give those substituents the lowest possible numbers.
+Mais s'il y a deux substituants ou plus, les carbones sont numérotés pour donner à ces substituants les nombres les plus bas possibles.
+
+And the substituents are put in alphabetical order, like we normally do.
+Et les substituants sont mis par ordre alphabétique, comme nous le faisons normalement.
+
+For example, 1-ethyl-2-methylcyclopentane.
+Par exemple, le 1-éthyl-2-méthylcyclopentane.
+
+A cycloalkane can be named as a substituent too.
+Un cycloalcane peut également être nommé comme substituant.
+
+Like when the acyclic (or no ring) part of the molecule has more carbons, or if the chain has an important functional group.
+Comme lorsque la partie acyclique (ou sans cycle) de la molécule a plus de carbones, ou si la chaîne a un groupe fonctionnel important.
+
+For example, 4-cyclopropylhept-1-yne.
+Par exemple, 4-cyclopropylhept-1-yne.
+
+Cycloalkanes have two distinct faces, because they don’t have free rotation around their bonds.
+Les cycloalcanes ont deux faces distinctes, car ils n'ont pas de rotation libre autour de leurs liaisons.
+
+In a cycloalkane with two substituents pointing toward the same face of the ring, we add the prefix cis-.
+Dans un cycloalcane avec deux substituants pointant vers la même face du cycle, on ajoute le préfixe cis-.
+
+And if they point toward opposite faces of the ring, we add the prefix trans-.
+Et s'ils pointent vers des faces opposées de l'anneau, on ajoute le préfixe trans-.
+
+The most common cycloalkanes are cyclopentanes and cyclohexanes, because of what we talked about last episode:
+Les cycloalcanes les plus courants sont les cyclopentanes et les cyclohexanes, à cause de ce dont nous avons parlé dans le dernier épisode :
+
+they have low ring strain so they’re more stable.
+ils ont une faible déformation du cycle, ils sont donc plus stables.
+
+Ring strain comes from a combination of two things.
+La tension annulaire provient d'une combinaison de deux choses.
+
+There’s angular strain, or deviating from the ideal angle of 109.5 degrees for sp3 hybridized carbons.
+Il y a une contrainte angulaire ou un écart par rapport à l'angle idéal de 109,5 degrés pour les carbones hybrides sp3.
+
+And there’s torsional strain, or having bonds in an eclipsed conformation.
+Et il y a une contrainte de torsion, ou des liaisons dans une conformation éclipsée.
+
+Nowadays we know what causes ring strain, and we know that high strain means more energy and less stability.
+De nos jours, nous savons ce qui cause la déformation de l'anneau, et nous savons qu'une forte déformation signifie plus d'énergie et moins de stabilité.
+
+But organic chemists initially figured out ring strain (and lots of other things about chemical reactions) by setting compounds on fire.
+Mais les chimistes organiques ont d'abord compris la déformation annulaire (et beaucoup d'autres choses sur les réactions chimiques) en mettant le feu à des composés.
+
+To see how, let’s go to the Thought Bubble.
+Pour voir comment, allons dans la bulle de pensée.
+
+Combustion reactions are when hydrocarbons burn in oxygen, releasing energy stored in their bonds.
+Les réactions de combustion se produisent lorsque les hydrocarbures brûlent dans l'oxygène, libérant l'énergie stockée dans leurs liaisons.
+
+One way to think about combustion is that plants incorporate energy from the sun into molecules.
+Une façon de penser à la combustion est que les plantes incorporent l'énergie du soleil dans les molécules.
+
+So when we burn wood in a campfire, or ancient plants that became fossil fuels, it’s kind of like we’re undoing photosynthesis.
+Ainsi, lorsque nous brûlons du bois dans un feu de camp ou des plantes anciennes devenues des combustibles fossiles, c'est un peu comme si nous détruisions la photosynthèse.
+
+Besides using heat to toast marshmallows, organic chemists can also measure the heat produced in a combustion reaction
+En plus d'utiliser la chaleur pour faire griller des guimauves, les chimistes organiques peuvent également mesurer la chaleur produite lors d'une réaction de combustion
+
+to learn about the formula of chemical compounds and the energy stored in their bonds.
+pour en savoir plus sur la formule des composés chimiques et l'énergie stockée dans leurs liaisons.
+
+In the inner chamber of an instrument called a bomb calorimeter, we burn a compound, measure the temperature change,
+Dans la chambre intérieure d'un instrument appelé calorimètre à bombe, nous brûlons un composé, mesurons le changement de température
+
+and use that measurement to calculate the energy of the reaction.
+et utilisons cette mesure pour calculer l'énergie de la réaction.
+
+Don’t worry, it’s safe!
+Ne vous inquiétez pas, c'est sûr !
+
+But if there was a bunch of energy in a closed system like this... that’s a bomb.
+Mais s'il y avait beaucoup d'énergie dans un système fermé comme celui-ci... c'est une bombe.
+
+Hence the name.
+D'où le nom. 
+
+Organic chemists used bomb calorimetry to quantify ring strain, by comparing the heat released from the combustion of an alkane with a cycloalkane.
+Les chimistes organiques ont utilisé la calorimétrie à bombe pour quantifier la déformation de l'anneau, en comparant la chaleur dégagée par la combustion d'un alcane avec un cycloalcane.
+
+Any extra heat from the cycloalkane has to be from the energy of the ring strain being released.
+Toute chaleur supplémentaire du cycloalcane doit provenir de l'énergie de la contrainte annulaire libérée.
+
+So we have to do a little math to get there.
+Il faut donc faire un peu de calcul pour y arriver.
+
+For example, we can use a bomb calorimeter to burn a very long acyclic alkane, and find that the average energy released per CH2 unit is 658.6 kiloJoules per mol.
+Par exemple, nous pouvons utiliser un calorimètre à bombe pour brûler un très long alcane acyclique et constater que l'énergie moyenne libérée par unité CH2 est de 658,6 kiloJoules par mol.
+
+And when we burn cyclopropane, which we know is a very strained ring, it releases 697.1 kiloJoules per mol per CH2 unit.
+Et lorsque nous brûlons du cyclopropane, dont nous savons qu'il s'agit d'un anneau très tendu, il libère 697,1 kilojoules par mole et par unité CH2.
+
+So the ring strain energy contributed 38.5 kiloJoules per mol.
+Ainsi, l'énergie de déformation de l'anneau a contribué à 38,5 kilojoules par mol.
+
+We have to multiply that by three for the three CH2 units in cyclopropane, for a total of 115 kiloJoules per mol.
+Il faut multiplier cela par trois pour les trois unités CH2 du cyclopropane, pour un total de 115 kiloJoules par mol.
+
+There's quite a bit of extra energy packed into that ring.
+Il y a pas mal d'énergie supplémentaire dans cet anneau.
+
+Thanks, math!
+Merci, maths !
+
+And thanks to you, Thought Bubble!
+Et merci à toi, Bulle de Pensée !
+
+Through these sorts of combustion experiments, the cyclohexane ring was found to have no ring strain, and cyclopentane is pretty low too.
+Grâce à ces types d'expériences de combustion, le cycle de cyclohexane s'est avéré ne pas avoir de contrainte de cycle, et le cyclopentane est également assez faible.
+
+Both of these cycloalkanes decrease ring strain because their angular strain is relatively low.
+Ces deux cycloalcanes diminuent la déformation du cycle car leur déformation angulaire est relativement faible.
+
+In a pentagon, the angles are 108 degrees and in a hexagon, they’re 120 degrees.
+Dans un pentagone, les angles sont de 108 degrés et dans un hexagone, ils sont de 120 degrés.
+
+These aren’t very far from the comfy 109.5 degrees for sp3 hybridized carbons.
+Ce ne sont pas très loin des 109,5 degrés confortables pour les carbones hybrides sp3.
+
+And even though flat cycloalkanes would have bonds in an eclipsed conformation, they can reduce torsional strain by puckering.
+Et même si les cycloalcanes plats auraient des liaisons dans une conformation éclipsée, ils peuvent réduire la contrainte de torsion en se plissant.
+
+They poke certain atoms above and below the molecular plane, so they’re not as lined up, and are slightly less strained.
+Ils poussent certains atomes au-dessus et au-dessous du plan moléculaire, ils ne sont donc pas aussi alignés et sont légèrement moins sollicités.
+
+A puckered cyclopentane molecule pokes one carbon atom above the molecular plane, forming an envelope conformation.
+Une molécule de cyclopentane plissée pousse un atome de carbone au-dessus du plan moléculaire, formant une conformation d'enveloppe.
+
+We can see this a little better by looking at a Newman projection along one of the bonds.
+Nous pouvons voir cela un peu mieux en regardant une projection de Newman le long d'une des liaisons.
+
+The thing about any molecular drawing or model is that they’re static, instead of the vibrating, moving molecule of reality.
+La chose à propos de tout dessin ou modèle moléculaire est qu'ils sont statiques, au lieu de la molécule vibrante et mobile de la réalité.
+
+So the pucker of cyclopentane isn’t stuck on one carbon.
+Ainsi, le plissement du cyclopentane n'est pas collé sur un seul carbone.
+
+Each carbon takes a turn poking above the molecular plane, so the molecule is kind of constantly wobbling around.
+Chaque carbone tourne à tour de rôle au-dessus du plan moléculaire, de sorte que la molécule oscille constamment.
+
+But cyclohexane is even more stable and free of ring strain because it can achieve a puckered structure that has all of the hydrogens staggered and all of the bond angles at 109.5 degrees.
+Mais le cyclohexane est encore plus stable et exempt de contrainte annulaire car il peut obtenir une structure plissée qui a tous les hydrogènes décalés et tous les angles de liaison à 109,5 degrés.
+
+This basically magical structure is called the chair conformation of cyclohexane.
+Cette structure fondamentalement magique s'appelle la conformation de chaise du cyclohexane.
+
+Except instead of a plush armchair that you’d wanna take a nap in, it’s more like a crooked beach chair on the deck of a cruise ship.
+Sauf qu'au lieu d'un fauteuil moelleux dans lequel vous voudriez faire une sieste, cela ressemble plus à une chaise de plage tordue sur le pont d'un bateau de croisière.
+
+Imagine a friend sitting with their head up and feet down.
+Imaginez un ami assis la tête haute et les pieds baissés.
+
+The two parallel lines in the middle are sort of like the “seat” of the chair.
+Les deux lignes parallèles au milieu sont un peu comme le "siège" de la chaise.
+
+And if we look along those carbon-carbon bonds, we can draw a Newman projection and see that the hydrogens are staggered.
+Et si nous regardons le long de ces liaisons carbone-carbone, nous pouvons dessiner une projection de Newman et voir que les hydrogènes sont décalés.
+
+Cyclohexane can pucker in other ways too with a little bit of ring strain, like in the boat conformation.
+Le cyclohexane peut également plisser d'autres manières avec un peu de tension annulaire, comme dans la conformation du bateau.
+
+Which is also, kind of honestly like a goofy-looking boat.
+Ce qui est aussi, honnêtement, un peu comme un bateau maladroit.
+
+In the boat conformation, the footrest of the “chair” lines up with the headrest to make a little nook.
+Dans la conformation bateau, le repose-pieds de la "chaise" s'aligne avec l'appui-tête pour faire un petit coin.
+
+The angles between carbon atoms are still 109.5 degrees, but now there’s a little torsional strain.
+Les angles entre les atomes de carbone sont toujours de 109,5 degrés, mais il y a maintenant une petite contrainte de torsion.
+
+By drawing a Newman projection, we can see that the hydrogens are all eclipsed.
+En dessinant une projection de Newman, nous pouvons voir que les hydrogènes sont tous éclipsés.
+
+But there are also two flagpole hydrogens that are sticking towards each other.
+Mais il y a aussi deux hydrogènes de mât qui collent l'un à l'autre.
+
+To relieve strain from this interaction, the boat twists a bit so the flagpole hydrogens don’t get too close.
+Pour soulager la tension de cette interaction, le bateau se tord un peu pour que les hydrogènes du mât ne se rapprochent pas trop.
+
+Sort of like turning your head for a kiss to avoid smashing noses.
+Un peu comme tourner la tête pour un baiser pour éviter de casser le nez.
+
+Most of the cyclohexane molecules in a sample will be in the chair conformation.
+La plupart des molécules de cyclohexane dans un échantillon seront en conformation chaise.
+
+So it’s really important for us to learn how to draw them.
+Il est donc très important pour nous d'apprendre à les dessiner.
+
+We’ll practice here, starting with two parallel lines.
+Nous allons pratiquer ici, en commençant par deux lignes parallèles.
+
+Next, draw another set of parallel lines to make two sideways Vs.
+Ensuite, tracez un autre ensemble de lignes parallèles pour former deux V latéraux.
+
+Then, connect those two Vs with a third group of parallel lines.
+Ensuite, connectez ces deux V avec un troisième groupe de lignes parallèles.
+
+That’s the base structure of the chair!
+C'est la structure de base de la chaise !
+
+Now, we have to stick in the hydrogens.
+Maintenant, nous devons nous en tenir aux hydrogènes.
+
+Three on each face will be straight vertical up or down and they’re all parallel to each other.
+Trois sur chaque face seront verticales droites vers le haut ou vers le bas et elles sont toutes parallèles les unes aux autres.
+
+These are called the axial positions.
+C'est ce qu'on appelle les positions axiales.
+
+And here’s a hint: the V-shaped points made by the carbon atoms can help you figure out if the axial bond goes up or down.
+Et voici un indice : les points en forme de V formés par les atomes de carbone peuvent vous aider à déterminer si la liaison axiale monte ou descend.
+
+The Vs pointing up have the axial hydrogens above the plane, and the downward Vs have the axial hydrogens below the plane.
+Les V pointant vers le haut ont les hydrogènes axiaux au-dessus du plan, et les V vers le bas ont les hydrogènes axiaux sous le plan.
+
+And finally, we add in three hydrogens that are parallel to the bonds one step away, which are what we call the equatorial positions.
+Et enfin, nous ajoutons trois hydrogènes qui sont parallèles aux liaisons à un pas de distance, ce que nous appelons les positions équatoriales.
+
+The equatorial hydrogens form a ring around the axial hydrogens, sort of like Earth’s equator.
+Les hydrogènes équatoriaux forment un anneau autour des hydrogènes axiaux, un peu comme l'équateur terrestre.
+
+This can be tricky to wrap your head around with just words, so we’ve color-coded the equatorial bonds to the bonds in the chair structure that they match!
+Cela peut être difficile à comprendre avec juste des mots, nous avons donc codé par couleur les liaisons équatoriales aux liaisons de la structure de la chaise auxquelles elles correspondent !
+
+So that’s one chair conformation.
+C'est donc une conformation de chaise.
+
+But because even low energy molecules are constantly moving, cyclohexane molecules are switching between conformations many times every second.
+Mais parce que même les molécules de faible énergie se déplacent constamment, les molécules de cyclohexane changent de conformation plusieurs fois par seconde.
+
+There’s one chair position where our friend is sitting comfortably with their head up and feet down,
+Il y a une position de chaise où notre ami est assis confortablement avec la tête haute et les pieds vers le bas,
+
+then there’s the boat, and finally there’s another chair position where their head is hanging down and their feet are sticking up.
+puis il y a le bateau, et enfin il y a une autre position de chaise où sa tête penche et ses pieds se dressent.
+
+Plus lots of in-between-forms.
+Plus beaucoup de formes intermédiaires.
+
+When the chair converts from one position to the other, it’s called a chair flip.
+Lorsque la chaise passe d'une position à l'autre, cela s'appelle un retournement de chaise.
+
+But that name can be a little misleading!
+Mais ce nom peut être un peu trompeur !
+
+A chair flip does NOT mean we flip the chair upside down, and our friend falls out.
+Un retournement de chaise ne signifie PAS que nous renversons la chaise et que notre ami tombe.
+
+We just move their head down and feet up.
+Nous bougeons simplement la tête vers le bas et les pieds vers le haut.
+
+Also, all the axial hydrogens become equatorial hydrogens.
+De plus, tous les hydrogènes axiaux deviennent des hydrogènes équatoriaux.
+
+A chair flip also DOES NOT require bonds to be broken, they just rotate to shift the bonded groups around.
+Un retournement de chaise NE nécessite PAS non plus que les liens soient rompus, ils tournent simplement pour déplacer les groupes liés.
+
+In our all-hydrogen example, both chairs are equivalent.
+Dans notre exemple tout hydrogène, les deux chaises sont équivalentes.
+
+They’re the same energetically, and we might wonder why we’d need to think about chair flips at all.
+Ils sont énergétiquement les mêmes, et nous pourrions nous demander pourquoi nous aurions besoin de penser aux retournements de chaise.
+
+But let’s say we swap out one of the hydrogens for a methyl group to create methylcyclohexane.
+Mais disons que nous échangeons l'un des hydrogènes contre un groupe méthyle pour créer du méthylcyclohexane.
+
+If we do a chair flip with this molecule, you can see how the methyl group can switch between an axial position or an equatorial position.
+Si nous faisons un retournement de chaise avec cette molécule, vous pouvez voir comment le groupe méthyle peut basculer entre une position axiale et une position équatoriale.
+
+And this has chemical consequences.
+Et cela a des conséquences chimiques.
+
+For methylcyclohexane, the chair with the methyl group in the equatorial position has slightly lower energy.
+Pour le méthylcyclohexane, la chaise avec le groupe méthyle en position équatoriale a une énergie légèrement inférieure.
+
+So most methylcyclohexane molecules in a sample will be in that chair conformation as they’re constantly converting back and forth.
+Ainsi, la plupart des molécules de méthylcyclohexane dans un échantillon seront dans cette conformation de chaise car elles se convertissent constamment dans les deux sens.
+
+To understand why the equatorial methyl group makes it slightly lower energy, we have to go back to our good ol’ tools: Newman projections.
+Pour comprendre pourquoi le groupe méthyle équatorial lui confère une énergie légèrement inférieure, nous devons revenir à nos bons vieux outils : les projections de Newman.
+
+Let’s look along the “seat” carbon-carbon bonds in the middle.
+Regardons le long des liaisons carbone-carbone "siège" au milieu.
+
+Now, we can see that when the methyl group is in the axial position, it’s a gauche conformation with respect to the “head” carbon.
+Maintenant, nous pouvons voir que lorsque le groupe méthyle est en position axiale, c'est une conformation gauche par rapport au carbone "tête".
+
+But in the equatorial position, the methyl group is in the anti conformation.
+Mais en position équatoriale, le groupe méthyle est en conformation anti.
+
+There’s another important effect here too.
+Il y a un autre effet important ici aussi.
+
+The axial methyl group has steric interactions with the other two axial hydrogens above the ring.
+Le groupe méthyle axial a des interactions stériques avec les deux autres hydrogènes axiaux au-dessus du cycle.
+
+The crowding introduced by pushing these groups together is called diaxial strain.
+L'encombrement introduit en poussant ces groupes ensemble est appelé déformation diaxiale.
+
+This makes an energy difference between the conformations, as we learned in episode 6.
+Cela fait une différence d'énergie entre les conformations, comme nous l'avons appris dans l'épisode 6.
+
+And the equatorial position is slightly preferred.
+Et la position équatoriale est légèrement privilégiée.
+
+As more substituents are added to cyclohexane, the interactions become more noticeable.
+Au fur et à mesure que davantage de substituants sont ajoutés au cyclohexane, les interactions deviennent plus perceptibles.
+
+For example, let’s consider cis-1,3-dimethylcyclohexane.
+Par exemple, considérons le cis-1,3-diméthylcyclohexane.
+
+If both of the methyl groups are sticking up in the axial position, it’s strongly unfavorable.
+Si les deux groupes méthyle se dressent en position axiale, c'est fortement défavorable.
+
+Steric hindrance kicks in and they feel crowded and uncomfortable.
+L'encombrement stérique entre en jeu et ils se sentent encombrés et mal à l'aise.
+
+So most molecules in the sample will be in the chair conformation where the methyl groups are equatorial.
+Ainsi, la plupart des molécules de l'échantillon seront dans la conformation chaise où les groupes méthyle sont équatoriaux.
+
+But now let’s consider trans-1,3 dimethylcyclohexane.
+Mais considérons maintenant le trans-1,3 diméthylcyclohexane.
+
+In both chair conformations, there’s one axial methyl group and one equatorial methyl group.
+Dans les deux conformations de chaise, il y a un groupe méthyle axial et un groupe méthyle équatorial.
+
+So chair flips happen, but neither structure is energetically preferred over the other.
+Ainsi, les retournements de chaise se produisent, mais aucune des structures n'est énergiquement préférée à l'autre.
+
+There’s an axial methyl group in each one.
+Il y a un groupe méthyle axial dans chacun.
+
+As the groups on the chair get even bigger and chunkier, the chair conformation where the substituent is in the equatorial position becomes even more favored by molecules in a sample.
+Au fur et à mesure que les groupes sur la chaise deviennent encore plus gros et plus gros, la conformation de la chaise où le substituant est en position équatoriale devient encore plus favorisée par les molécules d'un échantillon.
+
+Neighboring atoms just get too crowded with too much diaxial strain in the axial position.
+Les atomes voisins deviennent trop encombrés avec trop de déformation diaxiale en position axiale.
+
+In fact, more than 99.9% of this compound has the tert-butyl group in the equatorial position!
+En fait, plus de 99,9 % de ce composé possède le groupe tert-butyle en position équatoriale !
+
+Now, we’ve been drawing a lot of chairs at this point, and, let’s be honest, you might want to flip a real chair.
+Maintenant, nous avons dessiné beaucoup de chaises à ce stade, et, soyons honnêtes, vous voudrez peut-être retourner une vraie chaise.
+
+I know that I do!
+Je sais que je le fais !
+
+But take a breath, and when you’re ready, there’s one more thing to learn.
+Mais respirez, et quand vous serez prêt, il y aura encore une chose à apprendre.
+
+Remember skeletal structures of cyclohexane?
+Vous souvenez-vous des structures squelettiques du cyclohexane ?
+
+They look like flat hexagons.
+Ils ressemblent à des hexagones plats.
+
+So we also have to think about how to convert a flat structure to a chair drawing, especially when there are two or more substituents.
+Nous devons donc également réfléchir à la manière de convertir une structure plate en dessin de chaise, en particulier lorsqu'il y a deux substituants ou plus.
+
+The first step is to see what the flat structure tells you.
+La première étape consiste à voir ce que la structure plate vous dit.
+
+In this molecule, for instance, we know the solid wedge means the methyl group is coming out toward us, and the dashed wedge means the isopropyl group is pointing into the screen.
+Dans cette molécule, par exemple, nous savons que le coin plein signifie que le groupe méthyle sort vers nous, et le coin en pointillé signifie que le groupe isopropyle pointe vers l'écran.
+
+So we have to make sure these groups stay on the correct side of the cyclohexane when we draw a chair.
+Nous devons donc nous assurer que ces groupes restent du bon côté du cyclohexane lorsque nous dessinons une chaise.
+
+The methyl needs to be above the plane, and the isopropyl needs to be below the plane.
+Le méthyle doit être au-dessus du plan et l'isopropyle doit être en dessous du plan.
+
+Next, we should number the carbons with the substituents just to help us keep track of them.
+Ensuite, nous devrions numéroter les carbones avec les substituants juste pour nous aider à les suivre.
+
+These numbers don’t necessarily have to be IUPAC-official, it’s just helpful when we switch from a hexagon to a weird beach chair.
+Ces chiffres ne doivent pas nécessairement être officiels de l'IUPAC, c'est juste utile lorsque nous passons d'un hexagone à une chaise de plage étrange.
+
+And speaking of weird beach chairs… it’s time to draw the base of the chair and number our carbon atoms.
+Et en parlant de chaises de plage bizarres… il est temps de dessiner la base de la chaise et de numéroter nos atomes de carbone.
+
+It’s really important that we number the same way we did on the flat cyclohexane.
+Il est vraiment important que nous numérotions de la même manière que nous l'avons fait sur le cyclohexane plat.
+
+So if we numbered clockwise on the flat drawing, our numbers need to be clockwise on the chair too.
+Donc, si nous numérotons dans le sens des aiguilles d'une montre sur le dessin à plat, nos numéros doivent également être dans le sens des aiguilles d'une montre sur la chaise.
+
+Then, we can stick in placeholder axial and equatorial bonds on the two carbons that have substituents.
+Ensuite, nous pouvons coller des liaisons axiales et équatoriales fictives sur les deux carbones qui ont des substituants.
+
+After that, we can use our reference numbers to know we should put the methyl on carbon 1 so it’s pointing above the plane
+Après cela, nous pouvons utiliser nos numéros de référence pour savoir que nous devons mettre le méthyle sur le carbone 1 afin qu'il pointe au-dessus du plan
+
+(and it’s higher than the hydrogen on the same carbon).
+(et qu'il soit plus élevé que l'hydrogène sur le même carbone).
+
+And we put the isopropyl on carbon 3 so it’s below the plane
+Et nous mettons l'isopropyle sur le carbone 3 donc c'est en dessous du plan
+
+(and it’s lower than the hydrogen on the same carbon).
+(et c'est plus bas que l'hydrogène sur le même carbone).
+
+The isopropyl group is in an axial position, but it’s way bigger than the methyl group.
+Le groupe isopropyle est en position axiale, mais il est bien plus gros que le groupe méthyle.
+
+When we flip a chair, all of the axial substituents become equatorial and vice-versa.
+Lorsque nous renversons une chaise, tous les substituants axiaux deviennent équatoriaux et vice-versa.
+
+So we need to do a chair flip here to get that chunky group in an equatorial position, which is what’s energetically preferred.
+Nous devons donc faire un retournement de chaise ici pour placer ce gros groupe dans une position équatoriale, ce qui est énergétiquement préféré.
+
+Let’s keep our eye on carbon 2 and pull it down.
+Gardons un œil sur le carbone 2 et abaissons-le.
+
+That forces carbon 3 up, and the isopropyl group moves into the equatorial position, but it’s still below the plane.
+Cela force le carbone 3 vers le haut et le groupe isopropyle se déplace vers la position équatoriale, mais il est toujours en dessous du plan.
+
+At the same time, the methyl group moves into the axial position as carbon 1 pushes up, and it stays above the plane.
+En même temps, le groupe méthyle se déplace vers la position axiale lorsque le carbone 1 monte et reste au-dessus du plan.
+
+The axial methyl group has a lot less diaxial strain than the chunky, branched isopropyl.
+Le groupe méthyle axial a beaucoup moins de déformation diaxiale que l'isopropyle ramifié et trapu.
+
+So this is our more stable chair!
+C'est donc notre chaise la plus stable !
+
+So the big takeaway in today’s episode is to practice!
+Donc, le gros point à retenir de l'épisode d'aujourd'hui est de s'entraîner !
+
+It helps to practice drawing cyclohexanes, but if you have a model, that’s even better because you can actually change the positions of all the hydrogens and see them go from equatorial to axial,
+Cela aide à s'entraîner à dessiner des cyclohexanes, mais si vous avez un modèle, c'est encore mieux car vous pouvez réellement changer les positions de tous les hydrogènes et les voir passer de l'équatorial à l'axial,
+
+and you also get to play with a toy, and see chemistry, like, more visibly!
+et vous pouvez également jouer avec un jouet et voir la chimie  , genre, plus visiblement !
+
+And it’s okay if all this chair stuff doesn’t make any sense immediately…
+Et ce n'est pas grave si tout ce truc de chaise n'a aucun sens immédiatement...
+
+it’s hard to wrap your head around and takes a lot of practice.
+c'est difficile de comprendre et cela demande beaucoup de pratique.
+
+But it’s really important to know our cyclohexanes.
+Mais il est vraiment important de connaître nos cyclohexanes.
+
+These organic molecules show up in carbohydrates, steroids, plant molecules, pesticides, and so many other things.
+Ces molécules organiques apparaissent dans les glucides, les stéroïdes, les molécules végétales, les pesticides et bien d'autres choses.
+
+And the conformation is so important to the function of these molecules.
+Et la conformation est si importante pour la fonction de ces molécules.
+
+Today we talked about:
+Aujourd'hui, nous avons parlé de :
+
+How rings pucker to relieve angular and torsional strain,
+comment les anneaux plissent pour soulager les contraintes angulaires et de torsion,
+
+How ring flips make axial substituents become equatorial,
+comment les retournements d'anneau font que les substituants axiaux deviennent équatoriaux,
+
+And how more bulky substituents should be equatorial when drawing cyclohexanes in chair conformations,
+et comment les substituants plus volumineux devraient être équatoriaux lors du dessin de cyclohexanes dans des conformations de chaise,
+
+because that’s more energetically favorable.
+car c'est plus énergétiquement favorable.
+
+Next episode we’ll be moving on to stereochemistry, which can also be tough, and dreaming about eating all the sugar we could want, which is pretty easy!
+Dans le prochain épisode, nous passerons à la stéréochimie, qui peut aussi être difficile, et rêverons de manger tout le sucre que nous pourrions vouloir, ce qui est assez facile !
+
+Thanks for watching this episode of Crash Course Organic Chemistry.
+Merci d'avoir regardé cet épisode de Crash Course Organic Chemistry.
+
+If you want to help keep all Crash Course free for everybody, forever, you can join  our community on Patreon.
+Si vous voulez aider à garder tous les cours intensifs gratuits pour tout le monde, pour toujours, vous pouvez rejoindre notre communauté sur Patreon.
+

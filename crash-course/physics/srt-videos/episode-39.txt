@@ -1,0 +1,492 @@
+Here's a question for you:
+Voici une question pour vous :
+
+If you shine a light on a coin that’s hanging in mid-air, what do you think its shadow will look like?
+si vous braquez une lumière sur une pièce de monnaie suspendue dans les airs, à quoi pensez-vous que son ombre ressemblera ?
+
+Do you think its shadow would have a bright
+spot of light right in the middle of it?
+Pensez-vous que son ombre aurait une
+tache de lumière brillante en plein milieu ?
+
+Because it would!
+Parce que ce serait le cas !
+
+It might seem counterintuitive, and 19th-century physicists thought so too, when they tried this experiment.
+Cela peut sembler contre-intuitif, et les physiciens du XIXe siècle le pensaient aussi lorsqu'ils ont tenté cette expérience.
+
+But that little spot in the middle of the coin's shadow helps prove one of the most important discoveries ever made in physics:
+Mais cette petite tache au milieu de l'ombre de la pièce aide à prouver l'une des découvertes les plus importantes jamais faites en physique : la
+
+Light is a wave.
+lumière est une onde.
+
+[Theme Music]
+[Thème musical]
+
+In the 17th and 18th centuries, most physicists thought that light was a particle, because it often behaved like one.
+Aux XVIIe et XVIIIe siècles, la plupart des physiciens pensaient que la lumière était une particule, car elle se comportait souvent comme telle.
+
+But over the years, some scientists began
+to think that it might actually be a wave.
+Mais au fil des ans, certains scientifiques ont commencé
+à penser qu'il pourrait en fait s'agir d'une vague.
+
+They did experiments to test this idea, and
+slowly, evidence started to build.
+Ils ont fait des expériences pour tester cette idée, et
+lentement, les preuves ont commencé à s'accumuler.
+
+We now know that light is both a particle and a wave – a strange-sounding concept that we'll explore more later on.
+Nous savons maintenant que la lumière est à la fois une particule et une onde - un concept étrange que nous explorerons plus tard.
+
+But the point is, light is a wave, and we know this because waves behave in very specific (and sometimes weird) ways.
+Mais le fait est que la lumière est une onde, et nous le savons parce que les ondes se comportent de manière très spécifique (et parfois étrange).
+
+One of the most important reasons that light acts the way it does is known as Huygens' Principle.
+L'une des raisons les plus importantes pour lesquelles la lumière agit comme elle le fait est connue sous le nom de principe de Huygens.
+
+Christian Huygens was a 17th-century Dutch
+physicist who believed light acted as a wave.
+Christian Huygens était un physicien hollandais du XVIIe siècle
+qui croyait que la lumière agissait comme une onde.
+
+He came up with a way to predict how a wave will spread out, and we still use his method today.
+Il a trouvé un moyen de prédire comment une vague se propagera, et nous utilisons toujours sa méthode aujourd'hui.
+
+Huygens’ Principle says that you can predict a wave’s position in the future by analyzing its current position.
+Le principe de Huygens dit que vous pouvez prédire la position d'une vague dans le futur en analysant sa position actuelle.
+
+All you have to do is think of each point on the wave as the source of its own, tinier wave.
+Tout ce que vous avez à faire est de considérer chaque point de l'onde comme la source de sa propre onde plus petite.
+
+See, Huygens knew that when you multiply the velocity of something by the amount of time it's traveled, you can figure out how far it went.
+Vous voyez, Huygens savait que lorsque vous multipliez la vitesse de quelque chose par le temps qu'il a parcouru, vous pouvez déterminer la distance parcourue.
+
+And he figured that this would also be true
+for each individual point on a wave.
+Et il a pensé que cela serait également vrai
+pour chaque point individuel sur une vague.
+
+Let's say you have a wave that's traveling 10 centimeters per second, and you want to know what the wave will look like after 2 seconds.
+Disons que vous avez une vague qui se déplace à 10 centimètres par seconde et que vous voulez savoir à quoi ressemblera la vague après 2 secondes.
+
+To use Huygens' principle, you first draw
+a bunch of little points along a wave.
+Pour utiliser le principe de Huygens, vous dessinez d'abord
+un tas de petits points le long d'une vague.
+
+Then, you draw a half-circle around each point, in front of the wave, with a radius equal to the wave's velocity multiplied by time – so, 20 centimeters.
+Ensuite, vous dessinez un demi-cercle autour de chaque point, devant l'onde, avec un rayon égal à la vitesse de l'onde multipliée par le temps, soit 20 centimètres.
+
+Each of those little half-circles is called
+a wavelet.
+Chacun de ces petits demi-cercles s'appelle
+une ondelette.
+
+Finally, you draw a curve that's tangent to each wavelet, meaning that it touches each half circle at exactly one point.
+Enfin, vous dessinez une courbe tangente à chaque ondelette, ce qui signifie qu'elle touche chaque demi-cercle en un point exactement.
+
+That line shows the location of the wave after
+two seconds!
+Cette ligne montre l'emplacement de la vague après
+deux secondes !
+
+So a two-dimensional wave traveling through
+empty space will look pretty simple;
+Ainsi, une onde bidimensionnelle voyageant dans un
+espace vide semblera assez simple ;
+
+it's basically an expanding circle.
+c'est essentiellement un cercle en expansion.
+
+But things get a little more complicated when
+a wave hits an obstacle.
+Mais les choses se compliquent un peu
+lorsqu'une vague heurte un obstacle.
+
+For example, let's apply Huygens' principle to a
+wave that moves past the edge of a flat object.
+Par exemple, appliquons le principe de Huygens à une
+onde qui dépasse le bord d'un objet plat.
+
+When the wave hits the obstacle, part of it
+gets blocked.
+Lorsque la vague rencontre l'obstacle, une partie de celui-ci
+est bloquée.
+
+But the part that isn’t blocked keeps moving past the edge, and it follows Huygens' principle, forming wavelets.
+Mais la partie qui n'est pas bloquée continue de dépasser le bord, et elle suit le principe de Huygens, formant des ondelettes.
+
+The wavelets from the part of the wave near
+the edge will curve behind the edge.
+Les ondelettes de la partie de l'onde proche
+du bord se courberont derrière le bord.
+
+And when you draw a line to connect all the wavelets, you end up with a line that bends around the edge.
+Et lorsque vous tracez une ligne pour relier toutes les ondelettes, vous vous retrouvez avec une ligne qui se courbe autour du bord.
+
+In the same way, when a wave moves through a slit that's roughly the same width as its wavelength, it travels past the slit in a circular curve that spreads outward.
+De la même manière, lorsqu'une onde se déplace à travers une fente qui a à peu près la même largeur que sa longueur d'onde, elle passe devant la fente selon une courbe circulaire qui s'étend vers l'extérieur.
+
+When waves are re-shaped by obstacles, that's
+called diffraction.
+Lorsque les ondes sont remodelées par des obstacles, cela
+s'appelle la diffraction.
+
+And it's very different from what a stream
+of particles would do.
+Et c'est très différent de ce que ferait un flux
+de particules.
+
+For example, if you rolled a bunch of marbles straight through a doorway, you'd expect them all to hit the far wall directly opposite the doorway.
+Par exemple, si vous faites rouler un tas de billes directement à travers une porte, vous vous attendez à ce qu'elles frappent toutes le mur du fond juste en face de la porte.
+
+They wouldn't hit the wall in places to the
+right or to the left of the door.
+Ils ne heurteraient pas le mur par endroits à
+droite ou à gauche de la porte.
+
+But when waves diffract, they often spread
+outward behind obstacles.
+Mais lorsque les ondes se diffractent, elles se propagent
+souvent derrière des obstacles.
+
+Diffraction is one of the reasons there's a bright spot in the middle of the shadow when you shine a light on a round object.
+La diffraction est l'une des raisons pour lesquelles il y a un point lumineux au milieu de l'ombre lorsque vous braquez une lumière sur un objet rond.
+
+The other reason is interference.
+L'autre raison est l'ingérence.
+
+In our lesson on traveling waves, we described
+what happens when waves run into each other:
+Dans notre leçon sur les ondes progressives, nous avons décrit
+ce qui se passe lorsque les ondes se heurtent :
+
+they interfere in one of two ways.
+elles interfèrent de deux manières.
+
+Waves interfere constructively when the crests of both waves end up in the same spot, and so do their troughs.
+Les vagues interfèrent de manière constructive lorsque les crêtes des deux vagues se retrouvent au même endroit, tout comme leurs creux.
+
+The waves essentially combine into one wave that has a larger amplitude – with higher crests and lower troughs – than either of the two waves did before.
+Les vagues se combinent essentiellement en une seule vague qui a une plus grande amplitude - avec des crêtes plus hautes et des creux plus bas - que l'une ou l'autre des deux vagues auparavant.
+
+But waves interfere DEstructively when one wave's crest run into the other wave's trough, and vice versa.
+Mais les vagues interfèrent DEstructivement lorsque la crête d'une vague se heurte au creux de l'autre vague, et vice versa.
+
+In that case, the combined wave has a lower
+amplitude than either of the waves did before.
+Dans ce cas, l'onde combinée a une
+amplitude inférieure à celle de l'une ou l'autre des ondes auparavant.
+
+With perfectly destructive interference, the waves actually disappear completely; they flatten out.
+Avec des interférences parfaitement destructrices, les ondes disparaissent en fait complètement ;  ils s'aplatissent.
+
+Together, diffraction and interference help explain the results of the famous double-slit experiment conducted by English physicist Thomas Young in 1801.
+Ensemble, la diffraction et l'interférence aident à expliquer les résultats de la célèbre expérience à double fente menée par le physicien anglais Thomas Young en 1801.
+
+Young covered a window so that only a very narrow stream of sunlight passed through a slit into the room.
+Young couvrait une fenêtre de sorte que seul un très étroit flux de lumière solaire traversait une fente dans la pièce.
+
+Then, he positioned a plate with two more tiny slits cut into it, spaced very close together so that the single beam of sunlight passed through them.
+Ensuite, il a positionné une plaque avec deux autres petites fentes découpées dedans, espacées très proches l'une de l'autre de sorte que le seul rayon de soleil les traverse.
+
+Finally, he placed a screen behind the slits.
+Enfin, il a placé un écran derrière les fentes.
+
+If light were just a stream of particles, you'd expect to see two bright lines on the screen, behind the two slits.
+Si la lumière n'était qu'un flux de particules, vous vous attendriez à voir deux lignes brillantes sur l'écran, derrière les deux fentes.
+
+But that's not what Young saw.
+Mais ce n'est pas ce que Young a vu.
+
+His screen had many lines on it.
+Son écran comportait de nombreuses lignes.
+
+There was a bright line in the middle, then
+more bright lines above and below it.
+Il y avait une ligne brillante au milieu, puis d'
+autres lignes brillantes au-dessus et en dessous.
+
+This pattern is called a diffraction pattern, and it comes from the diffraction and interference of light waves.
+Ce motif est appelé motif de diffraction et provient de la diffraction et de l'interférence des ondes lumineuses.
+
+Light waves interfere constructively when
+they’re lined up exactly right.
+Les ondes lumineuses interfèrent de manière constructive
+lorsqu'elles sont parfaitement alignées.
+
+For example, to form that line on the screen between the two slits the waves from each slit travel exactly the same distance.
+Par exemple, pour former cette ligne sur l'écran entre les deux fentes, les ondes de chaque fente parcourent exactement la même distance.
+
+So they line up, interfere constructively, which increases their amplitude to create a bright spot.
+Alors ils s'alignent, interfèrent de manière constructive, ce qui augmente leur amplitude pour créer un point lumineux.
+
+But in other places on the screen, there’s a difference between the distances traveled by each wave.
+Mais à d'autres endroits sur l'écran, il y a une différence entre les distances parcourues par chaque vague.
+
+This is called the path difference.
+C'est ce qu'on appelle la différence de chemin.
+
+So light waves will interfere either constructively or destructively, depending on the size of this path difference.
+Ainsi, les ondes lumineuses interféreront de manière constructive ou destructive, selon la taille de cette différence de chemin.
+
+When the waves are an exact number of wavelengths apart, the crests and troughs will line up – creating constructive interference and a bright line.
+Lorsque les vagues sont séparées d'un nombre exact de longueurs d'onde, les crêtes et les creux s'alignent, créant une interférence constructive et une ligne lumineuse.
+
+But when the waves are shifted by exactly half a wavelength — or by 1.5 wavelengths, or 2.5, and so on – light rays will interfere DEstructively.
+Mais lorsque les ondes sont décalées d'exactement une demi-longueur d'onde - ou de 1,5 longueur d'onde, ou de 2,5, etc. - les rayons lumineux interfèrent de manière DEstructive.
+
+By using trigonometry, you can calculate the
+path difference in a slit experiment:
+En utilisant la trigonométrie, vous pouvez calculer la
+différence de chemin dans une expérience de fente :
+
+It’s equal to the distance between the center
+of each slit, d,
+elle est égale à la distance entre le centre
+de chaque fente, d,
+
+multiplied by the sine of the angle between the point on the screen and the straight line between the slits and the screen.
+multipliée par le sinus de l'angle entre le point sur l'écran et la ligne droite entre les fentes et  l'écran. 
+
+Now, since light is a wave, it has the same
+properties as other waves.
+Or, puisque la lumière est une onde, elle a les mêmes
+propriétés que les autres ondes.
+
+Intensity, for example, is the energy transported
+by the light per unit area, over time.
+L'intensité, par exemple, est l'énergie transportée
+par la lumière par unité de surface, dans le temps.
+
+Essentially, intensity is the brightness of
+the light.
+Essentiellement, l'intensité est la luminosité de
+la lumière.
+
+As with other waves, intensity is proportional
+to the amplitude squared.
+Comme pour les autres ondes, l'intensité est proportionnelle
+à l'amplitude au carré.
+
+So if you double the amplitude of a wave's
+peaks, it gets four times as bright.
+Donc, si vous doublez l'amplitude des pics d'une onde
+, elle devient quatre fois plus brillante.
+
+If you triple the amplitude, it gets nine
+times as bright.
+Si vous triplez l'amplitude, il devient neuf
+fois plus lumineux.
+
+When light passes through two slits like in the double-slit experiment, the line in the center will be the most intense.
+Lorsque la lumière passe à travers deux fentes comme dans l'expérience à double fente, la ligne au centre sera la plus intense.
+
+And the farther the lines get from the center, the less intense, and therefore, the less bright, they'll be.
+Et plus les lignes s'éloignent du centre, moins elles seront intenses et donc moins lumineuses.
+
+Like other waves, light also has a frequency
+and wavelength.
+Comme les autres ondes, la lumière a aussi une fréquence
+et une longueur d'onde.
+
+These determine whether light is visible,
+and if so, what its color is.
+Ceux-ci déterminent si la lumière est visible
+et, si oui, quelle est sa couleur.
+
+Light with a higher frequency, and therefore a shorter wavelength, is on the bluer side of the spectrum.
+La lumière avec une fréquence plus élevée, et donc une longueur d'onde plus courte, se trouve du côté le plus bleu du spectre.
+
+Light with a lower frequency and longer wavelength
+is on the redder side of the spectrum.
+La lumière avec une fréquence plus basse et une longueur d'onde plus longue
+se trouve du côté le plus rouge du spectre.
+
+White light – like from sunlight – is actually
+all of the different colors of light combined.
+La lumière blanche - comme celle de la lumière du soleil - est en fait l'
+ensemble des différentes couleurs de lumière combinées.
+
+When white light passes through the two slits in the experiment, they interfere in a way that allows you to see this rainbow of colors in the lines on the screen.
+Lorsque la lumière blanche traverse les deux fentes de l'expérience, elles interfèrent d'une manière qui vous permet de voir cet arc-en-ciel de couleurs dans les lignes à l'écran.
+
+But the double-slit experiment isn't the only situation where light creates a diffraction pattern.
+Mais l'expérience à double fente n'est pas la seule situation où la lumière crée un motif de diffraction.
+
+Diffraction will happen when light passes
+through a single slit, too,
+La diffraction se produira également lorsque la lumière passe à
+travers une seule fente,
+
+producing a pattern that looks like a series of lines
+that get dimmer the farther you get from the center.
+produisant un motif qui ressemble à une série de lignes
+qui s'estompent à mesure que vous vous éloignez du centre.
+
+The light will be brightest on the part of the
+screen that's opposite the middle of the slit.
+La lumière sera la plus brillante sur la partie de l'
+écran opposée au milieu de la fente.
+
+That bright line is created by the rays that go straight through the slit, perpendicular to the plate.
+Cette ligne lumineuse est créée par les rayons qui traversent la fente, perpendiculairement à la plaque.
+
+They have a path difference of zero.
+Ils ont une différence de chemin de zéro.
+
+But to reach the other points on the screen, different rays of light travel different distances, depending on their angle going through the slit.
+Mais pour atteindre les autres points de l'écran, différents rayons lumineux parcourent des distances différentes, selon leur angle traversant la fente.
+
+And again, whether the light interferes constructively
+or destructively depends on how the rays line up.
+Et encore une fois, que la lumière interfère de manière constructive
+ou destructive dépend de la façon dont les rayons s'alignent.
+
+For a single slit, the path difference is between the light coming from the very top of the slit and the light coming from the very bottom of the slit.
+Pour une seule fente, la différence de chemin est entre la lumière provenant du haut de la fente et la lumière provenant du bas de la fente.
+
+The path difference is equal to the width of the slit, D, times the sine of the angle between the point on the screen and a line straight from the slit to the screen.
+La différence de marche est égale à la largeur de la fente, D, multipliée par le sinus de l'angle entre le point sur l'écran et une ligne droite allant de la fente à l'écran.
+
+If the path difference is one wavelength long, then the path difference between the light from the top of the slit and the light from the center of the slit is only half a wavelength.
+Si la différence de chemin est d'une longueur d'onde, alors la différence de chemin entre la lumière du haut de la fente et la lumière du centre de la fente n'est que d'une demi-longueur d'onde.
+
+The same holds true for the path difference between the light from the center of the slit and the bottom.
+Il en va de même pour la différence de chemin entre la lumière du centre de la fente et celle du bas.
+
+So a total path difference of a full wavelength means that for each light ray coming through the slit at that angle, there's a corresponding light ray that's shifted by half a wavelength.
+Ainsi, une différence de chemin totale d'une longueur d'onde complète signifie que pour chaque rayon lumineux traversant la fente à cet angle, il y a un rayon lumineux correspondant qui est décalé d'une demi-longueur d'onde.
+
+And remember: when waves of light are shifted by half a wavelength, that means one wave’s crests line up with the other’s trough, causing destructive interference.
+Et rappelez-vous : lorsque les ondes lumineuses sont décalées d'une demi-longueur d'onde, cela signifie que les crêtes d'une onde s'alignent avec le creux de l'autre, provoquant des interférences destructrices.
+
+So, for a single slit, when the total path
+difference is equal to a full wavelength,
+Ainsi, pour une seule fente, lorsque la
+différence de chemin totale est égale à une longueur d'onde complète,
+
+you end up with pairs of waves that cancel
+each other out and make a dark line.
+vous vous retrouvez avec des paires d'ondes qui
+s'annulent et forment une ligne sombre.
+
+Now, constructive interference through a single
+slit works a little differently.
+Maintenant, l'interférence constructive à travers une seule
+fente fonctionne un peu différemment.
+
+When the path difference between the top and bottom of the slit is equal to 1.5 wavelengths – or 2.5 wavelengths, and so on – there will be a bright line.
+Lorsque la différence de chemin entre le haut et le bas de la fente est égale à 1,5 longueur d'onde - ou 2,5 longueurs d'onde, et ainsi de suite - il y aura une ligne brillante.
+
+That’s where the rays interfere constructively.
+C'est là que les rayons interfèrent de manière constructive.
+
+As with the previous example, this also has to do with the path difference between individual rays passing through the single slit.
+Comme dans l'exemple précédent, cela a également à voir avec la différence de chemin entre les rayons individuels traversant la fente unique.
+
+Say the light is angled so that the total path difference between the top and bottom of the slit is 1.5 wavelengths.
+Disons que la lumière est inclinée de sorte que la différence de chemin totale entre le haut et le bas de la fente soit de 1,5 longueur d'onde.
+
+The rays passing through the middle third and bottom third of the slit will be half a wavelength apart, so they'll cancel each other out.
+Les rayons traversant le tiers médian et le tiers inférieur de la fente seront séparés d'une demi-longueur d'onde, ils s'annuleront donc mutuellement.
+
+But that top third won't cancel with anything –
+instead, it will reach the screen, creating a bright line.
+Mais ce tiers supérieur ne s'annulera avec rien -
+au lieu de cela, il atteindra l'écran, créant une ligne lumineuse.
+
+So, how do diffraction and interference create the
+phenomenon we see in the shadow of the coin?
+Alors, comment la diffraction et les interférences créent-elles le
+phénomène que nous voyons dans l'ombre de la pièce ?
+
+Diffraction makes the light waves curve around
+the coin’s edges.
+La diffraction fait courber les ondes lumineuses autour
+des bords de la pièce.
+
+When these diffracted waves run into each
+other, they interfere.
+Lorsque ces ondes diffractées se
+rencontrent, elles interfèrent.
+
+The places where the waves interfere destructively
+become shadows.
+Les endroits où les ondes interfèrent de manière destructrice
+deviennent des ombres.
+
+That's what makes those little ripples spreading
+outward from the circular shadow.
+C'est ce qui fait que ces petites ondulations se propagent à
+partir de l'ombre circulaire.
+
+But the places where the waves interfere constructively
+become bright spots.
+Mais les endroits où les ondes interfèrent de manière constructive
+deviennent des points lumineux.
+
+That’s why there's a bright spot right in
+the middle of the coin's shadow!
+C'est pourquoi il y a un point lumineux en
+plein milieu de l'ombre de la pièce !
+
+At that point, the waves of light that diffracted around the edges of the coin have all traveled the same distance.
+À ce stade, les ondes lumineuses qui se sont diffractées sur les bords de la pièce ont toutes parcouru la même distance.
+
+So the crests of different light waves combine, and so do the troughs, forming one wave with a higher amplitude.
+Ainsi, les crêtes des différentes ondes lumineuses se combinent, ainsi que les creux, formant une onde avec une amplitude plus élevée.
+
+And a bright spot.
+Et un point lumineux.
+
+Today, you learned about the wave theory of
+light.
+Aujourd'hui, vous avez découvert la théorie ondulatoire de la
+lumière.
+
+We talked about Huygens' principle,
+Nous avons parlé du principe de Huygens
+
+and described how diffraction and interference
+lead to the results of the double-slit experiment.
+et décrit comment la diffraction et l'interférence
+conduisent aux résultats de l'expérience à double fente.
+
+We also explored the diffraction pattern from
+a single slit.
+Nous avons également exploré le diagramme de diffraction d'
+une seule fente.
+
+Finally, we explained the diffraction pattern
+for a disk.
+Enfin, nous avons expliqué le diagramme de diffraction
+pour un disque.
+
+Crash Course Physics is produced in association
+with PBS Digital Studios.
+Crash Course Physics est produit en association
+avec PBS Digital Studios.
+
+You can head over to their channel and check
+out a playlist of the latest episodes from shows like:
+Vous pouvez vous rendre sur leur chaîne et
+consulter une liste de lecture des derniers épisodes d'émissions telles que :
+
+PBS Space Time, Blank on Blank, and BBQ With
+Franklin.
+PBS Space Time, Blank on Blank et BBQ With
+Franklin.
+
+This episode of Crash Course was filmed in
+the Doctor Cheryl C. Kinney Crash Course Studio
+Cet épisode de Crash Course a été filmé dans
+le studio Doctor Cheryl C. Kinney Crash Course
+
+with the help of these amazing people and our
+equally amazing graphics team, is Thought Cafe.
+avec l'aide de ces personnes incroyables et de notre
+équipe graphique tout aussi incroyable, Thought Cafe.
+

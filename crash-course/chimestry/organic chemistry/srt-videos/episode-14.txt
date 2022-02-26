@@ -1,0 +1,471 @@
+You can review content from Crash Course Organic Chemistry with the Crash Course app, available now for Android and iOS devices.
+Vous pouvez consulter le contenu de Crash Course Organic Chemistry avec l'application Crash Course, disponible dès maintenant pour les appareils Android et iOS.
+
+Hi! I’m Deboki Chakravarti and welcome to Crash Course Organic Chemistry!
+Salut!  Je suis Deboki Chakravarti et bienvenue au cours intensif de chimie organique !
+
+The Australian Blue Mountains and the American Blue Ridge Mountains both get their colorful names from a blue haze that blankets them on hot summer days.
+Les Blue Mountains australiennes et les Blue Ridge Mountains américaines tirent toutes deux leurs noms colorés d'une brume bleue qui les recouvre lors des chaudes journées d'été.
+
+This haze comes from small molecules that scatter sunlight, specifically small-wavelength blue light.
+Cette brume provient de petites molécules qui diffusent la lumière du soleil, en particulier la lumière bleue de petite longueur d'onde.
+
+One of these small molecules is isoprene, a volatile, biogenic organic compound…
+L'une de ces petites molécules est l'isoprène, un composé organique volatil et biogénique…
+
+or, in simpler terms, an organic chemical made by living things, in this case, trees, that readily evaporates into the air.
+ou, en termes plus simples, un produit chimique organique fabriqué par des êtres vivants, dans ce cas, des arbres, qui s'évapore facilement dans l'air.
+
+Like many alkenes, isoprene's pi electrons in double bonds make it a reactive molecule.
+Comme de nombreux alcènes, les électrons pi de l'isoprène dans les doubles liaisons en font une molécule réactive.
+
+It reacts with ozone, nitrogen dioxides, and other atmospheric pollutants -- not always in good ways.
+Il réagit avec l'ozone, les dioxydes d'azote et d'autres polluants atmosphériques, pas toujours de la bonne manière.
+
+And isoprene polymerizes to make a major component of natural rubber.
+Et l'isoprène polymérise pour devenir un composant majeur du caoutchouc naturel.
+
+The reactions we’ll learn over the next few episodes will let us add different things to alkenes.
+Les réactions que nous apprendrons au cours des prochains épisodes nous permettront d'ajouter différentes choses aux alcènes.
+
+But first, we have to revisit some alkene nomenclature and another familiar friend:
+Mais d'abord, nous devons revoir une nomenclature des alcènes et un autre ami familier : les
+
+carbocations, those molecules with positively charged carbon atoms.
+carbocations, ces molécules avec des atomes de carbone chargés positivement.
+
+[Theme Music]
+[Thème musical]
+
+An alkene is a molecule containing carbon-carbon double bonds.
+Un alcène est une molécule contenant des doubles liaisons carbone-carbone.
+
+Unlike single bonds, double bonds are rigid, they can’t easily rotate because the pi bond would need to break first and that costs energy.
+Contrairement aux liaisons simples, les doubles liaisons sont rigides, elles ne peuvent pas facilement tourner car la liaison pi devrait d'abord se rompre et cela coûte de l'énergie.
+
+In episode 2, we talked briefly about cis-and trans-isomers of alkenes.
+Dans l'épisode 2, nous avons brièvement parlé des isomères cis et trans des alcènes.
+
+As a refresher, this naming system helps us describe two different geometric isomers around a double bond.
+Pour rappel, ce système de dénomination nous aide à décrire deux isomères géométriques différents autour d'une double liaison.
+
+For example, let's look at pent-2-ene.
+Par exemple, regardons le pent-2-ène.
+
+If the methyl and ethyl groups are on opposite sides around the double bond, we call it trans-pent-2-ene.
+Si les groupes méthyle et éthyle sont sur des côtés opposés autour de la double liaison, nous l'appelons trans-pent-2-ène.
+
+And if the methyl and ethyl groups are on the same side around the double bond, we call it cis-pent-2-ene.
+Et si les groupes méthyle et éthyle sont du même côté autour de la double liaison, nous l'appelons cis-pent-2-ène.
+
+But, in the context of alkenes, cis- and trans- is an old school naming system that only works when the double-bond carbons are attached to two hydrogens and two R-groups.
+Mais, dans le contexte des alcènes, cis- et trans- est un système de dénomination à l'ancienne qui ne fonctionne que lorsque les carbones à double liaison sont attachés à deux hydrogènes et deux groupes R.
+
+If we consider something like 2-chloropent-2-ene, the cis- and trans- system fails to help us accurately communicate where the groups are.
+Si nous considérons quelque chose comme le 2-chloropent-2-ène, le système cis et trans ne nous aide pas à communiquer avec précision où se trouvent les groupes.
+
+So we need a better way!
+Nous avons donc besoin d'un meilleur moyen !
+
+Thankfully, organic chemists have us covered.
+Heureusement, les chimistes organiques nous ont couvert.
+
+Similar to assigning R and S enantiomers of molecules, we can prioritize the groups on each carbon of the double bond, using the rule that higher atomic number means higher priority.
+Semblable à l'attribution des énantiomères R et S des molécules, nous pouvons hiérarchiser les groupes sur chaque carbone de la double liaison, en utilisant la règle selon laquelle un numéro atomique plus élevé signifie une priorité plus élevée.
+
+In this first isomer of 2-chloropent-2-ene, the carbon on the left side of the double bond is attached to an ethyl group and a hydrogen atom.
+Dans ce premier isomère du 2-chloropent-2-ène, le carbone du côté gauche de la double liaison est lié à un groupe éthyle et à un atome d'hydrogène.
+
+The ethyl wins priority, because its carbon has a higher atomic number than hydrogen.
+L'éthyle est prioritaire, car son carbone a un numéro atomique supérieur à celui de l'hydrogène.
+
+The carbon on the right side of the double bond is attached to a chlorine and a methyl group.
+Le carbone du côté droit de la double liaison est lié à un chlore et à un groupe méthyle.
+
+Here the chlorine wins priority.
+Ici, le chlore gagne la priorité.
+
+If we mark our priority winners and losers, we can see that high priority groups on each double-bonded carbon are on the same side of the double bond.
+Si nous marquons nos gagnants et nos perdants prioritaires, nous pouvons voir que les groupes hautement prioritaires sur chaque carbone à double liaison sont du même côté de la double liaison.
+
+So this is the Z isomer, which comes from the German word zusammen for together.
+C'est donc l'isomère Z, qui vient du mot allemand zusammen pour ensemble.
+
+Or as I remember it: on ze Zame Zide.
+Ou si je m'en souviens: on ze Zame Zide.
+
+So we have (Z)-2-chloropent-2-ene.
+Nous avons donc (Z)-2-chloropent-2-ène.
+
+The other isomer of 2-chloropent-2-ene has high priority groups on opposite sides with respect to the double-bonded carbon atoms.
+L'autre isomère du 2-chloropent-2-ène a des groupes hautement prioritaires sur les côtés opposés par rapport aux atomes de carbone à double liaison.
+
+So this is the E isomer, derived from the German word entgegen or opposite.
+Il s'agit donc de l'isomère E, dérivé du mot allemand entgegen ou opposé.
+
+This isn’t quite as clever, but I remember it as Ecross for across.
+Ce n'est pas aussi intelligent, mais je m'en souviens comme Ecross pour across.
+
+So it's (E)-2-chloropent-2-ene.
+Il s'agit donc de (E)-2-chloropent-2-ène.
+
+Assigning priorities isn't always so easy, so if we have a tie, we need to keep hopping along until one group wins.
+Attribuer des priorités n'est pas toujours si facile, donc si nous avons une égalité, nous devons continuer à avancer jusqu'à ce qu'un groupe gagne.
+
+For example, in this molecule, the left-hand carbon of the double bond is straightforward.
+Par exemple, dans cette molécule, le carbone de gauche de la double liaison est simple.
+
+Bromine wins priority over the methyl group.
+Le brome a la priorité sur le groupe méthyle.
+
+But on the right-hand carbon, the first position gives us the same thing: a carbon with two hydrogens attached.
+Mais sur le carbone de droite, la première position nous donne la même chose : un carbone avec deux hydrogènes attachés.
+
+A tie!
+Une cravate! 
+
+So we have to keep going and compare the next two atoms.
+Nous devons donc continuer et comparer les deux atomes suivants.
+
+There, we can see that the triple-bonded carbon wins priority, because it's like 3 carbons at once compared to 1 carbon on the other side.
+Là, nous pouvons voir que le carbone à triple liaison gagne la priorité, car c'est comme 3 carbones à la fois par rapport à 1 carbone de l'autre côté.
+
+Now we can see our priority winners are on the Zame Zide, so it's a Z-isomer, and we can call this guy (Z)-5-bromo-4-ethylhex-4-en-1-yne.
+Maintenant, nous pouvons voir que nos gagnants prioritaires sont sur le Zame Zide, donc c'est un isomère Z, et nous pouvons appeler ce type (Z)-5-bromo-4-ethylhex-4-en-1-yne.
+
+Returning to our first example, trans-pent-2-ene can be more precisely called E-pent-2-ene, and the cis isomer is the Z-alkene.
+Revenant à notre premier exemple, le trans-pent-2-ène peut être plus précisément appelé E-pent-2-ène, et l'isomère cis est le Z-alcène.
+
+And if one side of the alkene has two of the same group, like 2-methylpent-2-ene here, we don’t need to use E and Z.
+Et si un côté de l'alcène a deux membres du même groupe, comme le 2-méthylpent-2-ène ici, nous n'avons pas besoin d'utiliser E et Z.
+
+So now we know how to name alkenes a little bit better, and we can start playing around with some reaction chemistry.
+Alors maintenant, nous savons comment nommer un peu mieux les alcènes, et nous  peut commencer à jouer avec une chimie de réaction.
+
+Many of the chemical reactions associated with alkenes are addition reactions,
+De nombreuses réactions chimiques associées aux alcènes sont des réactions d'addition,
+
+which means the pi electrons are attracted to electrophiles, and groups get added to the carbons on each side of the double bond.
+ce qui signifie que les électrons pi sont attirés par les électrophiles et que des groupes sont ajoutés aux carbones de chaque côté de la double liaison.
+
+In episode 12, we saw what happens when we mix hydrogen bromide and cis-but-2-ene.
+Dans l'épisode 12, nous avons vu ce qui se passe lorsque nous mélangeons du bromure d'hydrogène et du cis-but-2-ène.
+
+It's a pretty straightforward nucleophilic attack where the alkene double bond attacks a proton, and one of the previously double-bonded carbons gets a bromine.
+C'est une attaque nucléophile assez simple où la double liaison alcène attaque un proton, et l'un des carbones précédemment à double liaison obtient un brome.
+
+No matter which carbon bonds to the bromine, the product is the same.
+Quel que soit le carbone qui se lie au brome, le produit est le même.
+
+But things aren't usually so simple.
+Mais les choses ne sont généralement pas si simples.
+
+For instance, if we add hydrogen bromide to 2-methylbut-2-ene, which isn't symmetrical, we can potentially make two different products.
+Par exemple, si nous ajoutons du bromure d'hydrogène au 2-méthylbut-2-ène, qui n'est pas symétrique, nous pouvons potentiellement fabriquer deux produits différents.
+
+Here's the catch though -- when we do this reaction in a lab, we only make one of these two products.
+Voici le hic cependant - lorsque nous faisons cette réaction dans un laboratoire, nous ne fabriquons qu'un seul de ces deux produits.
+
+This seemingly-mysterious observation actually has a perfectly good explanation.
+Cette observation apparemment mystérieuse a en fait une explication parfaitement bonne.
+
+It's because of the stability of different carbocations, which are positively charged carbon atoms.
+C'est à cause de la stabilité des différents carbocations, qui sont des atomes de carbone chargés positivement.
+
+To see where carbocations come in, we have to break this reaction into steps.
+Pour voir où les carbocations entrent en jeu, nous devons diviser cette réaction en étapes.
+
+Remember that hydrogen bromide is a strong acid, so it's fully dissociated into H+ and Br- ions.
+N'oubliez pas que le bromure d'hydrogène est un acide fort, il est donc entièrement dissocié en ions H+ et Br-.
+
+Most textbooks show an attack on an undissociated molecule of hydrogen bromide, so that’s how we’ll show it in this series.
+La plupart des manuels montrent une attaque contre une molécule non dissociée de bromure d'hydrogène, c'est ainsi que nous allons le montrer dans cette série.
+
+So first, the alkene initiates a nucleophilic attack on the proton formed by the dissociation of hydrogen bromide --
+Donc, d'abord, l'alcène lance une attaque nucléophile sur le proton formé par la dissociation du bromure d'hydrogène - en
+
+donating a pair of electrons, snagging the proton, and leaving the remaining carbon of the double bond short two electrons.
+donnant une paire d'électrons, en accrochant le proton et en laissant le carbone restant de la double liaison court deux électrons.
+
+This creates a positive charge: a carbocation.
+Cela crée une charge positive : un carbocation.
+
+There are two possible carbocations that can form here.
+Il y a deux carbocations possibles qui peuvent se former ici.
+
+One where the positive charge ends up on a carbon surrounded by 3 other carbons, called a tertiary carbocation.
+Celui où la charge positive se retrouve sur un carbone entouré de 3 autres carbones, appelé carbocation tertiaire.
+
+And one where the positive charge is on a carbon surrounded by 2 carbons and a hydrogen, called a secondary carbocation.
+Et une où la charge positive est sur un carbone entouré de 2 carbones et d'un hydrogène, appelé carbocation secondaire.
+
+The next step is to form the product: a bromide nucleophilic attack on the carbocation, to form a bond.
+L'étape suivante consiste à former le produit : une attaque nucléophile du bromure sur le carbocation, pour former une liaison.
+
+Where the carbocation forms ultimately determines what product we get.
+L'endroit où se forme le carbocation détermine finalement le produit que nous obtenons.
+
+And for some reason the tertiary carbocation is what forms, because that's what leads to our observed product!
+Et pour une raison quelconque, le carbocation tertiaire est ce qui se forme, car c'est ce qui conduit à notre produit observé !
+
+So, I don't know about you, but I'm wondering: why does this reaction happen this way?
+Donc, je ne sais pas pour vous, mais je me demande : pourquoi cette réaction se produit-elle de cette façon ?
+
+Well, we describe carbons with more carbon-carbon bonds as more substituted and more stable.
+Eh bien, nous décrivons les carbones avec plus de liaisons carbone-carbone comme plus substitués et plus stables.
+
+If we were to draw four similar carbocations, as we replace carbon-carbon bonds with carbon-hydrogen bonds, the carbocation becomes less and less stable.
+Si nous devions dessiner quatre carbocations similaires, au fur et à mesure que nous remplaçons les liaisons carbone-carbone par des liaisons carbone-hydrogène, le carbocation devient de moins en moins stable.
+
+In other words, a tertiary carbocation is more stable than a secondary one, which is more stable than a primary one, which is more stable than a plain ol' methyl carbocation!
+En d'autres termes, un carbocation tertiaire est plus stable qu'un carbocation secondaire, qui est plus stable qu'un carbocation primaire, qui est plus stable qu'un simple carbocation de méthyle !
+
+The more substituted carbocation is stabler than a less substituted one.
+Le carbocation le plus substitué est plus stable qu'un carbocation moins substitué.
+
+This pattern in stability is caused by two things: an inductive effect and hyperconjugation.
+Ce modèle de stabilité est causé par deux choses : un effet inductif et une hyperconjugaison.
+
+The inductive effect is where the electron density is sort of spread out through the sigma bonds to stabilize the positive charge.
+L'effet inductif est l'endroit où la densité électronique est en quelque sorte répartie à travers les liaisons sigma pour stabiliser la charge positive.
+
+It's like if you're trying to balance on a unicycle.
+C'est comme si vous essayiez de vous tenir en équilibre sur un monocycle.
+
+The carbon-carbon bonds are your friends with their feet firmly on the ground, who can stick out a hand (or some electrons in bonds) for support.
+Les liaisons carbone-carbone sont vos amis avec leurs pieds fermement sur le sol, qui peuvent tendre la main (ou quelques électrons dans les liaisons) pour se soutenir.
+
+However, the carbon-hydrogen bonds are friends that aren't strong enough to help.
+Cependant, les liaisons carbone-hydrogène sont des amis qui ne sont pas assez forts pour aider.
+
+Basically, more alkyl groups surrounding the carbocation lead to a bigger stabilizing effect.
+Fondamentalement, plus de groupes alkyle entourant le carbocation conduisent à un effet stabilisant plus important.
+
+Hyperconjugation is an even more spread-out kind of stabilization, borrowing electron density from sigma bonds kinda sideways from the positive charge.
+L'hyperconjugaison est un type de stabilisation encore plus étendu, empruntant la densité électronique des liaisons sigma un peu latéralement à la charge positive.
+
+To sort of continue the unicycle metaphor, it's like instead of just a hand, your friends actually lean their body up against you to help you balance,
+Pour continuer en quelque sorte la métaphore du monocycle, c'est comme au lieu d'une simple main, vos amis appuient leur corps contre vous pour vous aider à vous équilibrer, un
+
+sort of like a big bear hug.
+peu comme un gros câlin d'ours.
+
+So here, too, additional carbon atoms have more sigma bonds that can stabilize the carbocation.
+Donc, ici aussi, des atomes de carbone supplémentaires ont plus de liaisons sigma qui peuvent stabiliser le carbocation.
+
+So, when you add a hydrogen halide to an alkene, the product will be formed from the most stable carbocation.
+Ainsi, lorsque vous ajoutez un halogénure d'hydrogène à un alcène, le produit sera formé à partir du carbocation le plus stable.
+
+This pattern is called Markovnikov’s rule: in these reactions, the proton will add to the side of the double bond that has the most hydrogens.
+Ce modèle s'appelle la règle de Markovnikov : dans ces réactions, le proton s'ajoutera du côté de la double liaison qui a le plus d'hydrogènes.
+
+That means the positively charged carbon will be connected to more sp3 carbons,
+Cela signifie que le carbone chargé positivement sera connecté à plus de carbones sp3,
+
+which means it's more substituted, and therefore the more stable of the two possible carbocations!
+ce qui signifie qu'il est plus substitué, et donc le plus stable des deux carbocations possibles !
+
+With practice, we can use Markovnikov’s rule to help us predict lots of products.
+Avec la pratique, nous pouvons utiliser la règle de Markovnikov pour nous aider à prédire de nombreux produits.
+
+For example, let's try adding hydrogen bromide to 1-methylcyclohex-1-ene.
+Par exemple, essayons d'ajouter du bromure d'hydrogène au 1-méthylcyclohex-1-ène.
+
+We know the nucleophilic attack starts at the double bond and attacks the proton.
+Nous savons que l'attaque nucléophile commence au niveau de la double liaison et attaque le proton.
+
+Then, to follow Markovnikov's rule, we have to put the proton on the side of the double bond with the most hydrogens --
+Ensuite, pour suivre la règle de Markovnikov, nous devons placer le proton du côté de la double liaison avec le plus d'hydrogènes --
+
+that's the carbon with one carbon-hydrogen bond instead of none.
+c'est le carbone avec une liaison carbone-hydrogène au lieu d'aucune.
+
+The positive charge will end up on the other carbon, which gives it more stabilization!
+La charge positive se retrouvera sur l'autre carbone, ce qui lui donne plus de stabilisation !
+
+We'll make a tertiary carbocation instead of a secondary one.
+Nous allons faire un carbocation tertiaire au lieu d'un secondaire.
+
+The bromide does a nucleophilic attack...
+Le bromure fait une attaque nucléophile...
+
+And our product is 1-bromo-1-methylcyclohexane.
+Et notre produit est le 1-bromo-1-méthylcyclohexane.
+
+Seems pretty simple, right?
+Cela semble assez simple, non ?
+
+Almost too simple…
+Presque trop simple…
+
+So let's try another example and use Markovnikov’s rule again to predict the product.
+Alors essayons un autre exemple et utilisons à nouveau la règle de Markovnikov pour prédire le produit.
+
+Here we have hydrogen bromide and 3,3-dimethylbut-1-ene.
+Ici, nous avons du bromure d'hydrogène et du 3,3-diméthylbut-1-ène.
+
+If we go through the same steps, do a nucleophilic attack, put the proton on the carbon with two carbon-hydrogen bonds instead of one, and get a positive charge on the other carbon...
+Si nous passons par les mêmes étapes, faisons une attaque nucléophile, plaçons le proton sur le carbone avec deux liaisons carbone-hydrogène au lieu d'une, et obtenons une charge positive sur l'autre carbone...
+
+our expected product would be 2-bromo-3,3-dimethylbutane.
+notre produit attendu serait 2-bromo-  3,3-diméthylbutane.
+
+But when we do this reaction in the lab, we get a mixture of two products.
+Mais quand on fait cette réaction en laboratoire, on obtient un mélange de deux produits.
+
+And our expected product is just the minor one -- not even the majority!
+Et notre produit attendu n'est qu'un produit mineur - pas même la majorité !
+
+We just learned Markovnikov's rule, and now this reaction puts the bromine in a place where we didn’t even have a double bond to start?!
+Nous venons d'apprendre la règle de Markovnikov, et maintenant cette réaction place le brome à un endroit où nous n'avions même pas de double liaison pour commencer ? !
+
+Okay. Deep breath.
+D'accord.  Profonde respiration. 
+
+Organic chemistry is tricky but it does make sense a lot of sense with practice.
+La chimie organique est délicate, mais elle a beaucoup de sens avec la pratique.
+
+Are we really breaking science or is something more subtle going on here?
+Sommes-nous vraiment en train de casser la science ou y a-t-il quelque chose de plus subtil qui se passe ici ?
+
+Let’s see where and why this reaction gets weird.
+Voyons où et pourquoi cette réaction devient bizarre.
+
+First, like we've seen before, the alkene attacks the proton from hydrogen bromide, and the positive charge ends up on the carbon that creates the more stable secondary carbocation,
+Tout d'abord, comme nous l'avons vu auparavant, l'alcène attaque le proton du bromure d'hydrogène, et la charge positive se retrouve sur le carbone qui crée le carbocation secondaire plus stable,
+
+instead of the less stable primary carbocation that we didn't make.
+au lieu du carbocation primaire moins stable que nous n'avons pas fabriqué.
+
+This is where I tried to do the next step of the reaction and how we get our minor product.
+C'est là que j'ai essayé de faire la prochaine étape de la réaction et comment nous obtenons notre produit mineur.
+
+But for the major product to form, the positive charge ends up on a different carbon somehow.
+Mais pour que le produit principal se forme, la charge positive se retrouve d'une manière ou d'une autre sur un carbone différent.
+
+That "somehow" is a sneaky move called a 1,2-alkyl shift.
+Ce "d'une manière ou d'une autre" est un mouvement sournois appelé un déplacement 1,2-alkyle.
+
+As a reminder, alkyl groups are methyls, ethyls, and things like that.
+Pour rappel, les groupes alkyles sont les méthyles, les éthyles et des choses comme ça.
+
+And in this case, it's a 1,2-methyl shift where a methyl group, CH3, moves over to the positively charged carbon next door, taking its electrons with it.
+Et dans ce cas, il s'agit d'un déplacement 1,2-méthyle où un groupe méthyle, CH3, se déplace vers le carbone chargé positivement à côté, emportant ses électrons avec lui.
+
+This move only happens with groups on the adjacent carbon atom.
+Ce mouvement ne se produit qu'avec des groupes sur l'atome de carbone adjacent.
+
+That creates a new, even more stable tertiary carbocation.
+Cela crée un nouveau carbocation tertiaire encore plus stable.
+
+So when the bromide does its nucleophilic attack, we get the major product that we see experimentally:
+Ainsi, lorsque le bromure effectue son attaque nucléophile, nous obtenons le produit majeur que nous voyons expérimentalement : le
+
+2-bromo-2,3-dimethylbutane.
+2-bromo-2,3-diméthylbutane.
+
+So… technically my earlier prediction wasn't wrong, it was just incomplete.
+Donc… techniquement, ma prédiction précédente n'était pas fausse, elle était juste incomplète.
+
+Depending on how we follow our reaction mechanism roadmap, and whether the 1,2-methyl shift happens, this reaction can have two different products.
+Selon la façon dont nous suivons notre feuille de route du mécanisme de réaction et si le déplacement du 1,2-méthyle se produit, cette réaction peut avoir deux produits différents.
+
+Not all carbocations rearrange like this, as we saw with the first two reactions.
+Tous les carbocations ne se réarrangent pas comme ça, comme nous l'avons vu avec les deux premières réactions.
+
+This multi-directional-map only happens when there's an even more stable carbocation that can form,
+Cette carte multidirectionnelle ne se produit que lorsqu'un carbocation encore plus stable peut se former
+
+so we have to keep an eye out for carbons branching out next to the spot where the carbocation forms.
+, nous devons donc garder un œil sur les carbones qui se ramifient à côté de l'endroit où le carbocation se forme.
+
+And not just for shifty alkyl groups.
+Et pas seulement pour les groupes alkyle sournois.
+
+Turns out, hydrogen atoms can also do their own sneaky move called a 1,2-hydride shift.
+Il s'avère que les atomes d'hydrogène peuvent également effectuer leur propre mouvement sournois appelé déplacement 1,2-hydrure.
+
+To see this in action, let's look at an example of hydrogen bromide and 3-methyl-pent-1-ene.
+Pour voir cela en action, regardons un exemple de bromure d'hydrogène et de 3-méthyl-pent-1-ène.
+
+We do the same nucleophilic attack initiated by our alkene, and pick the secondary carbocation as our product
+Nous effectuons la même attaque nucléophile initiée par notre alcène et choisissons le carbocation secondaire comme produit
+
+because it's more stable than the primary option.
+car il est plus stable que l'option principale.
+
+Then, a reaction with bromide would form the product, 2-bromo-3-methylpentane.
+Ensuite, une réaction avec le bromure formerait le produit, le 2-bromo-3-méthylpentane.
+
+But this time we won't be fooled!
+Mais cette fois, nous ne serons pas dupes !
+
+We're keeping an eye out for more stable carbocations and, what do you know, there's another possible product.
+Nous gardons un œil sur des carbocations plus stables et, que savez-vous, il existe un autre produit possible.
+
+Bumping the positive charge left one carbon would give us a more stable tertiary carbocation.
+Frapper la charge positive à gauche d'un carbone nous donnerait un carbocation tertiaire plus stable.
+
+And we can make that happen with a 1,2-hydride shift.
+Et nous pouvons y arriver avec un changement d'hydrure 1,2.
+
+It's a very similar dance where a hydride, or hydrogen with its pair of electrons, shifts over to the positively charged carbon next door.
+C'est une danse très similaire où un hydrure, ou hydrogène avec sa paire d'électrons, se déplace vers le carbone chargé positivement à côté.
+
+By taking the electrons from its bond with it, the hydrogen leaves behind a positive charge on the carbon it abandoned!
+En prélevant les électrons de sa liaison avec lui, l'hydrogène laisse derrière lui une charge positive sur le carbone qu'il a abandonné !
+
+Now, there is a methyl group here too so I guess we could try a 1,2-methyl shift again… but that actually wouldn't help us much.
+Maintenant, il y a aussi un groupe méthyle ici, donc je suppose que nous pourrions essayer à nouveau un changement de 1,2-méthyle… mais cela ne nous aiderait pas beaucoup.
+
+See, the hydride shift creates a tertiary carbocation when we had a secondary carbocation.
+Vous voyez, le déplacement d'hydrure crée un carbocation tertiaire alors que nous avions un carbocation secondaire.
+
+But if we were to do a methyl shift, it doesn't help with the stability.
+Mais si nous devions faire un changement de méthyle, cela n'aiderait pas à la stabilité.
+
+These two secondary carbocations are energetically the same, so we need to remember that rearrangements don't just happen for the heck of it --
+Ces deux carbocations secondaires sont énergétiquement identiques, nous devons donc nous rappeler que les réarrangements ne se produisent pas simplement pour le plaisir,
+
+they form a more stable intermediate.
+ils forment un intermédiaire plus stable.
+
+After we do the hydride shift to gain stability and the bromide does its nucleophilic attack, we get the major product that we see in the lab:
+Après avoir effectué le déplacement de l'hydrure pour gagner en stabilité et que le bromure a effectué son attaque nucléophile, nous obtenons le produit principal que nous voyons en laboratoire : le
+
+3-bromo-3-methylpentane.
+3-bromo-3-méthylpentane.
+
+This is another reaction that has two possible roadmaps, and a major and minor product.
+Il s'agit d'une autre réaction qui a deux feuilles de route possibles, et un produit majeur et mineur.
+
+It just used a different kind of shift to help increase carbocation stability!
+Il a juste utilisé un type de changement différent pour aider à augmenter la stabilité du carbocation !
+
+Throughout organic chemistry, energy and stability will continue to be guiding forces as we puzzle our way through reactions.
+Tout au long de la chimie organique, l'énergie et la stabilité continueront d'être des forces directrices alors que nous nous frayant un chemin à travers les réactions.
+
+But for this episode, we learned that:
+Mais pour cet épisode, nous avons appris que :
+
+The cis/trans nomenclature for alkenes is limited, so we can use the E/Z system for more precision
+La nomenclature cis/trans des alcènes est limitée, nous pouvons donc utiliser le système E/Z pour plus de précision
+
+Markovnikov’s rule can help us predict products of addition reactions involving alkenes
+La règle de Markovnikov peut nous aider à prédire les produits des réactions d'addition impliquant des alcènes
+
+Carbocations are stabilized by the inductive effect and hyperconjugation
+Les carbocations sont stabilisés par l'effet inductif  et hyperconjugaison
+
+And we have to inspect alkene addition reactions for possible rearrangements through 1,2 shifts that make more stable carbocations.
+Et nous devons inspecter les réactions d'addition d'alcènes pour d'éventuels réarrangements via des décalages 1,2 qui rendent les carbocations plus stables.
+
+Next episode we’ll get into thermodynamics and how to use free energy and kinetics to help us predict reaction products.
+Dans le prochain épisode, nous aborderons la thermodynamique et comment utiliser l'énergie libre et la cinétique pour nous aider à prédire les produits de réaction.
+
+Thanks for watching this episode of Crash Course Organic Chemistry.
+Merci d'avoir regardé cet épisode de Crash Course Organic Chemistry.
+
+If you want to help keep all Crash Course free for everybody, forever, you can join our community on Patreon.
+Si vous voulez aider à garder tous les cours intensifs gratuits pour tout le monde, pour toujours, vous pouvez rejoindre notre communauté sur Patreon.
+

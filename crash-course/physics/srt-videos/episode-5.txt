@@ -1,0 +1,340 @@
+Nous avons beaucoup parlé de la science derrière le déplacement des objets - on lance une balle en l'air,
+
+il y a des méthodes pour prédire exactement comment elle va tomber.
+
+Mais il y a quelque chose dont nous n'avons pas parlé : les forces, et pourquoi elles font accélérer les choses.
+
+Et pour ça, nous allons nous tourner vers un physicien dont vous avez sûrement entendu parler : Isaac Newton.
+
+Avec ses trois lois, publiées en 1687 dans son livre Principia, Newton a décrit sa compréhension du mouvement
+
+-- et ses idées étaient novatrices.
+
+Aujourd'hui, plus de 300 ans plus tard, si vous essayez de décrire les effets de forces sur
+
+à peu près n'importe quel objet de tous les jours -- une boîte par terre, un renne qui tire un traîneau, ou
+
+un ascenseur qui vous amène à votre appartement -- vous aurez envie d'utiliser les lois de Newton.
+
+Et oui. Je vais expliquer le truc du renne dans une minute.
+
+🎶 Musique du générique ♫
+
+La première loi de Newton parle d'inertie, qui est simplement la tendance d'un objet
+
+à continuer de faire ce qu'il fait.
+
+Elle est souvent décrite ainsi : "Un objet qui se déplace restera en déplacement, et un objet au repos
+
+restera au repos, à moins qu'une force agisse sur lui.
+
+Ce n'est rien d'autre qu'une autre manière de dire que pour changer la manière dont quelque chose se déplace -- lui donner
+
+de l'ACCELERATION -- vous aurez besoin d'une force résultante.
+
+Donc, comment mesure-t-on l'inertie?
+
+Eh bien, la chose la plus importante à connaître est la masse. Disons que vous avez deux balles qui ont la
+
+même taille, mais l'une est un ballon de plage et l'autre est une balle de bowling.
+
+La balle de bowling sera plus dure à déplacer, et plus dure à arrêter une fois qu'elle se déplacera.
+
+Elle a plus d'inertie car elle a plus de masse.
+
+Ca a du sens, n'est-ce pas? Plus de masse signifie plus de MATIERE, avec une tendance à continuer ce qu'elle
+
+faisait avant que votre force arrive et l'interrompe.
+
+Cette idée se relie bien avec la deuxième loi de Newton : la force résultante vaut la masse fois l'accélération.
+
+Ou, sous forme d'équation, F(res) = m*a
+
+Il est important de se rappeler que nous parlons de force RESULTANTE ici -- la quantité
+
+de force restante une fois que l'on a additionné toutes les forces qui peuvent s'annuler les unes avec les autres.
+
+Imaginons que vous ayez un palet de hockey sur une patinoire parfaite sans frottements. Je sais que la glace n'est pas
+
+parfaitement sans frottements mais continuez de me suivre. Si vous poussez le palet avec
+
+votre crosse, c'est une force qui agit dessus - qui n'est pas annulée par quoi que ce soit.
+
+Le palet subit donc une accélération.
+
+Mais lorsque le palet reste immobile, ou même lorsqu'il glisse après que
+
+vous l'ayez poussé, alors toutes les forces s'équilibrent.
+
+C'est ce qu'on appelle une position d'équilibre.
+
+Un objet à l'équilibre peut toujours se DEPLACER, comme le palet qui glisse, mais sa
+
+VITESSE ne change pas.
+
+C'est lorsque les forces se DESéquilibrent que vous commencez à voir des choses intéressantes/
+
+Le cas le plus courant de force résultante faisant se déplacer quelque chose est probablement la force gravitationnelle.
+
+Disons que vous lancez une boule de 5kg dans les airs -- et alors, vous savez, vous partez de là,
+
+parce que vous pouvez vraiment vous faire mal si ça vous retombe dessus...
+
+Mais la force gravitationnelle tire sur la boule, qui accélère vers le bas au
+
+rythme de 9,81 m/s².
+
+Ainsi la force résultante est égale à m*a, mais la seule force agissant ici est la gravité. Cela signifie
+
+que si nous pouvions mesurer l'accélération de la boule, nous pourrions connaître la force gravitationnelle.
+
+Et nous POUVONS mesurer l'accélération -- c'est 9,81 m/s², la valeur que nous avions appellé
+
+petit g.
+
+Ainsi la force gravitationnelle sur la boule doit être de 5 kg, qui est la masse de la boule... fois
+
+petit g... ce qui revient à 49,05 kilogrammes fois mètres par seconde carrée !
+
+Nous utilisons cette équation pour la gravité si souvent qu'elle est souvent écrite F(g) = m*g. C'est
+
+ainsi que l'on détermine la force gravitationnelle, aussi appellée... poids.
+
+Et ces unités peuvent être compliquées à dire, donc nous les appellons simplement Newtons.
+
+En effet ! On mesure le poids en Newtons en l'honneur de Sir Isaac et PAS en kilogrammes !
+
+Les kilogrammes sont une mesure de masse !
+
+Mais la gravité n'est pas la seule force agissant sur un objet. Donc lorsqu'on essaye de calculer
+
+une force résultante, nous prenons généralement en compte plus que simplement la gravité.
+
+C'est ici que nous allons parler d'une des forces qui apparaît très souvent, qui est décrite
+
+par la troisième loi de Newton.
+
+Vous connaissez probablement cette loi comme "Pour toute action existe une réaction égale mais opposée".
+
+Ce qui signifie simplement que si vous exercez une force sur un objet, il exerce une force égale sur vous.
+
+Et nous appellons cela la force normale.
+
+"Normal" dans ce cas signifie "perpendiculaire", et la force normale est toujours perpendiculaire
+
+à la surface sur lequel se trouve l'objet.
+
+En tout cas, dans le cas où vous poussez un objet gros et macroscopique, comme une table.
+
+Si vous posez un livre sur une table, la force normale pousse -- et donc pointe
+
+-- verticalement. Mais si vous le posez sur une rampe, alors la force
+
+normale pointe perpendiculairement à la rampe.
+
+Cependant, la force normale n'est pas comme les autres forces. Elle est particulière parce qu'elle change
+
+sa magnitude.
+
+Disons que vous avez un petit bout de papier aluminium étiré sur un bol, puis
+
+vous posez un pauvre petit grain de raisin dessus.
+
+A cause de la gravité, le raisin exerce un peu de force sur le papier alu, et la
+
+force normale pousse en réponse, de manière égale.
+
+Mais alors vous ajoutez un autre raisin, ce qui double la force sur le papier alu -- dans ce cas, la
+
+force normale double également.
+
+Cela continuera jusqu'à ce que vous ayez mis suffisamment de raisins pour qu'ils transpercent le papier alu.
+
+C'est ce qui arrive lorsque la force normale ne peut pas équilibrer la force qui la pousse.
+
+Mais que signifie réellement la troisième loi de Newton?
+
+Lorsque j'appuie sur ce bureau avec mon doigt, je lui applique une force. Et il
+
+applique une force égale sur mon doigt -- une force que je peux réellement sentir.
+
+Mais si c'est vrai -- et ça l'est -- alors pourquoi pouvons-nous... déplacer des objets?
+
+Pourquoi je peux soulever ce mug? Ou pourquoi un renne peut-il tirer un traîneau?
+
+Simplement, les choses bougent parce qu'il y a plus de choses qui se passent que juste des forces d'action et de réaction.
+
+Par exemple, lorsqu'un renne tire un traîneau, la troisième loi de Newton nous dit que le traîneau
+
+tire également avec une force égale.
+
+Mais le renne parvient à tirer le traîneau parce qu'il est sur le sol.
+
+Lorsqu'il fait un pas, il pousse le sol avec sa patte - et le sol
+
+le pousse vers l'AVANT.
+
+En même temps, le renne tire également sur le traîneau, alors que le traîneau tire
+
+en réponse. Mais la force du SOL qui POUSSE le renne vers l'avant est SUPERIEURE à la
+
+force du traîneau qui le tire vers l'arrière. Donc l'animal avance, et le traîneau fait de même.
+
+Une chose à noter donc : sans physique, pas de Noël !
+
+Mais maintenant que nous avons une idée des forces que nous pouvons rencontrer, décrivons
+
+ce qui se passe lorsqu'une boîte se trouve par terre.
+
+La première chose à faire -- qui est la première chose à faire SYSTEMATIQUEMENT lorsque vous résolvez
+
+un problème de ce genre -- est l'isolement du solide.
+
+Tout simplement, on dessine vaguement les contours de l'objet, on place un point en son milieu, et
+
+on trace et on nomme des flèches représentant les forces.
+
+Il faut aussi choisir quelle direction est positive -- dans ce cas, on choisit le haut
+
+comme positif.
+
+Pour notre boîte, le dessin est simple. Il y a une flèche vers le bas,
+
+représentant la force gravitationnelle et une flèche vers le haut, représentant la force
+
+du sol sur la boîte.
+
+Comme la boîte ne bouge pas, elle n'accélère pas, ce qui nous dit que
+
+ces forces sont égales, donc la force résultante vaut 0.
+
+Mais si vous attachez une corde au sommet de cette boîte, et connectez cette corde au plafond pour que
+
+la boîte soit suspendue dans les airs?
+
+La force résultante est toujours nulle puisqu'il n'y a pas d'accélération sur la boîte. Et la gravité tire
+
+toujours vers le bas comme auparavant.
+
+Mais maintenant, la force qui tire la boîte vers le haut vient de la CORDE, dans ce qu'on
+
+appelle la force de tension.
+
+Pour simplifier nos exemples, on peut supposer que la corde n'a pas de masse et est complètement
+
+indestructible -- peu importe la force qui tire dessus, elle tirera en réponse.
+
+Cela signifie que la force de tension n'est pas fixée. Si la boîte pèse 5 Newtons, alors la
+
+tension de la corde vaut également 5 Newtons. Si on ajoute 5 Newtons de poids à la boîte, la
+
+tension de la corde deviendra 10 Newtons.
+
+Un peu comme la force normale changeait en ajoutant des raisins sur du papier alu. Mais ici,
+
+c'est en réponse à une force de traction et non pas à une poussée.
+
+L'astuce est que dans tous les cas, on peut additionner les forces pour donner une force
+
+résultante -- même si la force résultante n'est PAS toujours nulle.
+
+Un ascenseur par exemple.
+
+Disons que vous êtes dans un ascenseur.
+
+La masse totale de l'ascenseur, vous inclus, est de 1000 kg. Son déplacement est contrôlé
+
+par un contrepoids attaché à une poulie.
+
+L'idée est de mettre un contre poids de 850 kg puis de laisser l'ascenseur se déplacer. A ce moment-là,
+
+l'ascenseur descend - parce qu'il est PLUS LOURD que son contrepoids.
+
+Avec l'espoir que le contrepoids va l'empêcher d'accélérer de TROP.
+
+Mais comment savoir si ce sera sécurisé? A quelle vitesse l'ascenseur va-t-il descendre?
+
+Pour le savoir, isolons notre ascenseur en choisissant comme positif la direction vers le haut.
+
+La force gravitationnelle tire l'ascenseur vers le bas, et vaut la masse de
+
+l'ascenseur fois petit g - 9810 Newtons de force dans la direction négative. Et la force de tension
+
+tire l'ascenseur vers le haut, dans la direction positive.
+
+Cela veut dire que pour l'ascenseur, la force résultante vaut la force de tension moins la masse
+
+de l'ascenseur fois petit g.
+
+Maintenant, étant donné que la première loi de Newtons nous dit que F(rés) = m*a, nous pouvons dire que tout cela est
+
+égal à la masse de l'ascenseur fois l'accélération vers le bas, - a. C'est ce que nous cherchons
+
+à obtenir.
+
+Faisons la même chose avec le contrepoids.
+
+La gravité le tire vers le bas avec 8338,5 N de force dans la direction négative.
+
+Ici encore, la force de tension le tire vers le haut, donc la force résultante vaut la
+
+force de tension moins la masse du contrepoids fois petit g.
+
+Ici encore, grâce à la deuxième loi de Newton, nous savons que tout cela vaut la masse
+
+du contrepoids, fois la même accélération, "a" -- cette fois positive puisque
+
+le contrepoids se déplace vers le haut.
+
+Donc ! Mettons tout cela ensemble, nous avons deux équations et deux inconnues. Nous n'avons pas
+
+de valeur pour la force de tension, ni pour l'accélération.
+
+Mais nous cherchons à obtenir l'accélération. Nous utilisons pour cela l'algèbre.
+
+Quand on a un système d'équations de la sorte, on peut ajouter ou soustraire des termes de chaque
+
+côté du signe égal pour en faire une unique équation.
+
+Par exemple, si vous savez que 1 + 2 = 3 et que 4 + 2 = 6, vous pouvez soustraire la première
+
+équation à la deuxième pour obtenir 3 = 3.
+
+Dans notre cas, avec l'ascenseur, soustraire la première équation de la deuxième nous débarasse
+
+du terme représentant la force de tension.
+
+Maintenant, il nous reste à trouver l'accélération -- c'est-à-dire que nous devons réarranger l'équation
+
+pour obtenir tout le reste égal à "a".
+
+On obtient une équation qui dit juste que "a" est égal à la différence
+
+entre les masses -- ou la force résultante du système -- divisée par la masse totale.
+
+C'est simplement une manière un peu plus stylisée d'écrire F(rés) = m*a. Et on peut calculer grâce à cela
+
+"a", qui vaut ici 0,795 m/s².
+
+Ce qui n'est pas tant que ça d'accélération !
+
+Donc à priori, tant que vous ne descendez pas trop bas, ça devrait aller.
+
+Même si l'arrivée est légèrement agitée.
+
+Dans cet épisode, vous avez appris les trois lois de Newton : comment l'inertie fonctionne, le fait que
+
+la force résultante vaut la masse fois l'accélération, ce que les physiciens appellent l'équilibre, et tout ce qu'il
+
+y a à savoir à propos de force "normale" et de force "de tension".
+
+Crash Course Physics est produit en association avec PBS Digital Studios. Vous pouvez aller voir
+
+leur chaîne pour voir des émissions géniales telles que BrainCraft, It's OK To Be Smart et
+
+PBS Idea Channel.
+
+Cet épisode de Crash Course a été filmé dans le Doctor Cheryl C. Kinney Crash Course Studio
+
+avec l'aide de ces gens géniaux et notre équipe graphique est Thought Cafe.
+

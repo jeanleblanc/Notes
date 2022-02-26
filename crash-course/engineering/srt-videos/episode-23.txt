@@ -1,0 +1,579 @@
+From the size of our airplanes to the height
+of our skyscrapers, feats of engineering just
+keep getting bigger and bigger.
+De la taille de nos avions à la hauteur
+de nos gratte-ciel, les prouesses d'ingénierie ne
+cessent de devenir de plus en plus grandes.
+
+But bigger isn’t always better.
+Mais plus gros n'est pas toujours meilleur.
+
+Sometimes you want things to be small.
+Really small.
+Parfois, vous voulez que les choses soient petites.
+Vraiment petit. 
+
+And if you want things to be really small,
+you’re gonna need to make them out of small
+materials: nanomaterials.
+Et si vous voulez que les choses soient vraiment petites,
+vous devrez les fabriquer à partir de petits
+matériaux : les nanomatériaux.
+
+These are used everywhere from the healthcare
+industry to electronics.
+Ceux-ci sont utilisés partout, de l'industrie de la
+santé à l'électronique.
+
+And, even though they’re small in size,
+they pack a big punch!
+Et, même s'ils sont de petite taille,
+ils emballent un gros coup de poing !
+
+[Theme Music]
+[Theme Music]
+
+It’s easy to think of big problems,
+ones that you can see.
+Il est facile de penser à de gros problèmes,
+ceux que vous pouvez voir.
+
+But many of today’s most important problems
+are actually microscopic.
+Mais bon nombre des problèmes les plus importants d'aujourd'hui
+sont en réalité microscopiques.
+
+Think of things like cancer or autoimmune
+diseases.
+Pensez à des choses comme le cancer ou les maladies auto-
+immunes.
+
+These are issues at the cellular level, far
+too small to solve with any conventional tools.
+Ce sont des problèmes au niveau cellulaire, bien
+trop petits pour être résolus avec des outils conventionnels.
+
+And even if we find a solution to the root problem,
+the body's own defense mechanisms will often see
+a potential cure as a threat and attack it.
+Et même si nous trouvons une solution au problème fondamental,
+les propres mécanismes de défense du corps verront souvent
+un remède potentiel comme une menace et l'attaqueront.
+
+A good example of this is Type I diabetes,
+a chronic condition that requires treatment
+with insulin.
+Un bon exemple en est le diabète de type I,
+une maladie chronique qui nécessite un traitement
+à l'insuline.
+
+To permanently fix the problem, doctors
+might want to implant cells to produce that
+insulin without needing daily injections.
+Pour résoudre définitivement le problème, les médecins
+pourraient vouloir implanter des cellules pour produire cette
+insuline sans avoir besoin d'injections quotidiennes.
+
+But if you just stick those cells right into the human
+body, the patient’s own antibodies will probably
+attack and kill them before they can help.
+Mais si vous insérez simplement ces cellules directement dans le
+corps humain, les propres anticorps du patient les
+attaqueront et les tueront probablement avant qu'ils ne puissent aider.
+
+So for this potential treatment to work, you
+need to find a way to protect them.
+Donc, pour que ce traitement potentiel fonctionne, vous
+devez trouver un moyen de les protéger.
+
+To solve this problem, and others like it,
+you’re going to need to build really small
+things.
+Pour résoudre ce problème, et d'autres comme celui-ci,
+vous allez devoir construire de très petites
+choses.
+
+And for that, you’ll need nanomaterials.
+Et pour cela, vous aurez besoin de nanomatériaux.
+
+For something to officially be a nanomaterial,
+at least one of its dimensions must be smaller
+than 100 nanometers.
+Pour qu'un objet soit officiellement un nanomatériau,
+au moins une de ses dimensions doit être inférieure
+à 100 nanomètres.
+
+To put that in perspective, a nanometer is one
+millionth of a millimeter, or about 100,000 times
+smaller than the diameter of a human hair.
+Pour mettre cela en perspective, un nanomètre est un
+millionième de millimètre, soit environ 100 000 fois
+plus petit que le diamètre d'un cheveu humain.
+
+So pretty tiny!
+Tellement tout petit !
+
+In fact, most nanoscale materials are too small to be
+seen even with the help of conventional microscopes,
+En fait, la plupart des matériaux à l'échelle nanométrique sont trop petits pour être
+vus même à l'aide de microscopes conventionnels,
+
+like the ones you might find
+at your high school or college.
+comme ceux que vous pourriez trouver
+dans votre lycée ou votre université.
+
+If you want to take a look at nanomaterials,
+you’ll have to use a better microscope,
+Si vous voulez jeter un œil aux nanomatériaux,
+vous devrez utiliser un meilleur microscope,
+
+like an electron microscope, some of which
+can magnify samples by up to 1 million times.
+comme un microscope électronique, dont certains
+peuvent grossir des échantillons jusqu'à 1 million de fois.
+
+Even then, to actually work on the nanoscale,
+you need something like the scanning tunnelling
+microscope,
+Même dans ce cas, pour travailler à l'échelle nanométrique,
+vous avez besoin de quelque chose comme le microscope à effet tunnel
+,
+
+which not only allows you to see individual atoms
+and molecules, but also lets you move them around.
+qui vous permet non seulement de voir des atomes
+et des molécules individuels, mais aussi de les déplacer.
+
+But don’t let the small size of nanomaterials
+fool you.
+Mais ne vous laissez pas tromper par la petite taille des nanomatériaux
+.
+
+Compared to their larger-scale counterparts, they
+often have better properties like increased strength,
+chemical reactivity, and conductivity.
+Comparés à leurs homologues à plus grande échelle, ils
+ont souvent de meilleures propriétés comme une résistance,
+une réactivité chimique et une conductivité accrues.
+
+These traits can let you solve new kinds of
+problems, like protecting those implanted 
+insulin-producing cells I mentioned earlier.
+Ces traits peuvent vous permettre de résoudre de nouveaux types de
+problèmes, comme la protection
+des cellules implantées productrices d'insuline que j'ai mentionnées plus tôt.
+
+The device you’ll need to protect those
+cells will have to have holes large enough
+to let the insulin flow out,
+L'appareil dont vous aurez besoin pour protéger ces
+cellules devra avoir des trous suffisamment grands
+pour laisser l'insuline s'écouler,
+
+but small enough to keep the body’s attack
+cells from getting in.
+mais suffisamment petits pour empêcher les cellules d'attaque du corps
+de pénétrer.
+
+That kind of precision engineering is a perfect
+application of nanotechnology.
+Ce type d'ingénierie de précision est une
+application parfaite de la nanotechnologie.
+
+While nanomaterials are certainly small, they
+actually have a comparatively large surface area.
+Bien que les nanomatériaux soient certainement petits,
+ils ont en fait une surface relativement grande.
+
+That may sound a bit counterintuitive, but if
+you break something down into smaller chunks,
+the overall surface area increases.
+Cela peut sembler un peu contre-intuitif, mais si
+vous décomposez quelque chose en plus petits morceaux,
+la surface globale augmente.
+
+You can see what I mean if you take a block
+and slice it down the middle.
+Vous pouvez voir ce que je veux dire si vous prenez un bloc
+et le coupez au milieu.
+
+You didn’t change the overall mass or amount
+of material, but now you have two new sides
+that add more surface area.
+Vous n'avez pas modifié la masse globale ou la quantité
+de matériau, mais vous avez maintenant deux nouveaux côtés
+qui ajoutent plus de surface.
+
+The more surface area there is, the more direct
+contact a material can have with its surroundings,
+and that contact matters!
+Plus il y a de surface, plus
+un matériau peut avoir un contact direct avec son environnement,
+et ce contact compte !
+
+For example, break a material into nanometer-sized
+particles, and the increased surface area will lead
+to a faster rate of any surface-level reactions.
+Par exemple, cassez un matériau en particules de la taille d'un nanomètre
+, et l'augmentation de la surface
+entraînera une vitesse plus rapide de toutes les réactions au niveau de la surface.
+
+This makes nanomaterials great catalysts,
+or substances that increase the rate of a
+chemical reaction,
+Cela fait des nanomatériaux d'excellents catalyseurs
+ou substances qui augmentent la vitesse d'une
+réaction chimique,
+
+and it’s why they’re used in a wide range of
+important industrial chemical reactions.
+et c'est pourquoi ils sont utilisés dans un large éventail de
+réactions chimiques industrielles importantes.
+
+Nanomaterials are also often more attractive
+to water and oil molecules, making them more
+absorbent than larger materials.
+Les nanomatériaux sont également souvent plus attractifs
+pour les molécules d'eau et d'huile, ce qui les rend plus
+absorbants que les matériaux plus gros.
+
+That’s why they’re used in water treatment
+plants to remove pollutants and at sea to
+clean up oil spills.
+C'est pourquoi ils sont utilisés dans les usines de traitement de l'
+eau pour éliminer les polluants et en mer pour
+nettoyer les déversements d'hydrocarbures.
+
+We’ve also found that solid nanoparticles
+can even act like liquids –
+Nous avons également découvert que les nanoparticules solides
+peuvent même agir comme des liquides -
+
+not just as some sort of bulk movement, like you
+might see when a pile of sand acts like a fluid, but
+in the motion of individual particles themselves.
+pas seulement comme une sorte de mouvement de masse, comme vous
+pourriez le voir lorsqu'un tas de sable agit comme un fluide, mais
+dans le mouvement des particules individuelles elles-mêmes.
+
+On their outermost layers, only about an
+atom or two thick, these nanoparticles appear
+to move about like a liquid.
+Sur leurs couches les plus externes, d'une
+épaisseur d'environ un atome ou deux seulement, ces nanoparticules semblent
+se déplacer comme un liquide.
+
+Even though their insides are solid, their
+outsides can change shape and wobble about
+like a drop of water!
+Même si leur intérieur est solide, leur
+extérieur peut changer de forme et osciller
+comme une goutte d'eau !
+
+If you want to form solid, stable shapes out of
+nanoparticles, these movements could potentially
+cause your designs to fail, like losing an electrical
+connection in a circuit.
+Si vous souhaitez former des formes solides et stables à partir de
+nanoparticules, ces mouvements pourraient potentiellement
+entraîner l'échec de vos conceptions, comme la perte d'une
+connexion électrique dans un circuit.
+
+The nanoscale will even change other properties
+of a material, like its melting point and fluorescence,
+or the visible light that it emits.
+L'échelle nanométrique modifiera même d'autres propriétés
+d'un matériau, comme son point de fusion et sa fluorescence,
+ou la lumière visible qu'il émet.
+
+Basically, its color.
+En gros, sa couleur.
+
+A great example of this is gold.
+Un bon exemple de ceci est l'or.
+
+Instead of the color we’re used to seeing
+in a treasure chest, nanoscale gold can appear
+red or purple.
+Au lieu de la couleur que nous avons l'habitude de voir
+dans un coffre au trésor, l'or à l'échelle nanométrique peut apparaître
+rouge ou violet.
+
+This unique visual property might one day
+lead to better imaging and detection of things
+like tumors.
+Cette propriété visuelle unique pourrait un jour
+conduire à une meilleure imagerie et détection de choses
+comme les tumeurs.
+
+In these ways, it’s possible to literally fine-tune
+some of the properties that you’re interested in
+just by changing the size of a material.
+De cette manière, il est possible d'affiner littéralement
+certaines des propriétés qui vous intéressent
+simplement en modifiant la taille d'un matériau.
+
+By taking advantage of these characteristics
+and making your own nanomaterials,
+En tirant parti de ces caractéristiques
+et en fabriquant vos propres nanomatériaux,
+
+you’ll create what we call engineered
+nanomaterials, ones that are designed and
+produced to help solve problems.
+vous créerez ce que nous appelons des
+nanomatériaux manufacturés, ceux qui sont conçus et
+produits pour aider à résoudre des problèmes.
+
+There are also naturally occuring nanomaterials,
+like volcanic ash or soot from a fire,
+Il existe également des nanomatériaux naturels,
+comme les cendres volcaniques ou la suie d'un incendie
+
+as well as ones that are produced as by-products
+of other processes like combustion.
+, ainsi que ceux qui sont produits comme sous-produits
+d'autres processus comme la combustion.
+
+These are often termed ultrafine particles and
+aren’t really what you’ll be worried about as an engineer.
+Celles-ci sont souvent appelées particules ultrafines et
+ne sont pas vraiment ce qui vous inquiétera en tant qu'ingénieur.
+
+However, you might have to factor in the effects
+of any ultrafine particles that you accidentally make.
+Cependant, vous devrez peut-être prendre en compte les effets
+de toutes les particules ultrafines que vous fabriquez accidentellement.
+
+But it’s the engineered materials that you’ll
+work with that show great potential for medicine,
+electronics, and other fields.
+Mais ce sont les matériaux techniques avec lesquels vous
+travaillerez qui présentent un grand potentiel pour la médecine, l'
+électronique et d'autres domaines.
+
+The nanotechnology you can make with nanomaterials
+can be used to design medicine that will target specific
+cells or parts of the body.
+La nanotechnologie que vous pouvez fabriquer avec des nanomatériaux
+peut être utilisée pour concevoir des médicaments qui cibleront des
+cellules ou des parties spécifiques du corps.
+
+Think of the potential in not only helping out your
+own cells or keeping implanted ones safe, but in
+fighting off things like cancer or harmful bacteria.
+Pensez au potentiel non seulement d'aider vos
+propres cellules ou de protéger celles qui sont implantées, mais aussi de
+combattre des choses comme le cancer ou les bactéries nocives.
+
+And the small size of nanomaterials makes
+them perfect for electronics.
+Et la petite taille des nanomatériaux les
+rend parfaits pour l'électronique.
+
+If you’ve ever looked at a circuit board,
+taken apart your smartphone, or put together
+your own computer,
+Si vous avez déjà regardé un circuit imprimé,
+démonté votre smartphone ou assemblé
+votre propre ordinateur,
+
+you can see just how small
+some of their components can be.
+vous pouvez voir à quel point
+certains de leurs composants peuvent être petits.
+
+In fact, the semiconductors in computers are
+often on the nanoscale – and soon some may
+have parts only a nanometer long!
+En fait, les semi-conducteurs des ordinateurs sont
+souvent à l'échelle nanométrique - et bientôt certains pourraient
+avoir des pièces d'un nanomètre de long seulement !
+
+With electronics only getting smaller and smaller,
+we’ll likely see nanomaterials playing bigger and
+bigger roles in our tech-based future.
+L'électronique devenant de plus en plus petite,
+nous verrons probablement les nanomatériaux jouer un rôle de plus en
+plus important dans notre avenir basé sur la technologie.
+
+And hand-in-hand with modern electronics are
+batteries.
+Et les batteries vont de pair avec l'électronique moderne
+.
+
+The strength and conductive properties of
+nanomaterials make them perfect for energy storage
+and creating high-capacity batteries.
+La résistance et les propriétés conductrices des
+nanomatériaux les rendent parfaits pour le stockage d'énergie
+et la création de batteries à haute capacité.
+
+You know, so your phone actually lasts through
+the day.
+Vous savez, donc votre téléphone dure toute
+la journée.
+
+Nanomaterials can even be added to other materials,
+like cement or cloth, to make them stronger and lighter.
+Les nanomatériaux peuvent même être ajoutés à d'autres matériaux,
+comme le ciment ou le tissu, pour les rendre plus résistants et plus légers.
+
+Thousands of common products contain engineered
+nanomaterials, while many others are manufactured
+using tools built from them.
+Des milliers de produits courants contiennent des
+nanomatériaux manufacturés, tandis que de nombreux autres sont fabriqués à l'
+aide d'outils construits à partir de ceux-ci.
+
+Think of sunscreens, cosmetics, tires, and
+many sporting goods.
+Pensez aux crèmes solaires, aux cosmétiques, aux pneus et à de
+nombreux articles de sport.
+
+One of the most prominent areas of nanomaterial
+research is carbon nanotubes.
+L'un des domaines les plus importants de la
+recherche sur les nanomatériaux est celui des nanotubes de carbone.
+
+Efforts are being made to use this tube-shaped material
+for cleaning up oil spills, making better capacitors for
+circuits, and even creating artificial muscles.
+Des efforts sont faits pour utiliser ce matériau en forme de tube
+pour nettoyer les déversements d'hydrocarbures, fabriquer de meilleurs condensateurs pour les
+circuits et même créer des muscles artificiels.
+
+But while nanomaterials seem great, there’s
+one pretty big problem:
+Mais alors que les nanomatériaux semblent formidables, il y a
+un problème assez important :
+
+we don’t have a complete sense of the potential
+effects that they might have on the human body
+or the environment.
+nous n'avons pas une idée complète des
+effets potentiels qu'ils pourraient avoir sur le corps humain
+ou l'environnement.
+
+That means that we don’t know all of the
+safety risks and what the proper protocols
+should be when dealing with them.
+Cela signifie que nous ne connaissons pas tous les
+risques pour la sécurité et quels devraient être les protocoles appropriés
+pour y faire face.
+
+And there have already been problems with
+nano-sized particles.
+Et il y a déjà eu des problèmes avec
+les particules nanométriques.
+
+It’s easy to ingest or breathe in such small
+things by accident and without even noticing.
+Il est facile d'ingérer ou de respirer de si petites
+choses par accident et sans même s'en apercevoir.
+
+For example, we’ve seen that some kinds of
+carbon nanomaterials can cause inflammation in
+the lungs in ways that are similar to asbestos.
+Par exemple, nous avons vu que certains types de
+nanomatériaux de carbone peuvent provoquer une inflammation
+des poumons d'une manière similaire à l'amiante.
+
+If you’re using nanomaterials to treat a
+disease, the last thing you want is to create
+new, unexpected problems.
+Si vous utilisez des nanomatériaux pour traiter une
+maladie, la dernière chose que vous souhaitez est de créer de
+nouveaux problèmes inattendus.
+
+Fear of the unknown isn’t a good reason
+to stop moving forward, but more research
+is always better.
+La peur de l'inconnu n'est pas une bonne raison
+d'arrêter d'avancer, mais plus de recherche,
+c'est toujours mieux.
+
+The nanotechnology that could keep implanted
+cells safe inside your body to treat diabetes is still
+pretty new and in the development stage,
+La nanotechnologie qui pourrait garder les cellules implantées en
+sécurité à l'intérieur de votre corps pour traiter le diabète est encore
+assez nouvelle et en phase de développement,
+
+but what it could do for patients would
+be life-changing.
+mais ce qu'elle pourrait faire pour les patients
+changerait la vie.
+
+Similar designs could be applied to other
+diseases, giving us effective cures to many of
+the problems that millions face every day.
+Des conceptions similaires pourraient être appliquées à d'autres
+maladies, nous offrant des remèdes efficaces à de
+nombreux problèmes auxquels des millions de personnes sont confrontées chaque jour.
+
+From healthcare, to carbon nanotubes, to
+making better batteries, the possibilities of what we
+can do with nanomaterials seem endless.
+Des soins de santé aux nanotubes de carbone, en passant par la
+fabrication de meilleures batteries, les possibilités de ce que nous
+pouvons faire avec les nanomatériaux semblent infinies.
+
+Today we learned about nanomaterials, how
+small they are, and some of the things that
+they can do.
+Aujourd'hui, nous avons découvert les nanomatériaux
+, leur petite taille et certaines des choses
+qu'ils peuvent faire.
+
+We learned about the special properties of
+nanomaterials and how some of them can change
+at different sizes.
+Nous avons découvert les propriétés particulières des
+nanomatériaux et comment certains d'entre eux peuvent changer
+à différentes tailles.
+
+Then we found the difference between engineered
+nanomaterials and ones that occur naturally.
+Ensuite, nous avons trouvé la différence entre les
+nanomatériaux manufacturés et ceux qui se produisent naturellement.
+
+Finally, we saw that since nanomaterials and nanotechnology are so new to us, we still need further research to fully figure out just how safe they are to use.
+Enfin, nous avons vu que puisque les nanomatériaux et la nanotechnologie sont si nouveaux pour nous, nous avons encore besoin de recherches supplémentaires pour comprendre pleinement à quel point leur utilisation est sûre.
+
+I’ll see you in our next episode, when we’ll
+learn more about biomaterials.
+Je vous verrai dans notre prochain épisode, quand nous en
+apprendrons plus sur les biomatériaux.
+
+Crash Course Engineering is produced in association
+with PBS Digital Studios.
+Crash Course Engineering est produit en association
+avec PBS Digital Studios.
+
+If you want to keep exploring big scientific
+mysteries by going very, VERY small,
+Si vous voulez continuer à explorer les grands
+mystères scientifiques en allant très, TRÈS petit,
+
+Deep Look is a 4K series that aims to see the unseen
+at the very edge of our visible world, from eye popping
+mantis shrimp to blood sucking mosquitos.
+Deep Look est une série 4K qui vise à voir l'invisible
+aux confins de notre monde visible, des
+crevettes mantes qui sautent aux yeux aux moustiques suceurs de sang.
+
+Check out Deep Look a the link in the description.
+Découvrez Deep Look sur le lien dans la description.
+
+Crash Course is a Complexly production and this
+episode was filmed in the Doctor Cheryl C. Kinney
+Studio with the help of these wonderful people.
+Crash Course est une production de Complexly et cet
+épisode a été filmé dans le studio du docteur Cheryl C. Kinney
+avec l'aide de ces personnes merveilleuses.
+
+And our amazing graphics team is Thought Cafe.
+Et notre incroyable équipe graphique est Thought Cafe.
+

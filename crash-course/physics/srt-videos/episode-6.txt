@@ -1,0 +1,380 @@
+Cet épisode de Crash Course Physique
+est parrainé par Audible.
+
+Si vous avez regardé notre épisode sur les lois du mouvement de Newton,
+
+alors vous êtes presque un expert sur les forces,
+et la façon dont elles font accélérer les choses.
+
+Mais il y a quelque chose que nous avons mis de côté -
+quelque chose d'important quand vous essayez de
+
+décrire la façon dont les choses bougent dans la vie réelle:
+LE FROTTEMENT.
+
+Ça arrête un joueur de baseball de glisser sur la dernière base.
+
+Et c'est la raison pour laquelle je peux prendre cette tasse sans qu'elle ne glisse entre mes doigts.
+
+Sans frottement, il serait difficile de faire
+… quasiment tout.
+
+Mais ça rend aussi d'autres choses ... assez
+difficile.
+
+Toute personne qui a déjà déplacé un meuble le sait.
+
+Heureusement, le frottement est aussi une force, de sorte que, nous
+physiciens, nous savons ce qu'il faut en faire.
+
+[Générique]
+
+Vous déménagez dans une nouvelle maison, et vous demandez à un ami de venir vous aider, ce qu'il fait, parce qu'il est tout simplement comme ça.
+
+Et vous avez vraiment besoin de son aide, parce que vous devrez déplacer d'énormes bibliothèques et un bureau,
+
+et vous ne pouvez pas faire tout ça tout seul.
+
+Et à la moitié de l'emménagement , vous redisposez le meuble dans votre nouvelle chambre
+
+lorsque vous rencontrez un problème:
+
+Vous poussez et poussez sur votre bibliothèque,
+mais elle ne glisse tout simplement pas sur le sol.
+
+Donc, vous appelez votre ami dans l'autre pièce, et tout les deux en poussant, la bibliothèque commence enfin à glisser.
+
+Mais c'était vraiment difficile de la faire bouger - et
+rester en mouvement - parce qu'il y a une force qui travaille
+
+contre vous - qui empêche la bibliothèque de glisser:
+le frottement.
+
+Et il y a en fait deux types de frottement.
+
+Premièrement, il y a friction CINÉTIQUE - c'est
+la force qui ralentit la bibliothèque lorsqu'elle glisse.
+
+Et il y a aussi le frottement STATIQUE - la force que vous avez dû surmonter pour obtenir le déplacement en premier lieu.
+
+Donc, parlons du frottement cinétique en premier.
+
+C' est une force de résistance, ce qui signifie simplement
+que peu importe quoi, elle va agir pour vous résister.
+
+En d'autres termes, si vous poussez la bibliothèque afin qu'elle glisse vers la gauche, alors la force
+
+de frottement cinétique  agit vers la  droite.
+
+Mais si vous vous déplacez la bibliothèque vers la droite,
+alors le frottement résiste vers la gauche.
+
+Le frottement Cinetique générera également souvent de
+la chaleur ou du son ou les deux.
+
+Alors, quelles en sont les causes?
+
+La bibliothèque et le plancher de bois peuvent avoir l'air lisse, mais si vous regardez leurs surfaces
+
+au microscope, vous verriez qu'ils sont
+couvert de bosses et des rainures minuscules.
+
+Puisque la bibliothèque glisse sur le sol, les surfaces entrent en contact.
+
+et il peut se former de faibles liaisons intermoléculaires. Celles-ci tirent sur la bibliothèque, la ralentissant.
+
+Mais puisque la bibliothèque glisse toujours, elle rompt ces liaisons et se déplace sur ce qui la bloquait avant.
+
+Les molécules fraîchement libérées commencent à être repousser en arrière, et le mouvement produit de la chaleur et du bruit.
+
+Et puis le cycle continue avec la prochaine partie du sol.
+
+Vous vous retrouvez avec une force qui résiste à toute sorte
+de mouvement de glissement, et sa force dépend
+
+en partie des matériaux qui glissent les uns contre les autres.
+
+Les matièraux rugueux ont plus de surfaces pour s'accrocher les uns sur
+sur les autres, ce qui explique pourquoi la bibliothèque sera
+
+plus facile à faire glisser sur le bois que si vous essayez sur un tapis.
+
+Et la façon dont cette rugosité influence le frottement cinétique est appelé coefficient de frottement cinétique,
+
+et il est différent pour à peu près toutes les
+combinaisons de matériaux.
+
+Mais il y a un autre facteur à l'œuvre dans le frottement:
+
+La force avec laquelle les matériaux sont pressés ensemble met plus de surface en contact les unes avec les autres.
+
+Et c'est là que la force normale, ou F_N,
+entre en jeu.
+
+Vous souvenez peut-être de notre dernier épisode,
+que, lorsqu'une force pousse une bibliothèque contre
+
+le sol, le sol la pousse en retour.
+
+Voilà la troisième loi de Newton, et nous appelons la force du sol sur la bibliothèque LA FORCE NORMALE.
+
+Dans ce cas, la force de la bibliothèque
+sur le plancher est juste son poids, mg.
+
+Donc, la force normale serait égale à mg,
+mais pointant vers le haut - égale et opposée.
+
+Donc - Maintenant que nous connaissons les deux principaux facteurs
+qui affectent la force de frottement cinétique:
+
+le coefficient de frottement cinétique - écrit
+comme mu_k - et la force normale, F_N.
+
+Ça ne devrait pas nous surpendre alors, que
+l'équation de frottement cinétique est tout simplement ...
+
+le coefficient fois la force normale.
+
+Mais ce n'est seulement que la moitié du phénomène.
+Qu'en est-il du frottement statique?
+
+Quand vous n'étiez pas en mesure de déplacer la bibliothèque
+au début, c'était à cause du frottement
+
+statique entre la bibliothèque et le plancher.
+
+Comme le frottement cinétique, c'est aussi une force de résistance.
+
+Mais non seulement sa direction peut changer- Mais son intensité aussi.
+
+Disons que vous appuyez sur la bibliothèque légèrement, avec
+une seule main, et elle ne bouge pas.
+
+Etant donné qu'elle n'a pas d'accélération,
+la bibliothèque doit être en équilibre -
+
+ce qui signifie que les forces sur elle s'équilibrent.
+
+Ainsi, la force de frottement statique doit être
+exactement égale à la force de votre main,
+
+mais dans le sens opposé - à cause de
+cet équilibre.
+
+Ce n'est pas la même chose que la force normale, et
+ça n'a rien à voir avec la troisième loi de Newton.
+
+Mais disons que vous la pousser sérieusement avec le dos, en
+poussant aussi fort que vous le pouvez.
+
+La bibliothèque ne bouge toujours pas, donc le frottement statique doit sûrement encore pousser avec la même intensité que vous.
+
+Cependant, le frottement statique entre deux objets peut changer:
+
+Une fois que votre ami commence à pousser aussi, la bibliothèque
+commence à glisser, parce que la force de votre
+
+travail d'équipe est supérieure à la quantité maximale
+de frottement statique - qu'on écrit comme ça.
+
+Et la relation entre le frottement statique maximale et la force normale est similaire à
+
+la relation entre le frottement cinétique
+et la force normale.
+
+Il y a même un coefficient de frottement statique,
+qui mesure la rugosité entre deux
+
+objets - et nous venons de l'écrire comme mu_s.
+
+Et la force maximale de frottement statique est juste égal au coefficient de frottement statique fois la force normale.
+
+Alors maintenant, nous connaissons que les équations pour les deux
+sortes de friction et d'où elles viennent.
+
+Ce qui signifie que nous pouvons utiliser cette information pour découvrir
+comment résoudre des problèmes impliquant le frottement.
+
+Tout comme avec d'autres problèmes liés aux forces, nous commençons par un diagramme de corps libre.
+
+Cela aide à se représenter ce qui pousse et où ,
+afin que nous puissions avoir un aperçu de la situation.
+
+Ensuite, nous décidons des axes: où sont x
+et y ? Et dans quel sens sont-ils positif?
+
+Ce sera utile lorsque les rampes viendront, parce que
+si nous voulons, nous pouvons simplement décider que l'axe x pointe le long
+
+de la rampe et y pointe à travers elle.
+
+La prochaine chose à faire est de séparer les vecteurs en composantes le long de nos nouveaux axes x et y
+
+parce que des choses étranges se produisent pour la force normale quand vous avez quelque chose (comme cette bibliothèque) sur une rampe.
+
+La force normale pointe hors de la rampe,
+parce qu'elle est perpendiculaire à la surface,
+
+mais elle n'est pas égale et opposée à la force de gravité, parce que celle-ci pointe vers le bas.
+
+Au lieu de cela, nous devons utiliser la trigonométrie
+pour séparer la force de gravité en deux
+
+composantes perpendiculaires: l'une vers le bas
+le long de la rampe, et une pointant vers elle.
+
+Ensuite, la force normale sera égale et opposé à la partie de la force graviationnelle
+
+qui pointe dans la rampe.
+
+Donc, voici comment séparer et représenter en diagramme tout ce qui se passe:
+
+L'angle entre la force de gravité et la
+composante pointant dans la rampe est appelé thêta.
+
+Et c'est le même que la pente
+de la rampe.
+
+Ceux-ci font deux côtés d'un triangle rectangle.
+Et puisque la composante pointant dans le
+
+rampe est adjacente à l'angle, nous savons qu'elle est égal à
+(Mg) x (le cosinus de cet angle)
+
+-- idem pour la force normale.
+
+L'autre composante, pointant le long de la
+rampe, est opposée à l'angle.
+
+Donc, encore une fois en utilisant la trigonométrie, nous savons qu'
+elle est égal à (mg) x (le sinus de l'angle).
+
+Enfin ! vous avez dessiné votre diagramme du corps lible, décidé des axes, et séparé la
+
+force de gravité en deux composantes utiles.
+
+Maintenant nous pouvons établir nos équations ! C'est là que la seconde loi de Newtion --
+
+F(nette) = ma -- est très utile.
+
+Il y en aura deux -- une pour la direction x, le long de la rampe, et une
+
+pour la direction y, qui rentre dans la rampe.
+
+Donc disons que la bibliothèque est là où ellle doit être, et que maintenant vous êtes prêt
+
+à déplacer autre chose du camion de démanagement -- cette fois, une boîte de 40 kilogrammes avec un vase très fragile à l'intérieur.
+
+C'est lourd, donc disons que vous l'avez laissée sur la rampe qui va de l'arrière du camion.
+
+jusqu'au sol -- qui fait un angle de 30 degrés avec le sol -- et puis vous êtes partis prendre un verre d'eau.
+
+Il s'avère aussi que vous savez que le coefficient de friction entre la boîte et la rampe est de 0.50
+
+Quelle est l'accélération de la boîte?
+
+Si elle est nulle, elle va rester sur place et votre
+vase devrait être ok lorsque vous serez partis loin de lui.
+
+Sinon, cela signifie que la boîte va commencer glisser vers le bas de la rampe, et vous pouvez avoir un problème.
+
+La première chose que nous devons faire est de dessiner un diagramme du corps libre de cette boîte.
+
+Pour notre système de coordonnées, nous aurons x le long de la rampe, avec le coté positif vers le bas,
+
+et y perpendiculaire à la surface de la rampe avec le coté positif vers le bas
+
+Et nous avons ici plein de forces:
+
+La force normale pointe hors de la rampe.
+
+Il y aussi la force de friction statique qui, maintenant pointe vers le haut de la rampe -
+
+puisqu'elle résiste à la partie de la force gravitationnelle qui pousse la boite vers le bas.
+
+En parlant de cela: la force de gravité
+pointe directement vers le bas -
+
+PAS le long des deux de nos axes, donc nous
+séparons en composantes:
+
+(mg)(cos)(theta) pointe dans la rampe et (mg)(sin)(theta) pointe le long de la rampe vers la bas.
+
+Maintenant que nous avons placé les forces nettes le long de chaque axe:
+
+La boîte n'ira nulle part le long de l'axe y -- rien ne la fera commencer
+
+à décoler au dessus de la surface de la rampe, pas vrai ?
+
+Donc, nous savons que la somme de toutes les forces qui agissent le long de l'axe y doit valoir zero, car elles s'équilibrent
+
+Mais pour les forces le long de l'axe x, le long de la
+rampe, c'est une autre histoire.
+
+Si la boîte n'as pas d'accélération (elle reste debout ou se déplace à vitesse constante) elles s'annulent.
+
+Mais si elle a une accélération le long de la rampe, alors les forces vont s'ajouter à sa masse, fois l'accélération.
+
+Donc, pour découvrir si la boîte glisse, tout ce que nous devons faire est de savoir si la partie de la force gravitationnelle
+
+poussant vers le bas de la rampe, (mg) (sin) (thêta),
+est supérieure à la friction statique maximum qui resiste
+
+En d'autres mots: si le long de la rampe vers le bas c'est la direction positive, est-ce que la force nette est positive ou nulle ?
+
+Les forces ici sont la force gravitationnelle qui pousse la boîte en bas de la rampe, (mg) (sin) (thêta),
+
+et le frottement statique maximum. Mais nous écrivons le frottement statique maximum comme négatif, car
+
+il est orienté dans le sens négatif
+sur notre axe x - la rampe.
+
+Donc, en les ajoutant ensemble, nous obtenons cette équation.
+
+Multipliant ainsi les différentes valeurs
+que composent (mg) (sin) (thêta),
+
+nous constatons que c'est égal à 196,20 Newtons.
+
+Et le frottement statique maximale est juste égale
+au coefficient de (frottement statique) x
+
+(La force normale) - donc en remplaçant par les valeurs , nous trouvons qu'elle vaut 169,91 Newtons.
+
+Ce qui signifie que la force nette est de 26,29 Newtons.
+
+Donc, oui, il y a une force nette poussant la boîte en bas de la rampe, et elle va glisser.
+
+Ce qui signifie que j'ai de mauvaises nouvelles pour vous au sujet de ce vase ...
+
+Mais aujourd'hui, vous avez appris les deux types de frottement:
+
+le frottement cinétique et le frottement statique,
+et comment ils agissent pour résister aux forces appliquées.
+
+Nous avons également parlé de la façon d'utiliser le frottement pour
+décrire le mouvement d'un objet,
+
+y compris la façon de calculer la force normale lorsque cet objet est sur une rampe.
+
+Enfin, nous avons calculé si une boîte sur une rampe commencerait glisser vers le bas.
+
+Cet épisode de Crash Course Physique est sponsorisé par Audible.com
+
+En ce moment, Audible offre aux spectateurs une période d'essai de 30 jours. Il suffit d'aller sur audible.com/crashcourse.
+
+Vous pouvez accéder à leurs programmes et à des titres audio, comme Ce livre - The Tao of Physics par Freetyoff Capra.
+
+Mon plan est de l'écouter sur mon vol de retour cette semaine ... c'est un long vol.
+
+Aller sur audible.com/crashcourse - et assurez-vous d'utiliser ce lien pour nous aider, et obtenir votre période d'essai gratuite.
+
+Crash Course Physique est produit en association avec PBS Digital Studios.
+
+Vous pouvez vous diriger vers leur chaîne pour voir des émissions géniales comme Deep Look, The Good Stuff, et PBS Space Time.
+
+Cet épisode de Crash Course a été filmé au Doctor Cheryl C. Kinney Crash Course Studio
+
+avec l'aide de toutes ces personnes géniales et
+notre équipe de graphiste est Thought Café.
+

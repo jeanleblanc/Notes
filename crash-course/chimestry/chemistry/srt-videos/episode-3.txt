@@ -1,0 +1,297 @@
+Vous avez maintenant une bonne idée de ce qu'est la chimie.
+
+Des atomes et des molécules, qui font des trucs, et dont sont faits les voitures, la nourriture la vie et tout le reste.
+
+Et c'est surtout l'étude de tout ça.
+
+Mais comment en est-on arrivé là?
+
+La vie de tous les jours illustre rarement ce qui a été découvert en chimie
+
+Des découvertes qui n'ont pas été déduites ou créées de toutes pièces;
+
+Mais des lois de l'univers, qui existent simplement parce que l'univers est tel qu'il est.
+
+Aujourd'hui dans Crash Course Chemistry, nous allons jeter un œil sur les origines de la chimie;
+
+Une science qui n'existait même pas, jusqu'à ce qu'un français super-intelligent et super-riche
+
+assemble les pièces du puzzle en une théorie expliquant (litéralement) comment TOUT fonctionne.
+
+Et si vous vous êtes déja retrouvé devant un manuel de chimie, à relire en boucle la même ligne pour la 22° fois,
+
+en vous disant "grrrr!! le type qui a inventé la chimie devrait être exécuté!"
+
+hé bien, vous devriez avoir honte.
+
+Parce que c'est la cas.
+
+Episode 3
+Les Lois Fondamentales
+
+Aintoine Lavoisier
+
+Était quelqu'un de remarquable.
+
+Géologue, botaniste, biologiste et physicien,
+
+Il a participé à la conception du système métrique - créant ce-faisant le langage de la chimie - ,
+
+il a donné leurs noms à l'oxygène et à l'hydrogène,
+
+prédit l’existence du silicone,
+
+Il a distingué ce que sont les éléments,
+
+compris comment les animaux extraient l'énergie de leur nourriture,
+
+déterminé que les éléments peuvent prendre différentes formes
+
+en découvrant que les cendres et les diamants sont faits de carbone pur,
+
+il a publié le tout premier manuel de chimie!
+
+Et il y a une raison pour laquelle la loi de conservation des masse a longtemps été appelée "loi de Lavoisier".
+
+Né dans une famille très riche, Lavoisier a hérité d'énormément d'argent à la mort de sa mère, lorsqu’il avait 5 ans,
+
+Et même s'il a eu une licence de droit (imposée par son père, qui souhaitait que le jeune homme devienne avocat, comme lui) ,
+
+le jeune Antoine a préféré la science au droit.
+
+Quand il a eu l'opportunité de se marier à une riche fille,
+
+dont le père accumulait des fortunes en collectant les taxes pour le gouvernement français,
+
+Il l'a fait. Même si la fille et question avait 13 ans...
+
+Un choix discutable (bien que courant, à l'époque )
+
+Même s'il s’avérera par la suite que la chute d’Antoine viendra plus de la position de sa belle famille que de l'âge de la mariée.
+
+Avec l'age, Marie-Anne est devenue autant une collègue qu'une épouse,
+
+l'assistant dans ses expériences, ainsi que dans l'analyse des papiers d'autres scientifiques.
+
+En effet, c'est Marie-Anne qui a traduit "Essai sur le phlogistique" pour Antoine,
+
+essai qu'il a complétement détruit, en altérant le cours de l'humanité avec ses découvertes.
+
+Avant que Lavoisier ne se mette à décortiquer le travail de tous ses contemporains,
+
+la théorie la plus communément admise sur les transformations chimique
+
+était que certains éléments contenaient une mystérieuse substance, le "phlogiston".
+
+En brûlant les éléments contenant du "phlogiston", ceux-ci perdent ce "phlogiston" pour devenir un nouvel élément.
+
+Lavoisier a pris ces théories ces recherches, les a mélangées avec d'autres;
+
+A cela il a ajouté ses brillantes expériences pour annihiler ce qu'était la chimie à l'époque
+
+avec un petit rien qu'on appelle "Combustion".
+
+Il a déterminé que l'hydrogène n'était pas "de l'air inflammable" mais un élément.
+
+Il a nommé cet élément hydrogène car géneré à partir d'eau, ou "hydro-géneré".
+
+Et il a compris que l'oxygène était un ingrédient vital pour la combustion
+
+ainsi que pour ce qui sera plus tard connu comme l'Oxydation (un phénomène qui reviendra beaucoup dans les prochains épisodes).
+
+Par la suite il prouva que du bois, en brûlant, consomme la même quantité d'oxygène
+
+et produit la même quantité de dioxyde de carbone, que les gens en consommant leur nourriture et en réspirant.
+
+Déterminant ainsi que les humains, ainsi que les animaux, sont alimentés par une "sorte de combustion interne".
+
+A cette époque, des gens que j'hésite à qualifier de chimiste,
+
+avait remarqué que lorsque l'on brûle un objet, sa masse diminue.
+
+par exemple: voilà une mèche, je la pèse quand elle brûle, la masse diminue.
+
+Mais Lavoisier détermina que si toutes les particules de gaz émises étaient collectées,
+
+par exemple en répétant l’expérience dans un récipient fermé, la masse de changeait pas.
+
+Les trucs restent des trucs. On ne peut ni en perdre, ni en créer plus.
+
+l'apparition de ce concept, même s'il est aujoud'hui évident et accepté par toute la communauté scientifique,
+
+marque, selon moi, la fin de l'alchimie et le début de la Chimie.
+
+Les plus grandes découvertes de Lavoisier, ainsi que son ultime découverte, la loi de conservation des masses,
+
+tout cela repose sur des mesures précises et un raisonnement acéré.
+
+Et nous verrons que ce sont deux clés de la chimie, et ce encore aujourd'hui.
+
+Lavoisier était un homme à deux facettes;
+
+D'un côté il a officié en tant que collecteur de taxes, et il a  aidé à créer un mur autour de Paris
+
+afin d'améliorer le système de collecte,
+
+de l'autre, il a défendu la Révolution dès ses débuts.
+
+Mais les ennemis qu'il s'était fait avec son mur,
+
+et les politiciens qu'il avait refusé d'accepter à l'Académie des sciences,
+
+ont fini par le rattraper quand la Révolution a commencé à dégénerer, et il fut décapité le 8 mai 1794.
+
+Il fut cependant absout un an et demi plus tard. sympa.
+
+Marie-Anne reçu tous ses biens confisqués, accompagnés d'une lettre d'excuses, surement quelque chose comme :
+
+"Désolé, on a tué ton mari. Mais on te rend ses affaires!"
+
+Le mathématicien Joseph-Louis Lagrange a dit plus tard à ce sujet :
+
+"Il ne leur a fallu qu'un moment pour faire tomber cette tête et cent années, peut-être, ne suffiront pas pour en reproduire une semblable".
+
+On peut noter (même si on s'éloigne un peu du sujet)
+
+que Lavoisier n'aurait probablement pas pu faire ses plus grandes expériences sans sa fortune familiale;
+
+Il avait fait fabriquer des centaines d'appareils de toutes tailles.
+
+Seules les inégalités contre lesquelles se dressait la Révolution ont permis à Lavoisier de réaliser son œuvre.
+
+Je vous laisse méditer là-dessus de votre côté.
+
+Ses travaux furent, pendant tout un siècle, le socle de toute la Chimie.
+
+Tout en prouvant qu'on a pas besoin d'être riche pour avoir une loi (temporairement, du moins) à son nom,
+
+l'apothicaire Joseph Proust s'est basé sur les mesures extremement précises de Lavoisier
+
+pour montrer qu'un composant chimique contient toujours les même éléments avec les mêmes proportions.
+
+un phénomène qui fut appelé "loi de Proust" pendant un temps,
+
+mais que l'on a renommé "loi des proportions définies", un nom bien plus simple à retenir...
+
+Après cela, John Dalton, un enseignant anglais, a marché dans les pas de Proust
+
+En s'attardant sur ce qui semblait être un problème dans les travaux de Proust:
+
+Le carbone et l'oxygène, en réagissant, suivent deux proportions, et non une seule.
+
+Et si pour nous, aujourd'hui, la réponse à ce problème est évidente;
+
+Le carbone et l'oxygène peuvent s'assembler de deux façons différentes ( monoxyde de carbone ou dioxyde de carbone).
+
+en continuant ses recherches, Dalton fit une découverte fascinante;
+
+En limitant la masse de carbone réagissant à exactement 1 gramme,
+
+la masse d'oxygène consommé pour la création du premier composé est de 1,33 grammes,
+
+alors qu'elle est de 2,66 grammes pour le second, soit précisément le double.
+
+Et ce phénomène se retrouve dans d'autre réactions;
+
+En faisant réagir de l'oxygène et de l'azote, et en limitant la quantité d'azote à 1 gramme, on peut former trois composés;
+
+Le premier consommant 1,75 grammes d'oxygène, le second 0,875 grammes, et le dernier 0,4374 grammes.
+
+Et toutes ces valeurs peuvent être lues comme des fractions simples.
+
+L'oxygène ne réagit pas avec un nuage continu d'azote, mais avec des "morceaux" d'azote, discrets et indivisibles.
+
+La réaction peut se faire de différentes manières, mais toujours avec le même oxygène et le même azote, avec les mêmes propriétés.
+
+Et alors que ,si vous vous souvenez du premier épisode, je vous avait raconté comment Einstein
+
+a prouvé l’existence des atomes grâce à des équations mathématiques complexes,
+
+Dalton a utilisé de simples multiplications pour devenir le premier à récolter des preuves en faveur de l’existence des atomes.
+
+Cependant, Dalton a aussi fait des erreurs;
+
+Il était persuadé que le résultat de ses expériences étaient des éléments à part entière.
+
+En gros, il pensait que les atomes et les molécules n'étaient qu'une seule et même chose.
+
+On lui en tient rarement rigueur; mais passer ça sous silence, c'est ignorer d'autres chimistes tout aussi brillants.
+
+Par exemple, Joseph-Louis Gay-Lussac, qui devint en 1804 le scientifique le plus haut perché de l'histoire
+
+en montant à 7 000 mètres d'altitude dans une montgolfière pour aller prendre des échantillons d'air.
+
+En plus d'être un peu barré, Gay-Lussac a publié un papier expliquant que
+
+tout volume d'oxygène peut générer un volume de vapeur d'eau deux fois plus grand;
+
+indiquant par là que l'oxygène se scinde en deux lors du procédé.
+
+Dalton était farouchement opposé à cette idée, car elle voulait dire que les particules d'oxygène n’étaient pas un, mais deux atomes;
+
+et apparemment, ça allait à l'encontre de sa vision du monde, et il n'a jamais accepté cette théorie, même sur son lit de mort.
+
+Il a fallu l'intervention d'un elfe de maison italien    -désolé- d'un génie italien,
+
+Lorenzo Romano Amadeo Carlo Avogadro di Quaregna e di Cerreto (wow! du premier coup!)
+
+On va juste l'appeler Amadeo Avogadro. Mais en tant que comte, il se devait d'avoir un nom à rallonge.
+
+(et en tant que moi-même, je me devais d’essayer de le prononcer intégralement)
+
+A l'instar de Lavoisier, les contacts politiques d'Avogadro lui apporteront son lot d'ennuis.
+
+Après la chute de Napoléon en 1815, Avogadro a activement participé à la révolution italienne anti-monarchiste,
+
+des rumeurs parlent même d'un fort soutient financier de sa part.
+
+Pour ces actes, il a été démis de ses fonction à l'Académie de Turin, mais il a heureusement gardé la tête sur les épaules.
+
+Avogadro a proposé (et à raison) que deux gaz, dans des contenant de volume identiques,
+
+a la même température et à la même pression, ont le même nombre de molécule, et ce peu importe la nature du gaz.
+
+Donc toute différence de masse entre deux récipients emplis de deux gaz différents
+
+est due a une différence entre les masse des molécules composant les deux gaz.
+
+Et c'est ainsi qu'Avogadro a compris comment il pouvait peser atomes et molécules, tant qu'ils étaient à l'état gazeux.
+
+Pour appuyer son hypothèse (qui valait la peine d'être appuyée)
+
+il a émis l'idée que lors de la création de vapeur d'eau, l'oxygène gazeux se scindait en paires d'atomes d'oxygène,
+
+qu'il nomma "molécule élémentaire", pensant qu'elles ne pouvaient plus être scindée.
+
+Pendant les 50 années qui suivirent, les idées d'Avogadro sur les molécules fondamentales furent ignorées.
+
+peut-être à cause de ses mauvaises théories sur l'assemblage des atomes,
+
+peut-être parce-que l'Italie était loin d'être le fleuron de la science et que donc Avogadro n'était pas considéré comme un grand penseur.
+
+Mais la communauté scientifique, comme à son habitude, à finalement changé d'avis et est revenue sur les idées d'Avogadro.
+
+Non seulement en nommant "loi d'Avogadro" sa proposition sur le nombre de molécules d'un gaz dans un volume donné,
+
+Mais aussi en lui dédiant son propre nombre. peut-être un des nombres les plus importants de la chimie,
+
+et surement un de mes préférés. Mais nous reviendrons plus tard sur ce sujet.
+
+Merci d'avoir regardé cet épisode de Crash Course Chimie!
+
+Si vous avez suivi vous savez maintenant comment nous sommes passé des alchimistes, qui pensaient que l'élément du feu se cachait dans les substances inflammables, en ne demandant qu'à s'enflammer,
+
+aux chimistes, qui ont adopté la loi de conservation des masses telle qu’énoncée par un aristocrate décapité;
+
+qui ont, compris le fonctionnement des composés chimique grâce aux travaux d'un enseignant et d'un apothicaire,
+
+et qui ont finalement décrypté la nature des atomes et des molécules grâce aux idées d'un elfe de maison - d'un noble italien trop longtemps ignoré.
+
+Cet épisode de Crash Course Chimie a été écrit par moi-même, filmé et dirigé par Mickael Aranda, et édité par Nick Jenkins.
+
+Le script a été édité par Blake Di Pastino et Dr. Heiko Langner, et Mickael Aranda s'est aussi occupé du sound design.
+
+Le script a été supervisé par Caitlin Hofmeister, et le design a été fait par l'équipe Thought Café.
+
+Si vous avez des questions, n'hésitez pas à les poser dans les commentaires, Merci d'avoir voulu apprendre à nos côtés dans cet épisode de Crash Course Chimie.
+

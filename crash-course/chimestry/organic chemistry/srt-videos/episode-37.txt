@@ -1,0 +1,789 @@
+You can review content from Crash Course Organic Chemistry with the Crash Course App,
+Vous pouvez consulter le contenu de Crash Course Organic Chemistry avec l'application Crash Course,
+
+available now for Android and iOS devices.
+disponible dès maintenant pour les appareils Android et iOS.
+
+Hi! I’m Deboki Chakravarti and welcome to
+Crash Course Organic Chemistry!
+Salut!  Je suis Deboki Chakravarti et bienvenue au cours intensif de
+chimie organique !
+
+When you buy a new TV, or some bulky kitchen
+gadget,
+Lorsque vous achetez un nouveau téléviseur ou un
+gadget de cuisine encombrant,
+
+it often comes packed in that white, solid
+foam stuff that can make a horrible squeaky noise.
+il est souvent emballé dans cette mousse blanche et
+solide qui peut faire un horrible bruit de grincement.
+
+That's polystyrene, which we met in episode
+35 on polymers.
+C'est le polystyrène, que nous avons rencontré dans l'épisode
+35 sur les polymères.
+
+There, we saw that polystyrene is made by
+joining together lots of styrene monomers.
+Là, nous avons vu que le polystyrène est fabriqué en
+assemblant de nombreux monomères de styrène.
+
+By the way, you can name these substituted
+benzenes with the IUPAC rules we learned before,
+Soit dit en passant, vous pouvez nommer ces
+benzènes substitués avec les règles IUPAC que nous avons apprises auparavant,
+
+but many of them have been known for a long time.
+mais beaucoup d'entre eux sont connus depuis longtemps.
+
+So styrene isn’t just the historical common name –
+Ainsi, le styrène n'est pas seulement le nom commun historique -
+
+it’s also IUPAC official!
+c'est aussi l'officiel de l'IUPAC !
+
+That being said, we can't just harvest some styrene molecules from the garden to make polymers.
+Cela étant dit, nous ne pouvons pas simplement récolter certaines molécules de styrène du jardin pour fabriquer des polymères.
+
+We have to start with plain benzene, which we met in episode 36,
+Il faut commencer par le benzène brut, que nous avons rencontré dans l'épisode 36,
+
+and which we mainly get from crude oil.
+et que nous obtenons principalement du pétrole brut.
+
+Then, we stick an ethyl group onto the benzene and remove a couple hydrogens
+Ensuite, nous collons un groupe éthyle sur le benzène et éliminons quelques hydrogènes
+
+and a pair of electrons in an oxidation reaction called dehydrogenation.
+et une paire d'électrons dans une réaction d'oxydation appelée déshydrogénation.
+
+Which means… we're using an organic chemist’s favorite trick:
+Ce qui veut dire... que nous utilisons l'astuce favorite d'un chimiste organique :
+
+making a carbon-carbon bond!
+faire une liaison carbone-carbone !
+
+In fact, lots of everyday substances have benzene rings in them,
+En fait, de nombreuses substances de tous les jours contiennent des anneaux de benzène,
+
+so attaching stuff to benzene rings is really important for the chemical industry.
+donc attacher des choses aux anneaux de benzène est vraiment important pour l'industrie chimique.
+
+That's what we're going to learn today!
+C'est ce que nous allons apprendre aujourd'hui !
+
+[Theme Music]
+[Thème musical]
+
+To  warm up and think about how we might put a
+group on benzene,
+Pour s'échauffer et réfléchir à la manière dont on pourrait mettre un
+groupe sous benzène,
+
+let’s go back to alkene addition reactions.
+revenons aux réactions d'addition d'alcènes.
+
+If we mix bromine with an alkene at room temperature,
+Si nous mélangeons du brome avec un alcène à température ambiante,
+
+the bromine adds across the double bond with
+no trouble at all.
+le brome s'ajoute à travers la double liaison sans
+aucun problème.
+
+As the bromine gets used up,
+Au fur et à mesure que le brome s'épuise,
+
+we see the solution turn from an orangey-brown
+color to colorless.
+nous voyons la solution passer d'une couleur brun orangé
+à incolore.
+
+But this addition reaction just doesn’t
+happen with benzene.
+Mais cette réaction d'addition ne se produit tout simplement pas
+avec le benzène.
+
+We need a catalyst to see any kind of reaction
+at all,
+Nous avons besoin d'un catalyseur pour voir n'importe quel type de
+réaction,
+
+and even then, the mechanism and the products are different.
+et même alors, le mécanisme et les produits sont différents.
+
+Remember, we usually draw benzene with alternating
+double and single bonds,
+N'oubliez pas que nous dessinons généralement du benzène avec des
+liaisons doubles et simples alternées,
+
+but really the electrons are delocalized around
+the ring.
+mais en réalité, les électrons sont délocalisés autour de
+l'anneau.
+
+We can imagine that each carbon-carbon bond
+is like one-and-a-half bonds.
+Nous pouvons imaginer que chaque liaison carbone-carbone
+est comme une liaison et demie.
+
+As a result, benzene doesn't have true double
+bonds and is less nucleophilic than plain old alkenes.
+En conséquence, le benzène n'a pas de véritables doubles
+liaisons et est moins nucléophile que les anciens alcènes ordinaires.
+
+It’s not enough to throw something potentially
+electrophilic at benzene –
+Il ne suffit pas de lancer quelque chose de potentiellement
+électrophile sur le benzène -
+
+we need a full positive charge, or at least
+something close to it.
+nous avons besoin d'une charge positive complète, ou du moins
+quelque chose de proche.
+
+We’ll talk about electrophiles for this
+reaction in a bit,
+Nous parlerons des électrophiles pour cette
+réaction dans un instant,
+
+but let’s start with the mechanism.
+mais commençons par le mécanisme.
+
+Electrons in the benzene ring attack the positively-charged
+electrophile, forming a covalent bond.
+Les électrons du cycle benzénique attaquent l'électrophile chargé positivement
+, formant une liaison covalente.
+
+This leaves a carbocation on the ring.
+Cela laisse un carbocation sur l'anneau.
+
+This carbocation intermediate is actually
+stabilized by resonance,
+Cet intermédiaire de carbocation est en fait
+stabilisé par résonance,
+
+but it’s not aromatic, so it’s not as
+stable as it could be.
+mais il n'est pas aromatique, il n'est donc pas aussi
+stable qu'il pourrait l'être.
+
+Luckily, there’s an easy fix for that!
+Heureusement, il existe une solution simple pour cela !
+
+A base nabs the now-extra hydrogen next to
+the electrophile,
+Une base attrape l'hydrogène désormais supplémentaire à côté de
+l'électrophile,
+
+the electrons that were in the C-H bond go
+into the delocalized pi system,
+les électrons qui se trouvaient dans la liaison C-H entrent
+dans le système pi délocalisé
+
+and the aromatic ring is restored.
+et le cycle aromatique est restauré.
+
+In this reaction, we've actually swapped a
+hydrogen for the electrophilic atom or group,
+Dans cette réaction, nous avons en fait échangé un
+hydrogène contre l'atome ou le groupe électrophile,
+
+and we’ve maintained the pi system rather
+than permanently breaking the double bond.
+et nous avons maintenu le système pi plutôt
+que de rompre définitivement la double liaison.
+
+So although the mechanism looks a bit like
+the alkene reaction, it’s not the same –
+Ainsi, bien que le mécanisme ressemble un peu à
+la réaction alcène, ce n'est pas la même chose
+
+that was electrophilic addition, while this
+is electrophilic aromatic substitution.
+- c'était une addition électrophile, alors qu'il
+s'agit d'une substitution aromatique électrophile.
+
+We added two halogen atoms in the reaction
+with the alkene,
+Nous avons ajouté deux atomes d'halogène dans la réaction
+avec l'alcène,
+
+whereas only one swaps onto the ring in this
+benzene reaction.
+alors qu'un seul permute sur le cycle dans cette
+réaction benzénique.
+
+Also, in the electrophilic addition with an
+alkene,
+De plus, dans l'addition électrophile avec un
+alcène,
+
+the halogen molecule was polarized by the
+electron-dense double bond.
+la molécule d'halogène était polarisée par la
+double liaison dense aux électrons.
+
+But benzene isn’t a strong enough nucleophile
+to do that.
+Mais le benzène n'est pas un nucléophile assez puissant
+pour faire cela.
+
+So we need to do something to make bromine
+a better electrophile,
+Nous devons donc faire quelque chose pour faire du brome
+un meilleur électrophile,
+
+like tossing some ferric bromide into the
+mix.
+comme ajouter du bromure ferrique dans le
+mélange.
+
+FeBr3 is a Lewis acid, which means it's electron-accepting.
+FeBr3 est un acide de Lewis, ce qui signifie qu'il accepte les électrons.
+
+Now when the bromine molecule approaches the
+benzene ring, and it becomes slightly polarized
+Maintenant, lorsque la molécule de brome s'approche du
+cycle benzénique et qu'elle devient légèrement polarisée
+
+(not enough to react, but a bit)
+(pas assez pour réagir, mais un peu),
+
+the ferric bromide wanders up and says,
+le bromure ferrique se promène et dit:
+
+“Hey, lemme help you with this!”
+"Hé, laissez-moi vous aider avec ça!"
+
+and gives the bromine an extra yank.
+et donne au brome un coup supplémentaire.
+
+With the two compounds working together,
+Avec les deux composés travaillant ensemble,
+
+the bromine builds up a lot of positive charge on one end.
+le brome accumule beaucoup de charge positive à une extrémité.
+
+So much so, it is sometimes represented as
+an ion pair of Br-plus and FeBr-four-minus.
+Tant et si bien, il est parfois représenté comme
+une paire d'ions de Br-plus et FeBr-quatre-moins.
+
+Benzene does its electrophilic aromatic substitution
+thing and... aha!
+Le benzène fait son truc de substitution aromatique électrophile
+et... aha !
+
+The extra bromine in the FeBr-four-minus nabs
+that pesky proton.
+Le brome supplémentaire dans le FeBr-quatre-moins attrape
+ce satané proton.
+
+At the end, we’re left with HBr and the
+FeBr3 we started with –
+À la fin, il nous reste HBr et le
+FeBr3 avec lequel nous avons commencé -
+
+it’s a catalyst.
+c'est un catalyseur.
+
+The drive for the ring to become aromatic
+again is super strong,
+La volonté pour que l'anneau redevienne aromatique
+est super forte,
+
+so sometimes we don’t even show a base deprotonating
+in the reaction mechanism.
+donc parfois nous ne montrons même pas une base déprotonante
+dans le mécanisme de réaction.
+
+Instead, we kind of just show the proton falling
+off, without the FeBr4 acting as a base.
+Au lieu de cela, nous montrons simplement que le proton
+tombe, sans que le FeBr4 agisse comme base.
+
+Now, we've been talking about bromine this
+whole time,
+Maintenant, nous avons parlé de brome
+tout ce temps,
+
+but electrophilic aromatic substitution happens
+the same way with chlorine.
+mais la substitution aromatique électrophile se produit de
+la même manière avec le chlore.
+
+Instead of calling it bromination, it's chlorination!
+Au lieu de l'appeler bromation, c'est de la chloration !
+
+Another well-known aromatic substitution reaction
+is the nitration of benzene.
+Une autre réaction de substitution aromatique bien connue
+est la nitration du benzène.
+
+This is where one or more of the hydrogen
+atoms on the benzene ring are replaced with an NO2 group.
+C'est là qu'un ou plusieurs des
+atomes d'hydrogène du cycle benzénique sont remplacés par un groupe NO2.
+
+Nitrobenzene has actually been around for
+a while.
+Le nitrobenzène existe depuis
+un certain temps.
+
+It was first prepared in 1834 by the German
+chemist Eilhardt Mitscherlich,
+Il a été préparé pour la première fois en 1834 par le
+chimiste allemand Eilhardt Mitscherlich
+
+who is famous for proving that benzene’s
+formula was C6H6 and for naming it after an
+, célèbre pour avoir prouvé que la formule du benzène
+était C6H6 et pour l'avoir nommé d'après une
+
+aromatic resin from Southeast Asia known since
+the 16th century.
+résine aromatique d'Asie du Sud-Est connue depuis
+le XVIe siècle.
+
+Mitscherlich also described an early synthesis
+of benzene by first isolating benzoic acid from a resin,
+Mitscherlich a également décrit une première synthèse
+de benzène en isolant d'abord l'acide benzoïque d'une résine,
+
+and then heating that up with calcium oxide.
+puis en le chauffant avec de l'oxyde de calcium.
+
+This gave a compound he called 'benzin', which
+later became known as the more familiar benzene.
+Cela a donné un composé qu'il a appelé «benzine», qui
+est devenu plus tard connu sous le nom de benzène le plus familier.
+
+Anyway, nitrobenzene is used to make lots
+of other things,
+Quoi qu'il en soit, le nitrobenzène est utilisé pour fabriquer de
+nombreuses autres choses,
+
+including polymers, dyes, pesticides, pharmaceuticals,
+and… explosives.
+notamment des polymères, des colorants, des pesticides, des produits pharmaceutiques
+et… des explosifs.
+
+It’s also a likely carcinogen that may cause
+damage to your nervous system, impair vision,
+C'est aussi un cancérogène probable qui peut
+endommager votre système nerveux, altérer la vision
+
+and irritate your lungs.
+et irriter vos poumons.
+
+Its potential as a poison is featured at the
+center of the plot (spoilers!)
+Son potentiel en tant que poison est au
+centre de l'intrigue (spoilers !) De
+
+of the 1929 story ‘The Poisoned Chocolates Case.’
+l'histoire de 1929 "L'affaire des chocolats empoisonnés".
+
+So although it’s extremely useful stuff,
+Ainsi, même si ce sont des choses extrêmement utiles,
+
+we have to be cautious and read our safety data sheets really carefully!
+nous devons être prudents et lire nos fiches de données de sécurité très attentivement !
+
+Thankfully for me and our director Mark, this
+is a video not a lab!
+Heureusement pour moi et notre directeur Mark,
+c'est une vidéo, pas un labo !
+
+So I can safely describe these animations
+from the comfort of my own home.
+Je peux donc décrire ces animations en toute sécurité
+dans le confort de ma propre maison.
+
+First, we need some concentrated sulfuric
+acid and nitric acid.
+Tout d'abord, nous avons besoin d'
+acide sulfurique et d'acide nitrique concentrés.
+
+The electrophile in this reaction is actually
+the nitronium ion, N-O-2-plus,
+L'électrophile dans cette réaction est en fait
+l'ion nitronium, N-O-2-plus,
+
+which is produced when these two acids react.
+qui est produit lorsque ces deux acides réagissent.
+
+This is a neat bit of chemistry:
+C'est un peu de chimie:
+
+the sulfuric acid acts as a Brønsted-Lowry
+acid,
+l'acide sulfurique agit comme un acide de Brønsted-Lowry
+
+and donates a proton to form the conjugate base hydrogen sulfate.
+et donne un proton pour former la base conjuguée hydrogénosulfate.
+
+Then the nitric acid –
+Ensuite, l'acide nitrique -
+
+which is a strong acid, but is weaker than
+sulfuric acid –
+qui est un acide fort, mais plus faible que
+l'acide sulfurique -
+
+acts as a base and accepts sulfuric acid’s
+proton –
+agit comme une base et accepte le proton de l'acide sulfurique
+-
+
+before breaking up to leave a nitronium ion
+and water.
+avant de se décomposer pour laisser un ion nitronium
+et de l'eau.
+
+We can summarize the overall process with
+this equation.
+Nous pouvons résumer le processus global avec
+cette équation.
+
+And this is just the first step –
+Et ce n'est que la première étape –
+
+we haven't even seen benzene yet!
+nous n'avons même pas encore vu de benzène !
+
+The nitronium ion, with its positive charge,
+L'ion nitronium, avec sa charge positive,
+
+is a great electrophile and irresistible to the pi system in the benzene ring.
+est un grand électrophile et irrésistible pour le système pi dans le cycle benzénique.
+
+So it accepts a pair of electrons from benzene,
+forming our familiar carbocation intermediate.
+Il accepte donc une paire d'électrons du benzène,
+formant notre intermédiaire de carbocation familier.
+
+Then, we lose a proton and the aromatic ring
+system reforms.
+Ensuite, nous perdons un proton et le système cyclique aromatique
+se reforme.
+
+So we’re left with nitrobenzene and regenerate
+a molecule of acid.
+Il nous reste donc du nitrobenzène et régénère
+une molécule d'acide.
+
+The sulfuric acid is effectively unchanged
+throughout this reaction,
+L'acide sulfurique est effectivement inchangé
+tout au long de cette réaction,
+
+it’s acting as a catalyst.
+il agit comme un catalyseur.
+
+Because of this, you might sometimes see this
+mechanism with the bisulfate anion doing the deprotonation,
+Pour cette raison, vous pouvez parfois voir ce
+mécanisme avec l'anion bisulfate effectuant la déprotonation,
+
+reforming the sulfuric acid.
+reformant l'acide sulfurique.
+
+So that was nitration of benzene, where we
+added NO2.
+C'était donc la nitration du benzène, où nous avons
+ajouté du NO2.
+
+And it's similar to our next reaction:
+Et c'est similaire à notre réaction suivante : la
+
+sulfonation of benzene, adding S-O-3-H.
+sulfonation du benzène, en ajoutant du S-O-3-H.
+
+For sulfonation, though, we start by combining
+concentrated sulfuric acid with sulfur trioxide, S-O-3.
+Pour la sulfonation, cependant, nous commençons par combiner de
+l'acide sulfurique concentré avec du trioxyde de soufre, S-O-3.
+
+This mixture is known as fuming sulfuric acid
+or oleum,
+Ce mélange est appelé acide sulfurique fumant
+ou oléum
+
+and is formed during the industrial production of sulfuric acid.
+et se forme lors de la production industrielle d'acide sulfurique.
+
+Like the first step of nitration, sulfuric
+acid donates a proton to form its conjugate base.
+Comme la première étape de la nitration, l'
+acide sulfurique donne un proton pour former sa base conjuguée.
+
+But now the sulfur trioxide is our proton
+acceptor, and our product is this cation.
+Mais maintenant, le trioxyde de soufre est notre
+accepteur de protons, et notre produit est ce cation.
+
+This cation is an great electrophile and accepts
+a pair of electrons from the benzene ring,
+Ce cation est un grand électrophile et accepte
+une paire d'électrons du cycle benzénique
+
+so we once again form a carbocation intermediate!
+, nous formons donc à nouveau un carbocation intermédiaire !
+
+After losing a proton, the aromatic system
+reforms, and we’re left with benzenesulfonic acid.
+Après avoir perdu un proton, le système aromatique se
+reforme et il nous reste de l'acide benzènesulfonique.
+
+Now this has all been fun, but you might be
+like,
+Maintenant, tout cela a été amusant, mais vous pourriez être
+comme,
+
+"Deboki, come on. When are we gonna get to
+the good stuff and make a carbon-carbon bond??"
+"Deboki, allez. Quand allons-nous passer
+aux bonnes choses et créer une liaison carbone-carbone ??"
+
+Well, now's the time.
+Eh bien, c'est le moment.
+
+In 1877, French chemist Charles Friedel and
+American chemist James Crafts published their first joint paper,
+En 1877, le chimiste français Charles Friedel et
+le chimiste américain James Crafts ont publié leur premier article commun,
+
+with a reaction that's now called Friedel–Crafts
+alkylation.
+avec une réaction qui s'appelle maintenant l'alkylation de Friedel-
+Crafts.
+
+It showed that if an alkyl chloride is mixed
+with the Lewis acid aluminum chloride –
+Il a montré que si un chlorure d'alkyle est mélangé
+avec le chlorure d'aluminium de l'acide de Lewis -
+
+which is electron accepting –
+qui accepte les électrons -
+
+the alkyl bit would join onto a benzene ring.
+le bit d'alkyle se joindrait à un cycle benzénique.
+
+Just like the other examples we’ve seen,
+Tout comme les autres exemples que nous avons vus,
+
+the carbocation that forms can accept a pair
+of electrons from the benzene ring to form an intermediate.
+le carbocation qui se forme peut accepter une paire
+d'électrons du cycle benzénique pour former un intermédiaire.
+
+And then that intermediate loses a proton
+to form a substituted benzene.
+Et puis cet intermédiaire perd un proton
+pour former un benzène substitué.
+
+From there, we can make all sorts of cool stuff.
+À partir de là, nous pouvons faire toutes sortes de trucs sympas.
+
+For example, let's look at the Friedel–Crafts
+alkylation mechanism with isopropyl chloride,
+Par exemple, regardons le
+mécanisme d'alkylation de Friedel-Crafts avec du chlorure d'isopropyle
+
+(which, by the way, we can easily make by
+mixing HCl with 1-propene).
+(que, soit dit en passant, nous pouvons facilement fabriquer en
+mélangeant du HCl avec du 1-propène).
+
+Isopropyl chloride reacts with aluminum chloride
+to make a carbocation,
+Le chlorure d'isopropyle réagit avec le chlorure d'aluminium
+pour former un carbocation,
+
+we add some benzene, and we’ve made isopropylbenzene!
+nous ajoutons du benzène et nous avons fait de l'isopropylbenzène !
+
+And isopropylbenzene, otherwise known as cumene,
+can help us synthesize lots of industrially important chemicals,
+Et l'isopropylbenzène, autrement connu sous le nom de cumène,
+peut nous aider à synthétiser de nombreux produits chimiques importants sur le plan industriel,
+
+like acetone and phenol.
+comme l'acétone et le phénol.
+
+There is one thing we have to watch out for
+in Friedel–Crafts alkylation reactions:
+Il y a une chose à laquelle nous devons faire attention
+dans les réactions d'alkylation de Friedel-Crafts :
+
+if a carbocation can rearrange to form a more
+stable carbocation, it will –
+si un carbocation peut se réarranger pour former un
+carbocation plus stable, il le fera -
+
+we saw this in episode 15.
+nous l'avons vu dans l'épisode 15.
+
+For example, if we try to react 1-chloro-2-methylpropane
+with benzene,
+Par exemple, si nous essayons de faire réagir 1-chloro  -2-méthylpropane
+avec du benzène,
+
+we actually get this branched compound called
+tert-butylbenzene!
+on obtient en fait ce composé ramifié appelé
+tert-butylbenzène !
+
+Not 2-methylpropylbenzene, as we might expect.
+Pas de 2-méthylpropylbenzène, comme on pourrait s'y attendre.
+
+This is because the tertiary carbocation
+is more stable than the primary one,
+C'est parce que le carbocation tertiaire
+est plus stable que le primaire,
+
+so, as the chlorine is being transferred to
+the aluminum, there’s a 1,2-hydride shift.
+donc, comme le chlore est transféré à
+l'aluminium, il y a un déplacement 1,2-hydrure.
+
+The tert-butyl cation reacts as our electrophile,
+making tert-butylbenzene.
+Le cation tert-butyle réagit comme notre électrophile,
+produisant du tert-butylbenzène.
+
+We’ll talk about this more in an upcoming
+episode,
+Nous en reparlerons davantage dans un prochain
+épisode
+
+and learn how to work around these rearrangements!
+et apprendrons comment contourner ces réarrangements !
+
+Anyway, Friedel and Crafts weren’t done
+with their organic chemistry innovations!
+Quoi qu'il en soit, Friedel et Crafts n'en avaient pas fini
+avec leurs innovations en chimie organique !
+
+In their next two papers, they extended their
+work to include acylation.
+Dans leurs deux articles suivants, ils ont étendu leurs
+travaux pour inclure l'acylation.
+
+Alkylation and acylation sound similar, but
+this is a totally different reaction!
+L'alkylation et l'acylation semblent similaires,
+mais c'est une réaction totalement différente !
+
+Acylation is adding an acyl group to a compound–
+L'acylation consiste à ajouter un groupe acyle à un composé -
+
+the thing you get if you remove a hydroxyl
+group from an organic acid.
+ce que vous obtenez si vous supprimez un
+groupe hydroxyle d'un acide organique.
+
+Acyl groups contain a double-bonded oxygen
+and an alkyl group.
+Les groupes acyle contiennent un oxygène à double liaison
+et un groupe alkyle.
+
+In acylation reactions, an acyl halide
+Dans les réactions d'acylation, un halogénure d'acyle
+
+(not an alkyl halide)
+(pas un halogénure d'alkyle)
+
+is treated with the metal catalyst.
+est traité avec le catalyseur métallique.
+
+Specifically in Friedel-Crafts acylation,
+Plus précisément dans l'acylation de Friedel-Crafts,
+
+we react an acid chloride with the Lewis acid aluminum chloride to join an acetyl group onto the benzene.
+nous faisons réagir un chlorure d'acide avec le chlorure d'aluminium de l'acide de Lewis pour joindre un groupe acétyle au benzène.
+
+The chlorine in acetyl chloride adds to Al-Cl-three
+to form Al-Cl-four-minus,
+Le chlore dans le chlorure d'acétyle s'ajoute à Al-Cl-trois
+pour former Al-Cl-quatre moins,
+
+and a cation known as an acylium ion that
+is stabilized by resonance.
+et un cation connu sous le nom d'ion acylium qui
+est stabilisé par résonance.
+
+This acylium ion is now our electrophile.
+Cet ion acylium est maintenant notre électrophile.
+
+So, here we go again:
+Donc, c'est reparti :
+
+it's attacked by electrons in the benzene
+ring, the carbocation intermediate forms,
+il est attaqué par des électrons dans le cycle
+benzénique, les formes intermédiaires de carbocation,
+
+it loses a proton, and we get our product.
+il perd un proton, et nous obtenons notre produit.
+
+In this case, the product is acetophenone.
+Dans ce cas, le produit est l'acétophénone.
+
+It's the simplest aromatic ketone and a useful
+starting material for lots of resins and fragrances.
+C'est la cétone aromatique la plus simple et un
+matériau de départ utile pour de nombreuses résines et parfums.
+
+This thorough work of Friedel and Crafts established their reactions as the methods for making carbon–carbon bonds with aromatic rings,
+Ce travail approfondi de Friedel et Crafts a établi leurs réactions comme les méthodes de création de liaisons carbone-carbone avec des cycles aromatiques, de
+
+so they've been an important part of synthetic
+organic chemistry toolboxes ever since.
+sorte qu'elles constituent depuis lors une partie importante des
+boîtes à outils de la chimie organique synthétique.
+
+Next time we’ll talk about what happens
+when we add more than one group to a benzene ring,
+La prochaine fois, nous parlerons de ce qui se passe
+lorsque nous ajoutons plus d'un groupe à un cycle benzénique,
+
+but in this episode we’ve learned:
+mais dans cet épisode, nous avons appris : les
+
+Halogens will only react with benzene in the
+presence of a catalyst,
+halogènes ne réagissent avec le benzène qu'en
+présence d'un catalyseur,
+
+We can nitrate benzene with a mix of sulfuric
+acid and nitric acid,
+nous pouvons nitrater le benzène avec un mélange  d'
+acide sulfurique et d'acide nitrique,
+
+We can sulfonate benzene with fuming sulfuric
+acid, and
+nous pouvons sulfoner le benzène avec de l'acide sulfurique fumant
+, et
+
+We can make carbon-carbon bonds on benzene
+rings using Friedel-Crafts alkylation and acylation.
+nous pouvons créer des liaisons carbone-carbone sur les cycles benzéniques en
+utilisant l'alkylation et l'acylation de Friedel-Crafts.
+
+Thanks again for watching this episode of
+Crash Course Organic Chemistry.
+Merci encore d'avoir regardé cet épisode de
+Crash Course Organic Chemistry.
+
+If you want to help keep all Crash Course
+free for everybody, forever,
+Si vous voulez aider à garder tous les cours intensifs
+gratuits pour tout le monde, pour toujours,
+
+you can join our community on Patreon.
+vous pouvez rejoindre notre communauté sur Patreon.
+

@@ -1,0 +1,704 @@
+You've heard this before, but it bears repeating.
+Carbon is the element of life.
+Vous avez déjà entendu cela, mais cela mérite d'être répété.
+Le carbone est l'élément de la vie.
+
+So much so that when we explore other planets the first thing we look for is compounds that contain carbon.
+À tel point que lorsque nous explorons d'autres planètes, la première chose que nous recherchons, ce sont des composés contenant du carbone.
+
+In fact, there was a time when we thought carbon compounds could only be produced by living things.
+En fait, il fut un temps où nous pensions que les composés carbonés ne pouvaient être produits que par des êtres vivants.
+
+So early chemists called them, as we still
+do today organic compounds.
+Les premiers chimistes les appelaient donc, comme nous le faisons encore
+aujourd'hui, des composés organiques.
+
+Scientists back then considered biological
+molecules to be almost mystical in origin.
+À l'époque, les scientifiques considéraient les molécules biologiques comme
+étant d'origine presque mystique.
+
+Until, 1828 when German chemist Friedrich Wöhler discovered that urea, a component of urine,
+Jusqu'en 1828, lorsque le chimiste allemand Friedrich Wöhler découvrit que l'urée, un composant de l'urine,
+
+could be synthesized simply by heating ammonium
+cyanate, an inorganic compound.
+pouvait être synthétisée simplement en chauffant du
+cyanate d'ammonium, un composé inorganique.
+
+That proved biological molecules were just chemicals that could be created and manipulated in the lab.
+Cela prouvait que les molécules biologiques n'étaient que des produits chimiques qui pouvaient être créés et manipulés en laboratoire.
+
+Suddenly a new branch of chemistry was born,
+organic chemistry. It's like my favorite chemistry.
+Soudain, une nouvelle branche de la chimie est née,
+la chimie organique.  C'est comme ma chimie préférée.
+
+So what is it about carbon though, that makes
+it so special? Well, a lot of things.
+Mais qu'en est-il du carbone, qui le
+rend si spécial ?  Eh bien, beaucoup de choses.
+
+Like silicon, which we talked about a few weeks ago, carbon is in group 14 on the periodic table,
+Comme le silicium, dont nous avons parlé il y a quelques semaines, le carbone appartient au groupe 14 du tableau périodique
+
+and like all of the elements in that group,
+it has 4 valence electrons.
+des éléments et, comme tous les éléments de ce groupe,
+il possède 4 électrons de valence.
+
+In carbon those 4 electrons can bond to other
+atoms in a really promiscuous number of configurations
+Dans le carbone, ces 4 électrons peuvent se lier à d'autres
+atomes dans un nombre très restreint de configurations
+
+to form all kinds of structures.
+pour former toutes sortes de structures.
+
+Which is why carbon is to biology, which silicon
+is to geology.
+C'est pourquoi le carbone est à la biologie ce que le silicium
+est à la géologie.
+
+Just as silicon forms the basis, not only
+for sand,
+Tout comme le silicium constitue la base, non seulement
+du sable,
+
+but also most of the rocks on earth, carbon
+is the foundation of most biological molecules.
+mais aussi de la plupart des roches sur terre, le carbone
+est à la base de la plupart des molécules biologiques.
+
+Really all biological molecules...right? Yup.
+Vraiment toutes les molécules biologiques... n'est-ce pas ?  Ouais. 
+
+The simplest organic molecules are pure hydrocarbons
+containing only carbon and hydrogen. Hydro-carbon.
+Les molécules organiques les plus simples sont des hydrocarbures purs
+ne contenant que du carbone et de l'hydrogène.  Hydrocarbure. 
+
+They are where we're going to start our six
+week exploration of organic chemistry.
+C'est là que nous allons commencer nos six
+semaines d'exploration de la chimie organique.
+
+And they're a good place to start, partly because they play by the most straight forward rules.
+Et ils sont un bon endroit pour commencer, en partie parce qu'ils jouent selon les règles les plus simples.
+
+When all carbons in a pure hydrocarbon are bound to the maximum number of atoms, 4 atoms each,
+Lorsque tous les carbones d'un hydrocarbure pur sont liés au nombre maximum d'atomes, 4 atomes chacun, de
+
+so that there are no double or triple bonds anywhere; these compounds are considered to be full or saturated.
+sorte qu'il n'y a aucune double ou triple liaison nulle part ;  ces composés sont considérés comme pleins ou saturés.
+
+That means that all the carbons have 4 bonds, either with other carbon atoms or with hydrogen atoms,
+Cela signifie que tous les carbones ont 4 liaisons, soit avec d'autres atomes de carbone, soit avec des atomes d'hydrogène
+
+in which case the hydrogens are bound to one
+carbon.
+, auquel cas les hydrogènes sont liés à un
+carbone.
+
+No questions,
+no exceptions.
+Aucune question,
+aucune exception.
+
+These are the simple rules that govern some of the world's most useful, or at least, used compounds.
+Ce sont les règles simples qui régissent certains des composés les plus utiles au monde, ou du moins les plus utilisés.
+
+The hydrocarbons that we use as diesel fuel,
+gasoline, methane, propane.
+Les hydrocarbures que nous utilisons comme carburant diesel,
+essence, méthane, propane.
+
+You're gonna learn what these and other compounds
+look like, what they're names mean,
+Vous allez apprendre à quoi ressemblent ces composés et d'
+autres, ce que signifient leurs noms
+
+and how they take part in the reactions that
+fuel our lives.
+et comment ils participent aux réactions qui
+alimentent nos vies.
+
+Welcome to organic chemistry!
+Bienvenue dans la chimie organique !
+
+[Theme Music]
+[Thème musical]
+
+The fully saturated hydrocarbons I just described are usually called by the much simpler name, alkanes.
+Les hydrocarbures entièrement saturés que je viens de décrire sont généralement appelés par le nom beaucoup plus simple, les alcanes.
+
+The simplest of the alkanes is one you've heard of before, methane, or CH4, the main compound in natural gas.
+Le plus simple des alcanes est celui dont vous avez déjà entendu parler, le méthane ou CH4, le principal composé du gaz naturel.
+
+The next simplest alkane contains 2 carbons side by side, each one of them in bonded to 3 hydrogen atoms.
+L'alcane le plus simple suivant contient 2 carbones côte à côte, chacun d'eux étant lié à 3 atomes d'hydrogène.
+
+This is ethane, C2H6. Another gas, and it's
+mostly used in the production of plastics.
+C'est de l'éthane, C2H6.  Un autre gaz, et il est
+principalement utilisé dans la production de plastiques.
+
+If we add another carbon and enough hydrogens
+to fill all those spaces we get our next alkane:
+Si nous ajoutons un autre carbone et suffisamment d'hydrogènes
+pour remplir tous ces espaces, nous obtenons notre prochain alcane : le
+
+propane, C3H8.
+propane, C3H8.
+
+Also a gas at room temperature and normal
+atmospheric pressure,
+Également un gaz à température ambiante et à
+pression atmosphérique normale, le
+
+propane is a common fuel for cooking, heating,
+and vehicles,
+propane est un combustible courant pour la cuisine, le chauffage
+et les véhicules,
+
+as well as a propellant for everything from
+aerosol cans to paintball guns.
+ainsi qu'un propulseur pour tout, des
+bombes aérosols aux pistolets de paintball.
+
+And we could do this all day, adding carbons
+to the chain and giving each compound a name,
+Et nous pourrions faire cela toute la journée, en ajoutant des carbones
+à la chaîne et en donnant un nom à chaque composé,
+
+but that would be pretty boring.
+mais ce serait assez ennuyeux.
+
+Things get more interesting, though, with
+the next alkane, butane, C4H10,
+Les choses deviennent plus intéressantes, cependant, avec
+le prochain alcane, le butane, C4H10,
+
+because there are two different forms of it.
+car il en existe deux formes différentes.
+
+The first is what you'd expect:
+Le premier est ce à quoi vous vous attendez :
+
+just a chain of carbons with hydrogens stuck wherever they're needed to make each carbon have 4 bonds.
+juste une chaîne de carbones avec des hydrogènes collés là où ils sont nécessaires pour que chaque carbone ait 4 liaisons.
+
+This is called normal butane or n-butane.
+C'est ce qu'on appelle le butane normal ou n-butane.
+
+But you can also arrange the 4 carbons differently
+by making a chain of 3
+Mais vous pouvez également disposer les 4 carbones différemment
+en faisant une chaîne de 3
+
+and then branching the fourth one off the
+center of the chain.
+, puis en ramifiant le quatrième hors du
+centre de la chaîne.
+
+This is called isobutane or i-butane.
+C'est ce qu'on appelle l'isobutane ou i-butane.
+
+And even though it has the same chemical formula as n-butane, its structure gives it different properties.
+Et même s'il a la même formule chimique que le n-butane, sa structure lui confère des propriétés différentes.
+
+For example, n-butane boils at -0.5 degrees Celsius while isobutane boils at -11.7 degrees Celsius.
+Par exemple, le n-butane bout à -0,5 degrés Celsius tandis que l'isobutane bout à -11,7 degrés Celsius.
+
+These different structures for compounds that have the same molecular formula are called isomers.
+Ces différentes structures de composés ayant la même formule moléculaire sont appelées isomères.
+
+As you add more and more carbon atoms to the molecule, there are more and more ways that you can arrange them.
+Au fur et à mesure que vous ajoutez de plus en plus d'atomes de carbone à la molécule, il existe de plus en plus de façons de les organiser.
+
+So the number of atoms is butane only allows
+for 2 isomers, n-butane and isobutane.
+Ainsi, le nombre d'atomes de butane ne permet
+que 2 isomères, le n-butane et l'isobutane.
+
+But pentane, C5H12, has 3 possible isomers
+and C6H14, known as hexane, has 5.
+Mais le pentane, C5H12, a 3 isomères possibles
+et C6H14, connu sous le nom d'hexane, en a 5.
+
+Again, I could do this all day.
+Encore une fois, je pourrais faire ça toute la journée.
+
+But looking at this table of the number of possible isomers you could see that that escalated quickly.
+Mais en regardant ce tableau du nombre d'isomères possibles, vous pouvez voir que cela a augmenté rapidement.
+
+The take away here is that molecules that have the same mass and number of atoms can form different structures.
+Ce qu'il faut retenir ici, c'est que des molécules qui ont la même masse et le même nombre d'atomes peuvent former des structures différentes.
+
+And as their structure changes, their properties
+also change.
+Et à mesure que leur structure change, leurs propriétés
+changent également.
+
+As a general rule, the larger and more complex alkanes are, the more densely their molecules can pack together,
+En règle générale, plus les alcanes sont gros et complexes, plus leurs molécules peuvent se regrouper de manière dense,
+
+which means that they tend to be liquid or
+solid instead of gaseous at room temperature.
+ce qui signifie qu'ils ont tendance à être liquides ou
+solides plutôt que gazeux à température ambiante.
+
+So alkanes with 5 to 18 chains of carbon atoms like octane and gasoline are liquids at room temperature
+Ainsi, les alcanes avec 5 à 18 chaînes d'atomes de carbone comme l'octane et l'essence sont des liquides à température ambiante
+
+and those with more than 18 carbon atoms like
+paraffin or other waxes are solids.
+et ceux avec plus de 18 atomes de carbone comme la
+paraffine ou d'autres cires sont des solides.
+
+Now you're probably picking up on a lot of words that you've heard before, even outside of chemistry class:
+Maintenant, vous reprenez probablement beaucoup de mots que vous avez déjà entendus, même en dehors des cours de chimie :
+
+octane, propane, methane, paraffin, and so
+on.
+octane, propane, méthane, paraffine, etc.
+
+You can chalk that up to the enormous popularity
+of these compounds in our daily lives.
+Vous pouvez attribuer cela à l'énorme popularité
+de ces composés dans notre vie quotidienne.
+
+Like I said, hydrocarbons are super useful because of the types of reactions they can take part in,
+Comme je l'ai dit, les hydrocarbures sont super utiles en raison des types de réactions auxquelles ils peuvent participer,
+
+which I will explain more in a bit.
+ce que j'expliquerai plus en détail dans un instant.
+
+But first, I think it's high time you know
+what these names actually mean.
+Mais d'abord, je pense qu'il est grand temps que vous sachiez
+ce que signifient réellement ces noms.
+
+Much like the general language of chemistry
+that we talked about months ago,
+Tout comme le langage général de la chimie
+dont nous avons parlé il y a des mois,
+
+organic nomenclature has its own system of
+prefixes, suffixes, and numbers
+la nomenclature organique a son propre système de
+préfixes, de suffixes et de chiffres
+
+that tell you what's in the compound being
+named.
+qui vous indiquent ce qu'il y a dans le composé
+nommé.
+
+Now you gotta know the prefixes because they
+indicate how many carbon atoms are present.
+Maintenant, vous devez connaître les préfixes car ils
+indiquent le nombre d'atomes de carbone présents.
+
+Here's one that I know you've heard before:
+meth.
+En voici une dont je sais que vous avez déjà entendu parler : la
+méthamphétamine.
+
+Meth- in a name always indicates a molecule
+or branch containing one carbon atom.
+Meth- dans un nom indique toujours une molécule
+ou une branche contenant un atome de carbone.
+
+So the difference between amphetamines doctors
+prescribe
+Ainsi, la différence entre les amphétamines
+prescrites par les médecins
+
+and methamphetamines that are sold on the
+streets is that
+et les méthamphétamines vendues dans la
+rue est que la
+
+methamphetamine has a methyl group, CH3 with
+one carbon,
+méthamphétamine a un groupe méthyle, CH3 avec
+un carbone,
+
+where amphetamine just has a single hydrogen
+atom.
+où l'amphétamine n'a qu'un seul
+atome d'hydrogène.
+
+Hopefully, that's helpful to you.
+Don't do drugs.
+J'espère que cela vous sera utile.
+Ne te drogue pas.
+
+Eth- in a name means 2carbon atoms.
+Eth- dans un nom signifie 2 atomes de carbone.
+
+Prop- means 3.
+But- means 4.
+Prop- signifie 3.
+Mais- signifie 4.
+
+From there, most of the prefixes will be familiar
+from geometry class
+À partir de là, la plupart des préfixes seront familiers
+de la classe de géométrie
+
+and you can review them in tables and learn
+them.
+et vous pouvez les revoir dans des tableaux et les
+apprendre.
+
+I'm not gonna go through them all. There are
+a few naming rules that are specific to alkanes.
+Je ne vais pas tous les passer en revue.  Il
+existe quelques règles de dénomination spécifiques aux alcanes.
+
+First, alkanes are always named based on the longest possible continuous chain in their structure.
+Premièrement, les alcanes sont toujours nommés en fonction de la chaîne continue la plus longue possible dans leur structure.
+
+For example, even though this looks like a 5 carbon chain intersecting with a 6 carbon chain,
+Par exemple, même si cela ressemble à une chaîne à 5 carbones se croisant avec une chaîne à 6 carbones,
+
+it actually contains an 8 carbon chain if
+you look at it close enough.
+elle contient en fait une chaîne à 8 carbones si
+vous la regardez d'assez près.
+
+So this is considered an octane with two carbon
+chain attached to one of its carbon atoms.
+Ceci est donc considéré comme un octane avec une chaîne à deux carbones
+attachée à l'un de ses atomes de carbone.
+
+When shorter carbon chains are attached to longer ones like this, they're still named using the same prefixes,
+Lorsque des chaînes carbonées plus courtes sont attachées à des chaînes plus longues comme celle-ci, elles sont toujours nommées en utilisant les mêmes préfixes,
+
+but we stuff a little -yl onto the end to
+show that they're just attachments.
+mais nous insérons un petit -yl à la fin pour
+montrer qu'il ne s'agit que d'attachements.
+
+Since this attachment has two carbons, we
+call it an ethyl group.
+Puisque cet attachement a deux carbones, nous l'
+appelons un groupe éthyle.
+
+And the attachment with just one carbon that turns amphetamine into methamphetamine, that's the methyl group.
+Et l'attachement avec un seul carbone qui transforme l'amphétamine en méthamphétamine, c'est le groupe méthyle.
+
+Attachments are also given a number to show
+you where along the chain they're attached.
+Les pièces jointes reçoivent également un numéro pour
+vous montrer où elles sont attachées le long de la chaîne.
+
+The long chain is always numbered carbon by
+carbon
+La longue chaîne est toujours numérotée carbone par
+carbone
+
+in the direction that gives the attachments
+the lowest numbers possible.
+dans le sens qui donne aux attaches
+les numéros les plus bas possibles.
+
+So, if we number the chain the right way,
+the ethyl group will end up at position 4.
+Donc, si nous numérotons la chaîne dans le bon sens,
+le groupe éthyle se retrouvera à la position 4.
+
+But if you do it the wrong way, it's in position
+5.
+Mais si vous le faites dans le mauvais sens, il est en position
+5.
+
+Low numbers win so it's numbered from left
+to right in this case.
+Les petits nombres gagnent, il est donc numéroté de gauche
+à droite dans ce cas.
+
+So when we put it all together, this compound
+is called 4 ethyl octane.
+Ainsi, lorsque nous mettons tout cela ensemble, ce
+composé s'appelle 4 éthyl octane.
+
+Congratulations! You just named an organic
+compound.
+Toutes nos félicitations!  Vous venez de nommer un
+composé organique.
+
+Now particularly astute and studious students
+would have noticed something here.
+Maintenant, des étudiants particulièrement astucieux et studieux
+auraient remarqué quelque chose ici.
+
+Earlier, I introduced you to isobutane, a compound with four carbons that are not all in a chain.
+Plus tôt, je vous ai présenté l'isobutane, un composé à quatre carbones qui ne sont pas tous en chaîne.
+
+They call that isobutane and it is an isomer
+of butane,
+Ils appellent cela l'isobutane et c'est un isomère
+du butane,
+
+but according to these all important rules of nomenclature, it's not actually any sort of butane at all.
+mais selon toutes ces règles de nomenclature importantes, ce n'est en fait aucune sorte de butane.
+
+The longest carbon chain is just 3 carbons long, so it's propane with one methyl group sticking off of it.
+La chaîne carbonée la plus longue ne fait que 3 atomes de carbone, c'est donc du propane avec un groupe méthyle qui en sort.
+
+If we wanted to give a technical name for
+it, isobutane would be 2-methylpropane.
+Si nous voulions lui donner un nom
+technique, l'isobutane serait le 2-méthylpropane.
+
+Though, since the second carbon is the only place where the methyl group can go without the molecule,
+Cependant, puisque le deuxième carbone est le seul endroit où le groupe méthyle peut aller sans la molécule,
+
+once again becoming butane, properly proper
+chemists just drop the two and call it methylpropane.
+redevenant du butane, les chimistes convenablement appropriés
+abandonnent simplement les deux et l'appellent méthylpropane.
+
+Now suppose you have more than one of the
+same size group attached to the same chain,
+Supposons maintenant que vous ayez plus d'un groupe de
+même taille attaché à la même chaîne,
+
+like two methyl groups on the same alkane.
+comme deux groupes méthyle sur le même alcane.
+
+In this case, you put a number for both of
+them
+Dans ce cas, vous mettez un nombre pour les deux
+
+and then prefixes like di- and tri- are used
+to indicate multiple attachments.
+, puis des préfixes comme di- et tri- sont utilisés
+pour indiquer plusieurs pièces jointes.
+
+So for instance, if an octane chain has methyl
+groups attached with second and fifth carbons,
+Ainsi, par exemple, si une chaîne d'octane a des
+groupes méthyle attachés avec des deuxième et cinquième atomes de carbone,
+
+it's called 2,5-dimethyloctane.
+elle s'appelle 2,5-diméthyloctane.
+
+On the other hand, if you have attachments
+of different lengths,
+En revanche, si vous avez des pièces jointes
+de longueurs différentes, il
+
+you just name and number each one separately,
+being sure to list them in alphabetical order.
+vous suffit de les nommer et de les numéroter séparément,
+en veillant à les lister par ordre alphabétique.
+
+The structure we just used had a methyl group
+on it and an ethyl group on its fifth,
+La structure que nous venons d'utiliser avait un groupe méthyle
+dessus et un groupe éthyle sur son cinquième,
+
+it would be 5-ethyl-2-methyloctane.
+ce serait du 5-éthyl-2-méthyloctane.
+
+This is super useful for several reasons.
+C'est super utile pour plusieurs raisons.
+
+One, because there are trillions of ways that
+organic compounds can come together.
+Premièrement, parce qu'il existe des milliards de façons dont
+les composés organiques peuvent se réunir.
+
+But also because you can work backwards from
+a name and build a structural formula from it.
+Mais aussi parce que vous pouvez travailler à rebours à partir d'
+un nom et construire une formule structurelle à partir de celui-ci.
+
+Let's try that out.
+We're gonna build 2-ethyl-3,5-dimethylnonane.
+Essayons ça.
+Nous allons fabriquer du 2-éthyl-3,5-diméthylnonane.
+
+Start with the main chain, nonane. The prefix
+non- indicates 9 carbons.
+Commencez par la chaîne principale, nonane.  Le préfixe
+non- indique 9 carbones.
+
+Then, add an ethyl group, a 2 carbon chain on number 4 and then methyl groups, just 1 carbon on carbons 3 & 5.
+Ensuite, ajoutez un groupe éthyle, une chaîne à 2 carbones sur le numéro 4, puis des groupes méthyle, juste 1 carbone sur les carbones 3 et 5.
+
+Our final step is to add enough hydrogen atoms
+to give every carbon atom 4 bonds.
+Notre dernière étape consiste à ajouter suffisamment d'atomes d'hydrogène
+pour donner à chaque atome de carbone 4 liaisons.
+
+And now, the molecule is complete.
+It's like a puzzle that we got to make.
+Et maintenant, la molécule est complète.
+C'est comme un puzzle que nous devons faire.
+
+Of course these compounds don't exist in isolation.
+Bien sûr, ces composés n'existent pas isolément.
+
+Like any other compound, they can undergo
+a whole variety of reactions.
+Comme tout autre composé, ils peuvent
+subir toute une variété de réactions.
+
+But there are 3 types of alkane reactions that are important enough for us to cover right now right here.
+Mais il existe 3 types de réactions d'alcanes qui sont suffisamment importantes pour que nous les couvrons maintenant ici.
+
+The first is the kind that made alkane the
+most common fuel for combustion or burning.
+Le premier est celui qui a fait de l'alcane le
+combustible le plus courant pour la combustion ou la combustion.
+
+You'll note here that I'm saying burning, a common misperception, even among chemistry students,
+Vous remarquerez ici que je dis brûler, une perception erronée courante, même parmi les étudiants en chimie,
+
+is that combustion somehow equals explosion.
+est que la combustion équivaut en quelque sorte à une explosion.
+
+While that would definitely make things more
+interesting, also more dangerous,
+Bien que cela rende certainement les choses plus
+intéressantes, et aussi plus dangereuses,
+
+those two things are not synonymous.
+ces deux choses ne sont pas synonymes.
+
+Combustion is the type of reaction that powers
+your car and your propane grill,
+La combustion est le type de réaction qui alimente
+votre voiture et votre gril au propane,
+
+even candles among many other alkane fuels.
+même les bougies parmi de nombreux autres carburants alcanes.
+
+The general reaction for combustion requires a hydrocarbon, oxygen, and a source of heat energy.
+La réaction générale de combustion nécessite un hydrocarbure, de l'oxygène et une source d'énergie thermique.
+
+In this example, we're using methane, but
+it works the same for any pure hydrocarbon.
+Dans cet exemple, nous utilisons du méthane, mais
+cela fonctionne de la même manière pour tout hydrocarbure pur.
+
+The only thing that changes is the coefficients.
+La seule chose qui change, ce sont les coefficients.
+
+The products of a complete combustion
+of a pure hydrocarbon are always
+Les produits d'une combustion complète
+d'un hydrocarbure pur sont toujours
+
+carbon dioxide and water vapor,
+just those two things.
+du dioxyde de carbone et de la vapeur d'eau,
+juste ces deux choses.
+
+The next major reaction that alkanes experience
+is halogenation,
+La prochaine réaction majeure que subissent les alcanes
+est l'halogénation,
+
+when halogen atoms like fluorine or chlorine are substituted for one or more hydrogen atoms in the alkane.
+lorsque des atomes d'halogène comme le fluor ou le chlore remplacent un ou plusieurs atomes d'hydrogène dans l'alcane.
+
+For example, the rather well-known compound
+chloroform is more correctly called trichloromethane.
+Par exemple, le composé plutôt bien connu du
+chloroforme est plus correctement appelé trichlorométhane.
+
+It's a molecule of methane that is reacted
+with a chlorine gas,
+C'est une molécule de méthane qui réagit
+avec un gaz chloré,
+
+resulting in three of the hydrogen atoms being
+replaced with chlorine atoms.
+ce qui entraîne le remplacement de trois des atomes d'hydrogène par des
+atomes de chlore.
+
+The final reaction type is dehydrogenation,
+and it, somewhat obviously,
+Le type de réaction final est la déshydrogénation,
+et c'est, quelque peu évidemment
+
+is the removal of hydrogen atoms from alkanes.
+, l'élimination des atomes d'hydrogène des alcanes.
+
+For example, ethane can be dehydrogenated
+by this reaction,
+Par exemple, l'éthane peut être déshydrogéné
+par cette réaction,
+
+and as you can see, the result is that the carbon atoms are no longer saturated with hydrogen, thus,
+et comme vous pouvez le voir, le résultat est que les atomes de carbone ne sont plus saturés d'hydrogène,
+
+requiring the formation of double or triple bonds to give the atoms the 4 bonds that they need.
+nécessitant ainsi la formation de doubles ou triples liaisons pour donner aux atomes les 4 liaisons qu'ils  besoin. 
+
+Hydrocarbons that contain double or triple
+bonds have
+Les hydrocarbures qui contiennent des doubles ou des triples
+liaisons ont
+
+their own specific groups with different rules,
+reactions, and properties than alkanes.
+leurs propres groupes spécifiques avec des règles, des
+réactions et des propriétés différentes de celles des alcanes.
+
+And those are the topic of next week's episode.
+Et ce sont le sujet de l'épisode de la semaine prochaine.
+
+For now though, thank you for watching this
+episode of Crash Course Chemistry.
+Pour l'instant, merci d'avoir regardé cet
+épisode de Crash Course Chemistry.
+
+If you were listening, you learned about some of the different classifications of organic compounds,
+Si vous écoutiez, vous avez appris certaines des différentes classifications des composés organiques,
+
+the structure and properties of the simplest
+alkanes.
+la structure et les propriétés des alcanes les plus simples
+.
+
+You also learned about isomers and why they're important, how to name an alkane based on its structure,
+Vous avez également appris les isomères et pourquoi ils sont importants, comment nommer un alcane en fonction de sa structure
+
+and how to build an alkane structure from
+its name.
+et comment construire une structure d'alcane à partir de
+son nom.
+
+And finally, you learned a few important types
+of chemical reactions that alkanes experience:
+Et enfin, vous avez appris quelques types importants
+de réactions chimiques subies par les alcanes : la
+
+combustion, halogenation, and dehyrdogenation.
+combustion, l'halogénation et la déshydrogénation.
+
+This episode was written by Edi Gonzalez,
+it was edited by Blake de Pastino,
+Cet épisode a été écrit par Edi Gonzalez,
+il a été édité par Blake de Pastino
+
+and our chemistry consultant is Dr. Heiko
+Langner.
+et notre consultant en chimie est le Dr Heiko
+Langner.
+
+It was filmed, edited, and directed by Nicholas Jenkins. The script supervisor was Caitlin Hofmeister.
+Il a été filmé, monté et réalisé par Nicholas Jenkins.  Le superviseur du scénario était Caitlin Hofmeister.
+
+And Michael Aranda is our sound designer.
+Our graphics team, as always, is Thought Cafe.
+Et Michael Aranda est notre concepteur sonore.
+Notre équipe graphique, comme toujours, est Thought Cafe.
+

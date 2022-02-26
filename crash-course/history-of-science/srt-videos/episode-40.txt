@@ -1,0 +1,498 @@
+As some scientists worked to control life
+at the scale of global agriculture, others
+
+worked in a different direction.
+
+The mid-1900s was a period of reexamination
+of one of our big questions: what, exactly,
+
+is life?
+
+Let's talk DNA and Biotech!!!
+
+[Intro Music Plays]
+
+Although the story is complex, it’s often
+simplified to one big “discovery” of DNA
+
+made in 1953 by two dudes who won Nobels.
+
+… There were other people involved.
+
+By the 1940s, researchers knew that the cell
+nucleus contained thread-shaped structures
+
+called chromosomes that played a critical
+role in cell division.
+
+Chromosomes seemed to be made of a mixture
+of protein and other stuff.
+
+And this other key stuff was a molecule made
+out of carbon, hydrogen, nitrogen, and phosphorus.
+
+This was deoxyribonucleic acid, or DNA.
+
+Isolated, DNA looks kind of like white powder.
+
+But no one knew DNA’s structure.
+
+A molecule’s structure—the way it fits
+together—tells us about how it works, and
+
+maybe how to redesign it.
+
+In 1944, Austrian physicist Erwin Schrödinger—the
+cat guy—published a short book called What
+
+is Life?, reviewing this deceptively simple
+question.
+
+Scientists knew that there must be a unit
+of heredity, the “gene,” that must be
+
+part of the chromosomes.
+
+Schrödinger examined the laws of physics,
+determining that the gene must be very small,
+
+only a few thousand atoms in size.
+
+It must vary.
+
+Yet it must be orderly and not give rise to
+too many mutations.
+
+So Schrödinger threw down the challenge:
+how does this “gene” physically encode
+
+the information that defines life?
+
+He argued that this was among the most interesting
+questions facing science.
+
+And he suggested that one of the people best
+poised to answer it was biophysicist Max Delbrück.
+
+Delbrück ran a loosely organized network
+of researchers at Cold Spring Harbor Laboratory,
+
+Caltech, and elsewhere called the Phage Group.
+
+The Group worked with viruses that parasite
+bacteria, called bacteriophages.
+
+Viruses are just nucleic acids in little protein
+robot-bodies.
+
+The Phage Group did important work on how
+life works at a small scale, using radioactive
+
+tracers inside viruses.
+
+But even they couldn’t tell if it was the
+DNA part or the protein part of the virus
+
+that took over the bacterium.
+
+And no one could explain how either physically
+encoded information.
+
+So by 1950, the pressure to understand DNA
+was on… even though not everyone was convinced
+
+that DNA was the physical substrate of heredity
+at all!
+
+Despite this uncertainty, scientists set out
+to win this race.
+
+The most famous was American chemist Linus
+Pauling—who went on to join the short list
+
+of people with two Nobel Prizes!
+
+Pauling was an obvious choice because in 1951
+he characterized the alpha helix structure
+
+of common proteins.
+
+He used an empirical approach, X-ray crystallography:
+X-rays—which have wavelengths much smaller
+
+than visible light—pierce molecules, then
+scatter, making a diffraction pattern that
+
+reveals information about the molecule’s
+shape.
+
+Crystallography is an incredibly finicky technique.
+
+But Pauling correctly showed how common proteins
+fold up into elegant little spirals.
+
+He then decided to tackle DNA—guessing incorrectly
+that it was made up of three helices.
+
+Also in the race was James Watson, a brilliant,
+young, and brash American biochemist.
+
+“Brash” is the historian's euphemism for
+“sexist jerk.”
+
+He was a member of the Phage Group and a fan
+of Schrödinger’s What is Life?
+
+Watson traveled to the University of Cambridge’s
+Cavendish Laboratory.
+
+There, he partnered with English biophysicist
+Francis Crick, who became one of the great
+
+theorists of modern biology.
+
+Watson and Crick’s approach was modeling
+DNA—asking which atoms went where, based
+
+on the laws of chemistry and physics.
+
+Now, if you read Watson’s best-selling autobiography,
+The Double Helix, you’d think he and Crick
+
+did the heavy lifting in discovering the structure
+of DNA.
+
+You wouldn’t know that Harvard University
+Press refused to publish his book because
+
+of its potentially libelous characterization
+of their collaborators!
+
+ThoughtBubble, shows us another side of the
+story:
+
+Watson cast English chemist Rosalind Franklin
+
+as the villain.
+
+Franklin worked at King’s College London,
+not the Cavendish.
+
+And she was Jewish.
+
+And she was… also… a woman.
+
+She also went to a talk by Watson and Crick
+and tore apart their suggested model of DNA.
+
+The head of the Cavendish was humiliated, forbidding them from more DNA modeling.
+
+You see, Franklin was a leading expert in
+
+X-ray crystallography.
+
+Her photographs had shown that there were
+two forms of DNA: A, which is dry and crystalline,
+
+and B, which is wet—how DNA looks in living
+cells.
+
+This discovery was a fundamental step in understanding
+DNA.
+
+(We now know there is a third form, Z-DNA.)
+
+Then in 1952, Franklin made one of the most
+famous photographs in science: Photo 51.
+
+It shows a clear “X” pattern—the signature
+of a helix, or spiral-stair shape.
+
+But Franklin didn’t know that the deputy
+director of her lab,
+
+Maurice Wilkins, was secretly passing her
+notes and images to Watson and Crick.
+
+The rest became history…
+
+In 1953—working on their model, reviewing
+facts about the four nucleic acids in DNA,
+
+or bases, and looking at Franklin’s images—Watson
+and Crick realized DNA must be a double helix.
+
+And that the bases must be paired so that
+the As equal the Ts and the Gs match the Cs.
+
+The zipper shape of the double helix allows
+DNA to transmit information from generation
+
+to generation with few copying errors: a cellular
+machine “unzips” the staircase down the
+
+middle, and figures out one half of a base
+pair by looking at the other.
+
+If one base is an A, it must connect to a
+T. Simple!
+
+Watson and Crick invited Franklin to Cambridge
+to review their work.
+
+She immediately acknowledged that it was correct.
+
+She just didn’t know how much they had relied
+on her own work!
+
+Thanks Thoughtbubble,
+After publishing their model and the data
+
+backing it up, Watson and Crick became scientific
+celebrities.
+
+Franklin, however, died prematurely of cancer,
+likely due to her work with X-rays.
+
+And the Nobel Prize is not awarded posthumously.
+
+So in 1962, Watson, Crick, and Wilkins shared
+the Nobel without acknowledging the debt they
+
+owed to Franklin.
+
+But, in part because Watson described Franklin
+so horribly in his book—he called Franklin
+
+“Wilkins’s assistant!”—historians
+went back and researched her life, writing
+
+her back into the role of protagonist in the
+story of DNA.
+
+So a scientific object like DNA is assembled
+out of other scientific objects such as X-ray
+
+images, textbooks, and three-dimensional models
+of tin and cardboard—but also erroneous
+
+ideas such as Pauling’s triple helix, as
+well as relationships and competitive drives
+
+for fame.
+
+With DNA revealed, life itself could theoretically
+now be not only “read” but “programmed.”
+
+Remember, this was around the same time as
+the birth of computing!
+
+So DNA became a machine-language “program”
+to make RNA, which became an assembly-language
+
+“program” for making proteins, which are
+what life is made out of.
+
+This process was thought to be quite computer-like,
+moving only in one direction—from DNA to
+
+RNA to proteins.
+
+This rule, first expressed by Crick, is the
+Central Dogma of Genetics.
+
+We now know it’s more complicated, but the
+essential idea is useful.
+
+The question after 1953 was another how—the
+genetic code.
+
+DNA has four nucleic acid “letters”—A,
+T, G, and C, with a U instead of a T in RNA.
+
+But how do these code for the twenty amino-acid
+“letters” of the proteins that we’re
+
+made out of?
+
+Some of the DNA discoverers went back to the
+theoretical drawing board.
+
+In 1954, Watson and Soviet-American physicist
+George Gamow founded the “RNA
+
+tie club” to figure it out.
+
+And Gamow, Crick, and others did important
+theoretical work.
+
+But in 1961, biochemists Marshall Nirenberg
+and Heinrich Matthaei cracked
+
+the first piece of the code.
+
+And, over the 1960s, other biochemists figured
+out the rest, including how RNA works.
+
+Also in 1953, University of Chicago chemist
+Stanley Miller and his advisor Harold Urey
+
+produced amino acids, the building
+blocks of life, out of an electrified broth
+
+of not-living nutrients.
+
+The Miller–Urey experiment supported the
+idea that all life on earth arose in a primordial
+
+soup of basic nutrients, billions of years
+ago.
+
+Some scientists, though—including Crick!—found
+this unlikely, and thought life on earth probably
+
+came from outer space.
+
+An idea called panspermia.
+
+The discoveries of 1953 marked a new era in
+biology.
+
+Evolution now had a molecular basis: mutations
+are copy errors in DNA.
+
+Rare, but inevitable.
+
+Mutations give rise to the variation that
+Darwin and Wallace described.
+
+Molecular techniques revolutionized the study
+of evolution.
+
+Species were regrouped by the similarity of
+their DNA, not their visible physical structures.
+
+Crabs, for example, evolved several times,
+millions of years apart.
+
+It turns out that having armor-skin and claw
+hands, and being able to digest literal trash
+
+is super useful in different watery environments!
+
+Another use of the newly deciphered genetic
+code was industrial.
+
+Arguably, biotechnology had been around for
+a while.
+
+Beer, after all, is made using engineered
+strains of brewers’ yeast.
+
+But this process takes a long time and involves
+strain selection, or picking types of yeast
+
+with useful properties—not molecular-scale
+editing.
+
+After 1953, scientists started looking for
+genes connected to traits of interest.
+
+The problem was, knowing what genes code for
+what traits wasn’t useful without having
+
+a way to move those genes around.
+
+So biotech took off in the early 1970s in
+San Francisco, after Paul Berg, Stanley Cohen,
+
+and Herbert Boyer published the results of
+experiments with recombinant DNA or rDNA—new,
+
+synthetic sections of DNA made by cloning
+sections from one organism’s genome into
+
+another.
+
+With rDNA, scientists could splice sequences
+of DNA.
+
+Berg became the first person to join DNA from
+two different species in one microbe.
+
+rDNA allowed scientists to copy the genes
+involved in the creation of the important
+
+hormone insulin, which regulates how much
+sugar the body has in its bloodstream, into
+
+bacteria and yeast.
+
+Before rDNA, people with diabetes had to get
+insulin from pigs or other animals, but synthetic
+
+insulin is more pure.
+
+Industrial genetic engineering exploded.
+
+In 1980, the Supreme Court of the United States
+heard a landmark case called Diamond v. Chakrabarty
+
+The question was whether or not a company
+could patent a bioengineered lifeform—a
+
+microbe designed to eat up spilled oil.
+
+SCOTUS said yes: if you engineer an organism’s
+genome, then it becomes a technology.
+
+And, by 1980, the biotech industry also had
+its first initial public offerings, or IPOs.
+
+Several companies launched with massive valuations.
+
+And universities—especially around San Francisco
+and Boston—began to view their scientific
+
+discoveries as major sources of money.
+
+They set up offices of technology transfer
+or licensing.
+
+Scientific knowledge—and life itself—became
+potential technologies.
+
+Next time—we’ll look at how biological
+technologies changed medicine and agriculture.
+
+It’s time for the birth of Big Pharma, GMOs,
+and IVF.
+
+Crash Course History of Science is filmed
+in the Dr. Cheryl C. Kinney studio in Missoula,
+
+Montana and it’s made with the help of all
+this nice people and our animation team is
+
+Thought Cafe.
+
+Crash Course is a Complexly production.
+
+If you wanna keep imagining the world complexly
+with us, you can check out some of our other
+
+channels like Nature League, Sexplanations, and Scishow.
+
+And, if you’d like to keep Crash Course
+free for everybody, forever, you can support
+
+the series at Patreon; a crowdfunding platform
+that allows you to support the content you
+
+love.
+
+Thank you to all of our patrons for making
+Crash Course possible with their continued
+
+support.
+

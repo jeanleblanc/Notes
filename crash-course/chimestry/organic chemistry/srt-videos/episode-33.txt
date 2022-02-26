@@ -1,0 +1,798 @@
+You can review content from Crash Course Organic Chemistry with the Crash Course App,
+Vous pouvez consulter le contenu de Crash Course Organic Chemistry avec l'application Crash Course,
+
+available now for Android and iOS devices.
+disponible dès maintenant pour les appareils Android et iOS.
+
+Hi! I’m Deboki Chakravarti and welcome to
+Crash Course Organic Chemistry!
+Salut!  Je suis Deboki Chakravarti et bienvenue au cours intensif de
+chimie organique !
+
+We’ve gathered a pretty impressive toolbox
+of chemical reactions,
+Nous avons rassemblé une boîte à outils assez impressionnante
+de réactions chimiques
+
+and can use them to transform a lot of functional
+groups we might come across.
+et pouvons les utiliser pour transformer de nombreux groupes fonctionnels que
+nous pourrions rencontrer.
+
+But as we meet more complex molecules, we
+run into a problem:
+Mais au fur et à mesure que nous rencontrons des molécules plus complexes,
+nous rencontrons un problème :
+
+in addition to the bits of molecules we want
+to react,
+en plus des morceaux de molécules que nous voulons
+faire réagir,
+
+we find that other bits start reacting too!
+nous constatons que d'autres morceaux commencent à réagir aussi !
+
+Imagine for a second you’re going to paint
+a room in your house
+Imaginez une seconde que vous allez peindre
+une pièce de votre maison
+
+(like maybe purple and yellow, to turn your
+office into a remote set for Crash Course)
+(comme peut-être du violet et du jaune, pour transformer votre
+bureau en un ensemble distant pour Crash Course)
+
+If you’re being careful, you’ll use painters’
+tape to cover up the edges of window frames,
+Si vous faites attention, vous utiliserez du
+ruban adhésif de peintre pour couvrir  sur les bords des cadres de fenêtres,
+
+light switches, or decorative trim.
+des interrupteurs d'éclairage ou des garnitures décoratives.
+
+Once you’ve finished painting, you peel
+off the paint-splattered tape,
+Une fois que vous avez fini de peindre, vous
+décollez le ruban adhésif éclaboussé de peinture,
+
+revealing those pristine old surfaces in your
+otherwise new room.
+révélant ces anciennes surfaces immaculées dans votre
+nouvelle pièce.
+
+And we can do this with molecules too!
+Et nous pouvons le faire avec des molécules aussi !
+
+We can prevent a functional group from reacting
+by "taping over" it before we throw a bunch of reactants at the molecule.
+Nous pouvons empêcher un groupe fonctionnel de réagir
+en le "tapant" avant de lancer un tas de réactifs sur la molécule.
+
+Then we remove the "tape" at just the right
+moment,
+Ensuite, nous retirons la "bande" au bon
+moment, de
+
+so our original functional group remains in
+the otherwise new molecule.
+sorte que notre groupe fonctionnel d'origine reste dans
+la molécule autrement nouvelle.
+
+This painters’ tape for chemical reactions
+can go by many metaphorical names,
+Cette bande de peintres pour les réactions chimiques
+peut porter de nombreux noms métaphoriques,
+
+but it's technically called a protecting group.
+mais elle s'appelle techniquement un groupe protecteur.
+
+In this episode, we’ll learn how we can
+use protecting groups to control how our molecules react.
+Dans cet épisode, nous apprendrons comment nous pouvons
+utiliser des groupes protecteurs pour contrôler la réaction de nos molécules.
+
+[Theme Music]
+[Thème musical]
+
+In episode 32, we saw how we can reduce carbonyl
+compounds using metal hydrides.
+Dans l'épisode 32, nous avons vu comment réduire les
+composés carbonylés à l'aide d'hydrures métalliques.
+
+This is really straightforward if we have
+a molecule with just one carbonyl group.
+C'est vraiment simple si nous avons
+une molécule avec un seul groupe carbonyle.
+
+But say we’ve got a molecule with more than
+one carbonyl group,
+Mais supposons que nous ayons une molécule avec plus d'
+un groupe carbonyle
+
+and we only want to reduce one of them.
+et que nous ne voulions en réduire qu'un seul.
+
+Then, things get a bit more complicated,
+Ensuite, les choses se compliquent un peu,
+
+because reducing agents will reduce the more
+reactive functional group fastest.
+car les agents réducteurs réduiront plus
+rapidement le groupe fonctionnel le plus réactif.
+
+So if we want to reduce only the less reactive
+functional group… we run into a problem.
+Donc, si nous voulons réduire uniquement le groupe fonctionnel le moins réactif
+… nous nous heurtons à un problème.
+
+We looked at the reactivity of carboxylic
+acid derivatives in the previous episode.
+Nous avons examiné la réactivité des
+dérivés d'acide carboxylique dans l'épisode précédent.
+
+Let’s add in the other carbonyl compounds
+we’ve encountered to give us the full picture:
+Ajoutons les autres composés carbonyles que
+nous avons rencontrés pour nous donner une image complète : à
+
+As an example, this molecule has two carbonyl
+functional groups:
+titre d'exemple, cette molécule a deux
+groupes fonctionnels carbonyles :
+
+a ketone and an amide.
+une cétone et un amide.
+
+If we use a reducing agent like lithium aluminum
+hydride, that reactivity comes into play.
+Si nous utilisons un agent réducteur comme l'hydrure de lithium et d'aluminium
+, cette réactivité entre en jeu.
+
+The ketone gets reduced first into an alcohol,
+and then the amide gets reduced into an amine.
+La cétone est d'abord réduite en alcool,
+puis l'amide est réduit en amine.
+
+Lithium aluminium hydride is pretty much the
+sledgehammer option for reducing carbonyl compounds,
+L'hydrure de lithium et d'aluminium est à peu près l'
+option marteau pour réduire les composés carbonylés,
+
+as it can reduce them all.
+car il peut tous les réduire.
+
+It can even reduce the less-reactive carboxylic
+acids, albeit more slowly.
+Il peut même réduire les acides carboxyliques moins réactifs
+, quoique plus lentement.
+
+If we want a bit more nuance, though, we can
+select a different reducing agent,
+Si nous voulons un peu plus de nuances, cependant, nous pouvons
+sélectionner un agent réducteur différent,
+
+like either lithium or sodium borohydride.
+comme le lithium ou le borohydrure de sodium.
+
+Lithium borohydride can reduce aldehydes and
+ketones pretty quickly, or esters more slowly.
+Le borohydrure de lithium peut réduire les aldéhydes et les
+cétones assez rapidement, ou les esters plus lentement.
+
+Sodium borohydride can reduce aldehydes and
+ketones, but it’s speediest with aldehydes.
+Le borohydrure de sodium peut réduire les aldéhydes et les
+cétones, mais il est plus rapide avec les aldéhydes.
+
+Taking that molecule with two functional groups
+from before,
+En prenant cette molécule avec deux groupes fonctionnels
+d'avant, le
+
+sodium borohydride would be the perfect choice
+if we want to reduce the ketone,
+borohydrure de sodium serait le choix parfait
+si nous voulons réduire la cétone,
+
+but not the amide.
+mais pas l'amide.
+
+But none of these reducing agents will help
+us reduce the amide but not the ketone.
+Mais aucun de ces agents réducteurs ne nous aidera
+à réduire l'amide mais pas la cétone.
+
+To stop the ketone from reacting, we need
+to cover it in our chemical painters' tape:
+Pour empêcher la cétone de réagir, nous devons la
+recouvrir de notre ruban de peinture chimique :
+
+a protecting group.
+un groupe protecteur.
+
+Except because protecting groups can look
+really different depending on what they're covering,
+Sauf que les groupes protecteurs peuvent avoir un aspect
+très différent selon ce qu'ils recouvrent
+
+or which reactant they're hiding from, it's
+more like giving the ketone a unique chemical disguise.
+ou le réactif dont ils se cachent, cela revient
+plus à donner à la cétone un déguisement chimique unique.
+
+With sunglasses and a fake moustache,
+Avec des lunettes de soleil et une fausse moustache,
+
+our ketone is unrecognizable to lithium aluminum
+hydride and they don't react.
+notre cétone est méconnaissable à l'
+hydrure d'aluminium lithium et ils ne réagissent pas.
+
+The ketone can slip past the reducing agent
+undetected,
+La cétone peut passer devant l'agent réducteur
+sans être détectée
+
+and take off the disguise once the reaction
+is complete!
+et enlever le déguisement une fois la
+réaction terminée !
+
+Mission accomplished.
+Mission accomplie. 
+
+As we know from spy movies, there are both
+elegant and bad disguises –
+Comme nous le savons grâce aux films d'espionnage, il existe à la fois
+des déguisements élégants et mauvais -
+
+and the same applies for chemical disguises.
+et il en va de même pour les déguisements chimiques.
+
+There's a three-part checklist for a good
+protecting group:
+Il existe une liste de contrôle en trois parties pour un bon
+groupe protecteur :
+
+1. It needs to be easy to attach to the part
+of the molecule we want to protect.
+1. Il doit être facile à attacher à la partie
+de la molécule que nous voulons protéger.
+
+We want to avoid multiple additional reactions or using inconvenient reaction conditions.
+Nous voulons éviter de multiples réactions supplémentaires ou l'utilisation de conditions de réaction peu pratiques.
+
+Just like we want to smoothly change into
+a new spy outfit,
+Tout comme nous voulons nous changer en douceur dans
+une nouvelle tenue d'espionnage,
+
+not fumble around with an ironing board before
+swapping shirts.
+pas tâtonner avec une planche à repasser avant d'
+échanger des chemises.
+
+2. It shouldn’t react under the conditions
+we need to use later in the reaction,
+2. Il ne devrait pas réagir dans les conditions que
+nous devons utiliser plus tard dans la réaction,
+
+because that might make it more difficult
+to remove afterwards.
+car cela pourrait le rendre plus difficile
+à éliminer par la suite.
+
+Just like we need a disguise to work in all
+locations.
+Tout comme nous avons besoin d'un déguisement pour travailler dans tous les
+endroits.
+
+Traditional army camouflage is great in a
+forest,
+Le camouflage traditionnel de l'armée est super dans une
+forêt,
+
+but not so great if we have to swim in the
+ocean too –
+mais pas si bien si nous devons aussi nager dans l'
+océan -
+
+then our clothes are heavy and damp and a
+pain to change out of.
+alors nos vêtements sont lourds et humides et il est
+difficile de se changer.
+
+3. It needs to be easy to remove, without
+affecting other groups in the molecule.
+3. Il doit être facile à retirer, sans
+affecter les autres groupes de la molécule.
+
+If removing it requires a reaction that will
+change other functional groups in the molecule,
+Si l'enlever nécessite une réaction qui
+modifiera d'autres groupes fonctionnels dans la molécule,
+
+we'll get a headache trying to change them
+back!
+nous aurons mal à la tête en essayant de les
+retransformer !
+
+Just like we want our fake moustache to come
+off easily,
+Tout comme nous voulons que notre fausse moustache se
+détache facilement,
+
+and without leaving incriminating glue marks
+or synthetic hair all over our clothes!
+et sans laisser de traces de colle incriminantes
+ou de poils synthétiques partout sur nos vêtements !
+
+For example, one way to protect aldehydes
+and ketones is to turn them into an acetal group.
+Par exemple, une façon de protéger les aldéhydes
+et les cétones est de les transformer en un groupe acétal.
+
+We met the acetal group in Episode 29 when
+we added methanol to a ketone.
+Nous avons rencontré le groupe acétal dans l'épisode 29 lorsque
+nous avons ajouté du méthanol à une cétone.
+
+This group protects aldehydes and ketones
+from reactions with nucleophiles and bases,
+Ce groupe protège les aldéhydes et les cétones
+des réactions avec les nucléophiles et les bases,
+
+and the diol makes a cool little ring structure.
+et le diol forme une petite structure en anneau.
+
+With our protecting group in place,
+Avec notre groupe protecteur en place,
+
+we can go ahead and react our amide with lithium aluminium hydride to convert it to an amine:
+nous pouvons aller de l'avant et faire réagir notre amide avec de l'hydrure de lithium et d'aluminium pour le convertir en amine :
+
+So far, so good – our protecting group was
+easy to put in place,
+jusqu'à présent, tout va bien - notre groupe protecteur a été
+facile à mettre en place,
+
+so that's one check mark.
+c'est donc une coche.
+
+And it hasn’t reacted under the reaction
+conditions used to reduce our amide,
+Et il n'a pas réagi dans les
+conditions de réaction utilisées pour réduire notre amide,
+
+so that's another check.
+c'est donc une autre vérification.
+
+All we need to do is add acid to hydrolyze
+our chemical disguise away –
+Tout ce que nous avons à faire est d'ajouter de l'acide pour hydrolyser
+notre déguisement chimique
+
+so it checks the final box of being easy to
+remove, too!
+- il vérifie donc la dernière case d'être facile à
+enlever aussi !
+
+Let’s take a closer look at this removal
+mechanism.
+Examinons de plus près ce
+mécanisme de suppression.
+
+One of the oxygens in the acetal group grabs
+a proton,
+L'un des oxygènes du groupe acétal attrape
+un proton,
+
+which leads to one of the oxygen-carbon bonds
+breaking with a push from the neighboring oxygen.
+ce qui conduit à la rupture de l'une des liaisons oxygène-carbone
+avec une poussée de l'oxygène voisin.
+
+Next a water molecule swoops in, kicking off
+a chain of proton transfers and electron movement,
+Ensuite, une molécule d'eau se précipite, déclenchant
+une chaîne de transferts de protons et de mouvements d'électrons,
+
+which eventually forms an oxonium ion.
+qui finit par former un ion oxonium.
+
+Then, a final water molecule plucks the hydrogen
+off of the oxonium to remake the ketone.
+Ensuite, une dernière molécule d'eau arrache l'
+hydrogène de l'oxonium pour refaire la cétone.
+
+So, with help from an acetal protecting group,
+Ainsi, avec l'aide d'un groupe protecteur acétal,
+
+we can reduce a carbonyl group even if it’s
+less reactive than other carbonyl groups in the molecule.
+nous pouvons réduire un groupe carbonyle même s'il est
+moins réactif que les autres groupes carbonyle de la molécule.  Cependant,
+
+We don't just use chemical disguises with
+carbonyls, though.
+nous n'utilisons pas seulement des déguisements chimiques avec des
+carbonyles.
+
+Take a look at this reaction:
+Jetez un œil à cette réaction :
+
+we want to remove the bromo functional group
+on the right-hand side of the starting material,
+nous voulons supprimer le groupe fonctionnel bromo
+sur le côté droit du matériau de départ
+
+and replace it with an additional alcohol
+and phenyl group.
+et le remplacer par un
+groupe alcool et phényle supplémentaire.
+
+Let’s start by comparing the number of carbons
+in our starting material and product to see where we need to form a bond.
+Commençons par comparer le nombre de carbones
+dans notre matériau de départ et notre produit pour voir où nous devons former une liaison.
+
+If we can transform our starting reagent into
+a Grignard,
+Si nous pouvons transformer notre réactif de départ
+en Grignard,
+
+we could hypothetically use it to join onto
+an epoxide like we learned in Episode 24.
+nous pourrions hypothétiquement l'utiliser pour nous joindre à
+un époxyde comme nous l'avons appris dans l'épisode 24.
+
+But wait – there’s a problem.
+Mais attendez, il y a un problème.
+
+Grignards will react with alcohols in an acid-base
+reaction!
+Les Grignards vont réagir avec les alcools dans une réaction acido-basique
+!
+
+So as soon as we form the Grignard, we won't
+get the reaction we want.
+Donc dès que nous formerons le Grignard, nous n'obtiendrons pas
+la réaction que nous souhaitons.
+
+Our Grignard molecule could react with itself,
+deprotonating the alcohol group on the other end,
+Notre molécule de Grignard pourrait réagir avec elle-même,
+déprotonant le groupe alcool à l'autre extrémité,
+
+or it could react with another reactant molecule.
+ou elle pourrait réagir avec une autre molécule de réactif.
+
+Either way, we're nowhere near the product
+we wanted to make.
+Quoi qu'il en soit, nous sommes loin du produit que
+nous voulions fabriquer.
+
+So we’ll need a protecting group!
+Nous aurons donc besoin d'un groupe de protection !
+
+And there are two classic chemical disguises
+that alcohols can use.
+Et il existe deux déguisements chimiques classiques
+que les alcools peuvent utiliser.
+
+One option is silyl ethers, with a silicon
+atom covalently bonded to an alkoxy group.
+Une option est les éthers silyliques, avec un
+atome de silicium lié de manière covalente à un groupe alcoxy.
+
+There are a few different varieties with different
+alkyl groups attached,
+Il existe quelques variétés différentes avec différents
+groupes alkyle attachés,
+
+but the one we’ll use here is tert-butyldimethylsilyl
+ether, or TBS for short.
+mais celui que nous utiliserons ici est le tert-butyldiméthylsilyl
+éther, ou TBS en abrégé.
+
+So let's react our alcohol with TBS chloride
+and triethylamine,
+Faisons donc réagir notre alcool avec du chlorure de TBS
+et de la triéthylamine,
+
+which will snag the hydrogen that’s on the
+OH group.
+ce qui accrochera l'hydrogène qui se trouve sur le
+groupe OH.
+
+The newly attached TBS protecting group can’t
+be removed by a base,
+Le groupe protecteur TBS nouvellement attaché ne peut pas
+être éliminé par une base,
+
+and we can remove it later by reaction with
+fluoride.
+et nous pouvons l'éliminer plus tard par réaction avec du
+fluorure.
+
+Smaller silyl groups come off easily in acid,
+Les petits groupes silyle se détachent facilement dans l'acide,
+
+but the chunky silyl ethers are a little more
+resistant and more commonly used in practice.
+mais les gros éthers silyliques sont un peu plus
+résistants et plus couramment utilisés dans la pratique.
+
+A second protecting group option for alcohols
+is a benzyl group (Bn for short).
+Une deuxième option de groupe protecteur pour les alcools
+est un groupe benzyle (Bn en abrégé).
+
+We have lots of aliases for our disguised
+molecules,
+Nous avons beaucoup d'alias pour nos
+molécules déguisées,
+
+which help us from having to draw out big
+protecting groups in our reaction mechanisms.
+ce qui nous évite d'avoir à extraire de gros
+groupes protecteurs dans nos mécanismes de réaction.
+
+We can attach this protecting group by reacting
+the alcohol with a strong base like sodium hydride and a benzyl halide.
+Nous pouvons attacher ce groupe protecteur en faisant réagir
+l'alcool avec une base forte comme l'hydrure de sodium et un halogénure de benzyle.
+
+The benzyl group has an advantage over the
+silyl ethers because it's not removed by bases,
+Le groupe benzyle a un avantage sur les
+éthers silyliques car il n'est pas éliminé par les bases,
+
+and it’s also tricky to remove in acidic
+conditions.
+et il est également difficile à éliminer dans des
+conditions acides.
+
+However, it has to be removed by hydrogenation,
+Cependant, il doit être éliminé par hydrogénation,
+
+which might be a problem if you have double
+or triple bonds in your molecule!
+ce qui peut poser problème si vous avez des doubles
+ou des triples liaisons dans votre molécule !
+
+For the Grignard-related reaction puzzle we
+were looking at,
+Pour le puzzle de réaction lié à Grignard que
+nous examinions, l'un
+
+either of these alcohol protecting groups
+will do, but let’s just use a silyl ether.
+ou l'autre de ces groupes protecteurs de l'alcool
+fera l'affaire, mais utilisons simplement un éther silylique.
+
+Before we form a Grignard or anything though,
+Avant de former un Grignard ou quoi que ce soit,
+
+we need to add a protecting group using TBS
+chloride and triethylamine as our base again.
+nous devons ajouter un groupe protecteur en utilisant à nouveau le
+chlorure de TBS et la triéthylamine comme base.
+
+TBS takes the place of the hydrogen on the
+alcohol group.
+Le TBS remplace l'hydrogène sur le
+groupe alcool.
+
+And our chemical disguise was easy to add,
+Et notre déguisement chimique était facile à ajouter,
+
+so that's one of three checks on our "good
+protecting group" checklist.
+c'est donc l'une des trois vérifications de notre
+liste de contrôle "bon groupe de protection".
+
+Now we can form a Grignard by reaction with
+magnesium.
+On peut maintenant former un Grignard par réaction avec du
+magnésium.
+
+Our protecting group is disguising the alcohol,
+Notre groupe protecteur déguise l'alcool,
+
+preventing those acid-base reactions we don't
+want.
+empêchant ces réactions acido-basiques que nous ne
+voulons pas.
+
+So not reacting under the conditions of the
+reaction: check.
+Donc ne pas réagir dans les conditions de la
+réaction : check.
+
+This means we can go ahead and form the product
+we want, by reacting with this epoxide!
+Cela signifie que nous pouvons aller de l'avant et former le produit que
+nous voulons, en réagissant avec cet époxyde !
+
+Again, the protecting group remains unchanged
+during this reaction:
+Encore une fois, le groupe protecteur reste inchangé au
+cours de cette réaction :
+
+so... double check to that second box.
+alors... vérifiez à nouveau cette deuxième case.
+
+Finally, it’s time to remove the protecting
+group with an acid or a fluoride –
+Enfin, il est temps d'éliminer le
+groupe protecteur avec un acide ou un fluorure -
+
+in this case, tetrabutylammonium fluoride,
+or TBAF for short.
+dans ce cas, le fluorure de tétrabutylammonium,
+ou TBAF en abrégé.
+
+Our alcohol protecting group is easy to remove:
+check!
+Notre groupe de protection contre l'alcool est facile à enlever :
+vérifiez !
+
+Just in case you had doubts, there's the checklist
+proof that silyl ethers are good chemical disguises!
+Juste au cas où vous auriez des doutes, il y a la liste de contrôle
+qui prouve que les éthers silyliques sont de bons déguisements chimiques !
+
+In addition to carbonyls and alcohols, amines
+are another common secret agent… well, functional group.
+En plus des carbonyles et des alcools, les amines
+sont un autre agent secret commun… enfin, un groupe fonctionnel.
+
+Amines pop up often in organic molecules,
+Les amines apparaissent souvent dans les molécules organiques,
+
+and their nucleophilic and basic nature means that they can easily get involved in unwanted reactions if we don’t disguise them!
+et leur nature nucléophile et basique signifie qu'elles peuvent facilement être impliquées dans des réactions indésirables si nous ne les masquons pas !
+
+And we have three main choices here.
+Et nous avons trois choix principaux ici.
+
+One option is adding a carboxybenzyl group
+Une option consiste à ajouter un groupe carboxybenzyle
+
+(CBz or Z for short)
+(CBz ou Z en abrégé)
+
+by reacting our amine with benzyl chloroformate.
+en faisant réagir notre amine avec du chloroformiate de benzyle.
+
+Later, we can remove this protecting group
+by hydrogenation or using a strong acid.
+Plus tard, nous pouvons éliminer ce groupe protecteur
+par hydrogénation ou à l'aide d'un acide fort.
+
+A second option is di-tert-butyl dicarbonate,
+more commonly known as Boc anhydride.
+Une deuxième option est le dicarbonate de di-tert-butyle,
+plus communément appelé anhydride Boc.
+
+In the presence of a base, we add a tert-butoxycarbonyl
+En présence d'une base, on ajoute un groupement tert-butoxycarbonyle
+
+(or Boc) group in place of one of the hydrogens on
+the nitrogen in the amine.
+(ou Boc) à la place d'un des hydrogènes sur
+l'azote de l'amine.
+
+And we can remove it easily by adding acid.
+Et nous pouvons l'enlever facilement en ajoutant de l'acide.
+
+We can look to our Mold Medicine Map and the
+synthesis of penicillin V for our third and final amine protecting group:
+Nous pouvons consulter notre Mold Medicine Map et la
+synthèse de la pénicilline V pour notre troisième et dernier groupe protecteur d'amine :
+
+a phthalimide.
+un phtalimide.
+
+This protecting group prevents the amine from
+reacting with an aldehyde in an earlier step of the synthesis.
+Ce groupe protecteur empêche l'amine de
+réagir avec un aldéhyde dans une étape antérieure de la synthèse.
+
+In this step, it's being removed from our
+proto-penicillin structure.
+Dans cette étape, il est retiré de notre
+structure proto-pénicilline.
+
+The removal includes swapping the amide-like
+linkages to make a sort of double amide side product.
+L'élimination comprend l'échange des
+liaisons de type amide pour créer une sorte de produit secondaire à double amide.
+
+Plus, there's a bonus disguise in our Mold
+Medicine Map!
+De plus, il y a un déguisement bonus dans notre
+carte de médecine des moisissures !
+
+We can protect carboxylic acids by bulking
+them up,
+Nous pouvons protéger les acides carboxyliques en les
+gonflant, en
+
+subbing out the hydrogen on the OH group to
+form a tert-butyl ester instead.
+supprimant l'hydrogène sur le groupe OH pour
+former un ester tert-butylique à la place.
+
+And this protecting group can be removed later
+with acid.
+Et ce groupe protecteur peut être éliminé plus tard
+avec de l'acide.
+
+Sheehan actually did this deprotection right
+at the end of the penicillin synthesis,
+Sheehan a en fait effectué cette déprotection juste
+à la fin de la synthèse de la pénicilline,
+
+before making the strained four-membered beta
+lactam ring.
+avant de fabriquer le cycle bêta-
+lactame à quatre chaînons contraint.
+
+This ring is really sensitive to breaking
+open by hydrolysis,
+Cet anneau est vraiment sensible à la
+rupture par hydrolyse
+
+which is why penicillin was really difficult
+to isolate in the first place.
+, c'est pourquoi la pénicilline était très difficile
+à isoler en premier lieu.
+
+That’s why Sheehan saved the ring closing
+step for last,
+C'est pourquoi Sheehan a gardé l'étape de fermeture du ring
+pour la fin,
+
+and it just so happens to be the last thing
+we'll mention about protecting groups too.
+et il se trouve que c'est la dernière chose que
+nous mentionnerons également à propos de la protection des groupes.
+
+In this episode, we:
+Dans cet épisode, nous avons :
+
+Defined a checklist for a good protecting
+group, and
+défini une liste de contrôle pour un bon
+groupe protecteur, et
+
+Identified good protecting groups for carbonyls,
+alcohols, amines, and carboxylic acids.
+identifié de bons groupes protecteurs pour les carbonyles, les
+alcools, les amines et les acides carboxyliques.
+
+In the next episode, we’ll learn how to
+make a target molecule by working backwards,
+Dans le prochain épisode, nous apprendrons comment
+créer une molécule cible en travaillant à rebours,
+
+and head into the virtual lab again to remove
+reaction side products by taking advantage of solubility differences.
+et nous retournerons dans le laboratoire virtuel pour éliminer
+les produits secondaires de la réaction en tirant parti des différences de solubilité.
+
+Until then, thanks for watching this episode
+of Crash Course Organic Chemistry.
+En attendant, merci d'avoir regardé cet épisode
+de Crash Course Organic Chemistry.
+
+If you want to help keep all Crash Course
+free for everybody, forever,
+Si vous voulez aider à garder tous les cours intensifs
+gratuits pour tout le monde, pour toujours,
+
+you can join our community on Patreon.
+vous pouvez rejoindre notre communauté sur Patreon.
+

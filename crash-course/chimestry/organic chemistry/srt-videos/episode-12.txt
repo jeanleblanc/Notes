@@ -1,0 +1,381 @@
+You can review content from Crash Course Organic Chemistry with the Crash Course App, available now for Android and iOS devices.
+Vous pouvez consulter le contenu de Crash Course Organic Chemistry avec l'application Crash Course, disponible dès maintenant pour les appareils Android et iOS.
+
+Hi! I’m Deboki Chakravarti and welcome to Crash Course Organic Chemistry!
+Salut!  Je suis Deboki Chakravarti et bienvenue au cours intensif de chimie organique !
+
+The word stem -phile, which is derived from the Greek “philos,” meaning “loving,” has been used with other prefixes or suffixes to suggest the love of just about everything.
+Le mot racine -phile, dérivé du grec "philos", qui signifie "aimer", a été utilisé avec d'autres préfixes ou suffixes pour suggérer l'amour de presque tout.
+
+There's a philodendron, which is a plant that loves to climb trees, or technophile, which describes a lover of new technologies.
+Il y a un philodendron, qui est une plante qui aime grimper aux arbres, ou technophile, qui décrit un amoureux des nouvelles technologies.
+
+I might consider myself a bibliophile and ailurophile, to profess my love of books and cats.
+Je pourrais me considérer comme bibliophile et ailurophile, pour professer mon amour des livres et des chats.
+
+And maybe we can call ourselves organophiles, as people who love organic compounds.
+Et peut-être pouvons-nous nous qualifier d'organophiles, en tant que personnes qui aiment les composés organiques.
+
+In this episode though, we’ll specifically be looking at two very important philes: electrophiles, lovers of electrons and nucleophiles, lovers of a molecule’s positive regions.
+Dans cet épisode cependant, nous nous intéresserons spécifiquement à deux philes très importants : les électrophiles, les amoureux des électrons et les nucléophiles, les amoureux des régions positives d'une molécule.
+
+Over the last few episodes we’ve been thinking about molecular hot spots, places on a molecule where positive charges and negative charges show up.
+Au cours des derniers épisodes, nous avons pensé aux points chauds moléculaires, des endroits sur une molécule où des charges positives et des charges négatives apparaissent.
+
+Now it’s time to think about what happens at these hot spots - electrophiles and nucleophiles.
+Il est maintenant temps de réfléchir à ce qui se passe à ces points chauds - électrophiles et nucléophiles.
+
+So, my fellow organophiles, let’s get to it!
+Alors, amis organophiles, allons-y !
+
+[Theme Music]
+[Thème musical]
+
+In the last episode, we discussed Brønsted-Lowry acids and bases, where the acid is a proton donor and the base is a proton acceptor.
+Dans le dernier épisode, nous avons discuté des acides et des bases de Brønsted-Lowry, où l'acide est un donneur de proton et la base est un accepteur de proton.
+
+But there are molecules out there called Lewis acids and bases, which accept or donate electron pairs instead of protons.
+Mais il existe des molécules appelées acides et bases de Lewis, qui acceptent ou donnent des paires d'électrons au lieu de protons.
+
+Specifically, Lewis acids accept a lone pair of electrons and Lewis bases donate a lone pair of electrons.
+Plus précisément, les acides de Lewis acceptent une seule paire d'électrons et les bases de Lewis donnent une seule paire d'électrons.
+
+Lewis bases often include atoms with lone pairs like nitrogen and oxygen -- for example, ammonia and water are Lewis bases.
+Les bases de Lewis comprennent souvent des atomes avec des paires isolées comme l'azote et l'oxygène - par exemple, l'ammoniac et l'eau sont des bases de Lewis.
+
+Other Lewis bases are negatively charged atoms like chloride, or groups of atoms like hydroxide.
+D'autres bases de Lewis sont des atomes chargés négativement comme le chlorure ou des groupes d'atomes comme l'hydroxyde.
+
+Generally, Lewis bases are recognizable because they have lots of electrons, so we call them electron rich.
+Généralement, les bases de Lewis sont reconnaissables car elles ont beaucoup d'électrons, nous les appelons donc riches en électrons.
+
+Lewis bases are also nucleophiles.
+Les bases de Lewis sont également des nucléophiles.
+
+Technically if we go back to our word stem -phile, this means nucleus-loving.
+Techniquement, si nous revenons à notre mot radical -phile, cela signifie aimant le noyau.
+
+But when it comes to reactions in organic chemistry, being a nucleophile means they love to interact with positive charges or positive regions on another molecule.
+Mais lorsqu'il s'agit de réactions en chimie organique, être un nucléophile signifie qu'il aime interagir avec des charges positives ou des régions positives sur une autre molécule.
+
+Think of, like, a superhero with a grappling hook.
+Pensez à un super-héros avec un grappin.
+
+A nucleophile is kinda looking for a positive charge it can throw its electrons toward and grab onto.
+Un nucléophile cherche en quelque sorte une charge positive vers laquelle il peut lancer ses électrons et s'y accrocher.
+
+On the flip side, Lewis acids are positively charged atoms, like a proton, or molecules that are short a pair of electrons from an octet and have an empty p orbital, like borane, BH3.
+D'un autre côté, les acides de Lewis sont des atomes chargés positivement, comme un proton, ou des molécules qui sont à court d'une paire d'électrons d'un octet et ont une orbitale p vide, comme le borane, BH3.
+
+Borane only has six electrons when neutral, and its empty p orbital can accept electrons.
+Borane n'a que six électrons lorsqu'il est neutre, et son orbitale p vide peut accepter des électrons.
+
+This general definition doesn’t include compounds like phosphorous pentachloride that can be considered non-traditional Lewis acids, some of which we'll meet later in the series.
+Cette définition générale n'inclut pas les composés comme le pentachlorure de phosphore qui peuvent être considérés comme des acides de Lewis non traditionnels, dont certains seront abordés plus tard dans la série.
+
+Lewis acids are electron poor, which is why they're willing to accept lone pairs.
+Les acides de Lewis sont pauvres en électrons, c'est pourquoi ils sont prêts à accepter des paires isolées.
+
+And Lewis acids are also electrophiles.
+Et les acides de Lewis sont aussi des électrophiles.
+
+Going back to our word stems, this means electron-loving.
+Pour en revenir à nos racines de mots, cela signifie aimer les électrons.
+
+And in organic chemistry reactions, being an electrophile means they love negatively-charged electrons on other molecules and can even provoke them into interacting sometimes.
+Et dans les réactions de chimie organique, être électrophile signifie qu'ils aiment les électrons chargés négativement sur d'autres molécules et peuvent même parfois les provoquer à interagir.
+
+To continue my grappling hook metaphor: think of an electrophile as a molecule with a big red video-game-like target on it saying "grappling hooks here!"
+Pour continuer ma métaphore du grappin : imaginez un électrophile comme une molécule avec une grosse cible rouge semblable à un jeu vidéo disant "ici des grappins !"
+
+One of the most important electrophiles we'll see throughout these videos are carbocations.
+L'un des électrophiles les plus importants que nous verrons tout au long de ces vidéos sont les carbocations.
+
+These are molecules with an sp2 hybridized carbon atom and an empty p orbital, which creates a positive charge.
+Ce sont des molécules avec un atome de carbone hybride sp2 et une orbitale p vide, ce qui crée une charge positive.
+
+Keeping formal charges in mind, we can see that the carbon only has three bonds, which contribute 3 valence electrons.
+En gardant à l'esprit les charges formelles, nous pouvons voir que le carbone n'a que trois liaisons, qui contribuent à 3 électrons de valence.
+
+A neutral carbon atom has 4 valence electrons.
+Un atome de carbone neutre possède 4 électrons de valence.
+
+So 4 minus 3 is positive 1, and therefore it has a +1 formal charge.
+Donc 4 moins 3 est plus 1, et donc il a une charge formelle de +1.
+
+OK, now that we have nucleophiles and electrophiles as our players for today, let’s get into the fun stuff: what happens when they run into each other in a lab?
+OK, maintenant que nous avons des nucléophiles et des électrophiles comme joueurs pour aujourd'hui, passons aux choses amusantes : que se passe-t-il lorsqu'ils se rencontrent dans un laboratoire ?
+
+When a nucleophile reacts with anything, we call that a nucleophilic attack.
+Lorsqu'un nucléophile réagit avec quoi que ce soit, nous appelons cela une attaque nucléophile.
+
+If we think of organic reactions as carefully choreographed fight scenes, a nucleophilic attack is just one move in the superhero's skillset.
+Si nous considérons les réactions organiques comme des scènes de combat soigneusement chorégraphiées, une attaque nucléophile n'est qu'un mouvement parmi les compétences du super-héros.
+
+It can be one step in a larger chemical reaction or a powerful move all on its own.
+Cela peut être une étape dans une réaction chimique plus large ou un mouvement puissant à lui tout seul.
+
+In a nucleophilic attack, nucleophiles are always the aggressor and do the attacking.
+Dans une attaque nucléophile, les nucléophiles sont toujours l'agresseur et font l'attaque.
+
+So curved reaction arrows always start on the nucleophile and are drawn to the electrophile.
+Ainsi, les flèches de réaction courbes commencent toujours sur le nucléophile et sont attirées vers l'électrophile.
+
+Electrophiles aren’t just innocent bystanders though.
+Les électrophiles ne sont pas seulement des spectateurs innocents.
+
+Because they love electrons so much, they can sometimes provoke a nucleophile into attacking.
+Parce qu'ils aiment tellement les électrons, ils peuvent parfois provoquer l'attaque d'un nucléophile.
+
+Kinda like when you want someone to do something and you keep asking and asking until they give in, or you taunt them a little to goad them on.
+Un peu comme quand vous voulez que quelqu'un fasse quelque chose et que vous continuez à demander et à demander jusqu'à ce qu'il cède, ou que vous le railliez un peu pour l'aiguillonner.
+
+Like I mentioned, a nucleophilic attack can be part of a larger multi-step chemical reaction.
+Comme je l'ai mentionné, une attaque nucléophile peut faire partie d'une plus grande réaction chimique en plusieurs étapes.
+
+But in this episode, we're going to start simple with a one-step reaction involving a nucleophile and an electrophile.
+Mais dans cet épisode, nous allons commencer simplement avec une réaction en une étape impliquant un nucléophile et un électrophile.
+
+You've gotta learn how to punch properly before you star in a martial arts film, y'know?
+Tu dois apprendre à frapper correctement avant de jouer dans un film d'arts martiaux, tu vois ?
+
+So here we have two compounds: a hydroxide ion and 1-chlorobutane.
+Nous avons donc ici deux composés : un ion hydroxyde et le 1-chlorobutane.
+
+The hydroxide has lots of electrons and that negative charge, so it’s pretty easy to figure out that it's our nucleophile.
+L'hydroxyde a beaucoup d'électrons et cette charge négative, il est donc assez facile de comprendre que c'est notre nucléophile.
+
+It's a little tricker to see that 1-chlorobutane is our electrophile, though.
+C'est un peu plus compliqué de voir que le 1-chlorobutane est notre électrophile, cependant.
+
+For that, we have to remember what we learned in a previous episode about polarity: this chlorine-carbon bond is polarized.
+Pour cela, rappelons ce que nous avons appris dans un épisode précédent sur la polarité : cette liaison chlore-carbone est polarisée.
+
+Seriously, I'm not joking when I say we're assembling an organic chemistry toolkit -- all this knowledge builds!
+Sérieusement, je ne plaisante pas quand je dis que nous assemblons une boîte à outils de chimie organique - toutes ces connaissances s'accumulent !
+
+In this bond, the electronegative chlorine is pulling electrons toward itself, which gives the carbon a partial positive charge and the chlorine a partial negative charge.
+Dans cette liaison, le chlore électronégatif attire les électrons vers lui-même, ce qui donne au carbone une charge positive partielle et au chlore une charge négative partielle.
+
+This makes that carbon an electrophile, which is pretty attractive to the hydroxide ion.
+Cela fait de ce carbone un électrophile, ce qui est assez attractif pour l'ion hydroxyde.
+
+So when this reaction takes place, the hydroxide attacks that carbon and donates electrons -- this is hydroxide's grappling-hook move.
+Ainsi, lorsque cette réaction a lieu, l'hydroxyde attaque ce carbone et donne des électrons - c'est le mouvement du grappin de l'hydroxyde.
+
+I guess hydroxide is basically Batman here and the carbon chain is the side of a Gotham City building he wants to climb.
+Je suppose que l'hydroxyde est essentiellement Batman ici et que la chaîne de carbone est le côté d'un bâtiment de Gotham City qu'il veut escalader.
+
+Our carbon is only capable of making 4 bonds, so before we finish the reaction we have to make sure we're not breaking the rules of science.
+Notre carbone n'est capable de faire que 4 liaisons, donc avant de terminer la réaction, nous devons nous assurer que nous n'enfreignons pas les règles de la science.
+
+The chlorine takes a pair of electrons with it to become a chloride ion, and butan-1-ol is left behind.
+Le chlore prend une paire d'électrons avec lui pour devenir un ion chlorure, et le butan-1-ol est laissé derrière.
+
+Fight sequence: done!
+Séquence de combat : terminé !
+
+Now, there are different kinds of nucleophilic attacks that have different names.
+Maintenant, il existe différents types d'attaques nucléophiles qui portent des noms différents.
+
+For now we can just call this particular reaction a nucleophilic substitution, because the hydroxide basically substitutes in for the chlorine.
+Pour l'instant, nous pouvons simplement appeler cette réaction particulière une substitution nucléophile, car l'hydroxyde se substitue essentiellement au chlore.
+
+We'll talk more about nucleophilic substitutions, and get more specific about naming them in a future episode, but it's helpful to start getting familiar with the general term for this kind of reaction now.
+Nous parlerons davantage des substitutions nucléophiles et nous donnerons plus de détails sur leur nom dans un prochain épisode, mais il est utile de commencer à se familiariser avec le terme général pour ce type de réaction maintenant.
+
+Now you don’t have to take my word for it that this reaction happens and that our fight sequence has ended successfully with butan-1-ol.
+Maintenant, vous n'avez pas à me croire sur parole que cette réaction se produit et que notre séquence de combat s'est terminée avec succès avec le butan-1-ol.
+
+We can actually see that this reaction happened with an experimental tool we've learned in this series: infrared spectroscopy or IR.
+Nous pouvons en fait voir que cette réaction s'est produite avec un outil expérimental que nous avons appris dans cette série : la spectroscopie infrarouge ou IR.
+
+IR provides information about the functional groups present in molecules by measuring bond vibrations.
+L'IR fournit des informations sur les groupes fonctionnels présents dans les molécules en mesurant les vibrations des liaisons.
+
+And one of the most recognizable functional groups in IR is alcohols, which we have here in butan-1-ol.
+Et l'un des groupes fonctionnels les plus reconnaissables dans IR est les alcools, que nous avons ici dans le butan-1-ol.
+
+So if the nucleophilic attack goes as planned, we should see a big change in the spectrum.
+Donc, si l'attaque nucléophile se déroule comme prévu, nous devrions voir un grand changement dans le spectre.
+
+To see this in action, here’s the IR spectrum for 1-chlorobutane:
+Pour voir cela en action, voici le spectre IR pour le 1-chlorobutane :
+
+And here's the spectrum we get for the product of this particular reaction:
+Et voici le spectre que nous obtenons pour le produit de cette réaction particulière :
+
+There's a strong, broad peak at 3300 wavenumbers, which is the O-H bond of an alcohol.
+Il y a un pic fort et large à 3300 nombres d'onde, qui est la liaison O-H d'un alcool.
+
+So we can be pretty sure that butan-1-ol was formed!
+Nous pouvons donc être à peu près sûrs que le butan-1-ol s'est formé !
+
+So organic chemistry isn't really just magic and guessing.
+La chimie organique n'est donc pas seulement de la magie et des suppositions.
+
+We can confirm what we draw on paper for our nucleophilic attack choreography with experimental tools like infrared spectroscopy.
+Nous pouvons confirmer ce que nous dessinons sur papier pour notre chorégraphie d'attaque nucléophile avec des outils expérimentaux comme la spectroscopie infrarouge.
+
+The reaction we just looked at starred a nucleophile: hydroxide.
+La réaction que nous venons d'examiner mettait en vedette un nucléophile : l'hydroxyde.
+
+It came in strong with a negative charge and attacked that partial-positive carbon in one fell swoop.
+Il est venu en force avec une charge négative et a attaqué ce carbone partiellement positif d'un seul coup.
+
+But, like I mentioned earlier, there are strong electrophiles out there too, which pester nucleophiles into attacking.
+Mais, comme je l'ai mentionné plus tôt, il existe aussi de puissants électrophiles, qui incitent les nucléophiles à attaquer.
+
+And carbocations are some of the most pesky characters out there, taunting enough that even a weak nucleophile like water will attack them.
+Et les carbocations sont parmi les personnages les plus ennuyeux, suffisamment narquois pour que même un nucléophile faible comme l'eau les attaque.
+
+These nucleophilic attacks are slightly more complicated fight sequences to choreograph.
+Ces attaques nucléophiles sont des séquences de combat un peu plus compliquées à chorégraphier.
+
+So they usually happen in two steps.
+Ils se déroulent donc généralement en deux étapes.
+
+Let's look at this example with a carbocation as our electrophile and water as our nucleophile.
+Regardons cet exemple avec un carbocation comme électrophile et l'eau comme nucléophile.
+
+The first step of the nucleophilic attack is still initiated by the nucleophile, water.
+La première étape de l'attaque nucléophile est toujours initiée par le nucléophile, l'eau.
+
+A lone pair of electrons on oxygen attacks that positively-charged carbon and donates electrons.
+Une seule paire d'électrons sur l'oxygène attaque le carbone chargé positivement et donne des électrons.
+
+Water shoots out a two-electron grappling hook and makes a bond!
+L'eau lance un grappin à deux électrons et crée une liaison !
+
+Then in the second step, a second water molecule gangs up on this grappled molecule and gets in on the action.
+Ensuite, dans la deuxième étape, une deuxième molécule d'eau se ligue contre cette molécule agrippée et entre dans l'action.
+
+In this case, because the second water molecule attacks a proton, we can call this a deprotonation.
+Dans ce cas, parce que la deuxième molécule d'eau attaque un proton, on peut appeler cela une déprotonation.
+
+It might be tempting to show the electrons going straight to the positive charge on oxygen, but be careful!
+Il pourrait être tentant de montrer les électrons allant directement à la charge positive de l'oxygène, mais attention !
+
+Oxygen obeys the octet rule, and that move would give it ten electrons!
+L'oxygène obéit à la règle de l'octet, et ce mouvement lui donnerait dix électrons !
+
+Before we can finish the reaction we have to make sure we're not breaking the rules of science, and hydrogen can't have two bonds!
+Avant de pouvoir terminer la réaction, nous devons nous assurer que nous n'enfreignons pas les règles de la science, et l'hydrogène ne peut pas avoir deux liaisons !
+
+So a pair of electrons from the hydrogen-oxygen bond hops to the positively-charged oxygen atom, neutralizing the charge.
+Ainsi, une paire d'électrons de la liaison hydrogène-oxygène saute vers l'atome d'oxygène chargé positivement, neutralisant la charge.
+
+And a hydronium molecule breaks away from the scuffle.
+Et une molécule d'hydronium se détache de la bagarre.
+
+Fight sequence: done.
+Séquence de combat : terminée.
+
+To sum up this two-step reaction, the carbocation undergoes a nucleophilic attack by one molecule of water, then it gets deprotonated by a second molecule of water.
+Pour résumer cette réaction en deux étapes, le carbocation subit une attaque nucléophile par une molécule d'eau, puis il est déprotoné par une seconde molécule d'eau.
+
+So we're left with an alcohol and a hydronium ion.
+Il nous reste donc un alcool et un ion hydronium.
+
+To show another two-step reaction and practice our fight choreography with slightly different characters, let's look at a different kind of nucleophile:
+Pour montrer une autre réaction en deux étapes et pratiquer notre chorégraphie de combat avec des personnages légèrement différents, examinons un autre type de nucléophile : les
+
+molecules with double and triple bonds, like alkenes, alkynes and carbonyl groups.
+molécules à doubles et triples liaisons, comme les alcènes, les alcynes et les groupes carbonyle.
+
+Nucleophiles are just groups with lots of electrons, so all these fit right in!
+Les nucléophiles ne sont que des groupes avec beaucoup d'électrons, donc tout cela s'intègre parfaitement !
+
+For example, let's look at the reaction of cis-but-2-ene and hydrogen bromide.
+Par exemple, regardons la réaction du cis-but-2-ène et du bromure d'hydrogène.
+
+Remember HBr is a strong acid and ionizes completely to form H plus and Br minus.
+N'oubliez pas que HBr est un acide fort et qu'il s'ionise complètement pour former H plus et Br moins.
+
+The alkene has a double bond, so it's our nucleophile and ready to attack our electrophile, the proton.
+L'alcène a une double liaison, c'est donc notre nucléophile et prêt à attaquer notre électrophile, le proton.
+
+So the double bond donates electrons by throwing out its pi electrons as a grappling hook and hooking the proton.
+Ainsi, la double liaison donne des électrons en jetant ses électrons pi comme un grappin et en accrochant le proton.
+
+When the alkene uses these two electrons to attack the proton, one of the two carbons previously involved in the double bond is short an electron and ends up positive.
+Lorsque l'alcène utilise ces deux électrons pour attaquer le proton, l'un des deux carbones précédemment impliqués dans la double liaison est court-circuité d'un électron et finit par être positif.
+
+Now we're left with a super pesky carbocation as an electrophile, and the negatively charged bromide ion as a nucleophile.
+Maintenant, nous nous retrouvons avec un carbocation super embêtant comme électrophile, et l'ion bromure chargé négativement comme nucléophile.
+
+The positive charge on the carbocation is irresistibly taunting to the bromide ion.
+La charge positive sur le carbocation provoque irrésistiblement l'ion bromure.
+
+So for the second step of this reaction, the bromide does a nucleophilic attack and forms 2-bromobutane.
+Ainsi, pour la deuxième étape de cette réaction, le bromure effectue une attaque nucléophile et forme du 2-bromobutane.
+
+Fight sequence: done.
+Séquence de combat : terminée.
+
+These two ended up as one unified dynamic duo or -- uh -- molecule.
+Ces deux-là ont fini par former un duo dynamique unifié ou -- euh -- une molécule.
+
+We're going to end this episode with one final nucleophile that you may have heard of before...
+Nous allons terminer cet épisode avec un dernier nucléophile dont vous avez peut-être déjà entendu parler... en
+
+as a potent poison in Victorian-era mystery novels and beyond: cyanide.
+tant que poison puissant dans les romans policiers de l'époque victorienne et au-delà : le cyanure.
+
+It's a carbon atom triple-bonded to a nitrogen atom, and the carbon carries a negative charge.
+C'est un atome de carbone triplement lié à un atome d'azote, et le carbone porte une charge négative.
+
+But now's our chance to see cyanide as way more than just a poison.
+Mais c'est maintenant notre chance de voir le cyanure comme bien plus qu'un simple poison.
+
+It's a pretty cool molecule because it can do a nucleophilic attack to form a carbon-carbon bond.
+C'est une molécule assez cool car elle peut faire une attaque nucléophile pour former une liaison carbone-carbone.
+
+And being able to add carbons together is important in organic chemistry, because it helps us make super-sized molecules, such as big drug molecules in medicine.
+Et être capable d'ajouter des carbones ensemble est important en chimie organique, car cela nous aide à fabriquer des molécules de grande taille, telles que de grosses molécules de médicaments en médecine.
+
+As a strong nucleophile, cyanide can attack carbon 1, in an electrophile like 1-bromo-2-methylhexane.
+En tant que nucléophile puissant, le cyanure peut attaquer le carbone 1, dans un électrophile comme le 1-bromo-2-méthylhexane.
+
+This is another one of those nucleophilic substitutions: the cyanide latches on with a bond and pushes out the bromine as a bromide ion.
+C'est une autre de ces substitutions nucléophiles : le cyanure se verrouille avec une liaison et expulse le brome sous forme d'ion bromure.
+
+We’ll see in future episodes how carbon chains with cyanide substituents are super useful as gateways to other functional groups, or just for elongating a shorter chain.
+Nous verrons dans les prochains épisodes comment les chaînes carbonées avec des substituants cyanure sont super utiles comme passerelles vers d'autres groupes fonctionnels, ou simplement pour allonger une chaîne plus courte.
+
+So with that, we've gotten pretty familiar with the fight choreography of a nucleophilic attack:
+Donc, avec cela, nous nous sommes assez familiarisés avec la chorégraphie de combat d'une attaque nucléophile :
+
+the arrows start with the electron pairs on our nucleophile and end on the positive region on our electrophile.
+les flèches commencent par les paires d'électrons sur notre nucléophile et se terminent sur la région positive de notre électrophile.
+
+And with this knowledge, we're getting closer to being able to puzzle out, not memorize, lots of complicated reactions that make organic chemistry notoriously tricky!
+Et avec ces connaissances, nous nous rapprochons de la capacité de démêler, et non de mémoriser, de nombreuses réactions compliquées qui rendent la chimie organique notoirement délicate !
+
+In this episode we’ve learned that:
+Dans cet épisode, nous avons appris que :
+
+Nucleophiles are Lewis bases that donate electrons and attack electrophiles
+Les nucléophiles sont des bases de Lewis qui donnent des électrons et attaquent les électrophiles Les
+
+Electrophiles are Lewis acids that are attacked by nucleophiles
+électrophiles sont des acides de Lewis qui sont attaqués par les nucléophiles Les
+
+IR spectra can help us understand if a reaction really does happen
+spectres IR peuvent nous aider à comprendre si une réaction se produit réellement
+
+And cyanide is more than just a poison
+Et le cyanure est plus qu'un simple poison La
+
+Next time we’ll get further into the nitty gritty of arrow pushing and reaction mechanisms.
+prochaine fois  nous irons plus loin dans le vif du sujet des mécanismes de poussée et de réaction des flèches.
+
+Let’s face it… no one wants to memorize thousands of reactions, and if we can learn how to write good mechanisms, we won’t have to!
+Avouons-le… personne ne veut mémoriser des milliers de réactions, et si nous pouvons apprendre à écrire de bons mécanismes, nous n'aurons pas à le faire !
+
+Thanks for watching this episode of Crash Course Organic Chemistry.
+Merci d'avoir regardé cet épisode de Crash Course Organic Chemistry.
+
+If you want to help keep all Crash Course free for everybody, forever, you can join our community on Patreon.
+Si vous voulez aider à garder tous les cours intensifs gratuits pour tout le monde, pour toujours, vous pouvez rejoindre notre communauté sur Patreon.
+

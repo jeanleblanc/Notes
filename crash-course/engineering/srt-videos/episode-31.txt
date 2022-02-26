@@ -1,0 +1,698 @@
+The future is going to require us to make
+some dramatic changes to the way we produce
+and consume electrical power.
+L'avenir nous obligera à apporter
+des changements spectaculaires à la façon dont nous produisons
+et consommons l'électricité.
+
+Climate change is happening whether we like it or not,
+and switching to cleaner sources of energy is the main
+way we’ll be able to keep it from getting worse.
+Le changement climatique se produit, que cela nous plaise ou non,
+et le passage à des sources d'énergie plus propres est le principal
+moyen d'empêcher qu'il ne s'aggrave.
+
+And we’ll run out of fossil fuels eventually
+anyway.
+Et nous finirons par manquer de combustibles fossiles de
+toute façon.
+
+That’s why engineers are looking for ways to scale some
+of the existing sources of energy that don’t rely on fossil
+fuels, and maybe even find sources that are entirely new.
+C'est pourquoi les ingénieurs recherchent des moyens de mettre à l'échelle certaines
+des sources d'énergie existantes qui ne dépendent pas des
+combustibles fossiles, et peut-être même de trouver des sources entièrement nouvelles.
+
+There are all kinds of promising candidates
+– from nuclear fusion to plain old hydrogen to
+…poop.
+Il existe toutes sortes de candidats prometteurs
+– de la fusion nucléaire à l'hydrogène ordinaire en passant par
+… le caca.
+
+[Theme Music]
+[Thème musical]
+
+For at least the last 450 million years, another
+form of life has been harvesting all it needs from the
+sun without doing any harm to the planet.
+Depuis au moins 450 millions d'années, une autre
+forme de vie récolte tout ce dont elle a besoin du
+soleil sans faire de mal à la planète.
+
+I’m talking about plants.
+Je parle des plantes.
+
+The chlorophyll in a plant’s cells absorb light
+and use its energy to combine carbon dioxide and
+water to produce glucose and oxygen.
+La chlorophylle dans les cellules d'une plante absorbe la lumière
+et utilise son énergie pour combiner le dioxyde de carbone et l'
+eau afin de produire du glucose et de l'oxygène.
+
+That’s photosynthesis.
+C'est la photosynthèse.
+
+Eliminating some carbon dioxide from the atmosphere
+and producing the oxygen we breathe is already pretty
+great, but there’s another useful aspect to this.
+Éliminer une partie du dioxyde de carbone de l'atmosphère
+et produire l'oxygène que nous respirons est déjà très
+bien, mais il y a un autre aspect utile à cela.
+
+When the plants store some of that glucose,
+it’s also storing chemical energy.
+Lorsque les plantes stockent une partie de ce glucose,
+elles stockent également de l'énergie chimique.
+
+And where there’s energy, there’s an engineer
+who will find a way to use it.
+Et là où il y a de l'énergie, il y a un ingénieur
+qui trouvera un moyen de l'utiliser.
+
+Biomass energy is a form of energy that relies
+on burning biological matter, like plants, either
+directly or by processing them into a fuel.
+L'énergie de la biomasse est une forme d'énergie qui repose
+sur la combustion de matières biologiques, comme les plantes, soit
+directement, soit en les transformant en combustible.
+
+As it burns, the chemical energy stored in
+the plant’s matter is converted into heat.
+Lors de sa combustion, l'énergie chimique emmagasinée dans
+la matière végétale est convertie en chaleur.
+
+Like with many of the other energy sources
+we’ve mentioned, the heat turns water into steam,
+which in turn does work on a turbine;
+Comme avec beaucoup d'autres sources d'énergie que
+nous avons mentionnées, la chaleur transforme l'eau en vapeur,
+qui à son tour fonctionne sur une turbine ;
+
+in other words, it drives a heat engine.
+en d'autres termes, il entraîne un moteur thermique.
+
+A generator then converts the turbine’s
+motion into electrical power.
+Un générateur convertit ensuite le
+mouvement de la turbine en énergie électrique.
+
+About half of all biomass energy is delivered by
+burning plant matter directly, which humans have
+been doing long before the need for electrical power.
+Environ la moitié de toute l'énergie de la biomasse est fournie par la
+combustion directe de matières végétales, ce que les
+humains faisaient bien avant le besoin d'électricité.
+
+A wood burning stove can keep your house warm
+in the winter, or it can be used as a heat source for
+something else – to cook pizza, for example.
+Un poêle à bois peut garder votre maison au chaud
+en hiver, ou il peut être utilisé comme source de chaleur pour
+autre chose – pour faire cuire une pizza, par exemple.
+
+On a larger scale, scrap wood left over from wood processing or from waste produced by humans, along with food waste, can be burned in power plants more directly.
+À plus grande échelle, les chutes de bois provenant de la transformation du bois ou des déchets produits par l'homme, ainsi que les déchets alimentaires, peuvent être brûlés plus directement dans les centrales électriques.
+
+Most of the other half of biomass energy comes
+from processing biological matter into biogas
+or biofuel.
+La majeure partie de l'autre moitié de l'énergie de la biomasse provient
+de la transformation de la matière biologique en biogaz
+ou en biocarburant.
+
+By pulping and chemically treating biomass
+derived from crops and other plant matter,
+En réduisant en pâte et en traitant chimiquement la biomasse
+dérivée des cultures et d'autres matières végétales,
+
+it becomes easier for special proteins called
+enzymes to chemically break it down into a
+more readily usable fuel source.
+il devient plus facile pour des protéines spéciales appelées
+enzymes de la décomposer chimiquement en une
+source de carburant plus facilement utilisable.
+
+One example of this is our old friend ethanol
+– the type of alcohol you’ll also find in drinks.
+Un exemple de ceci est notre vieil ami l'éthanol
+- le type d'alcool que vous trouverez également dans les boissons.
+
+Ethanol is produced from enzymes breaking
+down crops such as wheat or corn.
+L'éthanol est produit à partir d'enzymes
+décomposant des cultures telles que le blé ou le maïs.
+
+That can then be turned into a liquid fuel
+suitable for burning.
+Cela peut ensuite être transformé en un combustible liquide
+adapté à la combustion.
+
+But it’s not just plants that we extract
+energy from!
+Mais il n'y a pas que les plantes dont nous tirons de l'
+énergie !
+
+As certain types of agricultural waste, like
+manure, decay, they can release what’s known
+as biogas.
+Comme certains types de déchets agricoles, comme le
+fumier, se décomposent, ils peuvent libérer ce que l'on appelle du
+biogaz.
+
+These are gases like methane that can be burned
+as a source of fuel.
+Ce sont des gaz comme le méthane qui peuvent être brûlés
+comme source de carburant.
+
+There’s also another small contributor to
+biogas production: human waste.
+Il y a aussi un autre petit contributeur à
+la production de biogaz : les déchets humains.
+
+When I said engineers will find a way to get
+energy from everything, I meant everything.
+Quand j'ai dit que les ingénieurs trouveront un moyen d'obtenir de l'
+énergie à partir de tout, je voulais dire tout.
+
+Biofuels are already being used pretty widely.
+Les biocarburants sont déjà largement utilisés.
+
+In Brazil, 4 out of every 5 cars produced
+have hybrid engines capable of burning both
+ordinary gasoline and bio-ethanol.
+Au Brésil, 4 voitures sur 5 produites sont équipées de
+moteurs hybrides capables de brûler à la fois de
+l'essence ordinaire et du bioéthanol.
+
+To be clear, burning biomass fuels does
+release carbon dioxide into the atmosphere,
+just like fossil fuels.
+Pour être clair, la combustion de combustibles issus de la biomasse
+libère du dioxyde de carbone dans l'atmosphère,
+tout comme les combustibles fossiles.
+
+But, because a nearly equivalent amount of
+CO2 is captured from the atmosphere during
+photosynthesis to store chemical energy,
+Mais, comme une quantité presque équivalente de
+CO2 est capturée dans l'atmosphère pendant la
+photosynthèse pour stocker l'énergie chimique,
+
+on the balance of things, biomass energy is
+what’s known as carbon neutral.
+dans l'ensemble, l'énergie de la biomasse est
+ce qu'on appelle la neutralité carbone.
+
+We can also always grow more plants, which
+makes biomass more renewable than fossil fuels.
+Nous pouvons aussi toujours cultiver plus de plantes, ce qui
+rend la biomasse plus renouvelable que les combustibles fossiles.
+
+But given that plants absorb CO2 as they grow,
+you could argue that we shouldn’t just release
+it all back by burning them.
+Mais étant donné que les plantes absorbent le CO2 à mesure qu'elles poussent,
+on pourrait dire que nous ne devrions pas
+simplement tout restituer en les brûlant.
+
+And processing biomass into biofuels often
+requires some amount of energy input, which
+indirectly releases more CO2.
+Et la transformation de la biomasse en biocarburants
+nécessite souvent une certaine quantité d'énergie, ce qui
+libère indirectement plus de CO2.
+
+Humans already use about a third of all the
+CO2-absorbing plant matter on Earth.
+Les humains utilisent déjà environ un tiers de toute la
+matière végétale absorbant le CO2 sur Terre.
+
+Destroying even more of those plants to release
+energy could be catastrophic for certain ecosystems.
+Détruire encore plus de ces plantes pour libérer de l'
+énergie pourrait être catastrophique pour certains écosystèmes.
+
+And even though we could grow more plants, we’d
+have to trade off the use of land, water, and chemical
+resources between growing food or providing energy.
+Et même si nous pouvions cultiver plus de plantes,
+nous devions échanger l'utilisation de la terre, de l'eau et des
+ressources chimiques entre la culture de nourriture ou la fourniture d'énergie.
+
+Demand for all of those resources is already high,
+and projected to continue growing pretty quickly.
+La demande pour toutes ces ressources est déjà élevée
+et devrait continuer de croître assez rapidement.
+
+As with any other power system, there are
+places where engineers can make better of
+use of what’s already there,
+Comme pour tout autre système d'alimentation, il existe des
+endroits où les ingénieurs peuvent mieux
+utiliser ce qui existe déjà,
+
+like improving the design of those hybrid engines
+that burn both ordinary gasoline and biofuels.
+comme l'amélioration de la conception de ces moteurs hybrides
+qui brûlent à la fois de l'essence ordinaire et des biocarburants.
+
+We also might be able to use different biomass
+sources, like algae, or find more efficient chemical
+reactions for processing biomass into fuel.
+Nous pourrions également être en mesure d'utiliser différentes
+sources de biomasse, comme les algues, ou de trouver des réactions chimiques plus efficaces
+pour transformer la biomasse en carburant.
+
+That might unlock new, more sustainable ways
+to use biomass for power.
+Cela pourrait débloquer de nouvelles façons plus durables
+d'utiliser la biomasse pour produire de l'électricité.
+
+But there are other futuristic power sources
+that don’t release any CO2 while being consumed.
+Mais il existe d'autres sources d'énergie futuristes
+qui ne libèrent aucun CO2 lorsqu'elles sont consommées.
+
+Although as we’ll see, that doesn’t mean
+they’re carbon neutral!
+Bien que, comme nous le verrons, cela ne signifie pas
+qu'ils sont neutres en carbone !
+
+Hydrogen is the most abundant element in the
+universe, which makes it pretty surprising that
+pure hydrogen is very rarely found on Earth.
+L'hydrogène est l'élément le plus abondant dans l'
+univers, ce qui rend assez surprenant que
+l'hydrogène pur soit très rarement trouvé sur Terre.
+
+It consists of a single proton and electron, and
+if you can produce it, it’s the perfect source of fuel
+for the very aptly named hydrogen fuel cell.
+Il se compose d'un seul proton et d'un seul électron, et
+si vous pouvez le produire, c'est la source de carburant idéale
+pour la très bien nommée pile à combustible à hydrogène.
+
+Fuel cells of this kind use a chemical reaction
+between hydrogen and oxygen to directly generate
+electrical power.
+Les piles à combustible de ce type utilisent une réaction chimique
+entre l'hydrogène et l'oxygène pour générer directement de l'
+énergie électrique.
+
+And the only other byproduct of this
+reaction is water.
+Et le seul autre sous-produit de cette
+réaction est l'eau.
+
+Much better than carbon dioxide.
+Bien mieux que le dioxyde de carbone.
+
+There’s a fairly big problem, though.
+Il y a un assez gros problème, cependant.
+
+If hydrogen isn’t naturally produced on
+Earth, how do you get it?
+Si l'hydrogène n'est pas produit naturellement sur
+Terre, comment l'obtenir ?
+
+You can use the process known as electrolysis
+to chemically separate water into hydrogen
+and oxygen, and just store the hydrogen.
+Vous pouvez utiliser le processus connu sous le nom d'électrolyse
+pour séparer chimiquement l'eau en hydrogène
+et en oxygène, et simplement stocker l'hydrogène.
+
+Except, performing electrolysis uses energy.
+Sauf que l'électrolyse consomme de l'énergie.
+
+In fact, producing hydrogen fuel requires
+more energy to produce than you get from using
+it in a fuel cell.
+En fait, la production d'hydrogène nécessite
+plus d'énergie que celle que vous obtenez en l'
+utilisant dans une pile à combustible.
+
+Efficiency-wise, that’s not great.
+Côté efficacité, ce n'est pas top.
+
+But there are good arguments for having hydrogen
+fuel cells in your power-producing arsenal.
+Mais il existe de bons arguments pour avoir des
+piles à combustible à hydrogène dans votre arsenal de production d'électricité.
+
+For starters, because hydrogen is the lightest
+element, hydrogen fuel is incredibly lightweight, which
+makes it great for transport, like on spacecraft.
+Pour commencer, parce que l'hydrogène est l'élément le plus léger
+, le carburant hydrogène est incroyablement léger, ce qui le
+rend idéal pour le transport, comme sur les engins spatiaux.
+
+And unlike solar-powered devices, if you
+have hydrogen fuel at the ready, fuel cells don’t
+require recharging like batteries.
+Et contrairement aux appareils à énergie solaire, si vous
+avez de l'hydrogène à portée de main, les piles à combustible n'ont pas
+besoin d'être rechargées comme les batteries.
+
+So they’re great for indoor vehicles like
+forklifts, where releasing lots of fumes could
+be problematic,
+Ils sont donc parfaits pour les véhicules d'intérieur comme les
+chariots élévateurs, où la libération de beaucoup de fumées peut
+être problématique,
+
+but you also need to use them pretty much
+continuously, which makes batteries less practical.
+mais vous devez également les utiliser à peu près en
+continu, ce qui rend les batteries moins pratiques.
+
+Finally, if we can efficiently produce hydrogen
+fuel by electrolysis from the surplus energy
+provided by solar power on especially sunny days,
+Enfin, si nous pouvons produire efficacement de l'
+hydrogène par électrolyse à partir de l'énergie excédentaire
+fournie par l'énergie solaire lors de journées particulièrement ensoleillées, l'
+
+hydrogen fuel could give us a carbon 
+neutral way of storing electricity.
+hydrogène pourrait nous fournir un
+moyen neutre en carbone de stocker l'électricité.
+
+On a larger scale, there is a power producing
+process you’ve already heard of that’s already used
+to provide a good deal of energy – 10% in the US –
+À plus grande échelle, il existe un processus de production d'énergie dont
+vous avez déjà entendu parler et qui est déjà utilisé
+pour fournir une bonne quantité d'énergie - 10 % aux États-Unis -
+
+while releasing comparatively tiny amounts
+of CO2: nuclear fission.
+tout en libérant des quantités relativement infimes
+de CO2 : la fission nucléaire.
+
+In fission, an atom splits in two, releasing
+a lot of energy in the process.
+Lors de la fission, un atome se divise en deux, libérant ainsi
+beaucoup d'énergie.
+
+Nuclear power releases the same amount or
+even less of those greenhouse gases than most
+renewable energy sources.
+L'énergie nucléaire libère la même quantité ou
+même moins de ces gaz à effet de serre que la plupart
+des sources d'énergie renouvelables.
+
+But don’t be fooled, it’s a non-renewable
+source of energy!
+Mais ne vous y trompez pas, c'est une
+source d'énergie non renouvelable !
+
+The main fuel used in nuclear fission, uranium 2-3-5,
+is a limited resource that has to be mined and purified
+from the ground, much like fossil fuels.
+Le principal combustible utilisé dans la fission nucléaire, l'uranium 2-3-5,
+est une ressource limitée qui doit être extraite et purifiée
+du sol, un peu comme les combustibles fossiles.
+
+The way we get power from uranium is by
+assembling rods of uranium parallel to one another
+and setting up a chain reaction.
+La façon dont nous obtenons de l'énergie à partir de l'uranium consiste à
+assembler des barres d'uranium parallèles les unes aux autres
+et à déclencher une réaction en chaîne.
+
+The nucleus, or core, of a uranium atom is
+made up of protons and neutrons.
+Le noyau, ou noyau, d'un atome d'uranium est
+composé de protons et de neutrons.
+
+If a fast moving neutron hits a uranium atom at
+just the right energy, it can split the uranium in two.
+Si un neutron en mouvement rapide frappe un atome d'uranium
+à la bonne énergie, il peut diviser l'uranium en deux.
+
+The uranium splits into atoms of other elements,
+like krypton and barium.
+L'uranium se divise en atomes d'autres éléments,
+comme le krypton et le baryum.
+
+But three of the neutrons from the nucleus
+will fly off, carrying some energy with them.
+Mais trois des neutrons du
+noyau s'envoleront, emportant avec eux de l'énergie.
+
+Those neutrons can then collide with another
+uranium atom, causing fission that releases
+even more neutrons, and so on.
+Ces neutrons peuvent alors entrer en collision avec un autre
+atome d'uranium, provoquant une fission qui libère
+encore plus de neutrons, et ainsi de suite.
+
+Meanwhile, the cascade of splitting atoms
+gives off gamma radiation and heat, heating
+up the reactor.
+Pendant ce temps, la cascade d'atomes qui se séparent
+dégage un rayonnement gamma et de la chaleur,
+chauffant le réacteur.
+
+So fission turns a nuclear reactor into a
+heat source for a power plant.
+Ainsi, la fission transforme un réacteur nucléaire en
+source de chaleur pour une centrale électrique.
+
+Unfortunately, once you’ve used up all the useful
+uranium in the rods, you’re left over with the biggest
+setback of nuclear power: nuclear waste.
+Malheureusement, une fois que vous avez utilisé tout l'
+uranium utile dans les barres, il vous reste le plus grand
+revers de l'énergie nucléaire : les déchets nucléaires.
+
+Nuclear waste consists of radioactive material that
+emits highly energetic particles that can be extremely
+dangerous for any living thing, including humans.
+Les déchets nucléaires sont constitués de matières radioactives qui
+émettent des particules hautement énergétiques qui peuvent être extrêmement
+dangereuses pour tout être vivant, y compris les humains.
+
+Dealing with it safely is the sort of issue
+nuclear engineers can help with.
+Le traiter en toute sécurité est le genre de problème que
+les ingénieurs nucléaires peuvent résoudre.
+
+They also design nuclear power plants to
+carefully control fission to stop it turning into
+a runaway process.
+Ils conçoivent également des centrales nucléaires pour
+contrôler soigneusement la fission afin d'empêcher qu'elle ne se transforme en
+un processus incontrôlable.
+
+If that happens, it can lead to disasters
+like the kind that happened in Chernobyl or
+Fukushima.
+Si cela se produit, cela peut conduire à des catastrophes
+comme celles qui se sont produites à Tchernobyl ou à
+Fukushima.
+
+As for nuclear waste, nuclear engineers aim
+to find as safe a way as possible for disposing
+of it.
+Quant aux déchets nucléaires, les ingénieurs nucléaires visent
+à trouver un moyen aussi sûr que possible de les
+éliminer.
+
+Most of the time, used-up uranium rods are put into
+thick steel containers and buried in deep underground
+vaults far from any people,
+La plupart du temps, les barres d'uranium épuisées sont placées dans
+des conteneurs en acier épais et enterrées dans des voûtes souterraines profondes
+loin de toute personne,
+
+or kept in tanks near the nuclear power
+plants themselves.
+ou conservées dans des réservoirs à proximité des centrales
+nucléaires elles-mêmes.
+
+Neither of these solutions is ideal, and engineers
+may find a better way of handling the problem
+in the future.
+Aucune de ces solutions n'est idéale et les ingénieurs
+trouveront peut-être une meilleure façon de gérer le problème
+à l'avenir.
+
+But it would be better if we could find a
+way of generating nuclear power that produces
+no radioactive fuel as waste at all.
+Mais ce serait mieux si nous pouvions trouver un
+moyen de produire de l'énergie nucléaire qui
+ne produise aucun combustible radioactif comme déchet.
+
+Which is where nuclear fusion comes in.
+C'est là qu'intervient la fusion nucléaire.
+
+It’s the same energy-releasing process that
+occurs in the sun.
+C'est le même processus de libération d'énergie qui
+se produit dans le soleil.
+
+So naturally, getting it to happen here on
+Earth is something many engineers are looking
+into!
+Alors naturellement, faire en sorte que cela se produise ici sur
+Terre est quelque chose que de nombreux ingénieurs
+étudient !
+
+In fact, the National Academy of Engineers in the US
+has declared the goal of providing energy from fusion
+one of its grand challenges for the 21st Century,
+En fait, la National Academy of Engineers aux États-Unis
+a déclaré que l'objectif de fournir de l'énergie à partir de la fusion était l'
+un de ses grands défis pour le 21e siècle,
+
+in addition to the improved solar power we
+talked about last time.
+en plus de l'amélioration de l'énergie solaire dont nous
+avons parlé la dernière fois.
+
+The major setbacks to providing energy from
+fusion are the intense amounts of heat and
+pressure that atoms need to fuse.
+Les principaux inconvénients de la fourniture d'énergie à partir de la
+fusion sont les quantités intenses de chaleur et de
+pression dont les atomes ont besoin pour fusionner.
+
+Without the gravitational strength of the sun on hand,
+nuclear physicists and engineers have to design some
+of the world’s most powerful magnets to contain plasma:
+Sans la force gravitationnelle du soleil à portée de main,
+les physiciens et ingénieurs nucléaires doivent concevoir certains
+des aimants les plus puissants du monde pour contenir le plasma :
+
+an extremely hot gas made up of ions, or
+atoms with an electric charge.
+un gaz extrêmement chaud composé d'ions ou d'
+atomes avec une charge électrique.
+
+Unfortunately, the magnets require energy to operate,
+so fusion has to deliver more power than the magnets
+consume for it to be useful.
+Malheureusement, les aimants ont besoin d'énergie pour fonctionner,
+donc la fusion doit fournir plus de puissance que les aimants
+n'en consomment pour être utile.
+
+And we haven’t figured out how to do that
+yet.
+Et nous n'avons pas encore compris comment faire
+cela.
+
+In 2018, a test reactor in the U.K. announced they’d
+reached temperatures of 15 million °C in a plasma –
+well on the way to a sustainable fusion reaction.
+En 2018, un réacteur d'essai au Royaume-Uni a annoncé qu'il avait
+atteint des températures de 15 millions de °C dans un plasma –
+bien sur la voie d'une réaction de fusion durable.
+
+And currently under construction in the South
+of France is what will be the world’s biggest
+fusion plant, called ITER.
+Et actuellement en construction dans le sud
+de la France se trouve ce qui sera la plus grande
+usine de fusion du monde, appelée ITER.
+
+The design is still experimental, but the hope is that it will be capable of delivering the first ever self-sustaining fusion process capable of generating more power than the magnets consume.
+La conception est encore expérimentale, mais l'espoir est qu'elle sera capable de fournir le tout premier processus de fusion autonome capable de générer plus d'énergie que les aimants n'en consomment.
+
+Engineers have already contributed to the
+effort by designing more efficient magnets
+and contributing to the design of ITER itself.
+Les ingénieurs ont déjà contribué à l'
+effort en concevant des aimants plus efficaces
+et en contribuant à la conception d'ITER lui-même.
+
+But if fusion ends up being a suitable power
+source, they’ll have a lot more work left to do
+to scale it for wider use.
+Mais si la fusion finit par être une
+source d'énergie appropriée, ils auront encore beaucoup de travail à faire
+pour la mettre à l'échelle pour une utilisation plus large.
+
+Between the sources like solar and wind power
+we talked about last time,
+Entre les sources comme l'énergie solaire et éolienne dont
+nous avons parlé la dernière fois
+
+and less-developed tech like nuclear fusion, there
+are lots of different ways we can change the future
+of energy for a world less reliant on fossil fuels.
+et les technologies moins développées comme la fusion nucléaire, il
+existe de nombreuses façons différentes de changer l'avenir
+de l'énergie pour un monde moins dépendant des combustibles fossiles.
+
+No matter what, we’ll need a new power infrastructure
+to support the cleaner energy world of the future.
+Quoi qu'il en soit, nous aurons besoin d'une nouvelle infrastructure électrique
+pour soutenir le monde énergétique plus propre de l'avenir.
+
+And that infrastructure, that future, will
+be built by engineers.
+Et cette infrastructure, cet avenir,
+sera construit par des ingénieurs.
+
+In this episode we looked at alternative energy
+sources.
+Dans cet épisode, nous avons examiné les
+sources d'énergie alternatives.
+
+We saw how biomass can be burned as a fuel
+source, how hydrogen can be used in a fuel
+cell to generate electrical power,
+Nous avons vu comment la biomasse peut être brûlée comme
+source de combustible, comment l'hydrogène peut être utilisé dans une
+pile à combustible pour produire de l'électricité
+
+and how nuclear fission provides power to the grid.
+et comment la fission nucléaire fournit de l'énergie au réseau.
+
+Finally, we saw how nuclear fusion might someday
+do the same without any radioactive waste.
+Enfin, nous avons vu comment la fusion nucléaire pourrait un jour
+faire la même chose sans aucun déchet radioactif.
+
+Next time, we’ll be looking at ways of storing
+all that power when we look at energy storage
+and batteries.
+La prochaine fois, nous chercherons des moyens de stocker
+toute cette énergie lorsque nous examinerons le stockage de l'énergie
+et les batteries.
+
+Check out our new Augumented Reality Poster,
+available now at dftba.com!
+Découvrez notre nouvelle affiche de réalité augmentée,
+disponible dès maintenant sur dftba.com !
+
+Crash Course Engineering is produced in association
+with PBS Digital Studios.
+Crash Course Engineering est produit en association
+avec PBS Digital Studios.
+
+Check out our sister channel Physics Girl, in which
+Dianna Cowern explains the physics behind puzzling
+phenomenon and everyday mysteries.
+Découvrez notre chaîne sœur Physics Girl, dans laquelle
+Dianna Cowern explique la physique derrière les
+phénomènes déroutants et les mystères du quotidien.
+
+Subscribe at the link in the description.
+Abonnez-vous au lien dans la description.
+
+Crash Course is a Complexly production and this
+episode was filmed in the Doctor Cheryl C. Kinney
+Studio with the help of these wonderful people.
+Crash Course est une production de Complexly et cet
+épisode a été filmé dans le studio du docteur Cheryl C. Kinney
+avec l'aide de ces personnes merveilleuses.
+
+And our amazing graphics team is Thought Cafe.
+Et notre incroyable équipe graphique est Thought Cafe.
+

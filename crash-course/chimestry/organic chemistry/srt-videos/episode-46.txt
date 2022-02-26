@@ -1,0 +1,964 @@
+you can review content from crash course
+vous pouvez revoir le contenu du cours
+
+organic chemistry with the crash course
+accéléré de chimie organique avec l'
+
+app available now for android and ios
+application de cours accéléré disponible maintenant pour les appareils Android et ios
+
+devices
+
+hi i'm daboki chakravarti and welcome to
+salut je suis daboki chakravarti et bienvenue au cours intensif de
+
+crash course organic chemistry we all
+chimie organique nous
+
+smell bad from time to time like after a
+sentons tous mauvais de temps en temps comme après une
+
+workout but imagine if your body odor
+séance d'entraînement mais imaginez si votre  l'odeur corporelle
+
+smelled like fish
+sentait le poisson
+
+all the time this unpleasant sounding
+tout le temps ce
+
+scenario is a reality for people with a
+scénario au son désagréable est une réalité pour les personnes atteintes d'une
+
+rare genetic disorder known as
+maladie génétique rare connue sous le nom de
+
+trimethylaminuria
+triméthylaminurie
+
+their bodies can't produce the enzyme
+leur corps ne peut pas produire l'enzyme
+
+that oxidizes trimethylamine so it
+qui oxyde la triméthylamine donc elle
+
+builds up and is excreted through their
+s'accumule et est excrétée par leur
+
+sweat urine and breath trimethylamine is
+sueur urine et haleine triméthylamine  est
+
+the compound that makes fish smell fishy
+le composé qui donne au poisson une odeur de poisson,
+
+but it's actually used as a marker of
+mais il est en fait utilisé comme marqueur de
+
+freshness it's produced from
+fraîcheur. Il est produit à partir d'
+
+trimethylamine oxide by enzymes and
+oxyde de triméthylamine par des enzymes et des
+
+bacteria so the fissure a fish smells
+bactéries.
+
+the longer it's been out of the water
+
+amines are really important in
+
+biochemistry medicine and agriculture
+
+and they're also involved in an ocean of
+ils sont également impliqués dans un océan de
+
+important reactions let's dive in
+réactions importantes plongeons dans
+
+[Music]
+[Musique] en
+
+talking about amines can get a little
+parlant de moi  les ines peuvent devenir un peu
+
+complicated because there are two naming
+compliquées car il existe deux
+
+systems in use to get common names the
+systèmes de dénomination utilisés pour obtenir des noms communs le
+
+alkyl group attached to the amine group
+groupe alkyle attaché au groupe amine
+
+is put before a mean in the name like
+est placé avant une moyenne dans le nom comme
+
+methylamine ethylamine or propylamine
+méthylamine éthylamine ou propylamine
+
+and of course there's iupac which we'll
+et bien sûr il y a iupac que nous
+
+put on the screen these are all examples
+mettrons  l'écran ce sont tous des exemples
+
+of primary amines a means where one
+d'amines primaires un moyen où un
+
+alkyl or aryl group is attached to the
+groupe alkyle ou aryle est attaché à l'
+
+nitrogen in the amine group just like we
+azote dans le groupe amine tout comme nous
+
+have primary secondary and tertiary
+avons des alcools secondaires et tertiaires primaires,
+
+alcohols we can have secondary and
+nous pouvons avoir des amines secondaires et
+
+tertiary amines too unlike alcohols
+tertiaires aussi contrairement aux alcools
+
+where this refers to the carbon the
+où cela se réfère au  carbone le
+
+hydroxyl group is attached to a
+groupe hydroxyle est attaché à une
+
+secondary amine has two alkyl or aryl
+amine secondaire a deux groupes alkyle ou aryle
+
+groups directly attached to the nitrogen
+directement attachés à l'azote
+
+and tertiary amines have three groups
+et les amines tertiaires ont trois groupes en
+
+using the common naming system we just
+utilisant le système de dénomination commun nous énumérons simplement
+
+list the substituent groups in
+les groupes substituants
+
+alphabetical order so a secondary amine
+par ordre alphabétique donc une amine secondaire
+
+with a methyl and an ethyl group
+avec un méthyle et un  le groupe éthyle
+
+attached to the nitrogen would be
+attaché à l'azote serait l'
+
+ethylmethylamine and the fishy smelling
+éthylméthylamine et la
+
+trimethylamine is a tertiary amine with
+triméthylamine à l'odeur de poisson est une amine tertiaire avec
+
+three methyl groups attached to the
+trois méthamphétamines  groupes yl attachés à l'
+
+nitrogen the nh2 group is pretty low
+azote, le groupe nh2 est assez peu
+
+priority in iupac nomenclature so we'll
+prioritaire dans la nomenclature iupac, nous verrons donc
+
+often see its prefix name amino when
+souvent son nom de préfixe amino lorsqu'il
+
+there are higher priority functional
+y a des groupes fonctionnels de priorité plus élevée
+
+groups in a molecule like five amino two
+dans une molécule comme cinq amino deux
+
+pentanone and four aminobenzoic acid
+pentanone et quatre acides aminobenzoïques
+
+some molecules have more than one amine
+certaines molécules ont plus de  les
+
+group diamines for example are used as
+diamines à un groupe amine par exemple sont utilisées comme
+
+monomers to prepare some polymers like
+monomères pour préparer certains polymères comme le
+
+nylon from episode 31. they're also
+nylon de l'épisode 31. elles sont aussi
+
+stinky the aptly named cadaverine and
+puantes la cadavérine et la putrescine bien nommées
+
+putrescine are produced when bodies
+sont produites lorsque les corps se
+
+decompose and the smell is awful as
+décomposent et que l'odeur est affreuse comme
+
+their name suggests when it comes to
+leur nom l'indique en ce qui concerne la
+
+shape amine molecules have a trigonal
+forme  les molécules d'amine ont une géométrie
+
+pyramidal geometry the nitrogen atom is
+pyramidale trigonale l'atome d'azote est
+
+sp3 hybridized so the electron pairs
+hybride sp3 de sorte que les paires d'électrons qui l'
+
+around it take up a tetrahedral
+entourent prennent un
+
+arrangement like we see for carbon
+arrangement tétraédrique comme nous le voyons pour le carbone
+
+unlike carbon though nitrogen has a lone
+contrairement au carbone bien que l'azote ait une seule
+
+pair of electrons taking up the fourth
+paire d'électrons occupant la quatrième
+
+spot giving the atoms the pyramidal
+place donnant aux atomes la
+
+shape and in chemical reactions amines
+forme pyramidale  et dans les réactions chimiques, les amines
+
+are weak bases the lone pair of
+sont des bases faibles, la seule paire d'
+
+electrons on the nitrogen can accept a
+électrons sur l'azote peut accepter un
+
+proton forming the conjugate acid an
+proton pour  ming l'acide conjugué un
+
+ammonium ion looking at the pka of the
+ion ammonium en regardant le pka de l'
+
+ammonium ion we generate tells us how
+ion ammonium que nous générons nous indique à quel point
+
+basic the amine is remember a low pka
+l'amine est basique, rappelez-vous qu'un pka faible
+
+means a compound is more acidic and more
+signifie qu'un composé est plus acide et plus
+
+willing to give up a proton so if an
+disposé à abandonner un proton, donc si un
+
+ammonium ion has a higher pka this means
+ion ammonium a un plus haut  pka cela signifie que
+
+the original amine is more basic and
+l'amine d'origine est plus basique et
+
+more willing to accept a proton if we
+plus disposée à accepter un proton si nous
+
+want to increase the basicity of an
+voulons augmenter la basicité d'une
+
+amine we can substitute in additional
+amine, nous pouvons substituer
+
+alkyl groups remember that alkyl groups
+des groupes alkyle supplémentaires, rappelez-vous que les groupes alkyle
+
+are electron donating so when an amine
+sont des donneurs d'électrons, donc lorsqu'une amine
+
+picks up a proton to become a positively
+capte un proton pour devenir  un
+
+charged ammonium ion the alkyl groups
+ion ammonium chargé positivement les groupes alkyle
+
+help stabilize the positive charge we
+aident à stabiliser la charge positive nous
+
+can see this effect in action when we
+pouvons voir cet effet en action lorsque nous
+
+compare the pka values of alkyl
+comparons les valeurs pka des ions 
+
+substituted ammonium ions to the simple
+mmonium substitués par un alkyle à l'ion am
+
+ammonium ion the basicity of amines can
+monium simple la basicité des amines peut égal
+
+also be affected by resonance for
+ment être affectée par la résonance par exemp
+
+example aniline which is a precursor of
+e l'aniline qui  est un précurseur
+
+the indigo dye used in blue jeans is a
+du colorant indigo utilisé dans les jeans bleus est une
+
+much weaker base than alkyl amines this
+base beaucoup plus faible que les alkylamines
+
+is because the nitrogen lone pair is
+c'est parce que la paire d'azote seul est
+
+tied up in the resonance in the ring
+liée à la résonance en t  le cycle
+
+there are also nitrogen-containing
+il y a aussi des hétérocycles contenant de l'
+
+heterocycles which are cyclic molecules
+azote qui sont des molécules cycliques
+
+with nitrogen and at least one other
+avec de l'azote et au moins un autre
+
+element in the ring when the cyclic
+élément dans le cycle lorsque le
+
+compound isn't aromatic these amines
+composé cyclique n'est pas aromatique ces amines
+
+have basicities comparable to
+ont des basicités comparables aux
+
+alkylamines however nitrogen containing
+alkylamines cependant les hétérocycles aromatiques contenant de l'
+
+aromatic heterocycles are much weaker
+azote sont des bases beaucoup plus faibles
+
+bases than alkyl amines because of sp2
+que l'alkyle  les amines à cause de l'
+
+hybridization of the nitrogen atom we
+hybridation sp2 de l'atome d'azote, nous avons
+
+saw how increasing s-character increases
+vu comment l'augmentation du caractère s augmente
+
+the acidity of the hydrogen on a carbon
+l'acidité de l'hydrogène sur un carbone,
+
+that's why we can deprotonate the
+c'est pourquoi nous pouvons déprotoner l'
+
+hydrogen atom on a terminal alkyne but
+atome d'hydrogène sur un alcyne terminal mais
+
+in this episode we're looking at amines
+dans cet épisode, nous examinons les amines
+
+and protonated sp2 nitrogens lose their
+et le sp2 protoné  les azotes perdent leurs
+
+protons more easily than protonated sp3
+protons plus facilement que les azotes sp3 protonés
+
+nitrogens so sp2 hybridization makes the
+donc l'hybridation sp2 rend la
+
+conjugate base the unprotonated amine
+base conjuguée l'amine non protonée
+
+less basic one of these heterocycles
+moins basique l'un de ces hétérocycles la
+
+pyridine is a super useful molecule in
+pyridine est une molécule super utile
+
+the lab as a precursor it's used to
+en laboratoire comme précurseur elle est utilisée pour
+
+produce herbicides such as paraquad as
+produire des herbicides tels que le paraquad
+
+well as insecticides and antiseptics if
+ainsi que des insecticides  et antiseptiques si
+
+you need to use it though you might want
+vous avez besoin de l'utiliser même si vous voudrez peut-
+
+to hold your nose
+être vous tenir  le nez
+
+sensing a pattern here
+détectant un motif ici,
+
+puritan's aroma has been diplomatically
+l'arôme du puritain a été diplomatiquement
+
+described as very characteristic and
+décrit comme très caractéristique et
+
+more bluntly is sour and putrid so now
+plus franchement acide et putride, alors maintenant
+
+that we really know what amines are and
+que nous savons vraiment ce que sont les amines et
+
+what they can do let's talk about how we
+ce qu'elles peuvent faire, parlons de la façon dont nous les
+
+make them
+fabriquons,
+
+there are a few ways we can do this
+il y a quelques façons nous pouvons  faites cela en
+
+using a combination of nucleophilic
+utilisant une combinaison de réactions de
+
+substitution reactions and reductions to
+substitution nucléophile et de réductions pour
+
+make an amine the simplest nucleophilic
+faire une amine la substitution nucléophile la plus simple
+
+substitution is reacting ammonia with a
+fait réagir l'ammoniac avec un
+
+haloalkane the lone pair on the nitrogen
+haloalcane la paire isolée sur l'azote
+
+grabs the alkyl group from the alkyl
+attrape le groupe alkyle de l'
+
+halide to make an ammonium ion and by
+halogénure d'alkyle pour former un ion ammonium et en
+
+adding a base to remove the extra proton
+ajoutant une base à  retirez le proton supplémentaire,
+
+we get a primary amine but there's a
+nous obtenons une amine primaire, mais il y a un
+
+little problem with this reaction it
+petit problème avec cette réaction,
+
+just keeps going remember that more
+elle continue, rappelez-vous que plus d'
+
+substituted amines are more basic than
+amines substituées sont plus basiques que l'
+
+ammonia which also makes them more
+ammoniac, ce qui les rend également plus
+
+nucleophilic so the primary amine grabs
+nucléophiles, de sorte que l'amine primaire saisit
+
+the alkyl group from another molecule of
+le groupe alkyle d'une autre molécule
+
+the alkyl halide forming a secondary
+du  halogénure d'alkyle formant une
+
+amine and so on we end up with a
+amine secondaire et ainsi de suite on se retrouve avec un
+
+quaternary ammonium ion a positively
+ion ammonium quaternaire un
+
+charged nitrogen surrounded by four
+azote chargé positivement  en entouré de quatre
+
+alkyl groups
+groupes alkyle
+
+not great if we just wanted a primary
+pas génial si nous voulions juste une
+
+amine this over alkylation problem can
+amine primaire ce problème de suralkylation peut
+
+be solved by converting the alkyl halide
+être résolu en convertissant l'halogénure
+
+to an alkyl azide another nucleophilic
+d'alkyle en azoture d'alkyle une autre réaction de
+
+substitution reaction we can then reduce
+substitution nucléophile nous pouvons alors réduire
+
+the alkyl azide to produce an amine but
+l'azoture d'alkyle pour produire une amine mais
+
+there's an issue with this reaction too
+il y a un problème  avec cette réaction aussi, en
+
+asides particularly ones with low
+particulier celles de faible
+
+molecular weights can be explosive if
+poids moléculaire peuvent être explosives si
+
+they're not in solution a third method
+elles ne sont pas en solution une troisième méthode
+
+is named the gabriel synthesis after its
+est nommée la synthèse gabriel d'après son
+
+discoverer this uses the compound
+découvreur cela utilise le composé
+
+thalamide to add nitrogen and it's
+thalamide pour ajouter de l'azote et c'est
+
+pretty cool because it adds a built-in
+plutôt cool car il ajoute un construit-  dans le
+
+amine protecting group at the same time
+groupe protecteur d'amine en même temps,
+
+we actually saw this protecting group in
+nous avons en fait vu ce groupe protecteur dans
+
+our penicillin synthesis in episode 33.
+notre synthèse de pénicilline dans l'épisode 33.
+
+to remove that and get our primary amine
+pour supprimer cela et obtenir notre amine primaire,
+
+we can react the compound with hydrazine
+nous pouvons faire réagir le composé avec de l'hydrazine
+
+a fourth option to get a plain old
+une quatrième option pour obtenir une vieille
+
+primary amine is reducing a nitrile like
+amine primaire simple réduit un  nitrile comme
+
+the azide reaction the first step is
+la réaction azide la première étape est la
+
+nucleophilic substitution with a
+substitution nucléophile avec un
+
+haloalkane
+haloalcane
+
+then we can reduce the nitrile group to
+puis nous pouvons réduire le groupe nitrile en
+
+a primary amine we also get a bonus
+une amine primaire on obtient aussi un
+
+carbon atom with a strategy and lastly
+atome de carbone bonus avec une stratégie et enfin
+
+in episode 32 we learned that we can
+dans l'épisode 32 on a appris qu'on peut
+
+make amines by reducing amides with
+faire des amines en réduisant des amides avec de
+
+lithium aluminum hydride as a reminder
+l'hydrure de lithium aluminium pour rappel
+
+we can make the amides easily from acid
+on peut faire des amides facilement à partir de
+
+chlorides or esters up until now we've
+chlorures d'acides ou d'esters jusqu'à présent on  'ai
+
+only made primary amines but amide
+seulement fait des amines primaires mais la
+
+reduction also gives us a path to
+réduction d'amide nous donne également un chemin vers
+
+secondary and tertiary amines too we
+des amines secondaires et tertiaires aussi nous avons
+
+just need to make an amide with alkyl
+juste besoin de faire un amide avec des
+
+groups substituting in for the hydrogen
+groupes alkyle se substituant aux atomes d'hydrogène faire
+
+atoms reacting an ester with a primary
+réagir un ester avec une
+
+or secondary amine allows us to do just
+amine primaire ou secondaire nous permet de faire juste
+
+that and reduction gives us the
+cela et la réduction nous donnent l'
+
+secondary or tertiary amine we're after
+amine secondaire ou tertiaire que nous recherchons
+
+there's also a reaction called reductive
+il y a aussi une réaction appelée
+
+amination which uses a milder reducing
+amination réductrice qui utilise un agent réducteur plus doux
+
+agent to add additional alkyl groups to
+pour ajouter des groupes alkyle supplémentaires à
+
+an amine remember it means they're
+une amine rappelez-vous que cela signifie qu'il s'agit de
+
+molecules with a carbon nitrogen double
+molécules avec une double liaison carbone-azote
+
+bond made by reacting ammonia or a
+faite par  la réaction de l'ammoniac ou d'une
+
+primary amine with an aldehyde or ketone
+amine primaire avec un aldéhyde ou une cétone
+
+when making amines nitrogen swaps out
+lors de la fabrication d'amines remplace l'azote
+
+for the oxygen of an aldehyde or ketone
+par l'oxygène d'un aldéhyde ou d'une cétone
+
+and we first get an iminium ion in
+et nous obtenons d'abord une imini  ion um dans l'
+
+reductive amination we then add a
+amination réductrice, nous ajoutons ensuite un
+
+hydride to the electrophilic carbon of
+hydrure au carbone électrophile de
+
+the iminium ion with a mild reducing
+l'ion iminium avec un agent réducteur doux
+
+agent
+
+the alkyl group originally attached to
+le groupe alkyle initialement attaché au
+
+the carbonyl group is now attached to
+groupe carbonyle est maintenant attaché à
+
+the nitrogen this is where we can
+l'azote c'est là que nous pouvons
+
+customize what gets added to the amine
+personnaliser ce qui est ajouté à l'amine
+
+simply by changing the alkyl group
+simplement en changeant le groupe alkyle
+
+attached to the carbonyl compound while
+attaché au composé carbonyle alors que
+
+we're talking about imidium ions we
+nous parlons d'ions imidium, nous
+
+should highlight where they play a role
+devrions mettre en évidence où ils jouent un rôle
+
+in our mold medicine map of penicillin v
+dans notre carte de médecine des moisissures de la pénicilline v
+
+this step uses a similar reaction to
+cette étape utilise une réaction similaire pour
+
+close one of the rings like the
+fermer l'un des anneaux comme le
+
+reductive amination reaction we just saw
+réducteur  réaction d'amination nous venons de voir
+
+the lone pair on the nitrogen attacks
+la paire isolée sur l'azote attaque
+
+the carbonyl carbon a proton jumps to an
+le carbone carbonyle un proton saute vers un
+
+acetate ion which is grabbed by the
+ion acétate qui est saisi par l'
+
+negatively charged oxygen
+oxygène chargé négativement
+
+then we lose the hydroxide ion to form
+puis nous perdons l'ion hydroxyde pour former
+
+the iminium ion so far so good now lots
+l'ion iminium jusqu'ici tout va bien maintenant beaucoup
+
+of different nucleophiles can add to
+de nucléophiles différents  peut ajouter aux
+
+ibenium ions not just hydride like we
+ions ibénium, pas seulement à l'hydrure comme nous l'avons
+
+saw before
+vu auparavant
+
+here the hydroxide ion we just kicked
+ici, l'ion hydroxyde que nous venons d'
+
+out can grab the hydrogen from the thio
+éliminer peut saisir l'hydrogène du groupe thio
+
+group and the sulfur attaches to the
+et  le soufre se fixe au
+
+iminium ion carbon and there you have it
+carbone de l'ion iminium et voilà,
+
+we've closed the five-membered ring in
+nous avons fermé l'anneau à cinq chaînons de la
+
+penicillin v filling in more of our mold
+pénicilline v en remplissant davantage notre
+
+medicine map is coolant but we have a
+carte de médecine des moisissures est un liquide de refroidissement, mais nous avons
+
+couple more amine forming reactions to
+quelques autres réactions de formation d'amines à
+
+explore i know i said that over
+explorer je sais que j'ai dit  que la sur-
+
+alkylation can be a problem sometimes
+alkylation peut parfois être un problème,
+
+but an overalculated amine can be useful
+mais une amine suralculée peut aussi être utile,
+
+too like quaternary ammonium salts are
+comme les sels d'ammonium quaternaire sont de
+
+pretty good leaving groups if we take a
+très bons groupes partants si nous prenons un
+
+quaternary ammonium halide and heat it
+halogénure d'ammonium quaternaire et le chauffons
+
+with silver oxide and water a hydroxide
+avec de l'oxyde d'argent et de l'eau un
+
+ion plucks off a proton as the nitrogen
+ion hydroxyde arrache un proton comme l'azote
+
+leaves giving us an alkene water and a
+feuilles nous donnant une eau alcène et une
+
+tertiary amine this is known as the
+amine tertiaire c'est ce qu'on appelle l'
+
+hoffman elimination named after the
+élimination de hoffman du nom du
+
+chemist who discovered the reaction
+chimiste qui a découvert la réaction l'
+
+hoffman elimination is unusual because
+élimination de hoffman est inhabituelle car
+
+the major alkene it produces is the
+l'alcène majeur qu'il produit est l'
+
+least stable alkene possible most other
+alcène le moins stable possible la plupart des autres
+
+elimination reactions favor the more
+réactions d'élimination favorisent l'alcène le plus
+
+stable alkene this quirk is because of
+stable  cette bizarrerie est due
+
+the bulky tertiary amine leaving group
+au groupe partant amine tertiaire volumineux,
+
+it sterically hinders the transition
+il entrave stériquement l'
+
+state for the more stable alkene and
+état de transition pour le plus stable a  lkène et
+
+therefore paves the way for the alkene
+ouvre donc la voie à l'alcène
+
+that's less stable and then there are
+qui est moins stable et puis il y a des
+
+enamines which contain a carbon-carbon
+énamines qui contiennent une double liaison carbone-carbone à
+
+double bond next to an amine remember
+côté d'une amine rappelez-vous
+
+they're an alkene plus an amine back in
+qu'ils sont un alcène plus une amine dans l'
+
+episode 29 we talked about forming
+épisode 29 nous avons parlé de former des
+
+enamines by reacting an aldehyde or
+énamines en faisant réagir un  aldéhyde ou
+
+ketone with a secondary amine which as
+cétone avec une amine secondaire qui, comme
+
+we mentioned earlier has two alkyl
+nous l'avons mentionné précédemment, a deux
+
+groups attached to the nitrogen the
+groupes alkyle attachés à l'azote, les
+
+first few parts of this reaction are
+premières parties de cette réaction sont
+
+identical to the immune forming reaction
+identiques à la réaction de formation immunitaire
+
+that we've done a couple of times
+que nous avons déjà effectuée plusieurs fois
+
+already in this episode however after
+dans cet épisode, mais après l'
+
+water is eliminated the secondary amine
+eau  est éliminé l'amine secondaire
+
+doesn't have an additional proton to
+n'a pas de proton supplémentaire à
+
+lose to form an amine so a proton is
+perdre pour former une amine donc un proton est
+
+lost from the carbon adjacent to the one
+perdu du carbone adjacent à celui
+
+attached to the nitrogen instead
+attaché à l'azote à la place
+
+now we have the enamine now what we
+maintenant nous avons l'énamine maintenant ce dont nous
+
+didn't talk about in episode 29 is what
+n'avons pas parlé dans l'épisode  29 est ce que
+
+we do once we have an enamine turns out
+nous faisons une fois que nous avons une énamine s'avère
+
+they act as nucleophiles in the same way
+qu'ils agissent comme des nucléophiles de la même manière
+
+as enolates and give us carbon-carbon
+que les énolates et nous donnent des liaisons carbone-carbone
+
+bonds so we can use them in the same
+afin que nous puissions les utiliser dans les mêmes
+
+kinds of reactions like alkylation they
+types de réactions  comme l'alkylation, ils
+
+have some advantages over enolates
+ont certains avantages par rapport aux énolates
+
+because we usually don't have to worry
+car nous n'avons généralement pas à nous
+
+about over-alkylation take a look at
+soucier de la sur-alkylation jetez un œil à
+
+this mechanism the nitrogen lone pair
+ce mécanisme la paire d'azote isolée
+
+pushes down to help the double bond
+pousse vers le bas pour aider la double liaison à
+
+attack the halide in a nucleophilic
+attaquer l'halogénure dans une réaction de
+
+substitution reaction
+substitution nucléophile
+
+we get an iminium ion as an intermediate
+nous obtenons un iminium  ion comme intermédiaire
+
+which can't react more than once so we
+qui ne peut pas réagir plus d'une fois afin que nous
+
+can easily stop the reaction here not
+puissions facilement arrêter la réaction ici, pas
+
+like the enolates we made in episode 43.
+comme les énolates que nous avons fabriqués dans l'épisode 43.
+
+we can use enamines for isolation
+nous pouvons utiliser des énamines pour les
+
+reactions which enolates do too in both
+réactions d'isolement, ce que les énolates font aussi dans les
+
+alkylation and isolation reactions with
+réactions d'alkylation et d'isolement avec les
+
+enamines we reform an immune ion through
+énamines nous  reformer un ion immunitaire
+
+the course of the reaction which we then
+au cours de la réaction que nous
+
+hydrolyze in the final step to reform an
+hydrolysons ensuite dans l'étape finale pour reformer un
+
+aldehyde or ketone all in all a pretty
+aldéhyde ou une cétone dans l'ensemble un ensemble assez
+
+handy set of reactions from some pretty
+pratique de réactions à partir de
+
+bad smelling molecules in this episode
+molécules assez malodorantes dans cet épisode,
+
+we name different amines explored amine
+nous nommons différentes amines explorées
+
+basicity use nucleophilic substitution
+utilisation de la basicité des amines  substitution
+
+and reduction to form amines and use
+et réduction nucléophiles pour former des amines et utiliser des
+
+amines and enamines in carbon-carbon
+amines et des énamines dans des
+
+bond-forming reactions in the next
+réactions de formation de liaisons carbone-carbone dans le prochain
+
+episode we'll look at how we can use
+épisode  nous verrons comment nous pouvons utiliser les
+
+amines to produce diazonium salts and
+amines pour produire des sels de diazonium et
+
+how these compounds are used until then
+comment ces composés sont utilisés jusque-là
+
+thanks for watching this episode of
+merci d'avoir regardé cet épisode de
+
+crash course organic chemistry if you
+cours accéléré de chimie organique si vous
+
+want to help keep all crash course free
+voulez aider à garder tous les cours accélérés gratuits
+
+for everybody forever you can join our
+pour tout le monde pour toujours vous pouvez rejoindre notre
+
+community on patreon
+communauté  sur patreon
+

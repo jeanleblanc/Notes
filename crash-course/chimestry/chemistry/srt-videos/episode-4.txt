@@ -1,0 +1,337 @@
+Salut! Ici Hank Green, bienvenue dans Crash Course Chimie.
+
+Aujourd'hui, on va se pencher sur la plus importante table de l'histoire.
+
+non, pas la table sur laquelle a été signée la déclaration d'indépendance,
+
+ni aucune table des matières, ni même cette table, là, ni les tablettes de pierre d'Aslan,,
+
+NON!
+
+Il s'agit de la table (ou du tableau) periodique des éléments, un répertoire
+
+dense et concis de tous les types d'atomes connus dans l'univers.
+
+Aujourd'hui, on va parler de la création de ce tableau
+
+qui, soyons honnêtes, est à dresser en chef-d’œuvre de la pensée humaine.
+
+Pour commencer, fermez les yeux et imaginez...
+
+[ CRASH COURSECHIMIE ]
+-Le Tableau periodique-
+
+Imaginez que vous êtes en Sibérie. Et que vous êtes un garçon de 13 ans.
+
+Votre père, qui était professeur, mais qui etait devenu aveugle,
+
+vient de mourir, laissait votre famille de plus de 10 frères et sœurs désœuvrés.
+
+Votre maman a repris, seule,  une fabrique de verre abandonnée afin de subvenir aux besoins de votre fratrie,
+
+et aussi parcequ'elle veut économiser un peu d'argent pour pouvoir vous envoyer à l'école.
+
+Une année s'écoule, et la fabrique de verre s’effondre dans un incendie.
+
+Mais maman voit un fort potentiel en vous.
+
+Elle sait que vous avez un esprit scientifique affuté, et elle ne veut pas voir un tel intellect gâché.
+
+Du coup, une fois vos frères et sœurs ayant quitté le domicile familial, elle rassemble vos affaires, les attache à un cheval,
+
+et part avec vous pour un voyage de 2 000 kilomètres, traversant les monts Oural en direction de l'Académie de Moscou.
+
+Une fois arrivés, Elle plaide honnêtement votre cas devant le conseil de l'académie. Qui vous rejette.
+
+Du coup, elle vous fait reprendre le voyage, cette fois en direction de Saint-Pétersbourg,
+
+pour l'Académie dans laquelle votre père a obtenu son diplôme de scientifique.
+
+Par chance (ou grâce à l'indéniable persévérance russe de votre maman), vous y êtes accepté,
+
+vous et votre derrière raboté par 2400km à cheval, en en tant qu'élève. Votre mère, ayant accompli sa mission, meurt peu après.
+
+Si vous vous êtes bien imaginé la scène, vous vous sentez surement investit d'une immense dette envers feu votre mère,
+
+Et vous souhaitez de toute votre âme q'un jour vous accomplirez quelque chose de grand, en l'honneur de son sacrifice.
+
+Et c'est peut-être pour ça, que Dmitri Ivanovich Mendeleïev est devenu l'un des plus grands noms de la science russe,
+
+et un théoricien qui a révolutionné notre vision du monde.
+
+En tant qu'élève,Mendeleïev a passé énormément de temps dans des laboratoires, étudiant le tout récent domaine de la chimie.
+
+Il a travaillé avec tous les éléments disponibles à l'époque,
+
+et ses connaissances lui ont octroyé une compréhension unique de ces éléments et leurs propriétés.
+
+Et cette compréhension lui sera très utile.
+
+A nouveau, mettons nous à la place de Mendeleïev (j'adore faire ça), avec sa connaissance de la chimie.
+
+connaissance que vous n'avez pas encore, mais passons.
+
+Donc: nous sommes en 1860, et nous connaissons une soixantaine d'éléments.
+
+Nous connaissons aussi leurs masses atomiques)
+
+Du coup, la façon la plus simple de classer ces éléments, c'est par ordre de masse atomique.
+
+Mais ce qui vous turlupine, petit intello que vous êtes,
+
+c'est que les les plus grandes similarités entre les éléments ne semblent rien avoir a faire avec leurs masses atomiques.
+
+Le lithium, le sodium, le potassium et le rubidium semblent enclins à réagir avec le chlore,
+
+le fluore, l'iode et le brome;
+
+Le béryllium, le magnésium, le calcium et le strontium leurs sont semblables, mais sont moins enclins à réagir.
+
+Mais avec un peu d'observation, vous pouvez (comme l'on fait plusieurs autres chimistes, pour être honnête)
+
+réaliser qu'il y a une relation entre propriétés et masses atomiques; mais de manière périodique.
+
+Tout en haut de la liste des éléments, les propriétés d'un élément sont les mêmes que celles d'un élément 7 places plus loin.
+
+Aujourd'hui, on sait que c'est en fait tous les 8 éléments,
+
+mais en 1860 les éléments étaient étudiés par rapport à leurs réactivité;
+
+du coup, les gaz nobles n'avaient pas encore étés découverts.
+
+Au fur et à mesure qu'on progresse vers les hautes masses atomiques, cette relation devient de moins en moins periodiques.
+
+toujours là, mais plus de manière aussi fiable.
+
+certains de vos collègues prétendent que "bah c'est comme ça.
+
+la répétition est parfaite au début, mais devient plus floue sur la fin."
+
+Mais vous n'êtes pas d'accord. Et ça vous obsède. Vous êtes obnubilé par la perfection de la périodicité.
+
+Vous écrivez les noms, masses et propriétés des éléments sur des cartes,
+
+vous les disposez sur votre bureau, les mélangez, les déchirez de frustration. Jusqu'à ce qu'un jour, vous vous rendiez compte:
+
+Il vous manque juste des cartes.
+
+Ça n'échoue pas parce que vos idées sont fausses,
+
+mais tout simplement parce-que certains éléments n'ont pas encore été découverts.
+
+Sur le coup de cette révélation, vous réarrangez vos cartes en laissant certains espaces vides, et tout se place parfaitement.
+
+L'hydrogène seule, puis deux lignes d'une périodicité de 7
+
+puis deux lignes de 18.
+
+Vous êtes tellement sûr de vous que vous prédisez les propriétés des éléments manquants.
+
+Et quand un scientifique français vient pour dire qu'il a découvert un de ces éléments manquants,
+
+vous débâtez avec lui, lui disant que vous l'aviez découvert avant; dans votre esprit!
+
+Et quand vous recevez ses données, et qu'elles ne correspondent pas à ce que vous aviez prédit,
+
+vous publiez un papier expliquant que ses données sur ce prétendu nouvel élément sont incorrectes!
+
+Voilà à quel point vous êtes convaincu de ce nouveau référentiel, que vous avez créé.
+
+Et le truc vraiment fou, dans tout ça? C'est que vous avez raison! les données de l'autre français était bien fausses!
+
+Vous n'avez jamais eu la possibilité de travailler sur cet élément, mais vous en savez plus sur lui que le type qui l'a découvert,
+
+parce-que vous êtes Mendeleïev, Maître des éléments.
+
+Ok, on a assez imaginé de trucs pour un épisode, on arrête là. même si c'était bien fun.
+
+Les différents groupes que Mendeleïev avait identifié sont quasiment identiques à ceux que l'on étudie aujourd'hui.
+
+Tout à gauche, on a les métaux Alcalins, brillants et extrêmement réactifs.
+
+Tellement réactifs, en fait, que pour les conserver, on les immerge dans des huiles minérales
+
+pour les empêcher de réagir avec l'air ambiant.
+
+Les métaux alcalins n'ont qu'une seule envie: lâcher un de leurs électrons pour se transformer en ion positif (aka un Cation)
+
+Et ils sont toujours en train de courtiser les charmantes de l'autre côté du tableau.
+
+Du coup, vu leurs réactivité, on en trouve pas des masses dans la nature;
+
+les chimistes les extraient des composés qui les contiennent.
+
+Ensuite, nous avons les métaux alcalino-terreux. réactifs, mais pas autant que les métaux alcalins,
+
+ils forment des cations avec deux charges positives plutôt qu'une.
+
+Le calcium (voilà ce que c'est) réagit avec l'eau de la même manière que le sodium
+
+mais un peu plus lentement, en produisant un peu moins de chaleur.
+
+Tout le milieu du tableau consiste en un solide rectangle contenant les métaux de transition.
+
+Ce sont les métaux auxquels on pense quand on entend "métal", avec le fer, le nickel, l'or, ou encore le platine.
+
+La majorité de ces éléments sont très peu réactifs, mais sont de grands conducteurs de chaleur,
+
+mais surtout excellents conducteurs d’électricité.
+
+Ils sont malléables, peuvent être tordus et modelés en feuilles sous les coups de marteaux,
+
+Ils sont extrêmement importants en chimie mêmes s'ils sont très semblables les uns aux autres.
+
+Sur la droite, juste avant les gaz nobles,
+
+les halogènes sont un groupe de gaz très réactifs qui forment des ions négatifs, ou anions,
+
+avec une charge négative, et ils adorent réagir avec les alcalins et les alcalino-terreux.
+
+Entre les halogènes et les métaux de transition, on trouve plusieurs éléments qui forment d'étranges motifs sur le tableau;
+
+des métaux pauvres et des non-métaux, des gaz et des métaloides.
+
+Ceux-là ne se changent pas en ions à moins de prendre des mesures extrêmes en leurs balançant d'autres ions à la face.
+
+Bref, un coin assez ennuyeux du tableau, même si on y trouve pas mal de trucs intéressants en chimie organique.
+
+(On en parlera)
+
+Les deux lignes du bas, ce sont les lanthanides et les actinides,
+
+des métaux pratiquement inconnus du temps de Mendeleïev,
+
+car tellement similaires les uns aux autres qu'il est trèèèèès dur de les différencier.
+
+Et pour finir, tout à droite, un autre groupe d'éléments inconnus des contemporains de Mendeleïev,
+
+les gaz nobles, totalement non-réactifs.
+
+Comme beaucoup de scientifiques obstinés, Mendeleïev n'a jamais considéré son tableau comme achevé,
+
+du coup il s'y est dédié pendant un bon bout de temps, le publiant uniquement au sein de manuels de chimie
+
+qu'il écrivait quand il avait besoin de cash.
+
+Et comme pour beaucoup de découvertes scientifiques, quelques autres personnes étaient à deux doigts d'arriver aux même résultat.
+
+Pas moins de 6 personnes on écrit sur la périodicité des éléments à peu près en même temps que Mendeleïev.
+
+Mais certains détails l'ont fait sortir du lot.
+
+1 : Il était obstiné.
+
+il connaissait toutes les données comme personne,
+
+et il a passé tellement de temps sur sa théorie que pas mal de gens le considéraient juste comme un excentrique.
+
+et 2 : Contrairement à tous les autres, il avait réalisé que la périodicité avait des conséquences bien plus importantes que ce qu'il n'y paraissait.
+
+Il semblerait qu'il ai accordé une importance quasi - cosmique ses travaux,
+
+presque une fascination religieuse.
+
+Mendeleïev croyait en Dieu
+
+Mais il croyait aussi que les religions institutionnalisées ne pouvaient mener à l’indicible nature de Dieu.
+
+J'aime à penser qu'il voyait un motif divin dans son tableau,
+
+et que Mendeleïev se sentait plus proche la connaissance de Dieu que nul autre auparavant.
+
+(Soyons clairs, ce n'est que mon point de vue)
+
+Et nous savons maintenant que la périodicité des éléments résultent d'un phénomène physique.
+
+Elle résulte du comportement des électrons qui , bien que tout à fait curieux, sont tout sauf mystiques.
+
+Mais nous y reviendrons dans le prochain épisode.
+
+Le tableau periodique des éléments que nous connaissons et aimons -En tout ca, moi je l'aime - est une représentation de la réalité,
+
+un moyen de comprendre et d'appréhender l'univers tel qu'il existe.
+
+Mais la forme de ce tableau n'est pas gravée dans la pierre,
+
+et si un contemporain de Mendeleïev voyait le tableau monté sur un cylindre,
+
+les éléments de chaque côté du tableau se rejoignant,
+
+le tableau de Mendeleïev  ressemble plus à une carte murale.
+
+De Chancourtois, un géologue, la voyait comme un globe.
+
+Mais malheureusement pour lui, aucun éditeur n'a trouvé comment imprimer son tableau en 3D.
+
+Du coup, il présenta son papier sans aucune représentation graphique de son cylindre des éléments...
+
+...et fut du coup totalement ignoré.
+
+J'imagine qu'ils ne savaient pas comment plier du papier, à l'époque.
+
+Je suis particulièrement fan de de modèle en papier scotché du tableau periodique,
+
+vous pouvez faire le votre - un lien est disponible dans la description -
+
+Et il y a plein d'autres représentations du tableau periodique
+
+qui ont divers avantages par rapport à celui que nous connaissons.
+
+Notre tableau est, en tant que tel, un peu triste.
+
+Les lanthanides et les actinides devraient faire partie du reste, mais on les a mis à l'écart,
+
+parce-que ça rentre mieux sur du A4. Voici ce à quoi ça devrait ressembler.
+
+En fait, c'est encore mieux si vous en faites un cercle,
+
+pour que le fluor, le néon et le sodium soient à côté les uns des autres, au lieu d'être aux coins opposés du tableau.
+
+Ils sont à un proton de différence!
+
+Cependant, la contribution de Mendeleïev est bien plus pertinente qu'il n'y parait.
+
+Il a fini par créer un guide aider les futurs chimistes à comprendre ce qui sera découvert
+
+25, 50, voir même 100 ans plus tard.
+
+Bien sur, une fois les travaux de Mendeleïev  publiés et acceptés,
+
+la communauté scientifique s'est mis à se demander "mais POURQUOI c'est comme ça???".
+
+Mais Mendeleïev  ne se sentait pas concerné par cette question.
+
+En fait, il était en désaccord avec la théorie atomiste. en fait, il ne croyait en rien de ce qu'il ne pouvait pas voir de ses propres yeux.
+
+Il s’avérera par la suite que la première réponse au "pourquoi" sera l'électron.
+
+Ce glissant petit électron; Mendeleïev, s'il avait été là lors de leurs découverte, il les aurait détesté.
+
+Mais vous, vous aurez un sain respect pour eux,
+
+après ce que vous apprendrez sur eux dans le prochain épisode de Crash Course Chimie.
+
+Merci d'avoir regardé cet épisode de Crash Course Chimie. Si vous avez bien suivi, vous avez appris :
+
+- La terrible, belle et incroyable histoire de Mendeleïev;
+
+- Comment il a organisé les éléments en un tableau périodique;
+
+- Certaines relations basiques entre les éléments;
+
+- Pourquoi Mendeleïev a prévalu sur ses contemporains;
+
+- Et comment le tableau que nous connaissons aujourd'hui pourrait être un chouilla amélioré.
+
+Cet épisode de Crash Course a été écrit par moi, Hank Green,
+
+filmé et édité par Caitlin Hofmeister et édita par Nick Jenkins.
+
+Le script a été édité par Blake di Pastino et Dr Heiko Langner,
+
+Michael Aranda s'est occupé du sound design, et le Design a été fait par l'équipe Thought Café.
+
+Si vous avez des questions, n'hésitez pas à les poser dans les commentaires.
+
+Merci d'avoir voulu apprendre à nos côtés, dans cet épisode de Crash Course chimie!
+

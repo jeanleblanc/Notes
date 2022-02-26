@@ -1,0 +1,654 @@
+There’s nothing quite like a quiet night on the
+couch, digging into a tub of delicious ice cream.
+Il n'y a rien de tel qu'une nuit tranquille sur le
+canapé, creusant dans un pot de délicieuse crème glacée.
+
+Like so much else, engineering has a lot to
+contribute when it comes to crafting that
+perfect scoop.
+Comme tant d'autres choses, l'ingénierie a beaucoup à
+apporter lorsqu'il s'agit de créer ce
+scoop parfait.
+
+In fact, the ice cream-making process has
+many of the same challenges as other food
+production.
+En fait, le processus de fabrication de la crème glacée présente
+bon nombre des mêmes défis que les autres
+productions alimentaires.
+
+Getting ingredients from the field to your
+fork might seem pretty straightforward.
+Acheminer les ingrédients du champ à votre
+fourchette peut sembler assez simple.
+
+But there’s actually a whole discipline
+dedicated to production, sanitation, transportation,
+and, of course, how it all tastes.
+Mais il existe en fait toute une discipline
+dédiée à la production, à l'assainissement, au transport
+et, bien sûr, au goût de tout cela.
+
+It’s called food engineering.
+C'est ce qu'on appelle l'ingénierie alimentaire.
+
+And the methods and techniques are every
+bit as high tech as fields like aerospace or
+nanomaterial engineering!
+Et les méthodes et techniques sont tout
+aussi high-tech que des domaines comme l'aérospatiale ou l'
+ingénierie des nanomatériaux !
+
+So there’s some food for thought.
+Il y a donc matière à réflexion.
+
+[Theme Music]
+[Theme Music]
+
+It’s no surprise that a lot of effort goes
+into maintaining the systems that make food,
+because everyone needs to eat.
+Il n'est pas surprenant que beaucoup d'efforts soient déployés
+pour maintenir les systèmes qui fabriquent la nourriture,
+car tout le monde a besoin de manger.
+
+This is a place where engineers can make a big
+impact, and it’s only going to become more important
+as the human population continues to grow.
+C'est un endroit où les ingénieurs peuvent avoir un grand
+impact, et cela ne fera que devenir plus important à
+mesure que la population humaine continue de croître.
+
+Whether it’s ice cream or something else,
+engineering what we eat comes with a unique
+set of challenges.
+Qu'il s'agisse de crème glacée ou d'autre chose,
+concevoir ce que nous mangeons s'accompagne d'un
+ensemble unique de défis.
+
+Unlike a steel beam or a semiconductor, food
+tends to be perishable – in other words, it spoils!
+Contrairement à une poutre en acier ou à un semi-conducteur, la nourriture a
+tendance à être périssable - en d'autres termes, elle se gâte !
+
+And while people tend to be picky about what
+they eat, microbes like bacteria are much less fussy.
+Et tandis que les gens ont tendance à être pointilleux sur ce
+qu'ils mangent, les microbes comme les bactéries sont beaucoup moins difficiles.
+
+They might already be in food, or they can
+easily find their way in through contaminated
+surfaces or the air.
+Ils peuvent déjà être présents dans les aliments ou ils peuvent
+facilement se frayer un chemin à travers des
+surfaces contaminées ou dans l'air.
+
+And lots of those microbes love eating what
+we love eating.
+Et beaucoup de ces microbes aiment manger ce que
+nous aimons manger.
+
+That’s not always bad thing.
+Ce n'est pas toujours une mauvaise chose.
+
+Foods like blue cheese are purposely
+cultivated with certain kinds of bacteria to
+produce their distinctive flavor.
+Des aliments comme le fromage bleu sont délibérément
+cultivés avec certains types de bactéries pour
+produire leur saveur distinctive.
+
+But most of the time, bacteria or viruses
+in your food are not good news.
+Mais la plupart du temps, la présence de bactéries ou de virus
+dans vos aliments n'est pas une bonne nouvelle.
+
+If the wrong kinds of microbes are growing
+on last week’s pizza, odds are good that it will
+have a pretty nasty effect on your stomach.
+Si les mauvais types de microbes se développent
+sur la pizza de la semaine dernière, il y a de fortes chances que cela
+ait un effet assez désagréable sur votre estomac.
+
+It could even lead to food poisoning!
+Cela pourrait même entraîner une intoxication alimentaire !
+
+If food sits around longer, contamination
+becomes more likely.
+Si les aliments restent plus longtemps, la contamination
+devient plus probable.
+
+So time is of the essence in food engineering!
+Le temps presse donc en ingénierie alimentaire !
+
+From the time the ingredients are harvested to
+the moment the final product ends up in your bowl,
+À partir du moment où les ingrédients sont récoltés
+jusqu'au moment où le produit final se retrouve dans votre bol,
+
+there are lots of ways for contaminants to get
+into the mix and start causing problems.
+il existe de nombreuses façons pour les contaminants de pénétrer
+dans le mélange et de commencer à causer des problèmes.
+
+Exposing food to too much air, light, or the
+wrong temperature can also have adverse effects.
+Exposer les aliments à trop d'air, à la lumière ou à une
+mauvaise température peut également avoir des effets néfastes.
+
+A container of milk left on your porch in
+the sun too long will probably end up tasting
+strange.
+Un récipient de lait laissé trop longtemps sur votre porche
+au soleil finira probablement par avoir un goût
+étrange.
+
+So engineers have to carefully control these
+aspects of food production that affect how easily
+bacteria can survive and how the food tastes.
+Les ingénieurs doivent donc contrôler avec soin ces
+aspects de la production alimentaire qui affectent la facilité de
+survie des bactéries et le goût des aliments.
+
+Accomplishing all this requires some of the
+other fields of engineering we’ve explored so far.
+Accomplir tout cela nécessite certains des
+autres domaines de l'ingénierie que nous avons explorés jusqu'à présent.
+
+Especially in the case of ice cream, our old
+friend thermodynamics comes into play.
+Surtout dans le cas de la crème glacée, notre vieil
+ami la thermodynamique entre en jeu.
+
+To create cream in the first place, you have
+to separate it from raw milk.
+Pour créer de la crème en premier lieu, vous devez la
+séparer du lait cru.
+
+One way of doing this is with a centrifuge.
+Une façon de le faire est d'utiliser une centrifugeuse.
+
+Because of the difference in density between cream
+and the rest of the milk, the cream ends up farther from
+the axis of rotation in a spinning vessel,
+En raison de la différence de densité entre la crème
+et le reste du lait, la crème se retrouve plus éloignée de
+l'axe de rotation dans un récipient en rotation, un
+
+much like how swinging a pendulum in
+circles draws the heavier bit outwards.
+peu comme la façon dont le balancement d'un pendule en
+cercles attire le morceau le plus lourd vers l'extérieur.
+
+That cream can then be channeled away and
+collected.
+Cette crème peut ensuite être acheminée et
+collectée.
+
+Of course, other flavor-specific ingredients
+might require completely different production
+techniques.
+Bien sûr, d'autres ingrédients spécifiques à la saveur
+peuvent nécessiter des techniques de production complètement différentes
+.
+
+Consider the raisins you’d need for a batch
+of rum and raisin ice cream.
+Considérez les raisins secs dont vous auriez besoin pour un lot
+de glace au rhum et aux raisins secs.
+
+As far back as ancient Rome, food production
+techniques took advantage of sunlight and
+wind to dry out fruits.
+Dès la Rome antique, les
+techniques de production alimentaire profitaient du soleil et du
+vent pour assécher les fruits.
+
+Less water meant the fruits wouldn’t spoil
+as quickly.
+Moins d'eau signifiait que les fruits ne se gâteraient pas
+aussi rapidement.
+
+Thousands of years later, the process hasn’t
+changed an awful lot!
+Des milliers d'années plus tard, le processus n'a pas
+beaucoup changé !
+
+Since the Sun is a readily available source
+of heat, many raisins are still produced by
+leaving grapes out to dry.
+Étant donné que le soleil est une source
+de chaleur facilement disponible, de nombreux raisins secs sont encore produits en
+laissant sécher les raisins.
+
+And since the sugar stays behind as they lose
+water, raisins are sweet.
+Et puisque le sucre reste derrière pendant qu'ils perdent de l'
+eau, les raisins secs sont sucrés.
+
+No matter what ingredients you need for an
+ice cream flavor, though, you need to mix
+them in large batches.
+Quels que soient les ingrédients dont vous avez besoin pour une
+saveur de crème glacée, vous devez les
+mélanger en grandes quantités.
+
+Process control plays an important role in governing the
+ratio of the ingredients and maintaining the machinery
+that transports them from one place to another.
+Le contrôle des processus joue un rôle important dans la gestion du
+rapport des ingrédients et dans l'entretien de la machinerie
+qui les transporte d'un endroit à un autre.
+
+You’ll also need fluid mechanics, since
+the ingredients of mixtures like ice cream
+or cake batter are often in liquid form.
+Vous aurez également besoin de mécanique des fluides, car
+les ingrédients des mélanges comme la crème glacée
+ou la pâte à gâteau sont souvent sous forme liquide.
+
+You can use some of the same tools that might
+transport other liquids like petrol, but, again,
+everything needs to be sterile.
+Vous pouvez utiliser certains des mêmes outils qui pourraient
+transporter d'autres liquides comme l'essence, mais, encore une fois,
+tout doit être stérile.
+
+And you also need to consider the materials
+your equipment is made of.
+Et vous devez également tenir compte des matériaux dont
+est fait votre équipement.
+
+For example, microbes don’t grow well on
+copper surfaces, so you might think that would
+be great for preparing food.
+Par exemple, les microbes ne se développent pas bien sur
+les surfaces en cuivre, vous pourriez donc penser que ce
+serait formidable pour préparer des aliments.
+
+But running a creamy mixture through a copper
+pipe might introduce bits of metal into the mixture.
+Mais faire passer un mélange crémeux dans un
+tuyau en cuivre pourrait introduire des morceaux de métal dans le mélange.
+
+At best, it just ruins the taste.
+Au mieux, ça gâche juste le goût.
+
+But at worst, it could lead to heavy metal
+poisoning!
+Mais au pire, cela pourrait entraîner une
+intoxication aux métaux lourds !
+
+Stainless steel, on the other hand, is particularly
+resistant to corrosion and doesn’t lose a lot of
+material to the mixture.
+L'inox, quant à lui, est particulièrement
+résistant à la corrosion et ne perd pas beaucoup de
+matière au mélange.
+
+So say you have safe equipment to move your
+ingredients around.
+Supposons donc que vous disposiez d'un équipement sûr pour déplacer vos
+ingrédients.
+
+Next, the ice cream mixture, as well as flavor-specific
+ingredients like raisins or vanilla, will probably need
+sugar and emulsifiers to give it just the right texture.
+Ensuite, le mélange de crème glacée, ainsi que des ingrédients spécifiques à la saveur
+comme les raisins secs ou la vanille, auront probablement besoin de
+sucre et d'émulsifiants pour lui donner la bonne texture.
+
+In the ice cream production process, everything
+is combined in a tank, but it doesn’t automatically
+mix evenly.
+Dans le processus de production de crème glacée, tout
+est combiné dans un réservoir, mais il ne se mélange pas automatiquement de
+manière uniforme.
+
+To do that, you need to pass everything through
+what’s called a homogenizer.
+Pour ce faire, vous devez tout faire passer dans
+ce qu'on appelle un homogénéisateur.
+
+A homogenizer forces a fluid under high pressure
+through a small opening.
+Un homogénéisateur force un fluide sous haute pression à
+travers une petite ouverture.
+
+That squeezing breaks down large chunks into
+smaller particles that are spread out more
+evenly for a smoother mixture.
+Cette compression décompose les gros morceaux en
+particules plus petites qui sont réparties plus
+uniformément pour un mélange plus lisse.
+
+This mix of different ingredients makes the
+ice cream more viscous than cream alone.
+Ce mélange de différents ingrédients rend la
+crème glacée plus visqueuse que la crème seule.
+
+And since the fluid is thicker, heat will
+flow through it rather differently than before.
+Et comme le fluide est plus épais, la chaleur le
+traversera différemment qu'auparavant.
+
+That’s quite important for what comes next:
+pasteurization.
+C'est assez important pour ce qui vient ensuite : la
+pasteurisation.
+
+Pasteurization was invented by French biologist
+Louis Pasteur.
+La pasteurisation a été inventée par le biologiste français
+Louis Pasteur.
+
+It involves heating foods, such as dairy
+products, and then quickly cooling them to kill
+off some of the bacteria.
+Cela implique de chauffer des aliments, tels que des
+produits laitiers, puis de les refroidir rapidement pour
+tuer certaines bactéries.
+
+The resulting products then stay fresher for
+longer.
+Les produits ainsi obtenus restent frais
+plus longtemps.
+
+Because pasteurization involves a transfer
+of heat to the mixture,
+Étant donné que la pasteurisation implique un transfert
+de chaleur vers le mélange,
+
+the ice cream’s viscosity has to be taken into
+consideration when designing the machinery
+that efficiently heats it up.
+la viscosité de la crème glacée doit être prise en
+compte lors de la conception des machines
+qui la chauffent efficacement.
+
+In the case of ice cream, you have two different
+options.
+Dans le cas de la crème glacée, vous avez deux
+options différentes.
+
+One way is to apply a high amount of heat
+for about half a minute.
+Une façon consiste à appliquer une grande quantité de chaleur
+pendant environ une demi-minute.
+
+Or sometimes, large tanks can be heated at
+a lower temperature for a longer period of time.
+Ou parfois, de grands réservoirs peuvent être chauffés à
+une température plus basse pendant une plus longue période.
+
+That changes the chemical nature of some of the
+ingredients, like caramelizing the sugar for example.
+Cela modifie la nature chimique de certains
+ingrédients, comme la caramélisation du sucre par exemple.
+
+It’s up to the manufacturer whether or not
+they want that change in taste!
+C'est au fabricant de décider s'il veut ou non
+ce changement de goût!
+
+Once pasteurization is done, you need to bring
+the ice cream’s temperature back down.
+Une fois la pasteurisation terminée, il faut
+redescendre la température de la glace.
+
+And, crucially, you have to find a way to
+store it at that colder temperature.
+Et, surtout, vous devez trouver un moyen de le
+stocker à cette température plus froide.
+
+Storage is a vital part of food engineering.
+Le stockage est un élément essentiel de l'ingénierie alimentaire.
+
+Because of the shelf life of most foods, maintaining
+supply chains, which transport food between producers
+and retailers, is a tricky business.
+En raison de la durée de conservation de la plupart des aliments, le maintien
+des chaînes d'approvisionnement, qui transportent les aliments entre les producteurs
+et les détaillants, est une tâche délicate.
+
+The clock is always ticking!
+L'horloge tourne toujours !
+
+But the way you package it can buy time, which
+changes depending on the food.
+Mais la façon dont vous l'emballez peut vous faire gagner du temps, qui
+change en fonction de l'aliment.
+
+Bread has to be sealed in bags to avoid going
+stale, while foods like chopped tomatoes are
+best preserved in cans.
+Le pain doit être scellé dans des sacs pour éviter de
+rassir, tandis que les aliments comme les tomates hachées sont
+mieux conservés dans des boîtes de conserve.
+
+And the storage environment at every step
+of the supply chain can also prolong the shelf life.
+Et l'environnement de stockage à chaque étape
+de la chaîne d'approvisionnement peut également prolonger la durée de conservation.
+
+After pasteurisation, the best choice for your
+ice cream is to quickly move it from one freezer
+to the next until it’s ready to be eaten.
+Après la pasteurisation, le meilleur choix pour votre
+crème glacée est de la déplacer rapidement d'un congélateur
+à l'autre jusqu'à ce qu'elle soit prête à être consommée.
+
+If it’s going into a soft-serve machine, it passes
+through a single stage of refrigeration before filling
+the tank of the machine as a thick, cold liquid.
+S'il entre dans une machine à servir molle, il passe
+par une seule étape de réfrigération avant de remplir
+le réservoir de la machine sous forme de liquide épais et froid.
+
+Or you might want individual scoops in paper
+cups, pint sized tubs for those long nights in, or
+the five-gallon plastic bins used in restaurants.
+Ou vous voudrez peut-être des cuillères individuelles dans des gobelets en papier
+, des pots de la taille d'une pinte pour les longues nuits ou
+les bacs en plastique de cinq gallons utilisés dans les restaurants.
+
+Whatever you decide, once you’ve transferred
+the product to its final packaging, it needs some
+serious freezing.
+Quoi que vous décidiez, une fois que vous avez transféré
+le produit dans son emballage final, il a besoin d'une
+sérieuse congélation.
+
+For ice cream, there are two stages that take
+place.
+Pour la crème glacée, il y a deux étapes qui ont
+lieu.
+
+The first is to harden it and the second is
+for storing it.
+Le premier est de le durcir et le second est
+de le stocker.
+
+You might think anywhere below 0°C would
+be fine.
+Vous pourriez penser que n'importe où en dessous de 0 ° C
+serait bien.
+
+After all, water freezes at that temperature,
+so surely that’s enough to stop any food
+from going off?
+Après tout, l'eau gèle à cette température,
+alors c'est sûrement suffisant pour empêcher tout aliment
+de s'éteindre ?
+
+Unfortunately that’s not the case!
+Malheureusement ce n'est pas le cas !
+
+Depending on how soon it’s going to be
+consumed, frozen foods need to be kept at
+a particular temperature.
+Selon le moment où ils seront
+consommés, les aliments surgelés doivent être conservés à
+une température particulière.
+
+Frozen fruits, such as strawberries, can
+have a different shelf life depending on the
+temperature they’re frozen at.
+Les fruits congelés, comme les fraises, peuvent
+avoir une durée de conservation différente selon la
+température à laquelle ils sont congelés.
+
+-5°C might allow them to keep for a month,
+but storing them at -25°C keeps them edible
+for two and a half years!
+-5°C peut leur permettre de se conserver un mois,
+mais les conserver à -25°C les garde comestibles
+pendant deux ans et demi !
+
+As for ice cream, it needs to be kept
+at a chilly -40° in storage.
+Quant à la glace, elle doit être conservée
+à -40° au frais en stockage.
+
+Any trucks that transport it and the storage
+facilities at the grocery store need to have 
+a similar freezing capacity.
+Tous les camions qui le transportent et les
+installations de stockage de l'épicerie doivent avoir
+une capacité de congélation similaire.
+
+Blast freezers can achieve this by blowing cold air
+over the contents inside the freezer, carrying away
+even more heat than the kind you have at home.
+Les congélateurs à air pulsé peuvent y parvenir en soufflant de l'air froid
+sur le contenu à l'intérieur du congélateur, emportant
+encore plus de chaleur que celle que vous avez à la maison.
+
+But after all that, you can head to the store and pick
+up a tub of your favorite ice cream flavor to store in
+your own freezer, ready to comfort you when needed.
+Mais après tout cela, vous pouvez vous rendre au magasin et
+prendre un pot de votre saveur de crème glacée préférée à conserver dans
+votre propre congélateur, prêt à vous réconforter en cas de besoin.
+
+It really makes you appreciate the amount of work
+that goes into that spoonful of cherry garcia.
+Cela vous fait vraiment apprécier la quantité de travail
+qui va dans cette cuillerée de cerise garcia.
+
+Of course, food engineering is about more
+than making desserts.
+Bien sûr, l'ingénierie alimentaire ne se limite pas
+à la fabrication de desserts.
+
+The world’s population is growing fast,
+and the demand for healthy, nutritious food
+will grow along with it.
+La population mondiale augmente rapidement
+et la demande d'aliments sains et nutritifs
+augmentera avec elle.
+
+Equipment such as freezers, mixing vats, and
+packaging machines all need to be specially 
+designed for handling different products.
+Les équipements tels que les congélateurs, les cuves de mélange et
+les machines d'emballage doivent tous être spécialement
+conçus pour la manipulation de différents produits.
+
+The equipment needed for ice cream is
+different than the stuff for packaging fresh
+fruit, or dried foods like rice.
+L'équipement nécessaire pour la crème glacée est
+différent de celui utilisé pour emballer des
+fruits frais ou des aliments secs comme le riz.
+
+Not to mention the engineering efforts that
+go into agriculture and supply chains.
+Sans parler des efforts d'ingénierie qui
+vont dans l'agriculture et les chaînes d'approvisionnement.
+
+To create and provide the foods we love, engineers will
+have to find ways to scale up delivery and production.
+Pour créer et fournir les aliments que nous aimons, les ingénieurs
+devront trouver des moyens d'augmenter la livraison et la production.
+
+All while ensuring that it remains free from
+bacteria and still tastes delicious!
+Tout en s'assurant qu'il reste exempt de
+bactéries et qu'il a toujours un goût délicieux !
+
+With a problem this big, even small improvements
+can result in vast savings of time, money, and energy.
+Avec un problème aussi important, même de petites améliorations
+peuvent entraîner d'importantes économies de temps, d'argent et d'énergie.
+
+And that’s a vital step towards a happy
+and well-fed world.
+Et c'est une étape vitale vers un monde heureux
+et bien nourri.
+
+Your Nana would be proud.
+Votre Nana serait fière.
+
+In this episode, we looked at food engineering.
+Dans cet épisode, nous nous sommes penchés sur l'ingénierie alimentaire.
+
+We explored how food’s capacity to spoil
+makes it a unique challenge from an engineering
+viewpoint.
+Nous avons exploré comment la capacité des aliments à se gâter en
+fait un défi unique d'un
+point de vue technique.
+
+We saw how many branches of engineering come
+into play to process ingredients, ensure safety
+for consumers, and package food,
+Nous avons vu combien de branches de l'ingénierie entrent
+en jeu pour transformer les ingrédients, assurer la sécurité
+des consommateurs et emballer les aliments
+
+as well as how thermodynamics is involved
+in the different stages of food production.
+, ainsi que la façon dont la thermodynamique est impliquée
+dans les différentes étapes de la production alimentaire.
+
+I’ll see you next week when we explore the
+world of geotechnical engineering.
+Je vous verrai la semaine prochaine lorsque nous explorerons le
+monde de l'ingénierie géotechnique.
+
+Crash Course AR Poster Available Now!
+dftba.com/collections/crashcourse
+L'affiche AR du cours accéléré est disponible dès maintenant !
+dftba.com/collections/crashcourse
+
+Crash Course Engineering is produced in association
+with PBS Digital Studios.
+Crash Course Engineering est produit en association
+avec PBS Digital Studios.
+
+Wanna keep learning?
+Voulez-vous continuer à apprendre ?
+
+Check out Above the Noise, a show that cuts
+through the hype and takes a deeper look at
+the research and context behind the controversial
+topics in the news, hosted by Myles Bess.
+Découvrez Above the Noise, une émission qui
+traverse le battage médiatique et examine plus en profondeur
+la recherche et le contexte derrière les
+sujets controversés de l'actualité, animée par Myles Bess.
+
+Subscribe at the link in the description.
+Abonnez-vous au lien dans la description.
+
+Crash Course is a Complexly production and this
+episode was filmed in the Doctor Cheryl C. Kinney
+Studio with the help of these wonderful people.
+Crash Course est une production de Complexly et cet
+épisode a été filmé dans le studio du docteur Cheryl C. Kinney
+avec l'aide de ces personnes merveilleuses.
+
+And our amazing graphics team is Thought Cafe.
+Et notre incroyable équipe graphique est Thought Cafe.
+

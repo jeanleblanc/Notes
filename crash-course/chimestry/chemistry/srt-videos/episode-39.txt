@@ -1,0 +1,765 @@
+As I said before chemistry is, like many aspects
+of your own life, all about a search for stability.
+Comme je l'ai déjà dit, la chimie est, comme de nombreux aspects
+de votre propre vie, une recherche de stabilité.
+
+Last week we talked about radioactive decay
+La semaine dernière, nous avons parlé de la désintégration radioactive
+
+and how atomic nuclei get rid of various particles
+in order to become more stable.
+et de la façon dont les noyaux atomiques se débarrassent de diverses
+particules pour devenir plus stables.
+
+But what is this illusive stability that all
+things seem to be striving for exactly?
+Mais quelle est cette stabilité illusoire vers laquelle
+tout semble tendre exactement ?
+
+In nuclear chemistry it simply has to do with
+keeping the nucleus together.
+En chimie nucléaire, il s'agit simplement de
+maintenir le noyau ensemble.
+
+If the nucleus is going to break apart, then that's not going to be something that lasts very long.
+Si le noyau va se briser, alors ce ne sera pas quelque chose qui durera très longtemps.
+
+Stability really, is kind of just a way of
+saying, it can exist.
+La stabilité, en fait, c'est juste une façon de
+dire qu'elle peut exister.
+
+And the amount of energy, that holds each
+proton or neutron in an atom's nucleus,
+Et la quantité d'énergie qui retient chaque
+proton ou neutron dans le noyau d'un atome
+
+is the same amount that's released when it's
+removed.
+est la même quantité qui est libérée lorsqu'il est
+retiré.
+
+This is known as binding energy and it's one
+of the fundamental principles of nuclear chemistry.
+C'est ce qu'on appelle l'énergie de liaison et c'est l'un
+des principes fondamentaux de la chimie nucléaire.
+
+It's actually what we mean when we talk about
+nuclear energy.
+C'est en fait ce que nous entendons lorsque nous parlons
+d'énergie nucléaire.
+
+Now I'm not going to lie to you, nuclear chemistry
+is terribly complicated,
+Je ne vais pas vous mentir, la chimie nucléaire
+est terriblement compliquée,
+
+but we have a way of understanding it that, while not exactly simple, is one I'm sure you've heard of.
+mais nous avons une façon de la comprendre qui, bien qu'elle ne soit pas vraiment simple, en est une dont vous avez sûrement entendu parler.
+
+The binding energy of an atom is calculated
+with the formula E = mc2.
+L'énergie de liaison d'un atome est calculée
+avec la formule E = mc2.
+
+Probably the most famous equation in the world,
+Probablement l'équation la plus célèbre au monde,
+
+and since it was first hit upon by a young patent clerk in 1905 it has become synonymous with scientific genius.
+et depuis qu'elle a été découverte par un jeune commis aux brevets en 1905, elle est devenue synonyme de génie scientifique.
+
+Part of why it's so famous, I like to think, is because the logic behind it is so elegantly simple,
+Une partie de la raison pour laquelle il est si célèbre, j'aime à penser, c'est parce que la logique qui le sous-tend est si élégamment simple,
+
+and yet totally counter intuitive, but it's
+probably also famous because it's important.
+et pourtant totalement contre-intuitive, mais c'est
+probablement aussi célèbre parce que c'est important.
+
+It explains one of the most powerful sources
+of energy known to humanity.
+Il explique l'une des sources d'énergie les plus puissantes
+connues de l'humanité.
+
+[Theme Music]
+[Thème musical]
+
+E = mc2 is formally known as the mass-energy
+equivalence formula
+E = mc2 est officiellement connue sous le nom de formule d'équivalence masse-énergie
+
+and it states that mass is interchangeable
+with energy.
+et indique que la masse est interchangeable
+avec l'énergie.
+
+OK, there is a lot there, in what I just said.
+OK, il y a beaucoup de choses là-dedans, dans ce que je viens de dire.
+
+To tease it apart consider the nucleus of
+an atom of oxygen: 8 protons and 8 neutrons.
+Pour le démêler, considérons le noyau d'
+un atome d'oxygène : 8 protons et 8 neutrons.
+
+Collectively, by the way, these particles
+are known as nucleons.
+Soit dit en passant, collectivement, ces particules
+sont connues sous le nom de nucléons.
+
+If you were to add up all the individual masses
+of all 16 nucleons separately
+Si vous deviez additionner toutes les masses individuelles
+des 16 nucléons séparément
+
+and then compare that to the total mass of
+an actual oxygen nucleus,
+et ensuite comparer cela à la masse totale d'
+un noyau d'oxygène réel,
+
+you'd find that there's a difference between
+the two.
+vous constateriez qu'il y a une différence entre
+les deux.
+
+Specifically the mass of the nucleus,
+exactly 15.99 atomic mass units,
+Plus précisément, la masse du noyau,
+exactement 15,99 unités de masse atomique,
+
+is lower than the mass of its individual nucleons
+put together, in this case 16.13 amu's.
+est inférieure à la masse de ses nucléons individuels
+réunis, dans ce cas 16,13 uma.
+
+That mass went somewhere.
+Cette masse est allée quelque part.
+
+That "missing mass" in the nucleus, known as its mass defect, is actually present in the form of energy.
+Cette "masse manquante" dans le noyau, connue sous le nom de défaut de masse, est en fait présente sous forme d'énergie.
+
+It's the energy that holds the nucleons together,
+C'est l'énergie qui maintient les nucléons ensemble,
+
+so for example the mass defect for an oxygen
+atom is negative 2.269 x 10^-28 kilograms.
+donc par exemple le défaut de masse pour un
+atome d'oxygène est négatif de 2,269 x 10^-28 kilogrammes.
+
+To find out how much binding energy that missing mass amounts to, you can use it as the 'm' in Einstein's formula.
+Pour savoir à quelle quantité d'énergie de liaison correspond la masse manquante, vous pouvez l'utiliser comme « m » dans la formule d'Einstein.
+
+This ingenious little equation relates mass
+and energy by a simple proportionality constant,
+Cette petite équation ingénieuse relie la masse
+et l'énergie par une simple constante de proportionnalité,
+
+and thanks to Einstein we know that constant
+is the square of the speed of light, or c2.
+et grâce à Einstein nous savons que la constante
+est le carré de la vitesse de la lumière, ou c2.
+
+Solve for 'E' and you find that the binding energy in that oxygen nucleus is 2.04 x 10^-11 joules,
+Résolvez pour 'E' et vous trouvez que l'énergie de liaison dans ce noyau d'oxygène est de 2,04 x 10 ^ -11 joules
+
+with the negative sign indicating that the
+energy is being released.
+, le signe négatif indiquant que l'
+énergie est libérée.
+
+Now of course 2.04 x 10^-11 is a very small
+number.
+Maintenant, bien sûr, 2,04 x 10 ^ -11 est un très petit
+nombre.
+
+That might surprise you, but hold the phone,
+that is just for one single nucleus.
+Cela pourrait vous surprendre, mais tenez le téléphone
+, c'est juste pour un seul noyau.
+
+If we multiply that by Avogadro's number to find the energy change for a whole mole of oxygen nuclei,
+Si nous multiplions cela par le nombre d'Avogadro pour trouver le changement d'énergie pour une mole entière de noyaux d'oxygène
+
+a mere 16 grams of oxygen, we get an amazing
+1.23 x 10^13 joules of energy.
+, à peine 16 grammes d'oxygène, nous obtenons une incroyable
+énergie de 1,23 x 10 ^ 13 joules.
+
+To produce that energy with coal, you would have to burn 420,000 kilograms, 420 metric tons of coal.
+Pour produire cette énergie avec du charbon, il faudrait brûler 420 000 kilogrammes, 420 tonnes métriques de charbon.
+
+That energy is what we mean when we talk about
+nuclear energy,
+Cette énergie est ce que nous entendons lorsque nous parlons
+d'énergie nucléaire,
+
+the binding energy that's released when a
+nucleon is removed from its nucleus.
+l'énergie de liaison qui est libérée lorsqu'un
+nucléon est retiré de son noyau.
+
+Now, to dislodge one of those nucleons and
+unleash that energy there are two general
+Maintenant, pour déloger l'un de ces nucléons et
+libérer cette énergie, il existe deux
+
+types of nuclear reactions:
+fission and fusion.
+types généraux de réactions nucléaires : la
+fission et la fusion.
+
+Fission occurs when a large nucleus splits
+into two lighter ones.
+La fission se produit lorsqu'un gros noyau se divise
+en deux noyaux plus légers.
+
+Fusion is the opposite when two light nuclei
+join together to form a heavier one.
+La fusion est l'inverse lorsque deux noyaux légers se
+rejoignent pour en former un plus lourd.
+
+In both cases the products of the reactions
+are more stable than the starting materials,
+Dans les deux cas, les produits des réactions
+sont plus stables que les matières premières,
+
+and this is, as always,
+what drives the reaction.
+et c'est, comme toujours,
+ce qui entraîne la réaction.
+
+This is a graph of the binding energies of
+various elements compared to their mass numbers.
+Il s'agit d'un graphique des énergies de liaison de
+divers éléments par rapport à leurs nombres de masse.
+
+Elements with very high binding energies such as iron-56 are very stable and rarely undergo nuclear reactions.
+Les éléments avec des énergies de liaison très élevées comme le fer-56 sont très stables et subissent rarement des réactions nucléaires.
+
+But elements with lower binding energies can
+react much more readily.
+Mais les éléments avec des énergies de liaison plus faibles peuvent
+réagir beaucoup plus facilement.
+
+If the nucleus is heavier than iron-56 it will tend to break into two or more smaller nuclei; a fission reaction.
+Si le noyau est plus lourd que le fer 56, il aura tendance à se briser en deux ou plusieurs noyaux plus petits ;  une réaction de fission.
+
+If it's lighter than iron-56 it will more
+likely participate in a fusion reaction,
+S'il est plus léger que le fer-56, il participera plus
+probablement à une réaction de fusion,
+
+joining two nuclei together to form a heavier
+one.
+joignant deux noyaux ensemble pour en former un plus
+lourd.
+
+But the most important thing to notice here
+is that
+Mais la chose la plus importante à noter ici
+est
+
+with both fission and fusion stability increases
+as a result of the reaction.
+qu'avec la fission et la fusion, la stabilité augmente
+à la suite de la réaction.
+
+Fission is the type of reaction that we use
+more often
+La fission est le type de réaction que nous utilisons le
+plus souvent
+
+because it's the one that we're better at
+initiating and controlling, at least so far.
+car c'est celle que nous réussissons le mieux à
+initier et à contrôler, du moins jusqu'à présent.
+
+And whether it's used in power plants or bombs,
+the most common fuel for fission is uranium-235.
+Et qu'il soit utilisé dans des centrales électriques ou des bombes,
+le combustible le plus courant pour la fission est l'uranium-235.
+
+There are several ways that it can react,
+Il peut réagir de plusieurs façons,
+
+but the reaction is almost always triggered by hitting uranium with neutrons from another source.
+mais la réaction est presque toujours déclenchée en frappant l'uranium avec des neutrons provenant d'une autre source.
+
+When that happens the uranium splits into
+smaller atoms.
+Lorsque cela se produit, l'uranium se divise en
+atomes plus petits.
+
+One such reaction produces krypton-92, yes
+krypton is a real thing,
+Une de ces réactions produit du krypton-92, oui le
+krypton est une chose réelle
+
+along with barium-141, three free neutrons
+and lots of energy.
+, avec du baryum-141, trois neutrons libres
+et beaucoup d'énergie.
+
+This energy is released mainly as the kinetic
+energy of the escaping particles,
+Cette énergie est libérée principalement sous forme d'
+énergie cinétique des particules qui s'échappent,
+
+which is immediately transferred to the surroundings
+as heat.
+qui est immédiatement transférée à l'environnement
+sous forme de chaleur.
+
+Some energy is also released in the form of
+electro-magnetic radiation such as
+Une certaine énergie est également libérée sous forme de
+rayonnement électromagnétique tel que
+
+visible light, X-rays,
+and gamma radiation.
+la lumière visible, les rayons X
+et le rayonnement gamma.
+
+Nuclear power plants use the energy released
+by these reactions to convert water to steam,
+Les centrales nucléaires utilisent l'énergie libérée
+par ces réactions pour convertir l'eau en vapeur,
+
+which then is passed through turbines spinning
+a generator, powering cities and stuff.
+qui passe ensuite à travers des turbines faisant tourner
+un générateur, alimentant les villes et tout.
+
+Because of the enormous amounts of energy
+these reactions can release,
+En raison des énormes quantités d'énergie que
+ces réactions peuvent libérer,
+
+nuclear power plants can potentially produce
+lots of electricity,
+les centrales nucléaires peuvent potentiellement produire
+beaucoup d'électricité,
+
+but there's also, I think you may have heard,
+some serious draw backs.
+mais il y a aussi, je pense que vous en avez peut-être entendu parler, de
+sérieux inconvénients.
+
+For one thing, as you know, atoms rarely exist
+in isolation.
+D'une part, comme vous le savez, les atomes existent rarement
+isolément.
+
+We write the equation of a fission reaction
+as it fits just one atom,
+Nous écrivons l'équation d'une réaction de fission
+telle qu'elle correspond à un seul atome,
+
+but in reality that one atom is surrounded
+by many, many more.
+mais en réalité cet atome est entouré
+de beaucoup, beaucoup plus.
+
+And if one little neutron can trigger the reaction and that reaction liberates three more neutrons,
+Et si un petit neutron peut déclencher la réaction et que cette réaction libère trois autres neutrons,
+
+well I think you can see where this is going.
+eh bien, je pense que vous pouvez voir où cela mène.
+
+If the reaction isn't controlled each reaction
+trigger three more,
+Si la réaction n'est pas contrôlée, chaque réaction en
+déclenche trois autres,
+
+and every reaction releases the same amount
+of energy, which adds up fast.
+et chaque réaction libère la même quantité
+d'énergie, qui s'additionne rapidement.
+
+This is pretty much the definition of a chain
+reaction
+C'est à peu près la définition d'une
+réaction en chaîne
+
+and it is the basis of the remarkable power
+of the nuclear weapon.
+et c'est la base de la puissance remarquable
+de l'arme nucléaire.
+
+The same type of reaction occurs in nuclear
+power plants,
+Le même type de réaction se produit dans les
+centrales nucléaires,
+
+but those reactions are controlled in several
+ways to keep them from getting out of hand.
+mais ces réactions sont contrôlées de plusieurs
+manières pour éviter qu'elles ne deviennent incontrôlables.
+
+The fact is these chain reactions have the potential to produce far more heat than the plant can use,
+Le fait est que ces réactions en chaîne ont le potentiel de produire beaucoup plus de chaleur que l'usine ne peut en utiliser,
+
+so much more that the temperature can easily rise to dangerous levels, enough to melt the uranium.
+tellement plus que la température peut facilement atteindre des niveaux dangereux, suffisamment pour faire fondre l'uranium.
+
+This is the meltdown that you hear about
+C'est la fusion dont vous entendez parler
+
+and most reactor cores are immersed in water to disperse the heat and prevent this from happening.
+et la plupart des cœurs de réacteur sont immergés dans l'eau pour disperser la chaleur et empêcher que cela ne se produise.
+
+But that, that's not enough on its own to
+control this thing.
+Mais ça, ça ne suffit pas à lui seul pour
+contrôler ce truc.
+
+If the chain reaction is allowed to run freely,
+Si la réaction en chaîne est autorisée à se dérouler librement,
+
+no amount of water can remove the heat fast
+enough to prevent a meltdown.
+aucune quantité d'eau ne peut évacuer la chaleur
+assez rapidement pour empêcher une fusion.
+
+A real way we control nuclear reactions is
+with control rods.
+Un véritable moyen de contrôler les réactions nucléaires est
+d'utiliser des barres de contrôle.
+
+They're made of materials that readily absorb
+neutrons
+Ils sont faits de matériaux qui absorbent facilement les
+neutrons
+
+and they're inserted between the fuel rods of uranium to slow the neutrons down and therefore slow the reaction.
+et ils sont insérés entre les barres de combustible d'uranium pour ralentir les neutrons et donc ralentir la réaction.
+
+They can be put in more to slow the reaction more, and lifted out more if you need more heat.
+Ils peuvent être mis plus pour ralentir davantage la réaction et retirés davantage si vous avez besoin de plus de chaleur.
+
+Now the other sticky wicket of fission reactions
+is the stuff that's left behind.
+Maintenant, l'autre guichet collant des réactions de fission
+est ce qui reste.
+
+These reactions not only produce products
+that are still radioactive,
+Ces réactions ne produisent pas seulement des produits
+qui sont encore radioactifs,
+
+they produce tons of them, lots of different
+troublesome kinds.
+elles en produisent des tonnes, de nombreux
+types gênants différents.
+
+Like we saw last week, uranium undergoes many
+different types of nuclear decay,
+Comme nous l'avons vu la semaine dernière, l'uranium subit de nombreux
+types de désintégration nucléaire,
+
+so not only does each uranium atom produce
+isotopes of krypton and bromine,
+donc non seulement chaque atome d'uranium produit des
+isotopes de krypton et de brome,
+
+but that process also produces many other
+isotopes of other elements.
+mais ce processus produit également de nombreux autres
+isotopes d'autres éléments.
+
+And as these various nuclei break down they
+release more neutrons
+Et au fur et à mesure que ces différents noyaux se décomposent, ils
+libèrent plus de neutrons
+
+and more unstable products and the process
+continues for a long time.
+et plus de produits instables et le processus se
+poursuit pendant longtemps.
+
+All of these reactions eventually yield stable
+products
+Toutes ces réactions finissent par donner des
+produits stables,
+
+but they have half-lives ranging from a few
+years to tens of millions of years.
+mais elles ont des demi-vies allant de quelques
+années à des dizaines de millions d'années.
+
+The products with shorter half-lives stabilize
+pretty quickly
+Les produits avec des demi-vies plus courtes se stabilisent
+assez rapidement,
+
+but they release particles and energy like
+crazy during that time so they're extra dangerous.
+mais ils libèrent des particules et de l'énergie comme des
+fous pendant ce temps, ils sont donc très dangereux.
+
+The ones with longer half-lives decay more
+slowly, release less energy
+Ceux qui ont des demi-vies plus longues se désintègrent plus
+lentement, libèrent moins d'énergie,
+
+but that means it takes a very, very long
+time for them to stabilize.
+mais cela signifie qu'il leur faut très, très
+longtemps pour se stabiliser.
+
+So long in fact, that for human purposes,
+it may as well be forever.
+Si longtemps en fait, que pour des fins humaines,
+cela pourrait aussi bien être pour toujours.
+
+That means they'll always be an issue in our
+environment which is why we're always looking
+Cela signifie qu'ils seront toujours un problème dans notre
+environnement, c'est pourquoi nous cherchons toujours
+
+for ways to store them,
+and keep them out of our way.
+des moyens de les stocker
+et de les garder hors de notre chemin.
+
+Fusion reactions, as you'd expect, are very
+different from fission.
+Les réactions de fusion, comme vous vous en doutez, sont très
+différentes de la fission.
+
+For one thing, the energy released in many fusion reactions dwarfs even the huge amount released by fission.
+D'une part, l'énergie libérée dans de nombreuses réactions de fusion éclipse même l'énorme quantité libérée par la fission.
+
+You might be familiar, for example, with the
+wonderful work done by our sun.
+Vous connaissez peut-être, par exemple, le
+merveilleux travail accompli par notre soleil.
+
+The reactions that power the sun are like
+most fusion reactions,
+Les réactions qui alimentent le soleil ressemblent à la
+plupart des réactions de fusion,
+
+in that they involve very small nuclei like
+isotopes of hydrogen and helium.
+en ce sens qu'elles impliquent de très petits noyaux comme les
+isotopes de l'hydrogène et de l'hélium.
+
+This reaction begins when two atoms of hydrogen,
+Cette réaction commence lorsque deux atomes d'hydrogène,
+
+accelerated by the sun's fantastically high
+temperatures and contained by its high pressures,
+accélérés par les températures incroyablement élevées du soleil
+et contenus par ses hautes pressions, se
+
+join to form an atom of deuterium,
+an isotope of hydrogen.
+rejoignent pour former un atome de deutérium,
+un isotope de l'hydrogène.
+
+This fusion of particles releases a positron
+and some heat energy in the process.
+Cette fusion de particules libère un positon
+et une certaine énergie thermique dans le processus.
+
+Then another atom of hydrogen is joined to
+the deuterium to form helium-3.
+Ensuite, un autre atome d'hydrogène est joint
+au deutérium pour former l'hélium-3.
+
+This step also releases a lot of energy in
+the form of gamma radiation.
+Cette étape libère également beaucoup d'énergie
+sous forme de rayonnement gamma.
+
+When two atoms of helium-3 are available they
+join together to form an atom of helium-4,
+Lorsque deux atomes d'hélium-3 sont disponibles, ils se
+rejoignent pour former un atome d'hélium-4
+
+as well as two atoms of regular hydrogen which then can be used to begin the process all over again.
+, ainsi que deux atomes d'hydrogène ordinaire qui peuvent ensuite être utilisés pour recommencer le processus.
+
+This final step also, as you might imagine, releases a large amount of energy in the form of mostly gamma radiation.
+Cette dernière étape libère également, comme vous pouvez l'imaginer, une grande quantité d'énergie sous la forme principalement de rayonnement gamma.
+
+So this is a chain reaction too, but it's
+not a self-perpetuating one like we saw before.
+C'est donc aussi une réaction en chaîne, mais ce n'est pas une réaction qui
+se perpétue comme nous l'avons vu auparavant.
+
+This reaction requires a total input of 6
+atoms of hydrogen but it only produces two,
+Cette réaction nécessite un apport total de 6
+atomes d'hydrogène mais elle n'en produit que deux,
+
+in the end the remaining mass being released
+in the form of helium.
+au final la masse restante étant libérée
+sous forme d'hélium.
+
+For this reason more fuel is always needed,
+Pour cette raison, plus de carburant est toujours nécessaire
+
+which is why our sun is going to run out of
+hydrogen in about 5 and a half billion years.
+, c'est pourquoi notre soleil va manquer d'
+hydrogène dans environ 5 milliards et demi d'années.
+
+We can produce fusion reactions here on Earth
+too,
+Nous pouvons aussi produire des réactions de fusion ici sur
+Terre,
+
+but they're not very useful for us because
+we haven't figured out how to control them.
+mais elles ne nous sont pas très utiles car
+nous n'avons pas trouvé comment les contrôler.
+
+They're super useful if you just want to blow
+up a big city though,
+Ils sont super utiles si vous voulez juste faire
+sauter une grande ville,
+
+just to be clear, depending on your definition
+of use.
+juste pour être clair, selon votre définition
+d'utilisation.
+
+One reason is, as you can see on the mass-energy
+graph,
+L'une des raisons est que, comme vous pouvez le voir sur le graphique masse-énergie
+,
+
+light nuclei that fuse together undergo a much larger energy change than heavy nuclei that break apart.
+les noyaux légers qui fusionnent subissent un changement d'énergie beaucoup plus important que les noyaux lourds qui se séparent.
+
+That means their reactions release far more
+energy than fission reactions do,
+Cela signifie que leurs réactions libèrent beaucoup plus d'
+énergie que les réactions de fission,
+
+so much more that it's nearly impossible to
+contain and therefore use.
+tellement plus qu'il est presque impossible de les
+contenir et donc de les utiliser.
+
+Also, because fusion involves joining nuclei,
+De plus, comme la fusion implique la jonction de noyaux,
+
+the reaction has to overcome the really strong repulsion that naturally exists between their positive charges.
+la réaction doit surmonter la très forte répulsion qui existe naturellement entre leurs charges positives.
+
+For this reason, fusion reactions can only occur when particles collide at very high speeds,
+Pour cette raison, les réactions de fusion ne peuvent se produire que lorsque des particules entrent en collision à des vitesses très élevées
+
+or under very high pressures.
+ou sous des pressions très élevées.
+
+At these mind-blowing speeds, the kinetic
+energy of the particles produces insane temperatures,
+À ces vitesses époustouflantes, l'
+énergie cinétique des particules produit des températures insensées,
+
+like in the 100 million kelvin range,
+comme dans la gamme des 100 millions de kelvin,
+
+at which point, the material being accelerated
+actually exists in the form of plasma.
+à quel point, le matériau
+accéléré existe en fait sous forme de plasma.
+
+So not only are those speeds really hard to reach but material at that temperature, how do you control that?
+Donc, non seulement ces vitesses sont vraiment difficiles à atteindre, mais le matériau à cette température, comment contrôlez-vous cela ?
+
+Which is why we can't use fusion for things like generating electricity which would be super nice.
+C'est pourquoi nous ne pouvons pas utiliser la fusion pour des choses comme la production d'électricité, ce qui serait super sympa.
+
+We've only found applications for it when we don't need to control it at all like in nuclear weapons.
+Nous n'avons trouvé des applications pour cela que lorsque nous n'avons pas du tout besoin de le contrôler comme dans les armes nucléaires.
+
+So as you can tell, there is plenty of room
+for new ideas in nuclear chemistry.
+Donc, comme vous pouvez le voir, il y a beaucoup de place
+pour de nouvelles idées dans la chimie nucléaire.
+
+Fusion would be really great because it would
+produce a lot of energy
+La fusion serait vraiment géniale car elle
+produirait beaucoup d'énergie
+
+and you'd just get helium out of the process
+and helium is awesome!
+et vous n'obtiendriez que de l'hélium du processus
+et l'hélium est génial !
+
+How can we use radioactive materials more
+efficiently?
+Comment utiliser plus efficacement les matières radioactives
+?
+
+Is there a way to achieve the speeds and manage
+temperatures that come with fusion?
+Existe-t-il un moyen d'atteindre les vitesses et de gérer les
+températures associées à la fusion ?
+
+And how can we do this stuff without blowing
+our faces off?
+Et comment pouvons-nous faire ce genre de choses sans nous faire exploser
+la tête ?
+
+You've already taken the first step by learning
+the basics.
+Vous avez déjà fait le premier pas en apprenant
+les bases.
+
+It's up to you how far you want to go from
+here.
+C'est à vous de décider jusqu'où vous voulez aller d'
+ici.
+
+Maybe you'll write the next totally crazy ingenious and counter intuitive equation that takes us to the next level.
+Peut-être que vous écrirez la prochaine équation totalement folle, ingénieuse et contre-intuitive qui nous emmènera au niveau suivant.
+
+For now though, thank you for watching this
+episode of Crash Course Chemistry.
+Pour l'instant, merci d'avoir regardé cet
+épisode de Crash Course Chemistry.
+
+If you paid attention, you learned how Einstein's
+famous formula helps us calculate
+Si vous y avez prêté attention, vous avez appris comment la
+célèbre formule d'Einstein nous aide à calculer
+
+the binding energy of a nucleus from its mass
+defect.
+l'énergie de liaison d'un noyau à partir de son
+défaut de masse.
+
+You also learned the difference between fission
+and fusion.
+Vous avez également appris la différence entre la fission
+et la fusion.
+
+You saw an example of each one.
+Vous avez vu un exemple de chacun.
+
+and you learned about their applications in
+the real world.
+et vous avez découvert leurs applications dans
+le monde réel.
+
+This episode of Crash Course Chemistry was written by Edi González and edited by Blake de Pastino.
+Cet épisode de Crash Course Chemistry a été écrit par Edi González et édité par Blake de Pastino.
+
+Our chemistry consultant is Dr. Heiko Langner.
+Notre consultant en chimie est le Dr Heiko Langner.
+
+It was filmed, edited and directed by Nicholas Jenkins. Our script supervisor is Caitlin Hofmeister.
+Il a été filmé, monté et réalisé par Nicholas Jenkins.  Notre scénariste est Caitlin Hofmeister.
+
+Michael Aranda is our sound designer and our
+graphics team is Thought Café.
+Michael Aranda est notre concepteur sonore et notre
+équipe graphique est Thought Café.
+

@@ -1,0 +1,698 @@
+Engineering has given a lot to the world.
+L'ingénierie a beaucoup donné au monde.
+
+It’s transformed the nature of work, improved
+sanitation and helped create vital infrastructure.
+Il a transformé la nature du travail, amélioré l'
+assainissement et aidé à créer des infrastructures vitales.
+
+The bad news is that to power the tools and
+processes behind those developments, we’ve
+relied on non-renewable fuels –
+La mauvaise nouvelle est que pour alimenter les outils et les
+processus à l'origine de ces développements, nous nous sommes
+appuyés sur des carburants non renouvelables - ceux
+
+the kind that get produced at a much
+slower rate than we use them.
+qui sont produits à un
+rythme beaucoup plus lent que nous ne les utilisons.
+
+As the name implies, non-renewables won’t
+be around forever.
+Comme son nom l'indique, les énergies non renouvelables ne seront
+pas éternelles.
+
+Resources like oil and natural gas might be
+gone in just half a century.
+Des ressources comme le pétrole et le gaz naturel pourraient
+disparaître en un demi-siècle seulement.
+
+And using them has been, frankly, pretty terrible
+for the environment.
+Et leur utilisation a été, franchement, assez terrible
+pour l'environnement.
+
+87% of the harmful carbon dioxide emitted by humans in the last 50 years has come from burning fuels such as coal, oil, and natural gas, known collectively as fossil fuels.
+87% du dioxyde de carbone nocif émis par les humains au cours des 50 dernières années provient de la combustion de combustibles tels que le charbon, le pétrole et le gaz naturel, connus collectivement sous le nom de combustibles fossiles.
+
+It’s been terrible for the atmosphere and oceans,
+and is changing our climate in dangerous ways.
+Cela a été terrible pour l'atmosphère et les océans,
+et modifie notre climat de manière dangereuse.
+
+Whether we like it or not, we’re gonna have
+to find new ways to power our world.
+Que cela nous plaise ou non, nous allons
+devoir trouver de nouvelles façons d'alimenter notre monde.
+
+[Theme Music]
+[Thème musical]
+
+Despite their terrible effects on the environment
+and limited supply, for now, non-renewables do
+a really good job of meeting our energy needs.
+Malgré leurs terribles effets sur l'environnement
+et leur offre limitée, pour l'instant, les énergies non
+renouvelables répondent très bien à nos besoins énergétiques.
+
+In 2017, 80% of the power used in the United
+States was supplied using fossil fuels.
+En 2017, 80 % de l'électricité utilisée aux États-
+Unis était fournie à partir de combustibles fossiles.
+
+And the need for energy doesn’t appear to
+be shrinking any time soon.
+Et le besoin en énergie ne semble
+pas diminuer de sitôt.
+
+Another 9% was delivered from nuclear fission,
+the process of splitting atoms, which releases
+far less CO2.
+9% supplémentaires provenaient de la fission nucléaire,
+le processus de division des atomes, qui libère
+beaucoup moins de CO2.
+
+Unfortunately, fission produces radioactive
+waste and also relies on non-renewable fuel
+sources such as uranium and plutonium.
+Malheureusement, la fission produit des
+déchets radioactifs et dépend également de sources de combustibles non
+renouvelables telles que l'uranium et le plutonium.
+
+All of these methods operate on broadly the
+same principle, essentially operating as a
+heat engine.
+Toutes ces méthodes fonctionnent globalement sur le
+même principe, fonctionnant essentiellement comme un
+moteur thermique.
+
+A working fluid, often water, is heated by
+the fuel to expand and do work, turning the
+blades of a turbine.
+Un fluide de travail, souvent de l'eau, est chauffé par
+le carburant pour se dilater et faire du travail, faisant tourner les
+pales d'une turbine.
+
+The turbine is connected to an electrical generator
+that converts the rotational motion of the blades into
+electrical power, which is then fed into the grid.
+La turbine est connectée à un générateur électrique
+qui convertit le mouvement de rotation des pales en
+énergie électrique, qui est ensuite injectée dans le réseau.
+
+So what about that remaining 11% of power?
+Alors qu'en est-il des 11 % de puissance restants ?
+
+That came from renewable energy sources – the
+kind that are generated about as fast as we use them.
+Cela provenait de sources d'énergie renouvelables - celles
+qui sont produites à peu près aussi vite que nous les utilisons.
+
+Some of the major renewable energy sources
+come from processes that are naturally occurring
+on Earth:
+Certaines des principales sources d'énergie renouvelable
+proviennent de processus qui se produisent naturellement
+sur Terre :
+
+wind power; solar power; hydropower – which is
+based on flowing water; and geothermal power,
+which uses the heat of the Earth deep underground.
+l'énergie éolienne ;  énergie solaire;  l'hydroélectricité –
+basée sur l'eau courante ;  et l'énergie géothermique,
+qui utilise la chaleur de la Terre en profondeur.
+
+None of these sources are things we’ll run
+out of – we have a good few billion years 
+left of sunlight, for example.
+Nous ne manquerons d'aucune de ces sources
+- il nous reste par exemple quelques milliards d'
+années d'ensoleillement.
+
+And what’s more, renewable energy tends
+to release fewer harmful byproducts, like
+carbon dioxide, into the environment.
+De plus, les énergies renouvelables ont tendance
+à libérer moins de sous-produits nocifs, comme
+le dioxyde de carbone, dans l'environnement.
+
+Take hydropower, for example, which converts
+the kinetic energy from the motion of running
+water into electrical power.
+Prenez l'hydroélectricité, par exemple, qui convertit
+l'énergie cinétique du mouvement de l'
+eau courante en énergie électrique.
+
+In a fast flowing river, a run-of-river power plant
+diverts part of the river’s flow, sometimes through
+a tunnel, to turn the turbinesof a generator.
+Dans une rivière à débit rapide, une centrale électrique au fil de l'eau
+détourne une partie du débit de la rivière, parfois à travers
+un tunnel, pour faire tourner les turbines d'un générateur.
+
+That works well in some places, but the problem
+with this approach is that it’s tricky to control the
+generation of energy to meet demand.
+Cela fonctionne bien dans certains endroits, mais le problème
+avec cette approche est qu'il est difficile de contrôler la
+production d'énergie pour répondre à la demande.
+
+You don’t want to put lots of power into the grid when
+it won’t get used, and you want to be able to ramp up
+the supply when the demand suddenly spikes.
+Vous ne voulez pas mettre beaucoup d'énergie dans le réseau lorsqu'il
+ne sera pas utilisé, et vous voulez être en mesure d'augmenter
+l'offre lorsque la demande augmente soudainement.
+
+Like during the halftime break when the English
+football team – that’s soccer to you Americans –
+played Colombia in the 2018 World Cup.
+Comme pendant la pause de la mi-temps lorsque l'
+équipe de football anglaise - c'est le football pour vous les Américains - a
+joué contre la Colombie lors de la Coupe du monde 2018.
+
+A huge number of people in the UK opened their
+refrigerators to grab a drink or a snack, causing
+the compressors inside them to turn on.
+Un grand nombre de personnes au Royaume-Uni ont ouvert leurs
+réfrigérateurs pour prendre une boisson ou une collation, provoquant
+l'activation des compresseurs à l'intérieur.
+
+Then there were the people who’d already
+had a bunch of drinks.
+Ensuite, il y avait les gens qui avaient déjà
+bu un tas de verres.
+
+All those people simultaneously flushing their toilets during the break created an increased demand for power on the local pumping stations that maintain pressure in the water system.
+Toutes ces personnes tirant simultanément la chasse d'eau pendant la pause ont créé une demande accrue d'électricité sur les stations de pompage locales qui maintiennent la pression dans le système d'eau.
+
+The total increase in demand was measured
+to be 1200 megawatts.
+L'augmentation totale de la demande a été mesurée
+à 1200 mégawatts.
+
+That’s an extra demand for power equivalent
+to several power plants!
+C'est une demande supplémentaire de puissance équivalente
+à plusieurs centrales !
+
+With fossil fuels, you can control the amount
+of fuel being burned, and therefore the amount
+of power being produced.
+Avec les combustibles fossiles, vous pouvez contrôler la quantité
+de combustible brûlée, et donc la quantité
+d'énergie produite.
+
+Run-of-river power plants struggle with this
+because the amount of power they generate
+depends on the flow of the river,
+Les centrales électriques au fil de l'eau ont du mal avec cela
+parce que la quantité d'énergie qu'elles génèrent
+dépend du débit de la rivière,
+
+which in turn depends on things like the rainfall
+during the time period and even the temperature –
+both things we can’t control.
+qui à son tour dépend de choses comme les précipitations
+pendant la période et même de la température -
+deux choses que nous ne pouvons pas contrôler  .
+
+To get around this, the more common form of
+hydropower is a hydroelectric dam.
+Pour contourner ce problème, la forme la plus courante d'
+hydroélectricité est un barrage hydroélectrique.
+
+In this case, you can install a dam that floods
+an area and creates a huge reservoir of water.
+Dans ce cas, vous pouvez installer un barrage qui inonde
+une zone et crée un énorme réservoir d'eau.
+
+The water then falls through the generator’s
+turbines at the bottom of the dam, which turn
+the water’s kinetic energy into power.
+L'eau tombe ensuite à travers les turbines du générateur
+au fond du barrage, qui transforment
+l'énergie cinétique de l'eau en énergie.
+
+If you install an intake valve that opens
+or shuts to control the water flow through it,
+Si vous installez une vanne d'admission qui s'ouvre
+ou se ferme pour contrôler le débit d'eau à travers elle,
+
+you can even manage the production of energy to
+meet the changing demands of the electrical grid.
+vous pouvez même gérer la production d'énergie pour
+répondre aux demandes changeantes du réseau électrique.
+
+Unfortunately, flooding an area with water
+isn’t consequence-free.
+Malheureusement, inonder une zone avec de l'eau
+n'est pas sans conséquence.
+
+Changing the environment so suddenly and preventing
+the natural flow of water downstream can have
+devastating consequences for the local ecology.
+Changer l'environnement si soudainement et empêcher
+l'écoulement naturel de l'eau en aval peut avoir
+des conséquences dévastatrices pour l'écologie locale.
+
+There’s also the risk of the dam breaking
+if it was built improperly.
+Il y a aussi le risque de rupture du barrage
+s'il n'a pas été construit correctement.
+
+Despite those challenges, hydropower has been
+enormously helpful.
+Malgré ces défis, l'hydroélectricité a été
+extrêmement utile.
+
+In recent years, it’s produced as much as
+16% of the world’s energy and up to 70%
+of all the world’s renewable energy.
+Ces dernières années, elle a produit jusqu'à
+16 % de l'énergie mondiale et jusqu'à 70 %
+de toute l'énergie renouvelable mondiale.
+
+The other renewable energy source that works
+very similarly to hydropower is wind power,
+which also uses turbines.
+L'autre source d'énergie renouvelable qui fonctionne de
+manière très similaire à l'hydroélectricité est l'énergie éolienne,
+qui utilise également des turbines.
+
+The main difference is that the fluid doing
+work on the wind turbines is air instead of
+water.
+La principale différence est que le fluide qui
+travaille sur les éoliennes est de l'air au lieu de l'
+eau.
+
+One of the biggest engineering challenges
+here is designing the turbine blades to efficiently
+extract energy from that air.
+L'un des plus grands défis techniques
+ici est de concevoir les aubes de turbine pour extraire efficacement l'
+énergie de cet air.
+
+As we saw with fluid mechanics, predicting
+the flow of a fluid around an object can get
+seriously tricky!
+Comme nous l'avons vu avec la mécanique des fluides, prédire
+l'écoulement d'un fluide autour d'un objet peut devenir
+très délicat !
+
+Blades have to be engineered to withstand the stress
+they’re subjected to while also allowing the wind to
+efficiently rotate them to power the generator.
+Les pales doivent être conçues pour résister aux contraintes auxquelles
+elles sont soumises tout en permettant au vent de
+les faire tourner efficacement pour alimenter le générateur.
+
+It’s as complicated as designing an airplane
+wing.
+C'est aussi compliqué que de concevoir une
+aile d'avion.
+
+Once again, you run into the problem of demand:
+you can’t control the strength of the wind to increase
+or decrease power generation as you need it.
+Une fois de plus, vous rencontrez le problème de la demande :
+vous ne pouvez pas contrôler la force du vent pour augmenter
+ou diminuer la production d'électricité selon vos besoins.
+
+Even if that were possible, you’d still have to
+transport it from the sparsely populated, open
+plains where the wind blows more easily,
+Même si cela était possible, vous devriez toujours le
+transporter des plaines ouvertes peu peuplées
+où le vent souffle plus facilement,
+
+to dense urban centers with low amounts of
+wind but high demand for power.
+vers des centres urbains denses avec de faibles quantités de
+vent mais une forte demande d'électricité.
+
+Transporting that power becomes even trickier
+over long distances because you lose some energy
+as the electricity travels through the wires.
+Le transport de cette énergie devient encore plus délicat
+sur de longues distances car vous perdez de l'énergie
+lorsque l'électricité circule dans les câbles.
+
+For that reason and others, engineering considerations
+often play a big role in deciding where wind farms (as
+a collection of turbines is known) should be built.
+Pour cette raison et d'autres, les considérations d'ingénierie
+jouent souvent un rôle important dans le choix de l'endroit où les parcs éoliens (comme
+on appelle un ensemble de turbines) doivent être construits.
+
+So wind power has only generated 4% of the
+world’s total power supply in recent years.
+Ainsi, l'énergie éolienne n'a généré que 4% de l'
+approvisionnement énergétique total mondial ces dernières années.
+
+Location also plays an important role in another
+renewable energy source: geothermal power.
+L'emplacement joue également un rôle important dans une autre
+source d'énergie renouvelable : l'énergie géothermique.
+
+Like conventional power plants, geothermal
+power relies on steam as the working fluid
+on the turbines connected to the generator.
+Comme les centrales électriques conventionnelles, l'
+énergie géothermique repose sur la vapeur comme fluide de travail
+sur les turbines connectées au générateur.
+
+But in this case, you don’t need fuel to
+generate the steam.
+Mais dans ce cas, vous n'avez pas besoin de carburant pour
+générer la vapeur.
+
+You can drill into underground deposits of hot, volcanic rocks, normally near the Earth’s tectonic plate boundaries, to use them as a heat source for a power plant.
+Vous pouvez forer dans des dépôts souterrains de roches volcaniques chaudes, normalement près des limites des plaques tectoniques de la Terre, pour les utiliser comme source de chaleur pour une centrale électrique.
+
+Then, all you need is to pump water to that
+location and create another channel for steam
+to rise through to do work on the turbines.
+Ensuite, tout ce dont vous avez besoin est de pomper de l'eau à cet
+endroit et de créer un autre canal pour que la
+vapeur monte à travers pour effectuer des travaux sur les turbines.
+
+The biggest problem comes with setting up
+a geothermal power plant in the first place.
+Le plus gros problème vient de la mise en place d'
+une centrale géothermique en premier lieu.
+
+It can be expensive to drill and explore for
+underground conditions that are exactly right,
+Il peut être coûteux de forer et d'explorer
+des conditions souterraines parfaitement adaptées,
+
+and is only really possible in certain parts
+of the world, like Iceland and Italy.
+et ce n'est vraiment possible que dans certaines parties
+du monde, comme l'Islande et l'Italie.
+
+But there’s one source of renewable energy
+that’s so abundant and easily accessible
+Mais il existe une source d'énergie renouvelable
+si abondante et facilement accessible
+
+you only have to step outside on a bright
+sunny day to see it: solar energy!
+qu'il suffit de sortir par une belle
+journée ensoleillée pour la voir : l'énergie solaire !
+
+In fact, the amount of sunlight the Earth
+receives in just a single year
+En fait, la quantité de lumière solaire que la Terre
+reçoit en une seule année
+
+is twice the total amount of energy that will ever
+be extracted from fossil fuels and the uranium used
+in nuclear fission, combined.
+représente le double de la quantité totale d'énergie qui sera
+jamais extraite des combustibles fossiles et de l'uranium utilisé
+dans la fission nucléaire, combinés.
+
+The challenge is finding efficient ways to
+harness that energy, because turning sunlight 
+into electricity isn’t simple.
+Le défi consiste à trouver des moyens efficaces d'
+exploiter cette énergie, car transformer la lumière du soleil
+en électricité n'est pas simple.
+
+The most promising technology we have is called
+the photovoltaic, or simply, PV cell.
+La technologie la plus prometteuse dont nous disposons s'appelle
+le photovoltaïque, ou simplement la cellule PV.
+
+Most people know them by the name given to
+many cells arranged together: solar panels!
+La plupart des gens les connaissent sous le nom donné à de
+nombreuses cellules disposées ensemble : panneaux solaires !
+
+Unlike everything else we’ve looked at,
+there’s no trace of a turbine here.
+Contrairement à tout ce que nous avons vu,
+il n'y a aucune trace de turbine ici.
+
+Instead, as we saw when looking at semiconductors,
+Au lieu de cela, comme nous l'avons vu en examinant les semi-conducteurs, les
+
+solar panels use two different semiconducting pieces to set up an electrical field that biases the movement of free electrons inside the material in a particular direction.
+panneaux solaires utilisent deux pièces semi-conductrices différentes pour créer un champ électrique qui polarise le mouvement des électrons libres à l'intérieur du matériau dans une direction particulière.
+
+In short, the materials encourage an electrical
+current to flow when they receive energy,
+En bref, les matériaux encouragent un
+courant électrique à circuler lorsqu'ils reçoivent de l'énergie,
+
+which then travels through the circuit delivering
+power to whatever’s connected to the PV cell.
+qui se déplace ensuite à travers le circuit fournissant de l'
+énergie à tout ce qui est connecté à la cellule photovoltaïque.
+
+That means solar panels can deliver power
+directly to the grid.
+Cela signifie que les panneaux solaires peuvent fournir de l'énergie
+directement au réseau.
+
+Between that and the abundance of sunlight,
+it seems like there shouldn’t be an energy
+shortage problem at all.
+Entre cela et l'abondance de lumière solaire,
+il semble qu'il ne devrait pas y avoir de
+problème de pénurie d'énergie.
+
+But, as we’ve seen for the other energy
+sources, costs, fluctuating demand, location,
+and transmission all factor in here.
+Mais, comme nous l'avons vu pour les autres
+sources d'énergie, les coûts, la demande fluctuante, l'emplacement
+et la transmission sont tous des facteurs ici.
+
+For starters, solar cells aren’t all that
+efficient.
+Pour commencer, les cellules solaires ne sont pas si
+efficaces.
+
+The very best solar cells can convert 40%
+of the energy they absorb into electrical power,
+Les meilleures cellules solaires peuvent convertir 40 %
+de l'énergie qu'elles absorbent en électricité,
+
+but they’re expensive to produce because of
+the high quality of silicon needed in manufacturing,
+among other reasons.
+mais elles sont coûteuses à produire en raison de
+la haute qualité du silicium nécessaire à la fabrication,
+entre autres raisons.
+
+On average, industrial PV cells are about
+17% efficient.
+En moyenne, les cellules photovoltaïques industrielles ont un
+rendement d'environ 17 %.
+
+Once you factor in the cost of making the cells and energy storage, solar power ends up being anywhere between 3-6 times as expensive to produce as that from fossil fuels.
+Une fois que vous avez pris en compte le coût de fabrication des cellules et du stockage de l'énergie, l'énergie solaire finit par coûter entre 3 et 6 fois plus cher à produire que celle à partir de combustibles fossiles.
+
+Increasing solar panels’ efficiency would
+bring this down dramatically.
+Augmenter l'efficacité des panneaux solaires
+réduirait cela de façon spectaculaire.
+
+Another big challenge with solar power is that, like with the hydroelectric dam, you need a way to store energy to control the production in line with power demand.
+Un autre grand défi avec l'énergie solaire est que, comme avec le barrage hydroélectrique, vous avez besoin d'un moyen de stocker l'énergie pour contrôler la production en fonction de la demande d'électricité.
+
+You won’t generate much solar power on a
+cloudy day, whereas you might have a surplus
+on sunny days.
+Vous ne générerez pas beaucoup d'énergie solaire par
+temps nuageux, alors que vous pourriez avoir un surplus
+par temps ensoleillé.
+
+But you can’t store sunlight directly!
+Mais vous ne pouvez pas stocker directement la lumière du soleil !
+
+Instead, engineers are working on ways to
+temporarily store that extra solar power.
+Au lieu de cela, les ingénieurs travaillent sur des moyens de
+stocker temporairement cette énergie solaire supplémentaire.
+
+These include solutions like batteries, or even
+pumping water up a column to later give up its energy
+as hydropower during periods of high demand.
+Il s'agit notamment de solutions telles que des batteries, ou même de
+pomper de l'eau dans une colonne pour ensuite abandonner son énergie
+sous forme d'hydroélectricité pendant les périodes de forte demande.
+
+Once again though, efficiency plays a big
+role in making both of these methods a suitable
+form of energy storage.
+Encore une fois, l'efficacité joue un
+rôle important dans la transformation de ces deux méthodes en une
+forme appropriée de stockage d'énergie.
+
+Despite the efficiency and storage problems,
+there is one major advantage to solar panels:
+they can be deployed pretty much anywhere.
+Malgré les problèmes d'efficacité et de stockage, les
+panneaux solaires présentent un avantage majeur :
+ils peuvent être déployés à peu près n'importe où.
+
+Rather than having to transmit power across
+long distances, solar panels can simply be installed
+on smaller scales close to areas of demand –
+Plutôt que d'avoir à transmettre de l'énergie sur de
+longues distances, les panneaux solaires peuvent simplement être installés
+à plus petite échelle à proximité des zones de demande -
+
+even on the roof of an individual home.
+même sur le toit d'une maison individuelle.
+
+But manufacturing the panels themselves brings
+its own set of issues.
+Mais la fabrication des panneaux eux-
+mêmes pose ses propres problèmes.
+
+One of the raw materials used to currently make solar
+panels is quartz, which has to be processed to produce
+the high quality silicon needed for making PV cells.
+L'une des matières premières utilisées actuellement pour fabriquer les
+panneaux solaires est le quartz, qui doit être traité pour produire
+le silicium de haute qualité nécessaire à la fabrication des cellules photovoltaïques.
+
+This itself is an energy intensive process,
+which offsets some of the total energy production
+of solar panels across their lifetime of usage.
+Il s'agit en soi d'un processus énergivore,
+qui compense une partie de la production totale d'énergie
+des panneaux solaires tout au long de leur durée de vie.
+
+Even worse, processing quartz can often produce toxic byproducts like tetrachloride, which can end up spilling into the environment and causing damage to soil.
+Pire encore, le traitement du quartz peut souvent produire des sous-produits toxiques comme le tétrachlorure, qui peuvent finir par se répandre dans l'environnement et endommager le sol.
+
+That all sounds a little bleak, but the most
+difficult challenges in engineering are often
+the most important ones.
+Tout cela semble un peu sombre, mais les défis les plus
+difficiles en ingénierie sont souvent
+les plus importants.
+
+In fact, the National Academy of Engineering
+in the US has identified making solar energy more economical as one of the Grand Challenges that engineers in the 21st Century need to solve.
+En fait, la National Academy of Engineering
+aux États-Unis a identifié le fait de rendre l'énergie solaire plus économique comme l'un des grands défis que les ingénieurs du 21e siècle doivent résoudre.
+
+Future engineers have lots of ways to contribute
+towards making solar more feasible.
+Les futurs ingénieurs ont de nombreuses façons de contribuer
+à rendre l'énergie solaire plus faisable.
+
+Currently, researchers are looking at new
+storage systems, such as using solar power
+to drive hydrogen fuel production,
+Actuellement, les chercheurs étudient de nouveaux
+systèmes de stockage, tels que l'utilisation de l'énergie solaire
+pour stimuler la production d'hydrogène,
+
+which can be burned later on with no
+carbon dioxide emissions.
+qui peut être brûlé ultérieurement sans
+émission de dioxyde de carbone.
+
+More on that next time.
+Plus à ce sujet la prochaine fois.
+
+Engineers are also introducing new materials into the production of solar panels, and improving the ways in which PV cells themselves are linked and arranged on the panels.
+Les ingénieurs introduisent également de nouveaux matériaux dans la production de panneaux solaires et améliorent la manière dont les cellules photovoltaïques elles-mêmes sont liées et disposées sur les panneaux.
+
+There are even experimental methods being
+developed that use new structures on a molecular
+level, called nanocrystals.
+Il existe même des méthodes expérimentales en cours de
+développement qui utilisent de nouvelles structures au niveau moléculaire
+, appelées nanocristaux.
+
+These increase the amount of energy given to the
+electrons in the material when ligh is absorbed
+instead of losing the energy as heat.
+Ceux-ci augmentent la quantité d'énergie donnée aux
+électrons dans le matériau lorsque la lumière est absorbée
+au lieu de perdre l'énergie sous forme de chaleur.
+
+That could drive the efficiency high enough to make it
+economically competitive with current power sources
+and increase the adoption of solar worldwide.
+Cela pourrait augmenter suffisamment l'efficacité pour la rendre
+économiquement compétitive avec les sources d'énergie actuelles
+et accroître l'adoption de l'énergie solaire dans le monde entier.
+
+So there are lots of challenges ahead in bringing
+renewable energy sources to the forefront
+of electrical power production.
+Il y a donc de nombreux défis à relever pour amener les
+sources d'énergie renouvelables au premier plan
+de la production d'électricité.
+
+But that’s all the more space for future
+engineers to have an impact and create new
+solutions to the world’s energy needs!
+Mais c'est d'autant plus d'espace pour que les futurs
+ingénieurs aient un impact et créent de nouvelles
+solutions aux besoins énergétiques mondiaux !
+
+In this episode we looked at renewable energy
+sources and why we need them.
+Dans cet épisode, nous avons examiné les
+sources d'énergie renouvelables et pourquoi nous en avons besoin.
+
+We looked at how hydropower, wind, geothermal,
+and solar power are used to produce electricity,
+Nous avons examiné comment l'hydroélectricité, l'éolien, la géothermie
+et l'énergie solaire sont utilisés pour produire de l'électricité,
+
+some of the challenges faced in doing so,
+and the areas engineers are working on to
+make their use more widespread.
+certains des défis auxquels ils sont confrontés
+et les domaines sur lesquels les ingénieurs travaillent
+pour généraliser leur utilisation.
+
+In our next episode, we’ll see how engineers
+have moved beyond natural processes, to invent
+entirely new ways of generating power.
+Dans notre prochain épisode, nous verrons comment les ingénieurs
+sont allés au-delà des processus naturels pour inventer de
+toutes nouvelles façons de produire de l'énergie.
+
+Crash Course Engineering is produced in association
+with PBS Digital Studios, which also produces Eons,
+a series that journeys through the history of life on Earth.
+Crash Course Engineering est produit en association
+avec PBS Digital Studios, qui produit également Eons,
+une série qui parcourt l'histoire de la vie sur Terre.
+
+With paleontology and natural history, Eons
+takes you from the dawn of life, through the
+so-called “Age of Dinosaurs”, and right
+up to the end of the most recent Ice Age.
+Avec la paléontologie et l'histoire naturelle, Eons
+vous emmène depuis l'aube de la vie, à travers ce
+qu'on appelle «l'ère des dinosaures», et
+jusqu'à la fin de la plus récente période glaciaire.
+
+Crash Course is a Complexly production and
+this episode was filmed in the Doctor Cheryl C.
+Kinney Studio with the help of these wonderful
+people.
+Crash Course est une production de Complexly et
+cet épisode a été filmé dans le studio du docteur Cheryl C.
+Kinney avec l'aide de ces
+personnes merveilleuses.
+
+And our amazing graphics team is Thought Cafe.
+Et notre incroyable équipe graphique est Thought Cafe.
+

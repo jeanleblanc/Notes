@@ -1,0 +1,408 @@
+You can review content from Crash Course Organic Chemistry with the Crash Course app, available now for Android and iOS devices.
+Vous pouvez consulter le contenu de Crash Course Organic Chemistry avec l'application Crash Course, disponible dès maintenant pour les appareils Android et iOS.
+
+Hi! I’m Deboki Chakravarti and welcome to Crash Course Organic Chemistry!
+Salut!  Je suis Deboki Chakravarti et bienvenue au cours intensif de chimie organique !
+
+Whether we’re talking about romantic relationships or magnets, there's that cliche: “opposites attract.”
+Que nous parlions de relations amoureuses ou d'aimants, il y a ce cliché : "les contraires s'attirent".
+
+For people, well, it’s complicated.
+Pour les gens, eh bien, c'est compliqué.
+
+Some psychologists say it’s because we seek what we don’t have, while others say it’s not really a thing.
+Certains psychologues disent que c'est parce que nous cherchons ce que nous n'avons pas, tandis que d'autres disent que ce n'est pas vraiment une chose.
+
+So, who knows.
+Alors, qui sait.
+
+But for magnets, “opposites attract” has to do with polarity and physics.
+Mais pour les aimants, "les contraires s'attirent" a à voir avec la polarité et la physique.
+
+And that goes for other science too, like organic chemistry.
+Et cela vaut aussi pour d'autres sciences, comme la chimie organique.
+
+In polar molecules, opposite charges do attract, and positive and negative regions of molecules are drawn together.
+Dans les molécules polaires, des charges opposées s'attirent et les régions positives et négatives des molécules sont rapprochées.
+
+To understand polar molecules, we have to understand their reactive sites by thinking critically about those negatively-charged particles: electrons.
+Pour comprendre les molécules polaires, nous devons comprendre leurs sites réactifs en réfléchissant de manière critique à ces particules chargées négativement : les électrons.
+
+[Theme Music]
+[Thème musical]
+
+When atoms are bonded together, they don't necessarily share electrons equally.
+Lorsque les atomes sont liés ensemble, ils ne partagent pas nécessairement les électrons de manière égale.
+
+One element could be a little greedier than another.
+Un élément pourrait être un peu plus gourmand qu'un autre.
+
+Electronegativity is the atomic property that helps us think about how much one atom will attract electrons in a bond, compared to other atoms.
+L'électronégativité est la propriété atomique qui nous aide à déterminer dans quelle mesure un atome attirera des électrons dans une liaison, par rapport à d'autres atomes.
+
+Because electronegativity depends on two atoms in a relationship with each other, the electronegativity of a specific element can vary a little,
+Étant donné que l'électronégativité dépend de deux atomes en relation l'un avec l'autre, l'électronégativité d'un élément spécifique peut varier légèrement en
+
+depending on what chemical compound it's a part of.
+fonction du composé chimique dont il fait partie.
+
+That gets a little complicated, but thankfully, scientists of the past have done a lot of work for us.
+Cela devient un peu compliqué, mais heureusement, les scientifiques du passé ont fait beaucoup de travail pour nous.
+
+American chemist Linus Pauling developed a relative electronegativity scale, which ranks the elements from most electronegative (which is fluorine) to least.
+Le chimiste américain Linus Pauling a développé une échelle d'électronégativité relative, qui classe les éléments du plus électronégatif (qui est le fluor) au moins.
+
+We can use Pauling’s scale to determine a couple things about molecules.
+Nous pouvons utiliser l'échelle de Pauling pour déterminer quelques éléments sur les molécules.
+
+First, electronegativity can tell us about atomic bonding, which is exactly what it sounds like: the bonds that hold atoms together.
+Tout d'abord, l'électronégativité peut nous renseigner sur la liaison atomique, qui est exactement ce à quoi elle ressemble : les liaisons qui maintiennent les atomes ensemble.
+
+A big difference in electronegativity between two atoms means an ionic bond, a small difference means a nonpolar covalent bond, and everything in between is a polar covalent bond.
+Une grande différence d'électronégativité entre deux atomes signifie une liaison ionique, une petite différence signifie une liaison covalente non polaire, et tout ce qui se trouve entre les deux est une liaison covalente polaire.
+
+For example, the electronegativity difference between a hydrogen atom and an oxygen atom in a water molecule is about 1.4, in the "polar covalent bond"-zone.
+Par exemple, la différence d'électronégativité entre un atome d'hydrogène et un atome d'oxygène dans une molécule d'eau est d'environ 1,4, dans la zone "liaison covalente polaire".
+
+Second, electronegativity can tell us about regions of charge in molecules.
+Deuxièmement, l'électronégativité peut nous renseigner sur les régions de charge dans les molécules.
+
+Sticking with our water molecule example, oxygen is quite electronegative and attracts electrons through its bonds, making it partially negative.
+Pour rester dans notre exemple de molécule d'eau, l'oxygène est assez électronégatif et attire les électrons par ses liaisons, ce qui le rend partiellement négatif.
+
+The hydrogens have lower electronegativity and with oxygen stealing electrons away, they're partially positive.
+Les hydrogènes ont une électronégativité plus faible et avec l'oxygène qui vole des électrons, ils sont partiellement positifs.
+
+We can draw these partial charges with the lowercase Greek letter delta and a plus or minus sign.
+Nous pouvons dessiner ces charges partielles avec la lettre grecque minuscule delta et un signe plus ou moins.
+
+Now, we also know that a water molecule has a bent molecular shape.
+Maintenant, nous savons aussi qu'une molécule d'eau a une forme moléculaire courbée.
+
+So one side of the molecule has a concentration of negative charge, while the other is positive.
+Ainsi, un côté de la molécule a une concentration de charge négative, tandis que l'autre est positive.
+
+We call this a dipole, two regions with a lopsided charge distribution.
+Nous appelons cela un dipôle, deux régions avec une distribution de charge déséquilibrée.
+
+To show a dipole, we use a little arrow.
+Pour montrer un dipôle, on utilise une petite flèche.
+
+The arrow head represents the negative side of the dipole, while the cross represents the positive side of the dipole.
+La tête de flèche représente le côté négatif du dipôle, tandis que la croix représente le côté positif du dipôle.
+
+It looks like a little plus sign, that’s how I remember!
+Ça ressemble à un petit signe plus, c'est comme ça que je m'en souviens !
+
+So, water contains two polar covalent bonds.
+Ainsi, l'eau contient deux liaisons covalentes polaires.
+
+And because of its bent shape it also has a dipole and is considered a polar molecule, one with two clear regions of different charge.
+Et en raison de sa forme courbée, il a également un dipôle et est considéré comme une molécule polaire, une avec deux régions claires de charges différentes.
+
+To really anchor these ideas about electronegativity, let’s look at another molecule: carbon dioxide, you know, the gas that plants use during photosynthesis.
+Pour vraiment ancrer ces idées sur l'électronégativité, regardons une autre molécule : le dioxyde de carbone, vous savez, le gaz que les plantes utilisent lors de la photosynthèse.
+
+If we draw the structure of CO2, we can see that its electron pair geometry and molecular shape are both linear.
+Si nous dessinons la structure du CO2, nous pouvons voir que sa géométrie de paire d'électrons et sa forme moléculaire sont toutes deux linéaires.
+
+If we look at Pauling’s electronegativity scale, we can see that carbon and oxygen have a difference in electronegativity of about 1.
+Si nous regardons l'échelle d'électronégativité de Pauling, nous pouvons voir que le carbone et l'oxygène ont une différence d'électronégativité d'environ 1.
+
+Both bonds are polar covalent and the oxygen has a partial negative charge because of its greater electronegativity, while the carbons are partially positive.
+Les deux liaisons sont covalentes polaires et l'oxygène a une charge partiellement négative en raison de sa plus grande électronégativité, tandis que les carbones sont partiellement positifs.
+
+So, is carbon dioxide polar?
+Alors, le dioxyde de carbone est-il polaire ?
+
+Because the electrons are being pulled away from each other equally and symmetrically, this particular tug-of-war isn't lopsided, and carbon dioxide doesn’t have a dipole.
+Parce que les électrons sont éloignés les uns des autres de manière égale et symétrique, ce bras de fer particulier n'est pas déséquilibré et le dioxyde de carbone n'a pas de dipôle.
+
+Therefore it isn’t polar!
+Elle n'est donc pas polaire !
+
+It’s a nonpolar molecule.
+C'est une molécule non polaire.
+
+To be clear, in a carbon dioxide molecule, the carbon-oxygen bonds are polar covalent, but the whole molecule is nonpolar.
+Pour être clair, dans une molécule de dioxyde de carbone, les liaisons carbone-oxygène sont covalentes polaires, mais la molécule entière est non polaire.
+
+Electronegativity is another key piece of our organic chemistry toolbox.
+L'électronégativité est un autre élément clé de notre boîte à outils de chimie organique.
+
+It reinforces the core idea we’ve been learning:
+Cela renforce l'idée centrale que nous avons apprise :
+
+that the structure of molecules informs what they can do and how they react with other chemicals.
+que la structure des molécules informe sur ce qu'elles peuvent faire et comment elles réagissent avec d'autres produits chimiques.
+
+Organic chemists need to have a working knowledge of the types of bonds and electronegativity, even though we don't calculate it every single time.
+Les chimistes organiques doivent avoir une connaissance pratique des types de liaisons et de l'électronégativité, même si nous ne la calculons pas à chaque fois.
+
+So let’s get comfier with dipoles and continue building our chemical intuition by looking at 1-chloropropane.
+Alors soyons plus à l'aise avec les dipôles et continuons à construire notre intuition chimique en regardant le 1-chloropropane.
+
+From Pauling's electronegativity scale, we can see that the electronegativity difference between the carbons and hydrogens on most of the chain is really small,
+D'après l'échelle d'électronégativité de Pauling, nous pouvons voir que la différence d'électronégativité entre les carbones et les hydrogènes sur la majeure partie de la chaîne est vraiment petite,
+
+so those are all nonpolar covalent bonds.
+donc ce sont toutes des liaisons covalentes non polaires.
+
+But there's a bigger electronegativity difference between carbon and chlorine, so that’s a polar covalent bond.
+Mais il y a une plus grande différence d'électronégativité entre le carbone et le chlore, c'est donc une liaison covalente polaire.
+
+We have a partial positive charge on the carbon and a partial negative charge on the chlorine,
+Nous avons une charge positive partielle sur le carbone et une charge négative partielle sur le chlore,
+
+which means the electrons of the carbon-chlorine bond are being pulled unequally in that one spot.
+ce qui signifie que les électrons de la liaison carbone-chlore sont attirés de manière inégale à cet endroit.
+
+And that means… we have a dipole, folks.
+Et cela signifie… nous avons un dipôle, les amis.
+
+This molecule has a region that is polar and other regions that are non-polar.
+Cette molécule a une région polaire et d'autres régions non polaires.
+
+But since it has a polar covalent bond, it's a slightly polar molecule.
+Mais comme il a une liaison covalente polaire, c'est une molécule légèrement polaire.
+
+It's definitely not as polar as water based on the difference in electronegativity and that three carbon chain, but it's more polar than carbon dioxide.
+Ce n'est certainement pas aussi polaire que l'eau en raison de la différence d'électronégativité et de cette chaîne à trois carbones, mais c'est plus polaire que le dioxyde de carbone.
+
+And the polar end creates a molecular hotspot, which is raring to go for chemical reactions.
+Et l'extrémité polaire crée un point chaud moléculaire, qui est prêt à déclencher des réactions chimiques.
+
+In fact, whether we’re talking about reactions caused by cleaning products or carried out in plastic factories…
+En effet, qu'il s'agisse de réactions provoquées par des produits de nettoyage ou réalisées dans des usines de plasturgie… l'
+
+electronegativity and molecular dipoles are often involved.
+électronégativité et les dipôles moléculaires sont souvent en cause.
+
+Positive regions on a molecule can attract negative regions on another, and chemical bonds can be made and broken.
+Les régions positives d'une molécule peuvent attirer les régions négatives d'une autre et des liaisons chimiques peuvent être créées et rompues.
+
+As we get into reactions, a big leap we have to take from general chemistry to organic chemistry is keeping track of electrons and moving them really precisely,
+Au fur et à mesure que nous entrons dans les réactions, un grand pas que nous devons faire de la chimie générale à la chimie organique consiste à suivre les électrons et à les déplacer très précisément,
+
+which we call electron pushing or arrow pushing.
+ce que nous appelons la poussée d'électrons ou la poussée de flèches.
+
+If we can learn and remember some guiding principles about how electrons like to move, we can look at any chemical reaction and make reasonable guesses about its products.
+Si nous pouvons apprendre et nous souvenir de certains principes directeurs sur la façon dont les électrons aiment se déplacer, nous pouvons examiner n'importe quelle réaction chimique et faire des suppositions raisonnables sur ses produits.
+
+Basically, practicing pushing electrons will help us avoid memorizing every single reaction in organic chemistry.
+Fondamentalement, la pratique de la poussée d'électrons nous aidera à éviter de mémoriser chaque réaction en chimie organique.
+
+You might want to grab a pencil and a really good eraser, because mistakes will happen and electron pushing is a lot of trial and error at first.
+Vous voudrez peut-être prendre un crayon et une très bonne gomme, car des erreurs se produiront et la poussée d'électrons nécessite beaucoup d'essais et d'erreurs au début.
+
+All chemists have to start somewhere!
+Tous les chimistes doivent commencer quelque part !
+
+We'll start by looking at acetate, the anion of acetic acid.
+Nous allons commencer par examiner l'acétate, l'anion de l'acide acétique.
+
+I'll draw it out with all lone pairs of electrons, because that'll help us keep track of them this whole time.
+Je vais le dessiner avec toutes les paires d'électrons isolées, parce que cela nous aidera à les suivre pendant tout ce temps.
+
+One of the oxygens has one bond and three lone pairs of electrons, giving it a formal negative charge.
+L'un des oxygènes a une liaison et trois paires d'électrons isolés, ce qui lui confère une charge négative formelle.
+
+Remember, formal charges are the difference between a neutral atom’s valence electrons and the total electrons surrounding the atom in the molecule.
+N'oubliez pas que les charges formelles sont la différence entre les électrons de valence d'un atome neutre et le nombre total d'électrons entourant l'atome dans la molécule.
+
+So in this case, a neutral oxygen atom has 6 valence electrons.
+Donc dans ce cas, un atome d'oxygène neutre a 6 électrons de valence.
+
+The single-bonded oxygen we're looking at has 6 electrons in lone pairs, which counts as 6 charges.
+L'oxygène à simple liaison que nous examinons a 6 électrons en paires isolées, ce qui compte pour 6 charges.
+
+It also has 1 bond, which counts as 1 charge because the electrons are shared between two atoms.
+Il possède également 1 liaison, qui compte pour 1 charge car les électrons sont partagés entre deux atomes.
+
+6 - 7 is -1, which is the formal negative charge!
+6 - 7 est -1, qui est la charge négative formelle !
+
+But we can also draw another valid Lewis structure for acetate, where the other oxygen atom has the single bond and formal charge.
+Mais nous pouvons également dessiner une autre structure de Lewis valide pour l'acétate, où l'autre atome d'oxygène a la liaison simple et la charge formelle.
+
+These drawings are called resonance structures, which are representations of the compound that differ, in this case, in the placement of lone pairs and pi bonds.
+Ces dessins sont appelés structures de résonance, qui sont des représentations du composé qui diffèrent, dans ce cas, par le placement des paires isolées et des liaisons pi.
+
+We indicate multiple resonance structures with a resonance arrow, which is an arrow with arrowheads on both sides.
+Nous indiquons plusieurs structures de résonance avec une flèche de résonance, qui est une flèche avec des pointes de flèche des deux côtés.
+
+And we're not flipping the acetate ion around to get its two resonance structures — the atoms stay in place.
+Et nous ne renversons pas l'ion acétate pour obtenir ses deux structures de résonance - les atomes restent en place.
+
+We’re actually changing where we show the electrons between the two oxygen atoms.
+Nous changeons en fait où nous montrons les électrons entre les deux atomes d'oxygène.
+
+Drawing resonance structures can help us understand where the electrons could be, but in real life, things are a little mushier.
+Dessiner des structures de résonance peut nous aider à comprendre où pourraient se trouver les électrons, mais dans la vraie vie, les choses sont un peu plus molles.
+
+All molecules are a blend of their resonance forms, which we call a resonance hybrid.
+Toutes les molécules sont un mélange de leurs formes de résonance, que nous appelons un hybride de résonance.
+
+The resonance hybrid is more stable than any individual resonance form, but it’s really hard to draw partial bonds, so we usually pick one form to draw at a time.
+L'hybride de résonance est plus stable que n'importe quelle forme de résonance individuelle, mais il est vraiment difficile de dessiner des liaisons partielles, donc nous choisissons généralement une forme à dessiner à la fois.
+
+And we know resonance hybrids are a thing because we've measured bond lengths in these molecules.
+Et nous savons que les hybrides de résonance sont une chose parce que nous avons mesuré les longueurs de liaison dans ces molécules.
+
+For example, in an acetate ion, both carbon-oxygen bonds are shorter than average single bonds and longer than average double bonds.
+Par exemple, dans un ion acétate, les deux liaisons carbone-oxygène sont plus courtes que la moyenne des liaisons simples et plus longues que la moyenne des doubles liaisons.
+
+The charge and pi bond are being equally shared across all three atoms.
+La charge et la liaison pi sont également partagées entre les trois atomes.
+
+In fact, a common theme with resonance structures is electrons shared across the p-orbitals of three atoms.
+En fait, un thème commun aux structures de résonance est celui des électrons partagés entre les orbitales p de trois atomes.
+
+So even though identifying resonance forms can be really tricky, we can approach these puzzles three atoms at a time.
+Ainsi, même si l'identification des formes de résonance peut être très délicate, nous pouvons aborder ces énigmes trois atomes à la fois.
+
+To start, we need to find a pi bond, and an adjacent p orbital with 0, 1, or 2 electrons in it.
+Pour commencer, nous devons trouver une liaison pi et une orbitale p adjacente contenant 0, 1 ou 2 électrons.
+
+These three atoms are involved in resonance, so let’s number and box them.
+Ces trois atomes sont impliqués dans la résonance, alors numérotons-les et encadrons-les.
+
+Now, whatever is at atom 1 moves to atom 3, and the stuff at 3 goes to 1.
+Maintenant, tout ce qui est à l'atome 1 se déplace vers l'atome 3, et le truc à 3 va à 1.
+
+In this case, our double bond moves to atom 3 and our extra lone pair and negative charge moves to atom 1.
+Dans ce cas, notre double liaison se déplace vers l'atome 3 et notre paire isolée supplémentaire et la charge négative se déplacent vers l'atome 1.
+
+Now that we have two different resonance structures as our beginning and end, we're ready to fill in the middle of the puzzle by pushing electrons.
+Maintenant que nous avons deux  différentes structures de résonance comme début et fin, nous sommes prêts à remplir le milieu du puzzle en poussant des électrons.
+
+In this episode, we’ll only be pushing pairs of electrons, which we represent using a curved arrow.
+Dans cet épisode, nous ne pousserons que des paires d'électrons, que nous représentons à l'aide d'une flèche courbe.
+
+This arrow always starts on a pair of electrons, and points to where they end up.
+Cette flèche commence toujours sur une paire d'électrons et pointe vers l'endroit où ils finissent.
+
+To get started, let’s show how a lone pair of electrons on oxygen becomes a double bond.
+Pour commencer, montrons comment une seule paire d'électrons sur l'oxygène devient une double liaison.
+
+We’ll start our arrow on that pair of electrons, and point it to where the double bond forms.
+Nous allons commencer notre flèche sur cette paire d'électrons et la diriger vers l'endroit où la double liaison se forme.
+
+When we move a lone pair off an atom, it has to form a neighboring pi bond.
+Lorsque nous déplaçons une paire isolée d'un atome, elle doit former une liaison pi voisine.
+
+But we can’t stop here!
+Mais on ne peut pas s'arrêter là !
+
+This would give a carbon with 5 bonds, which is not organically acceptable because it exceeds carbon’s maximum valence electrons.
+Cela donnerait un carbone à 5 liaisons, ce qui n'est pas organiquement acceptable car il dépasse les électrons de valence maximale du carbone.
+
+We have to keep pushing electrons until we have a molecule that follows rules we've already learned about the maximum number of electrons and bonds.
+Nous devons continuer à pousser les électrons jusqu'à ce que nous ayons une molécule qui suit les règles que nous avons déjà apprises sur le nombre maximum d'électrons et de liaisons.
+
+We're doing science here, not science fiction.
+Nous faisons de la science ici, pas de la science-fiction.
+
+So, next, let's draw an arrow to move a pair of electrons away from that double bond to a neighboring atom, which means our lucky recipient is the other oxygen atom.
+Ensuite, dessinons une flèche pour éloigner une paire d'électrons de cette double liaison vers un atome voisin, ce qui signifie que notre heureux destinataire est l'autre atome d'oxygène.
+
+The middle of the puzzle is filled in, and we've shown how our two resonance structures are connected!
+Le milieu du puzzle est rempli et nous avons montré comment nos deux structures de résonance sont connectées !
+
+An important thing to notice is that this whole time we only moved electrons in double bonds or lone pairs.
+Une chose importante à noter est que pendant tout ce temps, nous n'avons déplacé les électrons que dans des doubles liaisons ou des paires isolées.
+
+Electrons in single bonds don’t go anywhere.
+Les électrons dans les liaisons simples ne vont nulle part.
+
+We're going to have to understand resonance structures of many different molecules, so let’s try another example.
+Nous allons devoir comprendre les structures de résonance de nombreuses molécules différentes, alors essayons un autre exemple.
+
+Here we have a carbon with a positive charge, called a carbocation.
+Ici, nous avons un carbone avec une charge positive, appelé carbocation.
+
+We’ll start by finding our pi bond, and an adjacent p orbital with 0, 1, or 2 electrons in it.
+Nous commencerons par trouver notre liaison pi et une orbitale p adjacente contenant 0, 1 ou 2 électrons.
+
+The positive charge on carbon is a p orbital with zero electrons—let’s number our three atom unit.
+La charge positive sur le carbone est une orbitale p avec zéro électron - numérotons notre unité à trois atomes.
+
+Now, let’s swap what we have at atoms 1 and 3 to find our other resonance structure:
+Maintenant, échangeons ce que nous avons aux atomes 1 et 3 pour trouver notre autre structure de résonance :
+
+Nice. Let’s see if we can move between these structures with arrow pushing.
+Nice.  Voyons si nous pouvons nous déplacer entre ces structures en poussant la flèche.
+
+We always begin our arrows on electrons, so I’ll start my arrow on the double bond.
+Nous commençons toujours nos flèches sur les électrons, je vais donc commencer ma flèche sur la double liaison.
+
+This moves the electrons away from that carbon and gives it a formal positive one charge.
+Cela éloigne les électrons de ce carbone et lui donne une charge positive formelle.
+
+And we’ve done it!
+Et nous l'avons fait !
+
+In both of these examples, the two resonance structures are very similar and contribute the same amount to the resonance hybrid.
+Dans ces deux exemples, les deux structures de résonance sont très similaires et contribuent de la même manière à l'hybride de résonance.
+
+But that's not always the case for molecules with resonance structures, like these two:
+Mais ce n'est pas toujours le cas pour les molécules avec des structures de résonance, comme ces deux-là : les
+
+Resonance hybrids are usually more like a weighted average, sort of like grades.
+hybrides de résonance ressemblent généralement plus à une moyenne pondérée, un peu comme des grades.
+
+Big tests might count more than weekly quizzes toward your final letter grade in a class, and some resonance structures matter more than others.
+Les gros tests peuvent compter plus que les quiz hebdomadaires pour votre note finale dans une classe, et certaines structures de résonance comptent plus que d'autres.
+
+Here are a few key guidelines to figure out which resonance structures contribute more to the resonance hybrid.
+Voici quelques lignes directrices clés pour déterminer quelles structures de résonance contribuent le plus à l'hybride de résonance.
+
+Number 1: Neutral resonance forms are preferred (when possible)
+Numéro 1 : Les formes de résonance neutres sont préférées (lorsque cela est possible)
+
+So, for example, this:
+Ainsi, par exemple, ceci :
+
+is better than this:
+vaut mieux que cela :
+
+Number 2: Keep an octet of electrons on oxygen and nitrogen (but carbon can be short)
+Numéro 2 : Conserver un octet d'électrons sur l'oxygène et l'azote (mais le carbone peut être court)
+
+And number 3: Negative charges are preferred on more electronegative elements, and positive charges are preferred on less electronegative elements.
+Et numéro 3 : Les charges négatives sont  préférées sur les éléments plus électronégatifs, et les charges positives sont préférées sur les éléments moins électronégatifs.
+
+For example, both of these resonance forms have an octet, but one has the negative charge on the more electronegative element.
+Par exemple, ces deux formes de résonance ont un octet, mais l'une a la charge négative sur l'élément le plus électronégatif.
+
+So structure A is our winner, and contributes more to the resonance hybrid.
+La structure A est donc notre gagnante et contribue davantage à l'hybride de résonance.
+
+If pushing electrons is still sort of brain-bendy, don’t worry.
+Si pousser des électrons est encore une sorte de cerveau, ne vous inquiétez pas.
+
+We’ll be doing plenty more of it for practice.
+Nous en ferons beaucoup plus pour la pratique.
+
+In this episode, we learned that:
+Dans cet épisode, nous avons appris que : L'
+
+Electronegativity describes how atoms attract electrons differently, which can lead to dipoles in some molecules
+électronégativité décrit comment les atomes attirent les électrons différemment, ce qui peut conduire à des dipôles dans certaines molécules Les
+
+Resonance structures have different arrangements of electrons
+structures de résonance ont des arrangements différents d'électrons
+
+And resonance hybrids are a mixture of resonance structures
+Et les hybrides de résonance sont un mélange de structures de résonance La
+
+Next time we’ll combine electron pushing with acid-base chemistry, and learn what resonance structures can tell us about the strengths of organic acids and bases.
+prochaine fois, nous combinerons la poussée d'électrons avec l'acide  -chimie des bases et apprenez ce que les structures de résonance peuvent nous dire sur la force des acides et des bases organiques.
+
+Thanks for watching this episode of Crash Course Organic Chemistry.
+Merci d'avoir regardé cet épisode de Crash Course Organic Chemistry.
+
+If you want to help keep all Crash Course free for everybody, forever, you can join our community on Patreon.
+Si vous voulez aider à garder tous les cours intensifs gratuits pour tout le monde, pour toujours, vous pouvez rejoindre notre communauté sur Patreon.
+

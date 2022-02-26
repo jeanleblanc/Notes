@@ -1,0 +1,284 @@
+Si vous avez regardé notre dernier épisode -- et vraiment, si vous ne l'avez pas fait, vous devriez.
+
+...vous savez tout sur les dérivés, et comment les utilisées pour décrire comment une équation change.
+
+Ce qui veut dire que maintenant, nous pouvons parler de l'autre partie importante de l'algèbre -- fondamentalement
+
+l'inverse des dérivés, appelées intégrales.
+
+Les intégrales sont utiles parce qu'elles disent aussi beaucoup sur une équation: si on pose
+
+une équation sur un graphe, l'intégrale est égale à l'aire entre la courbe de la fonction et l'axe horizontal.
+
+Trouver une intégrale est un peu moins direct que de trouver une dérivé, mais comme pour les dérivés,
+
+il y a des raccourcis que l'on peut utiliser pour rendre les choses plus simples.
+
+On pourra même être capable d'utiliser des intégrales pour parler de comment les choses se déplacent -- plus spécialement,
+
+l'équation qu'on appelle la courbe de déplacement, et pourquoi elle se présente de cette manière.
+
+Alors commençons.
+
+[Intro musical]
+
+Disons que vous voulez savoir à quelle point la fenêtre de votre chambre est au-dessus du sol dehors.
+
+Mais vous n'avez rien pour mesurer --
+
+juste une balle, un chronomètre, et votre impressionnante connaissance de la physique.
+
+La force gravitationnelle est ce qui fait tomber la balle,
+
+alors vous savez que l'accélération est petit g 9.81 m/s^2, vers le bas.
+
+Mais vous voulez savoir le changement de position -- jusqu'où elle tombe.
+
+On a passé beaucoup de temps à parler des liens entre les attributs du mouvement:
+
+position, vitesse, et accélération.
+
+Mais jusqu'à maintenant, nous avons décris les liens dans une direction particulière: la vitesse est une dérivé de la position
+
+-- c'est à dire, une mesure de son changement, et l'accélération est la dérivé de la vitesse.
+
+Pour trouver jusqu'où tombe la balle, nous devons trouver l'inverse de ce lien.
+
+Exprimé mathématiquement, cela signifie que la vitesse est l'intégrale de l'accélération,
+
+et que la position est l'intégrale de la vitesse.
+
+En d'autres mots: si vous dessiner ces équations sur un graphe, la vitesse est égale à l'aire
+
+en dessous de la courbe de l'accélération, et la position est égale à l'aire en dessous de la courbe de la vitesse.
+
+Trouver cette aire est la partie épineuse.
+
+Il y a des manières simples de trouver l'aire en dessous de presque n'importe quelle forme, tant que cette forme
+
+n'est faite de rien d'autre que des lignes droites et des coins.
+
+Et quand vous y pensez, une courbe est juste une série de lignes infiniment petites.
+
+Alors, l'aire en dessous d'une courbe peut être diviser en une infinité de de petits rectangles.
+
+Les intégrales vous indiquent ce qui arrive quand on divise l'aire en-dessous d'une courbe en cette infinité
+
+de petits rectangles, qu'on prend l'aire de chacun d'eux, et qu'on additionne ces aires.
+
+Alors, comment trouve-t-on ces intégrales?
+
+Et bien, on commence par utiliser le fait que les intégrales sont l'opposées des dérivés.
+
+Si vous savez que votre vitesse est égale au temps fois deux, par exemple, et vous savez que c'est la dérivé de la position.
+
+Alors, pour trouver l'équation, vous devez juste regarder l'équation dont la dérivé est 2t... comme x = t^2, par exemple.
+
+C'est un peu une manière détourné pour trouver ce qu'on cherche, comparé à l'équation soigné qu'on a pu utiliser pour trouver les dérivés.
+
+Mais il n'y a pas de joli équation que l'on peut utiliser pour calculer l'intégrale que l'on veut.
+
+MAIS, comme pour les dérivés, il y a des raccourcis pour trouver certaines intégrales utiles.
+
+Par exemple, on peut utiliser la règle des exposants que l'on a utilisé pour les dérivés, et l'inverser.
+
+Basiquement: on ajoute un à l'exposant, puis divisez la variable par ce nombre.
+
+Alors l'intégrale de 2t -- qui est écrite comme ça -- devient t^2
+
+De la même manière, l'intégrale de 42t^5 est 7t^6.
+
+On peut prendre les dérivés trigonométriques dont on a parlé, et les inverser aussi.
+
+L'intégrale de cos(x) est sin (x), et ainsi de suite. Et l'intégrale de e^x est juste e^x.
+
+Mais il y a une complication dont nous n'avons pas encore parlé -- peut être l'avez-vous déjà remarquée: les constantes.
+
+Une constante est basiquement juste un nombre. Elle peut être LITTERALEMENT n'importe quel nombre -- comme 2, ou 1/2, ou -4.
+
+Ou ça peut illustrer un nombre, comme petit g, que l'on utilise pour représenter l'accélération causée par la gravité.
+
+Et les constantes pose un problème quand on arrive aux intégrales parce que: la dérivé d'une constante est juste 0.
+
+Une dérivé est un changement, après tout, alors une constante, qui par définition ne change PAS,
+
+aura toujours une dérivé qui vaut 0.
+
+Ce qui veut dire que beaucoup d'équations différentes -- une infinité, en faite -- peuvent avoir la même dérivé.
+
+Par exemple, la dérivé de t^2 est 2t. Mais vous pouvez y ajouter N'IMPORTE quel nombre -- ou lettre représentant
+
+un nombre -- et la dérivé sera TOUJOURS 2t. Ainsi la dérivé de t^2 + 1
+
+vaut aussi 2t. Et la même chose est vrai pour t^2 - 7.
+
+Ce qui veut dire que si vous cherchez l'INTEGRALE d'une équation comme x = 2t, vous avez un INFINITÉ
+
+de choix, et tous sont corrects.
+
+t^2 fonctionnerait, mais aussi t^2 + 1 ... ou t^2 - 7 ... ou t^2 + 0.256.
+
+Dans ces cas, on pourrait savoir la forme que l'intégrale a dans un graphe
+
+-- par exemple, si c'est une ligne droite ou si elle a des courbes -- mais on ne sait pas où la placer sur l'axe vertical.
+
+Alors on a besoin de connaitre la constante pour savoir où commencer à dessiner l'intégrale.
+
+Peu importe la constante, c'est l'endroit ou la fonction va couper l'axe vertical.
+
+Ainsi, t^2 coupera à 0, mais t^2 - 7 coupera à -7. Vous comprenez le truc.
+
+Les mathématiciens ont été forcés de comprendre comment résoudre le problème de devoir choisir
+
+une infinité d'intégrales, alors ils sont arrivés à trouver un moyen de TOUTES les représenter: on ajoute juste C à la fin de l'intégrale.
+
+Ce C représente toutes les constantes qu'on aurait pu mettre à la place.
+
+Ainsi, on dit que l'intégrale de 2t est t^2 + C,
+
+Et on inclut donc t^2 + 1 et t^2 - 7 et toutes les infinités d'options --
+
+toutes les équations qui ont 2t comme dérivé.
+
+Mais parfois nous n'avons pas besoin du C, parce qu'on PEUT trouver où l'intégrale
+
+est supposée se trouver sur l'axe des y. Par exemple si vous savez quelle est censée être la valeur initial.
+
+Dans le cas d'un graphe de position, la valeur initiale est là où l'on a commencé,
+
+donc on sait dessiner le reste du graphe à partir de là.
+
+Si vous avez commencé à 2 mètre, par exemple, et que vous avez bougé d'un mètre par seconde, vous allez commencer
+
+le graphe là. Mais si vous avez commencé à 4 mètre, vous monteriez un petit peu.
+
+Basiquement, ça vous donne l'endroit où l'intégrale coupe l'axe vertical -- qui est la valeur de C.
+
+Essayons ça, et en même temps, on pourrait peut être trouver la hauteur de notre fenêtre.
+
+Vous êtes dans votre chambre, tenant une balle de tennis au delà de la vitre avec votre bras se reposant sur le rebord.
+
+Maintenant vous lâchez la balle et commencez à chronométrer en même temps.
+
+Il apparaît que la balle met 1.7 secondes pour toucher le sol.
+
+Comme on le disait plus tôt, on sait l'accélération de la balle  -- 9.81 m/s^2 -- et on sait le temps pris en compte.
+
+D'une manière ou d'une autre, on doit partir de là pour trouver l'équation de la position.
+
+Alors, d'abord, trouvons la vitesse -- le premier pas -- en prenant l'intégrale de l'accélération.
+
+Regardez ce graphe de l'accélération en fonction du temps.
+
+C'est une ligne droite, ce qui signifie que ça devrait être assez simple de trouver l'aire entre celle-ci et l'axe horizontal.
+
+C'est un rectangle! Et l'aire en dessous d'un rectangle est juste sa base fois sa hauteur.
+
+Dans ce cas, la base est t, le temps qu'a pris la balle pour tomber.
+
+Et la hauteur est a, l'accélération.
+
+Ainsi, l'aire entre le graphe de l'accélération et l'axe horizontal est juste (a) fois (t).
+
+Et l'intégrale est juste (a) fois (t), plus la constante qu'on ajout -- C.
+
+Pour l'instant, on a besoin du C, parce qu'on connait la forme générale du graphe de la vitesse:
+
+c'est une ligne diagonale penchée de tel manière que pour chaque seconde, on augmente d'un montant égal à l'accélération.
+
+Mais on ne sait toujours pas où METTRE cette ligne sur l'axe vertical. Pas encore, en tout cas.
+
+Maintenant, on aurait pu trouver l'intégrale de l'accélération aussi facilement en utilisant la règle des exposants:
+
+L'accélération, a, est une constante, mais on peut aussi dire que c'est (a) x (t^0) --
+
+parce que n'importe quoi exposant 0 vaut juste 1.
+
+Ainsi, suivant la règle des exposants, l'intégrale de l'accélération -- qui est la vitesse -- devrait
+
+être égale à l'accélération, multiplié par le temps, plus C.
+
+C'est la même réponse qu'on a eu plus tôt!
+
+Maintenant, voilà où la valeur initiale rentre en jeu. Le graphe de la vitesse nous dit quelle
+
+est la vitesse pour chaque moment donné. Mais on a du ajouter C, parce que nous ne savions pas
+
+où placer la courbe sur l'axe vertical -- quand le temps vaut zéro.
+
+Ainsi, l'intégrale de l'accélération aurait PU juste être (accélération) x (temps), ou
+
+(a)(t). Mais elle aurait aussi pu être (at) + 4. Ou (at) - 6.
+
+Alors on met un C dans l'intégrale à la place, pour représenter toutes ces options.
+
+Mais on peut se débarrasser de ce C si on peut trouver la vitesse, quand le temps vaut zéro --
+
+ce qu'on a appelé v(0).
+
+Et si on écrit notre équation avec v(0), comme valeur de la vitesse quand
+
+le temps vaut zéro, on finit par obtenir l'équation complète de la vitesse.
+
+Ca devrait sembler familier, parce que c'est une de nos équations du mouvement -- la définition de l'accélération!
+
+C'est sympa comme tout s'arrange comme ça.
+
+Cette équation nous dis que la vitesse finale de notre balle de tennis, quand elle touche le
+
+sol, était de 16.7 m/s vers le bas.
+
+Mais nous n'avons pas encore fini. On cherche à lier l'accélération et la POSITION,
+
+alors on a juste besoin de faire un pas plus loin en intégrant à nouveau.
+
+Il y a plusieurs manières que l'on pourrait utilisées, mais utilisons juste la règle des exposant à nouveau.
+
+L'intégrale de (a * t) est (1/2)*(at)^2,
+
+et l'intégrale de v_0 est juste v_0 * t.
+
+Assemblez les ensemble, et on finit par avoir ça, ce qui ressemble beaucoup à
+
+une AUTRE équation du mouvement -- celle qu'on appelait la courbe du déplacement.
+
+Maintenant, que faire de C?
+
+Et bien, juste comme avant avec la vitesse de départ, la position de départ va nous dire où
+
+Mettre cette équation sur l'axe vertical. Ainsi, on rendra juste C égal à la position
+
+de départ, que l'on écrira x_0.
+
+Et voilà notre intégrale -- l'équation de la courbe de déplacement.
+
+Ce qui veut dire que maintenant on a tout ce qu'il nous faut pour trouver la hauteur de notre fenêtre.
+
+La vitesse initiale est 0, parce que on a juste lâché la balle sans la jeter.
+
+L'accélération est de 9.81 m/s^2. Et elle a mis 1.7 secondes pour atterrir.
+
+Et vous savez maintenant tout ce qu'il y a a savoir sur l'algèbre. (longue pause) Non pas du tout.
+
+Comme vous pouvez l'imaginer, nous avons à peine gratter la surface -- il y a une
+
+raison pour laquelle cela prend normalement deux semestres d'université, juste pour apprendre les bases.
+
+Et vous savez, certaines personnes passent leur vie à étudier ces choses.
+
+Mais on a établi assez de base pour que quand ces choses arriveront dans ce
+
+cours, vous serez habitués à utiliser ce qu'on a vu ici, et à en parler.
+
+Aujourd'hui, vous avez appris que les intégrales étaient l'aire entre l'équation sur un graphe et l'axe horizontal.
+
+Vous avez aussi appris quelques raccourcis pour aider à les trouver, et comment trouver C en utilisant une valeur initiale.
+
+Crash Course Philosophy est produit en association avec PBS Digital Studios. Vous pouvez aller sur
+
+leur chaine pour voir des émission géniales comme Shanks FX, Gross Science, and PBS Game Show.
+
+Cette épisode de Crash Course a été filmé dans le studio du Docteur Cheryl C. Kinney
+
+avec l'aide de ces personnes incroyables et notre tout aussi incroyable équipe graphique est Thought Cafe.
+

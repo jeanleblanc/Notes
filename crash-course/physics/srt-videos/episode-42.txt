@@ -1,0 +1,640 @@
+This episode is supported by Prudential.
+Cet épisode est soutenu par Prudential.
+
+Let’s say you’re waiting for a friend
+of yours to arrive on a train.
+Disons que vous attendez qu'un
+de vos amis arrive dans un train.
+
+And, I should point out, it’s a very-much-hypothetical
+train.
+Et, je dois le souligner, c'est un train très hypothétique
+.
+
+For one thing, it’s moving toward you in
+a vacuum.
+D'une part, il se dirige vers vous dans le
+vide.
+
+And somehow, it can travel at half the speed
+of light.
+Et d'une manière ou d'une autre, il peut voyager à la moitié de la vitesse
+de la lumière.
+
+But your friend, Bob, is on this amazing hypothetical
+train!
+Mais votre ami, Bob, est dans cet incroyable
+train hypothétique !
+
+Oh, and the front of the train has
+a headlight.
+Oh, et l'avant du train a
+un phare.
+
+From Bob’s perspective standing on the train,
+the light from the headlight is moving away
+from him at the speed of light.
+Du point de vue de Bob debout dans le train,
+la lumière du phare s'éloigne
+de lui à la vitesse de la lumière.
+
+So the train is moving at half the speed of light,
+but at the same time, it’s shooting out light from its
+headlight that’s moving at the speed of light.
+Ainsi, le train se déplace à la moitié de la vitesse de la lumière,
+mais en même temps, il émet de la lumière de son
+phare qui se déplace à la vitesse de la lumière.
+
+You’d think that from your perspective on the platform,
+it would look like the light coming from the headlight
+was moving at one and a half times the speed of light.
+On pourrait penser que de votre point de vue sur la plate-forme,
+il semblerait que la lumière provenant du phare
+se déplace à une fois et demie la vitesse de la lumière.
+
+Because it would have its own speed, plus
+the speed of the train.
+Parce qu'il aurait sa propre vitesse, plus
+la vitesse du train.
+
+But that’s not true.
+Mais ce n'est pas vrai.
+
+Because light always has to move at the same
+speed through a vacuum, from any perspective.
+Parce que la lumière doit toujours se déplacer à la même
+vitesse dans le vide, quelle que soit la perspective.
+
+So, from your point of view on the platform,
+that light wouldn’t look like it’s going faster
+than the speed of light.
+Donc, de votre point de vue sur la plate-forme,
+cette lumière n'aurait pas l'air d'aller plus vite
+que la vitesse de la lumière.
+
+It would just look like it’s moving at exactly
+the speed of light.
+On aurait juste l'impression qu'il se déplace exactement à
+la vitesse de la lumière.
+
+As counterintuitive and strange as that sounds.
+Aussi contre-intuitif et étrange que cela puisse paraître.
+
+Special relativity explains why.
+La relativité restreinte explique pourquoi.
+
+[Theme Music]
+[Thème musical]
+
+The theory of special relativity was proposed
+by Albert Einstein in 1905.
+La théorie de la relativité restreinte a été proposée
+par Albert Einstein en 1905.
+
+It explains the behavior of things that move very, very fast – as in, a significant fraction of the speed of light – where regular Newtonian physics doesn’t always apply.
+Elle explique le comportement des choses qui se déplacent très, très vite - comme dans une fraction significative de la vitesse de la lumière - là où la physique newtonienne normale ne fonctionne pas toujours.  appliquer. 
+
+It’s called special relativity because it only
+applies to specific situations: where the different
+frames of reference aren’t accelerating.
+C'est ce qu'on appelle la relativité restreinte parce qu'elle ne
+s'applique qu'à des situations spécifiques : où les différents
+cadres de référence ne s'accélèrent pas.
+
+They’re called inertial reference frames.
+Ils sont appelés référentiels inertiels.
+
+In our train example, the two reference frames are
+the perspective of someone standing on the train,
+and someone standing on the platform.
+Dans notre exemple de train, les deux cadres de référence sont
+la perspective de quelqu'un debout sur le train
+et de quelqu'un debout sur le quai.
+
+Neither reference frame is accelerating, so
+they’re inertial, and so special relativity applies.
+Aucun cadre de référence n'accélère, donc
+ils sont inertiels, et donc la relativité restreinte s'applique.
+
+Now, special relativity is built around two
+main assumptions, or postulates.
+Or, la relativité restreinte est construite autour de deux
+hypothèses principales, ou postulats.
+
+The first says that the laws of physics are
+the same in all inertial reference frames.
+La première dit que les lois de la physique sont
+les mêmes dans tous les référentiels inertiels.
+
+It doesn’t matter whether you’re on the train or on
+the platform – the same equations will apply.
+Peu importe que vous soyez dans le train ou sur
+le quai, les mêmes équations s'appliqueront.
+
+This has to be true, because there’s no
+real way to distinguish between reference frames.
+Cela doit être vrai, car il n'y a pas
+vraiment de moyen de faire la distinction entre les cadres de référence.
+
+For all Bob knows – from his perspective on the train
+as it passes the platform – he’s sitting perfectly still,
+while the platform zooms past him.
+Pour autant que Bob le sache - de son point de vue sur le train
+lorsqu'il passe devant le quai - il est parfaitement immobile,
+tandis que le quai passe devant lui.
+
+Or the platform could be staying put while
+he moves past it.
+Ou la plate-forme pourrait rester en place pendant
+qu'il la dépasse.
+
+The first postulate tells us that it doesn’t
+matter.
+Le premier postulat nous dit que cela n'a pas d'
+importance.
+
+The physics will play out in the same way,
+no matter what.
+La physique se déroulera de la même manière
+, quoi qu'il arrive.
+
+The second postulate says that the speed of
+light in a vacuum is the same for all observers
+– about 300,000,000 meters per second.
+Le deuxième postulat dit que la vitesse de la
+lumière dans le vide est la même pour tous les observateurs
+- environ 300 000 000 mètres par seconde.
+
+Always.
+Toujours. 
+
+Whether or not the light source is moving.
+Que la source lumineuse bouge ou non.
+
+Physicists have tested this fact with lots
+of experiments.
+Les physiciens ont testé ce fait avec de
+nombreuses expériences.
+
+It's definitely true, all the time.
+C'est définitivement vrai, tout le temps.
+
+So even if light is coming from a train that’s
+moving at half the speed of light the light
+Ainsi, même si la lumière provient d'un train qui se
+déplace à la moitié de la vitesse de la lumière, la lumière
+
+itself is still moving at about three hundred
+million meters per second.
+elle-même se déplace toujours à environ trois cents
+millions de mètres par seconde.
+
+And this is where things start to get weird.
+Et c'est là que les choses commencent à devenir bizarres.
+
+You already know that speed multiplied by
+time equals distance.
+Vous savez déjà que la vitesse multipliée par le
+temps égale la distance.
+
+But special relativity tells us that when
+it comes to light, speed is always constant.
+Mais la relativité restreinte nous dit qu'en
+ce qui concerne la lumière, la vitesse est toujours constante.
+
+Which would mean that the other two variables
+would have to change – time and distance.
+Ce qui signifierait que les deux autres variables
+devraient changer - le temps et la distance.
+
+And they do.
+Et ils le font.
+
+When time changes, that’s called time dilation,
+and when distance changes, that’s called
+length contraction.
+Lorsque le temps change, cela s'appelle la dilatation du temps,
+et lorsque la distance change, cela s'appelle la
+contraction de la longueur.
+
+Time dilation occurs when another reference
+frame is moving relative to you, so time in that reference
+frame slows down relative to the time you measure.
+La dilatation du temps se produit lorsqu'un autre
+cadre de référence se déplace par rapport à vous, de sorte que le temps dans ce
+cadre de référence ralentit par rapport au temps que vous mesurez.
+
+You can see why if we go back to Bob’s train.
+Vous pouvez voir pourquoi si nous revenons au train de Bob.
+
+Say Bob stands on the side of his train car
+that’s closer to the platform, and he’s facing a mirror
+on the opposite side of the car, 5 meters away.
+Disons que Bob se tient sur le côté de son wagon
+qui est le plus proche du quai et qu'il fait face à un miroir
+du côté opposé du wagon, à 5 mètres de distance.
+
+He shines a flashlight toward this mirror,
+which reflects the light right back towards him.
+Il braque une lampe de poche vers ce miroir,
+qui réfléchit la lumière vers lui.
+
+From Bob’s point of view on the train, the
+situation is very simple.
+Du point de vue de Bob dans le train, la
+situation est très simple.
+
+The light traveled straight to the mirror and back,
+a distance of 10 meters, at the speed of light.
+La lumière voyageait directement vers le miroir et revenait, sur
+une distance de 10 mètres, à la vitesse de la lumière.
+
+Sure, looking through the window,
+you saw the light travel to the mirror and back,
+but meanwhile, the train was still moving.
+Bien sûr, en regardant par la fenêtre,
+vous avez vu la lumière voyager vers le miroir et revenir,
+mais pendant ce temps, le train continuait de rouler.
+
+While the light traveled toward the mirror, the mirror
+moved sideways relative to your spot on the platform.
+Pendant que la lumière se dirigeait vers le miroir, le miroir
+s'est déplacé latéralement par rapport à votre place sur la plate-forme.
+
+And while the light traveled back toward Bob,
+Bob moved even farther sideways.
+Et pendant que la lumière revenait vers Bob,
+Bob s'est déplacé encore plus loin sur le côté.
+
+The result is that you saw the light travel
+diagonally, as though its path formed two
+sides of a triangle.
+Le résultat est que vous avez vu la lumière se déplacer en
+diagonale, comme si sa trajectoire formait les deux
+côtés d'un triangle.
+
+From your point of view, the light traveled a greater
+distance than it did from Bob’s point of view.
+De votre point de vue, la lumière a parcouru une plus grande
+distance que du point de vue de Bob.
+
+But! Special relativity tells us that the light’s
+speed was still exactly c.
+Mais!  La relativité restreinte nous dit que la
+vitesse de la lumière était toujours exactement c.
+
+Even though it traveled a greater distance.
+Même s'il a parcouru une plus grande distance.
+
+And if the light traveled a greater distance at the same
+speed then it must have been traveling for longer.
+Et si la lumière a parcouru une plus grande distance à la même
+vitesse, elle a dû voyager plus longtemps.
+
+You and Bob are both timing the exact same
+series of events.
+Toi et Bob chronométrez exactement la même
+série d'événements.
+
+But you’re measuring a longer time than
+Bob is.
+Mais vous mesurez un temps plus long que
+Bob.
+
+So, from your perspective on the platform,
+time has slowed down for Bob.
+Donc, de votre point de vue sur la plate-forme, le
+temps a ralenti pour Bob.
+
+That’s time dilation.
+C'est la dilatation du temps.
+
+If you measured the distance the light was
+traveling from your perspective on the platform,
+Si vous mesuriez la distance parcourue par la lumière
+de votre point de vue sur la plate-forme,
+
+you’d calculate that time slowed down for Bob by a factor of 1 divided by the square root of 1 minus the train’s velocity squared divided by the speed of light squared.
+vous calculeriez ce temps ralenti pour Bob par un facteur de 1 divisé par la racine carrée de 1 moins la vitesse du train au carré divisée par la vitesse de la lumière au carré  .
+
+We call this factor gamma, and it applies
+to any situation where another inertial reference
+frame is moving relative to yours.
+Nous appelons ce facteur gamma, et il s'applique
+à toute situation où un autre
+cadre de référence inertiel se déplace par rapport au vôtre.
+
+Time in that moving reference frame will seem
+to equal time in your reference frame, multiplied by gamma.
+Le temps dans ce cadre de référence mobile
+semblera égal au temps dans votre cadre de référence, multiplié par gamma.
+
+Gamma always has to be greater than 1, because the
+velocity of the moving reference frame always has to be
+less than c, the speed of light.
+Gamma doit toujours être supérieur à 1, car la
+vitesse du référentiel mobile doit toujours être
+inférieure à c, la vitesse de la lumière.
+
+So time is slower in that moving reference
+frame.
+Le temps est donc plus lent dans ce
+cadre de référence mobile.
+
+Because time can pass differently for people
+depending on their frame of reference, there’s
+also no universal concept of simultaneity.
+Parce que le temps peut passer différemment pour les gens en
+fonction de leur cadre de référence, il n'y
+a pas non plus de concept universel de simultanéité.
+
+In other words, something that seems simultaneous
+to you might not be simultaneous to Bob.
+En d'autres termes, quelque chose qui
+vous semble simultané ne l'est peut-être pas pour Bob.
+
+Say you see a flash of lightning at each
+end of Bob’s train, at the exact same time
+as he passes you on the platform.
+Disons que vous voyez un éclair à chaque
+extrémité du train de Bob, exactement au même moment
+où il vous dépasse sur le quai.
+
+I mean, we’re already talking about a train
+going half the speed of light.
+Je veux dire, nous parlons déjà d'un
+train roulant à la moitié de la vitesse de la lumière.
+
+So let’s say it gets struck by lightning
+too!
+Alors disons qu'il est lui aussi frappé par la
+foudre !
+
+For some reason!
+Pour certaines raisons! 
+
+You see both flashes at the same time,
+and they’re both the same distance from you,
+traveling at the same speed.
+Vous voyez les deux flashs en même temps,
+et ils sont tous les deux à la même distance de vous,
+voyageant à la même vitesse.
+
+So you can conclude that lightning struck
+both ends of his train at the same time.
+Vous pouvez donc conclure que la foudre a frappé les
+deux extrémités de son train en même temps.
+
+But from Bob’s perspective on the train,
+that’s not what happened.
+Mais du point de vue de Bob dans le train,
+ce n'est pas ce qui s'est passé.
+
+Because while the light is traveling from
+each end of the train to his eyes, he’s moving.
+Parce que pendant que la lumière voyage de
+chaque extrémité du train jusqu'à ses yeux, il bouge.
+
+At the moment that you see both flashes, Bob
+has already moved past you.
+Au moment où vous voyez les deux flashs, Bob vous
+a déjà dépassé.
+
+So he’s seen the flash from the front of
+the train – but only that one.
+Il a donc vu le flash de l'avant
+du train - mais seulement celui-là.
+
+Then he sees the flash from the lightning
+that struck the back of the train.
+Puis il voit l'éclair de la foudre
+qui a frappé l'arrière du train.
+
+Light always moves at the speed of light,
+though, no matter what your reference frame is.
+La lumière se déplace toujours à la vitesse de la lumière
+, quel que soit votre cadre de référence.
+
+That’s the rule.
+C'est la règle.
+
+So, to Bob, the lightning must have struck the front
+of the train before it struck the back of the train.
+Donc, pour Bob, la foudre a dû frapper l'avant
+du train avant de frapper l'arrière du train.
+
+Even though they seemed simultaneous to you.
+Même s'ils vous semblaient simultanés.
+
+Does your brain hurt yet?
+Votre cerveau vous fait encore mal ?
+
+As if time slowing down wasn’t weird enough,
+there’s also length contraction.
+Comme si le ralentissement du temps n'était pas assez étrange,
+il y a aussi une contraction de la longueur.
+
+Length contraction means that if something is moving
+relative to you, its length in the direction that it’s moving
+will seem shorter than it would if it wasn’t moving.
+La contraction de la longueur signifie que si quelque chose bouge par
+rapport à vous, sa longueur dans la direction dans laquelle il se
+déplace semblera plus courte que si elle ne bougeait pas.
+
+So you might have measured the train to be
+100 meters long before it left the station.
+Donc, vous avez peut-être mesuré le train à
+100 mètres de long avant qu'il ne quitte la gare.
+
+If Bob measures the train from where he’s
+standing, it will be 100 meters long.
+Si Bob mesure le train d'où il se
+tient, il fera 100 mètres de long.
+
+But from your perspective on the platform
+as it moves past you, the train will be shorter.
+Mais de votre point de vue sur le quai
+lorsqu'il passe devant vous, le train sera plus court.
+
+Let’s say you want to measure the train
+as it moves past the spot where you’re standing
+on the platform.
+Supposons que vous souhaitiez mesurer le train
+lorsqu'il passe devant l'endroit où vous vous tenez
+sur le quai.
+
+The train is moving at half the speed of light.
+That’s set.
+Le train roule à la moitié de la vitesse de la lumière.
+C'est fixé. 
+
+From Bob’s perspective, it takes about 6.66
+x 10^-7 for the train to pass you.
+Du point de vue de Bob, il faut environ 6,66
+x 10 ^ -7 pour que le train vous dépasse.
+
+Velocity multiplied by time equals distance,
+so Bob calculates that the train must be
+100 meters long.
+La vitesse multipliée par le temps est égale à la distance,
+donc Bob calcule que le train doit mesurer
+100 mètres de long.
+
+Now you try taking the same measurement.
+Maintenant, vous essayez de prendre la même mesure.
+
+Problem is, we already know that time moves
+faster for you than for Bob.
+Le problème est que nous savons déjà que le temps passe
+plus vite pour vous que pour Bob.
+
+While 666 nanoseconds pass for Bob, only 577
+nanoseconds pass for you.
+Alors que 666 nanosecondes passent pour Bob, seulement 577
+nanosecondes passent pour vous.
+
+And if the train takes 577 nanoseconds to pass
+you while it’s moving at half the speed of light,
+it must be 86.6 meters long!
+Et si le train met 577 nanosecondes pour
+vous dépasser alors qu'il se déplace à la moitié de la vitesse de la lumière,
+il doit faire 86,6 mètres de long !
+
+In general, when something’s moving past you, its length in the direction of its motion will be equal to the length you’d measure if it was standing still, divided by gamma.
+En général, lorsque quelque chose passe devant vous, sa longueur dans la direction de son mouvement sera égale à la longueur que vous mesureriez s'il était immobile, divisée par gamma.
+
+Length contraction happens for objects moving
+at regular speeds, too!
+La contraction de la longueur se produit également pour les objets se déplaçant
+à des vitesses régulières !
+
+But it’s so tiny that there’s no way you’d
+ever notice it.
+Mais il est si petit qu'il est impossible que vous le
+remarquiez.
+
+If the train was moving at 150 kilometers per
+hour, it would contract by less than a picometer –
+that’s 100th of the length of a hydrogen atom.
+Si le train se déplaçait à 150 kilomètres à l'
+heure, il se contracterait de moins d'un picomètre,
+soit le 100e de la longueur d'un atome d'hydrogène.
+
+Since length contraction isn’t something
+we see in everyday life, it isn’t part of our
+intuitive sense of physics.
+Puisque la contraction de la longueur n'est pas quelque chose que
+nous voyons dans la vie de tous les jours, elle ne fait pas partie de notre
+sens intuitif de la physique.
+
+So special relativity tells us that because light
+always travels at the same speed, time dilates
+and length contracts to compensate.
+Ainsi, la relativité restreinte nous dit que parce que la lumière
+voyage toujours à la même vitesse, le temps se dilate
+et la longueur se contracte pour compenser.
+
+Space and time – they’re directly connected
+to each other.
+Espace et temps – ils sont directement connectés
+les uns aux autres.
+
+That’s what people mean when they talk about
+four-dimensional spacetime.
+C'est ce que les gens veulent dire quand ils parlent d'
+espace-temps à quatre dimensions.
+
+If you’re describing something physically,
+it’s not enough just to talk about its position
+in three-dimensional space.
+Si vous décrivez quelque chose physiquement,
+il ne suffit pas de parler de sa position
+dans l'espace tridimensionnel.
+
+You also need to take time into account.
+Il faut aussi tenir compte du temps.
+
+A lot of this might seem counterintuitive,
+but that’s because we’re used to seeing the world
+at much, much slower speeds than light.
+Une grande partie de cela peut sembler contre-intuitif,
+mais c'est parce que nous sommes habitués à voir le monde
+à des vitesses beaucoup, beaucoup plus lentes que la lumière.
+
+All of which is to say that when you start
+to analyze things that are moving fast, the
+universe becomes a very strange place.
+Tout cela pour dire que lorsque vous commencez
+à analyser des choses qui bougent rapidement, l'
+univers devient un endroit très étrange.
+
+Today, you learned about special relativity.
+Aujourd'hui, vous avez découvert la relativité restreinte.
+
+We went over its two postulates, and their
+consequences: time dilation, a lack of universal
+simultaneity, and length contraction.
+Nous avons passé en revue ses deux postulats et leurs
+conséquences : dilatation du temps, absence de
+simultanéité universelle et contraction de la longueur.
+
+We also talked about four-dimensional spacetime.
+Nous avons également parlé de l'espace-temps à quatre dimensions.
+
+Thanks to Prudential for sponsoring this episode.
+Merci à Prudential d'avoir parrainé cet épisode.
+
+It’s human nature to prioritize present
+needs and what matters most to us, today.
+C'est dans la nature humaine de donner la priorité aux
+besoins actuels et à ce qui compte le plus pour nous, aujourd'hui.
+
+But, when planning for your retirement, it’s
+best to prioritize tomorrow.
+Mais, lors de la planification de votre retraite, il est
+préférable de prioriser demain.
+
+According to a Prudential study 1 in 3 Americans
+are not saving enough for retirement and,
+Selon une étude Prudential, 1 Américain sur 3
+n'épargne pas suffisamment pour sa retraite et
+
+over 52% are not on track to be able to maintain
+their current standard of living.
+plus de 52 % ne sont pas en mesure de maintenir
+leur niveau de vie actuel.
+
+Go to Raceforretirement.com and see how,
+if you start saving more today, you can continue
+to enjoy the things you love tomorrow.
+Rendez-vous sur Raceforretirement.com et voyez comment,
+si vous commencez à épargner davantage aujourd'hui, vous pourrez continuer
+à profiter des choses que vous aimez demain.
+
+Crash Course Physics is produced in association
+with PBS Digital Studios.
+Crash Course Physics est produit en association
+avec PBS Digital Studios.
+
+You can head over to their channel to check
+out a playlist of their latest amazing shows,
+Vous pouvez vous rendre sur leur chaîne pour
+consulter une liste de lecture de leurs dernières émissions incroyables,
+
+like BBQ With Franklin, PBS Off Book, and
+Indy Alaska.
+comme BBQ With Franklin, PBS Off Book et
+Indy Alaska.
+
+This episode of Crash Course was filmed in
+the Doctor Cheryll C. Kinney Crash Course Studio
+Cet épisode de Crash Course a été filmé dans
+le studio Doctor Cheryll C. Kinney Crash Course
+
+with the help of these amazing people
+and our equally amazing graphics team,
+is Thought Cafe.
+avec l'aide de ces personnes incroyables
+et de notre équipe graphique tout aussi incroyable
+, Thought Cafe.
+

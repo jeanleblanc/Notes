@@ -1,0 +1,912 @@
+You can review episodes of Crash Course Organic
+Chemistry with the Crash Course App,
+Vous pouvez revoir les épisodes de Crash Course Organic
+Chemistry avec l'application Crash Course,
+
+available now for Android and iOS devices
+disponible dès maintenant pour les appareils Android et iOS
+
+Hi! I’m Deboki Chakravarti and welcome to
+Crash Course Organic Chemistry!
+Salut !  Je suis Deboki Chakravarti et bienvenue au cours intensif de
+chimie organique !
+
+A relatively slow reaction between sugar and
+yeast makes the ethanol in beer,
+Une réaction relativement lente entre le sucre et la
+levure produit l'éthanol dans la bière,
+
+while other compounds contribute all those
+hoppy, bitter, or citrusy flavors.
+tandis que d'autres composés contribuent à toutes ces
+saveurs de houblon, d'amertume ou d'agrumes.
+
+But that sugar and yeast brew falls short
+if you want to make pure ethanol,
+Mais ce mélange de sucre et de levure est insuffisant
+si vous voulez fabriquer de l'éthanol pur,
+
+which is an important solvent for industrial manufacturing.
+qui est un solvant important pour la fabrication industrielle.
+
+For that, people react ethene with steam,
+in the presence of a catalyst.
+Pour cela, on fait réagir l'éthylène avec de la vapeur,
+en présence d'un catalyseur.
+
+We’ve seen these arrows before:
+Nous avons déjà vu ces flèches :
+
+they mean the reaction is reversible.
+elles signifient que la réaction est réversible.
+
+So we can also take ethanol and use it to
+make ethene (and some water).
+Nous pouvons donc également prendre de l'éthanol et l'utiliser pour
+fabriquer de l'éthène (et de l'eau).
+
+This type of reaction is known as the dehydration
+of ethanol, because we're removing water from the ethanol.
+Ce type de réaction est connu sous le nom de déshydratation
+de l'éthanol, car nous retirons l'eau de l'éthanol.
+
+But, more generically, it's an elimination
+reaction:
+Mais, plus génériquement, c'est une
+réaction d'élimination :
+
+a reaction in which a group is “kicked out”
+of a larger molecule.
+une réaction dans laquelle un groupe est « expulsé »
+d'une plus grosse molécule.
+
+Elimination reactions are very important,
+Les réactions d'élimination sont très importantes,
+
+because they’re the main way we can make organic compounds containing double or triple carbon-carbon bonds.
+car elles constituent le principal moyen de fabriquer des composés organiques contenant des liaisons doubles ou triples carbone-carbone.
+
+So let's have a look at how they work...
+Voyons donc comment ils fonctionnent...
+
+[Theme Music]
+[Thème musical] Les
+
+Elimination reactions are related to substitution
+reactions, which we learned about in episodes 20 and 21.
+réactions d'élimination sont liées aux
+réactions de substitution, dont nous avons entendu parler dans les épisodes 20 et 21.
+
+So it's worth remembering the SN1 and SN2
+pathways before we dive in deeper.
+Il est donc utile de se souvenir des voies SN1 et SN2
+avant de plonger plus profondément.
+
+There are a few key terms we use to talk about
+substitution reactions.
+Nous utilisons quelques termes clés pour parler
+des réactions de substitution.
+
+The substrate contains an sp3 hybridized carbon.
+Le substrat contient un carbone hybride sp3.
+
+A leaving group accepts electrons as it, well,
+leaves the substrate.
+Un groupe partant accepte les électrons lorsqu'il
+quitte le substrat.
+
+Then, there's the nucleophile or electron-pair
+donor.
+Ensuite, il y a le nucléophile ou donneur de paires d'électrons
+.
+
+When the leaving group departs the substrate
+in the SN1 mechanism, it forms a carbocation intermediate, 
+Lorsque le groupe partant quitte le substrat
+dans le mécanisme SN1, il forme un carbocation intermédiaire,
+
+and the stability of that carbocation
+is really important.
+et la stabilité de ce carbocation
+est vraiment importante.
+
+Because of this, all things being equal,
+Pour cette raison, toutes choses étant égales par ailleurs, les
+
+SN1 reactions are faster with tertiary carbon
+substrates than they are with less substituted secondary carbons.
+réactions SN1 sont plus rapides avec des
+substrats de carbone tertiaire qu'avec des carbones secondaires moins substitués.
+
+In the SN2 mechanism, the nucleophile attacks
+the substrate and simultaneously kicks out the leaving group.
+Dans le mécanisme SN2, le nucléophile attaque
+le substrat et expulse simultanément le groupe partant.
+
+So steric hindrance plays an important role,
+and the opposite trend happens:
+L'encombrement stérique joue donc un rôle important,
+et la tendance inverse se produit :
+
+SN2 reactions are generally faster with primary carbon substrates than they are with more substituted secondary carbons.
+les réactions SN2 sont généralement plus rapides avec des substrats de carbone primaire qu'avec des carbones secondaires plus substitués.
+
+The key to substitution reactions is:
+La clé des réactions de substitution est la suivante :
+
+in a chemical reaction between a substrate
+and a nucleophile, the nucleophile acts as an electron donor. 
+dans une réaction chimique entre un substrat
+et un nucléophile, le nucléophile agit comme un donneur d'électrons.
+
+The nucleophile causes substitution.
+Le nucléophile provoque la substitution.
+
+The key to elimination reactions is slightly
+different:
+La clé des réactions d'élimination est légèrement
+différente :
+
+in a chemical reaction between a substrate
+and a nucleophile, the nucleophile acts as a proton acceptor.
+dans une réaction chimique entre un substrat
+et un nucléophile, le nucléophile agit comme un accepteur de protons.
+
+The nucleophile causes elimination.
+Le nucléophile provoque l'élimination.
+
+This idea that a nucleophile can either be
+an electron donor or a proton acceptor is subtle and kind of tricky,
+Cette idée qu'un nucléophile peut être soit
+un donneur d'électrons, soit un accepteur de protons est subtile et plutôt délicate,
+
+so let's go back to the basics... of acids
+and bases.
+alors revenons aux bases... des acides
+et des bases.
+
+A nucleophile is something with a non-bonded
+pair of electrons or pi bond.
+Un nucléophile est quelque chose avec une
+paire d'électrons non liés ou une liaison pi.
+
+It has some spare electrons hanging around that it can generously give to something that’s a bit electron-deficient.
+Il a quelques électrons de rechange qui traînent qu'il peut donner généreusement à quelque chose qui manque un peu d'électrons.
+
+A Lewis base is something that can donate
+a pair of electrons, so all nucleophiles are Lewis bases.
+Une base de Lewis est quelque chose qui peut donner
+une paire d'électrons, donc tous les nucléophiles sont des bases de Lewis.
+
+And if we consider Brønsted-Lowry bases,
+we know that nucleophiles are also potentially proton acceptors.
+Et si l'on considère les bases de Brønsted-Lowry,
+on sait que les nucléophiles sont aussi potentiellement des accepteurs de protons.
+
+That "potentially" is important though:
+Ce "potentiellement" est cependant important : la
+
+nucleophilicity and basicity aren’t interchangeable terms.
+nucléophilie et la basicité ne sont pas des termes interchangeables.
+
+There’s a subtle difference!
+Il y a une subtile différence !
+
+Nucleophilicity refers to how readily a nucleophile
+attacks any non-hydrogen atom.
+La nucléophilie fait référence à la facilité avec laquelle un nucléophile
+attaque tout atome autre que l'hydrogène.
+
+Since this is an organic chemistry course,
+that non-hydrogen atom is usually going to be carbon.
+Puisqu'il s'agit d'un cours de chimie organique,
+cet atome non hydrogène sera généralement du carbone.
+
+On the other hand, we'll use basicity to describe  
+how readily a nucleophile attacks hydrogen atoms, specifically.
+D'autre part, nous utiliserons la basicité pour décrire
+la facilité avec laquelle un nucléophile attaque les atomes d'hydrogène, en particulier.
+
+When we talk about a nucleophile acting as
+a base, we mean it's acting as a proton acceptor.
+Lorsque nous parlons d'un nucléophile agissant comme
+une base, nous voulons dire qu'il agit comme un accepteur de protons.
+
+Remember, hydrogen atoms have one proton,
+one electron, and no neutrons.
+N'oubliez pas que les atomes d'hydrogène ont un proton,
+un électron et aucun neutron.
+
+So when we talk about protons like this, we
+mean a hydrogen atom without its electron.
+Ainsi, lorsque nous parlons de protons comme celui-ci, nous
+entendons un atome d'hydrogène sans son électron.
+
+Different groups have different amounts of
+nucleophilicity and basicity,
+Différents groupes ont des niveaux différents de
+nucléophilie et de basicité,
+
+which lets us know what sort of reaction they’re
+likely to cause when considering substitution or elimination.
+ce qui nous permet de savoir quel type de réaction ils sont
+susceptibles de provoquer lorsqu'ils envisagent une substitution ou une élimination.
+
+For example, something bulky like the tert-butoxide
+anion isn’t a great nucleophile,
+Par exemple, quelque chose de volumineux comme l'anion tert-butoxyde
+n'est pas un grand nucléophile,
+
+but is a strong base.
+mais c'est une base forte.
+
+Likewise, something can be a good nucleophile,
+but a weak base, such as the halide ions.
+De même, quelque chose peut être un bon nucléophile,
+mais une base faible, comme les ions halogénures.
+
+And some things, like hydroxide ions, have
+it all.
+Et certaines choses, comme les ions hydroxyde,
+ont tout pour plaire.
+
+They're a good nucleophile and a strong base.
+C'est un bon nucléophile et une base solide.
+
+Like I mentioned before all this, an elimination
+reaction is where a nucleophile acts as a proton acceptor.
+Comme je l'ai mentionné avant tout cela, une
+réaction d'élimination est celle où un nucléophile agit comme un accepteur de protons.
+
+In other words, a strong base.
+En d'autres termes, une base solide.
+
+It rips a proton off the substrate.
+Il arrache un proton du substrat.
+
+Then, the electrons that formed a carbon-hydrogen bond in the substrate form a pi bond instead:
+Ensuite, les électrons qui ont formé une liaison carbone-hydrogène dans le substrat forment à la place une liaison pi :
+
+the carbon-carbon double bond in the elimination product.
+la double liaison carbone-carbone dans le produit d'élimination.
+
+Here's the general form of an elimination
+reaction, with placeholders.
+Voici la forme générale d'une
+réaction d'élimination, avec des espaces réservés.
+
+We can use a merry-go-round analogy for elimination
+reactions too.
+Nous pouvons également utiliser une analogie de manège pour les
+réactions d'élimination.
+
+It's kind of like a small kid (the nucleophile)
+crashing into the merry-go-round at full speed,
+C'est un peu comme un petit enfant (le nucléophile) qui
+s'écrase dans le manège à toute vitesse,
+
+grabbing one of the other kids (the hydrogen)
+and pulling them off completely.
+attrape l'un des autres enfants (l'hydrogène)
+et le retire complètement.
+
+Then, another kid jumps off the merry-go-round
+too,
+Ensuite, un autre enfant saute également du manège
+
+and decides they’ve had enough of this dangerous, not-fun
+playground, and heads home.
+et décide qu'il en a assez de ce terrain de jeu dangereux et pas amusant
+et rentre chez lui.
+
+There are two specific ways this can happen
+though, called E1 and E2.
+Cependant, cela peut se produire de deux manières spécifiques
+, appelées E1 et E2.
+
+And to talk about the difference between these
+elimination mechanisms, we need some new terms.
+Et pour parler de la différence entre ces
+mécanismes d'élimination, nous avons besoin de nouveaux termes.
+
+The alpha carbon of the substrate is the carbon
+with the leaving group, attached to it.
+Le carbone alpha du substrat est le carbone
+auquel est attaché le groupe partant.
+
+Alpha hydrogens are bonded to the alpha carbon.
+Les hydrogènes alpha sont liés au carbone alpha.
+
+The beta carbons of the substrate are any
+carbons attached to the alpha carbon.
+Les carbones bêta du substrat sont tous les
+carbones attachés au carbone alpha.
+
+Any hydrogens attached to a beta carbon are
+called beta hydrogens.
+Tous les hydrogènes attachés à un carbone bêta sont
+appelés hydrogènes bêta.
+
+In E1 reactions, the first step is that a
+carbocation forms on the alpha carbon,
+Dans les réactions E1, la première étape consiste à
+former un carbocation sur le carbone alpha
+
+the same as in SN1.
+, comme dans SN1.
+
+Both of these mechanisms are unimolecular,
+which is why they have a 1.
+Ces deux mécanismes sont unimoléculaires
+, c'est pourquoi ils ont un 1.
+
+Their reaction rates depend on one molecule
+(the substrate).
+Leurs vitesses de réaction dépendent d'une molécule
+(le substrat).
+
+Next, the nucleophile acts as a base and takes
+a proton from a beta carbon.
+Ensuite, le nucléophile agit comme une base et prend
+un proton d'un carbone bêta.
+
+That's what makes it elimination!
+C'est ce qui en fait l'élimination !
+
+Then, the electrons that were in that beta
+carbon-hydrogen bond form a pi bond,
+Ensuite, les électrons qui se trouvaient dans cette
+liaison bêta carbone-hydrogène forment une liaison pi
+
+and a double bond forms between the alpha and beta
+carbons.
+et une double liaison se forme entre les carbones alpha et bêta
+.
+
+As an example of an E1 reaction, we can look
+at 2-chloro-2-methylpropane reacting under neutral conditions
+Comme exemple de réaction E1, nous pouvons regarder le
+2-chloro-2-méthylpropane réagissant dans des conditions neutres
+
+which forms an alkene.
+qui forment un alcène.
+
+There's actually a low yield here because
+the alkene is the minor product of this reaction.
+Il y a en fait un faible rendement ici car
+l'alcène est le produit mineur de cette réaction.
+
+SN1 and E1 mechanisms often compete, giving
+us a mix of products!
+Les mécanismes SN1 et E1 sont souvent en concurrence, ce qui
+nous donne un mix de produits !
+
+We’ll talk more about this idea in the next
+episode, and what reaction conditions favor different mechanisms.
+Nous parlerons plus de cette idée dans le prochain
+épisode, et quelles conditions de réaction favorisent différents mécanismes.
+
+On to E2 reactions!
+Passons aux réactions E2 !
+
+Like SN2 reactions, everything happens at
+once and there’s no carbocation to worry about.
+Comme les réactions SN2, tout se passe en même
+temps et il n'y a pas de carbocation à craindre.
+
+The nucleophile acts as a base, takes a beta
+proton, and the leaving group does its thing and… leaves.
+Le nucléophile agit comme une base, prend un
+proton bêta, et le groupe partant fait son travail et… part.
+
+This mechanism is bimolecular, which is why
+there's a 2.
+Ce mécanisme est bimoléculaire, c'est pourquoi
+il y a un 2.
+
+And its reaction rate depends on two molecules:
+the substrate and the base.
+Et sa vitesse de réaction dépend de deux molécules :
+le substrat et la base.
+
+Because the base is involved in the rate,
+stronger bases,
+Parce que la base est impliquée dans la vitesse,
+des bases plus fortes,
+
+like negatively charged oxygen and nitrogen anions, favor E2 reactions.
+comme les anions oxygène et azote chargés négativement, favorisent les réactions E2.
+
+For most E2 reactions, the hydrogen and the
+leaving group must be antiperiplanar,
+Pour la plupart des réactions E2, l'hydrogène et le
+groupe partant doivent être antipériplanaires,
+
+which means they need to be in the same plane, but
+on opposite sides, of the bond between the alpha and beta carbon.
+ce qui signifie qu'ils doivent être dans le même plan, mais
+sur des côtés opposés, de la liaison entre le carbone alpha et bêta.
+
+We can check for this by looking at the substrate's
+Newman projection, using what we learned way back in episode 6!
+Nous pouvons vérifier cela en regardant la
+projection de Newman du substrat, en utilisant ce que nous avons appris il y a bien longtemps dans l'épisode 6 !
+
+For example, let's look at 2-bromobutane reacting
+under basic conditions.
+Par exemple, regardons le 2-bromobutane réagissant
+dans des conditions basiques.
+
+This molecule has several different staggered
+conformations,
+Cette molécule a plusieurs conformations décalées différentes
+,
+
+which are where the groups on the alpha carbon
+aren't eclipsing or overlapping the groups on the beta carbon.
+où les groupes sur le carbone alpha
+n'éclipsent pas ou ne chevauchent pas les groupes sur le carbone bêta.
+
+There's a 60 degree angle between them.
+Il y a un angle de 60 degrés entre eux.
+
+And to do an E2 reaction, we need to make
+sure the beta hydrogen and bromine are antiperiplanar–
+Et pour faire une réaction E2, nous devons nous
+assurer que l'hydrogène bêta et le brome sont antipériplanaires,
+
+right across from each other.
+juste en face l'un de l'autre.
+
+The most energetically stable conformation
+is when the methyl groups aren't right next to each other, 
+La conformation la plus stable sur le plan énergétique
+est lorsque les groupes méthyle ne sont pas côte à côte,
+
+because there's only one gauche interaction between one of the methyls and the bromine.
+car il n'y a qu'une seule interaction gauche entre l'un des méthyles et le brome.
+
+We have our antiperiplanar arrangement with
+a beta hydrogen and bromine, 
+Nous avons notre arrangement antipériplanaire avec
+un hydrogène bêta et du brome
+
+so this leads to the major product, the E-alkene.
+, ce qui conduit au produit principal, le E-alcène.
+
+(Where the methyls are E-cross from each other.)
+(Où les méthyles sont croisés en E.)
+
+The conformation with the methyl groups right
+next to each other has two gauche interactions,
+La conformation avec les groupes méthyle juste à
+côté a deux interactions gauches,
+
+so it's less stable.
+donc c'est moins stable.
+
+We still have our antiperiplanar arrangement
+with a beta hydrogen and bromine,
+Nous avons toujours notre arrangement antipériplanaire
+avec un hydrogène bêta et du brome
+
+so this produces the minor product, which is the Z-alkene.
+, ce qui produit le produit mineur, qui est le Z-alcène.
+
+(Where the methyls are on “ze Zame Zide”
+of each other.)
+(Où les méthyles sont sur "ze Zame Zide" les
+uns des autres.)
+
+An E2 reaction simply can’t happen with
+this third staggered conformation,
+Une réaction E2 ne peut tout simplement pas se produire avec
+cette troisième conformation décalée,
+
+because we don't have that antiperiplanar arrangement
+at all!
+car nous n'avons pas du tout cet arrangement antipériplanaire
+!
+
+Let's take a closer look at the E2 reaction
+on our more stable conformer.
+Examinons de plus près la réaction E2
+sur notre conformateur plus stable.
+
+The nucleophile base attacks, the bromide
+leaving group leaves, and a double bond forms.
+La base nucléophile attaque, le
+groupe partant du bromure part et une double liaison se forme.
+
+We can convert our structure back from the
+Newman projection,
+Nous pouvons reconvertir notre structure à partir de la
+projection de Newman
+
+and see the C-H-three groups are on opposite sides!
+et voir que les groupes C-H-trois sont sur des côtés opposés !
+
+Specifically, this E2 mechanism is called
+anti elimination,
+Plus précisément, ce mécanisme E2 est appelé
+anti-élimination, en
+
+because of the antiperiplanar arrangement that made it possible.
+raison de la disposition antipériplanaire qui l'a rendu possible.
+
+To be totally honest, there's another E2 mechanism
+called syn elimination,
+Pour être tout à fait honnête, il existe un autre mécanisme E2
+appelé élimination syn,
+
+which involves a much-less-stable eclipsed conformation,
+qui implique une conformation éclipsée beaucoup moins stable,
+
+where the leaving group overlaps a hydrogen
+(or in this case, a hydrogen isotope) in our Newman projection.
+où le groupe partant chevauche un hydrogène
+(ou dans ce cas, un isotope de l'hydrogène) dans notre projection de Newman.
+
+It's rare, but can happen with rigid structures.
+You don't need to worry too much about it.
+C'est rare, mais cela peut arriver avec des structures rigides.
+Vous n'avez pas besoin de trop vous en soucier.
+
+So we took 2-bromobutane, did our E2 reaction,
+and have major and minor alkene products.
+Nous avons donc pris du 2-bromobutane, fait notre réaction E2
+et avons des produits alcènes majeurs et mineurs.
+
+We're done… right?
+Nous avons terminé... n'est-ce pas ?
+
+Well, if you look closely at 2-bromobutane,
+we have one alpha carbon
+Eh bien, si vous regardez de près le 2-bromobutane,
+nous avons un carbone alpha
+
+(which is attached to the bromine), but two beta carbons.
+(qui est attaché au brome), mais deux carbones bêta.
+
+So there are two places the carbon-carbon
+double bond could form.
+Il y a donc deux endroits où la double liaison carbone-carbone
+pourrait se former.
+
+How do we decide?
+Comment décidons-nous ?
+
+Never fear, Zaitsev’s rule is here!
+N'ayez crainte, la règle de Zaitsev est là !
+
+It describes this pattern:
+Il décrit ce schéma :
+
+in an elimination reaction, the most substituted
+alkene is the most stable, and is the major product.
+dans une réaction d'élimination, l'alcène le plus substitué
+est le plus stable et constitue le produit principal.
+
+So for the E2 reaction we just did with 2-bromobutane,
+we mostly get Zaitsev products,
+Donc, pour la réaction E2 que nous venons de faire avec le 2-bromobutane,
+nous obtenons principalement des produits Zaitsev,
+
+plus a little bit of this other alkene with the double bond
+in a different spot.
+plus un peu de cet autre alcène avec la double liaison
+à un endroit différent.
+
+To make sure we understand Zaitsev’s rule,
+here’s another example with cis-1-chloro-2-methylcyclohexane.
+Pour nous assurer que nous comprenons la règle de Zaitsev,
+voici un autre exemple avec le cis-1-chloro-2-méthylcyclohexane.
+
+If we show cyclohexene in its chair conformation,
+Si nous montrons le cyclohexène dans sa conformation chaise,
+
+we can see that for the hydrogen and the chlorine
+leaving group to be antiperiplanar,
+nous pouvons voir que pour que l'hydrogène et le
+groupe partant chlore soient antipériplanaires,
+
+both of these groups have to be axial.
+ces deux groupes doivent être axiaux.
+
+Only anti elimination happens here, and syn
+elimination is impossible!
+Seule l'anti-élimination se produit ici, et l'
+élimination syn est impossible !
+
+Following Zaitsev’s rule, the major product
+is the one with the most substituted double bond:  
+Selon la règle de Zaitsev, le produit majeur
+est celui qui a la double liaison la plus substituée : le
+
+1-methylcyclohex-1-ene.
+1-méthylcyclohex-1-ène.
+
+The minor product is 3-methylcyclohex-1-ene.
+Le produit mineur est le 3-méthylcyclohex-1-ène.
+
+Phew!
+Phew! 
+
+Those are the basics of elimination reactions,
+Ce sont les bases des réactions d'élimination,
+
+so let's return to that dehydration of ethanol that I mentioned right at the start.
+revenons donc à cette déshydratation de l'éthanol que j'ai mentionnée au début.
+
+A great way to eliminate alcohols is by treating
+them with sulfuric acid or phosphoric acid.
+Une excellente façon d'éliminer les alcools est de les
+traiter avec de l'acide sulfurique ou de l'acide phosphorique.
+
+And… hang on a moment.
+Et… attendez un instant.
+
+Haven’t we been talking about bases all
+this time?
+N'avons-nous pas parlé de bases tout
+ce temps ?
+
+Well, remember, acids form conjugate bases.
+Eh bien, rappelez-vous, les acides forment des bases conjuguées.
+
+For example, sulfuric acid forms the resonance-stabilized
+bisulfate anion,
+Par exemple, l'acide sulfurique forme l'anion bisulfate stabilisé par résonance
+,
+
+which is a poor nucleophile but is able to grab a proton, so it can help with elimination!
+qui est un mauvais nucléophile mais est capable de saisir un proton, il peut donc aider à l'élimination !
+
+If we mix ethanol with sulfuric acid and really
+heat it up, we can do this dehydration reaction of ethanol.
+Si nous mélangeons de l'éthanol avec de l'acide sulfurique et que nous le
+chauffons vraiment, nous pouvons faire cette réaction de déshydratation de l'éthanol.
+
+But is it E1 or E2?
+Mais est-ce E1 ou E2 ?
+
+The first step in an E1 reaction is forming
+a carbocation.
+La première étape d'une réaction E1 consiste à former
+un carbocation.
+
+Ethanol is a primary alcohol, so the primary carbocation
+that forms from the alpha carbon would be fairly unstable,
+L'éthanol est un alcool primaire, donc le carbocation primaire
+qui se forme à partir du carbone alpha serait assez instable,
+
+and there would be a very high activation
+energy for the reaction.
+et il y aurait une
+énergie d'activation très élevée pour la réaction.
+
+So it’s much more likely that we're dealing
+with an E2 reaction here.
+Il est donc beaucoup plus probable que nous ayons affaire
+à une réaction E2 ici.
+
+A proton from the sulfuric acid bonds to one
+of the lone pairs of the oxygen in the alcohol,
+Un proton de l'acide sulfurique se lie à l'une
+des paires isolées d'oxygène dans l'alcool
+
+making an oxonium salt and creating a great
+leaving group: neutral water.
+, formant un sel d'oxonium et créant un grand
+groupe partant : l'eau neutre.
+
+The newly-formed bisulfate anion acts as a base, grabs a beta proton, and kicks out water all at once in a single step.
+L'anion bisulfate nouvellement formé agit comme une base, attrape un proton bêta et expulse l'eau en une seule étape.
+
+It’s an E2 mechanism!
+C'est un mécanisme E2 !
+
+E2 reactions with sulfuric acid are a bit
+unusual, they really need heat to make them go, 
+Les réactions E2 avec l'acide sulfurique sont un peu
+inhabituelles, elles ont vraiment besoin de chaleur pour les faire fonctionner,
+
+which we’ll talk about more next episode.
+dont nous parlerons plus au prochain épisode.
+
+That gave us a little bit of practice with
+elimination reactions,
+Cela nous a donné un peu de pratique avec les
+réactions d'élimination,
+
+but let's do some rapid fire problems to really
+make sure we understand what's going on.
+mais faisons quelques problèmes de tir rapide pour
+nous assurer que nous comprenons vraiment ce qui se passe.
+
+We’re going to put three elimination problems
+on screen and predict the likely mechanism and the products.
+Nous allons mettre trois problèmes d'élimination
+à l'écran et prédire le mécanisme probable et les produits.
+
+Then, we'll work through the answers,
+Ensuite, nous travaillerons sur les réponses,
+
+so pause right after the question if you want
+to solve them yourself.
+alors faites une pause juste après la question si vous voulez
+les résoudre vous-même.
+
+Ready?
+Prêt? 
+
+Here's problem number one.
+Voici le problème numéro un.
+
+We’re using N-H-2 minus as our nucleophile,
+which is a strong base.
+Nous utilisons N-H-2 moins comme nucléophile,
+qui est une base forte.
+
+We remember from episode 21 that OTs is tosylate,
+one of those sulfonates –
+Nous nous souvenons de l'épisode 21 que OTs est tosylate, l'
+un de ces sulfonates -
+
+a good leaving group.
+un bon groupe partant.
+
+And the alpha carbon is a secondary carbon,
+which is slightly less substituted and could do either E1 or E2.
+Et le carbone alpha est un carbone secondaire,
+qui est légèrement moins substitué et pourrait faire E1 ou E2.
+
+Because of the strong base, though, we'd expect
+this to be an E2 reaction.
+En raison de la base solide, cependant, nous nous attendrions à
+ce que ce soit une réaction E2.
+
+And there’s only one place the double bond
+can go to form a product.
+Et il n'y a qu'un seul endroit où la double liaison
+peut aller pour former un produit.
+
+Okay! Here's problem number two.
+D'accord!  Voici le problème numéro deux.
+
+This time we have a tertiary alcohol and phosphoric
+acid.
+Cette fois, nous avons un alcool tertiaire et de l'
+acide phosphorique.
+
+Like our dehydration of ethanol reaction,
+the phosphoric acid loses a proton to the alcohol group.
+Comme notre réaction de déshydratation de l'éthanol,
+l'acide phosphorique perd un proton au profit du groupe alcool.
+
+Then, the water leaves to form a carbocation.
+Ensuite, l'eau sort pour former un carbocation.
+
+And in this case, unlike with ethanol, the
+tertiary carbocation that forms on the alpha carbon is fairly stable,
+Et dans ce cas, contrairement à l'éthanol, le
+carbocation tertiaire qui se forme sur le carbone alpha est assez stable,
+
+so an E1 mechanism is favored.
+donc un mécanisme E1 est favorisé.
+
+However, there are two possible products this time:
+Cependant, il y a cette fois deux produits possibles :
+
+a major one with a more substituted double
+bond per Zaitsev’s rule,
+un majeur avec une double liaison plus substituée
+selon la règle de Zaitsev,
+
+and a minor one where the double bond is less substituted.
+et un mineur où la double liaison est moins substituée.
+
+And here's our final problem, number three.
+Et voici notre dernier problème, numéro trois.
+
+The alpha carbon is secondary, which is slightly
+less substituted,
+Le carbone alpha est secondaire, qui est légèrement
+moins substitué,
+
+but that doesn't clearly tell us if it’s E1 or E2.
+mais cela ne nous dit pas clairement s'il s'agit de E1 ou E2.
+
+But sodium methoxide is a strong base, so
+I'm thinking E2.
+Mais le méthylate de sodium est une base forte, donc
+je pense à E2.
+
+Let’s draw our chair conformation…
+Dessinons notre conformation de chaise…
+
+and oops, the chloride is equatorial.
+et oups, le chlorure est équatorial.
+
+Remember, the chloride needs to be axial,
+so we can get an antiperiplanar hydrogen,
+N'oubliez pas que le chlorure doit être axial,
+afin que nous puissions obtenir un hydrogène antipériplanaire,
+
+so let’s do a chair flip!
+alors faisons un retournement de chaise !
+
+Now, we can see there's just one hydrogen
+that is also axial and antiperiplanar to the chloride.
+Maintenant, nous pouvons voir qu'il n'y a qu'un seul hydrogène
+qui est également axial et antipériplanaire au chlorure.
+
+And when we eliminate it, we get the less
+substituted double bond.
+Et quand on l'élimine, on obtient la
+double liaison la moins substituée.
+
+That's the non-Zaitsev product!
+C'est le produit non-Zaitsev !
+
+Super tricky.
+Super délicat.
+
+So a rule can sometimes be broken, and it's
+really important to not take shortcuts when predicting products.
+Ainsi, une règle peut parfois être enfreinte, et il est
+vraiment important de ne pas prendre de raccourcis lors de la prédiction des produits.
+
+With E2 elimination products, we have to check out our Newman projections and chair conformations to make sure a product can actually form.
+Avec les produits d'élimination E2, nous devons vérifier nos projections Newman et nos conformations de chaise pour nous assurer qu'un produit peut réellement se former.
+
+In this episode we learned… a lot!
+Dans cet épisode, nous avons appris… beaucoup de choses !
+
+But specifically that:
+Mais spécifiquement que :
+
+A nucleophile can also be a base
+Un nucléophile peut aussi être une base
+
+The rate-determining step in E1 reactions,
+like SN1, is the formation of a carbocation
+L'étape déterminant la vitesse dans les réactions E1,
+comme SN1, est la formation d'un carbocation Les
+
+E2 reactions, like SN2, are bimolecular, with
+everything happening in one step
+réactions E2, comme SN2, sont bimoléculaires,
+tout se passe en une seule étape
+
+The antiperiplanar transition state is super
+important in E2 reactions,
+L'état de transition antipériplanaire est super
+important dans les réactions E2,
+
+and The position of the double bond can usually
+be predicted with Zaitsev’s rule, but not always!
+et La position de la double liaison peut généralement
+être prédite avec la règle de Zaitsev, mais pas toujours !
+
+In the next episode we’ll look more closely
+at elimination vs. substitution,
+Dans le prochain épisode, nous examinerons de plus près l'
+élimination par rapport à la substitution
+
+and make sense of these competing mechanisms.
+et donnerons un sens à ces mécanismes concurrents.
+
+Until then, thanks for watching this episode
+of Crash Course Organic Chemistry.
+En attendant, merci d'avoir regardé cet épisode
+de Crash Course Organic Chemistry.
+
+If you want to help keep all Crash Course
+free for everybody, forever,
+Si vous voulez aider à garder tous les cours intensifs
+gratuits pour tout le monde, pour toujours,
+
+you can join our community on Patreon.
+vous pouvez rejoindre notre communauté sur Patreon.
+

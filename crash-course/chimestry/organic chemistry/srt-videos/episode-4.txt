@@ -1,0 +1,453 @@
+You can review content from Crash Course Organic Chemistry with the Crash Course app, available now for Android and iOS devices.
+Vous pouvez consulter le contenu de Crash Course Organic Chemistry avec l'application Crash Course, disponible dès maintenant pour les appareils Android et iOS.
+
+Hi!
+Salut! 
+
+I’m Deboki Chakravarti and welcome back
+to Crash Course Organic Chemistry!
+Je m'appelle Deboki Chakravarti et je vous souhaite la bienvenue
+au cours intensif de chimie organique !
+
+Imagine, for a second, that you’ve never
+seen a real life cat.
+Imaginez, une seconde, que vous n'avez jamais
+vu de chat dans la vraie vie.
+
+Not even a picture or a single YouTube video.
+Pas même une photo ou une seule vidéo YouTube.
+
+You’ve only seen simple 2D drawings of them, like a stick figure drawn out by your cousin or a misshapen fuzzy blob.
+Vous n'en avez vu que de simples dessins en 2D, comme un bonhomme allumette dessiné par votre cousin ou une tache floue difforme.
+
+From those drawings, you’d get a sense of an average cat: two ears, some whiskers, four legs, and a tail.
+À partir de ces dessins, vous auriez une idée d'un chat moyen : deux oreilles, quelques moustaches, quatre pattes et une queue.
+
+But without imagining a 3D cat, you wouldn’t have a great idea of how they fit into the world -- including things like their fluffy fur, chonky bellies, or sharp retractable claws.
+Mais sans imaginer un chat en 3D, vous n'auriez pas une bonne idée de la façon dont il s'intègre dans le monde, y compris des choses comme sa fourrure duveteuse, son ventre épais ou ses griffes rétractables acérées.
+
+The organic molecules that make up cats (and everything living on Earth) aren’t the flat, lifeless structures we’ve been drawing, either.
+Les molécules organiques qui composent les chats (et tout ce qui vit sur Terre) ne sont pas non plus les structures plates et sans vie que nous avons dessinées.
+
+From the simplest organic molecule, methane, to the most complex proteins, all of these compounds can be plotted on a 3D cartesian coordinate system with x, y, and z axes.
+De la molécule organique la plus simple, le méthane, aux protéines les plus complexes, tous ces composés peuvent être tracés sur un système de coordonnées cartésiennes 3D avec des axes x, y et z.
+
+By understanding how molecules have 3D shapes, we can better understand how the structure of any molecule affects what it can do.
+En comprenant comment les molécules ont des formes 3D, nous pouvons mieux comprendre comment la structure de toute molécule affecte ce qu'elle peut faire.
+
+Some compounds fit together like puzzle pieces, and other combinations are like trying to force a square peg into a round hole.
+Certains composés s'emboîtent comme des pièces de puzzle, et d'autres combinaisons ressemblent à essayer de forcer une cheville carrée dans un trou rond.
+
+[Theme Music]
+[Thème musical]
+
+If you’re super rusty on VSEPR (and no worries if you are!)
+Si vous êtes super rouillé sur VSEPR (et pas de soucis si vous l'êtes !)
+
+or if you haven’t heard of hybridization or valence bond theory, you may want to watch Crash Course General Chemistry episodes 24 and 25.
+ou si vous n'avez pas entendu parler de l'hybridation ou de la théorie des liaisons de valence, vous voudrez peut-être regarder les épisodes 24 et 25 de Crash Course General Chemistry.
+
+Hank did a really good job explaining those ideas, so I’m just going to do a quick refresher and build from there.
+Hank  a fait un très bon travail en expliquant ces idées, donc je vais juste faire un rappel rapide et construire à partir de là.
+
+Since organic chemistry became a thing, there have been lots of improvements to theories about how atoms interact and form chemical bonds with each other to make molecules.
+Depuis que la chimie organique est devenue une chose, de nombreuses améliorations ont été apportées aux théories sur la façon dont les atomes interagissent et forment des liaisons chimiques les uns avec les autres pour former des molécules.
+
+It’s like the quote “standing on the shoulders of giants.”
+C'est comme la citation "debout sur les épaules de géants".
+
+Each theory explains an observed phenomenon that the previous theory couldn’t quite nail down.
+Chaque théorie explique un phénomène observé que la théorie précédente ne pouvait pas tout à fait cerner.
+
+In 1916, Lewis structures helped us think about how atoms and electrons are arranged in a molecule.
+En 1916, les structures de Lewis nous ont aidés à réfléchir à la façon dont les atomes et les électrons sont disposés dans une molécule.
+
+They’re a powerful tool, which is why we still use them today for simple 2D drawings.
+C'est un outil puissant, c'est pourquoi nous les utilisons encore aujourd'hui pour des dessins 2D simples.
+
+These structures use straight lines to represent covalent bonds and dots for unbonded valence electrons.
+Ces structures utilisent des lignes droites pour représenter les liaisons covalentes et des points pour les électrons de valence non liés.
+
+Valence Shell Electron Pair Repulsion Theory, or VSEPR, was first proposed in 1957 and started to explain the observed 3D shapes of these molecular structures.
+La théorie de la répulsion des paires d'électrons en coquille de Valence, ou VSEPR, a été proposée pour la première fois en 1957 et a commencé à expliquer les formes 3D observées de ces structures moléculaires.
+
+VSEPR is the theory that the 3D shape of a molecule is determined by a central atom’s lone pairs of electrons and the other atoms it’s bonded to.
+VSEPR est la théorie selon laquelle la forme 3D d'une molécule est déterminée par les paires d'électrons isolées d'un atome central et les autres atomes auxquels il est lié.
+
+There are five generally accepted VSEPR electron-pair geometries, which are the 3D shapes that take lone pairs of electrons and bonds into account.
+Il existe cinq géométries de paires d'électrons VSEPR généralement acceptées, qui sont les formes 3D qui prennent en compte les paires isolées d'électrons et de liaisons.
+
+In organic chemistry, we use three of these five geometries: linear, trigonal planar, and tetrahedral.
+En chimie organique, nous utilisons trois de ces cinq géométries : linéaire, trigonale plane et tétraédrique.
+
+On the other hand, there are lots of molecular shapes, which describe how atoms in a molecule relate to each other and pretend that lone pairs are invisible.
+D'autre part, il existe de nombreuses formes moléculaires, qui décrivent comment les atomes d'une molécule sont liés les uns aux autres et prétendent que les paires isolées sont invisibles.
+
+For example, we say that water has a bent molecular shape.
+Par exemple, on dit que l'eau a une forme moléculaire courbée.
+
+In a water molecule, the central oxygen atom has two lone pairs of electrons, and two hydrogens bonded to it.
+Dans une molécule d'eau, l'atome d'oxygène central a deux paires d'électrons isolés et deux hydrogènes liés à celui-ci.
+
+The bond angles and the lone pairs are important-- they lock the molecule into its 3D shape.
+Les angles de liaison et les paires isolées sont importants - ils verrouillent la molécule dans sa forme 3D.
+
+But when we call it bent, that only describes the atoms.
+Mais quand nous l'appelons plié, cela ne décrit que les atomes.
+
+As scientists started to widely accept VSEPR as a way to explain the molecular shapes that they saw experimentally, quantum theory became a thing.
+Alors que les scientifiques commençaient à accepter largement le VSEPR comme moyen d'expliquer les formes moléculaires qu'ils voyaient expérimentalement, la théorie quantique est devenue une chose.
+
+And so did the idea of orbitals, places where we’re most likely to find electrons around atoms.
+Il en va de même pour l'idée des orbitales, des endroits où nous sommes le plus susceptibles de trouver des électrons autour des atomes.
+
+There are four distinct atomic orbital names and shapes: s, p, d, and f.
+Il existe quatre noms et formes d'orbites atomiques distincts : s, p, d et f.
+
+Because of how orbitals are positioned, even orbitals couldn’t completely explain the 3D shapes predicted by VSEPR and observed experimentally.
+En raison de la façon dont les orbitales sont positionnées, même les orbitales ne pourraient pas expliquer complètement les formes 3D prédites par VSEPR et observées expérimentalement.
+
+Something was still missing!
+Il manquait encore quelque chose !
+
+That something was an idea called orbital hybridization.
+Ce quelque chose était une idée appelée hybridation orbitale.
+
+Basically, you can mix one s-orbital with its spherical shape, and one p-orbital with its 3D figure-eight shape to make two hybrid atomic orbitals that sort of look like both.
+Fondamentalement, vous pouvez mélanger une orbitale s avec sa forme sphérique et une orbitale p avec sa forme en huit 3D pour créer deux orbitales atomiques hybrides qui ressemblent aux deux.
+
+Kind of like mixing a donkey and a horse to get a mule.
+Un peu comme mélanger un âne et un cheval pour obtenir une mule.
+
+It’s important to pay attention to the number of atomic orbitals we mix, because that’s how many hybrid orbitals are produced.
+Il est important de faire attention au nombre d'orbitales atomiques que nous mélangeons, car c'est le nombre d'orbitales hybrides produites.
+
+In other words, if we mix one s orbital and one p orbital we get two sp orbitals.
+En d'autres termes, si nous mélangeons une orbitale s et une orbitale p, nous obtenons deux orbitales sp.
+
+If we mix one s orbital and two p orbitals we get three sp2 orbitals.
+Si nous mélangeons une orbitale s et deux orbitales p, nous obtenons trois orbitales sp2.
+
+And if we mix one s orbital and three p orbitals we get four sp3 orbitals.
+Et si nous mélangeons une orbitale s et trois orbitales p, nous obtenons quatre orbitales sp3.
+
+Orbital hybridization helps explain the 3D geometries predicted by VSEPR.
+L'hybridation orbitale aide à expliquer les géométries 3D prédites par VSEPR.
+
+For example, let’s look at the tetrahedral shape of a methane molecule.
+Par exemple, regardons la forme tétraédrique d'une molécule de méthane.
+
+A carbon atom has four valence electrons, which all need to be unpaired to bond.
+Un atome de carbone a quatre électrons de valence, qui doivent tous être non appariés pour se lier.
+
+To make sure they’re all unpaired, it makes four sp3 hybrid orbitals, and we can just imagine sticking one electron in each.
+Pour s'assurer qu'ils ne sont pas tous appariés, cela fait quatre orbitales hybrides sp3, et nous pouvons simplement imaginer coller un électron dans chacune.
+
+Each hydrogen atom has a 1s orbital with one unpaired electron.
+Chaque atome d'hydrogène a une orbitale 1s avec un électron non apparié.
+
+So when these five atoms unite to form methane, each hydrogen’s 1s orbital overlaps with the carbon’s sp3 hybrid orbitals to form chemical bonds, called sigma bonds.
+Ainsi, lorsque ces cinq atomes s'unissent pour former du méthane, l'orbitale 1s de chaque hydrogène chevauche les orbitales hybrides sp3 du carbone pour former des liaisons chimiques, appelées liaisons sigma.
+
+Sigma bonds are sort of like a handshake, made by the direct overlap of two orbitals that point at each other.
+Les liaisons Sigma sont un peu comme une poignée de main, faite par le chevauchement direct de deux orbitales qui pointent l'une vers l'autre.
+
+This idea of overlapping orbitals is the foundation of valence bond theory.
+Cette idée d'orbitales qui se chevauchent est le fondement de la théorie des liaisons de valence.
+
+These bonds give methane a tetrahedral molecular shape, so it’s basically the same as these four balloons, tied together at the base.
+Ces liaisons donnent au méthane une forme moléculaire tétraédrique, donc c'est fondamentalement la même chose que ces quatre ballons, liés ensemble à la base.
+
+These aren’t Hank’s balloons from 7 years ago, but they’re just as good at showing the shape and the science behind it.
+Ce ne sont pas les ballons de Hank d'il y a 7 ans, mais ils sont tout aussi bons pour montrer la forme et la science derrière.
+
+Now, methane is a relatively simple way to think about orbital hybridization and valence bond theory.
+Maintenant, le méthane est une façon relativement simple de penser à l'hybridation orbitale et à la théorie des liaisons de valence.
+
+But we can use these same ideas to explain the 3D shapes of molecules with double and triple bonds too.
+Mais nous pouvons également utiliser ces mêmes idées pour expliquer les formes 3D des molécules à doubles et triples liaisons.
+
+For double bonds, let’s look at ethene.
+Pour les doubles liaisons, regardons l'éthène.
+
+If you’ve been paying attention to all this nomenclature we’ve been doing, that’s C2H4.
+Si vous avez prêté attention à toute cette nomenclature que nous avons faite, c'est C2H4.
+
+The carbon atoms are double-bonded to each other.
+Les atomes de carbone sont doublement liés les uns aux autres.
+
+Here’s the Lewis Structure, which shows that each carbon has three things connected to it.
+Voici la structure de Lewis, qui montre que chaque carbone a trois choses qui lui sont connectées.
+
+So each carbon needs to hybridize three atomic orbitals to make three sp2 hybrid orbitals.
+Ainsi, chaque carbone doit s'hybrider à trois orbitales atomiques pour former trois orbitales hybrides sp2.
+
+Two sp2 orbitals overlap with two hydrogen 1s orbitals.
+Deux orbitales sp2 se chevauchent avec deux orbitales hydrogène 1s.
+
+And one sp2 orbital overlaps with one of the other carbon’s sp2 orbitals.
+Et une orbitale sp2 chevauche l'une des orbitales sp2 de l'autre carbone.
+
+That makes three sigma bonds!
+Cela fait trois obligations sigma!
+
+Because each carbon made three sp2 hybrid orbitals, each carbon still has one p orbital left.
+Parce que chaque carbone a fait trois orbitales hybrides sp2, chaque carbone a encore une orbitale p à gauche.
+
+The leftover p orbitals on the two carbons are close enough to say,
+Les orbitales p restantes sur les deux carbones sont suffisamment proches pour dire :
+
+“Hey! What’s up? If we share our electrons, we can make a bond too!”
+« Hé !  Quoi de neuf?  Si nous partageons nos électrons, nous pouvons aussi créer un lien !"
+
+This is called a pi bond, where the orbitals line up next to each other and sort of overlap sideways.
+C'est ce qu'on appelle une liaison pi, où les orbitales s'alignent les unes à côté des autres et se chevauchent en quelque sorte sur les côtés.
+
+More valence bond theory!
+Plus de théorie des liaisons de valence !
+
+Every double bond we’ll meet in this series has a sigma bond with orbitals that overlap end-to-end, and a pi bond with orbitals that overlap sideways.
+Chaque double liaison que nous rencontrerons dans cette série a une liaison sigma avec des orbitales qui se chevauchent de bout en bout, et une liaison pi avec des orbitales qui se chevauchent latéralement.
+
+This leads to the 3D molecular geometry of ethene: a trigonal planar arrangement around each of the carbon atoms.
+Cela conduit à la géométrie moléculaire 3D de l'éthène : un arrangement planaire trigonal autour de chacun des atomes de carbone.
+
+Now, for triple bonds, let’s take a look at ethyne.
+Maintenant, pour les triples liaisons, regardons l'éthyne.
+
+So we’re all on the same page with names, this one’s C2H2, with the carbon atoms triple-bonded to each other.
+Nous sommes donc tous sur la même page avec des noms, celui-ci est C2H2, avec les atomes de carbone triplement liés les uns aux autres.
+
+In this Lewis Structure, we can see that each carbon has two things connected to it, one hydrogen and the other carbon.
+Dans cette structure de Lewis, nous pouvons voir que chaque carbone a deux éléments qui lui sont connectés, un hydrogène et l'autre carbone.
+
+That’s how we know they’ll combine two atomic orbitals to make two sp hybrid orbitals.
+C'est ainsi que nous savons qu'ils vont combiner deux orbitales atomiques pour créer deux orbitales hybrides sp.
+
+Each carbon has two p orbitals left, which all lean over and share their electrons in two pi bonds!
+Chaque carbone a encore deux orbitales p, qui se penchent toutes et partagent leurs électrons dans deux liaisons pi !
+
+So the triple bonds that we’ll meet in this course will always have one sigma bond and two pi bonds.
+Ainsi, les triples liaisons que nous rencontrerons dans ce cours auront toujours une liaison sigma et deux liaisons pi.
+
+This makes the 3D molecular geometry linear around the carbon atoms.
+Cela rend la géométrie moléculaire 3D linéaire autour des atomes de carbone.
+
+When we draw alkynes, the groups they’re
+bonded to should always be in a straight line, at 180 degree angles.
+Lorsque nous dessinons des alcynes, les groupes auxquels ils sont
+liés doivent toujours être en ligne droite, à des angles de 180 degrés.
+
+So like this.
+Alors comme ça.
+
+NOT this.
+Pas ça. 
+
+Now, organic chemistry is all about carbon, so we’ve been focusing on orbital hybridization and valence bond theory in carbon-containing compounds.
+Maintenant, la chimie organique concerne le carbone, nous nous sommes donc concentrés sur l'hybridation orbitale et la théorie des liaisons de valence dans les composés contenant du carbone.
+
+But other elements have their own electron-pair geometries and hybrid orbitals going on too.
+Mais d'autres éléments ont également leurs propres géométries de paires d'électrons et leurs orbitales hybrides.
+
+For example, oxygen in a water molecule is kind of similar to methane.
+Par exemple, l'oxygène dans une molécule d'eau est un peu similaire au méthane.
+
+In water, the central oxygen atom is sp3 hybridized.
+Dans l'eau, l'atome d'oxygène central est hybride sp3.
+
+It has sigma bonds with two hydrogen atoms and has two lone pairs hanging out.
+Il a des liaisons sigma avec deux atomes d'hydrogène et a deux paires isolées qui traînent.
+
+This gives water a tetrahedral electron-pair geometry and a bent molecular shape, remember?
+Cela donne à l'eau une géométrie de paire d'électrons tétraédrique et une forme moléculaire courbée, vous vous souvenez ?
+
+Oxygen is often sp3 hybridized and forms single bonds in organic compounds like alcohols and ethers too.
+L'oxygène est souvent hybride sp3 et forme également des liaisons simples dans des composés organiques comme les alcools et les éthers.
+
+But it can also be sp2 hybridized and form double bonds as a carbonyl group, which we see in aldehydes, ketones, and carboxylic acids.
+Mais il peut également être hybride sp2 et former des doubles liaisons en tant que groupe carbonyle, que nous voyons dans les aldéhydes, les cétones et les acides carboxyliques.
+
+In fact, carbonyl groups and valence bond theory were super important to figuring out the structure of a little molecule known as DNA.
+En fait, les groupes carbonyle et la théorie des liaisons de valence étaient très importants pour comprendre la structure d'une petite molécule connue sous le nom d'ADN.
+
+You know, just the thing that holds our genetic information and provides the blueprint for our cells to grow and stay alive.
+Vous savez, juste la chose qui contient nos informations génétiques et fournit le plan directeur pour que nos cellules se développent et restent en vie.
+
+To see how, let’s go to the Thought Bubble.
+Pour voir comment, allons dans la bulle de pensée.
+
+Our story begins in 1869, when Swiss physiological chemist Friedrich Miescher isolated a novel substance from the nucleus of a cell.
+Notre histoire commence en 1869, lorsque le chimiste physiologique suisse Friedrich Miescher a isolé une nouvelle substance du noyau d'une cellule.
+
+In 1919, Russian biochemist Phoebus Levene was able to prove that DNA had three main pieces: five-carbon sugars, phosphate groups, and organic ring compounds called nitrogenous bases.
+En 1919, le biochimiste russe Phoebus Levene a pu prouver que l'ADN comportait trois éléments principaux : des sucres à cinq carbones, des groupes phosphate et des composés cycliques organiques appelés bases azotées.
+
+By 1944, we knew that our genetic information was held in DNA molecules, and Austrian biochemist Erwin Chargaff found a relationship in the ratios of the nitrogenous bases: A, T, G, and C.
+En 1944, nous savions que notre information génétique était contenue dans les molécules d'ADN, et le biochimiste autrichien Erwin Chargaff a trouvé une relation dans les rapports des bases azotées : A, T, G et C.
+
+But researchers struggled to figure out the 3D shape of DNA.
+Mais les chercheurs ont eu du mal à comprendre la forme 3D de  ADN.
+
+They worked with the idea that nitrogenous bases needed to be in the center of a double helix and bond with each other.
+Ils ont travaillé avec l'idée que les bases azotées devaient être au centre d'une double hélice et se lier les unes aux autres.
+
+Any bond that formed between the bases had to be strong enough to hold the double helix together, but weak enough that the helix could open up for things like reading the genetic code or copying DNA strands.
+Toute liaison qui se formait entre les bases devait être suffisamment forte pour maintenir la double hélice ensemble, mais suffisamment faible pour que l'hélice puisse s'ouvrir pour des choses comme la lecture du code génétique ou la copie de brins d'ADN.
+
+Some scientists presented evidence that the bonds between bases were hydrogen bonds, a relatively weak intermolecular force.
+Certains scientifiques ont présenté des preuves que les liaisons entre les bases étaient des liaisons hydrogène, une force intermoléculaire relativement faible.
+
+Other scientists, like Rosalind Franklin, made 3D representations that suggested the same.
+D'autres scientifiques, comme Rosalind Franklin, ont fait des représentations 3D qui suggéraient la même chose.
+
+But there was a problem: at that time, the agreed-upon structure for nitrogenous bases meant some oxygen and nitrogen atoms wouldn’t have the correct orbital hybridization and geometry to form hydrogen bonds.
+Mais il y avait un problème : à cette époque, la structure convenue pour les bases azotées signifiait que certains atomes d'oxygène et d'azote n'auraient pas l'hybridation orbitale et la géométrie correctes pour former des liaisons hydrogène.
+
+American crystallographer Jerry Donohue eventually suggested that the textbooks were wrong and proposed a different structure: an oxygen atom that was sp2 hybridized.
+Le cristallographe américain Jerry Donohue a finalement suggéré que les manuels étaient erronés et a proposé une structure différente : un atome d'oxygène hybride sp2.
+
+Instead of an alcohol group, it was a carbonyl group.
+Au lieu d'un groupe alcool, c'était un groupe carbonyle.
+
+With this key structural change, DNA’s nitrogenous bases could hydrogen bond to each other!
+Avec ce changement structurel clé, les bases azotées de l'ADN pourraient se lier les unes aux autres !
+
+After this, the now-famous 1953 report on the structure of DNA was published, helping change the way we thought about genetics.
+Après cela, le désormais célèbre rapport de 1953 sur la structure de l'ADN a été publié, contribuant à changer notre façon de penser la génétique.
+
+Talk about standing on the shoulders of giants.
+Parlez de vous tenir sur les épaules de géants.
+
+Thanks, Thought Bubble!
+Merci, bulle de pensée !
+
+So it’s pretty clear that the bonds of a molecule affect its structure.
+Il est donc assez clair que les liaisons d'une molécule affectent sa structure.
+
+We use the word isomers to describe molecules that have the same molecular formula, but different arrangements of atoms.
+Nous utilisons le mot isomères pour décrire des molécules qui ont la même formule moléculaire, mais des arrangements d'atomes différents.
+
+To help remember this, the word isomer comes from the Greek root isos-, meaning same.
+Pour vous aider à vous en souvenir, le mot isomère vient de la racine grecque isos-, qui signifie même.
+
+From general chemistry we have words like isotope, meaning same number of protons, or isoelectronic, meaning same number of electrons.
+De la chimie générale, nous avons des mots comme isotope, signifiant même nombre de protons, ou isoélectronique, signifiant même nombre d'électrons.
+
+Then, we add the Greek root -mer meaning part.
+Ensuite, nous ajoutons la racine grecque -mer signifiant partie.
+
+It shows up in words like polymer, meaning many parts, and monomer, meaning a single part.
+Il apparaît dans des mots comme polymère, signifiant plusieurs parties, et monomère, signifiant une seule partie.
+
+So the term isomer means the same parts.
+Ainsi, le terme isomère désigne les mêmes parties.
+
+And two major kinds of isomers in organic chemistry are constitutional isomers, which are more common, and geometric isomers.
+Et deux principaux types d'isomères en chimie organique sont les isomères constitutionnels, qui sont plus courants, et les isomères géométriques.
+
+Constitutional isomers, also called structural isomers, are where two molecules have the same number and types of atoms as each other.
+Les isomères constitutionnels, également appelés isomères structuraux, sont ceux où deux molécules ont le même nombre et les mêmes types d'atomes l'une que l'autre.
+
+But the connections between the atoms can be super different, like we just saw with the oxygen atom in DNA.
+Mais les connexions entre les atomes peuvent être très différentes, comme nous venons de le voir avec l'atome d'oxygène dans l'ADN.
+
+Let’s use a more straightforward example, though.
+Prenons cependant un exemple plus simple.
+
+In the first episode of this series, we mentioned octane and iso-octane, two components of gasoline.
+Dans le premier épisode de cette série, nous évoquions l'octane et l'iso-octane, deux composants de l'essence.
+
+They’re constitutional isomers, because they both have 8 carbons and 18 hydrogens.
+Ce sont des isomères constitutionnels, car ils ont tous deux 8 carbones et 18 hydrogènes.
+
+In fact, that’s how iso-octane got its name… past chemists just stuck on the prefix “iso” to mean “same as octane.”
+En fait, c'est ainsi que l'iso-octane a obtenu son nom... les anciens chimistes ont juste collé le préfixe "iso" pour signifier "identique à l'octane".
+
+But their structures are pretty different.
+Mais leurs structures sont assez différentes.
+
+In octane, the carbons are attached in a long chain without any branches, so it checks out as an IUPAC systematic name.
+Dans l'octane, les carbones sont attachés dans une longue chaîne sans aucune ramification, il s'agit donc d'un nom systématique IUPAC.
+
+Iso-octane is branched, though, and if we’re going by IUPAC rules, it isn’t octane at all!
+L'iso-octane est ramifié, cependant, et si nous suivons les règles de l'IUPAC, ce n'est pas du tout de l'octane !
+
+It has 3 carbon-chain substituents and we rule-followers would call it 2,2,4 trimethylpentane.
+Il a 3 substituants de chaîne carbonée et nous, les suiveurs de règles, l'appellerions 2,2,4 triméthylpentane.
+
+On the other hand, geometric isomers have the same number and types of atoms and the same connections between them.
+D'autre part, les isomères géométriques ont le même nombre et les mêmes types d'atomes et les mêmes connexions entre eux.
+
+But these compounds differ in how the bonds are spatially arranged.
+Mais ces composés diffèrent dans la façon dont les liaisons sont disposées dans l'espace.
+
+To sort of visualize this, I can put the tips of my index fingers together and rotate one hand as far as I can.
+Pour en quelque sorte visualiser cela, je peux joindre le bout de mes index et faire pivoter une main aussi loin que possible.
+
+See, I can twist one hand about 180 degrees without breaking contact.
+Vous voyez, je peux tordre une main d'environ 180 degrés sans rompre le contact.
+
+And if my fingers were a single bond and my hand-atoms weren't held back by my arms, I could rotate it a full 360 degrees.
+Et si mes doigts formaient un seul lien et que mes atomes-mains n'étaient pas retenus par mes bras, je pourrais le faire pivoter à 360 degrés.
+
+This is known as free rotation, when atoms can completely rotate around the axis of a bond.
+C'est ce qu'on appelle la rotation libre, lorsque les atomes peuvent tourner complètement autour de l'axe d'une liaison.
+
+The carbons on an ethane molecule can do this!
+Les carbones sur une molécule d'éthane peuvent faire cela !
+
+So ethane doesn’t have any geometric isomers.
+L'éthane n'a donc pas d'isomères géométriques.
+
+However, if I touch two fingertips from each hand, I can’t rotate one hand without breaking a connection.
+Cependant, si je touche deux doigts de chaque main, je ne peux pas faire pivoter une main sans rompre une connexion.
+
+So a double bond between atoms doesn’t have free rotation, and molecules with double bonds can have geometric isomers that are spatially different.
+Ainsi, une double liaison entre les atomes n'a pas de rotation libre et les molécules avec des doubles liaisons peuvent avoir des isomères géométriques spatialement différents.
+
+Take, for example, the simple alkane pent 2-ene.
+Prenons, par exemple, l'alcane simple pent 2-ène.
+
+In one geometric isomer, the ethyl group and the methyl group are on the same side of the double bond, which we use the prefix cis to describe.
+Dans un isomère géométrique, le groupe éthyle et le groupe méthyle sont du même côté de la double liaison, que nous utilisons le préfixe cis pour décrire.
+
+But in the other, these groups are opposite each other, which we use the prefix trans to describe.
+Mais dans l'autre, ces groupes sont opposés, ce que nous utilisons le préfixe trans pour décrire.
+
+For more complex alkenes and to stick with our trusty IUPAC rules, we use the prefixes E and Z.
+Pour les alcènes plus complexes et pour respecter nos fidèles règles IUPAC, nous utilisons les préfixes E et Z.
+
+But don’t worry about that for now, we’ll learn about E and Z nomenclature in another episode.
+Mais ne vous inquiétez pas pour l'instant, nous en apprendrons plus sur la nomenclature E et Z dans un autre épisode.
+
+All this to say, electron orbitals and atomic bonds determine the shape of molecules, which determines what they can do, which determines basically every chemical reaction that keeps us and our universe going.
+Tout cela pour dire que les orbitales des électrons et les liaisons atomiques déterminent la forme des molécules, ce qui détermine ce qu'elles peuvent faire, ce qui détermine essentiellement chaque réaction chimique qui nous maintient, nous et notre univers, en marche.
+
+Even though it can be a little brain-bendy to imagine tiny molecules in 3D like you would a fluffy cat, without them, we wouldn’t exist to pet cats or watch YouTube videos
+Même s'il peut être un peu compliqué d'imaginer de minuscules molécules en 3D comme vous le feriez avec un chat duveteux, sans elles, nous n'existerions pas pour caresser des chats, regarder des vidéos YouTube
+
+or take organic chemistry tests!
+ou passer des tests de chimie organique !
+
+In this episode, we learned that:
+Dans cet épisode, nous avons appris que :
+
+Orbital hybridization and valence bond theory can help us explain 3D molecular structures,
+L'hybridation orbitale et la théorie des liaisons de valence peuvent nous aider à expliquer les structures moléculaires 3D,
+
+Constitutional isomers have the same atoms but different atom-to-atom connections,
+Les isomères constitutionnels ont les mêmes atomes mais des connexions atome à atome différentes,
+
+And geometric isomers have different spatial arrangements.
+Et les isomères géométriques ont des arrangements spatiaux différents.
+
+Next time, we’ll learn some techniques to understand isomers and atom connections even better.
+La prochaine fois, nous apprendrons quelques techniques pour mieux comprendre les isomères et les connexions atomiques.
+
+Thanks for watching this episode of Crash Course Organic Chemistry.
+Merci d'avoir regardé cet épisode de Crash Course Organic Chemistry.
+
+If you want to help keep all Crash Course free for everybody, forever, you can join our community on Patreon.
+Si vous voulez aider à garder tous les cours intensifs gratuits pour tout le monde, pour toujours, vous pouvez rejoindre notre communauté sur Patreon.
+

@@ -1,0 +1,346 @@
+Salut, ici Hank Green ! Bienvenue dans Crash Course Chimie.
+
+La dernière fois, on s'est quitté sur Mendeleïev qui pensait avoir découvert une vérité cosmique et mystique sur le monde,
+
+alors qu'il avait en fait découvert les effets de son pire ennemi : des particules minuscules et invisibles.
+
+Les éléctrons, qui sont si merveilleux et particuliers qu'il a fallu 80 ans après le premier tableau périodique de Mendeleïev
+
+pour que quelqu'un ne les comprenne vraiment, et même aujourd'hui, très, très peu de gens les comprennent.
+
+Mais dans une dizaine de minutes, si tout se passe bien, vous ferez partie de ces gens. Alors c'est parti.
+
+[Musique du générique]
+
+En 1865, avant la publication du premier tableau périodique de Mendeleïev,
+
+un jeune chimiste et activiste, John Newlands, a publié un article sur la périodicité des éléments,
+
+où il compare leur répétition, du moins les deux premiers rangs, à une gamme de musique.
+
+Do ré mi fa sol la si do et tout ça.
+
+Peut-être que, a-t-il théorisé, le lithium est simplement du sodium, mais une octave plus haut.
+
+Peut-être qu'ils sont, d'une certaine façon, la même note.
+
+Il a exposé cette idée à la Royal Academy, le plus prestigieux groupe de scientifiques au monde,
+
+et il lui ont pratiquement ri au rez.
+
+"La musique est un art et la chimie une science.
+
+Décrire la science de façon artistique est peut-être utile pour aider
+
+les bébés ou les femmes à comprendre votre travail, mais ceci n'a pas sa place dans la Royal Academy."
+
+C'est mon imitation.
+
+Mais on ne pouvait pas savoir, bien sûr, que pour ce qui est
+
+de la réalité fonctionnelle et physique de la périodicité des éléments,
+
+John Newlands avait mieux compris que tous les scientifiques qui lui ont ri au nez ce jour là.
+
+Et il n'a jamais su à quel point il avait raison.
+
+Nous avons découvert longtemps après sa mort que ses analogies étaient à peine des analogies,
+
+et que la réalité est un genre de musique.
+
+Et vous avez peut-être envie de me rire au nez maintenant, mais attendez.
+
+Avant la mécanique quantique, les scientifiques voyaient le monde atomique comme un simple monde macroscopique miniature.
+
+Les éléctrons semblaient être des particules en orbite autour d'un noyau.
+
+D'ailleurs, c'est un grand danois...non...l'autre genre de Danois... Niels Bohr, oui.
+
+Comme d'autres gens que je pourrais nommer,
+
+il se sentait parfois dans l'ombre de son grand frère, un joueur de foot olympique, qui avait plus de succès que lui,
+
+alors que Niels écrivait si mal qu'il a dû dicter sa thèse de doctorat à sa mère
+
+Cependant, il était un physicien ingénieux.
+
+Vous vous souvenez, il y a quelques episodes,
+
+quand John Dalton a déterminé que les éléments existent seulement dans de discrets paquets de matière.
+
+Et bien, du temps de Bohr, on savait la même chose de l'énérgie émise par les éléctrons.
+
+Cette énergie n'était émise que dans ce qu'on a appelé "quanta", qui est la racine du terme "mécanique quantique".
+
+En 1913, Niels Bohr a imaginé un modèle simple pour décrire ces niveaux d'énergie
+
+pour un seul électron dans l'hydrogène en supposant des orbites circulaires.
+
+Il y a du vrai dans le fait de penser aux éléctrons en tant que particules.
+
+Cependant, ses tentatives d'appliquer cela à des atomes plus compliqués échouaient lamentablement.
+
+En gros, les éléctrons ne se comportent pas vraiment comme des particules ; ils seraient mieux décrits comme des ondes.
+
+On sait depuis une cinquantaine d'années que ceci n'est pas une bonne façon de visualiser un atome.
+
+Les noyaux peuvent être décrits comme des particules solides, mais pas les éléctrons. Les éléctrons sont des dualités onde-corpuscule.
+
+Je les vois comme des résonances dans l'univers.
+
+Et de la même façon dont une seule corde de guitare peut produire plusieurs notes,
+
+un éléctron peut exister dans plusieurs harmonies différentes.
+
+Ce n'est pas non plus une analogie, les physiciens quantiques parlent vraiment de l'harmonie des éléctrons.
+
+Après des années de recherche,
+
+quelques physiciens très intelligents on commencé à voir les électrons comme des ondes, des ondes stationnaires.
+
+C'est très sensé, même pour des novices comme nous.
+
+Quand on fait vibrer une corde de téléphone sur une ligne droite, il y a un nombre discontinu de nœuds,
+
+qui dépend de la tension et de la fréquence, ou bien, en termes de physique corrects, de "l'énergie" que l'on met dans le système.
+
+C'est ce qui arrive à un électron autour du noyau ;
+
+une onde stationnaire est produite seulement à certains niveaux d'énergie.
+
+Le reste n'est pas autorisé.
+
+Un physicien autrichien, Erwin Schrodinger, que vous connaissez peut-être grâce à son chat,
+
+est le premier à avoir développé une modèle mathématique dans lequel l'éléctron est considéré comme une onde stationnaire.
+
+Il est temps de passer dans le monde de la métaphore
+
+car je vais vous expliquer comment je pense, comment je vois les couches électroniques et les orbitales, pas comment ils sont vraiment.
+
+La musique des éléctrons n'est pas une musique simple. Ce n'est pas une chanson à trois accords ;
+
+c'est comme Beethoven mais avec plus de règles, des règles absolues qui ne peuvent pas être brisées.
+
+Dans ce sens là, au moins, c'est plus de la science que de l'art.
+
+Les électrons sont contenus dans des orbitales comme des notes individuelles sur un piano.
+
+Mais le ton de l'orbitale n'est pas complet avant d'avoir deux électrons, et les orbitales sont contenues dans des couches.
+
+La première couche n'a qu'une seule orbitale, une orbitale s qui ne peut contenir que deux électrons.
+
+C'est pour ça que la première rangée de notre tableau périodique n'a que deux éléments.
+
+Ces deux là jouent une chanson simple sur laquelle chaque élément va ajouter quelque chose.
+
+La deuxième couche électronique est plus grande et peut accueillir plus que l'orbitale s.
+
+Une deuxième sorte d'orbitale avec trois configurations différentes s'y ajoute, l'orbitale p.
+
+Au lieu d'être un ton simple, l'orbitale p est comme une harmonie en 3 parties avec 2 électrons
+
+dans chaque partie, pour un total de 6.
+
+Ces 6 électrons de l'orbitale p ajoutés aux 2 électrons s sont les six électrons de la règle de l'octet :
+
+le désir des éléments légers d'avoir 8 électrons dans leur couche externe, comme une gamme de musique.
+
+On en parle souvent en employant le terme satiété, comme si les atomes dévoraient les électrons.
+
+Mais je préfère voir une configuration électronique incomplète comme une symphonie cacophonique
+
+qui joue des notes différentes sur des tempos différents.
+
+Et plus on se rapproche de l'harmonie, plus ça empire, jusqu'à l'arrivée de la dernière note, la huitième note
+
+qui fait émerger des tons complexes,
+
+et l'atome trouve une harmonie complète, l'harmonie des gaz nobles.
+
+C'est juste ma façon de penser.
+
+Et comme en musique, il faut aussi apprendre un peu de notation.
+
+Il est important de savoir comment écrire ce qu'on appelle "configurations électroniques",
+
+une façon condensée de montrer exactement où sont tous les électrons d'un atome.
+
+D'abord, on écrit le numéro de la couche, puis la lettre de l'orbitale, et enfin le nombre d'électrons dans cette orbitale,
+
+et on répète jusqu'à ce qu'il n'y ait plus d'électrons.
+
+Donc pour l'hydrogène, avec juste un électrons c'est 1s1. Pour le fluor c'est 1s2 2s2 2p5.
+
+Quand on arrive à la troisième rangée, il se passe quelque chose d'intéressant ;
+
+la troisième couche a une troisième sorte d'orbitale, l'harmonie en cinq parties, avec dix électrons, l'orbitale d.
+
+Et vous vous dîtes peut-être, "Il n'y a toujours que huit éléments dans la troisième rangée.
+
+Pourquoi Hank ? Tu m'as menti, je m'en vais !"
+
+Ok, du calme, la symphonie atomique se compose de façon particulière.
+
+Comme il faut beaucoup d'énergie pour construire l'orbitale 3d,
+
+les électrons vont dans l'orbitale s de la quatrième couche, 4s, avant d'aller dans l'orbitale d de la troisième couche.
+
+C'est une tendance qui continue, et pour vous en souvenir, écrivez ceci sur une feuille--
+
+ce sont les orbitales qu'on connaît et toutes les couches dont on connaît l'existence.
+
+Pour savoir comment les remplir, faîtes une ligne en diagonale d'en haut à droite jusqu'en bas à gauche.
+
+Donc on commence par 1s, puis 2s, puis 2p 3s, puis 3p 4s, 3d 4p 5s 4d 5p 6s et ainsi de suite.
+
+Armé de ces connaissances, vous allez pouvoir écrire la configuration électronique de n'importe quel élément du tableau.
+
+Le fer, numéro vingt-six, donne 1s2 2s2 2p6 3s2 3p6 4s2 3d6.
+
+Il y a quelques éléments qui ont des couches électroniques bizarres, mais vous pouvez simplement chercher sur Google.
+
+Une chose intéressante à propos des orbitales d, et des orbitales f encore plus grandes et plus riches en électrons,
+
+est qu'elle n'ont pas besoin d'être remplies autant que les s et les p,
+
+car elles sont littéralement cachées derrière les orbitales s de la couche suivante.
+
+Les orbitales s et p, je les vois un peu comme des trompettes et des violons, ils sont horribles quand ils sont mal joués,
+
+mais les basses, profondes et riches, se cachent un peu sous le reste de l'orchestre,
+
+comme les orbitales d se cachent littéralement sous les orbitales s qui sont déjà pleines.
+
+Oui, ces orbitales incomplètes les affectent,
+
+mais parce qu'elles sont cachées, ces éléments du milieu du tableau sont souvent moins réactifs
+
+et plus susceptibles d'emmener des électrons d'atome en atome, ce qui le rend conductifs,
+
+ou de traîner ensemble dans le grosses masses de métal qui partagent leurs électrons.
+
+Pourquoi les orbitales sont-elles utiles pour comprendre comment un atome va réagir ?
+
+D'abord, parce qu'il est très important de savoir quelle quantité d'énergie il faut pour enlever un électron à
+
+un atome pour en faire un ion chargé positivement.
+
+Cette énergie s'appelle "énergie d'ionisation".
+
+Si plusieurs électrons sont enlevés, c'est un processus en plusieurs étapes,
+
+qui commence avec l'électron ayant le plus haut niveau d'énergie, ou le plus à l'extérieur.
+
+Comme l'électron le plus a l'extérieur a le plus d'énergie, il faut moins d'énergie pour l'enlever.
+
+Il faut plus d'énergie pour enlever le deuxième plus éloigné, et ainsi de suite.
+
+Et bien sûr quand tous les électrons de la couche la plus à l'extérieur sont enlevés,
+
+il faut beaucoup plus d'énergie pour enlever un électrons de la couche suivante
+
+car cette couche sera isoélectriquement similaire à un gaz noble.
+
+Tout comme deux atomes sont isotopiquement identiques quand ils ont le même nombre de protons et de neutrons,
+
+les atomes sont isoélectriquement identiques quand ils ont le même nombre d'électrons.
+
+Et comme il faut de l'énergie pour enlever un électron et former un cation, ou ion chargé positivement,
+
+il faut de l'énergie pour ajouter des électrons,
+
+souvent pour remplir une orbitale et obtenir une configuration stable à deux ou huit électrons.
+
+Comme avec l'énergie d'ionisation, il faut plus d'énergie pour ajouter un électron.
+
+Cette énergie s'appelle "affinité électronique".
+
+Vous êtes prêts à en prendre plein les yeux ? Si vous suivez avec votre tableau périodique,
+
+ce que vous ne faîtes sûrement pas,
+
+vous avez peut-être remarqué quelque chose d'intéressant.
+
+Du côté gauche, on a nos orbitales s -- un, deux, trois, quatre, cins, six, sept s.
+
+Au milieu on a les d : 3d, 4d, 5d, 6d.
+
+Et en haut à droite, 2p, 3p, 4p, 5p, 6p.
+
+Et en bas bien sûr, sur la petite île des lanthanides et des actinides, les orbitales f, 4f et 5f.
+
+Et donc, avec un simple coup d'oeil sur votre tableau périodique, vous pouvez trouver la configuration électronique,
+
+la stabilité élémentaire et la réalité physique fondamentale des éléments.
+
+C'est pour ça que je trouve cette chose si magnifique,
+
+car quand on apprend à la connaître, on voit toutes ces harmonies imparfaites en concurrence,
+
+et les actions et réactions qu'elles entraînent,
+
+qui changent leur chanson en quelque chose de plus stable, puissant et éternel et qui ensemble, constituent tout.
+
+J'ai passé cet épisode à parler des électrons en termes musicaux en tant qu'ondes vibrantes,
+
+en tant qu'harmonies dans la fabrique de l'univers, et c'est comme ça que j'aime y penser,
+
+mais bien sûr, ce n'est pas toute l'histoire.
+
+Et j'en ai assez qu'on me dise que le cerveau humain est incapable d'imaginer la réalité du subatomique.
+
+Alors je vais vous servir un gros tas de réalité, même si ça donne un truc bizarre.
+
+Il y a un certain nombre de champs dans notre univers.
+
+L'un d'eux est le champ électrique.
+
+Pour qu'un électron puisse exister, il doit y avoir une excitation du champ électrique
+
+et on peut décrire ces excitations comme des ondes, comme une vague dans l'océan est l'excitation de l'eau.
+
+À n'importe quel moment, l'électron peut être n'importe où dans la fonction de l'onde.
+
+Mais les ondes ne sont pas définies par des limites sévères, elles sont fortes à certains endroits et faibles à d'autres.
+
+La force de l'onde à un certain point dans l'espace détermine
+
+la probabilité qu'on y trouve un électron à un moment donné si on le mesure.
+
+Alors si on essaie de comprendre la réalité,
+
+on ne devrait pas penser que les électrons tournent autour du noyau de l'atome comme des planètes autour d'une étoile,
+
+mais plutôt qu'ils sont une excitation autour du noyau, et la forme de cette excitation est l'orbitale.
+
+Les orbitales sont la raison qui fait que tout existe.
+
+Elles sont la racine, la clé, le centre, le coeur, la clé de voûte,
+
+et toutes les autres métaphores, non seulement de la chimie, mais de l'existence.
+
+Merci d'avoir regardé cet épisode de Crash Course Chimie. J'espère qu'il vous en a mis plein la vue.
+
+Si vous avez bien écouté, vous connaissez l'histoire d'un pauvre jeune homme qui a été raillé
+
+par un groupe de scientifiques prétentieux parce qu'il en savait plus que quiconque aurait pu imaginer.
+
+Celle d'un grand danois dont le modèle incorrect de l'atome était quand même plutôt génial.
+
+Celle des électrons en tant que musique, et des couches électroniques et oribtales qu'elles contiennent.
+
+Vous savez comment écrire des configurations électroniques, ce que sont l'énergie d'ionisation et l'affinité électronique,
+
+et comment le tableau périodique relie toutes ces réalités entre elles.
+
+Et avec toutes ces connaissances en tête, vous en savez plus que 99,9% du monde sur les électrons.
+
+Cet épisode de Crash Course a été écrit par moi-même,
+
+filmé et réalisé par Michael Aranda, qui est également notre designer sonore, et monté par Nick Jenkins.
+
+Le script a été révisé par by Blake de Pastino et Dr. Heiko Langner.
+
+Katherine Green a supervisé le script et notre équipe graphique est Thought Cafe.
+

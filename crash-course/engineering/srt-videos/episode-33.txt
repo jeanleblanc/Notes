@@ -1,0 +1,707 @@
+Someday in the near future, you might be
+wandering around town at night when out of the
+blue you’ll stumble across a robot.
+Un jour, dans un avenir proche, vous vous promènerez peut-être
+dans la ville la nuit lorsque, à l'
+improviste, vous tomberez sur un robot.
+
+If that happens, maybe you shouldn’t be
+too surprised.
+Si cela se produit, vous ne devriez peut-être pas être
+trop surpris.
+
+Not so long ago, robots were mostly found
+in the realms of science fiction.
+Il n'y a pas si longtemps, les robots se trouvaient principalement
+dans les domaines de la science-fiction.
+
+Today, they’re vacuuming floors, building
+cars, and even roaming the surface of Mars.
+Aujourd'hui, ils passent l'aspirateur sur les sols, construisent des
+voitures et parcourent même la surface de Mars.
+
+Robots are still pretty far from having a human level
+capacity of intelligence, or even dexterity for that matter,
+Les robots sont encore assez loin d'avoir une
+capacité d'intelligence de niveau humain, ou même de dextérité d'ailleurs,
+
+but they’re already a big part of many
+branches of engineering.
+mais ils sont déjà une grande partie de nombreuses
+branches de l'ingénierie.
+
+In the US, over a hundred thousand robots
+have been added to factory floors since 2010.
+Aux États-Unis, plus de cent mille robots
+ont été ajoutés dans les usines depuis 2010.
+
+Knowing what exactly robots are, what they
+can do and how they work is more important
+than you might think.
+Savoir ce que sont exactement les robots, ce qu'ils
+peuvent faire et comment ils fonctionnent est plus important
+que vous ne le pensez.
+
+Because soon, they might be living among us.
+Parce que bientôt, ils pourraient vivre parmi nous.
+
+[Theme Music]
+[Thème musical]
+
+The classic picture of a robot is something
+with human-like intelligence, and maybe even
+a humanoid appearance.
+L'image classique d'un robot est quelque chose
+avec une intelligence humaine, et peut-être même
+une apparence humanoïde.
+
+But like so much else, real-life robots aren’t
+much like what you usually see on TV.
+Mais comme tant d'autres choses, les robots réels ne ressemblent pas
+beaucoup à ce que vous voyez habituellement à la télévision.
+
+Robots come in all shapes and sizes, and
+they can be built very differently depending
+on what they’re used for.
+Les robots sont de toutes formes et de toutes tailles, et
+ils peuvent être construits très différemment
+selon leur utilisation.
+
+For example, some of the robots used in mining
+are made from a camera, mounted on a small 
+chassis with wheels.
+Par exemple, certains des robots utilisés dans les mines
+sont fabriqués à partir d'une caméra, montée sur un petit
+châssis avec des roues.
+
+That allows them to enter and inspect mine
+shafts, and even retrieve leftover material from
+places it’s hard to get people in and out of.
+Cela leur permet d'entrer et d'inspecter les
+puits de mine, et même de récupérer les restes de matériaux dans des
+endroits difficiles à faire entrer et sortir.
+
+Meanwhile, in medicine, specialized robotic
+arms, with a bit of human assistance, can perform
+precise surgeries through the tiniest incisions.
+Pendant ce temps, en médecine, des bras robotiques spécialisés
+, avec un peu d'assistance humaine, peuvent effectuer des
+chirurgies précises à travers les plus petites incisions.
+
+There’s also a difference between robotics
+and artificial intelligence, or AI, which
+people sometimes confuse.
+Il y a aussi une différence entre la robotique
+et l'intelligence artificielle, ou IA, que les
+gens confondent parfois.
+
+While some of the concepts are similar,
+robotics deals with a specific set of ideas,
+although it does borrow a few from AI.
+Bien que certains concepts soient similaires, la
+robotique traite d'un ensemble spécifique d'idées,
+bien qu'elle en emprunte quelques-unes à l'IA.
+
+AI deals broadly with the goal of automating
+decision-making for complex tasks – the kind
+you can’t write a simple set of rules for.
+L'IA traite largement de l'objectif d'automatisation de la
+prise de décision pour des tâches complexes - le genre
+pour lequel vous ne pouvez pas écrire un simple ensemble de règles.
+
+That could be everything from playing chess
+to driving cars.
+Cela pourrait être tout, de jouer aux échecs
+à conduire des voitures.
+
+Right now, AI systems tend to have very narrow
+goals.
+À l'heure actuelle, les systèmes d'IA ont tendance à avoir des objectifs très étroits
+.
+
+But the holy grail of AI is to develop a system
+that can make intelligent decisions about any sort
+of task using different sources of information.
+Mais le Saint Graal de l'IA est de développer un
+système capable de prendre des décisions intelligentes sur n'importe quel type
+de tâche en utilisant différentes sources d'informations.
+
+Our focus will be on robots, which are designed
+for more specific purposes in the physical world.
+Nous nous concentrerons sur les robots, qui sont conçus
+à des fins plus spécifiques dans le monde physique.
+
+In engineering terms, a robot is a machine
+designed to interact with its environment, make an
+appropriate decision based on those surroundings,
+En termes d'ingénierie, un robot est une machine
+conçue pour interagir avec son environnement, prendre une
+décision appropriée en fonction de cet environnement,
+
+and then carry out the jobs related to its
+goal, all automatically.
+puis effectuer les tâches liées à son
+objectif, le tout automatiquement.
+
+Which means a true robot doesn’t require
+a human controlling exactly what it does.
+Ce qui signifie qu'un vrai robot n'a pas besoin
+qu'un humain contrôle exactement ce qu'il fait.
+
+In general, the field of robotics also deals
+with machines that do all of the same things,
+En général, le domaine de la robotique traite également
+des machines qui font toutes les mêmes choses,
+
+but might require a human operator to carry
+out some tasks.
+mais qui peuvent nécessiter un opérateur humain pour
+effectuer certaines tâches.
+
+Whether fully automatic or not, virtually
+all robots have a few features in common.
+Qu'ils soient entièrement automatiques ou non, pratiquement
+tous les robots ont quelques caractéristiques en commun.
+
+First, robots are machines made from
+materials that occupy physical space, so they’re
+more than just lines of computer code.
+Premièrement, les robots sont des machines fabriquées à partir de
+matériaux qui occupent un espace physique, ce sont donc
+plus que de simples lignes de code informatique.
+
+That’s one of the key features that distinguishes
+them from an AI, although computer engineering
+is important for robots as well.
+C'est l'une des principales caractéristiques qui les
+distingue d'une IA, bien que l'ingénierie informatique
+soit également importante pour les robots.
+
+Second, most robots have some way of sensing
+features of their environment, usually by measuring
+light, sound, or force feedback.
+Deuxièmement, la plupart des robots ont un moyen de détecter les
+caractéristiques de leur environnement, généralement en mesurant la
+lumière, le son ou le retour de force.
+
+They can then use that information to make
+a decision about what to do next, depending
+on what they’re designed for.
+Ils peuvent ensuite utiliser ces informations pour prendre
+une décision sur ce qu'il faut faire ensuite, en fonction
+de ce pour quoi ils sont conçus.
+
+The tasks robots are built for tend to be
+complex, requiring a sequence of different
+motions.
+Les tâches pour lesquelles les robots sont construits ont tendance à être
+complexes, nécessitant une séquence de
+mouvements différents.
+
+So an automatic door that opens or shuts in
+response to whether you stand in front of a
+sensor wouldn’t be considered a robot.
+Ainsi, une porte automatique qui s'ouvre ou se ferme
+lorsque vous vous tenez devant un
+capteur ne serait pas considérée comme un robot.
+
+The tasks that robots handle are more
+sophisticated, like welding two intricately-shaped
+pieces of metal together.
+Les tâches que les robots gèrent sont plus
+sophistiquées, comme souder ensemble deux
+pièces de métal aux formes complexes.
+
+Third, to interpret the signals they receive from their environment and coordinate some sort of response, robots have computers built somewhere into their design.
+Troisièmement, pour interpréter les signaux qu'ils reçoivent de leur environnement et coordonner une sorte de réponse, les robots ont des ordinateurs intégrés quelque part dans leur conception.
+
+These work just like any computer, taking
+inputs and delivering outputs.
+Ceux-ci fonctionnent comme n'importe quel ordinateur, prenant des
+entrées et fournissant des sorties.
+
+But unlike most ordinary software, the software on
+a robot’s computer generates electrical signals that
+are directly passed on to the robot’s hardware,
+Mais contrairement à la plupart des logiciels ordinaires, le logiciel de l'ordinateur d'
+un robot génère des signaux électriques qui
+sont directement transmis au matériel du robot,
+
+instead of just changing information in a
+file or on a screen.
+au lieu de simplement modifier les informations dans un
+fichier ou sur un écran.
+
+That also requires a power source.
+Cela nécessite également une source d'alimentation.
+
+One option is to physically hook up to the
+power grid using wires and a socket.
+Une option consiste à se connecter physiquement au
+réseau électrique à l'aide de fils et d'une prise.
+
+For example, the 2013 version of the Atlas robot developed by robotics company Boston Dynamics had a humanoid design that could walk and carry objects, much like humans do.
+Par exemple, la version 2013 du robot Atlas développé par la société de robotique Boston Dynamics avait une conception humanoïde qui pouvait marcher et transporter des objets, un peu comme le font les humains.
+
+To operate, Atlas relied on a cable that tethered
+it to a power supply.
+Pour fonctionner, Atlas s'appuyait sur un câble qui le
+reliait à une alimentation électrique.
+
+But tethering robots like this limits how
+far they can move and interferes with the
+robot’s mobility.
+Mais les robots attachés comme celui-ci limitent
+leur distance de déplacement et interfèrent avec la
+mobilité du robot.
+
+So to let Atlas move around more freely,
+engineers installed a battery on the robot’s
+structure so it could power itself.
+Ainsi, pour permettre à Atlas de se déplacer plus librement, les
+ingénieurs ont installé une batterie sur la structure du robot
+afin qu'il puisse s'auto-alimenter.
+
+Unfortunately the materials of a battery tend
+to be rather heavy, which posed its own challenges.
+Malheureusement, les matériaux d'une batterie ont tendance
+à être plutôt lourds, ce qui a posé ses propres défis.
+
+If we don’t want robots like these toppling
+over all the time,
+Si nous ne voulons pas que des robots comme ceux-ci se
+renversent tout le temps,
+
+it takes a bit of mechanical engineering knowhow
+to work out where to position the battery with respect
+to the robot’s center of mass.
+il faut un peu de savoir-faire en génie mécanique
+pour déterminer où positionner la batterie par rapport
+au centre de masse du robot.
+
+You might need some chemical engineering in
+the design of the battery, too.
+Vous pourriez également avoir besoin d'un peu d'ingénierie chimique dans
+la conception de la batterie.
+
+In the case of Atlas, engineers gave it a
+hydraulic pump in its torso to help it support
+the extra weight of its lithium-ion battery.
+Dans le cas d'Atlas, les ingénieurs lui ont donné une
+pompe hydraulique dans son torse pour l'aider à supporter
+le poids supplémentaire de sa batterie lithium-ion.
+
+And now, only a few years later, it can do
+backflips and parkour.
+Et maintenant, seulement quelques années plus tard, il peut faire des
+backflips et du parkour.
+
+More generally, some electrical engineering
+also has to go into wiring the signals from the
+computer program to the robot’s physical parts.
+Plus généralement, une partie de l'ingénierie électrique
+doit également passer par le câblage des signaux du
+programme informatique vers les parties physiques du robot.
+
+Which brings us to another common feature
+of robots:
+Ce qui nous amène à une autre caractéristique commune
+des robots :
+
+they have mechanical parts, like grips or
+wheels, for carrying out whatever physical
+tasks they need to in their environments.
+ils ont des pièces mécaniques, comme des poignées ou des
+roues, pour effectuer toutes les tâches physiques dont
+ils ont besoin dans leur environnement.
+
+That might be turning a lever, picking up
+an object, or just moving somewhere else.
+Il peut s'agir de tourner un levier, de ramasser
+un objet ou simplement de se déplacer ailleurs.
+
+And there are some unique challenges to designing
+those parts.
+Et la conception de ces pièces présente des défis uniques
+.
+
+Consider a robot designed to pick fruit from
+trees.
+Considérez un robot conçu pour cueillir des fruits sur des
+arbres.
+
+From an engineering perspective, it needs
+some fundamental qualities:
+D'un point de vue technique, il a besoin de
+certaines qualités fondamentales :
+
+the ability to recognize fruits and distinguish
+them from the rest of the plant,
+la capacité de reconnaître les fruits et de les
+distinguer du reste de la plante, de
+
+navigate its environment to move toward fruits
+that need picking,
+naviguer dans son environnement pour se déplacer vers les fruits
+qui doivent être cueillis,
+
+and then to pick them and put them into a
+container.
+puis de les cueillir et de les mettre dans un
+récipient.
+
+Let’s start with how it moves – a fairly
+basic requirement for lots of robots.
+Commençons par la façon dont il se déplace - une
+exigence assez basique pour de nombreux robots.
+
+Like with that mining robot, you could simply put
+some standard axles with wheels on the bottom of
+your robot and attach them to a motor, like on a car.
+Comme avec ce robot minier, vous pouvez simplement mettre
+des essieux standard avec des roues au bas de
+votre robot et les attacher à un moteur, comme sur une voiture.
+
+That would be fine if the robot was going to
+be operating mostly on smooth, even surfaces,
+like roads or factory floors.
+Ce serait bien si le robot
+devait fonctionner principalement sur des surfaces lisses et uniformes,
+comme des routes ou des sols d'usine.
+
+But most fruits are grown outdoors, sometimes
+in rough terrain and difficult environments.
+Mais la plupart des fruits sont cultivés à l'extérieur, parfois
+sur des terrains accidentés et des environnements difficiles.
+
+So you might need to design adjustable wheels
+that change height independently, or add treads
+to overcome small bumps, like on a tank.
+Vous devrez donc peut-être concevoir des roues réglables
+qui changent de hauteur indépendamment, ou ajouter des bandes
+de roulement pour surmonter les petites bosses, comme sur un réservoir.
+
+The problem with wheels is that they’re
+not very good at overcoming large obstacles.
+Le problème avec les roues, c'est qu'elles ne sont
+pas très douées pour franchir les gros obstacles.
+
+If there’s a fallen branch or a boulder
+blocking the way, the robot needs to be able
+to climb over it.
+S'il y a une branche tombée ou un rocher qui
+bloque le chemin, le robot doit
+pouvoir grimper dessus.
+
+Giving the robot legs could allow it to jump,
+but that has its own problems: robots with
+legs tend to fall down...a lot.
+Donner des jambes au robot pourrait lui permettre de sauter,
+mais cela a ses propres problèmes : les robots avec des
+jambes ont tendance à tomber... beaucoup.
+
+As the team at Boston Dynamics found when
+designing Atlas,
+Comme l'a découvert l'équipe de Boston Dynamics lors de la
+conception d'Atlas,
+
+programming a robot’s computer to interpret its
+environment while handling the dynamics of all
+those mechanical parts is trickier than it seems!
+programmer l'ordinateur d'un robot pour interpréter son
+environnement tout en gérant la dynamique de toutes
+ces pièces mécaniques est plus délicat qu'il n'y paraît !
+
+It really makes you appreciate what a good
+job your brain is doing.
+Cela vous fait vraiment apprécier le bon
+travail de votre cerveau.
+
+Of course, to actually make sense of its environment
+and find fruit, the robot will need sensors
+Bien sûr, pour donner un sens à son environnement
+et trouver des fruits, le robot aura besoin de capteurs
+
+– devices that measure physical characteristics
+and translate them into a signal.
+- des appareils qui mesurent les caractéristiques physiques
+et les traduisent en un signal.
+
+To find apples, for example, the robot might
+have an array of light-sensitive semiconductors,
+Pour trouver des pommes, par exemple, le robot peut
+disposer d'un réseau de semi-conducteurs sensibles à la lumière,
+
+like the kind that make up the light-capturing
+pixels in a digital camera, to scan an orchard.
+comme ceux qui composent les pixels de capture de lumière
+dans un appareil photo numérique, pour scanner un verger.
+
+But the information sent by the camera sensor is
+interpreted by the computer as an array of colored
+pixels that don’t mean an awful lot on their own.
+Mais les informations envoyées par le capteur de l'appareil photo sont
+interprétées par l'ordinateur comme un tableau de
+pixels colorés qui ne signifient pas grand-chose en eux-mêmes.
+
+The average person, can take one glance at
+a curvy shape of reddish pixels and instantly
+recognize it as an apple.
+La personne moyenne peut jeter un coup d'œil sur
+une forme sinueuse de pixels rougeâtres et la
+reconnaître instantanément comme une pomme.
+
+For a computer, that requires a fairly sophisticated
+visual algorithm.
+Pour un ordinateur, cela nécessite un
+algorithme visuel assez sophistiqué.
+
+What’s more, people are good at seeing where the edges
+|of objects are, and interpreting the relationships they
+have to their environment and how far away they are.
+De plus, les gens sont doués pour voir où se trouvent les
+bords des objets et interpréter les relations qu'ils
+entretiennent avec leur environnement et à quelle distance ils se trouvent.
+
+You know an apple that looks very small is
+most likely one that’s far away.
+Vous savez, une pomme qui a l'air très petite est
+très probablement une pomme qui est loin.
+
+But even a relatively smart computer that
+can recognize apples
+Mais même un ordinateur relativement intelligent qui
+peut reconnaître les pommes
+
+might not know whether it’s a tiny apple only
+a few centimeters away or an enormous apple
+a few kilometers away.
+peut ne pas savoir s'il s'agit d'une petite pomme à
+quelques centimètres seulement ou d'une énorme
+pomme à quelques kilomètres.
+
+Which would affect whether the computer’s
+programming tells it to pick the apple or not.
+Ce qui affecterait si la programmation de l'ordinateur lui
+dit de cueillir la pomme ou non.
+
+All of these issues are what are known as
+computer vision problems.
+Tous ces problèmes sont connus sous le nom de
+problèmes de vision par ordinateur.
+
+Computer vision deals with how to train software
+to take the input data from images or video,
+La vision par ordinateur traite de la façon de former un logiciel
+pour prendre les données d'entrée des images ou des vidéos,
+
+like the kind that are delivered from digital
+cameras, and interpret it the way a human would.
+comme celles qui sont fournies par les appareils
+photo numériques, et les interpréter comme le ferait un humain.
+
+Even once it’s found an apple and moved
+itself close to it, the fruit picker is going to
+need mechanical parts to actually pick fruit.
+Même une fois qu'il a trouvé une pomme et s'en est
+rapproché, le cueilleur de fruits aura
+besoin de pièces mécaniques pour cueillir les fruits.
+
+The main mechanical parts used by most industrial
+robots are called actuators and effectors.
+Les principales pièces mécaniques utilisées par la plupart des
+robots industriels sont appelées actionneurs et effecteurs.
+
+Actuators are like a robot’s muscles.
+Les actionneurs sont comme les muscles d'un robot.
+
+They convert stored energy into movement.
+Ils convertissent l'énergie stockée en mouvement.
+
+One popular type are electrical actuators, electrical
+motors that turn wheels or gears to rotate the robot’s
+connected parts with respect to one another.
+Un type populaire est celui des actionneurs électriques, des
+moteurs électriques qui font tourner des roues ou des engrenages pour faire tourner les pièces connectées du robot les
+unes par rapport aux autres.
+
+These are the sorts of mechanisms that
+would extend the robot’s arms toward or away
+from a particular branch.
+Ce sont les types de mécanismes qui
+étendraient les bras du robot vers ou loin
+d'une branche particulière.
+
+Linear actuators can achieve this by using a
+motor to extend the part up and down a thread,
+like a nut on a bolt.
+Les actionneurs linéaires peuvent y parvenir en utilisant un
+moteur pour étendre la pièce de haut en bas d'un filetage,
+comme un écrou sur un boulon.
+
+They can also use compressed fluids, like air or oil, to
+extend a part outwards, then use a motor to compress
+the fluid and bring the parts back when needed.
+Ils peuvent également utiliser des fluides comprimés, comme l'air ou l'huile, pour
+étendre une pièce vers l'extérieur, puis utiliser un moteur pour comprimer
+le fluide et ramener les pièces en cas de besoin.
+
+Effectors, meanwhile are the parts that actually
+have an effect on the robot’s environment –
+basically, the robot’s hands.
+Les effecteurs, quant à eux, sont les parties qui
+ont réellement un effet sur l'environnement du robot -
+essentiellement, les mains du robot.
+
+To deal with the irregular shapes of different fruits,
+you could have what’s called a vacuum grip that
+can suck up large objects and hold them in place.
+Pour faire face aux formes irrégulières de différents fruits,
+vous pourriez avoir ce qu'on appelle une pince à vide qui
+peut aspirer de gros objets et les maintenir en place.
+
+But most of the focus on building robots has
+been on mechanical effectors – the kind that rely
+on tactile feedback and manipulating.
+Mais l'essentiel de l'attention portée à la construction de robots a
+été mis sur les effecteurs mécaniques - ceux qui reposent
+sur la rétroaction tactile et la manipulation.
+
+In other words, they give the robot an artificial
+sense of touch, perhaps with force-sensitive 
+electrodes on the effector’s surface.
+En d'autres termes, ils donnent au robot un
+sens artificiel du toucher, peut-être avec des électrodes sensibles à la force
+sur la surface de l'effecteur.
+
+Having a sense of feedback is important for applying the
+right amount of pressure – otherwise the apple might
+slip out of the robot’s grip or be crushed into a pulp.
+Avoir un retour d'information est important pour appliquer la
+bonne pression - sinon la pomme pourrait
+glisser hors de la prise du robot ou être écrasée en pulpe.
+
+To achieve this, the effector might be a simple
+two-part claw, or something more sophisticated with
+many parts modeled on a human hand.
+Pour y parvenir, l'effecteur peut être une simple
+griffe en deux parties, ou quelque chose de plus sophistiqué avec de
+nombreuses parties modélisées sur une main humaine.
+
+Picking fruit is the kind of job that robots could
+accomplish at scale much more easily than humans,
+freeing them to work on other aspects of farming.
+Cueillir des fruits est le genre de travail que les robots pourraient
+accomplir à grande échelle beaucoup plus facilement que les humains, les
+libérant pour travailler sur d'autres aspects de l'agriculture.
+
+But robotics isn’t just aimed at saving
+labor.
+Mais la robotique ne vise pas seulement à économiser du
+travail.
+
+Robots can also be used in environments that
+are far too dangerous to send humans into.
+Les robots peuvent également être utilisés dans des
+environnements bien trop dangereux pour y envoyer des humains.
+
+Bomb disposal robots – which are actually more like
+drones – are operated by humans to find explosive
+devices and disarm them from a safe distance.
+Les robots de neutralisation des bombes – qui ressemblent davantage à des
+drones – sont exploités par des humains pour trouver des
+engins explosifs et les désarmer à une distance de sécurité.
+
+In the future, fully automated robots might
+find uses in other harsh environments like
+the deep sea and space.
+À l'avenir, les robots entièrement automatisés pourraient
+trouver des utilisations dans d'autres environnements difficiles comme
+la mer profonde et l'espace.
+
+But it’s likely that the place robots will have the
+most impact won’t be in the jobs they do instead
+of humans, but the ones they do alongside them.
+Mais il est probable que l'endroit où les robots auront le
+plus d'impact ne sera pas dans les emplois qu'ils font à la place
+des humains, mais ceux qu'ils font à leurs côtés.
+
+Features of robotics are already making their
+way into healthcare, like in the development
+of prosthetic limbs.
+Les caractéristiques de la robotique font déjà leur
+chemin dans les soins de santé, comme dans le développement
+de membres prothétiques.
+
+But in situations like surgery or disaster
+rescue operations,
+Mais dans des situations telles que la chirurgie ou
+les opérations de sauvetage en cas de catastrophe,
+
+a combination of human smarts and purpose-built
+robotic strength could create safer, more efficient,
+and totally new ways of doing things.
+une combinaison d'intelligence humaine et de force robotique spécialement conçue
+pourrait créer des façons de faire plus sûres, plus efficaces
+et totalement nouvelles.
+
+So like many engineering tools, robots will work
+best when they weave into our existing methods,
+working alongside us to accomplish our goals.
+Ainsi, comme de nombreux outils d'ingénierie, les robots fonctionneront
+mieux lorsqu'ils s'intégreront à nos méthodes existantes,
+travaillant à nos côtés pour atteindre nos objectifs.
+
+Robots might be the future, but it’s a far
+cry from the Terminator.
+Les robots sont peut-être l'avenir, mais c'est
+loin du Terminator.
+
+In this episode we looked at robots and the
+engineering principles of robots.
+Dans cet épisode, nous avons examiné les robots et les
+principes d'ingénierie des robots.
+
+We learned how robots use sensors to interpret
+their environment,
+Nous avons appris comment les robots utilisent des capteurs pour interpréter
+leur environnement,
+
+how actuators and effectors allow a robot to
+manipulate the objects around it to accomplish a task,
+comment les actionneurs et les effecteurs permettent à un robot de
+manipuler les objets qui l'entourent pour accomplir une tâche,
+
+and how computers coordinate the efforts of the two.
+et comment les ordinateurs coordonnent les efforts des deux.
+
+AR Poster available now at DFTBA.com!
+Affiche AR disponible maintenant sur DFTBA.com !
+
+Crash Course Engineering is produced in association
+with PBS Digital Studios, which also produces
+It's Okay To Be Smart,
+Crash Course Engineering est produit en association
+avec PBS Digital Studios, qui produit également
+It's Okay To Be Smart,
+
+a show all about our curious universe and
+the science that makes it possible, hosted
+by Dr. Joe Hanson.
+une émission sur notre univers curieux et
+la science qui le rend possible, animée
+par le Dr Joe Hanson.
+
+Check it out at the link in the description.
+Découvrez-le sur le lien dans la description.
+
+Crash Course is a Complexly production and this
+episode was filmed in the Doctor Cheryl C. Kinney
+Studio with the help of these wonderful people.
+Crash Course est une production de Complexly et cet
+épisode a été filmé dans le studio du docteur Cheryl C. Kinney
+avec l'aide de ces personnes merveilleuses.
+
+And our amazing graphics team is Thought Cafe.
+Et notre incroyable équipe graphique est Thought Cafe.
+

@@ -1,0 +1,617 @@
+The human body is a complex place, and our
+immune systems are powerful allies.
+Le corps humain est un endroit complexe et nos
+systèmes immunitaires sont de puissants alliés.
+
+If you get sick, doctors can often rely on
+strengthening what’s already inside you.
+Si vous tombez malade, les médecins peuvent souvent compter sur le
+renforcement de ce qui est déjà en vous.
+
+But sometimes you need an assist: technology
+that can be put inside the body.
+Mais parfois, vous avez besoin d'une aide : une technologie
+qui peut être placée à l'intérieur du corps.
+
+Things like biodevices.
+Des choses comme les biodispositifs.
+
+[Theme Music]
+[Theme Music]
+
+We’ve all seen a TV show where someone 
+has a heart attack, only to be revived with a
+quick shock to the chest.
+Nous avons tous vu une émission télévisée où quelqu'un
+a une crise cardiaque, pour être réanimé avec un
+choc rapide à la poitrine.
+
+Defibrillators are powerful tools, but by
+the time a patient needs one, they’re already
+in a life-or-death situation.
+Les défibrillateurs sont des outils puissants, mais
+au moment où un patient en a besoin, il est déjà
+dans une situation de vie ou de mort.
+
+What if it never had to get to that point?
+Et s'il ne fallait jamais en arriver là ?
+
+What if there was a way to catch the problem as it
+started and act more quickly than any human could?
+Et s'il y avait un moyen d'attraper le problème dès qu'il a
+commencé et d'agir plus rapidement que n'importe quel humain pourrait le faire ?
+
+This isn’t science fiction:
+Ce n'est pas de la science-fiction : des
+
+millions are walking around right now with exactly
+that inside their chest, an incredible tool called the
+implantable cardioverter-defibrillator, or ICD.
+millions de personnes se promènent en ce moment avec exactement
+cela dans leur poitrine, un outil incroyable appelé le
+défibrillateur automatique implantable, ou ICD.
+
+It continuously monitors a person’s heartbeat and
+delivers an electrical pulse to restore a normal rhythm
+whenever it detects a problem is about to occur.
+Il surveille en permanence le rythme cardiaque d'une personne et
+délivre une impulsion électrique pour rétablir un rythme normal
+chaque fois qu'il détecte qu'un problème est sur le point de se produire.
+
+That’s something a drug, no matter how
+sophisticated, could never do.
+C'est quelque chose qu'une drogue, aussi
+sophistiquée soit-elle, ne pourrait jamais faire.
+
+That’s where medical devices, or biodevices,
+come in.
+C'est là qu'interviennent les dispositifs médicaux, ou
+biodispositifs.
+
+They serve many roles, from rebuilding lost
+bodily functions, to managing diseases and
+helping you live longer.
+Ils remplissent de nombreuses fonctions, de la reconstruction
+des fonctions corporelles perdues à la gestion des maladies et à l'
+aide à vivre plus longtemps.
+
+It’s a broad category, but some of the most
+important are implantable biodevices, like
+ICDs and cochlear implants.
+C'est une vaste catégorie, mais certains des plus
+importants sont les biodispositifs implantables, comme les
+DCI et les implants cochléaires.
+
+A biodevice is implantable if all or part
+of it is put inside the body for an extended
+period of time.
+Un biodispositif est implantable si tout ou partie
+de celui-ci est placé à l'intérieur du corps pendant une
+période prolongée.
+
+They might not be easy to spot, but they’re
+already in widespread use today.
+Ils ne sont peut-être pas faciles à repérer, mais ils sont
+déjà largement utilisés aujourd'hui.
+
+Around 8% of Americans and 5% of people in developed
+countries have used an implantable biodevice of some
+sort – that’s millions and millions of people!
+Environ 8 % des Américains et 5 % des habitants des
+pays développés ont utilisé un biodispositif implantable
+quelconque - c'est-à-dire des millions et des millions de personnes !
+
+Before they could become so common, engineers
+had to overcome numerous challenges.
+Avant qu'ils ne deviennent si courants, les ingénieurs
+ont dû surmonter de nombreux défis.
+
+The body’s a complex place, so many biodevices
+are, too.
+Le corps est un endroit complexe, donc de nombreux biodispositifs le
+sont aussi.
+
+They have to coexist with changing temperatures,
+electrical signals, and chemical reactions in a way that
+doesn’t disrupt our body’s carefully-balanced systems.
+Ils doivent coexister avec les changements de température,
+les signaux électriques et les réactions chimiques d'une manière qui
+ne perturbe pas les systèmes soigneusement équilibrés de notre corps.
+
+So to design a good biodevice, you need to
+acquaint yourself with not only the environment
+of the human body,
+Ainsi, pour concevoir un bon biodispositif, vous devez
+vous familiariser non seulement avec l'environnement
+du corps humain,
+
+but also its functionality, structure, and
+ongoing processes.
+mais également avec sa fonctionnalité, sa structure et
+ses processus en cours.
+
+The design process for these devices is similar
+to anything else you might make as an engineer.
+Le processus de conception de ces appareils est similaire
+à tout ce que vous pourriez faire en tant qu'ingénieur.
+
+You need a design that doesn’t just work,
+but one that can be manufactured in a safe
+and cost-effective way.
+Vous avez besoin d'une conception qui ne se contente pas de fonctionner,
+mais qui peut être fabriquée de manière sûre
+et rentable.
+
+But the tolerances can be tiny: a needle that’s a
+hair too short might not reach where it needs to go.
+Mais les tolérances peuvent être minuscules : une aiguille
+trop courte d'un cheveu peut ne pas atteindre l'endroit où elle doit aller.
+
+A joint that’s too large could cause a lifetime
+of pain.
+Une articulation trop grosse peut causer toute une vie
+de douleur.
+
+There are a few things you’ll need to pay
+special attention to, the first being biocompatibility.
+Il y a quelques éléments auxquels vous devrez prêter
+une attention particulière, le premier étant la biocompatibilité.
+
+We’ve already talked about biocompatibility in
+a previous episode – it’s the idea that not every
+material is at home in a living thing.
+Nous avons déjà parlé de la biocompatibilité dans
+un épisode précédent - c'est l'idée que tous les
+matériaux ne sont pas chez eux dans un être vivant.
+
+Not only do you need to use biomaterials, it’s important
+to sterilize anything going into the body and you need to
+account for the stresses that process demands.
+Non seulement vous devez utiliser des biomatériaux, mais il est important
+de stériliser tout ce qui entre dans le corps et vous devez tenir
+compte des contraintes que le processus exige.
+
+One technique recommended by the CDC is
+dry heat sterilization, which bakes the device
+at a high heat using moisture-free air.
+Une technique recommandée par le CDC est
+la stérilisation à la chaleur sèche, qui cuit l'appareil
+à haute température en utilisant de l'air sans humidité.
+
+Baking the device at 160°C for around 2 hours
+should do the trick, or you can go to 170°C for
+about an hour if you want to speed things up.
+Cuire l'appareil à 160°C pendant environ 2 heures
+devrait faire l'affaire, ou vous pouvez passer à 170°C pendant
+environ une heure si vous voulez accélérer les choses.
+
+If your biomaterial can’t survive that kind of heat,
+you’ll need to find a different way to get it clean.
+Si votre biomatériau ne peut pas survivre à ce type de chaleur,
+vous devrez trouver un autre moyen de le nettoyer.
+
+Many biodevices contain tiny computers, so you’ll
+need to include a battery to keep it running and maybe
+some wifi to communicate with the outside world.
+De nombreux biodispositifs contiennent de minuscules ordinateurs, vous
+devrez donc inclure une batterie pour le faire fonctionner et peut-être
+du wifi pour communiquer avec le monde extérieur.
+
+Engineers call these things power and connectivity.
+Les ingénieurs appellent ces choses puissance et connectivité.
+
+You don’t want your patients to have to
+lug around big battery packs or always need
+to be hooked up to a cord in the wall.
+Vous ne voulez pas que vos patients aient à
+trimballer de grosses batteries ou qu'ils aient toujours besoin
+d'être branchés à un cordon dans le mur.
+
+If you don’t think about power and connectivity
+during the design process,
+Si vous ne pensez pas à l'alimentation et à la connectivité
+pendant le processus de conception,
+
+it can lead to a device that’s too impractical,
+one that doesn’t work, or one that stops working
+soon after you implant it.
+cela peut conduire à un appareil trop peu pratique
+, qui ne fonctionne pas ou qui cesse de fonctionner
+peu de temps après son implantation.
+
+A great example of this was the first successfully
+implanted electronic pacemaker back in 1958.
+Un bon exemple de cela a été le premier
+stimulateur cardiaque électronique implanté avec succès en 1958. Les
+
+Pacemakers use electrical pulses to help the heart
+beat more regularly, so it was a big step forward for
+patients with abnormal heart rhythms.
+stimulateurs cardiaques utilisent des impulsions électriques pour aider le cœur à
+battre plus régulièrement, c'était donc un grand pas en avant pour les
+patients ayant des rythmes cardiaques anormaux.
+
+However, as revolutionary as this was, the
+first implanted device failed after only three hours,
+Cependant, aussi révolutionnaire que cela ait été, le
+premier dispositif implanté est tombé en panne après seulement trois heures,
+
+in part because of electronics that were too
+bulky and batteries with short, unreliable lives.
+en partie à cause d'une électronique trop
+encombrante et de batteries à durée de vie courte et peu fiables.
+
+Until the advent of more reliable lithium batteries
+in the 1970s, failures like this were inherent in the
+design of implantable biodevices.
+Jusqu'à l'avènement de batteries au lithium plus fiables
+dans les années 1970, de telles défaillances étaient inhérentes à la
+conception de biodispositifs implantables.
+
+Not to mention that all that water in the
+body is pretty bad for electronics, so you
+need appropriate packaging, too.
+Sans oublier que toute cette eau dans le
+corps est assez mauvaise pour l'électronique, vous avez donc également
+besoin d'un emballage approprié.
+
+The device should be airtight and watertight
+– what engineers call hermetically sealed.
+L'appareil doit être étanche à l'air et à l'eau
+- ce que les ingénieurs appellent hermétiquement scellé.
+
+You might be tempted to encase everything in a
+metal like titanium, but metal packages don’t just
+keep out air and water: they also block radio waves.
+Vous pourriez être tenté de tout enfermer dans un
+métal comme le titane, mais les emballages métalliques ne se contentent pas de
+protéger l'air et l'eau : ils bloquent également les ondes radio.
+
+If your metal device needs to communicate with
+the outside world, it will need an external antenna,
+which makes everything more complicated.
+Si votre appareil métallique a besoin de communiquer avec
+le monde extérieur, il aura besoin d'une antenne externe,
+ce qui complique tout.
+
+A better bet might be to use a ceramic or
+glass enclosure like you’d find in a smartphone.
+Un meilleur pari pourrait être d'utiliser un boîtier en céramique ou en
+verre comme vous le trouverez dans un smartphone.
+
+Wireless connectivity helps not only with
+device diagnostics, but also with a patient’s
+peace of mind.
+La connectivité sans fil contribue non seulement
+au diagnostic de l'appareil, mais également à la
+tranquillité d'esprit du patient.
+
+People want to know their implant is working properly
+and it’s far more accessible to have stats on a device
+that patients can take with them,
+Les gens veulent savoir que leur implant fonctionne correctement
+et il est beaucoup plus accessible d'avoir des statistiques sur un appareil
+que les patients peuvent emporter avec eux,
+
+rather than something that can only be
+downloaded by the doctor.
+plutôt que quelque chose qui ne peut être
+téléchargé que par le médecin.
+
+Dropping an external antenna also helps
+make the overall structural design of the
+system smaller and less invasive.
+La suppression d'une antenne externe contribue également à
+rendre la conception structurelle globale du
+système plus petite et moins invasive.
+
+Remember, at the end of the day, whatever
+you design is gonna be placed inside a person.
+N'oubliez pas qu'en fin de compte, tout
+ce que vous concevez sera placé à l'intérieur d'une personne.
+
+The same goes for your delivery system, or
+any medical procedure that you need to do
+to implant the device.
+Il en va de même pour votre système de livraison, ou
+toute procédure médicale que vous devez faire
+pour implanter le dispositif.
+
+Patients are more likely to recover quickly if you
+use the least invasive approach practical.
+Les patients sont plus susceptibles de récupérer rapidement si vous
+utilisez l'approche la moins invasive possible.
+
+If you can build your device small enough using tools
+like nanotechnology, in the future doctors may be able
+to deliver it through a simple injection.
+Si vous pouvez construire votre appareil suffisamment petit en utilisant des outils
+comme la nanotechnologie, à l'avenir, les médecins pourront peut-être l'
+administrer par une simple injection.
+
+Larger implants might be deliverable through
+a tiny slit using laparoscopic surgery, which often
+enables patients to go home the same day.
+Des implants plus grands peuvent être livrables à travers
+une petite fente en utilisant la chirurgie laparoscopique, ce qui
+permet souvent aux patients de rentrer chez eux le même jour.
+
+If your device is too big to go in through a
+small hole, you might run into another problem:
+finding enough space inside the body.
+Si votre appareil est trop grand pour passer par un
+petit trou, vous pourriez rencontrer un autre problème :
+trouver suffisamment d'espace à l'intérieur du corps.
+
+If a spot isn’t big enough to fit the whole
+thing, or it’s simply better for different parts
+of the device to be in different places,
+Si un endroit n'est pas assez grand pour contenir l'ensemble
+, ou s'il est simplement préférable que différentes parties
+de l'appareil soient à différents endroits,
+
+you can design it so that it’s separated
+into multiple components.
+vous pouvez le concevoir de manière à ce qu'il soit séparé
+en plusieurs composants.
+
+Take a cochlear implant, for example.
+Prenez un implant cochléaire, par exemple.
+
+These devices – which can help provide a sense of
+sound to people who are profoundly deaf or severely
+hard-of-hearing – are often made up of two main parts:
+Ces appareils - qui peuvent aider à donner une sensation
+sonore aux personnes profondément sourdes ou gravement
+malentendantes - sont souvent constitués de deux parties principales :
+
+an external portion that fits behind the ear
+and one that is surgically placed under the skin.
+une partie externe qui s'adapte derrière l'oreille
+et une qui est placée chirurgicalement sous l'oreille.  la peau. 
+
+Even if space wasn’t an issue, it’s much better for
+something like a microphone to be on the outside so
+that it can more easily pick up sounds from the environment.
+Même si l'espace n'était pas un problème, il est préférable que
+quelque chose comme un microphone soit à l'extérieur afin
+qu'il puisse capter plus facilement les sons de l'environnement.
+
+Another option might be to remove part of
+an organ to make room for your device.
+Une autre option pourrait être de retirer une partie d'
+un organe pour faire de la place pour votre appareil.
+
+Hip replacements, for instance, replace the
+damaged parts of the joint with titanium.
+Les prothèses de hanche, par exemple, remplacent les
+parties endommagées de l'articulation par du titane.
+
+Once you take all of this into account – from
+biocompatibility to delivery systems –
+Une fois que vous avez pris tout cela en compte - de la
+biocompatibilité aux systèmes de livraison -
+
+you still need to consider device management
+and diagnostics from the day you deliver it, to
+the second it’s removed from the patient.
+vous devez toujours prendre en compte la gestion
+et le diagnostic de l'appareil depuis le jour où vous le livrez jusqu'à
+la seconde où il est retiré du patient.
+
+Basically, you want to keep an eye on your
+device to make sure it’s working correctly.
+Fondamentalement, vous voulez garder un œil sur votre
+appareil pour vous assurer qu'il fonctionne correctement.
+
+This can be rudimentary, like having a patient
+come into the office to physically get their
+implant checked out,
+Cela peut être rudimentaire, comme faire venir un patient
+au bureau pour faire vérifier physiquement son
+implant,
+
+to more modern options, like giving a doctor
+the ability to remotely diagnose any issues.
+à des options plus modernes, comme donner à un médecin
+la possibilité de diagnostiquer à distance tout problème.
+
+But what if you didn’t need an external
+device at all?
+Mais que se passe-t-il si vous n'avez pas du tout besoin d'un
+appareil externe ?
+
+That’s the promise of smart tattoos!
+C'est la promesse des tatouages intelligents !  Les 
+
+Researchers are learning how to put flexible
+electronic sensors into temporary tattoos that would be
+able to withstand all the twists and bends of daily life.
+chercheurs apprennent à mettre des
+capteurs électroniques flexibles dans des tatouages temporaires capab
+es de résister à tous les rebondissements de la vie quotidienne.  Ces 
+
+These sensors – which are thinner than
+the hairs on your head –
+capteurs – qui sont plus fins que
+les cheveux de votre tête –
+
+could monitor the electrical signals
+produced by the body, allowing a patient
+to monitor heart conditions.
+pourraient surveiller les signaux électriques
+produits par le corps, permettant à un patient
+de surveiller les conditions cardiaques.
+
+Or, for those with diabetes, the tattoos could
+measure blood glucose levels in real time.
+Ou, pour les diabétiques, les tatouages pourraient mesur
+r les niveaux de glucose dans le sang en temps réel.  Les 
+
+The results could appear as a changing color,
+right there on the skin!
+résultats pourraient apparaître comme une couleur changeante,
+juste là sur la peau !
+
+Tiny tech like this is just the beginning.
+Une technologie minuscule comme celle-ci n'est que le début.
+
+Devices that use Micro-Electro-Mechanical
+Systems, or MEMS, are the future for active
+implantable drug delivery systems.
+Les dispositifs qui utilisent des systèmes micro-électro-mécaniques
+, ou MEMS, sont l'avenir des
+systèmes implantables actifs d'administration de médicaments.
+
+MEMS enable delivery systems on the micrometer
+scale, which doesn’t just make things more compact,
+Les MEMS permettent des systèmes de livraison à l'échelle du micromètre
+, ce qui non seulement rend les choses plus compactes,
+
+but also allows them to accomplish tasks that
+wouldn’t be possible at the macroscopic level.
+mais leur permet également d'accomplir des tâches qui
+ne seraient pas possibles au niveau macroscopique.
+
+You’ve probably had your blood pressure
+checked by one of those inflatable cuffs that
+they put around your arm.
+Vous avez probablement fait vérifier votre tension artérielle
+par l'un de ces brassards gonflables
+qu'ils ont mis autour de votre bras.
+
+That may work for a simple checkup, but measuring
+someone’s blood pressure in that way isn’t always that
+easy, especially for people in intensive care.
+Cela peut fonctionner pour un simple bilan de santé, mais mesurer
+la pression artérielle de quelqu'un de cette manière n'est pas toujours aussi
+simple, en particulier pour les personnes en soins intensifs.
+
+That’s where MEMS come in!
+C'est là que les MEMS entrent en jeu !
+
+A new MEMS sensor can monitor blood
+pressure directly through the IV line,
+Un nouveau capteur MEMS peut surveiller la
+pression artérielle directement via la ligne IV,
+
+enabling continuous measurement and removing
+the need for daily calibration and sterilization.
+permettant une mesure continue et éliminant
+le besoin d'étalonnage et de stérilisation quotidiens.
+
+And soon, with MEMS, the idea of tiny robots
+inside your body could escape science fiction
+and make its way into real life!
+Et bientôt, avec les MEMS, l'idée de minuscules robots à l'
+intérieur de votre corps pourrait échapper à la science-fiction
+et faire son chemin dans la vraie vie !
+
+One day, they might not only deliver drugs,
+but help repair DNA and even restore sight
+to the blind.
+Un jour, ils pourraient non seulement délivrer des médicaments,
+mais aider à réparer l'ADN et même à rendre la vue
+aux aveugles.
+
+Once you’ve solved all the problems of getting a
+biodevice working well inside someone, there’s just
+one issue left: how do you get it out?
+Une fois que vous avez résolu tous les problèmes de
+bon fonctionnement d'un biodispositif à l'intérieur de quelqu'un, il ne reste plus
+qu'un problème : comment le faire sortir ?
+
+Some patients might need the device for the
+rest of their lives, but for everyone else, it’s usually
+a surgical procedure to take it out.
+Certains patients pourraient avoir besoin de l'appareil pour le
+reste de leur vie, mais pour tous les autres, il s'agit généralement d'
+une intervention chirurgicale pour le retirer.
+
+Well, it’s a surgical procedure for now.
+Eh bien, c'est une intervention chirurgicale pour l'instant.
+
+Researchers are focused on developing metallic
+materials made from elements like magnesium,
+zinc, and iron that are also biodegradable.
+Les chercheurs se concentrent sur le développement de
+matériaux métalliques fabriqués à partir d'éléments comme le magnésium, le
+zinc et le fer qui sont également biodégradables.
+
+These materials could be invaluable in the
+electronics of a temporary biodevice.
+Ces matériaux pourraient être inestimables dans l'
+électronique d'un biodispositif temporaire.
+
+They’d have the same properties of the devices
+made today, but once their job is done, they would
+just disappear into the body.
+Ils auraient les mêmes propriétés que les appareils
+fabriqués aujourd'hui, mais une fois leur travail terminé, ils
+disparaîtraient simplement dans le corps.
+
+With applications like these, the potential
+for biodevices is nearly unlimited.
+Avec des applications comme celles-ci, le potentiel
+des biodispositifs est presque illimité.
+
+But it’s gonna take the work of dedicated
+engineers to continue to bring those ideas to life.
+Mais il faudra le travail d'
+ingénieurs dévoués pour continuer à donner vie à ces idées.
+
+So today we talked about biodevices and the
+part they play in the healthcare world.
+Aujourd'hui, nous avons donc parlé des biodispositifs et du
+rôle qu'ils jouent dans le monde de la santé.
+
+We focused on implantable biodevices and all
+of the challenges that they face,
+Nous nous sommes concentrés sur les biodispositifs implantables et
+tous les défis auxquels ils sont confrontés,
+
+including biocompatibility, power and connectivity,
+packaging, structural design, delivery systems,
+and device management.
+notamment la biocompatibilité, l'alimentation et la connectivité, l'
+emballage, la conception structurelle, les systèmes de livraison
+et la gestion des dispositifs.
+
+Finally, we saw some of the latest research,
+like smart tattoos, and just what the future
+of biodevices might hold.
+Enfin, nous avons vu certaines des dernières recherches,
+comme les tatouages intelligents, et ce que l'avenir des b
+odispositifs pourrait nous rése
+
+I’ll see you next time, when we’ll talk
+about genetic engineering.
+ver.  Je vous verrai la prochaine fois, quand nous parlerons
+de génie génétique.
+
+Crash Course AR Poster
+http://www.dftba.com
+Crash Course AR Poster
+http://www.dftba.com
+
+Crash Course Engineering is produced in association
+with PBS Digital Studios.
+Crash Course Engineering est produit en association
+avec PBS Digital Studios.
+
+Wanna keep learning?
+Voulez-vous continuer à apprendre ?
+
+Check out The Art Assignment where host Sarah Urist Green highlights works, artists, and movements throughout art history, and travels the world exploring local galleries and installations.
+Découvrez The Art Assignment où l'animatrice Sarah Urist Green met en lumière des œuvres, des artistes et des mouvements à travers l'histoire de l'art et parcourt le monde à la découverte de galeries et d'installations locales.
+
+Crash Course is a Complexly production and this
+episode was filmed in the Doctor Cheryl C. Kinney
+Studio with the help of these wonderful people.
+Crash Course est une production de Complexly et cet
+épisode a été filmé dans le studio du docteur Cheryl C. Kinney
+avec l'aide de ces personnes merveilleuses.
+
+And our amazing graphics team is Thought Cafe.
+Et notre incroyable équipe graphique est Thought Cafe.
+

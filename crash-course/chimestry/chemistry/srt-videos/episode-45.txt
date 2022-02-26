@@ -1,0 +1,659 @@
+Charles Darwin was a big fan of billiards.
+He loved his billiard table.
+Charles Darwin était un grand amateur de billard.
+Il adorait son billard.
+
+It was one of his prized possessions and one
+of the most valuable things he owned.
+C'était l'un de ses biens les plus précieux et l'une
+des choses les plus précieuses qu'il possédait.
+
+Well - not the actual table itself. In fact,
+it was the balls that were so valuable.
+Eh bien - pas la table elle-même.  En fait,
+ce sont les balles qui étaient si précieuses.
+
+Pure ivory carved from the tusks of elephants;
+only the wealthiest could afford a full set.
+Ivoire pur taillé dans les défenses d'éléphants ;
+seuls les plus riches pouvaient se permettre un ensemble complet.
+
+Luckily he was married to an heiress.
+Heureusement, il était marié à une héritière.
+
+A full set of 16 billiard balls would require at least one, possibly two, full elephants worth of ivory.
+Un ensemble complet de 16 boules de billard nécessiterait au moins un, voire deux, éléphants pleins d'ivoire.
+
+The idea that any bar in the world might contain
+a billiard table available for anyone to play,
+L'idée que n'importe quel bar dans le monde puisse contenir
+une table de billard accessible à tous,
+
+and not like run out of the bar with your pockets full of valuable ivory would have sounded insane in 1850.
+et non comme sortir du bar avec les poches pleines d'ivoire précieux aurait semblé insensée en 1850.
+
+And the billiard industry was well aware of
+this problem.
+Et l'industrie du billard en était bien consciente.
+problème. 
+
+Billiard balls were getting more expensive,
+elephants were getting more rare.
+Les boules de billard devenaient plus chères, les
+éléphants devenaient plus rares.
+
+It was thus not with an environmental motive, that in 1867 the Phelan and Collender Pool Supply Company
+Ce n'est donc pas avec un motif environnemental qu'en 1867, la Phelan and Collender Pool Supply Company a
+
+offered $10,000 to anyone who could come up with a substitute material that worked as well as ivory,
+offert 10 000 $ à quiconque pourrait trouver un matériau de substitution qui fonctionnait aussi bien que l'ivoire,
+
+but could be produced more quickly and sustainably
+then dead elephants.
+mais qui pourrait être produit plus rapidement et durablement que
+les éléphants morts.
+
+An inventor named John Wesley Hyatt took on
+that challenge.
+Un inventeur nommé John Wesley Hyatt a
+relevé ce défi.
+
+He used nitrocellulose, a flammable solid,
+Il a utilisé de la nitrocellulose, un solide inflammable,
+
+created by mixing cotton with nitric acid
+to create a hard, shiny, white sphere.
+créé en mélangeant du coton avec de l'acide nitrique
+pour créer une sphère blanche dure et brillante.
+
+The properties were extremely similar to ivory
+billiard balls.
+Les propriétés étaient extrêmement similaires à celles
+des boules de billard en ivoire.
+
+The company never gave him the prize.
+L'entreprise ne lui a jamais remis le prix.
+
+But he did patent the technique, using it
+to create billiard balls,
+Mais il a breveté la technique, l'utilisant
+pour créer des boules de billard,
+
+piano keys and even teeth, becoming pretty
+dang wealthy in the process.
+des touches de piano et même des dents, devenant ainsi très
+riche.
+
+Also he pretty much created the industry that made all of the polymer materials that surround you right now,
+De plus, il a pratiquement créé l'industrie qui a fabriqué tous les matériaux polymères qui vous entourent en ce moment,
+
+and that we'll be discussing today in Crash
+Course Chemistry.
+et dont nous parlerons aujourd'hui dans Crash
+Course Chemistry.
+
+Also elephants didn't go extinct, so that's
+a plus.
+De plus, les éléphants n'ont pas disparu, c'est donc
+un avantage.
+
+[Theme Music]
+[Thème musical]
+
+The polymer that John Hyatt worked on was,
+somewhat unsurprisingly, kinda crummy.
+Le polymère sur lequel John Hyatt a travaillé était,
+sans surprise, un peu minable.
+
+It worked well once it was created, but the
+manufacturing process was dangerous
+Il a bien fonctionné une fois créé, mais le
+processus de fabrication était dangereux
+
+because nitrated cellulose can explode in
+a warm breeze.
+car la cellulose nitrée peut exploser dans
+une brise chaude.
+
+So luckily, some replacements started creeping
+in.
+Heureusement, certains remplacements ont commencé à
+s'infiltrer. Des
+
+Replacements with some names you probably
+recognize, like polyvinyl chloride or PVC,
+remplacements avec des noms que vous connaissez
+probablement, comme le chlorure de polyvinyle ou PVC, la
+
+bakelite, polystyrene, polyester, and nylon.
+bakélite, le polystyrène, le polyester et le nylon.
+
+These are all polymers; huge chains or sometimes 3D networks of repeating organic units called monomers.
+Ce sont tous des polymères;  d'énormes chaînes ou parfois des réseaux 3D d'unités organiques répétitives appelées monomères.
+
+Each polymer has a monomer, but they're all
+relatively simple at that basic one unit level.
+Chaque polymère a un monomère, mais ils sont tous
+relativement simples à ce niveau d'unité de base.
+
+The trick is that they bond to each other
+on each side potentially forever,
+L'astuce est qu'ils se lient les uns aux autres
+de chaque côté potentiellement pour toujours,
+
+though in reality the chains are sometimes
+hundreds, sometimes thousands,
+bien qu'en réalité les chaînes soient parfois longues de
+centaines, parfois de milliers,
+
+sometimes hundreds of thousands of units long.
+parfois de centaines de milliers d'unités.
+
+In order to make a polymer all you need is a molecule that can easily bond to another identical molecule at 2 points.
+Pour fabriquer un polymère, il suffit d'une molécule qui peut facilement se lier à une autre molécule identique en 2 points.
+
+And the simplest of those is ethene, also
+known as ethylene.
+Et le plus simple d'entre eux est l'éthène, également
+connu sous le nom d'éthylène.
+
+It's polymer, you'll be unsurprised to hear is polyethylene, which you've probably heard about.
+C'est du polymère, vous ne serez pas surpris d'apprendre qu'il s'agit de polyéthylène, dont vous avez probablement entendu parler.
+
+We'll talk more about the specifics in a second,
+Nous parlerons plus des détails dans une seconde,
+
+but basically because pi bounds in the double
+bond are weaker than sigma bonds
+mais essentiellement parce que les liaisons pi dans la double
+liaison sont plus faibles que les liaisons sigma,
+
+they can be broken and new monomers can be
+added.
+elles peuvent être rompues et de nouveaux monomères peuvent être
+ajoutés.
+
+Just to note to avoid confusion: polyethylene
+has that "-ene" sound in it, right,
+Juste à noter pour éviter toute confusion: le polyéthylène
+a ce son "-ène", d'accord,
+
+but it's not an alkene because all those double
+bonds get broken to form new sigma bonds.
+mais ce n'est pas un alcène car toutes ces doubles
+liaisons se brisent pour former de nouvelles liaisons sigma.
+
+It's a polymerized alkene, but the molecule
+itself is an alkane.
+C'est un alcène polymérisé, mais la molécule
+elle-même est un alcane.
+
+It's confusing so I thought it's worth pointing
+out.
+C'est déroutant donc j'ai pensé que cela valait la peine d'être
+souligné.
+
+Now chemists might want a bunch of different
+things out of their polymers;
+Maintenant, les chimistes pourraient vouloir un tas de
+choses différentes de leurs polymères ;
+
+maybe they want it to be stretchy, maybe strong,
+maybe transparent, maybe recyclable.
+peut-être veulent-ils qu'il soit extensible, peut-être solide,
+peut-être transparent, peut-être recyclable.
+
+Polyethylene is transparent and thermoplastic, meaning it can be melted and reformed. Making it recyclable.
+Le polyéthylène est transparent et thermoplastique, ce qui signifie qu'il peut être fondu et reformé.  Rendre recyclable.
+
+Some other polymers like polyurethane or Bakelite
+are thermoset.
+Certains autres polymères comme le polyuréthane ou la bakélite
+sont thermodurcissables.
+
+Which means that they change chemically during
+some kind of curing process
+Ce qui signifie qu'ils changent chimiquement au cours d'
+une sorte de processus de durcissement
+
+and cannot be melted down and reformed.
+et ne peuvent pas être fondus et reformés.
+
+Polyethylene can actually be converted into
+a thermoset polymer by introducing cross-links,
+Le polyéthylène peut en fait être converti en
+un polymère thermodurcissable en introduisant des réticulations,
+
+basically molecular bridges between those
+polymer chains.
+essentiellement des ponts moléculaires entre ces
+chaînes polymères.
+
+Any plumbers out there probably have heard of cross-linked ethylene or PEX pipe. Which is what this is.
+Tous les plombiers ont probablement entendu parler des tuyaux en éthylène réticulé ou PEX.  C'est ce que c'est.
+
+It's extra, super strong because of those
+cross-links.
+C'est extra, super fort à cause de ces
+liens croisés.
+
+Polyethylene is also nice because it's strength can be varied by changing the size of the molecules.
+Le polyéthylène est également agréable car sa résistance peut être modifiée en modifiant la taille des molécules.
+
+If they are allowed to polymerize until they
+are tens of thousands of monomers long,
+S'ils sont autorisés à polymériser jusqu'à ce qu'ils
+soient longs de dizaines de milliers de monomères,
+
+the plastic they will form will be all knotted up in these ultra long chains and it will be extremely strong.
+le plastique qu'ils formeront sera entièrement noué dans ces chaînes ultra longues et il sera extrêmement résistant.
+
+That's why this HDPE, high density polyethylene,
+is a strong bottle.
+C'est pourquoi ce PEHD, polyéthylène haute densité,
+est une bouteille solide.
+
+Whereas this is much squishier, this is low
+density polyethylene.
+Alors que c'est beaucoup plus spongieux, c'est du
+polyéthylène basse densité.
+
+However those ultra long chains also make it much more viscous when heated and thus more difficult to process.
+Cependant, ces chaînes ultra longues le rendent également beaucoup plus visqueux lorsqu'il est chauffé et donc plus difficile à traiter.
+
+It also loses some of its opacity, and becomes
+more of that milky white color.
+Il perd également une partie de son opacité et devient
+plus de cette couleur blanc laiteux.
+
+Now polyethylene is great.
+It's really great.
+Maintenant, le polyéthylène est génial.
+C'est vraiment super. 
+
+So great that it's the most common plastic in the world.
+Tellement génial que c'est le plastique le plus courant au monde.
+
+We produce over 80 million tons of it per
+year.
+Nous en produisons plus de 80 millions de tonnes par
+an.
+
+But we want a lot out of our plastics - strength,
+color, elasticity, resilience, recyclability -
+Mais nous attendons beaucoup de nos plastiques - résistance,
+couleur, élasticité, résilience, recyclabilité -
+
+we need everything from saran wrap to car
+tires.
+nous avons besoin de tout, du film saran aux
+pneus de voiture.
+
+All of these are traits that chemists work tirelessly to create in the early to middle 20th century
+Tous ces traits sont des traits que les chimistes travaillent sans relâche pour créer du début au milieu du XXe siècle
+
+and continue to work on even today.
+et continuent de travailler encore aujourd'hui.
+
+One of the earliest techniques they used to
+try and bring out new properties
+L'une des premières techniques qu'ils ont utilisées pour
+essayer de faire ressortir de nouvelles propriétés
+
+was to change the substituents on the ethylene
+monomer.
+consistait à changer les substituants sur le
+monomère d'éthylène.
+
+Just, see what would happen.
+Voyez simplement ce qui se passerait.
+
+Like, what if we swapped out one of the hydrogens
+for chlorine?
+Du genre, et si on remplaçait l'un des hydrogènes
+par du chlore ?
+
+Well you get polychloroethene, kinda, that's
+not what we call it.
+Eh bien, vous obtenez du polychloroéthène, en quelque sorte, ce n'est
+pas comme ça que nous l'appelons.
+
+OK, so remember how benzene when attached
+to a chain is a phenyl group,
+OK, alors rappelez-vous comment le benzène, lorsqu'il est attaché
+à une chaîne, est un groupe phényle,
+
+and how those two words have nothing to do
+with each other?
+et comment ces deux mots n'ont rien à voir l'un
+avec l'autre ?
+
+Well the same thing goes for the ethene functional
+group, which is called a vinyl group.
+Eh bien, il en va de même pour le groupe fonctionnel éthène
+, appelé groupe vinyle.
+
+It's an old word, super old, it comes from
+the Greek word for wine.
+C'est un vieux mot, super vieux, ça vient du
+mot grec pour vin.
+
+And that is why chloroethene is more commonly
+called vinyl chloride.
+Et c'est pourquoi le chloroéthène est plus communément
+appelé chlorure de vinyle.
+
+And polychloroethene is more commonly called
+polyvinyl chloride, or PVC.
+Et le polychloroéthène est plus communément appelé
+polychlorure de vinyle, ou PVC.
+
+Which is what this little ducky is made out
+of and also what records are made out of,
+C'est de quoi est fait ce petit canard
+et aussi de quoi sont faits les disques
+
+which is why we call them vinyl.
+, c'est pourquoi nous les appelons vinyle.
+
+Now what happens when we change out a hydrogen
+for a methyl group?
+Maintenant, que se passe-t-il lorsque nous remplaçons un hydrogène
+par un groupe méthyle ?
+
+Well then suddenly this molecule is a propene
+or, if you are using ye old ways, a propylene.
+Eh bien, tout à coup, cette molécule est un propène
+ou, si vous utilisez les anciennes méthodes, un propylène.
+
+And, yes, if you polymerize it, it becomes
+polypropylene.
+Et, oui, si vous le polymérisez, il devient du
+polypropylène.
+
+If one of the hydrogens is replaced with a
+phenyl group,
+Si l'un des hydrogènes est remplacé par un
+groupe phényle,
+
+well that chemical was first derived from trees in the Styrax family, so it's called styrene.
+eh bien, ce produit chimique a d'abord été dérivé d'arbres de la famille Styrax, il s'appelle donc styrène.
+
+Polymerize it, polystyrene.
+Make a foam out of it, Styrofoam.
+Polymérisez-le, polystyrène.
+Faites-en une mousse, du polystyrène.
+
+Now if you change all four of the hydrogens on the base ethylene with fluorine it becomes tetrafluoroethylene.
+Maintenant, si vous changez les quatre hydrogènes de la base éthylène avec du fluor, cela devient du tétrafluoroéthylène.
+
+Polymerize that and instead of hydrogens that
+polymer is bound entirely to fluorines.
+Polymérisez cela et au lieu des hydrogènes, ce
+polymère est entièrement lié aux fluors.
+
+Fluorine as we could guess from its spot on the periodic table, love electrons. It is extremely electronegative.
+Le fluor, comme nous pouvions le deviner d'après sa place dans le tableau périodique, aime les électrons.  Il est extrêmement électronégatif.
+
+But because it holds onto it's electrons so tightly, and is so satisfied in this polymerized chain,
+Mais parce qu'il retient si étroitement ses électrons et qu'il est si satisfait dans cette chaîne polymérisée,
+
+the electrons are unavailable for even minimal
+interactions with any other molecules.
+les électrons ne sont pas disponibles pour des interactions même minimes
+avec d'autres molécules.
+
+I'm not just saying this stuff is super difficult to difficult to react with, or it's really stable.
+Je ne dis pas seulement que ce truc est super difficile à difficile à réagir, ou c'est vraiment stable.
+
+It's more than that the electrons aren't even
+available for the sort of interactions that
+C'est plus que le fait que les électrons ne sont même pas
+disponibles pour le genre d'interactions qui font que les
+
+make things stick to each other, or cause
+friction.
+choses collent les unes aux autres ou provoquent des
+frictions.
+
+Which is why you have heard of polymerized
+tetrafluoroethylene,
+C'est pourquoi vous avez entendu parler du
+tétrafluoroéthylène polymérisé,
+
+because it's super useful, either by its abbreviation,
+PTFE, or by its brand name Teflon.
+car il est super utile, soit par son abréviation,
+PTFE, soit par son nom de marque Teflon.
+
+So how do we actually make these things?
+Alors, comment fabriquons-nous réellement ces choses?
+
+Well, ethene based polymers form through a
+process called addition polymerization.
+Eh bien, les polymères à base d'éthène se forment par un
+processus appelé polymérisation par addition.
+
+The monomers are simply added together and
+no by products are formed.
+Les monomères sont simplement additionnés et
+aucun sous-produit n'est formé.
+
+In order to get the process kicked off you
+have to introduce a free radical.
+Afin d'obtenir le coup d'envoi du processus, vous
+devez introduire un radical libre.
+
+To me, that always sounded like some crazy
+freedom-fighter diving into battle
+Pour moi, cela ressemblait toujours à un
+combattant de la liberté fou plongeant dans la bataille
+
+without much thought for what would come after
+he was consumed in the firefight.
+sans trop penser à ce qui se passerait après
+avoir été consommé dans la fusillade.
+
+And, that's kinda what they are. Free radicals are atoms or ions that have a single unpaired electron.
+Et, c'est un peu ce qu'ils sont.  Les radicaux libres sont des atomes ou des ions qui ont un seul électron non apparié.
+
+This is crazy unstable. It's basically like having half of covalent bond dangling off the atom.
+C'est fou instable.  C'est fondamentalement comme avoir la moitié d'une liaison covalente suspendue à l'atome.
+
+Anywhere this can form a bond, it's going
+to form a bond.
+Partout où cela peut former un lien, cela
+va former un lien.
+
+And, in the case of addition polymerization it attacks the double bond and joins one of the carbons,
+Et, dans le cas de la polymérisation par addition, il attaque la double liaison et rejoint l'un des carbones,
+
+while the other carbon is itself left with
+an unpaired electron.
+tandis que l'autre carbone se retrouve lui-même avec
+un électron non apparié.
+
+The molecule itself is now a newly formed
+free radical,
+La molécule elle-même est maintenant un
+radical libre nouvellement formé,
+
+and it attack another nearby pi bond, joining with another molecule of ethene, forming another radical.
+et elle attaque une autre liaison pi proche, se joignant à une autre molécule d'éthène, formant un autre radical.
+
+This process continues until two radicals
+meet each other
+Ce processus se poursuit jusqu'à ce que deux radicaux
+se rencontrent en
+
+consuming both free radicals without producing
+any more, thus, ending polymerization.
+consommant les deux radicaux libres sans en
+produire plus, mettant ainsi fin à la polymérisation.
+
+There are, of course, other sorts of polymerization,
+as well.
+Il existe, bien sûr, d'autres types de
+polymérisation.
+
+Sometimes a hydroxyl group from one molecule is happy to join up with a hydrogen from another, forming water.
+Parfois, un groupe hydroxyle d'une molécule est heureux de se joindre à un hydrogène d'une autre, formant de l'eau.
+
+The water will break away as a byproduct,
+leaving the two molecules bound together.
+L'eau se détachera en tant que sous-produit,
+laissant les deux molécules liées ensemble.
+
+This often occurs when an amine group, with
+its loosely held hydrogen,
+Cela se produit souvent lorsqu'un groupe amine, avec
+son hydrogène faiblement maintenu,
+
+meets a carboxylic acid, with its loosely
+held -OH group.
+rencontre un acide carboxylique, avec son
+groupe -OH faiblement maintenu.
+
+This is just what happens when hexamethylenediamine meets adipic acid forming another branded polymer, nylon.
+C'est exactement ce qui se passe lorsque l'hexaméthylènediamine rencontre l'acide adipique formant un autre polymère de marque, le nylon.
+
+By dissolving hexamethylenediamine and adipic acid into two different immiscible, or un-mixable, solvents,
+En dissolvant de l'hexaméthylènediamine et de l'acide adipique dans deux solvants différents non miscibles ou non miscibles,
+
+we actually create nylon right here.
+nous créons en fait du nylon ici même.
+
+The nylon forms at the interface between the
+two immiscible liquids.
+Le nylon se forme à l'interface entre les
+deux liquides non miscibles.
+
+And, we can literally grab it and pull it
+out of the vial, twisting and spooling it
+Et, nous pouvons littéralement l'attraper et le
+retirer du flacon, le tordre et l'enrouler
+
+until we get a nice glob of nylon.
+jusqu'à ce que nous obtenions une belle boule de nylon.
+
+This works because hexamethylenediamine has
+an amine group on each end
+Cela fonctionne parce que l'hexaméthylènediamine a
+un groupe amine à chaque extrémité
+
+and adipic acid has a carboxylic acid on both
+ends.
+et l'acide adipique a un acide carboxylique aux deux
+extrémités.
+
+Thus when the two monomer unit, called a dimer,
+is formed,
+Ainsi, lorsque l'unité à deux monomères, appelée dimère,
+est formée,
+
+there is still a carboxylic acid on one end and an amine group on the other, allowing for further polymerization.
+il y a toujours un acide carboxylique à une extrémité et un groupe amine à l'autre, permettant une polymérisation supplémentaire.
+
+These amine acid condensation polymerizations
+also allow for the creation of
+Ces polymérisations par condensation d'acides aminés
+permettent également la création des
+
+possibly the most important polymers on the
+planet;
+polymères probablement les plus importants de la
+planète;
+
+natural polymers being created inside of youvright now out of monomers that we call amino acids.
+des polymères naturels sont créés à l'intérieur de vous en ce moment à partir de monomères que nous appelons des acides aminés.
+
+Did you see that one coming?
+Vous l'avez vu venir celui-là ?
+
+Amino acids polymerize through condensation
+reactions guide by the code in your DNA and
+Les acides aminés polymérisent par des
+réactions de condensation guidées par le code de votre ADN et
+
+some very complicated enzymes to form basically
+you.
+certaines enzymes très compliquées pour vous former
+.
+
+Other important polymers in your body include:
+polysaccharides, which we use to store energy;
+D'autres polymères importants dans votre corps comprennent : les
+polysaccharides, que nous utilisons pour stocker l'énergie ;
+
+and yeah DNA and RNA, which we use to encode
+information for the formation of proteins.
+et oui l'ADN et l'ARN, que nous utilisons pour coder des
+informations pour la formation de protéines.
+
+But that would be back to biology, which is
+a whole other Crash Course.
+Mais ce serait revenir à la biologie, qui est
+un tout autre cours accéléré.
+
+Which to be clear is available if you'd like
+to watch it.
+Ce qui pour être clair est disponible si vous
+souhaitez le regarder.
+
+And thank you for watching this episode of
+Crash Course Chemistry, in it you learned:
+Et merci d'avoir regardé cet épisode de
+Crash Course Chemistry, dans lequel vous avez appris :
+
+That the first commercial polymer ever saved
+the lives of a lot of elephants.
+que le premier polymère commercial a jamais sauvé
+la vie de beaucoup d'éléphants.
+
+That ethene is sometimes called ethylene.
+Cet éthène est parfois appelé éthylène.
+
+And, that a huge variety of polymers is based on the addition reaction of ethene based monomers, including Teflon.
+Et qu'une grande variété de polymères est basée sur la réaction d'addition de monomères à base d'éthène, y compris le téflon.
+
+Which so friction-less because of fluorine's
+extreme electronegativity.
+Qui est si sans frottement en raison de l'
+électronégativité extrême du fluor.
+
+You also learned how addition polymerization
+reactions work.
+Vous avez également appris comment
+fonctionnent les réactions de polymérisation par addition.
+
+And, that other polymers are formed by condensation
+reactions.
+Et que d'autres polymères sont formés par des
+réactions de condensation.
+
+Including the polymerization of amino acids monomers, which along with other polymers like DNA and RNA,
+Y compris la polymérisation des monomères d'acides aminés, qui, avec d'autres polymères comme l'ADN et l'ARN,
+
+and glycogen, make up a lot of the stuff that
+is you.
+et le glycogène, constituent une grande partie de ce
+que vous êtes.
+
+This episode of Crash Course was written by
+me, Hank Green,
+Cet épisode de Crash Course a été écrit par
+moi, Hank Green,
+
+edited by Blake de Pastino, and our chemistry
+consultant was Dr. Heiko Langner.
+édité par Blake de Pastino, et notre
+consultant en chimie était le Dr Heiko Langner.
+
+It was filmed, edited and directed by Nicholas Jenkins. Our script supervisor was Stefan Chin.
+Il a été filmé, monté et réalisé par Nicholas Jenkins.  Notre scénariste était Stefan Chin.
+
+Our sound designer was Michael Aranda. And,
+our graphics team is Thought Café.
+Notre concepteur sonore était Michael Aranda.  Et
+notre équipe graphique est Thought Café.
+

@@ -1,0 +1,631 @@
+If you want to take to the skies or fly to
+Mars, you’re going to need a machine to 
+get you there.
+Si vous voulez vous envoler ou voler vers
+Mars, vous aurez besoin d'une machine
+pour vous y rendre.
+
+Humans dreamed of taking flight for thousands
+of years, but it took special tools, techniques,
+and materials to make it possible.
+Les humains rêvaient de prendre leur envol depuis des milliers
+d'années, mais il a fallu des outils, des techniques
+et des matériaux spéciaux pour le rendre possible.
+
+It took aerospace engineering.
+Il a fallu l'ingénierie aérospatiale.
+
+[Theme Music]
+[Thème musical]
+
+We’ve been able to accomplish some
+remarkable things since machines have given us
+the power of flight.
+Nous avons pu accomplir
+des choses remarquables depuis que les machines nous ont donné
+le pouvoir de voler.
+
+Astronauts visited the Moon in less time than
+it takes to cross the Atlantic by boat,
+Les astronautes ont visité la Lune en moins de temps qu'il
+n'en faut pour traverser l'Atlantique en bateau,
+
+and my direct flight from LA to Missoula takes
+less time than it takes to drive across LA County.
+et mon vol direct de LA à Missoula prend
+moins de temps qu'il n'en faut pour traverser le comté de LA.
+
+We’ve been able to do these things because
+of aerospace engineering, the field dedicated
+to designing and building machines that fly.
+Nous avons pu faire ces choses grâce
+à l'ingénierie aérospatiale, le domaine dédié
+à la conception et à la construction de machines qui volent.
+
+It’s broken down into two main parts: aeronautical
+engineering and astronautical engineering.
+Il se décompose en deux grandes parties : l'
+ingénierie aéronautique et l'ingénierie astronautique.
+
+Aeronautical engineering is focused on making
+aircraft – like gliders, jets, and helicopters
+L'ingénierie aéronautique se concentre sur la fabrication d'
+avions - comme des planeurs, des jets et des hélicoptères
+
+– while astronautical engineering builds
+spacecraft – like probes, satellites, and spaceships.
+- tandis que l'ingénierie astronautique construit des
+engins spatiaux - comme des sondes, des satellites et des vaisseaux spatiaux.
+
+Both disciplines made enormous strides in
+the 20th century thanks in part to the Cold War
+conflict between the US and the Soviet Union.
+Les deux disciplines ont fait d'énormes progrès
+au XXe siècle, en partie grâce au conflit de la guerre froide
+entre les États-Unis et l'Union soviétique.
+
+That rivalry gave us the race to land on the
+Moon, as well as advancements in jet propulsion,
+radar, materials science, and so much more.
+Cette rivalité nous a donné la course pour atterrir sur la
+Lune, ainsi que des progrès dans la propulsion à réaction, le
+radar, la science des matériaux et bien plus encore.
+
+Today nations still compete, but so do private
+companies – and the goal isn’t just getting back
+to the Moon, but making it to Mars.
+Aujourd'hui, les nations sont toujours en concurrence, mais les entreprises privées aussi
+- et l'objectif n'est pas seulement de retourner
+sur la Lune, mais de se rendre sur Mars.
+
+It’s not only a good headline.
+Ce n'est pas seulement un bon titre.
+
+If we’ve learned anything from the Space
+Race, it’s that competition drives innovation.
+Si nous avons appris quelque chose de la Space
+Race, c'est que la concurrence stimule l'innovation.
+
+The rocket company SpaceX plans on sending
+people to Mars as early as 2024 and, to make
+that happen, you need a lot of innovation.
+La société de fusées SpaceX prévoit d'envoyer des
+personnes sur Mars dès 2024 et, pour y
+parvenir, vous avez besoin de beaucoup d'innovation.
+
+But whether you’re sending people across space
+or just flying around in the atmosphere, you’re going
+to need to know some basic flying principles.
+Mais que vous envoyiez des gens dans l'espace
+ou que vous voliez simplement dans l'atmosphère, vous aurez
+besoin de connaître quelques principes de vol de base.
+
+For atmospheric flight, the critical one is
+lift, and the most basic form of lift is buoyancy.
+Pour le vol atmosphérique, le facteur critique est la
+portance, et la forme de portance la plus élémentaire est la flottabilité.
+
+Buoyancy works because the atmosphere has
+what physicists call a pressure gradient,
+La flottabilité fonctionne parce que l'atmosphère a
+ce que les physiciens appellent un gradient de pression,
+
+meaning that air pressure gets a tiny bit
+smaller for every little bit higher you go.
+ce qui signifie que la pression de l'air
+diminue un tout petit peu à chaque fois que vous montez.
+
+The difference in those pressures creates a
+small upward force, which can push an object
+up if it’s light enough – that’s lift!
+La différence de ces pressions crée une
+petite force vers le haut, qui peut pousser un objet
+vers le haut s'il est suffisamment léger - c'est la portance !
+
+The earliest form of flight, hot air balloons,
+uses this principle.
+La première forme de vol, les montgolfières,
+utilise ce principe.
+
+That big ball of hot air is pushed up because
+it’s lighter than the surrounding cooler air, and it
+pulls its passenger along for the ride.
+Cette grosse boule d'air chaud est poussée vers le haut parce
+qu'elle est plus légère que l'air plus frais environnant, et elle
+entraîne son passager pour le trajet.
+
+If you want your balloon to be stationary, what
+engineers might call in equilibrium, then the sum
+of the forces should be equal to zero.
+Si vous voulez que votre ballon soit stationnaire, ce que les
+ingénieurs pourraient appeler en équilibre, alors la somme
+des forces doit être égale à zéro.
+
+That means that the weight of gravity pulling the balloon – and the gas inside – downwards needs to exactly balance out the force of the pressure gradient pushing up.
+Cela signifie que le poids de la gravité tirant le ballon - et le gaz à l'intérieur - vers le bas doit équilibrer exactement la force du gradient de pression qui pousse vers le haut.
+
+But balloons are pretty impractical for most
+applications.
+Mais les ballons sont assez peu pratiques pour la plupart des
+applications.
+
+They’re so dependant on the surrounding environment
+that things like changing weather conditions can make
+it hard to precisely steer or even land in one.
+Ils dépendent tellement de l'environnement environnant
+que des choses comme les conditions météorologiques changeantes peuvent
+rendre difficile le pilotage précis ou même l'atterrissage.
+
+To fly more effectively, you need a propulsion
+system, or something that pushes you forward.
+Pour voler plus efficacement, vous avez besoin d'un
+système de propulsion ou de quelque chose qui vous pousse vers l'avant.
+
+A propulsion system usually consists of a power
+source, and a propulsor, which is something that can
+convert power into forward motion.
+Un système de propulsion se compose généralement d'une
+source d'alimentation et d'un propulseur, qui est quelque chose qui peut
+convertir la puissance en mouvement vers l'avant.
+
+There are three main propulsion systems that
+you’ll use as an aeronautical engineer:
+Il existe trois principaux systèmes de propulsion que
+vous utiliserez en tant qu'ingénieur aéronautique :
+
+a heat engine with fuel, an electric motor
+with batteries, or an electric motor with
+solar cells.
+un moteur thermique à carburant, un moteur électrique
+à batteries ou un moteur électrique à
+cellules solaires.
+
+The goal with any of these systems is to provide
+enough thrust to overcome the drag of the aircraft.
+L'objectif de chacun de ces systèmes est de fournir
+une poussée suffisante pour surmonter la traînée de l'avion.
+
+For commercial airplanes that do a lot of
+consistent travel,
+Pour les avions commerciaux qui effectuent de nombreux
+voyages réguliers,
+
+you’ll want to keep the engine efficiency high
+and fuel usage low so that you’re not burning a
+hole in your wallet.
+vous souhaiterez maintenir l'efficacité du moteur à un niveau élevé
+et une faible consommation de carburant afin de ne pas brûler un
+trou dans votre portefeuille.
+
+For something like a fighter jet, where speed is key, you’ll
+need more thrust to accelerate quickly, which means
+that engine efficiency might go out the window.
+Pour quelque chose comme un avion de chasse, où la vitesse est essentielle, vous aurez
+besoin de plus de poussée pour accélérer rapidement, ce qui signifie
+que l'efficacité du moteur peut passer par la fenêtre.
+
+Most modern planes rely on the jet engine,
+which has five core elements: an inlet, compressor,
+burner, turbine, and nozzle.
+La plupart des avions modernes reposent sur le moteur à réaction,
+qui comporte cinq éléments principaux : une entrée, un compresseur, un
+brûleur, une turbine et une tuyère.
+
+The inlet brings air into the engine, and
+that air is fed to the compressor.
+L'admission amène de l'air dans le moteur et
+cet air est acheminé vers le compresseur.
+
+The compressor then increases the pressure
+of the incoming air before it enters the burner.
+Le compresseur augmente alors la pression
+de l'air entrant avant qu'il n'entre dans le brûleur.
+
+At this stage of the engine, that high-pressure
+air is combined with fuel and burned.
+À ce stade du moteur, cet
+air à haute pression est combiné avec du carburant et brûlé.
+
+This creates hot exhaust gas that’s used
+to turn a turbine, which produces thrust as
+that air is passed through the nozzle.
+Cela crée des gaz d'échappement chauds qui sont utilisés
+pour faire tourner une turbine, qui produit une poussée lorsque
+cet air passe à travers la tuyère.
+
+Finally, the nozzle acts as your propulser,
+pushing the plane forward.
+Enfin, la tuyère agit comme votre propulseur,
+poussant l'avion vers l'avant.
+
+Now, there’s a few important things to consider
+here.
+Maintenant, il y a quelques éléments importants à considérer
+ici.
+
+You need to make sure that you have a sturdy
+inlet that can operate efficiently –
+Vous devez vous assurer que vous disposez d'une
+entrée robuste qui peut fonctionner efficacement -
+
+meaning that it can bring in enough air to the
+compressor – for your aircraft’s entire flight.
+ce qui signifie qu'elle peut apporter suffisamment d'air au
+compresseur - pour l'ensemble du vol de votre avion.
+
+When you’re flying at low speeds, your compressor
+can handle pulling air into the engine itself,
+Lorsque vous volez à basse vitesse, votre compresseur
+peut gérer l'aspiration d'air dans le moteur lui-même,
+
+but at higher speeds, a good inlet design allows you
+to have better maneuverability without disrupting the
+air flow to the compressor.
+mais à des vitesses plus élevées, une bonne conception d'admission vous permet
+d'avoir une meilleure maniabilité sans perturber le
+flux d'air vers le compresseur.
+
+You also need to design your engine with materials
+that can withstand a lot of heat.
+Vous devez également concevoir votre moteur avec des matériaux
+qui peuvent supporter beaucoup de chaleur.
+
+For instance, the blades in your turbine can
+experience temperatures of several hundred
+degrees Celsius.
+Par exemple, les pales de votre turbine peuvent
+subir des températures de plusieurs centaines de
+degrés Celsius.
+
+You need to make them from special metals that
+can withstand that heat, like a nickel-based superalloy,
+or add a system to actively cool the blades.
+Vous devez les fabriquer à partir de métaux
+spéciaux capables de résister à cette chaleur, comme un superalliage à base de nickel,
+ou ajouter un système pour refroidir activement les pales.
+
+If you decide to cool them, you’ll need a hollow design so that you can pump cool air into the blades and out through small holes on their surface to keep everything cool.
+Si vous décidez de les refroidir, vous aurez besoin d'une conception creuse afin que vous puissiez pomper de l'air frais dans les pales et à travers de petits trous sur leur surface pour garder tout au frais.
+
+Put that all together, make sure you have a
+good nozzle to act as a propulser, and you’d
+have yourself a quality propulsion system.
+Mettez tout cela ensemble, assurez-vous d'avoir une
+bonne buse pour agir comme propulseur, et vous
+aurez vous-même un système de propulsion de qualité.
+
+Now, that will get you pretty far here on Earth, but
+think about traveling to space and you’re going to
+have to deal with a whole other slew of challenges.
+Maintenant, cela vous mènera assez loin ici sur Terre, mais
+pensez à voyager dans l'espace et vous
+devrez faire face à toute une série de défis.
+
+And the biggest one is actually you.
+Et le plus gros, c'est en fait toi.
+
+You might think that technological limitations
+are what’s stopping us from traveling the stars –
+and that’s certainly part of it.
+Vous pourriez penser que les limitations technologiques
+sont ce qui nous empêche de parcourir les étoiles -
+et cela en fait certainement partie.
+
+But your greatest obstacle will come from
+the human body’s difficulty in adapting to the
+challenges of deep space.
+Mais votre plus grand obstacle viendra de
+la difficulté du corps humain à s'adapter aux
+défis de l'espace lointain.
+
+Our bodies can’t just flip a switch and
+suddenly adapt, so you’ll need to build ships that
+can mimic an Earth-like environment.
+Nos corps ne peuvent pas simplement appuyer sur un interrupteur et
+s'adapter soudainement, vous devrez donc construire des
+navires capables d'imiter un environnement semblable à celui de la Terre.
+
+Some aspects, like creating a breathable atmosphere,
+are pretty easy.
+Certains aspects, comme la création d'une atmosphère respirante,
+sont assez faciles.
+
+Others, like dealing with weightlessness are
+much harder.
+D'autres, comme faire face à l'apesanteur, sont
+beaucoup plus difficiles.
+
+One thing we don’t yet have is artificial
+gravity.
+Une chose que nous n'avons pas encore, c'est la
+gravité artificielle.
+
+Gravity affects everything from the development
+of your bones and muscles, to how easily your
+heart pumps blood through your body.
+La gravité affecte tout, du développement
+de vos os et de vos muscles à la facilité avec laquelle votre
+cœur pompe le sang dans votre corps.
+
+Without it, astronauts in space experience
+issues like weaker muscles or blurrier vision
+after just a few days
+Sans cela, les astronautes dans l'espace connaissent des
+problèmes tels que des muscles plus faibles ou une vision plus floue
+après seulement quelques jours.
+
+One way to deal with this, at least in theory,
+is to take advantage of the apparent centrifugal
+force and create a spacecraft that spins.
+Une façon de résoudre ce problème, du moins en théorie,
+consiste à tirer parti de la force centrifuge apparente
+et à créer un vaisseau spatial qui tourne.
+
+This could effectively mimic gravity in a
+similar way to how water stays in a rapidly
+spinning bucket.
+Cela pourrait imiter efficacement la gravité de la
+même manière que l'eau reste dans un
+seau qui tourne rapidement.
+
+Space is also full of radiation, which can
+increase the crew’s risk of cancer and even
+hurt the ship.
+L'espace est également plein de radiations, ce qui peut
+augmenter le risque de cancer de l'équipage et même
+blesser le navire.
+
+Long-term exposure to radiation can severely
+damage onboard electronics, causing short-circuits
+and corrupting memory.
+Une exposition à long terme aux radiations peut gravement
+endommager l'électronique embarquée, provoquant des courts-circuits
+et corrompant la mémoire.
+
+So if you don’t want your design to
+get fried in space, you need to build it to
+withstand that radiation.
+Donc, si vous ne voulez pas que votre
+conception soit frite dans l'espace, vous devez la construire pour
+résister à ce rayonnement.
+
+Using insulating materials for computer chips
+instead of the usual silicon will help.
+L'utilisation de matériaux isolants pour les puces informatiques
+au lieu du silicium habituel aidera.
+
+So will designing electronics to have external
+shields made out of things like lead.
+Il en sera de même pour la conception d'électronique avec des
+blindages externes faits de choses comme le plomb.
+
+That’ll make the overall size of your system
+larger, so you have to factor that in too.
+Cela augmentera la taille globale de votre système
+, vous devez donc également en tenir compte.
+
+And that’s just space itself.
+Et ce n'est que l'espace lui-même.
+
+There’s even more to consider once you start
+talking about dealing with the atmospheres
+of other planets.
+Il y a encore plus à considérer une fois que vous commencez à
+parler de la gestion des atmosphères
+d'autres planètes.
+
+Take a look at Mars, and you’ll find an
+atmosphere about 1% as dense as Earth’s,
+Jetez un coup d'œil à Mars et vous découvrirez une
+atmosphère environ 1 % aussi dense que celle de la Terre,
+
+and a temperature that ranges from -125°C in
+the winter to about 20°C in the summer –
+et une température allant de -125 °C
+en hiver à environ 20 °C en été -
+
+all things that your designs need to be
+able to handle if we ever have hopes of
+traveling or even living there.
+toutes les choses dont vos conceptions ont besoin pour  être
+capable de gérer si jamais nous avons l'espoir de
+voyager ou même d'y vivre.
+
+But before you go off and try and colonize
+another planet, it’s good to start of with a
+simpler mission,
+Mais avant de partir et d'essayer de coloniser
+une autre planète, il est bon de commencer par une
+mission plus simple,
+
+like designing a satellite that doesn’t have all the
+problems of needing an astronaut on board.
+comme concevoir un satellite qui n'a pas tous les
+problèmes d'avoir besoin d'un astronaute à bord.
+
+Satellites have three main elements: the payload,
+the bus, and the launcher.
+Les satellites ont trois éléments principaux : la charge utile,
+le bus et le lanceur.
+
+The payload is all the equipment that performs
+the satellite’s main functions, like receiving
+telecommunications or processing and sending data.
+La charge utile est l'ensemble des équipements qui assurent
+les principales fonctions du satellite, comme la réception de
+télécommunications ou le traitement et l'envoi de données.
+
+The bus refers to the systems and structures
+that provide functions like power, protection,
+stability, and orbital control –
+Le bus fait référence aux systèmes et structures
+qui fournissent des fonctions telles que l'alimentation, la protection, la
+stabilité et le contrôle orbital -
+
+which all allow the payload to perform its
+intended mission.
+qui permettent tous à la charge utile d'accomplir sa
+mission prévue.
+
+The launcher, or the launch vehicle adapter
+assembly, is the connection between the bus and
+the rocket that boosts the satellite into orbit.
+Le lanceur, ou l'ensemble adaptateur du véhicule de lancement
+, est la connexion entre le bus et
+la fusée qui propulse le satellite en orbite.
+
+All of these parts need to come together in
+the design of your satellite.
+Toutes ces pièces doivent être réunies dans
+la conception de votre satellite.
+
+And you better make sure all your math is right, because a simple calculation mistake can be devastating, both in terms of human life and in the cost of all your equipment.
+Et vous feriez mieux de vous assurer que tous vos calculs sont corrects, car une simple erreur de calcul peut être dévastatrice, tant en termes de vie humaine que de coût de tout votre équipement.
+
+Back around the turn of the millennium,
+NASA lost a 125 million dollar Mars orbiter just
+because of a mix-up of units.
+Au tournant du millénaire, la
+NASA a perdu un orbiteur martien de 125 millions de dollars simplement à
+cause d'un mélange d'unités.
+
+NASA’s team was using metric units while
+the manufacturer was using English ones,
+L'équipe de la NASA utilisait des unités métriques tandis que
+le fabricant utilisait des unités anglaises,
+
+ultimately throwing off the orbiter’s calculations
+and causing it to burn up in the Martian atmosphere.
+rejetant finalement les calculs de l'orbiteur
+et le faisant brûler dans l'atmosphère martienne.
+
+There’s one last, special kind of spacecraft
+you might need to design, a spacesuit.
+Il y a un dernier type spécial de vaisseau spatial que
+vous devrez peut-être concevoir, une combinaison spatiale.
+
+You see, a spacesuit isn’t just a set
+of clothes that you wear in space – it’s
+basically it’s own human-sized ship!
+Vous voyez, une combinaison spatiale n'est pas seulement un ensemble
+de vêtements que vous portez dans l'espace - c'est
+essentiellement son propre vaisseau à taille humaine !
+
+It protects an astronaut from getting too
+hot or too cold, provides them with oxygen to
+breathe, and can even store drinking water.
+Il protège un astronaute d'avoir trop
+chaud ou trop froid, lui fournit de l'oxygène pour
+respirer et peut même stocker de l'eau potable.
+
+And they have those gold-lined visors that
+shield their eyes from the super bright sunlight
+of space.
+Et ils ont ces visières doublées d'or qui
+protègent leurs yeux de la lumière du soleil super brillante
+de l'espace.
+
+And the suit’s tough exterior provides protection from
+space dust, which can actually be really dangerous when
+it’s moving around faster than a speeding bullet.
+Et l'extérieur robuste de la combinaison offre une protection contre
+la poussière spatiale, qui peut en fait être très dangereuse lorsqu'elle
+se déplace plus rapidement qu'une balle de vitesse.
+
+You can’t beef the suit up too much though,
+because astronauts still need to be able to
+move around effectively.
+Cependant, vous ne pouvez pas trop renforcer la combinaison,
+car les astronautes doivent toujours pouvoir se
+déplacer efficacement.
+
+Conserving energy is also important since
+the food options are a little more...limited
+up there.
+La conservation de l'énergie est également importante car
+les options alimentaires sont un peu plus...
+limitées là-haut.
+
+That’s why engineers are always trying to
+come up with better spacesuit designs, like
+NASA’s Z-2 advanced prototype.
+C'est pourquoi les ingénieurs essaient toujours de
+proposer de meilleures conceptions de combinaisons spatiales, comme
+le prototype avancé Z-2 de la NASA.
+
+The Z-2 uses advanced composites to achieve a lightweight, highly durable suit that could withstand long duration missions in harsh environments, like the one found on Mars.
+Le Z-2 utilise des composites avancés pour obtenir une combinaison légère et très durable qui pourrait résister à des missions de longue durée dans des environnements difficiles, comme celui trouvé sur Mars.
+
+Whether it’s SpaceX, NASA, or someone else,
+whoever plans on getting to Mars will need
+spacesuits like these.
+Que ce soit SpaceX, la NASA ou quelqu'un d'autre,
+quiconque envisage de se rendre sur Mars aura besoin de
+combinaisons spatiales comme celles-ci.
+
+And a good spaceship.
+Et un bon vaisseau spatial.
+
+But with the right engineering practices,
+and a little luck, there’s a good chance that we’ll
+one day be a multiplanetary species.
+Mais avec les bonnes pratiques d'ingénierie
+et un peu de chance, il y a de fortes chances que nous soyons
+un jour une espèce multiplanétaire.
+
+Today we learned all about aerospace engineering
+and its two main fields of aeronautical engineering
+and astronautical engineering.
+Aujourd'hui, nous avons tout appris sur le génie aérospatial
+et ses deux principaux domaines, le génie aéronautique
+et le génie astronautique.
+
+We applied the concepts of lift and buoyancy to
+flying, and found out how a propulsion system is more
+effective than something like a hot air balloon.
+Nous avons appliqué les concepts de portance et de flottabilité au
+vol et découvert comment un système de propulsion est plus
+efficace qu'une montgolfière.
+
+Then we learned how managing the human
+body in space is one of the biggest challenges
+that aerospace engineers face.
+Ensuite, nous avons appris que la gestion du
+corps humain dans l'espace est l'un des plus grands défis
+auxquels sont confrontés les ingénieurs en aérospatiale.
+
+Finally, we learned what goes into making
+a good spacesuit.
+Enfin, nous avons appris comment fabriquer
+une bonne combinaison spatiale.
+
+I’ll see you next time, when we talk all
+about computer engineering.
+Je vous verrai la prochaine fois, quand nous parlerons
+de génie informatique.
+
+Crash Course Engineering is produced in association
+with PBS Digital Studios, which also produces Space Time!
+Crash Course Engineering est produit en association
+avec PBS Digital Studios, qui produit également Space Time!
+
+Explore the outer reaches of space, the depths
+of astrophysics, and anything else you can
+think of beyond Planet Earth.
+Explorez les confins de l'espace, les profondeurs
+de l'astrophysique et tout ce que vous pouvez
+imaginer au-delà de la planète Terre.
+
+Check it out at the link in the description.
+Découvrez-le sur le lien dans la description.
+
+Crash Course is a Complexly production and this
+episode was filmed in the Doctor Cheryl C. Kinney
+Studio with the help of these wonderful people.
+Crash Course est une production de Complexly et cet
+épisode a été filmé dans le studio du docteur Cheryl C. Kinney
+avec l'aide de ces personnes merveilleuses.
+
+And our amazing graphics team is Thought Cafe.
+Et notre incroyable équipe graphique est Thought Cafe.
+

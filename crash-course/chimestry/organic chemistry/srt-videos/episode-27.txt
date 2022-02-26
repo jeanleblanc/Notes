@@ -1,0 +1,699 @@
+You can review content from Crash Course Organic Chemistry with the Crash Course App,
+Vous pouvez consulter le contenu de Crash Course Organic Chemistry avec l'application Crash Course,
+
+available now for Android and iOS devices.
+disponible dès maintenant pour les appareils Android et iOS.
+
+Hi! I’m Deboki Chakravarti and welcome to
+Crash Course Organic Chemistry!
+Salut!  Je suis Deboki Chakravarti et bienvenue au cours intensif de
+chimie organique !
+
+You might know aldehydes and ketones for their
+strong, often sweet, smells.
+Vous connaissez peut-être les aldéhydes et les cétones pour leurs
+odeurs fortes, souvent sucrées.
+
+The ketone acetone, for example, is a common
+ingredient in nail polish remover.
+La cétone acétone, par exemple, est un
+ingrédient courant dans le dissolvant pour vernis à ongles.
+
+And we met the fragrant aldehydes vanillin
+and cinnamaldehyde in Episode 2.
+Et nous avons rencontré les aldéhydes odorants vanilline
+et cinnamaldéhyde dans l'épisode 2.
+
+But these groups are also important in biochemistry
+and drug treatments.
+Mais ces groupes sont également importants dans la biochimie
+et les traitements médicamenteux.
+
+There are ketone groups in sex hormones like
+progesterone and testosterone.
+Il existe des groupes cétoniques dans les hormones sexuelles comme la
+progestérone et la testostérone.
+
+And then there’s cortisone, an anti-inflammatory
+medication, or dexamethasone,
+Et puis il y a la cortisone, un médicament anti-inflammatoire
+, ou la dexaméthasone,
+
+a steroid that’s been used to treat arthritis, severe allergies,
+COVID-19, and sometimes cancer.
+un stéroïde qui a été utilisé pour traiter l'arthrite, les allergies graves, le
+COVID-19 et parfois le cancer.
+
+It's clear that aldehydes and ketones are
+important,
+Il est clair que les aldéhydes et les cétones sont
+importants,
+
+so it's not so surprising that organic chemists spend so much time trying
+to make them in more energy-efficient and non-polluting ways.
+il n'est donc pas si surprenant que les chimistes organiques passent autant de temps à essayer
+de les fabriquer de manière plus économe en énergie et non polluante.
+
+Let's get started...
+Commençons...
+
+[Theme Music]
+[Theme Music]
+
+Quite a bit of this episode is going to summarize
+chemistry we’ve covered before,
+Une grande partie de cet épisode va résumer la
+chimie que nous avons déjà couverte,
+
+but with more detail.
+mais avec plus de détails.
+
+If you’re diving in here – or even if
+it’s just been awhile since you watched them –
+Si vous plongez ici – ou même si
+cela fait un moment que vous ne les avez pas regardés –
+
+you may want to check out some of
+these episodes as a refresher.
+vous voudrez peut-être consulter certains de
+ces épisodes pour vous rafraîchir la mémoire.
+
+We're gonna be dealing with a lot of carbonyls,
+a carbon attached to an oxygen with a double bond, like this:
+Nous allons avoir affaire à beaucoup de carbonyles,
+un carbone attaché à un oxygène avec une double liaison, comme ceci :
+
+The central carbon in this group is called
+the carbonyl carbon.
+le carbone central de ce groupe est
+appelé carbone carbonyle.
+
+When it's at the end of a chain, attached
+to a carbon group and a hydrogen,
+Lorsqu'il est en bout de chaîne, attaché
+à un groupement carboné et à un hydrogène,
+
+we're dealing with an aldehyde.
+on a affaire à un aldéhyde.
+
+Or when the carbonyl carbon is attached to
+two carbon groups, it's a ketone.
+Ou lorsque le carbone carbonyle est attaché à
+deux groupes carbonés, c'est une cétone.
+
+To name an aldehyde, you just take the standard
+name for the carbon chain and pop an “al” (for aldehydes) on the end.
+Pour nommer un aldéhyde, il vous suffit de prendre le
+nom standard de la chaîne carbonée et d'insérer un "al" (pour les aldéhydes) à la fin.
+
+For example, these aldehydes are methanal
+and ethanal.
+Par exemple, ces aldéhydes sont le méthanal
+et l'éthanal.
+
+BUT these substances have been used by chemists
+for ages –
+MAIS ces substances sont utilisées par les chimistes
+depuis des lustres -
+
+in fact, ethanal was first discovered nearly 250 years ago.
+en fait, l'éthanal a été découvert pour la première fois il y a près de 250 ans.
+
+So they have these “old” common names
+that you have to learn if you want to talk the talk!
+Ils ont donc ces "vieux" noms communs
+que vous devez apprendre si vous voulez parler franchement !
+
+Thankfully, many of them are straightforward
+and just end in “aldehyde” –
+Heureusement, beaucoup d'entre eux sont simples
+et se terminent simplement par "aldéhyde" -
+
+like acetaldehyde and formaldehyde.
+comme l'acétaldéhyde et le formaldéhyde.
+
+Other aldehydes go by their IUPAC names.
+D'autres aldéhydes portent leurs noms IUPAC.
+
+For example, (Z)-hex-3-enal smells of freshly
+cut grass and leaves, and is an attractant for lots of insects.
+Par exemple, le (Z)-hex-3-énal sent l'
+herbe et les feuilles fraîchement coupées et attire de nombreux insectes.
+
+And even though 4-oxopentanal has both a ketone
+and an aldehyde,
+Et même si le 4-oxopentanal a à la fois une cétone
+et un aldéhyde,
+
+the aldehyde takes priority in nomenclature and is designated position one.
+l'aldéhyde est prioritaire dans la nomenclature et est désigné en première position.
+
+We count along the carbon chain, and stick
+on the prefix oxo to indicate that the ketone is on carbon 4.
+Nous comptons le long de la chaîne carbonée et collons
+le préfixe oxo pour indiquer que la cétone est sur le carbone 4.
+
+Which brings us to ketones, which all have
+“one” on the end,
+Ce qui nous amène aux cétones, qui ont toutes
+« un » à la fin
+
+so they're relatively easy to spot.
+, elles sont donc relativement faciles à repérer.
+
+Some rely on IUPAC names, which are not as
+fun to say so we'll just put them on screen.
+Certains s'appuient sur des noms IUPAC, qui ne sont pas aussi
+amusants à dire, nous allons donc les mettre à l'écran.
+
+That's video magic!
+C'est la magie de la vidéo !
+
+And others have common names, such as acetone
+and acetophenone.
+Et d'autres ont des noms communs, comme l'acétone
+et l'acétophénone.
+
+Now that we've practiced naming aldehydes and
+ketones, we can get into making them.
+Maintenant que nous nous sommes entraînés à nommer les aldéhydes et les
+cétones, nous pouvons nous lancer dans leur fabrication.
+
+We've actually seen most of these methods
+already, so they'll hopefully sound familiar.
+Nous avons en fait déjà vu la plupart de ces
+méthodes, donc elles vous sembleront, espérons-le, familières.
+
+For example, in episode 24 we learned that
+primary alcohols can be oxidized to form aldehydes.
+Par exemple, dans l'épisode 24, nous avons appris que
+les alcools primaires peuvent être oxydés pour former des aldéhydes.
+
+With a weaker oxidizing agent, such as pyridinium
+chlorochromate,
+Avec un agent oxydant plus faible, tel que le
+chlorochromate de pyridinium,
+
+the reaction stops at the aldehyde.
+la réaction s'arrête à l'aldéhyde.  Cependant, l'
+
+Using strong oxidizing agents like chromic
+acid or even chromate salts is trickier, though.
+utilisation d'agents oxydants puissants comme l'
+acide chromique ou même les sels de chromate est plus délicate.
+
+Even though the reaction goes through an aldehyde
+intermediate, powerful oxidizing agents can produce carboxylic acids.
+Même si la réaction passe par un
+intermédiaire aldéhydique, de puissants agents oxydants peuvent produire des acides carboxyliques.
+
+To get ketones, you can oxidize secondary
+alcohols with strong oxidizing agents like chromium (VI).
+Pour obtenir des cétones, vous pouvez oxyder des
+alcools secondaires avec des agents oxydants puissants comme le chrome (VI).
+
+We don’t need to be so careful picking our
+reactants with secondary alcohols,
+Nous n'avons pas besoin d'être aussi prudents pour choisir nos
+réactifs avec des alcools secondaires,
+
+because they can only oxidize to the ketone.
+car ils ne peuvent s'oxyder qu'en cétone.
+
+These oxidation reactions are often heated.
+Ces réactions d'oxydation sont souvent chauffées.
+
+But if you’ve ever forgotten about boiling
+water on the stove, you may have come back to a pot with little or no liquid left in it.
+Mais si vous avez déjà oublié de faire bouillir de l'
+eau sur la cuisinière, vous êtes peut-être revenu à une casserole avec peu ou pas de liquide.
+
+Just like pasta won’t soften in a waterless
+pot, we can’t let all the liquid solvent evaporate from our reaction.
+Tout comme les pâtes ne ramollissent pas dans une casserole sans eau
+, nous ne pouvons pas laisser tout le solvant liquide s'évaporer de notre réaction.
+
+Most reactions require solvent and the reactants
+can even burn up if we keep heating without solvent.
+La plupart des réactions nécessitent un solvant et les réactifs
+peuvent même brûler si nous continuons à chauffer sans solvant.
+
+This is where a technique called reflux comes
+in,
+C'est là qu'intervient une technique appelée
+reflux,
+
+which involves heating a chemical mixture while cooling any evaporated solvent so that it condenses back into the liquid.
+qui consiste à chauffer un mélange chimique tout en refroidissant tout solvant évaporé afin qu'il se condense à nouveau dans le liquide.
+
+That way, we don't lose anything even after
+heating for a long time!
+De cette façon, nous ne perdons rien même après avoir
+chauffé pendant longtemps !
+
+No forgotten stovetop accidents here.
+Aucun accident de cuisinière oublié ici.
+
+You can remember it like acid reflux,
+Vous pouvez vous en souvenir comme du reflux acide,
+
+that burning sensation when stomach acid bubbles up towards your throat and then rejoins your digestive juices.
+cette sensation de brûlure lorsque l'acide gastrique bouillonne vers votre gorge, puis rejoint vos sucs digestifs.
+
+The thing is, even though chromium (VI) is
+a useful oxidizing agent, it's unpleasant stuff.
+Le fait est que même si le chrome (VI) est
+un agent oxydant utile, c'est une substance désagréable.
+
+Cancer, respiratory problems, kidney disease–you
+name it.
+Cancer, problèmes respiratoires, maladie rénale,
+etc.
+
+So we can use different oxidizing agents to
+make aldehydes and ketones too.
+Nous pouvons donc utiliser différents agents oxydants pour
+fabriquer également des aldéhydes et des cétones.
+
+One option is ozone, O3, which is both higher-yielding
+and kinder to the environment.
+Une option est l'ozone, O3, qui est à la fois plus efficace
+et plus respectueux de l'environnement.
+
+The reaction is called ozonolysis, which we
+talked about in episode 17 with redox reactions.
+La réaction s'appelle l'ozonolyse, dont nous
+avons parlé dans l'épisode 17 avec les réactions redox.
+
+In this reaction, we break the double bond
+of an alkene and form a carbonyl on each of the carbons involved.
+Dans cette réaction, nous cassons la double liaison
+d'un alcène et formons un carbonyle sur chacun des carbones impliqués.
+
+For example, ozonolysis with 2-methyl-2-pentene,
+gives us both acetone and propanal.
+Par exemple, l'ozonolyse avec le 2-méthyl-2-pentène,
+nous donne à la fois de l'acétone et du propanal.
+
+If we start with a triple-bonded alkyne, we
+can also make our way to aldehydes and ketones.
+Si nous commençons avec un alcyne à triple liaison, nous
+pouvons également nous diriger vers les aldéhydes et les cétones.
+
+We have hydroboration, which is anti-Markovnikov
+addition.
+Nous avons l'hydroboration, qui est une addition anti-Markovnikov
+.
+
+In episode 18, we showed BH3 for simplicity…
+Dans l'épisode 18, nous avons montré BH3 pour plus de simplicité...
+
+but BH3 doesn’t actually exist in that form.
+mais BH3 n'existe pas réellement sous cette forme.
+
+There are more common, even bulkier reactants
+we can use to get really good anti-Markovnikov selectivity,
+Il existe des réactifs plus courants, voire plus volumineux, que
+nous pouvons utiliser pour obtenir une très bonne sélectivité anti-Markovnikov,
+
+like borane-THF, a cool double
+ring structure called 9-BBN, and disiamylborane.
+comme le borane-THF, une
+structure à double anneau froide appelée 9-BBN et le disiamylborane.
+
+In hydroboration, we form the less substituted enol, thanks to the borane intermediate that forms from the bulky boron reagent.
+Lors de l'hydroboration, nous formons l'énol le moins substitué, grâce à l'intermédiaire borane qui se forme à partir du réactif bore volumineux.
+
+On the other hand, oxymercuration is Markovnikov
+addition and gives us the more substituted alcohol.
+D'autre part, l'oxymercuration est une
+addition de Markovnikov et nous donne l'alcool le plus substitué.
+
+But we're not done yet!
+Mais nous n'avons pas encore fini !
+
+The enols that form from each of these reactions
+aren’t very stable,
+Les énols qui se forment à partir de chacune de ces réactions
+ne sont pas très stables
+
+and they exist in equilibrium with more stable carbonyl or “keto” forms.
+et existent en équilibre avec des formes carbonyle ou "céto" plus stables.
+
+This balance ultimately gives us aldehydes
+or ketones from these reactions.
+Cet équilibre nous donne finalement des aldéhydes
+ou des cétones issus de ces réactions.
+
+We covered this mechanism in a lot of detail
+in episode 18, if you want to check back!
+Nous avons couvert ce mécanisme en détail
+dans l'épisode 18, si vous voulez revenir en arrière !
+
+There are a few more options that we haven't
+learned yet, but here's a quick preview:
+Il y a quelques autres options que nous n'avons pas
+encore apprises, mais voici un bref aperçu :
+
+acid chlorides can react with organocopper
+compounds to give us ketones.
+les chlorures d'acide peuvent réagir avec des
+composés organocuivres pour nous donner des cétones.
+
+And using special, bulky reducing agents on
+esters can produce aldehydes.
+Et l'utilisation d'agents réducteurs spéciaux et volumineux sur les
+esters peut produire des aldéhydes.
+
+Now, part of why we care about making aldehydes
+and ketones is because chemists can do so many things with them!
+Maintenant, une partie de la raison pour laquelle nous nous soucions de fabriquer des aldéhydes
+et des cétones est que les chimistes peuvent faire tellement de choses avec eux !
+
+The carbon-oxygen double bond is polar, so
+we have a dipole.
+La double liaison carbone-oxygène est polaire,
+nous avons donc un dipôle.
+
+In fact, because the oxygen is so electronegative,
+we actually end up with dipolar resonance
+En fait, parce que l'oxygène est si électronégatif,
+nous nous retrouvons avec une résonance dipolaire
+
+where, in one form, the oxygen atom has a
+negative charge while the carbonyl carbon has a positive one.
+où, sous une forme, l'atome d'oxygène a une
+charge négative tandis que le carbone carbonyle en a une positive.
+
+All of this means the carbonyl carbon is a
+prime target for nucleophilic attack –
+Tout cela signifie que le carbone carbonyle est une
+cible de choix pour les attaques nucléophiles - en
+
+specifically in addition reactions, because there’s no
+leaving group.
+particulier dans les réactions d'addition, car il n'y a pas de
+groupe partant.
+
+We end up with an sp3 carbon and electrons
+pushed onto a negatively charged oxygen,
+Nous nous retrouvons avec un carbone sp3 et des électrons
+poussés sur un oxygène chargé négativement,
+
+which will tend to pick up a proton when we add
+some water at the end of the reaction and form an OH group.
+qui aura tendance à capter un proton lorsque nous ajouterons de l'
+eau à la fin de la réaction et à former un groupe OH.
+
+A handy nucleophile we can add to the carbonyl
+group is a cyanide salt, C-N-minus.
+Un nucléophile pratique que nous pouvons ajouter au groupe carbonyle
+est un sel de cyanure, C-N-moins.
+
+This gives us a new functional group in the
+molecule that we can turn into other things,
+Cela nous donne un nouveau groupe fonctionnel dans la
+molécule que nous pouvons transformer en d'autres choses,
+
+like amines and carboxylic acids.
+comme les amines et les acides carboxyliques.
+
+We’ll get to know these reactions much later
+in the series.
+Nous connaîtrons ces réactions bien plus tard
+dans la série.
+
+Of course, if you’ve ever read any Agatha Christie, you might know that sodium cyanide is one of the most rapidly acting poisons so…
+Bien sûr, si vous avez déjà lu une Agatha Christie, vous savez peut-être que le cyanure de sodium est l'un des poisons qui agissent le plus rapidement, alors...
+
+double-check your risk assessment for this one!
+vérifiez votre évaluation des risques pour celui-ci !
+
+A less scary reaction, from a health and safety
+point of view, is using an acetylide anion as our nucleophile.
+Une réaction moins effrayante, du point de vue de la santé et de la sécurité
+, consiste à utiliser un anion acétylure comme nucléophile.
+
+The acetylide attacks the carbonyl carbon
+to ultimately form an alcohol with an alkyne functional group –
+L'acétylure attaque le carbone carbonyle
+pour former finalement un alcool avec un groupe fonctionnel alcyne -
+
+sometimes called a propargyl alcohol.
+parfois appelé alcool propargylique.
+
+We can also choose hydride anions as our nucleophile.
+Nous pouvons également choisir des anions hydrure comme nucléophile.
+
+And, yes, you heard me correctly!
+Et, oui, vous m'avez bien entendu !
+
+A neutral hydrogen atom often loses its one
+electron to become H-plus,
+Un atome d'hydrogène neutre perd souvent son
+électron pour devenir H-plus,
+
+but it can also gain an electron to have a pair and form H-minus.
+mais il peut aussi gagner un électron pour avoir une paire et former H-moins.
+
+Examples of hydride reagents are sodium borohydride
+and lithium aluminum hydride.
+Des exemples de réactifs hydrure sont le borohydrure de sodium
+et l'hydrure de lithium et d'aluminium.
+
+Let’s look at the mechanism of this reduction
+reaction using sodium borohydride.
+Regardons le mécanisme de cette
+réaction de réduction à l'aide de borohydrure de sodium.
+
+Boron is an electropositive atom with only
+three valence electrons.
+Le bore est un atome électropositif avec seulement
+trois électrons de valence.
+
+It doesn’t follow the octet rule, and tends
+to form neutral compounds with three covalent bonds.
+Il ne suit pas la règle de l'octet et a tendance
+à former des composés neutres avec trois liaisons covalentes.
+
+But it will accept electrons into its empty
+p-orbital and form a borohydride anion, B-H-four-minus.
+Mais il acceptera des électrons dans son
+orbitale p vide et formera un anion borohydrure, B-H-quatre-moins.
+
+When a borohydride anion attacks the carbonyl
+group in an aldehyde or ketone,
+Lorsqu'un anion borohydrure attaque le
+groupe carbonyle dans un aldéhyde ou une cétone, les
+
+both the electrons in that fourth B-H bond go with the hydrogen.
+deux électrons de cette quatrième liaison BH vont avec l'hydrogène.
+
+So this reaction results in neutral BH3 and
+an alcohol anion.
+Cette réaction donne donc du BH3 neutre et
+un anion alcool.
+
+This alkoxide can then react with the water
+in the reaction to form an alcohol –
+Cet alcoxyde peut ensuite réagir avec l'eau
+dans la réaction pour former un alcool - en
+
+specifically a primary alcohol if we had an aldehyde, and
+a secondary alcohol if we had a ketone.
+particulier un alcool primaire si nous avions un aldéhyde et
+un alcool secondaire si nous avions une cétone.
+
+Notice the double bond in the molecule doesn’t
+react,
+Remarquez que la double liaison dans la molécule ne réagit pas
+
+and the hydride anion only attacks at the electropositive carbonyl carbon.
+et que l'anion hydrure n'attaque que le carbone carbonyle électropositif.
+
+And since aldehydes and ketones have trigonal
+planar molecular geometry,
+Et puisque les aldéhydes et les cétones ont une
+géométrie moléculaire plane trigonale,
+
+the hydride can attack one side or the other, and we get a
+racemic mixture at a chiral carbon.
+l'hydrure peut attaquer un côté ou l'autre, et on obtient un
+mélange racémique au niveau d'un carbone chiral.
+
+One last reagent that deserves a mention is
+the Wittig reagent, AKA phosphonium ylide.
+Un dernier réactif qui mérite une mention est
+le réactif de Wittig, AKA ylure de phosphonium.
+
+It’s named after Georg Wittig, who won the
+Chemistry Nobel Prize for his work in 1979.
+Il porte le nom de Georg Wittig, qui a remporté le
+prix Nobel de chimie pour son travail en 1979.
+
+An ylide – and yes that's spelled y-l-i-d-e
+because English is annoying sometimes –
+Un ylide - et oui, c'est orthographié ylide
+parce que l'anglais est parfois ennuyeux -
+
+is a molecule with adjacent atoms that have opposite
+formal charges:
+est une molécule avec des atomes adjacents qui ont
+des charges formelles opposées :
+
+specifically a negatively charged carbanion
+attached to an atom with a positive charge.
+spécifiquement un carbanion chargé négativement
+attaché  à un atome de charge positive.
+
+In the Wittig reagent, the positively charged
+atom is phosphorus, in a compound known as a phosphorane.
+Dans le réactif de Wittig, l'atome chargé positivement
+est le phosphore, dans un composé connu sous le nom de phosphorane.
+
+This is another example of a resonance structure.
+Ceci est un autre exemple de structure de résonance.
+
+So when we react an aldehyde or a ketone via
+the Wittig reaction,
+Ainsi, lorsque nous réagissons avec un aldéhyde ou une cétone via
+la réaction de Wittig,
+
+the mechanism begins when the nucleophilic carbanion of the ylide
+attacks the electropositive carbonyl carbon
+le mécanisme commence lorsque le carbanion nucléophile de l'ylure
+attaque le carbone carbonyle électropositif
+
+– similar to these other reactions we've
+been doing!
+- similaire à ces autres réactions que nous
+avons faites !
+
+This makes a zwitterion, a molecule containing
+atoms with positive and negative formal charges that are not adjacent –
+Cela fait un zwitterion, une molécule contenant des
+atomes avec des charges formelles positives et négatives qui ne sont pas adjacentes -
+
+so it's slightly different from an ylide.
+c'est donc légèrement différent d'un ylure.
+
+In this case, the negatively charged oxygen of our zwitterion quickly reacts with the positively charged phosphorus to form a four-membered ring species called a 1,2-oxaphosphetane.
+Dans ce cas, l'oxygène chargé négativement de notre zwitterion réagit rapidement avec le phosphore chargé positivement pour former une espèce cyclique à quatre chaînons appelée 1,2-oxaphosphétane.
+
+The 1,2 in the name tells us the oxygen and phosphorus are next to each other at the 1 and 2 positions of the four-membered ring.
+Le 1,2 dans le nom nous indique que l'oxygène et le phosphore sont côte à côte aux positions 1 et 2 du cycle à quatre chaînons.
+
+The small ring is super unstable, while phosphorus-oxygen
+double bonds are very stable,
+Le petit anneau est super instable, tandis que les doubles liaisons phosphore-oxygène
+sont très stables, de
+
+so the oxaphosphetane collapses to form an alkene and triphenylphosphine oxide.
+sorte que l'oxaphosphétane s'effondre pour former un oxyde d'alcène et de triphénylphosphine.
+
+This process is so fast, we often represent
+it as one step with two arrows.
+Ce processus est si rapide que nous le représentons
+souvent comme une étape avec deux flèches.
+
+And, by the way, this reaction only works
+with a primary ylide –
+Et, soit dit en passant, cette réaction ne fonctionne
+qu'avec un ylure primaire -
+
+if we had two alkyl groups on the negatively charged carbon, the reactant is too chunky and the reaction doesn’t work.
+si nous avions deux groupes alkyle sur le carbone chargé négativement, le réactif est trop gros et la réaction ne fonctionne pas.
+
+The Wittig reaction is another carbon-carbon
+bond-making reaction, and chemists really love those!
+La réaction de Wittig est une autre
+réaction de création de liaisons carbone-carbone, et les chimistes les adorent vraiment !
+
+Specifically, we form a Z-alkene as the major
+product – and the reason why is...
+Plus précisément, nous formons un Z-alcène comme
+produit principal - et la raison pour laquelle est...
+
+beyond the scope of this series.
+au-delà de la portée de cette série.
+
+So we won't get into it here.
+Nous n'y reviendrons donc pas ici.
+
+If we can draw resonance structures for the
+carbanion in our Wittig reagent,
+Si nous pouvons dessiner des structures de résonance pour le
+carbanion dans notre réactif de Wittig,
+
+we have a molecule called a stabilized ylide.
+nous avons une molécule appelée ylure stabilisée.
+
+This reagent with different resonance structures
+has slightly lower reactivity and gives us the E-alkene.
+Ce réactif avec des structures de résonance différentes
+a une réactivité légèrement inférieure et nous donne le E-alcène.
+
+This mechanism is beyond the scope of our
+course too.
+Ce mécanisme dépasse également le cadre de notre
+cours.
+
+But, basically, since this reaction occurs
+more slowly,
+Mais, fondamentalement, puisque cette réaction se produit
+plus lentement,
+
+we have time to form the more stable E-alkene as the major product –
+nous avons le temps de former le E-alcène plus stable en tant que produit principal -
+
+as opposed to the sterically crowded Z-alkene favored by the Wittig reagent.
+par opposition au Z-alcène stériquement encombré favorisé par le réactif de Wittig.
+
+So aldehydes and ketones are really useful
+for organic chemists,
+Les aldéhydes et les cétones sont donc vraiment utiles
+pour les chimistes organiques,
+
+and there's a lot of information to keep straight!
+et il y a beaucoup d'informations à retenir !
+
+In this episode we’ve learned that:
+Dans cet épisode, nous avons appris que : les
+
+Aldehydes and ketones contain carbonyl groups,
+and the carbonyl carbon is very susceptible to nucleophilic attack.
+aldéhydes et les cétones contiennent des groupes carbonyle,
+et le carbone carbonyle est très sensible aux attaques nucléophiles.
+
+We can make them by oxidizing alcohols.
+On peut les fabriquer en oxydant des alcools.
+
+We can reduce them to form alcohols.
+On peut les réduire pour former des alcools.
+
+And they allow us to extend the carbon chain
+by reactions with ylides.
+Et ils nous permettent d'allonger la chaîne carbonée
+par des réactions avec des ylures.
+
+In the next episode, we’ll look at organometallic
+chemistry –
+Dans le prochain épisode, nous examinerons la
+chimie organométallique -
+
+the chemistry of molecules with carbon-metal bonds
+la chimie des molécules avec des liaisons carbone-métal.
+
+Until then, thanks for watching this episode
+of Crash Course Organic Chemistry.
+Jusque-là, merci d'avoir regardé cet épisode
+de Crash Course Organic Chemistry.
+
+If you want to help keep all Crash Course
+free for everybody, forever,
+Si vous voulez aider à garder tous les cours intensifs
+gratuits pour tout le monde, pour toujours,
+
+you can join our community on Patreon.
+vous pouvez rejoindre notre communauté sur Patreon.
+

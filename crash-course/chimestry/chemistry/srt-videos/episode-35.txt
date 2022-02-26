@@ -1,0 +1,621 @@
+If they know it at all, most people know silicon from the valley in California that bares its name.
+S'ils le savent, la plupart des gens connaissent le silicium de la vallée de Californie qui porte son nom.
+
+The birthplace of modern computing where technological
+dreams became reality.
+Le berceau de l'informatique moderne où les rêves technologiques sont
+devenus réalité.
+
+Where brilliant twenty-somethings became millionaires.
+Où de brillants vingtenaires sont devenus millionnaires.
+
+But we chemists know silicon first and foremost
+as the most abundant element in the earth's crust.
+Mais nous, les chimistes, savons avant tout
+que le silicium est l'élément le plus abondant de la croûte terrestre.
+
+Oxides of silicon, known as silicates, make
+up sand,
+Les oxydes de silicium, connus sous le nom de silicates,
+constituent le sable,
+
+which covers not only every desert and shoreline
+on the earth, but also most of the ocean floor.
+qui recouvre non seulement tous les déserts et tous les rivages
+de la terre, mais également la majeure partie du fond de l'océan.
+
+Silicates also include quartz and most types
+of clay and they're found in living things,
+Les silicates comprennent également le quartz et la plupart des types
+d'argile et on les trouve dans les êtres vivants,
+
+like little spikes and nettles.
+comme les petites pointes et les orties.
+
+And as a polishing agent in toothpaste.
+It's everywhere!
+Et comme agent de polissage dans le dentifrice.
+Il y en a partout! 
+
+And, of course, because of their uniquely
+wonderful chemical properties,
+Et, bien sûr, en raison de leurs
+merveilleuses propriétés chimiques uniques, les
+
+crystals of elemental silicon form the basis
+of semiconductors.
+cristaux de silicium élémentaire forment la base
+des semi-conducteurs.
+
+These crystals can be combined to make diodes
+and transistors acting essentially as
+Ces cristaux peuvent être combinés pour fabriquer des diodes
+et des transistors agissant essentiellement comme
+
+chemical on/off switches that make binary
+code, and, therefore, computers possible.
+des interrupteurs marche/arrêt chimiques qui rendent possible le
+code binaire et, par conséquent, les ordinateurs.
+
+Fascinatingly enough, only a few minor differences
+in atomic arrangement allow an element
+Curieusement, seules quelques différences mineures
+dans l'arrangement atomique permettent à un élément
+
+found on the bottom of the ocean to make the
+computer that you're watching me on possible.
+trouvé au fond de l'océan de rendre possible l'
+ordinateur sur lequel vous me regardez.
+
+As with carbon, everything comes down to the
+network these atoms form.
+Comme pour le carbone, tout se résume au
+réseau formé par ces atomes.
+
+Once you learned the chemistry of these networks, you'll come to understand why glass is glass and clay is clay.
+Une fois que vous aurez appris la chimie de ces réseaux, vous comprendrez pourquoi le verre est du verre et l'argile est de l'argile.
+
+You'll understand what chemists mean when
+they talk about "doping."
+Vous comprendrez ce que veulent dire les chimistes quand
+ils parlent de "dopage".
+
+And you'll finally get why a valley in California is named for arguably one of the most intriguing element in the universe.
+Et vous comprendrez enfin pourquoi une vallée de Californie porte sans doute le nom de l'un des éléments les plus intrigants de l'univers.
+
+[Theme Music]
+[Thème musical]
+
+This sand, and this glass, and this quartz
+are basically the same thing,
+Ce sable, ce verre et ce quartz
+sont fondamentalement la même chose,
+
+just with the atoms arranged a little differently.
+juste avec les atomes disposés un peu différemment.
+
+The chemical name of this substance is silica
+made up of silicon and oxygen in a 1:2 ratio.
+Le nom chimique de cette substance est la silice
+composée de silicium et d'oxygène dans un rapport 1:2.
+
+For that reason we say that the chemical formula
+of silica is SiO2.
+Pour cette raison, nous disons que la formule chimique
+de la silice est SiO2.
+
+Even though it doesn't actually exist as separate
+individual molecules.
+Même s'il n'existe pas réellement en tant que
+molécules individuelles distinctes.
+
+Like graphite and diamond, the two forms of pure carbon, silicons and it's oxides are network solids.
+Comme le graphite et le diamant, les deux formes de carbone pur, les siliciums et ses oxydes sont des solides en réseau.
+
+And also like graphite and diamond, the different forms that they take are all about bonding differences.
+Et aussi comme le graphite et le diamant, les différentes formes qu'ils prennent sont toutes liées à des différences de liaison.
+
+The form of the silica that makes sand, is exactly the same as the form that comprises quartz.
+La forme de la silice qui fait du sable est exactement la même que la forme qui comprend le quartz.
+
+In fact the silica in sand is basically just
+tiny bits of quartz.
+En fait, la silice contenue dans le sable n'est en fait que de
+minuscules morceaux de quartz.
+
+Silica structure is based on a tetrahedral arrangement of a silica atom bonded to oxygen atoms.
+La structure de la silice est basée sur un arrangement tétraédrique d'un atome de silice lié à des atomes d'oxygène.
+
+That's right -- 4, not 2.
+C'est vrai - 4, pas 2.
+
+The trick is that each of the oxygen can form
+two bonds,
+L'astuce est que chacun des oxygènes peut former
+deux liaisons,
+
+so they also bond to another silicon atom
+on the other side.
+donc ils se lient également à un autre atome de silicium
+de l'autre côté.
+
+So each silicate is bonded to 4 oxygens, while
+each oxygen is bonded to 2 silicons.
+Ainsi, chaque silicate est lié à 4 oxygènes, tandis que
+chaque oxygène est lié à 2 siliciums.
+
+Si2O4 simplifies to SiO2, and that's where
+we get the formula.
+Si2O4 se simplifie en SiO2, et c'est là que
+nous obtenons la formule.
+
+As the molecule continues to build on itself,
+it can make various crystal structures
+Au fur et à mesure que la molécule se construit sur elle-même,
+elle peut créer diverses structures cristallines en
+
+depending on the orientation of the little
+tetrahedrons.
+fonction de l'orientation des petits
+tétraèdres.
+
+These are different forms of quartz, clays,
+and other minerals.
+Ce sont différentes formes de quartz, d'argiles
+et d'autres minéraux.
+
+They can make two dimensional forms as sheets,
+or three dimensional crystals.
+Ils peuvent créer des formes bidimensionnelles sous forme de feuilles
+ou de cristaux tridimensionnels.
+
+And each form has its own properties and behaviors.
+Et chaque forme a ses propres propriétés et comportements.
+
+Ceramics, and other clays, get their strength
+from the two dimensional types.
+Les céramiques et autres argiles tirent leur force
+des types bidimensionnels.
+
+When the clay is wet, silica sheets move around
+freely in the clay
+Lorsque l'argile est humide, les feuilles de silice se déplacent
+librement dans l'argile
+
+and as it dries they move closer to each other
+and bond to together forming a rigid framework.
+et, à mesure qu'elle sèche, elles se rapprochent les unes des autres
+et se lient ensemble pour former un cadre rigide.
+
+This resulting composite is extremely hard
+and heat resistant.
+Ce composite résultant est extrêmement dur
+et résistant à la chaleur.
+
+Both of these properties make ceramics useful
+in tons of ways
+Ces deux propriétés rendent la céramique
+utile de nombreuses façons
+
+that you've probably been exploring since you were a toddler and got your first box of modeling clay.
+que vous avez probablement explorées depuis que vous étiez tout-petit et que vous avez obtenu votre première boîte de pâte à modeler.
+
+Three dimensional silicates can take lots
+of shapes, too.
+Les silicates tridimensionnels peuvent également prendre de
+nombreuses formes.
+
+Although not all of them are true crystals.
+Bien que tous ne soient pas de vrais cristaux.
+
+Glass is an enormously important example of a three dimensional silica based amorphous solid.
+Le verre est un exemple extrêmement important de solide amorphe tridimensionnel à base de silice.
+
+It's worth mentioning here, even though its
+not a crystal
+Cela vaut la peine de le mentionner ici, même s'il
+ne s'agit pas d'un cristal,
+
+because it's molecular structure is extremely similar to the structure of quartz, just not as orderly.
+car sa structure moléculaire est extrêmement similaire à la structure du quartz, mais pas aussi ordonnée.
+
+The arrangement of silicon and oxygen in quartz
+is very regular and rigid.
+L'arrangement du silicium et de l'oxygène dans le quartz
+est très régulier et rigide.
+
+The molecular structure of glass,
+on the other hand,
+La structure moléculaire du verre,
+d'autre part,
+
+looks like Mother Nature tried to build a quartz crystal while she was a little bit drunk.
+ressemble à Mère Nature qui a essayé de construire un cristal de quartz alors qu'elle était un peu ivre.
+
+The atoms are attached in random numbers and shapes, creating a gradual structure with no definite order.
+Les atomes sont attachés en nombres et formes aléatoires, créant une structure graduelle sans ordre défini.
+
+This is why glass can be formed into almost
+infinite shapes when it's heated,
+C'est pourquoi le verre peut prendre
+des formes presque infinies lorsqu'il est chauffé,
+
+while quartz keeps it's characteristic crystal
+shape.
+tandis que le quartz conserve sa
+forme cristalline caractéristique.
+
+Because it's an amorphous solid with bonds of varying strength, glass doesn't have an exact melting point.
+Comme il s'agit d'un solide amorphe avec des liaisons de force variable, le verre n'a pas de point de fusion exact.
+
+Instead, it softens as its heated and becomes honey-like, except extraordinarily hot and not sweet at all.
+Au lieu de cela, il se ramollit au fur et à mesure qu'il est chauffé et devient comme du miel, sauf qu'il est extraordinairement chaud et pas sucré du tout.
+
+Quartz doesn't do that.
+Le quartz ne fait pas ça.
+
+It's melting point is much higher but it melts at an exact temperature and has no pliable in-betweeny state.
+Son point de fusion est beaucoup plus élevé, mais il fond à une température exacte et n'a pas d'état intermédiaire pliable.
+
+Like all silica crystals, quartz, glass and
+ceramics are electrical insulators,
+Comme tous les cristaux de silice, le quartz, le verre et la
+céramique sont des isolants électriques,
+
+because they have no free electrons to transfer
+charges over a distance.
+car ils n'ont pas d'électrons libres pour transférer des
+charges sur une distance.
+
+The atoms have 4 valence electrons and they form 4 bonds so all the electrons are perfectly well used.
+Les atomes ont 4 électrons de valence et ils forment 4 liaisons donc tous les électrons sont parfaitement bien utilisés.
+
+For this reason, these materials are used
+widely as insulators in electrical applications.
+Pour cette raison, ces matériaux sont
+largement utilisés comme isolants dans les applications électriques.
+
+Ceramics, for example, are used to hold live
+wires and power lines and to make capacitors,
+La céramique, par exemple, est utilisée pour maintenir les
+fils sous tension et les lignes électriques et pour fabriquer des condensateurs,
+
+which are basically layers of electrical conductors
+separated by layers of insulators.
+qui sont essentiellement des couches de conducteurs électriques
+séparées par des couches d'isolants.
+
+But all of these silica based network solids I talked about so far contain both silicon and oxygen atoms.
+Mais tous ces solides en réseau à base de silice dont j'ai parlé jusqu'à présent contiennent à la fois des atomes de silicium et d'oxygène.
+
+Crystals made up of silicon are insulators
+too, in their peer state,
+Les cristaux constitués de silicium sont
+également des isolants, dans leur état de pairs,
+
+but they can be made to transfer electricity
+by a process called doping.
+mais ils peuvent être amenés à transférer de l'électricité
+par un processus appelé dopage.
+
+And no, we're not gonna make a Lance Armstrong
+joke.
+Et non, nous n'allons pas faire une
+blague à Lance Armstrong.
+
+We might make an analogy though --
+Nous pourrions cependant faire une analogie -
+
+it's like, much like a perfectly fit athlete injecting himself with all kinds of weird foreign stuff.
+c'est comme, un peu comme un athlète parfaitement en forme qui s'injecte toutes sortes de trucs étranges étrangers.
+
+Silicon doping involves incorporating impurities
+into a crystal that mess up its electron balance.
+Le dopage au silicium consiste à incorporer des impuretés
+dans un cristal qui perturbent son équilibre électronique.
+
+It can do that in one of two ways.
+Il peut le faire de deux manières.
+
+If the impurity is an element with more electrons
+than silicon has, like Phosphorus or Arsenic,
+Si l'impureté est un élément avec plus d'électrons
+que le silicium, comme le phosphore ou l'arsenic,
+
+the resulting crystal will contain excess
+electrons.
+le cristal résultant contiendra des
+électrons en excès.
+
+But, if the impurity is an element with fewer
+electrons, like Aluminum or Boron,
+Mais, si l'impureté est un élément avec moins d'
+électrons, comme l'aluminium ou le bore,
+
+it leaves holes where electrons are missing
+from the normal structure.
+elle laisse des trous là où les électrons manquent
+à la structure normale.
+
+Doped silicon crystals are known as solid-state
+semiconductors.
+Les cristaux de silicium dopés sont appelés semi-
+conducteurs à l'état solide.
+
+Those doped with elements that add electrons
+are called N-type,
+Ceux dopés avec des éléments qui ajoutent des électrons
+sont appelés
+
+or negative semiconductors, because of the
+resulting charge from the additional electrons.
+semi-conducteurs de type N, ou négatifs, en raison de la
+charge résultante des électrons supplémentaires.
+
+With N-type semiconductors, the charges carried
+by the excess electrons
+Avec les semi-conducteurs de type N, les charges portées
+par les électrons en excès
+
+and because there's no room for them to integrate into the structure, they move freely about the crystals.
+et parce qu'il n'y a pas de place pour qu'ils s'intègrent dans la structure, ils se déplacent librement autour des cristaux.
+
+Similarly, crystals dope with elements that
+create an electron deficiency are called P-type,
+De même, les cristaux dopés avec des éléments qui
+créent une déficience en électrons sont appelés
+
+or positive semiconductors, because they have a more positive charge than pure silicon would have on its own.
+semi-conducteurs de type P, ou positifs, car ils ont une charge plus positive que le silicium pur aurait seul.
+
+P-type semiconductors work a little differently.
+Les semi-conducteurs de type P fonctionnent un peu différemment.
+
+Because they have empty spaces available here
+and there,
+Parce qu'ils ont des espaces vides disponibles ici
+et là,
+
+the electrons that are normally part of specific silicon atoms are able to jump around from one atom to another.
+les électrons qui font normalement partie d'atomes de silicium spécifiques sont capables de sauter d'un atome à l'autre.
+
+Each jump fills a hole and creates a new one, allowing another electron to move in the same way.
+Chaque saut comble un trou et en crée un nouveau, permettant à un autre électron de se déplacer de la même manière.
+
+So if both N-type and P-type crystals are both electrical conductors, why do we call them semiconductors?
+Donc, si les cristaux de type N et de type P sont tous deux des conducteurs électriques, pourquoi les appelons-nous des semi-conducteurs ?
+
+Well, thank you for asking.
+Eh bien, merci d'avoir demandé.
+
+The reason semiconductors are so valuable
+is that they have the amazing ability to conduct
+La raison pour laquelle les semi-conducteurs sont si précieux
+est qu'ils ont la capacité étonnante de conduire
+
+electricity freely under some conditions,
+librement l'électricité dans certaines conditions,
+
+but completely refuse to conduct it under
+other conditions.
+mais refusent complètement de la conduire dans d'
+autres conditions.
+
+So yes, they are partial, or semi conductors.
+Alors oui, ce sont des conducteurs partiels ou semi-conducteurs.
+
+So these properties become most useful when
+a P-type and N-type semiconductor are placed
+Ainsi, ces propriétés deviennent plus utiles
+lorsqu'un semi-conducteur de type P et de type N est placé
+
+next to each other to form a diode.
+l'un à côté de l'autre pour former une diode.
+
+Because their charges are opposite,
+Parce que leurs charges sont opposées,
+
+the free electrons in the N-type are attracted
+to the P-type and tend to migrate to its holes.
+les électrons libres du type N sont
+attirés par le type P et ont tendance à migrer vers ses trous.
+
+And when an electrical field is applied to
+this arrangement,
+Et lorsqu'un champ électrique est appliqué à
+cet arrangement, de
+
+so that the N-type is attached to the positive
+terminal, also called the anode,
+sorte que le type N est attaché à la
+borne positive, également appelée anode,
+
+and the P-type is attached to the negative
+terminal, or the cathode,
+et le type P est attaché à la
+borne négative, ou la cathode,
+
+all of the free electrons are pulled completely
+into the N-type.
+tous les électrons libres  sont tirés complètement
+dans le type N.
+
+These free electrons are attracted away from
+the holes, not into them,
+Ces électrons libres sont attirés loin
+des trous, pas à l'intérieur, de
+
+so any further motion is blocked and no more
+current passes through the diode.
+sorte que tout autre mouvement est bloqué et plus aucun
+courant ne passe à travers la diode.
+
+This type of arrangement is called reverse
+bias.
+Ce type d'arrangement est appelé
+polarisation inverse.
+
+However, just by reversing the polarity of the electron flow, if you will, we can create a very different situation.
+Cependant, simplement en inversant la polarité du flux d'électrons, si vous voulez, nous pouvons créer une situation très différente.
+
+If the N-type side is attached to the negative terminal, and the P-type side attached to the positive terminal,
+Si le côté de type N est attaché à la borne négative et le côté de type P attaché à la borne positive
+
+then the electrons are pulled in to the P-type
+making this part an electrical conductor again.
+, les électrons sont attirés vers le type P,
+faisant de cette partie un nouveau conducteur électrique.
+
+This process called forward bias is self perpetuating, it allows the current to readily flow through the diode.
+Ce processus appelé polarisation directe est auto-entretenu, il permet au courant de circuler facilement à travers la diode.
+
+The fact that this conduction only works in
+one direction is extremely useful!
+Le fait que cette conduction ne fonctionne que dans
+un sens est extrêmement utile !
+
+You know AC and DC right?
+Back in Black for those about to rock?
+Vous connaissez AC et DC, n'est-ce pas ?
+De retour en noir pour ceux qui sont sur le point de basculer ?
+
+AC is alternating current, where the flow of electrons alternates in one direction to the other.
+Le courant alternatif est un courant alternatif, où le flux d'électrons alterne d'un sens à l'autre.
+
+In DC, or direct current, is exactly what
+it sounds like, the electrons go directly
+En courant continu, ou courant continu, c'est exactement ce que
+cela ressemble, les électrons vont directement
+
+where they're headed without backtracking.
+là où ils se dirigent sans revenir en arrière.
+
+And simple arrangements of diodes can be used to convert AC to DC like in this power supply for my laptop.
+Et des arrangements simples de diodes peuvent être utilisés pour convertir le courant alternatif en courant continu comme dans cette alimentation pour mon ordinateur portable.
+
+P and N-type semiconductors can also be combined
+in sets of three.
+Les semi-conducteurs de type P et N peuvent également être combinés
+par ensembles de trois.
+
+These are called transistors and they've completely
+revolutionized the field of electronics,
+Ceux-ci s'appellent des transistors et ils ont complètement
+révolutionné le domaine de l'électronique,
+
+also the entire world since they were invented
+in 1947.
+également le monde entier depuis leur invention
+en 1947.
+
+One of the main functions of a transistor
+is to switch an electrical signal on and off.
+L'une des principales fonctions d'un transistor
+est d'activer et de désactiver un signal électrique.
+
+Basically when it allows a current to flow in the forward bias direction, the switch is turned on.
+Fondamentalement, lorsqu'il permet à un courant de circuler dans le sens de la polarisation directe, l'interrupteur est activé.
+
+When the current drops below the minimum the
+switch is turned off.
+Lorsque le courant tombe en dessous du minimum, l'
+interrupteur est désactivé.
+
+This switching is the basis of binary code.
+Cette commutation est la base du code binaire.
+
+Ones and zeroes representing the on and off
+states of the transistor.
+Des uns et des zéros représentant les états passant et bloqué
+du transistor.
+
+And that code is how we store and process
+information using computer chips,
+Et ce code est la façon dont nous stockons et traitons les
+informations à l'aide de puces informatiques,
+
+which are just collections of transistors
+working together.
+qui ne sont que des ensembles de transistors
+travaillant ensemble.
+
+Such a tiny simple device made mostly from one single element, and yet revolutionizing our entire world.
+Un si petit appareil simple fabriqué principalement à partir d'un seul élément, et qui révolutionne pourtant notre monde entier.
+
+That my friends is how Silicon Valley got
+its name
+C'est ainsi, mes amis, que la Silicon Valley a obtenu
+son nom
+
+and how network solids of silicon made this
+conversation we are having today possible.
+et comment les solides réseau de silicium ont rendu possible cette
+conversation que nous avons aujourd'hui.
+
+Thanks for taking advantage of all your tiny transistors today by watching this episode of Crash Course Chemistry.
+Merci d'avoir profité de tous vos petits transistors aujourd'hui en regardant cet épisode de Crash Course Chemistry.
+
+If you paid attention you learned that sand,
+and glass, and ceramics, and computer chips,
+Si vous avez fait attention, vous avez appris que le sable, le
+verre, la céramique, les puces informatiques
+
+and must more are all really just different types of network solids that can be formed by silicon and its oxides.
+et bien plus encore ne sont que différents types de solides en réseau qui peuvent être formés par le silicium et ses oxydes.
+
+You learned the differences in their arrangements
+and bonding of atoms,
+Vous avez appris les différences dans leurs arrangements
+et la liaison des atomes,
+
+and you learned how those differences result
+in wildly varying properties among the solids.
+et vous avez appris comment ces différences entraînent
+des propriétés extrêmement variables parmi les solides.
+
+You also learned what a solid-state semiconductor
+is, both P-type and N-type,
+Vous avez également appris ce qu'est un semi-conducteur à l'état solide
+, à la fois de type P et de type N,
+
+and you learned how they can be combined to
+create diodes and transistors.
+et vous avez appris comment ils peuvent être combinés pour
+créer des diodes et des transistors.
+
+Finally you learned how transistors are combined
+to make computer chips,
+Enfin, vous avez appris comment les transistors sont combinés
+pour fabriquer des puces informatiques
+
+and how their switching mechanism tells computers
+what to do.
+et comment leur mécanisme de commutation indique aux ordinateurs
+quoi faire.
+
+I don't know about you, but it blows my mind!
+Je ne sais pas pour vous, mais moi, ça m'épate !
+
+This episode was written by Edi González
+and edited by Blake de Pastino.
+Cet épisode a été écrit par Edi González
+et édité par Blake de Pastino.
+
+The chemistry consultant was Dr. Heiko Langner.
+Le consultant en chimie était le Dr Heiko Langner.
+
+And the script supervisor was Michael Aranda,
+who was also our sound designer.
+Et le superviseur du scénario était Michael Aranda,
+qui était aussi notre concepteur sonore.
+
+It was filmed, edited, and directed by Nicholas
+Jenkins.
+Il a été filmé, monté et réalisé par Nicholas
+Jenkins.
+
+And our graphics team, as always, is Thought
+Café.
+Et notre équipe graphique, comme toujours, c'est Thought
+Café.
+

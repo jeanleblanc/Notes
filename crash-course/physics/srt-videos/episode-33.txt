@@ -1,0 +1,385 @@
+It was the autumn of 1820.
+C'était à l'automne 1820.
+
+Hans Christian Oersted had just discovered
+the connection between electricity and magnetism.
+Hans Christian Oersted venait de découvrir
+le lien entre l'électricité et le magnétisme.
+
+Meanwhile, a French physicist named André-Marie
+Ampère was experimenting with some wires,
+Pendant ce temps, un physicien français du nom d'André-Marie
+Ampère expérimentait des fils,
+
+trying to learn more about the connection between currents and the magnetic fields they create.
+essayant d'en savoir plus sur la connexion entre les courants et les champs magnétiques qu'ils créent.
+
+He took two parallel wires, ran a current through both of them in the same direction, and the wires attracted each other!
+Il a pris deux fils parallèles, a fait passer un courant à travers chacun d'eux dans la même direction, et les fils se sont attirés !
+
+And when he ran a current through both wires in the opposite directions, the wires repelled each other!
+Et quand il a fait passer un courant dans les deux fils dans des directions opposées, les fils se sont repoussés !
+
+Studying this strange force between the wires led Ampère to discover one of the most fundamental laws of electromagnetism: what we now call Ampère's Law.
+L'étude de cette force étrange entre les fils a conduit Ampère à découvrir l'une des lois les plus fondamentales de l'électromagnétisme : ce que nous appelons aujourd'hui la loi d'Ampère.
+
+And that's not the only weird thing that current-carrying
+wires do.
+Et ce n'est pas la seule chose étrange que font les
+fils conducteurs de courant.
+
+If you wrap a current-carrying wire into a
+coil, the inside of the coil acts like a magnet.
+Si vous enroulez un fil conducteur de courant dans une
+bobine, l'intérieur de la bobine agit comme un aimant.
+
+There's a north pole at one end of the coil
+and a south pole at the other.
+Il y a un pôle nord à une extrémité de la bobine
+et un pôle sud à l'autre.
+
+And if you put a loop of current-carrying
+wire in a magnetic field, it'll turn!
+Et si vous mettez une boucle de fil conducteur de courant
+dans un champ magnétique, elle tournera !
+
+Ampère's law lets you calculate the strength of the currents and magnetic fields in all these situations.
+La loi d'Ampère permet de calculer l'intensité des courants et des champs magnétiques dans toutes ces situations.
+
+This also helps explain how motors work.
+Cela permet également d'expliquer le fonctionnement des moteurs.
+
+[Theme Music]
+[Thème musical]
+
+So first, those two parallel wires: why do
+they attract and repel each other?
+Alors d'abord, ces deux fils parallèles : pourquoi
+s'attirent-ils et se repoussent-ils ?
+
+It's easier to see why the two wires act the
+way they do if you look at one wire first.
+Il est plus facile de voir pourquoi les deux fils agissent
+comme ils le font si vous regardez d'abord un fil.
+
+Like we talked about in our last episode, the current running through a wire generates a magnetic field.
+Comme nous en parlions dans notre dernier épisode, le courant traversant un fil génère un champ magnétique.
+
+So, let's say you have a long, straight wire
+with a current running through it.
+Donc, disons que vous avez un long fil droit
+traversé par un courant.
+
+The current will create a magnetic field circling
+the wire.
+Le courant créera un champ magnétique entourant
+le fil.
+
+That magnetic field decreases the further
+you are from the wire.
+Ce champ magnétique diminue à mesure que
+vous vous éloignez du fil.
+
+If you draw a circle that's, say, a centimeter from the wire, the magnetic field along the circle will have a set strength.
+Si vous dessinez un cercle qui est, disons, à un centimètre du fil, le champ magnétique le long du cercle aura une force définie.
+
+Ampère realized that the stronger the current is that's running through the wire, the stronger the magnetic field would be along that circle.
+Ampère s'est rendu compte que plus le courant traversant le fil était fort, plus le champ magnétique serait fort le long de ce cercle.
+
+That's the basic logic behind Ampère's Law.
+C'est la logique de base de la loi d'Ampère.
+
+But this is physics, and in physics, we tend
+to express relationships in terms of equations.
+Mais c'est de la physique, et en physique, nous avons tendance
+à exprimer les relations en termes d'équations.
+
+The equation for Ampère's law applies to any kind of loop – not just a circle – surrounding a current, no matter how many wires there are or how they're arranged or shaped.
+L'équation de la loi d'Ampère s'applique à tout type de boucle - pas seulement un cercle - entourant un courant, quel que soit le nombre de fils, leur disposition ou leur forme.
+
+The law is valid as long as the current is
+constant.
+La loi est valable tant que le courant est
+constant.
+
+The equation itself says that the integral of the magnetic field, B, along the loop, times the cosine of theta, with respect to distance, is equal to a constant – called mu_0 – multiplied by the current running through the loop.
+L'équation elle-même dit que l'intégrale du champ magnétique, B, le long de la boucle, multipliée par le cosinus de thêta, par rapport à la distance, est égale à une constante - appelée mu_0 - multipliée par le courant traversant la boucle.
+
+This equation just means that the total magnetic field along the loop is equal to the current running through the loop, times a constant number.
+Cette équation signifie simplement que le champ magnétique total le long de la boucle est égal au courant traversant la boucle, multiplié par un nombre constant.
+
+The constant mu_0 is sometimes called the magnetic constant, and it's equal to 4 times pi times 10to the -7th Newtons per Amperes squared.
+La constante mu_0 est parfois appelée la constante magnétique, et elle est égale à 4 fois pi fois 10 au -7e Newton par Ampère au carré.
+
+Now, you may have noticed that there's an integral on the left-hand side of the equation for Ampere's law.
+Maintenant, vous avez peut-être remarqué qu'il y a une intégrale du côté gauche de l'équation de la loi d'Ampère.
+
+And you might remember that we use integrals when we need to add up lots of infinitely tiny values.
+Et vous vous souviendrez peut-être que nous utilisons des intégrales lorsque nous devons additionner de nombreuses valeurs infiniment petites.
+
+Well, in Ampère's Law, we're adding up all the
+little bits of magnetic field along the loop.
+Eh bien, dans la loi d'Ampère, nous additionnons tous les
+petits champs magnétiques le long de la boucle.
+
+We're saying that all those bits of magnetic field added together are equal to the enclosed current, times the magnetic constant.
+Nous disons que tous ces bits de champ magnétique additionnés sont égaux au courant inclus, multiplié par la constante magnétique.
+
+B is the strength of the magnetic field at
+each point along the loop.
+B est la force du champ magnétique à
+chaque point le long de la boucle.
+
+Theta is the angle between the magnetic field
+and each point on the loop.
+Theta est l'angle entre le champ magnétique
+et chaque point de la boucle.
+
+And ds is referring to each infinitely tiny
+section of the loop.
+Et ds fait référence à chaque section infiniment petite
+de la boucle.
+
+The mathematics of Ampère's law can get very
+complicated very quickly.
+Les mathématiques de la loi d'Ampère peuvent devenir très
+compliquées très rapidement.
+
+But to get a basic sense of how it works, let's return to our scenario: a circle around one long straight wire.
+Mais pour avoir une idée de base de son fonctionnement, revenons à notre scénario : un cercle autour d'un long fil droit.
+
+We're trying to find the magnetic field at each point on the circle – that's B – in terms of the enclosed current and the radius of the circle.
+Nous essayons de trouver le champ magnétique à chaque point du cercle - c'est B - en termes de courant enfermé et de rayon du cercle.
+
+So first, let's solve the integral in Ampère's law,
+to get the total magnetic field along the circle.
+Alors d'abord, résolvons l'intégrale dans la loi d'Ampère,
+pour obtenir le champ magnétique total le long du cercle.
+
+According to the law, we're solving the integral of the magnetic field, times the cosine of theta, with respect to the points along the circle.
+Selon la loi, nous résolvons l'intégrale du champ magnétique, multipliée par le cosinus de thêta, par rapport aux points le long du cercle.
+
+But we can simplify this integral pretty easily.
+Mais nous pouvons simplifier cette intégrale assez facilement.
+
+First, you'll notice that the magnetic field coming from our wire is parallel to the circle at every point.
+Tout d'abord, vous remarquerez que le champ magnétique provenant de notre fil est parallèle au cercle en tout point.
+
+So the angle, theta, is 0, and the cosine
+of 0 is 1.
+Ainsi, l'angle, thêta, est 0, et le cosinus
+de 0 est 1.
+
+Anything times 1 is equal to itself, so we can just knock the cosine of theta term out of the integral.
+Chaque fois que 1 est égal à lui-même, nous pouvons donc simplement éliminer le cosinus du terme thêta de l'intégrale.
+
+Now we're left with the integral of the magnetic field, B, with respect to the points along the circle.
+Il nous reste maintenant l'intégrale du champ magnétique, B, par rapport aux points le long du cercle.
+
+But every part of the circle is the exact
+same distance from the wire!
+Mais chaque partie du cercle est exactement à la
+même distance du fil !
+
+So the magnetic field will be the same at
+every point.
+Ainsi, le champ magnétique sera le même en
+tout point.
+
+In other words: B is constant, so we can move
+it in front of the integral sign.
+En d'autres termes : B est constant, nous pouvons donc le
+déplacer devant le signe intégral.
+
+Now all we need to do is figure out the integral of all the points along the circle, which is equal to the circumference of the circle.
+Maintenant, tout ce que nous devons faire est de déterminer l'intégrale de tous les points le long du cercle, qui est égale à la circonférence du cercle.
+
+So, 2 times pi times the radius.
+Donc, 2 fois pi fois le rayon.
+
+Putting that all together, we find that when we apply Ampère's law to a long straight wire, the total magnetic field along a circle surrounding a wire is equal to B times 2 times pi times the radius.
+En mettant tout cela ensemble, nous constatons que lorsque nous appliquons la loi d'Ampère à un long fil droit, le champ magnétique total le long d'un cercle entourant un fil est égal à B fois 2 fois pi fois le rayon.
+
+And that total magnetic field is equal to
+the magnetic constant times the enclosed current.
+Et ce champ magnétique total est égal à
+la constante magnétique multipliée par le courant enfermé.
+
+So! For a long straight wire, B is equal to the magnetic constant times the enclosed current, divided by 2 pi r.
+Alors!  Pour un long fil droit, B est égal à la constante magnétique multipliée par le courant inclus, divisé par 2 pi r.
+
+The equation for the magnetic field along a circle surrounding one wire turned out to be really important for Ampère when he was trying to figure out what was going on with two wires.
+L'équation du champ magnétique le long d'un cercle entourant un fil s'est avérée très importante pour Ampère lorsqu'il essayait de comprendre ce qui se passait avec deux fils.
+
+When both wires had current running through them in the same direction, they attracted each other.
+Lorsque les deux fils étaient parcourus par du courant dans la même direction, ils s'attiraient.
+
+And when the current was going in opposite
+directions, they repelled each other.
+Et quand le courant allait dans des
+directions opposées, ils se repoussaient.
+
+It's easy to see why, if you apply the first
+right-hand rule.
+Il est facile de voir pourquoi, si vous appliquez la première
+règle de la main droite.
+
+That's the one that says if you point your right thumb in the direction of a current and curl your fingers, the magnetic field points in the same direction as your fingers.
+C'est celui qui dit que si vous pointez votre pouce droit dans la direction d'un courant et que vous courbez vos doigts, le champ magnétique pointe dans la même direction que vos doigts.
+
+So first, let's look at the wires with currents
+running in the same direction.
+Alors d'abord, regardons les fils avec des courants
+circulant dans la même direction.
+
+For this example, we'll say that they're vertical
+wires, with the current flowing upward.
+Pour cet exemple, nous dirons qu'il s'agit de
+fils verticaux, le courant circulant vers le haut.
+
+If you point your right thumb in the direction of the current in each wire, your fingers will curl in the direction of the magnetic field.
+Si vous pointez votre pouce droit dans la direction du courant dans chaque fil, vos doigts se courberont dans la direction du champ magnétique.
+
+The magnetic field from the wire on the left
+will be pointing to the right.
+Le champ magnétique du fil de gauche
+pointera vers la droite.
+
+And the magnetic field from the wire on the right will be pointing to the left, so the wires will attract each other.
+Et le champ magnétique du fil de droite pointera vers la gauche, de sorte que les fils s'attireront.
+
+For the case where the current is flowing in opposite directions, the reverse is true, so they'll repel each other.
+Dans le cas où le courant circule dans des directions opposées, l'inverse est vrai, donc ils se repousseront.
+
+Now, Ampere also wanted to find the force
+from the magnetic field on the wires.
+Maintenant, Ampère voulait également trouver la force
+du champ magnétique sur les fils.
+
+Like we talked about last time, the force depends on the angle between the current and the magnetic field, the strength of the current, the length of the wire, and the strength of the magnetic field.
+Comme nous en avons parlé la dernière fois, la force dépend de l'angle entre le courant et le champ magnétique, de la force du courant, de la longueur du fil et de la force du champ magnétique.
+
+Calculating that magnetic field, B, was the
+tricky part.
+Le calcul de ce champ magnétique, B, était la
+partie délicate.
+
+But the equation he came up with, the one that we now call Ampere's Law, allowed him – and future physicists! – to figure out what B was in a lot of situations, including the case of the two parallel wires.
+Mais l'équation qu'il a inventée, celle que nous appelons aujourd'hui la loi d'Ampère, lui a permis – ainsi qu'aux futurs physiciens !  – pour comprendre ce que B était dans beaucoup de situations, y compris le cas des deux fils parallèles.
+
+So the two parallel wires attracted and repelled each other because of the magnetic field created by the current.
+Ainsi, les deux fils parallèles s'attirent et se repoussent à cause du champ magnétique créé par le courant.
+
+What about the coil of wire that turned into
+a magnet?
+Qu'en est-il de la bobine de fil qui s'est transformée
+en aimant ?
+
+Well, you can probably guess that its behavior also has to do with the magnetic field produced by a current.
+Eh bien, vous pouvez probablement deviner que son comportement est également lié au champ magnétique produit par un courant.
+
+See, that coil of wire is a special shape
+called a solenoid.
+Vous voyez, cette bobine de fil a une forme spéciale
+appelée solénoïde.
+
+And when a solenoid has a current running through it, it produces a magnetic field, basically all of which goes through the inside of the coils.
+Et lorsqu'un solénoïde est traversé par un courant, il produit un champ magnétique, qui passe essentiellement à l'intérieur des bobines.
+
+If you curl your right hand around the solenoid so that your fingers point in the direction of the current running through the loops, your thumb will point in the direction of the magnetic field.
+Si vous enroulez votre main droite autour du solénoïde de manière à ce que vos doigts pointent dans la direction du courant traversant les boucles, votre pouce pointera dans la direction du champ magnétique.
+
+Ampère's law is useful for solenoids, too: it says that the magnetic field inside the coils, B, is equal to the magnetic constant, times the current running through the coils, times the number of coils.
+La loi d'Ampère est également utile pour les solénoïdes : elle indique que le champ magnétique à l'intérieur des bobines, B, est égal à la constante magnétique, multipliée par le courant traversant les bobines, multipliée par le nombre de bobines.
+
+So that's what happens when loops of wire
+create a magnetic field.
+C'est donc ce qui se passe lorsque des boucles de fil
+créent un champ magnétique.
+
+When you stick a loop of wire in a magnetic
+field, something a little stranger happens:
+the loop of wire turns.
+Lorsque vous collez une boucle de fil dans un
+champ magnétique, quelque chose d'un peu plus étrange se produit :
+la boucle de fil tourne.
+
+That's because the magnetic field creates
+a torque on the wire.
+C'est parce que le champ magnétique crée
+un couple sur le fil.
+
+Take a look at this loop of wire.
+Jetez un oeil à cette boucle de fil.
+
+The horizontal parts of the loop are parallel to the magnetic field, so it won't exert a force on them.
+Les parties horizontales de la boucle sont parallèles au champ magnétique, de sorte qu'il n'exercera pas de force sur elles.
+
+But the vertical parts of the loop are perpendicular to the magnetic field, so it will exert a force on them – a force that turns the loop.
+Mais les parties verticales de la boucle sont perpendiculaires au champ magnétique, il exercera donc une force sur elles - une force qui fait tourner la boucle.
+
+From the last episode, we know that the force from the magnetic field on the wire will be equal to the current, times the length of that part of the coil, times the magnetic field.
+Depuis le dernier épisode, nous savons que la force du champ magnétique sur le fil sera égale au courant, multiplié par la longueur de cette partie de la bobine, multiplié par le champ magnétique.
+
+And we can use the second right-hand rule
+to figure out the direction of that force.
+Et nous pouvons utiliser la deuxième règle de la main droite
+pour déterminer la direction de cette force.
+
+If you point your hand in the direction of the current, then bend your fingers in the direction of the magnetic field, your thumb will point in the direction of the force.
+Si vous pointez votre main dans la direction du courant, puis pliez vos doigts dans la direction du champ magnétique, votre pouce pointera dans la direction de la force.
+
+Which turns out to be away from you for the left-hand side of the coil, and toward you for the right-hand side.
+Ce qui s'avère être loin de vous pour le côté gauche de la bobine, et vers vous pour le côté droit.
+
+So the coil turns clockwise.
+La bobine tourne donc dans le sens des aiguilles d'une montre.
+
+This is how electric motors work: they have an electric current that continuously flips directions, making loops of wire spin.
+C'est ainsi que fonctionnent les moteurs électriques : ils ont un courant électrique qui inverse continuellement les directions, faisant tourner des boucles de fil.
+
+Those moving loops of wire can be used to do mechanical work, like turning the drum in your washing machine, or your power drill, or the fan that probably cools your computer.
+Ces boucles de fil mobiles peuvent être utilisées pour effectuer des travaux mécaniques, comme faire tourner le tambour de votre machine à laver, ou votre perceuse électrique, ou le ventilateur qui refroidit probablement votre ordinateur.
+
+There are electric motors all over the place.
+Il y a des moteurs électriques partout.
+
+So the next time you wash your clothes, or put together some furniture, or use your computer without it overheating, or do anything else that involves an electric motor, you have Ampère to thank.
+Ainsi, la prochaine fois que vous lavez vos vêtements, que vous assemblez des meubles, que vous utilisez votre ordinateur sans surchauffer ou que vous faites quoi que ce soit d'autre qui implique un moteur électrique, vous devez remercier Ampère.
+
+Today, you learned about Ampère's law, and
+how it applies to a long straight wire.
+Aujourd'hui, vous avez appris la loi d'Ampère et
+comment elle s'applique à un long fil droit.
+
+We also talked about the forces between two parallel wires, and the magnetic field created by a solenoid.
+Nous avons également parlé des forces entre deux fils parallèles et du champ magnétique créé par un solénoïde.
+
+Finally, we described the torque on a current
+loop.
+Enfin, nous avons décrit le couple sur une
+boucle de courant.
+
+Crash Course Physics is produced in association
+with PBS Digital Studios.
+Crash Course Physics est produit en association
+avec PBS Digital Studios.
+
+You can head over to their channel and check out a playlist of the latest episodes from shows like:
+Vous pouvez vous rendre sur leur chaîne et consulter une liste de lecture des derniers épisodes d'émissions telles que :
+
+Gross Science, PBS Idea Channel, and It's
+Okay to be Smart.
+Gross Science, PBS Idea Channel et It's
+Okay to be Smart.
+
+This episode of Crash Course was filmed in
+the Doctor Cheryl C. Kinney Crash Course Studio
+Cet épisode de Crash Course a été filmé dans
+le studio Doctor Cheryl C. Kinney Crash Course
+
+with the help of these amazing people and our
+equally amazing graphics team, is Thought Cafe.
+avec l'aide de ces personnes incroyables et de notre
+équipe graphique tout aussi incroyable, Thought Cafe.
+

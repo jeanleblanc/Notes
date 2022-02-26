@@ -1,0 +1,584 @@
+You know what can be kind of peculiar and
+surprising?
+Vous savez ce qui peut être un peu particulier et
+surprenant ?
+
+The fact that, whenever you want to shoot outside, everyone decides to mow their lawn.
+Le fait que, chaque fois que vous voulez tirer à l'extérieur, tout le monde décide de tondre sa pelouse.
+
+You know what else can be kind of peculiar
+and surprising?
+Vous savez quoi d'autre peut être un peu particulier
+et surprenant ?
+
+Water.
+L'eau. 
+
+And in the right circumstances, I could even take water that’s flowing down and spurt it straight up.
+Et dans les bonnes circonstances, je pourrais même prendre de l'eau qui coule et la faire jaillir tout droit.
+
+How?
+Comment? 
+
+All of these things are possible, thanks to
+the study of the flow of fluids, known as Fluid Dynamics.
+Toutes ces choses sont possibles, grâce à
+l'étude de l'écoulement des fluides, connue sous le nom de Fluid Dynamics.
+
+[Theme Music]
+[Thème musical]
+
+By now, you’ve picked up on the fact that
+-- even though we live in the physical universe
+À présent, vous avez compris que
+- même si nous vivons dans l'univers physique
+
+-- describing the rules of the universe sometimes requires us to pretend that certain things aren’t happening.
+- décrire les règles de l'univers nous oblige parfois à prétendre que certaines choses ne se produisent pas.
+
+Like the time we rolled a bunch of stuff down
+a ramp, and pretended that there was no  kinetic friction.
+Comme la fois où nous avons roulé un tas de trucs sur
+une rampe et prétendu qu'il n'y avait pas de friction cinétique.
+
+The same is true when we talk about fluids.
+Il en va de même lorsque nous parlons de fluides.
+
+Because, fluids in motion are dynamic and there are many, many things going on in and around them all at once.
+Parce que les fluides en mouvement sont dynamiques et qu'il se passe beaucoup de choses à l'intérieur et autour d'eux en même temps.
+
+So, in order to grasp the essentials of fluid
+dynamics, let’s just do some pretending, shall we?
+Donc, afin de saisir l'essentiel de la dynamique des
+fluides, faisons simplement semblant, d'accord ?
+
+For one thing, we’re going to consider the
+fluids in our examples to be incompressible,
+D'une part, nous allons considérer les
+fluides de nos exemples comme incompressibles,
+
+meaning that their densities won’t change.
+ce qui signifie que leurs densités ne changeront pas.
+
+We’re also going to assume that fluids flow
+perfectly smoothly, and have no viscosity.
+Nous allons également supposer que les fluides s'écoulent
+parfaitement sans à-coups et n'ont aucune viscosité.
+
+You’ve probably heard of viscosity before:
+Vous avez probablement déjà entendu parler de viscosité :
+
+When a fluid flows easily, like water, we say that it has a low viscosity.
+lorsqu'un fluide s'écoule facilement, comme l'eau, on dit qu'il a une faible viscosité.
+
+Fluids that don’t flow as easily, like honey, have a higher viscosity.
+Les fluides qui ne s'écoulent pas aussi facilement, comme le miel, ont une viscosité plus élevée.
+
+And much like kinetic friction does in moving objects, viscosity tends to complicate things in moving fluids,
+Et tout comme le frottement cinétique dans les objets en mouvement, la viscosité a tendance à compliquer les choses dans les fluides en mouvement
+
+which is why we’re generally going to pretend that the fluids we’re studying don’t have any.
+, c'est pourquoi nous allons généralement prétendre que les fluides que nous étudions n'en ont pas.
+
+Now, say you have some water -- which exists
+under all of these hypothetical conditions
+Maintenant, supposons que vous ayez de l'eau - qui existe
+dans toutes ces conditions hypothétiques
+
+-- in a pipe, moving along smoothly.
+- dans un tuyau, se déplaçant en douceur.
+
+This pipe narrows about halfway through, so
+that one end is narrower than the other.
+Ce tuyau se rétrécit environ à mi-chemin, de
+sorte qu'une extrémité est plus étroite que l'autre.
+
+This shape is going to affect some of the
+properties of the water’s flow,
+Cette forme va affecter certaines des
+propriétés de l'écoulement de l'eau,
+
+as it passes through the narrower side of the pipe compared to the wider side.
+car elle traverse le côté le plus étroit du tuyau par rapport au côté le plus large.
+
+But one thing that won't change is the mass of water that’s moving through any given area in the pipe over time.
+Mais une chose qui ne changera pas est la masse d'eau qui se déplace dans une zone donnée du tuyau au fil du temps.
+
+This is called the mass flow rate, and it’s
+always going to be the same everywhere in the pipe.
+C'est ce qu'on appelle le débit massique, et il sera
+toujours le même partout dans le tuyau.
+
+That’s just because, as the water flows through the pipe, it pushes along the water in the rest of the pipe, too.
+C'est simplement parce que, lorsque l'eau s'écoule dans le tuyau, elle pousse également l'eau dans le reste du tuyau.
+
+So if one part of the pipe has, say, a kilogram
+of water moving through it every second,
+Donc, si une partie du tuyau a, disons, un kilogramme
+d'eau qui le traverse chaque seconde,
+
+the rest of the pipe ALSO has to have a kilogram
+of water moving through it every second.
+le reste du tuyau doit AUSSI avoir un kilogramme
+d'eau qui le traverse chaque seconde.
+
+This fact, that the mass flow rate at one point in the pipe will be equal to the mass flow rate at any other point,
+Ce fait, que le débit massique en un point du tuyau sera égal au débit massique en tout autre point,
+
+is called the equation of continuity.
+est appelé l'équation de continuité.
+
+And it can tell you a lot about the relationship between the velocity of a fluid
+Et cela peut vous en dire beaucoup sur la relation entre la vitesse d'un fluide
+
+and the cross-sectional area of the pipe that it’s flowing through.
+et la section transversale du tuyau qu'il traverse.
+
+Let’s say you’re an engineer for the Water
+Department of Hypothetical City,
+Disons que vous êtes un ingénieur pour le
+service des eaux de la ville hypothétique
+
+and you need to understand the mass flow rate of hypothetical water that’s going through a certain point in your underground pipe system.
+et que vous devez comprendre le débit massique de l'eau hypothétique qui passe par un certain point dans votre système de canalisations souterraines.
+
+But you don’t know the mass that’s going through that part of the pipe at any given moment.
+Mais vous ne connaissez pas la masse qui traverse cette partie du tuyau à un moment donné.
+
+All you know are the water’s velocity and the area of the cross-section of that certain section of pipe.
+Tout ce que vous savez, c'est la vitesse de l'eau et l'aire de la section transversale de cette certaine section de tuyau.
+
+In order to describe the mass flow rate, you’ll
+have to use what we know about density, area,
+Afin de décrire le débit massique, vous
+devrez utiliser ce que nous savons de la densité, de l'aire
+
+and velocity to work some algebra magic:
+et de la vitesse pour faire de la magie algébrique : tout d'
+
+First, let’s have a look at a cross section
+of that point of the pipe.
+abord, examinons une coupe transversale
+de ce point du tuyau.
+
+From our last lesson, you know that the mass of the fluid moving past this cross-sectional area, over time,
+D'après notre dernière leçon, vous savez que la masse du fluide passant devant cette section transversale, au fil du temps,
+
+is equal to its density,
+times its volume.
+est égale à sa densité,
+multipliée par son volume.
+
+And, the volume of the fluid moving past this point is simply the area of the pipe at this cross section,
+Et, le volume du fluide passant au-delà de ce point est simplement la surface du tuyau à cette section transversale,
+
+times the distance the fluid
+moves.
+multipliée par la distance parcourue par le
+fluide.
+
+And! From our episodes on the physics of motion,
+you also know that the distance the fluid moves,
+Et!  D'après nos épisodes sur la physique du
+mouvement, vous savez également que la distance parcourue par le fluide,
+
+divided by the change in time, is equal
+to the fluid’s velocity.
+divisée par le changement de temps, est égale
+à la vitesse du fluide.
+
+So, by putting all that together, you can
+get a different version of the equation of continuity:
+Ainsi, en rassemblant tout cela, vous pouvez
+obtenir une version différente de l'équation de continuité :
+
+At any given point in the pipe, the density
+of the fluid flowing through it,
+à un point donné du tuyau, la densité
+du fluide qui le traverse,
+
+times the area of the pipe, times the fluid’s velocity, will be the same as for any other point in the pipe.
+multipliée par la surface du tuyau, multipliée par la vitesse du fluide,  être le même que pour tout autre point du tuyau.
+
+And since you’re dealing with an incompressible fluid, the density is going to be the same for every point in the pipe anyway.
+Et puisque vous avez affaire à un fluide incompressible, la densité sera de toute façon la même pour chaque point du tuyau.
+
+So really, you’ve just figured out that
+at any point in the pipe, the area of the pipe
+Donc vraiment, vous venez de comprendre
+qu'à n'importe quel point du tuyau, la surface du tuyau
+
+times the fluid’s velocity will be
+the same as for any other point.
+multipliée par la vitesse du fluide sera
+la même que pour tout autre point.
+
+It’s the same thing we said before: The mass
+flow rate is the same for every point in the pipe.
+C'est la même chose que nous avons dit auparavant : le
+débit massique est le même pour chaque point du tuyau.
+
+But instead of putting that relationship
+in terms of mass and time,
+Mais au lieu de mettre cette relation
+en termes de masse et de temps,
+
+you’re putting it in terms of area and velocity.
+vous la mettez en termes de surface et de vitesse.
+
+And, in your role as a water-department engineer,
+this is important for you to know!
+Et, dans votre rôle d'ingénieur du service de l'eau
+, c'est important que vous le sachiez !
+
+Because it means that, where the pipe is narrower,
+the fluid will have to flow faster, in order to compensate.
+Parce que cela signifie que, là où le tuyau est plus étroit,
+le fluide devra s'écouler plus rapidement, afin de compenser.
+
+But here’s a weird thing:
+Mais voici une chose étrange :
+
+A fluid that’s flowing really fast actually has less pressure than when it’s flowing more slowly.
+un fluide qui coule très vite a en fait moins de pression que lorsqu'il coule plus lentement.
+
+Sure, it might feel like it’s exerting more
+force than when it flows through a wider opening.
+Bien sûr, il peut sembler qu'il exerce plus de
+force que lorsqu'il coule à travers une ouverture plus large.
+
+But that’s not what physicists mean when
+they talk about the pressure in a pipe.
+Mais ce n'est pas ce que les physiciens veulent dire quand
+ils parlent de la pression dans un tuyau.
+
+They’re really talking about the pressure
+on the walls of the pipe.
+Ils parlent vraiment de la pression
+sur les parois du tuyau.
+
+This means that, the slower the fluid flows,
+the more pressure it puts on the pipe itself.
+Cela signifie que plus le fluide s'écoule lentement
+, plus il exerce de pression sur le tuyau lui-même.
+
+This is known as Bernoulli’s principle.
+C'est ce qu'on appelle le principe de Bernoulli.
+
+It states that the higher a fluid’s velocity
+is through a pipe,
+Il indique que plus la vitesse d'un fluide est élevée
+dans un tuyau
+
+the lower the pressure on the pipe’s walls,
+and vice versa.
+, plus la pression sur les parois du tuyau est faible,
+et vice versa.
+
+Bernoulli also came up with what we now know
+as Bernoulli’s equation.
+Bernoulli a également proposé ce que nous appelons maintenant
+l'équation de Bernoulli.
+
+It might look kind of intimidating at first.
+Cela peut sembler un peu intimidant au début.
+
+But when you break it down, it’s actually just a way of combining a bunch of things that you’ve already learned.
+Mais quand vous le décomposez, c'est en fait juste une façon de combiner un tas de choses que vous avez déjà apprises.
+
+Bernoulli based his equation on the
+concept of conservation of energy:
+Bernoulli a basé son équation sur le
+concept de conservation de l'énergie
+
+as a fluid flows through a pipe, it won’t gain or lose any energy.
+: lorsqu'un fluide circule dans un tuyau, il ne gagne ni ne perd d'énergie.
+
+This means that, no matter where
+the fluid is in the pipe,
+Cela signifie que, peu importe où se trouve
+le fluide dans le tuyau,
+
+if you take all of the forms of energy that the fluid has at that point and add them up,
+si vous prenez toutes les formes d'énergie que le fluide a à ce point et que vous les additionnez,
+
+they’ll equal the same number
+as any other point in the pipe.
+elles seront égales au même nombre
+que n'importe quel autre point du tuyau.
+
+To better understand this, have a look at how the three forms of energy in a fluid are represented in Bernoulli’s equation:
+Pour mieux comprendre cela, regardez comment les trois formes d'énergie dans un fluide sont représentées dans l'équation de Bernoulli :
+
+First, there’s pressure times volume.
+Premièrement, il y a la pression multipliée par le volume.
+
+In our episode on work and energy, we defined
+energy as the ability to do work.
+Dans notre épisode sur le travail et l'énergie, nous avons défini l'
+énergie comme la capacité de faire un travail.
+
+And when a fluid applies pressure and moves
+the volume of fluid that’s downstream, it’s doing work.
+Et lorsqu'un fluide applique une pression et déplace
+le volume de fluide en aval, il travaille.
+
+So, pressure times volume must be a form of
+energy.
+Ainsi, la pression multipliée par le volume doit être une forme d'
+énergie.
+
+The first term in Bernoulli’s equation takes
+that energy, and divides it by volume.
+Le premier terme de l'équation de Bernoulli prend
+cette énergie et la divise en volume.
+
+Which just leaves pressure.
+Ce qui laisse juste la pression.
+
+Next, a flowing fluid also has kinetic energy.
+Ensuite, un fluide qui s'écoule a également de l'énergie cinétique.
+
+When we first talked about kinetic energy, we said that it’s equal to half of an object’s mass, times its velocity squared.
+Lorsque nous avons parlé d'énergie cinétique pour la première fois, nous avons dit qu'elle était égale à la moitié de la masse d'un objet, multipliée par sa vitesse au carré.
+
+Again, Bernoulli divided this form of energy by volume, to get half the fluid’s density, times its velocity squared.
+Encore une fois, Bernoulli a divisé cette forme d'énergie par volume, pour obtenir la moitié de la densité du fluide, multipliée par sa vitesse au carré.
+
+That’s called the kinetic energy density,
+and it’s the second term of Bernoulli’s equation.
+C'est ce qu'on appelle la densité d'énergie cinétique,
+et c'est le deuxième terme de l'équation de Bernoulli.
+
+Finally, a flowing fluid also has the potential
+energy that comes from gravity.
+Enfin, un fluide en écoulement possède également l'
+énergie potentielle qui provient de la gravité.
+
+And we’ve said before that the potential
+energy from gravity is equal to
+Et nous avons déjà dit que l'
+énergie potentielle de la gravité est égale à
+
+an object’s mass, times small g, times its height.
+la masse d'un objet, fois petit g, fois sa hauteur.
+
+When Bernoulli divided that by volume, he
+got density times small g times height --
+Lorsque Bernoulli a divisé cela par volume, il a
+obtenu la densité fois petit g fois la hauteur --
+
+the potential energy density,
+and the third term of his equation.
+la densité d'énergie potentielle
+et le troisième terme de son équation.
+
+Why divide all these terms by volume?
+Pourquoi diviser tous ces termes en volume ?
+
+Well, when it comes to fluids, it’s just easier to talk about things in terms of density than it is to talk about mass.
+Eh bien, en ce qui concerne les fluides, il est simplement plus facile de parler de choses en termes de densité que de parler de masse.
+
+So when you look at his equation piece by
+piece, you can see that Bernoulli was really
+Ainsi, lorsque vous regardez son équation pièce par
+pièce, vous pouvez voir que
+
+just putting conservation of energy into a
+special form that would be useful for fluids.
+Bernoulli mettait en fait la conservation de l'énergie sous une
+forme spéciale qui serait utile pour les fluides.
+
+Now, let’s look at a special case of Bernoulli’s
+equation, known as Torricelli’s theorem.
+Examinons maintenant un cas particulier de l'équation de Bernoulli
+, connu sous le nom de théorème de Torricelli.
+
+Torricelli’s theorem uses conservation of energy to find the velocity of fluid flowing from a small spout in a container.
+Le théorème de Torricelli utilise la conservation de l'énergie pour trouver la vitesse du fluide s'écoulant d'un petit bec verseur dans un récipient.
+
+And it says that the velocity of the fluid
+coming out of the spout is the same as the
+Et il dit que la vitesse du fluide
+sortant du bec est la même que la
+
+velocity of a single droplet of fluid that
+falls from the height of the surface of the fluid in the container.
+vitesse d'une seule gouttelette de fluide qui
+tombe de la hauteur de la surface du fluide dans le récipient.
+
+In other words, the pressure that’s pushing
+the fluid out of the spout
+En d'autres termes, la pression qui pousse
+le fluide hors du bec
+
+gives it the same velocity that it would get from the force of gravity.
+lui donne la même vitesse qu'il obtiendrait de la force de gravité.
+
+To see this theorem in action, let’s say you’re not a water department engineer -- you’re just YOU,
+Pour voir ce théorème en action, disons que vous n'êtes pas un ingénieur du service de l'eau - vous êtes juste VOUS,
+
+and you’re watering your garden
+with the water you’ve saved up in your rain barrel.
+et vous arrosez votre jardin
+avec l'eau que vous avez économisée dans votre baril de pluie.
+
+Your barrel doesn’t have a top, and you’re
+watering your carrots and lettuce and stuff
+Votre tonneau n'a pas de couvercle, et vous
+arrosez vos carottes, votre laitue et tout ce que vous voulez à
+
+from a hole -- or a spout -- in the side.
+partir d'un trou - ou d'un bec - sur le côté.
+
+Now: You want to know: What’s the velocity
+of the water coming out of the spout?
+Maintenant : Vous voulez savoir : quelle est la vitesse
+de l'eau qui sort du bec ?
+
+From Bernoulli’s equation, we know that
+the sum of the pressure, kinetic energy density,
+D'après l'équation de Bernoulli, nous savons que
+la somme de la pression, de la densité d'énergie cinétique
+
+and the potential energy density of the water
+at the TOP of the cooler, will equal the sum
+et de la densité d'énergie potentielle de l'eau
+au HAUT du refroidisseur sera égale à la somme
+
+of those three qualities of the water coming
+out of the spout.
+de ces trois qualités de l'eau
+sortant du bec.
+
+But we can simplify that relationship a bit,
+to find the velocity of the fluid coming out.
+Mais nous pouvons simplifier un peu cette relation,
+pour trouver la vitesse du fluide sortant.
+
+First, the upper surface of
+the water in the barrel,
+Premièrement, la surface supérieure de
+l'eau dans le baril
+
+and the water that’s coming out of the spout, are both exposed to the atmosphere.
+et l'eau qui sort du bec sont toutes deux exposées à l'atmosphère.
+
+So the pressure at those points will be the same -- it’s just the atmospheric pressure.
+Donc, la pression à ces points sera la même -- c'est juste la pression atmosphérique.
+
+So we can cross off the pressure from each
+side of the equation.
+Nous pouvons donc rayer la pression de chaque
+côté de l'équation.
+
+Now, there might be water coming out of the spout, but the top of the barrel has a much bigger area.
+Maintenant, il peut y avoir de l'eau qui sort du bec, mais le haut du baril a une surface beaucoup plus grande.
+
+So the water at the top of the barrel isn’t
+going to be moving very much.
+Ainsi, l'eau au sommet du baril
+ne bougera pas beaucoup.
+
+In fact, we can say that its velocity is basically zero.
+En fait, on peut dire que sa vitesse est fondamentalement nulle.
+
+Which means that the kinetic energy density
+for the water at the top of the barrel is zero.
+Ce qui signifie que la densité d'énergie cinétique
+de l'eau au sommet du baril est nulle.
+
+Finally, we can cross out the density in each
+term of the equation, since it’s not changing.
+Enfin, nous pouvons rayer la densité dans chaque
+terme de l'équation, puisqu'elle ne change pas.
+
+We’re left with a much simpler equation,
+with only three terms --
+Il nous reste une équation beaucoup plus simple,
+avec seulement trois termes -
+
+an equation that should look VERY familiar, if you’ve watched our episodes on the physics of motion.
+une équation qui devrait vous sembler TRÈS familière, si vous avez regardé nos épisodes sur la physique du mouvement.
+
+It’s a kinematic equation!
+C'est une équation cinématique !
+
+You already know the two main kinematic equations:
+the definition of acceleration and the displacement curve.
+Vous connaissez déjà les deux principales équations cinématiques :
+la définition de l'accélération et la courbe de déplacement.
+
+And you can rearrange them to get another
+equation that relates displacement, velocity,
+Et vous pouvez les réorganiser pour obtenir une autre
+équation qui relie le déplacement, la vitesse
+
+and acceleration -- without considering time.
+et l'accélération - sans tenir compte du temps.
+
+It’s exactly the same equation as the one
+we just found by using Bernoulli’s equation
+C'est exactement la même équation que celle que
+nous venons de trouver en utilisant l'équation de Bernoulli
+
+to describe the velocity of the water coming
+out of the spout.
+pour décrire la vitesse de l'eau
+sortant du bec.
+
+So, Torricelli’s theorem tells you that if a droplet of water fell from the same height as the top of the barrel,
+Ainsi, le théorème de Torricelli vous dit que si une goutte d'eau tombait de la même hauteur que le haut du baril,
+
+when it reached the level of the spout, it’d have the same velocity as the water coming out of the spout.
+lorsqu'elle atteignait le niveau du bec, elle aurait la même vitesse que l'eau sortant du bec.
+
+Now you know how fast the water’s
+coming out your rain barrel,
+Vous savez maintenant à quelle vitesse l'
+eau s'écoule de votre baril de pluie
+
+and how much water you’re putting in your garden over a certain amount of time.
+et combien d'eau vous mettez dans votre jardin pendant un certain laps de temps.
+
+But you want to try something fun?
+Mais vous voulez essayer quelque chose d'amusant ?
+
+Let’s turn the spout on your barrel so it’s pointing up instead of down.
+Tournons le bec verseur de votre baril pour qu'il pointe vers le haut plutôt que vers le bas.
+
+If the water from this spout could shoot straight up,
+Si l'eau de ce bec pouvait jaillir tout droit,
+
+the stream would get exactly as high as the water at the top of the barrel, before falling down to the ground.
+le jet atteindrait exactement la hauteur de l'eau au sommet du baril, avant de retomber sur le sol.
+
+Today, you learned about fluids in motion,
+with a focus on the continuity equation,
+Aujourd'hui, vous avez découvert les fluides en mouvement,
+en vous concentrant sur l'équation de continuité,
+
+Bernoulli’s equation, and Torricelli’s theorem.
+l'équation de Bernoulli et le théorème de Torricelli.
+
+You also learned that lawn mowers are loud.
+Vous avez également appris que les tondeuses à gazon sont bruyantes.
+
+Crash Course Physics is produced in
+association with PBS Digital Studios.
+Crash Course Physics est produit en
+association avec PBS Digital Studios.
+
+You can head over to their channel to check out amazing shows like BBQ With Franklin, PBS Off Book, and The Art Assignment.
+Vous pouvez vous rendre sur leur chaîne pour découvrir des émissions incroyables comme BBQ With Franklin, PBS Off Book et The Art Assignment.
+
+This episode of Crash Course was filmed in
+the Doctor Cheryl C. Kinney Crash Course Studio
+Cet épisode de Crash Course a été filmé dans
+le studio Doctor Cheryl C. Kinney Crash Course
+
+with the help of these amazing people and
+our equally amazing graphics team is Thought Cafe.
+avec l'aide de ces personnes incroyables et
+notre équipe graphique tout aussi incroyable est Thought Cafe.
+

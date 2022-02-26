@@ -1,0 +1,662 @@
+At its heart, engineering is about solving
+problems.
+À la base, l'ingénierie consiste à résoudre des
+problèmes.
+
+And for better or worse, the world won’t
+have a shortage of those anytime soon.
+Et pour le meilleur ou pour le pire, le monde n'en manquera
+pas de sitôt.
+
+Throughout this series, we’ve covered many
+of the areas where these challenges lie and
+how engineers are making their mark.
+Tout au long de cette série, nous avons couvert de
+nombreux domaines dans lesquels ces défis se situent et
+comment les ingénieurs font leur marque.
+
+But we’ve only just skimmed the surface!
+Mais nous n'avons fait qu'effleurer la surface !
+
+While we couldn’t get to them all, one thing is
+certain: the future landscape of engineering will
+be very different from what we see today.
+Bien que nous n'ayons pas pu tous les aborder, une chose est
+certaine : le futur paysage de l'ingénierie
+sera très différent de ce que nous voyons aujourd'hui.
+
+[Theme Music]
+[Theme Music]
+
+From the tiny to the large, we’ve seen
+engineering in action to deliver drugs, build
+bridges, and shore up skyscrapers.
+Du plus petit au plus grand, nous avons vu l'
+ingénierie en action pour livrer des médicaments, construire des
+ponts et consolider des gratte-ciel.
+
+In general, the kinds of problems that engineers
+solve depend on what we want and need.
+En général, les types de problèmes que les ingénieurs
+résolvent dépendent de ce que nous voulons et de ce dont nous avons besoin.
+
+Farms, factories, cities, and homes all rely on energy
+production, civil infrastructure, and communication
+networks for their basic functions.
+Les fermes, les usines, les villes et les maisons dépendent toutes de la
+production d'énergie, des infrastructures civiles et des
+réseaux de communication pour leurs fonctions de base.
+
+Society will continue to need those in some
+form in the future, which is why a lot of focus
+is put into these fields of engineering.
+La société continuera d'en avoir besoin sous une
+forme ou une autre à l'avenir, c'est pourquoi l'accent
+est mis sur ces domaines de l'ingénierie.
+
+But new engineering specialties are also popping
+up all the time.
+Mais de nouvelles spécialités d'ingénierie apparaissent également
+tout le temps.
+
+In the last decade, the demand for smartphones
+has driven huge developments in electrical and
+computer engineering.
+Au cours de la dernière décennie, la demande de smartphones
+a entraîné d'énormes développements dans le domaine de
+l'ingénierie électrique et informatique.
+
+The industry is working on improving the
+designs of components like processors and
+finding cheaper ways of producing them.
+L'industrie s'efforce d'améliorer la
+conception de composants tels que les processeurs et de
+trouver des moyens moins coûteux de les produire.
+
+In other words, economic factors can play a big
+role in what fields engineers end up working in and
+what sorts of jobs are available to them.
+En d'autres termes, les facteurs économiques peuvent jouer un
+rôle important dans les domaines dans lesquels les ingénieurs finissent par travailler et
+les types d'emplois qui leur sont proposés.
+
+But in the 21st century, there are challenges
+facing the world that go beyond economics,
+with implications for our very existence!
+Mais au 21e siècle,
+le monde est confronté à des défis qui vont au-delà de l'économie,
+avec des implications pour notre existence même !
+
+The environment is changing more radically
+than ever.
+L'environnement change plus radicalement
+que jamais.
+
+There are entirely new threats to our infrastructure.
+De toutes nouvelles menaces pèsent sur notre infrastructure.
+
+Healthcare and sanitation have the potential
+to save hundreds of millions of lives.
+Les soins de santé et l'assainissement ont le potentiel
+de sauver des centaines de millions de vies.
+
+Although engineering has improved the average
+quality of life to the best it’s ever been,
+Bien que l'ingénierie ait amélioré la
+qualité de vie moyenne à son meilleur niveau, de
+
+big challenges like these need to be addressed
+if humanity is going to keep thriving.
+grands défis comme ceux-ci doivent être relevés
+si l'humanité veut continuer à prospérer.
+
+To outline some of these problems, the US
+National Academy of Engineering, or NAE,
+Pour décrire certains de ces problèmes, la
+National Academy of Engineering des États-Unis, ou NAE,
+
+has consulted with engineers, scientists, and
+technologists to create a set of Grand Challenges
+for Engineers in the 21st century.
+a consulté des ingénieurs, des scientifiques et des
+technologues pour créer un ensemble de grands défis
+pour les ingénieurs du 21e siècle.
+
+These goals address some of the most essential
+global issues in both big and small ways.
+Ces objectifs abordent certains des problèmes mondiaux les plus essentiels
+, à la fois grands et petits.
+
+Broadly speaking, they focus on sustainability,
+security, health and general quality of life.
+D'une manière générale, ils se concentrent sur la durabilité, la
+sécurité, la santé et la qualité de vie en général.
+
+It all starts with sustainability, or making
+sure our planet stays a place where we can live.
+Tout commence par la durabilité, ou
+s'assurer que notre planète reste un endroit où nous pouvons vivre.
+
+To heal the environment and keep humanity
+safe, we need to engineer a future that looks
+very different from our past.
+Pour soigner l'environnement et
+assurer la sécurité de l'humanité, nous devons concevoir un avenir
+très différent de notre passé.
+
+To prevent further damage from the burning
+of fossil fuels, we need to develop cleaner
+methods for energy production.
+Pour éviter d'autres dommages dus à la combustion
+de combustibles fossiles, nous devons développer des méthodes plus propres
+de production d'énergie.
+
+Engineers are already working to make solar
+panels more efficient and investigate the possibility
+of power plants that use nuclear fusion.
+Les ingénieurs travaillent déjà à rendre les
+panneaux solaires plus efficaces et étudient la possibilité
+de centrales électriques utilisant la fusion nucléaire.
+
+But producing power isn’t the only way we’re
+warming the planet.
+Mais produire de l'électricité n'est pas le seul moyen de
+réchauffer la planète.
+
+Modern agriculture uses lots of artificial
+fertilizers to increase food production.
+L'agriculture moderne utilise beaucoup d'
+engrais artificiels pour augmenter la production alimentaire.
+
+Unfortunately, only some gets absorbed into
+living things like crops; much of the rest escapes
+to the atmosphere as nitrogen oxide.
+Malheureusement, seuls certains sont absorbés par les
+êtres vivants comme les cultures ;  une grande partie du reste s'échappe
+dans l'atmosphère sous forme d'oxyde d'azote.
+
+There, it acts as a greenhouse gas, trapping in
+heat and deepening the effects of climate change.
+Là, il agit comme un gaz à effet de serre, emprisonnant la
+chaleur et intensifiant les effets du changement climatique.
+
+Worse still, some returns to Earth in the
+form of acid rain.
+Pire encore, certains reviennent sur Terre sous
+forme de pluies acides.
+
+To address these problems, engineers need
+to find ways of stopping nitrogen from leaking
+out of the food production process.
+Pour résoudre ces problèmes, les ingénieurs
+doivent trouver des moyens d'empêcher l'azote de
+s'échapper du processus de production alimentaire.
+
+Stopping the release of nitrogen oxide is
+essential for managing the nitrogen cycle
+that supports the Earth’s ecosystem.
+L'arrêt de la libération d'oxyde d'azote est
+essentiel pour gérer le cycle de l'azote
+qui soutient l'écosystème terrestre.
+
+And that may mean designing new methods of
+applying fertilizer, or processing organic waste into
+more environmentally-friendly alternatives.
+Et cela peut signifier concevoir de nouvelles méthodes d'
+application d'engrais ou transformer les déchets organiques en
+alternatives plus respectueuses de l'environnement.
+
+But it’s too late to just change what we
+do in the future.
+Mais il est trop tard pour changer ce que nous
+faisons à l'avenir.
+
+To fix the warming planet, we need to reverse
+the effects of greenhouse gases.
+Pour réparer le réchauffement de la planète, nous devons inverser
+les effets des gaz à effet de serre.
+
+That’s the goal behind carbon sequestration,
+which aims to take carbon dioxide out the
+atmosphere and store it safely away.
+C'est l'objectif de la séquestration du carbone,
+qui vise à éliminer le dioxyde de carbone de l'
+atmosphère et à le stocker en toute sécurité.
+
+The good news is, sequestration is already
+possible!
+La bonne nouvelle, c'est que la séquestration est déjà
+possible !
+
+There are chemical reactions for capturing
+CO2, like the kind used to add fizz to soda.
+Il existe des réactions chimiques pour capturer le
+CO2, comme celles utilisées pour ajouter du pétillant au soda.
+
+The huge challenge is to scale up that technology to
+remove billions of tonnes of it from the atmosphere
+in a way that’s economically viable.
+L'énorme défi consiste à développer cette technologie pour en
+éliminer des milliards de tonnes de l'atmosphère
+d'une manière économiquement viable.
+
+A good start would be capturing carbon dioxide
+as it is released from fossil fuel-based energy plants.
+Un bon début serait de capturer le dioxyde de carbone
+tel qu'il est rejeté par les centrales énergétiques à base de combustibles fossiles.
+
+The smokestacks in coal-powered plants could
+be altered to absorb greenhouse gases at the source.
+Les cheminées des centrales au charbon pourraient
+être modifiées pour absorber les gaz à effet de serre à la source.
+
+And once we can prevent its release or take
+it out of the atmosphere, we’ll need a way
+to store that CO2.
+Et une fois que nous pourrons empêcher sa libération ou le
+retirer de l'atmosphère, nous aurons besoin d'un moyen
+de stocker ce CO2.
+
+Engineers are working on finding places, like
+deep within porous rock formations, where
+all that carbon could be put away.
+Les ingénieurs travaillent à trouver des endroits, comme au plus
+profond des formations rocheuses poreuses, où
+tout ce carbone pourrait être stocké.
+
+While preventing environmental ruin is a huge
+task, there are other risks engineers need to
+plan for in the future.
+Bien que la prévention de la destruction de l'environnement soit une
+tâche énorme, il existe d'autres risques que les ingénieurs doivent
+prévoir à l'avenir.
+
+While civil engineering has provided a lot of
+infrastructure needed to support our daily lives,
+not enough work has gone into maintaining it.
+Bien que le génie civil ait fourni de nombreuses
+infrastructures nécessaires à notre vie quotidienne, il
+n'y a pas eu assez de travail pour les entretenir.
+
+Old structures and outdated transportation
+systems are in need of modernization to make
+them safer and more reliable.
+Les anciennes structures et les
+systèmes de transport obsolètes ont besoin d'être modernisés pour les
+rendre plus sûrs et plus fiables.
+
+As part of these efforts, engineers in the UK are
+sending electromagnetic waves through the ground
+Dans le cadre de ces efforts, des ingénieurs britanniques
+envoient des ondes électromagnétiques à travers le sol
+
+to locate buried objects like pipes and cables
+that are part of the current communication
+and plumbing networks.
+pour localiser des objets enterrés tels que des tuyaux et des câbles
+qui font partie des
+réseaux de communication et de plomberie actuels.
+
+This will allow engineers to map them out
+and improve waste treatment facilities and
+telephone networks,
+Cela permettra aux ingénieurs de les cartographier
+et d'améliorer les installations de traitement des déchets et
+les réseaux téléphoniques,
+
+making those systems more
+resilient against potential catastrophes.
+rendant ces systèmes plus
+résistants aux catastrophes potentielles.
+
+Sadly, the risks posed to infrastructure aren’t
+just because of negligence.
+Malheureusement, les risques posés aux infrastructures ne sont pas
+seulement dus à la négligence.
+
+As the world becomes more connected, systems
+like power grids are increasingly coordinated
+using networks of computers.
+À mesure que le monde devient de plus en plus connecté, des systèmes
+tels que les réseaux électriques sont de plus en plus coordonnés à l'
+aide de réseaux d'ordinateurs.
+
+Unfortunately, that makes them more vulnerable
+to attacks from hackers!
+Malheureusement, cela les rend plus vulnérables
+aux attaques de pirates !
+
+In 2015, hackers managed to disrupt the power grid
+in Ukraine, temporarily cutting off the supply of
+electricity to 230,000 residents for several hours.
+En 2015, des pirates ont réussi à perturber le réseau électrique
+en Ukraine, coupant temporairement l'approvisionnement en
+électricité de 230 000 habitants pendant plusieurs heures.
+
+If attacks like this continue to escalate
+in scale, they could threaten important services
+like hospitals and firefighters.
+Si des attaques comme celle-ci continuent de prendre
+de l'ampleur, elles pourraient menacer des services importants
+comme les hôpitaux et les pompiers.
+
+To prevent hackers from attacking critical infrastructure,
+Pour empêcher les pirates de s'attaquer aux infrastructures critiques,
+
+computer engineers are developing solutions
+to ensure that only trusted operators can access
+the systems that control them.
+les ingénieurs informaticiens développent des solutions
+pour s'assurer que seuls les opérateurs de confiance peuvent accéder
+aux systèmes qui les contrôlent.
+
+That involves developing more secure software,
+Cela implique de développer des logiciels plus sécurisés
+
+and even implementing new hardware like
+fingerprint scanners to make sure only a few
+designated people can make changes.
+et même de mettre en œuvre de nouveaux matériels comme des
+scanners d'empreintes digitales pour s'assurer que seules quelques
+personnes désignées peuvent apporter des modifications.
+
+They can also organize vulnerable computer
+systems to operate on networks that are entirely
+disconnected from the internet,
+Ils peuvent également organiser des systèmes informatiques vulnérables
+pour qu'ils fonctionnent sur des réseaux entièrement
+déconnectés d'Internet, de
+
+so hackers have a harder time accessing
+them in the first place.
+sorte que les pirates ont plus de mal à y
+accéder en premier lieu.
+
+But big threats to infrastructure aren’t
+just restricted to cyberspace!
+Mais les grandes menaces pour les infrastructures ne
+se limitent pas au cyberespace !
+
+Although nuclear weapons haven’t been used
+in warfare since World War II,
+Bien que les armes nucléaires n'aient pas été utilisées
+dans la guerre depuis la Seconde Guerre mondiale,
+
+there’s always the chance that a malicious
+group could turn stolen nuclear material into
+an improvised bomb.
+il y a toujours la possibilité qu'un
+groupe malveillant puisse transformer du matériel nucléaire volé en
+une bombe improvisée.
+
+To prevent this, engineers are developing ways to monitor and track the radioactive elements used in places like energy plants, hospitals, and research facilities.
+Pour éviter cela, les ingénieurs développent des moyens de surveiller et de suivre les éléments radioactifs utilisés dans des endroits comme les centrales énergétiques, les hôpitaux et les installations de recherche.
+
+For example, devices could be designed that
+measure the radioactivity near nuclear reactors,
+giving an indication of the amount of material inside.
+Par exemple, des dispositifs pourraient être conçus pour
+mesurer la radioactivité à proximité des réacteurs nucléaires,
+donnant une indication de la quantité de matière à l'intérieur.
+
+If that level drops suddenly and without explanation,
+it could alert investigators that a theft has occurred.
+Si ce niveau baisse soudainement et sans explication,
+cela pourrait alerter les enquêteurs qu'un vol a eu lieu.
+
+Now, this all kinda sounds like the future
+of engineering is just preventing terrible
+things from happening.
+Maintenant, tout cela ressemble un peu à l'avenir
+de l'ingénierie qui empêche simplement que
+des choses terribles se produisent.
+
+But the good news is that engineering is also
+an active, positive force for improving lives.
+Mais la bonne nouvelle est que l'ingénierie est aussi
+une force active et positive pour améliorer la vie.
+
+Because of the incredible pace at which technology
+has advanced, engineering can make huge strides
+in the fields of health and sanitation.
+En raison du rythme incroyable auquel la technologie
+a progressé, l'ingénierie peut faire d'énormes progrès
+dans les domaines de la santé et de l'assainissement.
+
+We saw a way to provide better access to clean water
+in the context of engineering design, which is vital for
+sanitation and preventing the outbreak of disease.
+Nous avons vu un moyen de fournir un meilleur accès à l'eau potable
+dans le cadre de la conception technique, qui est vitale pour l'
+assainissement et la prévention des épidémies.
+
+But there are lots of ways engineers could
+help treat diseases, too.
+Mais il existe de nombreuses façons dont les ingénieurs pourraient également
+aider à traiter les maladies.
+
+The tools of genetic engineering, for example, give us new ways to create medicine, such as specially-designed enzymes that produce cancer drugs more efficiently.
+Les outils du génie génétique, par exemple, nous offrent de nouvelles façons de créer des médicaments, comme des enzymes spécialement conçues pour produire plus efficacement des médicaments anticancéreux.
+
+Some recent advances like CRISPR might even
+allow doctors to treat patients based on their DNA
+and eliminate certain diseases entirely.
+Certaines avancées récentes comme CRISPR pourraient même
+permettre aux médecins de traiter les patients en fonction de leur ADN
+et d'éliminer complètement certaines maladies.
+
+And as we saw with biodevices, new hardware
+is being developed to work within the body for
+medical diagnoses and monitoring.
+Et comme nous l'avons vu avec les biodispositifs, de nouveaux matériels
+sont en cours de développement pour fonctionner dans le corps pour
+les diagnostics et la surveillance médicale.
+
+The data that those devices collect, like blood
+pressure and heart rate, could be used to alert doctors
+immediately when something goes wrong.
+Les données collectées par ces appareils, telles que la
+pression artérielle et la fréquence cardiaque, pourraient être utilisées pour
+alerter immédiatement les médecins en cas de problème.
+
+Grouped across many patients, this data could
+also be used to investigate and predict healthcare
+trends, a field called health informatics.
+Regroupées sur de nombreux patients, ces données pourraient
+également être utilisées pour étudier et prédire les tendances en matière de soins de santé
+, un domaine appelé informatique de la santé.
+
+Engineers will play an enormous role in designing
+the systems that collect, transmit, and even
+analyze that data.
+Les ingénieurs joueront un rôle énorme dans la conception
+des systèmes qui collectent, transmettent et même
+analysent ces données.
+
+As well as personalizing healthcare, engineering
+can develop other kinds of tools that are tailored
+to individuals, like those used in education.
+En plus de personnaliser les soins de santé, l'ingénierie
+peut développer d'autres types d'outils adaptés
+aux individus, comme ceux utilisés dans l'éducation.
+
+Many current resources, including videos like
+this one, are aimed at a broad audience.
+De nombreuses ressources actuelles, y compris des vidéos comme
+celle-ci, s'adressent à un large public.
+
+In the future, though, resources could be designed to change the style and depth of information they provide based on an individual student’s strengths and preferences.
+À l'avenir, cependant, les ressources pourraient être conçues pour modifier le style et la profondeur des informations qu'elles fournissent en fonction des forces et des préférences de chaque élève.
+
+Imagine an online textbook that could automatically
+elaborate on topics you didn’t get the first time around,
+Imaginez un manuel en ligne qui pourrait automatiquement
+élaborer sur des sujets que vous n'avez pas abordés la première fois,
+
+or digital flashcards that adapt to test you
+on the things you forget most often.
+ou des cartes mémoire numériques qui s'adaptent pour vous tester
+sur les choses que vous oubliez le plus souvent.
+
+New hardware, like virtual or augmented reality
+headsets, could even provide simulated environments
+for students to learn and experiment in.
+Le nouveau matériel, comme les casques de réalité virtuelle ou augmentée
+, pourrait même fournir des environnements simulés
+dans lesquels les étudiants peuvent apprendre et expérimenter.
+
+Software engineers will be key to bringing
+these sorts of tools into classrooms and homes.
+Les ingénieurs en logiciel joueront un rôle clé dans l'introduction de
+ces types d'outils dans les salles de classe et les maisons.
+
+Of course, similar technologies could be applied to
+every aspect of our lives to allow our thoughts and
+personalities to influence our environments.
+Bien sûr, des technologies similaires pourraient être appliquées à
+tous les aspects de notre vie pour permettre à nos pensées et
+à nos personnalités d'influencer notre environnement.
+
+But to do that, we’d need to understand
+the brain a lot better than we do now.
+Mais pour ce faire, nous aurions besoin de mieux comprendre
+le cerveau que nous ne le faisons actuellement.
+
+Understanding the human brain is one of the
+biggest scientific challenges there is.
+Comprendre le cerveau humain est l'un des
+plus grands défis scientifiques qui soit.
+
+Doing so would allow us to develop new medical
+and psychiatric treatments.
+Cela nous permettrait de développer de nouveaux
+traitements médicaux et psychiatriques.
+
+Modeling computer systems on the design of
+the human brain could also give us entirely
+new ways of solving problems.
+La modélisation des systèmes informatiques sur la conception du
+cerveau humain pourrait également nous donner de toutes
+nouvelles façons de résoudre les problèmes.
+
+You’ve probably heard of the progress being
+made in fields like artificial intelligence.
+Vous avez probablement entendu parler des progrès
+réalisés dans des domaines comme l'intelligence artificielle.
+
+The goal is to construct systems with problem-solving
+capabilities similar to the kind humans have,
+L'objectif est de construire des systèmes dotés de capacités de résolution de problèmes
+similaires à celles des humains,
+
+such as driving cars or recognizing tumours
+in X-ray scans.
+comme la conduite de voitures ou la reconnaissance de tumeurs
+dans les radiographies.
+
+So far, we can only crudely mimic how brain
+cells are connected.
+Jusqu'à présent, nous ne pouvons qu'imiter grossièrement la façon dont les
+cellules cérébrales sont connectées.
+
+Understanding how the brain works more completely
+could help us replicate some of its remarkable abilities.
+Comprendre comment le cerveau fonctionne plus complètement
+pourrait nous aider à reproduire certaines de ses capacités remarquables.
+
+On this front, engineers are developing new
+hardware to assist in making scientific discoveries,
+like infrared sensors that measure brain activity.
+Sur ce front, les ingénieurs développent de nouveaux
+matériels pour aider à faire des découvertes scientifiques,
+comme des capteurs infrarouges qui mesurent l'activité cérébrale.
+
+This helps us to understand how physical changes
+like blood flow and electrical impulses correspond
+to the act of thinking.
+Cela nous aide à comprendre comment les changements physiques
+comme le flux sanguin et les impulsions électriques correspondent
+à l'acte de penser.
+
+And determining that could help us better
+model individual parts of the brain and improve
+our efforts at artificial intelligence.
+Et déterminer cela pourrait nous aider à mieux
+modéliser des parties individuelles du cerveau et à améliorer
+nos efforts en matière d'intelligence artificielle.
+
+From brains to biofuels, it’s clear that
+engineers have lots of ways to impact the future.
+Des cerveaux aux biocarburants, il est clair que les
+ingénieurs ont de nombreuses façons d'influencer l'avenir.
+
+Despite the challenges laid out by the NAE, the truth
+is that engineering rarely goes the way we predict.
+Malgré les défis posés par la NAE, la vérité
+est que l'ingénierie se déroule rarement comme nous le prévoyons.
+
+Few people would have thought that less than
+70 years would separate the flight of the first
+airplane from our first steps on the Moon.
+Peu de gens auraient pensé que moins de
+70 ans sépareraient le vol du premier
+avion de nos premiers pas sur la Lune.
+
+The development of technology, and the challenges
+that come with it, are still big questions on the horizon.
+Le développement de la technologie et les défis
+qui l'accompagnent sont encore de grandes questions à l'horizon.
+
+But what we can say is that whatever the future holds,
+Mais ce que nous pouvons dire, c'est que quoi que l'avenir nous réserve,
+
+the problem solving skills and fundamental
+ideas provided by engineering will put you in a
+good spot to take a crack at them yourself.
+les compétences en résolution de problèmes et les
+idées fondamentales fournies par l'ingénierie vous mettront en
+bonne position pour vous y essayer vous-même.
+
+Because that’s really what engineering is
+all about – using bright ideas to tackle
+big challenges!
+Parce que c'est vraiment ce qu'est l'
+ingénierie - utiliser des idées brillantes pour relever de
+grands défis !
+
+And we hope this series has put you on the
+path to do just that.
+Et nous espérons que cette série vous a mis sur la
+voie pour y parvenir.
+
+Crash Course Engineering is produced in association
+with PBS Digital Studios.
+Crash Course Engineering est produit en association
+avec PBS Digital Studios.
+
+Wanna keep getting smarter with us?
+Voulez-vous continuer à devenir plus intelligent avec nous ?
+
+Check out Space Time, which explores the outer
+reaches of space, the depths of astrophysics,
+Découvrez Space Time, qui explore les
+confins de l'espace, les profondeurs de l'astrophysique,
+
+the possibilities of sci-fi, and anything
+else you can think of beyond Planet Earth.
+les possibilités de la science-fiction et tout
+ce à quoi vous pouvez penser au-delà de la planète Terre.
+
+Subscribe at the link in the description.
+Abonnez-vous au lien dans la description.
+
+Crash Course is a Complexly production and this
+episode was filmed in the Doctor Cheryl C. Kinney
+Studio with the help of these wonderful people.
+Crash Course est une production de Complexly et cet
+épisode a été filmé dans le studio du docteur Cheryl C. Kinney
+avec l'aide de ces personnes merveilleuses.
+
+And our amazing graphics team is Thought Cafe.
+Et notre incroyable équipe graphique est Thought Cafe.
+

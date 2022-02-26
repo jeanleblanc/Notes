@@ -1,0 +1,365 @@
+You can review content from Crash Course Organic Chemistry with the Crash Course app, available now for Android and iOS devices.
+Vous pouvez consulter le contenu de Crash Course Organic Chemistry avec l'application Crash Course, disponible dès maintenant pour les appareils Android et iOS.
+
+Hi! I’m Deboki Chakravarti and welcome to Crash Course Organic Chemistry!
+Salut!  Je suis Deboki Chakravarti et bienvenue au cours intensif de chimie organique !
+
+Before we get too deep into chemical reactions and equations and graphs, let's take a deep breath…
+Avant d'aller trop loin dans les réactions chimiques, les équations et les graphiques, prenons une profonde respiration…
+
+Did you smell anything?
+Avez-vous senti quelque chose ?
+
+Maybe the damp soil of a houseplant or musty curtains or whatever your roommate microwaved for lunch?
+Peut-être le sol humide d'une plante d'intérieur ou des rideaux moisis ou tout ce que votre colocataire a passé au micro-ondes pour le déjeuner ?
+
+Almost everything you smell is an organic chemical.
+Presque tout ce que vous sentez est un produit chimique organique.
+
+Sometimes we can even smell whether or not a reaction has taken place.
+Parfois, nous pouvons même sentir si une réaction a eu lieu ou non.
+
+Take lemons, for example.
+Prenez les citrons, par exemple.
+
+A major component of that bright lemony smell is limonene.
+Un composant majeur de cette odeur citronnée brillante est le limonène.
+
+Limonene has two double bonds in its structure, and enzymes can catalyze a reaction to make just one of them add a water molecule.
+Le limonène a deux doubles liaisons dans sa structure, et les enzymes peuvent catalyser une réaction pour qu'une seule d'entre elles ajoute une molécule d'eau.
+
+The product of this enzyme-catalyzed reaction, called alpha-terpineol, smells like lilacs instead.
+Le produit de cette réaction catalysée par une enzyme, appelé alpha-terpinéol, sent plutôt le lilas.
+
+So how do reactions like these happen and why don’t lemons smell like lilacs if you leave them out for a while?
+Alors, comment se produisent de telles réactions et pourquoi les citrons ne sentent-ils pas le lilas si vous les laissez dehors pendant un moment ?
+
+To answer questions like these with organic chemistry, we need to think about concepts like reaction kinetics, thermodynamics, spontaneity, and free energy.
+Pour répondre à de telles questions avec la chimie organique, nous devons réfléchir à des concepts tels que la cinétique de réaction, la thermodynamique, la spontanéité et l'énergie libre.
+
+So in this episode, we’ll learn how different reactions can move at vastly different speeds and how not everything that could happen actually does.
+Ainsi, dans cet épisode, nous apprendrons comment différentes réactions peuvent se déplacer à des vitesses très différentes et comment tout ce qui pourrait arriver ne se produit pas réellement.
+
+[Theme Music]
+[Thème musical]
+
+In order to have a really useful chemical reaction, two things need to be true:
+Afin d'avoir une réaction chimique vraiment utile, deux choses doivent être vraies :
+
+there should be more products than reactants when the reaction is done, and the reaction must take place at a reasonable speed.
+il doit y avoir plus de produits que de réactifs lorsque la réaction est terminée, et la réaction doit avoir lieu à une vitesse raisonnable.
+
+We use two terms to describe these conditions:
+Nous utilisons deux termes pour décrire ces conditions : la
+
+thermodynamics for the energy and reaction progress, and kinetics for how fast a reaction happens.
+thermodynamique pour l'énergie et la progression de la réaction, et la cinétique pour la vitesse à laquelle une réaction se produit.
+
+You might remember from general chemistry that thermodynamics involved all these different terms like ΔH, ΔG, and ΔS.
+Vous vous souvenez peut-être de la chimie générale que la thermodynamique impliquait tous ces différents termes comme ΔH, ΔG et ΔS.
+
+We'll need these ideas to understand organic chemical reactions, so let's review.
+Nous aurons besoin de ces idées pour comprendre les réactions chimiques organiques, alors passons en revue.
+
+First, ΔH is enthalpy, which means the change in heat of a reaction at constant pressure.
+Premièrement, ΔH est l'enthalpie, ce qui signifie le changement de chaleur d'une réaction à pression constante.
+
+A good way to understand enthalpy is with chemical hot and cold packs that you might use for an injury.
+Une bonne façon de comprendre l'enthalpie consiste à utiliser des compresses chimiques chaudes et froides que vous pourriez utiliser pour une blessure.
+
+A hot pack gets hot because the products of the reaction: the dissolved salt ions in solution
+Une compresse chaude devient chaude parce que les produits de la réaction : les ions de sel dissous en solution
+
+have lower energy than the reactants: the undissolved salt.
+ont une énergie inférieure à celle des réactifs : le sel non dissous.
+
+This is called an exothermic process because heat is given off by the reaction, warming the pack, and the sign of ΔH is negative.
+C'est ce qu'on appelle un processus exothermique car la chaleur est dégagée par la réaction, réchauffant le pack, et le signe de ΔH est négatif.
+
+On the other hand, a cold pack pulls in heat, usually from our bruised knee, so it feels cold to the touch.
+D'autre part, une compresse froide attire la chaleur, généralement de notre genou meurtri, de sorte qu'elle est froide au toucher.
+
+The products have higher energy than the reactants.
+Les produits ont une énergie plus élevée que les réactifs.
+
+This is called an endothermic process because heat moves into the pack, and the sign of ΔH is positive.
+C'est ce qu'on appelle un processus endothermique car la chaleur pénètre dans le pack et le signe de ΔH est positif.
+
+Second, ΔS is entropy, which is the idea that the world is always moving toward more chaos.
+Deuxièmement, ΔS est l'entropie, qui est l'idée que le monde se dirige toujours vers plus de chaos.
+
+Entropy explains why a sugar cube dissolves in tea, or why a marching band needs to work hard to keep a sharp formation instead of dissolving into a random noise-making crowd.
+L'entropie explique pourquoi un morceau de sucre se dissout dans le thé, ou pourquoi une fanfare doit travailler dur pour garder une formation nette au lieu de se dissoudre dans une foule bruyante et aléatoire.
+
+For example, entropy increases and ΔS is positive when one reactant splits up into two products, or when a ring compound opens into a more wiggly chain.
+Par exemple, l'entropie augmente et ΔS est positif lorsqu'un réactif se divise en deux produits, ou lorsqu'un composé cyclique s'ouvre sur une chaîne plus ondulée.
+
+The relationship of enthalpy, entropy, and temperature, which we represent with T in units of Kelvin, tells us about another important term:
+La relation entre l'enthalpie, l'entropie et la température, que nous représentons avec T en unités de Kelvin, nous renseigne sur un autre terme important :
+
+ΔG or Gibbs free energy.
+ΔG ou énergie libre de Gibbs.
+
+This allows us to predict whether a reaction occurs spontaneously or whether we have to use force to get the reaction to move along.
+Cela nous permet de prédire si une réaction se produit spontanément ou si nous devons utiliser la force pour faire avancer la réaction.
+
+The sign of ΔG tells us the most important thing about our reaction: whether it happens spontaneously or not.
+Le signe de ΔG nous dit la chose la plus importante sur notre réaction : si elle se produit spontanément ou non.
+
+A negative ΔG means a reaction is spontaneous, and may have energy left after reacting to do work, like push a piston or explode.
+Un ΔG négatif signifie qu'une réaction est spontanée et qu'il peut rester de l'énergie après avoir réagi pour effectuer un travail, comme pousser un piston ou exploser.
+
+And a positive ΔG means a reaction is nonspontaneous and we have to force it to happen somehow.
+Et un ΔG positif signifie qu'une réaction n'est pas spontanée et que nous devons la forcer à se produire d'une manière ou d'une autre.
+
+The relationship between these four terms can be expressed mathematically:
+La relation entre ces quatre termes peut être exprimée mathématiquement :
+
+ΔG equals ΔH minus T times ΔS.
+ΔG est égal à ΔH moins T fois ΔS.
+
+Finally, we need to be familiar with K, the equilibrium constant, which we talked about in episode 11 when we talked about acidity.
+Enfin, il faut se familiariser avec K, la constante d'équilibre, dont on a parlé dans l'épisode 11 quand on a parlé d'acidité.
+
+We called this term Ka or the acid dissociation constant, but all Ks are defined the same way:
+Nous avons appelé ce terme Ka ou la constante de dissociation acide, mais tous les K sont définis de la même manière :
+
+the amount of products divided by the amount of reactants when the forward and reverse reaction rates are equal.
+la quantité de produits divisée par la quantité de réactifs lorsque les vitesses de réaction directe et inverse sont égales.
+
+As a quick refresher, if K is large, the reaction mixture is mostly products.
+Pour rappel rapide, si K est grand, le mélange réactionnel est principalement composé de produits.
+
+And if K is small, the reaction mixture is
+mostly reactants.
+Et si K est petit, le mélange réactionnel est principalement composé de
+réactifs.
+
+To relate K to all the other terms, we have a second equation:
+Pour relier K à tous les autres termes, nous avons une deuxième équation :
+
+ΔG equals negative R times T times the natural log of K.
+ΔG est égal à R négatif multiplié par T multiplié par le logarithme naturel de K.
+
+Basically, this equation tells us that a negative ΔG, which means a reaction is spontaneous, will have a large K.
+Fondamentalement, cette équation nous dit qu'un ΔG négatif, ce qui signifie qu'une réaction est spontanée, aura une grande  K.
+
+So we know the opposite relationship too: a positive ΔG will have a small K, and the reaction is nonspontaneous.
+Nous connaissons donc également la relation inverse : un ΔG positif aura un petit K, et la réaction n'est pas spontanée.
+
+It can be tough to understand all these relationships just from equations, but we can visualize them with energy diagrams.
+Il peut être difficile de comprendre toutes ces relations uniquement à partir d'équations, mais nous pouvons les visualiser avec des diagrammes d'énergie.
+
+The y-axis represents the energy of the reaction, and that's usually represented by ΔH or ΔG.
+L'axe y représente l'énergie de la réaction, généralement représentée par ΔH ou ΔG.
+
+For this episode, we'll just think about the enthalpy of the reaction, ΔH, for simplicity.
+Pour cet épisode, nous allons juste penser à l'enthalpie de la réaction, ΔH, pour plus de simplicité.
+
+The x-axis of an energy diagram represents the reaction progress, a line that starts with reactants on the left and moves towards products on the right.
+L'axe des x d'un diagramme d'énergie représente la progression de la réaction, une ligne qui commence par les réactifs à gauche et se déplace vers les produits à droite.
+
+The peak of the hill in between reactants and products is the transition state.
+Le sommet de la colline entre les réactifs et les produits est l'état de transition.
+
+Not all hills are perfect cartoon parabolas that start and end at the same flat grassy level.
+Toutes les collines ne sont pas des paraboles de dessin animé parfaites qui commencent et se terminent au même niveau d'herbe plat.
+
+We have to pay attention to how high or low the reactants and products are in an energy diagram, because that tells us even more about the reaction.
+Nous devons faire attention à la valeur élevée ou faible des réactifs et des produits dans un diagramme d'énergie, car cela nous en dit encore plus sur la réaction.
+
+If the products end up below the reactants, they are lower energy, so ΔH is negative.
+Si les produits se retrouvent sous les réactifs, ils ont une énergie inférieure, donc ΔH est négatif.
+
+This kind of chemical reaction can give off heat, like our hot pack, and the reaction is considered exothermic.
+Ce type de réaction chimique peut dégager de la chaleur, comme notre compresse chaude, et la réaction est considérée comme exothermique.
+
+If the products end up higher than the reactants, they are higher energy and the reaction needs outside energy to happen, so ΔH is positive.
+Si les produits finissent plus haut que les réactifs, ils ont une énergie plus élevée et la réaction a besoin d'énergie extérieure pour se produire, donc ΔH est positif.
+
+This kind of chemical reaction needs heat to flow in so it can make the products, like our cold pack, so it's considered endothermic.
+Ce type de réaction chimique a besoin de chaleur pour circuler afin de fabriquer des produits, comme notre compresse froide, de sorte qu'elle est considérée comme endothermique.
+
+Sometimes, just being at room temperature is enough extra energy to make it happen.
+Parfois, le simple fait d'être à température ambiante est suffisant pour que cela se produise.
+
+The difference in energy between where the reactants start and the top of the hill is called the activation energy, which is the energy required to get the reaction started.
+La différence d'énergie entre le point de départ des réactifs et le sommet de la colline s'appelle l'énergie d'activation, qui est l'énergie nécessaire pour démarrer la réaction.
+
+But here's the thing: you can climb a hill from both directions, not just one.
+Mais voici le truc : vous pouvez gravir une colline dans les deux sens, pas seulement un.
+
+So we can consider the height of the hill from the forward direction, reactants to products, and the reverse direction, products to reactants.
+Nous pouvons donc considérer la hauteur de la colline dans le sens direct, des réactifs aux produits, et dans le sens inverse, des produits aux réactifs.
+
+And activation energy can help us think about equilibrium.
+Et l'énergie d'activation peut nous aider à penser à l'équilibre.
+
+Climbing a hill isn't easy, no matter how much you go hiking!
+Gravir une colline n'est pas facile, peu importe combien vous faites de randonnée !
+
+So a big reverse activation energy favors the products.
+Donc une grande énergie d'activation inverse favorise les produits.
+
+Once the molecules get to the other side, they want to chill in that low point instead of putting in all the effort to climb to the top again.
+Une fois que les molécules sont arrivées de l'autre côté, elles veulent se détendre dans ce point bas au lieu de déployer tous les efforts nécessaires pour remonter au sommet.
+
+And a big forward activation energy favors the reactants because not all of them will have enough oomph to make it up and over the top.
+Et une grande énergie d'activation vers l'avant favorise les réactifs car ils n'auront pas tous assez de punch pour le rattraper et le dépasser.
+
+Using the same hiking analogy, bigger hills with larger activation energies generally mean a slower chemical reaction.
+En utilisant la même analogie de randonnée, de plus grandes collines avec des énergies d'activation plus importantes signifient généralement une réaction chimique plus lente.
+
+I remember this because a big hill takes a lot more effort to hike up and over, while smaller hills are faster to climb.
+Je m'en souviens parce qu'une grande colline demande beaucoup plus d'efforts pour monter et remonter, tandis que les petites collines sont plus rapides à gravir.
+
+No matter what, though, it takes energy!
+Quoi qu'il en soit, il faut de l'énergie !
+
+For example, let's take a look at the reaction between but-1-ene and hydrogen bromide, which can form a primary or secondary carbocation.
+Par exemple, regardons la réaction entre le but-1-ène et le bromure d'hydrogène, qui peut former un carbocation primaire ou secondaire.
+
+We know that high-energy double bonds break to form the carbocations, and we get a new bond to hydrogen.
+Nous savons que les doubles liaisons à haute énergie se rompent pour former les carbocations, et nous obtenons une nouvelle liaison à l'hydrogène.
+
+Both of these reactions are endothermic,
+Ces deux réactions sont endothermiques,
+
+and it’s important to remember that it's the balance of making and breaking bonds that determines the overall enthalpy of the reaction.
+et il est important de se rappeler que c'est l'équilibre entre la création et la rupture des liaisons qui détermine l'enthalpie globale de la réaction.
+
+But the energy diagram to form the primary and secondary carbocations are slightly different.
+Mais le diagramme d'énergie pour former les carbocations primaires et secondaires est légèrement différent.
+
+We learned in episode 14 that induction and hyperconjugation make the secondary carbocation more stable than the primary carbocation.
+Nous avons appris dans l'épisode 14 que l'induction et l'hyperconjugaison rendent le carbocation secondaire plus stable que le carbocation primaire.
+
+And from this energy diagram, we can conclude that the more stable secondary carbocation takes less energy to form because the hill is easier to climb!
+Et à partir de ce diagramme d'énergie, nous pouvons conclure que le carbocation secondaire plus stable prend moins d'énergie pour se former car la colline est plus facile à gravir !
+
+So far, we've been exploring energy diagrams as one lonely hill with reactants on the left and products on the right.
+Jusqu'à présent, nous avons exploré les diagrammes d'énergie comme une colline isolée avec des réactifs à gauche et des produits à droite.
+
+But, as we've started to see in previous episodes, reactions in organic chemistry can be whole journeys with mountains and valleys and multi-step reactions.
+Mais, comme nous avons commencé à le voir dans les épisodes précédents, les réactions en chimie organique peuvent être des voyages entiers avec des montagnes et des vallées et des réactions en plusieurs étapes.
+
+So let's try working our way through a big reaction, for practice, and see what its energy diagram looks like.
+Essayons donc de nous frayer un chemin à travers une grande réaction, pour la pratique, et voyons à quoi ressemble son diagramme d'énergie.
+
+Just for fun, we'll do a reaction between 2-methylprop-2-ene and methanol, which forms MTBE or methyl tert-butyl ether.
+Juste pour le plaisir, nous allons faire une réaction entre le 2-méthylprop-2-ène et le méthanol, qui forme le MTBE ou méthyl tert-butyl éther.
+
+You might've heard of it as the controversial anti-knock gasoline additive, which basically means it adjusts how combustion works in engines.
+Vous en avez peut-être entendu parler en tant qu'additif anti-détonant controversé pour l'essence, ce qui signifie essentiellement qu'il ajuste le fonctionnement de la combustion dans les moteurs.
+
+If your brain's like mine, you might notice the sulfuric acid above the reaction arrow and go,
+Si votre cerveau est comme le mien, vous remarquerez peut-être l'acide sulfurique au-dessus de la flèche de réaction et vous direz :
+
+"Oh! That's a super strong acid, which means it completely dissociates in water"
+"Oh ! C'est un acide super fort, ce qui signifie qu'il se dissocie complètement dans l'eau",
+
+but we don't have water here, we have methanol instead.
+mais nous n'avons pas d'eau ici, nous avons du méthanol à la place.
+
+So our first instinct to do something with sulfuric acid is a good one, and it can transfer a proton to methanol.
+Donc, notre premier instinct pour faire quelque chose avec de l'acide sulfurique est bon, et il peut transférer un proton au méthanol.
+
+With that in mind, let's rely on our tried-and-true logic for addition reactions:
+Gardant cela à l'esprit, fions-nous à notre logique éprouvée pour les réactions d'addition :
+
+our nucleophilic alkene is gonna attack the most acidic proton in the solution.
+notre alcène nucléophile va attaquer le proton le plus acide de la solution.
+
+That's the proton on methanol!
+C'est le proton sur le méthanol !
+
+Without the sulfuric acid to get the party started, the reaction between 2-methylprop-2-ene and methanol would be super slow,
+Sans l'acide sulfurique pour démarrer la fête, la réaction entre le 2-méthylprop-2-ène et le méthanol serait super lente,
+
+almost to the point we might say they don’t react.
+presque au point qu'on pourrait dire qu'ils ne réagissent pas.
+
+Anyway, with that attack, 2-methylprop-2-ene forms the more stable tertiary carbocation, and we’ve climbed over the first hill on our journey.
+Quoi qu'il en soit, avec cette attaque, le 2-méthylprop-2-ène forme le carbocation tertiaire le plus stable, et nous avons gravi la première colline de notre voyage.
+
+This carbocation is now a prime electrophilic target, and it’s still reactive even though we're sitting in a mini-valley and taking a break.
+Ce carbocation est maintenant une cible électrophile de choix, et il est toujours réactif même si nous sommes assis dans une mini-vallée et faisons une pause.
+
+So next, the methanol comes in with its lone pairs of electrons, does a nucleophilic attack, and makes a new carbon-oxygen bond.
+Ensuite, le méthanol arrive avec ses seules paires d'électrons, effectue une attaque nucléophile et crée une nouvelle liaison carbone-oxygène.
+
+This forms an oxonium ion, we've climbed over the second hill, and we can take another trail mix break.
+Cela forme un ion oxonium, nous avons escaladé la deuxième colline et nous pouvons faire une autre pause de mélange montagnard.
+
+Finally, methanol swoops back in, deprotonates the hydrogen on the positive oxygen,
+Enfin, le méthanol revient, déprotone l'hydrogène sur l'oxygène positif,
+
+the electrons from the former O-H bond neutralize the positive charge on oxygen, and we tumble downhill as our final products form.
+les électrons de l'ancienne liaison O-H neutralisent la charge positive sur l'oxygène, et nous dégringolons au fur et à mesure que nos produits finaux se forment.
+
+Our trek is done!
+Notre randonnée est terminée !
+
+Looking at the full reaction mechanism from beginning to end, the snack breaks as we hike between the reactants and the products are called intermediates.
+En regardant le mécanisme de réaction complet du début à la fin, les pauses collation au fur et à mesure que nous marchons entre les réactifs et les produits sont appelées intermédiaires.
+
+And the energy of the intermediates influences the kinetics and the thermodynamics of a reaction.
+Et l'énergie des intermédiaires influence la cinétique et la thermodynamique d'une réaction.
+
+Intermediates have full charges and full bonds, while transition states on the hilltops have partial charges (drawn as lower case Greek deltas)
+Les intermédiaires ont des charges complètes et des liaisons complètes, tandis que les états de transition sur les sommets ont des charges partielles (dessinées sous forme de deltas grecs minuscules)
+
+and partial bonds between reactants (drawn as dotted lines).
+et des liaisons partielles entre les réactifs (dessinées en pointillés).
+
+Now that we've made it through that beast of a reaction,
+Maintenant que nous avons traversé cette bête de réaction,
+
+I have one last thing to add about the protonated methanol that we made using sulfuric acid that was so handy at the beginning.
+j'ai une dernière chose à ajouter à propos du méthanol protoné que nous avons fabriqué à l'aide d'acide sulfurique qui était si pratique au début.
+
+We remade it at the end of the reaction, so it's a catalyst, something that speeds up a reaction but isn’t used up.
+Nous l'avons refait à la fin de la réaction, donc c'est un catalyseur, quelque chose qui accélère une réaction mais n'est pas utilisé.
+
+In an energy diagram, a catalyst flattens the activation energy hill.
+Dans un diagramme d'énergie, un catalyseur aplanit la colline d'énergie d'activation.
+
+We’ll be talking about catalysis a lot throughout this course, so consider this a sneak peek!
+Nous parlerons beaucoup de catalyse tout au long de ce cours, alors considérez ceci comme un aperçu !
+
+The reaction I mentioned at the beginning needs a catalyst to make the energy hill climbable,
+La réaction que j'ai mentionnée au début a besoin d'un catalyseur pour rendre la colline énergétique escaladable
+
+which is why lemons don't just spontaneously start smelling like lavender.
+, c'est pourquoi les citrons ne commencent pas spontanément à sentir la lavande.
+
+In this episode, we did a lot of deep thinking about energy and equilibrium, which will help us predict even more chemical reactions.
+Dans cet épisode, nous avons beaucoup réfléchi sur l'énergie et l'équilibre, ce qui nous aidera à prévoir encore plus de réactions chimiques.
+
+Specifically, we:
+Plus précisément, nous avons :
+
+Reviewed thermodynamics and enthalpy, entropy, and Gibbs free energy
+passé en revue la thermodynamique et l'enthalpie, l'entropie et l'énergie libre de Gibbs,
+
+Drew free energy diagrams of chemical reactions
+dessiné des diagrammes d'énergie libre de réactions chimiques,
+
+Learned the difference between an intermediate and a transition state
+appris la différence entre un état intermédiaire et un état de transition,
+
+And explained how catalysts lower the activation energy of a reaction
+et expliqué comment les catalyseurs réduisent l'énergie d'activation d'une réaction.
+
+In the next few episodes, we’ll look more at the types of addition reactions that involve alkenes.
+Dans les prochains épisodes, nous  J'examinerai davantage les types de réactions d'addition qui impliquent des alcènes.
+
+We’ll do our best to group these reactions by mechanism, so we can continue to puzzle through, and NOT memorize, the products that form.
+Nous ferons de notre mieux pour regrouper ces réactions par mécanisme, afin que nous puissions continuer à comprendre, et NON à mémoriser, les produits qui se forment.
+
+Until then… thanks for watching this episode of Crash Course Organic Chemistry.
+En attendant… merci d'avoir regardé cet épisode de Crash Course Organic Chemistry.
+
+If you want to help keep all Crash Course free for everybody, forever, you can join our community on Patreon.
+Si vous voulez aider à garder tous les cours intensifs gratuits pour tout le monde, pour toujours, vous pouvez rejoindre notre communauté sur Patreon.
+

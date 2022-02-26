@@ -1,0 +1,530 @@
+You have a box. A ring. And a marble.
+Vous avez une boîte.  Un anneau.  Et une bille.
+
+And they’re all at the top of a ramp. Because
+you know how physics loves ramps.
+Et ils sont tous en haut d'une rampe.  Parce que
+vous savez à quel point la physique aime les rampes.
+
+Especially hypothetical ramps! So, let’s say this ramp would allow for static friction, but not kinetic friction.
+Surtout des rampes hypothétiques !  Donc, disons que cette rampe permettrait un frottement statique, mais pas un frottement cinétique.
+
+Now, you let go of all of these objects at
+the same time, so that the box starts sliding,
+Maintenant, vous lâchez tous ces objets
+en même temps, de sorte que la boîte commence à glisser,
+
+and the ring and marble start rolling, all
+at once.
+et que l'anneau et la bille commencent à rouler, tout
+à la fois.
+
+So, which of them will hit the bottom first?
+Alors, lequel d'entre eux touchera le fond en premier ?
+
+The answer might not be what you’d expect.
+La réponse pourrait ne pas être celle à laquelle vous vous attendiez.
+
+I mean, we already know that when you drop
+two objects from the same height -- in a vacuum
+Je veux dire, nous savons déjà que lorsque vous laissez tomber
+deux objets de la même hauteur -- dans le vide
+
+at least -- they’ll hit the ground at the same time. Even if you tried it with a feather and a bowling ball.
+au moins -- ils vont toucher le sol en même temps.  Même si vous l'avez essayé avec une plume et une boule de bowling.
+
+So you might think that all of the objects
+would get to the bottom of the ramp at the same time.
+Vous pourriez donc penser que tous les objets
+arriveraient au bas de la rampe en même temps.
+
+But they won’t.
+Mais ils ne le feront pas.
+
+The reason has to do with how energy is distributed
+in an object when it’s rolling.
+La raison a à voir avec la façon dont l'énergie est distribuée
+dans un objet lorsqu'il roule.
+
+And in order to understand who wins the ramp-race, and why, we have to investigate some qualities of rotational motion:
+Et afin de comprendre qui gagne la course sur rampe, et pourquoi, nous devons étudier certaines qualités du mouvement de rotation :
+
+Specifically, torque, and the moment of inertia.
+Plus précisément, le couple et le moment d'inertie.
+
+[Theme Music]
+[Thème musical]
+
+Have you ever tightened a bolt with a wrench?
+Avez-vous déjà serré un boulon avec une clé à molette ?
+
+Or pulled a door open?
+Me too!
+Ou a ouvert une porte?
+Moi aussi! 
+
+When we do those things, the wrench and the
+door’s handle do their jobs using torque.
+Lorsque nous faisons ces choses, la clé et la
+poignée de la porte font leur travail en utilisant le couple.
+
+That is, they apply a force perpendicular to the axis of rotation, which makes the bolt turn and door swing open.
+C'est-à-dire qu'ils appliquent une force perpendiculaire à l'axe de rotation, ce qui fait tourner le pêne et ouvrir la porte.
+
+That’s what torque does -- it makes things
+rotate faster or slower.
+C'est ce que fait le couple - il fait
+tourner les choses plus rapidement ou plus lentement.
+
+In other words, torque changes an object’s
+angular velocity.
+En d'autres termes, le couple modifie la
+vitesse angulaire d'un objet.
+
+For the first few weeks of this course, we described net forces as changing an object’s linear velocity,
+Au cours des premières semaines de ce cours, nous avons décrit les forces nettes comme modifiant la vitesse linéaire d'un objet, la vitesse à
+
+how fast it moves through
+space, and in what direction.
+laquelle il se déplace dans l'
+espace et dans quelle direction.
+
+Torque essentially does the same thing, but
+for rotational motion.
+Le couple fait essentiellement la même chose, mais
+pour le mouvement de rotation.
+
+This means that a lot of the relationships and equations that apply to forces will apply to torque in a similar way.
+Cela signifie que de nombreuses relations et équations qui s'appliquent aux forces s'appliqueront au couple de la même manière.
+
+But first, let’s talk about how to calculate torque, by analyzing what happens when you open a door.
+Mais d'abord, parlons de la façon de calculer le couple, en analysant ce qui se passe lorsque vous ouvrez une porte.
+
+The harder you pull on the handle, the more torque you’ll generate, and the more you’ll change the door’s angular velocity.
+Plus vous tirez fort sur la poignée, plus vous générerez de couple et plus vous modifierez la vitesse angulaire de la porte.
+
+More net torque then, means the door
+starts moving faster on its hinges.
+Plus de couple net signifie alors que la porte
+commence à se déplacer plus rapidement sur ses charnières.
+
+So, the strength of the force that’s applied
+is one factor that affects torque.
+Ainsi, la force de la force appliquée
+est un facteur qui affecte le couple.
+
+Another is the distance between the force
+and the axis of rotation -- or the radius.
+Une autre est la distance entre la force
+et l'axe de rotation - ou le rayon.
+
+A larger radius means more torque.
+Un rayon plus grand signifie plus de couple.
+
+You know this if you’ve ever tried opening a door with a handle that’s too close to the hinge.
+Vous le savez si vous avez déjà essayé d'ouvrir une porte avec une poignée trop proche de la charnière.
+
+I’m guessing you haven’t tried
+that, though, because there’s a reason doorknobs
+Je suppose que vous n'avez pas essayé
+cela, car il y a une raison pour laquelle les poignées de porte
+
+are generally placed far from the hinges.
+sont généralement placées loin des charnières.
+
+A door with a handle close to the hinges would
+be much harder to open, because you get less
+Une porte avec une poignée près des charnières
+serait beaucoup plus difficile à ouvrir, car vous obtenez moins de
+
+torque for the same amount of force.
+couple pour la même force.
+
+The last factor that affects torque is the
+ANGLE BETWEEN the applied force and the radius.
+Le dernier facteur qui affecte le couple est l'
+ANGLE ENTRE la force appliquée et le rayon.
+
+If you tried to open the door by pulling the
+handle, say, parallel to the door --
+Si vous essayez d'ouvrir la porte en tirant la
+poignée, par exemple, parallèlement à la porte -
+
+in the direction opposite from the hinges --
+the door wouldn’t move.
+dans la direction opposée aux charnières -
+la porte ne bougera pas.
+
+Because the only part of the force that affects
+the door’s rotation is the force that’s
+Parce que la seule partie de la force qui affecte
+la rotation de la porte est la force
+
+Perpendicular to the radius.
+perpendiculaire au rayon.
+
+To put this idea in mathematical terms, torque
+-- represented by the Greek letter tau -- is
+Pour mettre cette idée en termes mathématiques, le couple
+- représenté par la lettre grecque tau - est
+
+equal to the perpendicular force, times the
+radius.
+égal à la force perpendiculaire, multipliée par le
+rayon.
+
+And, you know how we keep saying that for
+translational motion, a net force on an object
+Et, vous savez comment nous continuons à dire que pour le
+mouvement de translation, une force nette sur un objet
+
+is equal to its acceleration times its mass?
+est égale à son accélération multipliée par sa masse ?
+
+Well, something similar applies to rotational
+motion, too:
+Eh bien, quelque chose de similaire s'applique également au
+mouvement de rotation :
+
+The net torque on an object is equal to its angular acceleration, times what’s known as its moment of inertia.
+le couple net sur un objet est égal à son accélération angulaire, multipliée par ce qu'on appelle son moment d'inertie.
+
+Now, we’ve talked about inertia before,
+at least as it relates to translational motion.
+Maintenant, nous avons déjà parlé d'inertie,
+du moins en ce qui concerne le mouvement de translation.
+
+Basically, it’s an object’s tendency to
+keep doing what it’s been doing.
+Fondamentalement, c'est la tendance d'un objet à
+continuer à faire ce qu'il a fait.
+
+An object with lots of inertia is harder to speed up or slow down.
+Un objet avec beaucoup d'inertie est plus difficile à accélérer ou à ralentir.
+
+And in translational motion, the inertia of
+an object depends on mass.
+Et dans le mouvement de translation, l'inertie d'
+un objet dépend de la masse.
+
+The MOMENT OF INERTIA works in a somewhat
+similar way for rotational motion …
+Le MOMENT D'INERTIE fonctionne d'une manière quelque peu
+similaire pour le mouvement de rotation…
+
+but the best way to define is mathematically.
+mais la meilleure façon de le définir est mathématiquement.
+
+Specifically, the moment of inertia is the
+sum of all the individual points of mass in
+Plus précisément, le moment d'inertie est la
+somme de tous les points de masse individuels d'
+
+an object, times the square of their distance
+from the axis of rotation.
+un objet, multipliée par le carré de leur distance
+à l'axe de rotation.
+
+So, much in the same way that inertia relates
+to an object’s mass in translational motion…
+Donc, de la même manière que l'inertie est liée
+à la masse d'un objet en mouvement de translation…
+
+… the moment of inertia relates to mass,
+too, but it depends on how that mass is distributed.
+… le moment d'inertie est également lié à la masse
+, mais cela dépend de la façon dont cette masse est distribuée.
+
+The farther away the mass is from the axis
+of rotation, the higher the object’s moment of inertia.
+Plus la masse est éloignée de l'axe
+de rotation, plus le moment d'inertie de l'objet est élevé.
+
+It’s possible to derive the equation for
+an object’s moment of inertia,
+Il est possible de dériver l'équation
+du moment d'inertie d'un objet
+
+by integrating the square of the object’s radius over its mass.
+en intégrant le carré du rayon de l'objet sur sa masse.
+
+But those integrals can get complicated.
+Mais ces intégrales peuvent devenir compliquées.
+
+So this is one of those rare cases where,
+if you’re asked to solve problems using
+C'est donc l'un de ces rares cas où,
+si on vous demande de résoudre des problèmes en utilisant des
+
+moments of inertia and you don’t have access
+to the equations, it’s probably worth memorizing them.
+moments d'inertie et que vous n'avez pas accès
+aux équations, cela vaut probablement la peine de les mémoriser.
+
+Now, there’s another thing that torques
+and forces have in common,
+Maintenant, il y a une autre chose que les couples
+et les forces ont en commun,
+
+and it’s going to be the key to figuring out which object wins the race down the ramp.
+et ce sera la clé pour déterminer quel objet remporte la course sur la rampe.
+
+Namely: torques, like forces, have the ability
+to do work.
+A savoir : les couples, comme les forces, ont la capacité
+de faire un travail.
+
+As you might remember from our episode on
+work and energy, the work done by a force
+Comme vous vous en souvenez peut-être dans notre épisode sur le
+travail et l'énergie, le travail effectué par une force
+
+is just the integral of that force over a
+certain distance.
+n'est que l'intégrale de cette force sur une
+certaine distance.
+
+In a similar way, the work done by a torque
+is the integral of that torque over a certain angle.
+De la même manière, le travail effectué par un couple
+est l'intégrale de ce couple sur un certain angle.
+
+Meaning: the more torque you apply while rotating
+an object, the more work you do.
+Signification : plus vous appliquez de couple lors de la rotation d'
+un objet, plus vous travaillez.
+
+We also know that work changes the
+energy of a system.
+Nous savons aussi que le travail modifie l'
+énergie d'un système.
+
+For example, it can change its kinetic energy, which is the energy of its motion.
+Par exemple, il peut modifier son énergie cinétique, qui est l'énergie de son mouvement.
+
+In the case of objects that move without rotating, all of that kinetic energy goes into translational motion.
+Dans le cas d'objets qui se déplacent sans tourner, toute cette énergie cinétique passe en mouvement de translation.
+
+In this case, keep in mind that -- as we’ve
+gone over before -- the kinetic energy of
+Dans ce cas, gardez à l'esprit que - comme nous l'avons
+déjà dit - l'énergie cinétique du
+
+translational motion is equal to half of the
+object’s mass, times its velocity squared.
+mouvement de translation est égale à la moitié de la masse de l'
+objet, multipliée par sa vitesse au carré.
+
+But when an object is ROTATING, some of its
+kinetic energy is also taking the form of Rotational Motion.
+Mais lorsqu'un objet TOURNE, une partie de son
+énergie cinétique prend également la forme d'un mouvement de rotation.
+
+And calculating the kinetic energy of rotational
+motion is pretty easy.
+Et calculer l'énergie cinétique du mouvement de rotation
+est assez facile.
+
+Because, first, the moment of inertia affects rotational motion in the same way that mass affects translational motion.
+Parce que, premièrement, le moment d'inertie affecte le mouvement de rotation de la même manière que la masse affecte le mouvement de translation.
+
+And second, rotating objects have angular
+velocity, just as translating objects have linear velocity.
+Et deuxièmement, les objets en rotation ont une
+vitesse angulaire, tout comme les objets en translation ont une vitesse linéaire.
+
+So, the kinetic energy of an object’s rotational motion is just half of its moment of inertia, times its angular velocity squared.
+Ainsi, l'énergie cinétique du mouvement de rotation d'un objet n'est que la moitié de son moment d'inertie, multiplié par sa vitesse angulaire au carré.
+
+OK, there’s just one final factor we have to consider, before we finally get back to the box, the marble, and the ring racing down the ramp:
+OK, il n'y a qu'un dernier facteur que nous devons considérer, avant de revenir enfin à la boîte, à la bille et à l'anneau qui dévale la rampe :
+
+And that factor is angular momentum.
+et ce facteur est le moment cinétique.
+
+We’ve talked about linear momentum -- and
+how it’s equal to an object’s mass times its velocity.
+Nous avons parlé de l'élan linéaire - et de la
+façon dont il est égal à la masse d'un objet multipliée par sa vitesse.
+
+Well, there’s also angular momentum, which is equal to an object’s moment of inertia times its angular velocity.
+Eh bien, il y a aussi le moment cinétique, qui est égal au moment d'inertie d'un objet multiplié par sa vitesse angulaire.
+
+And, like linear momentum, angular momentum
+is always conserved.
+Et, comme le moment linéaire, le moment cinétique
+est toujours conservé.
+
+That’s another one of those super-fundamental principles of physics:
+C'est un autre de ces principes super-fondamentaux de la physique :
+
+You can’t create or destroy angular momentum. It always has to go somewhere.
+vous ne pouvez pas créer ou détruire un moment cinétique.  Il faut toujours aller quelque part.
+
+So, now, let’s get back to The Great Crash
+Course Physics Ramp Race.
+Alors, maintenant, revenons à The Great Crash
+Course Physics Ramp Race.
+
+All three objects -- the box, the marble,
+and the ring -- are covering the same distance.
+Les trois objets - la boîte, la bille
+et l'anneau - couvrent la même distance.
+
+And what we want to know is, how fast do they
+cover that distance?
+Et ce que nous voulons savoir, c'est à quelle vitesse
+parcourent-ils cette distance ?
+
+The answer has to do with what happens to
+each object’s energy as it moves down the ramp.
+La réponse a à voir avec ce qui arrive à
+l'énergie de chaque objet lorsqu'il descend la rampe.
+
+When they’re at the top of the ramp, all the energy of each object takes the form of gravitational potential energy,
+Lorsqu'ils sont au sommet de la rampe, toute l'énergie de chaque objet prend la forme d'énergie potentielle gravitationnelle,
+
+which is equal to the object’s mass, times small g, times the height of the ramp.
+qui est égale à la masse de l'objet, fois petit g, fois la hauteur de la rampe.
+
+As they move down the ramp, all of that potential
+energy gradually gets converted into kinetic energy.
+Au fur et à mesure qu'ils descendent la rampe, toute cette
+énergie potentielle est progressivement convertie en énergie cinétique.
+
+In the case of the box, all of its potential energy will be converted to translational kinetic energy,
+Dans le cas de la boîte, toute son énergie potentielle sera convertie en énergie cinétique de translation,
+
+because that’s the only
+kind of motion it has.
+car c'est le seul
+type de mouvement dont elle dispose.
+
+So the object that gets to the bottom of the ramp first is … the box!
+Ainsi, l'objet qui arrive en premier au bas de la rampe est… la boîte !
+
+Because, for both the marble and the ring, some of their potential energy gets converted into rotational kinetic energy.
+Parce que, pour le marbre et l'anneau, une partie de leur énergie potentielle est convertie en énergie cinétique de rotation.
+
+And energy that goes into their rotation isn’t
+being used to make them move faster down the ramp.
+Et l'énergie qui entre dans leur rotation n'est
+pas utilisée pour les faire avancer plus rapidement sur la rampe.
+
+So really, anything that slides -- at least
+on our hypothetical ramp with no kinetic friction
+Donc, vraiment, tout ce qui glisse - du moins
+sur notre rampe hypothétique sans frottement cinétique
+
+-- will reach the bottom before anything that
+rolls.
+- atteindra le fond avant tout ce qui
+roule.
+
+And the masses of the objects don’t even
+matter, because the energy of an object with
+Et les masses des objets n'ont même pas d'
+importance, car l'énergie d'un objet avec
+
+more or less mass will increase or decrease
+accordingly.
+plus ou moins de masse augmentera ou diminuera en
+conséquence.
+
+So, the box wins.
+Ainsi, la boîte gagne.
+
+But what’s the runner-up?
+Mais quel est le finaliste?
+
+Does the ring reach the bottom next, or does
+the marble?
+Est-ce que l'anneau atteint le fond ensuite, ou est-ce que
+le marbre?
+
+That question is a little more complicated, but it turns out that the marble reaches the bottom before the ring,
+Cette question est un peu plus compliquée, mais il s'avère que la bille atteint le fond avant l'anneau,
+
+because it has a lower
+moment of inertia.
+car elle a un
+moment d'inertie plus faible.
+
+The marble is a solid sphere, so its mass
+is distributed closer to its center.
+Le marbre est une sphère solide, sa masse
+est donc répartie plus près de son centre.
+
+But the ring’s mass is distributed in a,
+well, ring -- so its mass is distributed far
+Mais la masse de l'anneau est répartie dans un,
+eh bien, anneau - donc sa masse est répartie loin
+
+from its center, giving it a higher moment
+of inertia.
+de son centre, ce qui lui donne un moment
+d'inertie plus élevé.
+
+What does that mean for the marble’s speed
+versus the ring’s?
+Qu'est-ce que cela signifie pour la vitesse de la bille par
+rapport à celle de l'anneau ?
+
+Well, since the marble has a smaller moment
+of inertia, its velocity can take up a larger
+Eh bien, comme la bille a un moment
+d'inertie plus petit, sa vitesse peut absorber une plus grande
+
+proportion of its kinetic energy -- which
+means it moves faster down the ramp.
+proportion de son énergie cinétique, ce qui
+signifie qu'elle se déplace plus rapidement sur la rampe.
+
+So, the final results of the race?
+Alors, les résultats finaux de la course ?
+
+The box wins, the marble comes in second,
+and the ring finishes last.
+La boîte gagne, la bille arrive en deuxième position
+et l'anneau finit en dernier.
+
+Today, you learned about torque, and how it
+relates to an object’s angular acceleration
+Aujourd'hui, vous avez découvert le couple et son
+lien avec l'accélération angulaire d'un objet
+
+and its moment of inertia. We also talked
+about how to calculate moments of inertia,
+et son moment d'inertie.  Nous avons également parlé
+de la façon de calculer les moments d'inertie, le
+
+angular momentum, and the fact that torques
+can do work. Finally, we figured out what
+moment cinétique et le fait que les couples
+peuvent fonctionner.  Enfin, nous avons compris ce
+
+would happen if you let a box, marble, and
+ring move down a ramp.
+qui se passerait si vous laissiez une boîte, une bille et un
+anneau descendre une rampe.
+
+Crash Course Physics is produced in association
+with PBS Digital Studios. You can head over
+Crash Course Physics est produit en association
+avec PBS Digital Studios.  Vous pouvez vous
+
+to their channel to check out amazing shows
+like PBS Idea Channel, Blank on Blank, and  Physics Girl.
+rendre sur leur chaîne pour découvrir des émissions incroyables
+comme PBS Idea Channel, Blank on Blank et Physics Girl.
+
+This episode of Crash Course was filmed in
+the Doctor Cheryl C. Kinney Crash Course Studio
+Cet épisode de Crash Course a été filmé dans
+le studio Doctor Cheryl C. Kinney Crash Course
+
+with the help of these amazing people and
+our equally amazing graphics team is Thought Cafe.
+avec l'aide de ces personnes incroyables et
+notre équipe graphique tout aussi incroyable est Thought Cafe.
+

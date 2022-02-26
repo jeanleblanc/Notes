@@ -1,0 +1,818 @@
+Hydrochloric Acid: every chemist's frenemy,
+as terribly dangerous as it is terribly useful.
+Acide chlorhydrique : l'ennemi de tout chimiste,
+aussi terriblement dangereux que terriblement utile.
+
+It'll burn your skin, your eyes, even your mucus membranes if you breathe in its fumes for too long.
+Il brûlera votre peau, vos yeux et même vos muqueuses si vous respirez ses vapeurs trop longtemps.
+
+But HCL as an acid gives up its hydrogen
+pretty easily,
+Mais HCL en tant qu'acide cède
+assez facilement son hydrogène,
+
+which makes it good for making things like
+fertilizers and dyes and even table salt.
+ce qui le rend bon pour fabriquer des choses comme des
+engrais et des colorants et même du sel de table.
+
+Then, there's sodium hydroxide, another substance
+that I wouldn't wish to be on my worst foe,
+Ensuite, il y a l'hydroxyde de sodium, une autre substance
+que je ne voudrais pas être mon pire ennemi,
+
+although I'm glad we have it.
+même si je suis content que nous l'ayons.
+
+You may know it as lye, an extremely caustic
+substance that's used for
+Vous le connaissez peut-être sous le nom de lessive, une substance extrêmement caustique
+qui est utilisée pour
+
+everything from clearing clogged pipes to
+purifying drinking water.
+tout, du nettoyage des tuyaux bouchés à la
+purification de l'eau potable.
+
+It's a base. It readily accept the protons
+that acids release.
+C'est une base.  Il accepte facilement les protons
+que les acides libèrent.
+
+So what do you think will happen when I mix
+solutions of these two things together?
+Alors, que pensez-vous qu'il se passera lorsque je mélangerai les
+solutions de ces deux choses ?
+
+Will they just cancel each other out and do nothing, or will they explode, or maybe they'll travel through time?
+Vont-ils simplement s'annuler et ne rien faire, ou vont-ils exploser, ou peut-être vont-ils voyager dans le temps ?
+
+Well, if you've been paying attention, you
+already know what's going to happen.
+Eh bien, si vous avez été attentif, vous
+savez déjà ce qui va se passer.
+
+They're going to undergo a neutralization
+reaction, which we've talked about before.
+Ils vont subir une
+réaction de neutralisation, dont nous avons déjà parlé.
+
+These two potentially deadly substances will
+form harmless salt and water.
+Ces deux substances potentiellement mortelles
+formeront du sel et de l'eau inoffensifs.
+
+But the reaction will also have an effect
+that you can actually feel.
+Mais la réaction aura également un effet
+que vous pourrez réellement ressentir.
+
+It will release heat, and not just a little
+heat.
+Il dégagera de la chaleur, et pas seulement un peu de
+chaleur.
+
+Mixing concentrated acids and bases releases
+so much heat that it can result in an explosion.
+Le mélange d'acides concentrés et de bases dégage
+tellement de chaleur qu'il peut en résulter une explosion.
+
+But I will show you how to produce a safe,
+but noticeable amount of heat with this reaction.
+Mais je vais vous montrer comment produire une
+quantité de chaleur sûre mais perceptible avec cette réaction.
+
+To me, the coolest part of this is where the
+heat actually comes from.
+Pour moi, la partie la plus cool de tout cela est d'où vient la
+chaleur.
+
+The energy used to exist as part of chemical
+bonds in the acid and the base.
+L'énergie utilisée pour exister dans le cadre de
+liaisons chimiques dans l'acide et la base.
+
+Just like a ball at the top of a hill, the molecules always move towards a lower energy state if they can,
+Tout comme une balle au sommet d'une colline, les molécules se déplacent toujours vers un état d'énergie inférieur si elles le peuvent,
+
+and that's just what they'll do.
+et c'est exactement ce qu'elles feront.
+
+High energy bonds will break and lower energy
+bonds will form.
+Les liaisons à haute énergie se briseront et des liaisons à plus faible énergie
+se formeront.
+
+The change in energy between those states you can actually feel the effects of, and that's pretty dang cool.
+Le changement d'énergie entre ces états dont vous pouvez réellement ressentir les effets, et c'est plutôt cool.
+
+And what's even more awesome, if you ask me,
+Et ce qui est encore plus impressionnant, si vous me demandez,
+
+is that we can actually figure out exactly
+how much heat will be released by this reaction.
+c'est que nous pouvons déterminer exactement
+la quantité de chaleur qui sera libérée par cette réaction.
+
+[Theme Music]
+[Thème musical]
+
+Remember that measuring heat change is closely
+related to enthalpy,
+N'oubliez pas que la mesure du changement de chaleur est étroitement
+liée à l'enthalpie,
+
+which we defined as the internal energy of
+a system
+que nous avons définie comme l'énergie interne d'
+un système
+
+plus the energy it uses to push the surroundings back and make room for its own pressure and volume.
+plus l'énergie qu'il utilise pour repousser l'environnement et faire de la place à sa propre pression et à son propre volume.
+
+And in a constant pressure, like we have here
+at the surface of the Earth,
+Et dans une pression constante, comme celle que nous avons ici
+à la surface de la Terre,
+
+that works out to be exactly the same as the
+heat that's absorbed or released by a reaction.
+cela équivaut exactement à la
+chaleur absorbée ou libérée par une réaction.
+
+Naturally, it can be very useful to know how
+much heat a chemical reaction absorbs or releases.
+Naturellement, il peut être très utile de connaître la
+quantité de chaleur qu'une réaction chimique absorbe ou libère.
+
+In addition to the exothermic hand-warmers
+that we have out there,
+En plus des chauffe-mains exothermiques
+que nous avons,
+
+there are also endothermic chemical ice packs
+for treating injuries.
+il existe également des packs de glace chimiques endothermiques
+pour le traitement des blessures.
+
+The ability to calculate change in enthalpy
+is also what tells pilots how far the fuel
+La capacité de calculer le changement d'enthalpie
+est également ce qui indique aux pilotes jusqu'où le carburant
+
+in an airplane's tank will allow it to fly,
+dans le réservoir d'un avion lui permettra de voler,
+
+which I personally am very interested in making
+sure they get right.
+ce que je suis personnellement très intéressé à faire en
+sorte qu'ils obtiennent le bon résultat.
+
+One of the ways we can calculate the change
+in enthalpy of a system is with Hess's Law,
+L'une des façons dont nous pouvons calculer le changement
+d'enthalpie d'un système est avec la loi de Hess,
+
+which you'll recall states that the total
+enthalpy change for a chemical reaction doesn't
+qui, vous vous en souviendrez, stipule que le
+changement d'enthalpie total pour une réaction chimique ne
+
+depend on the pathway it takes,
+dépend pas de la voie qu'elle emprunte,
+
+but only on its initial and final states.
+mais seulement de sa valeur initiale et  états finaux.
+
+It's often expressed in terms of Standard
+Enthalpy of Formation,
+Elle est souvent exprimée en termes d'
+enthalpie standard de formation,
+
+that is, the amount of heat lost or gained when one mole of a compound is formed from its elements.
+c'est-à-dire la quantité de chaleur perdue ou gagnée lorsqu'une mole d'un composé est formée à partir de ses éléments.
+
+That's how we figured out exactly how much
+heat my hand-warmers release.
+C'est ainsi que nous avons déterminé exactement la quantité de
+chaleur dégagée par mes chauffe-mains.
+
+But that's not the only way that Hess's Law
+can be used.
+Mais ce n'est pas la seule façon d'utiliser la loi de Hess
+.
+
+The law itself says nothing about the standard
+enthalpy of formation.
+La loi elle-même ne dit rien sur l'
+enthalpie standard de formation.
+
+Any way that we can figure out the change
+of heat between the products and the reactants
+Toute façon de comprendre le changement
+de chaleur entre les produits et les
+
+will work just as well, and that's where calorimetry
+comes in.
+réactifs fonctionnera aussi bien, et c'est là qu'intervient la
+calorimétrie. La
+
+Calorimetry is the science of measuring the change in heat associated with a chemical reaction.
+calorimétrie est la science qui mesure le changement de chaleur associé à une réaction chimique.
+
+And this may look like a plastic bottle inside
+a koozie, but it's actually a calorimeter.
+Et cela peut ressembler à une bouteille en plastique à l'intérieur d'
+un koozie, mais c'est en fait un calorimètre.
+
+A calorimeter can be fancy and an expensive
+piece of hardware, or it can be simple.
+Un calorimètre peut être sophistiqué et
+coûteux, ou il peut être simple.
+
+But no matter what it looks like, it's basically
+an insulated container that contains a thermometer.
+Mais peu importe à quoi il ressemble, il s'agit essentiellement d'
+un récipient isotherme qui contient un thermomètre.
+
+And it can be made out of stainless steel
+or Styrofoam cups,
+Et il peut être fabriqué à partir de tasses en acier inoxydable
+ou en polystyrène,
+
+but there really are no fundamental differences
+in how they work.
+mais il n'y a vraiment pas de différences fondamentales
+dans leur fonctionnement.
+
+And you know the general setup by now:
+Et vous connaissez maintenant la configuration générale :
+
+the chemicals in the calorimeter make up the
+thermodynamic system
+les produits chimiques dans le calorimètre constituent le
+système thermodynamique
+
+and everything else is the surroundings.
+et tout le reste est l'environnement.
+
+The insulation minimizes the amount of heat
+that leaks in or out of the system,
+L'isolation minimise la quantité de chaleur
+qui s'échappe à l'intérieur ou à l'extérieur du système, de
+
+so that we can be fairly confident that any heat transfer is part of the system, not the surroundings.
+sorte que nous pouvons être assez sûrs que tout transfert de chaleur fait partie du système, et non de l'environnement.
+
+The thermometer tracks the temperature change, which is part of the calculation we have to do.
+Le thermomètre suit le changement de température, qui fait partie du calcul que nous devons faire.
+
+And there's usually some way to stir the solution
+to make sure that the reaction occurs fully.
+Et il existe généralement un moyen d'agiter la solution
+pour s'assurer que la réaction se produit pleinement.
+
+Alright everybody, safety first, though I
+really should be wearing gloves...
+Très bien tout le monde, la sécurité d'abord, même si je
+devrais vraiment porter des gants...
+
+I'm gonna put 100 mL, also 100 grams, of HCL's one mole of HCL solution into my calorimeter here...
+Je vais mettre 100 ml, également 100 grammes, d'une mole de solution HCL de HCL dans mon calorimètre ici...
+
+(mumbling)
+(marmonnant)
+
+And now I'm going to put the same amount of
+sodium hydroxide solution.
+Et maintenant je suis  va mettre la même quantité de
+solution d'hydroxyde de sodium.
+
+Before I do the reaction, I have to know our
+starting temperature,
+Avant de faire la réaction, je dois connaître notre
+température de départ,
+
+so I'm going to stick my thermometer in there
+and wait for a second to see what it does.
+donc je vais y coller mon thermomètre
+et attendre une seconde pour voir ce qu'il fait.
+
+It should be room temperature, it's been in
+the room for a long time.
+Il devrait être à température ambiante, il est dans
+la pièce depuis longtemps.
+
+So, we are currently at, like, 20.8 degrees
+Celsius.
+Donc, nous sommes actuellement à environ 20,8 degrés
+Celsius.
+
+So that's like, 294 Kelvin, and now I shall
+add my 100 mL of sodium hydroxide.
+Donc c'est comme 294 Kelvin, et maintenant je vais
+ajouter mes 100 ml d'hydroxyde de sodium.
+
+The temperature, unsurprisingly, is rising
+very rapidly.
+La température, sans surprise, augmente
+très rapidement.
+
+And I'm doing something right now that you should never ever do, which is stir with the thermometer,
+Et je fais quelque chose en ce moment que vous ne devriez jamais faire, c'est remuer avec le thermomètre,
+
+because if this happens in schools across
+the world,
+parce que si cela se produit dans les écoles à travers
+le monde,
+
+then there will be a million billion broken thermometers and the stuff inside these thermometers is not good.
+alors il y aura un million de milliards de thermomètres cassés et le truc à l'intérieur de ces thermomètres n'est pas bon  .
+
+So never do what I'm doing.
+Alors ne fais jamais ce que je fais.
+
+All right, the temperature should be stable
+by now, we have 28 point like 2 degrees Celsius.
+Très bien, la température devrait être
+stable maintenant, nous avons 28 points comme 2 degrés Celsius.
+
+Now there's a simple formula that allows us
+to calculate the heat change of a reaction,
+Maintenant, il existe une formule simple qui nous permet
+de calculer le changement de chaleur d'une réaction,
+
+simply by measuring the change in temperature
+that occurs in a calorimeter.
+simplement en mesurant le changement de température
+qui se produit dans un calorimètre.
+
+It says that the change in heat equals the
+specific heat capacity of the substance
+Il dit que le changement de chaleur est égal à la
+capacité thermique spécifique de la substance
+
+times its total mass times the change in temperature.
+multipliée par sa masse totale multipliée par le changement de température.
+
+Let's examine the parts of this.
+Examinons les parties de ceci.
+
+First of all, the heat change in the calorimeter
+is normally represented by a lowercase "q,"
+Tout d'abord, le changement de chaleur dans le calorimètre
+est normalement représenté par un "q" minuscule,
+
+but it can also be represented by change in
+enthalpy, or delta H,
+mais il peut également être représenté par un changement d'
+enthalpie, ou delta H,
+
+because remember that constant pressure (delta
+H) equals q,
+car rappelez-vous que la pression constante (delta
+H) est égale à q,
+
+and constant pressure is almost always a good
+assumption for the duration of an experiment,
+et la pression constante  est presque toujours une bonne
+hypothèse pour la durée d'une expérience,
+
+or at least as long as we stay at the surface
+of the earth.
+ou du moins tant que nous restons à la surface
+de la terre.
+
+For reasons that will become clear later, we'll sure delta H to represent the heat change for this experiment.
+Pour des raisons qui deviendront claires plus tard, nous nous assurerons que delta H représente le changement de chaleur pour cette expérience.
+
+Specific heat capacity, represented by
+a lowercase "s",
+La capacité thermique spécifique, représentée par
+un "s" minuscule,
+
+is the amount of heat required tp raise the
+temperature of one mass unit,
+est la quantité de chaleur nécessaire pour élever la
+température d'une unité de masse,
+
+like a gram or kilogram, of a substance by
+1 degree Celsius.
+comme un gramme ou un kilogramme, d'une substance de
+1 degré Celsius.
+
+So it turns out that different amounts of
+heat create different temperature changes,
+Il s'avère donc que différentes quantités de
+chaleur créent différents changements de température,
+
+like metals get hot really easily and cool
+down really easily.
+comme les métaux chauffent très facilement et se
+refroidissent très facilement.
+
+Others like water require a lot of thermal
+energy to raise the temperature,
+D'autres comme l'eau nécessitent beaucoup d'
+énergie thermique pour élever la température,
+
+and therefore have to release a lot of heat
+to cool down.
+et doivent donc dégager beaucoup de chaleur
+pour se refroidir.
+
+I'm always wondering though, like, what does
+that really mean?
+Je me demande toujours, comme, qu'est-ce
+que cela signifie vraiment?
+
+Like, physically in the molecules, shouldn't heat raise the temperature of all substances equally?
+Par exemple, physiquement dans les molécules, la chaleur ne devrait-elle pas élever la température de toutes les substances de manière égale ?
+
+And why does water in particular have such
+a high specific heat capacity?
+Et pourquoi l'eau en particulier a-t-elle
+une capacité calorifique spécifique aussi élevée ?
+
+Heat energy can do a lot of things besides
+just increase temperatures.
+L'énergie thermique peut faire beaucoup de choses en plus
+d'augmenter simplement les températures.
+
+Temperature, or the speed at which molecules
+bounce around,
+La température, ou la vitesse à laquelle les molécules
+rebondissent,
+
+is just one way that atoms or molecules can
+absorb energy.
+n'est qu'une des façons dont les atomes ou les molécules peuvent
+absorber de l'énergie.
+
+Heat energy can also be absorbed by the breaking
+and formation of bonds between molecules,
+L'énergie thermique peut également être absorbée par la rupture
+et la formation de liaisons entre les molécules,
+
+and as we'll learn in another episode, the
+extremely high specific heat capacity of water
+et comme nous l'apprendrons dans un autre épisode, la
+capacité thermique spécifique extrêmement élevée de l'eau
+
+is due to the breaking and formation of hydrogen bonds that are associated with relatively small changes in temperature.
+est due à la rupture et à la formation de liaisons hydrogène associées à des liaisons relativement petites.  changements de température.
+
+And how do we know the specific heat capacity?
+Et comment connaissons-nous la capacité calorifique spécifique?
+
+Well, I am happy to report that some noble
+chemists have worked hard to determine the
+Eh bien, je suis heureux d'annoncer que certains nobles
+chimistes ont travaillé dur pour déterminer les
+
+specific heat capacities of hundreds of substances
+so that we don't have to.
+capacités thermiques spécifiques de centaines de substances
+afin que nous n'ayons pas à le faire.
+
+We just have to look up the numbers in a table.
+Il suffit de chercher les chiffres dans un tableau.
+
+Okay, so specific heat capacity times mass
+times the change in temperature.
+D'accord, donc la capacité thermique spécifique multipliée par la masse
+multipliée par le changement de température.
+
+The mass is important because the more mass of a substance we have, the more chemical bonds are present,
+La masse est importante car plus nous avons de masse d'une substance, plus il y a de liaisons chimiques présentes,
+
+and because energy is contained in chemical
+bonds,
+et comme l'énergie est contenue dans les
+liaisons chimiques,
+
+they have a big effect on how much energy
+we're able to absorb or release.
+elles ont un effet important sur la quantité d'énergie que
+nous sommes capables d'absorber ou de libérer.
+
+And finally, there's the change in temperature.
+Et enfin, il y a le changement de température.
+
+When doing calorimetry, we calculate a change
+in heat by measuring a change in temperature,
+Lors de la calorimétrie, nous calculons un changement
+de chaleur en mesurant un changement de température,
+
+but as we've said a billion times before,
+heat and temperature are not the same thing.
+mais comme nous l'avons dit un milliard de fois auparavant, la
+chaleur et la température ne sont pas la même chose.
+
+But please do not think that this thing is
+measuring heat because it's not!
+Mais s'il vous plaît, ne pensez pas que cette chose
+mesure la chaleur parce que ce n'est pas le cas !
+
+It's just that luckily, in this specific case, they are related by our handy little calorimeter formula.
+C'est juste qu'heureusement, dans ce cas précis, ils sont liés par notre petite formule de calorimètre bien pratique.
+
+Now you might not have noticed, but we are right at the interface between chemistry and physics here.
+Vous ne l'avez peut-être pas remarqué, mais nous sommes ici à l'interface entre la chimie et la physique.
+
+Each science could claim ownership over this
+phenomenon,
+Chaque science pourrait revendiquer la propriété de ce
+phénomène,
+
+but the truth is humans made up the difference
+between chemistry and physics anyway.
+mais la vérité est que les humains ont de toute façon fait la différence
+entre la chimie et la physique.
+
+Thermodynamics, the study of heat, energy,
+and work, doesn't care about our little rules.
+La thermodynamique, l'étude de la chaleur, de l'énergie
+et du travail, se fiche de nos petites règles.
+
+Thermodynamics itself makes the rules of the
+universe. It is the ultimate law.
+La thermodynamique elle-même établit les règles de l'
+univers.  C'est la loi suprême.
+
+So now you know, even though you might not
+have cared, but you should!
+Alors maintenant, vous savez, même si vous ne vous en souciez peut-être pas
+, mais vous devriez !
+
+Because it's good! It's all wiggly-wobbly
+bondy-wondy.
+Parce que c'est bon !  C'est tout wiggly-wobbly
+bondy-wondy.
+
+All right! Enough talk, let's get out there,
+actually do some math here.
+D'accord!  Assez parlé, allons-y
+, faisons quelques calculs ici.
+
+Remember that the formula is delta H, s, m,
+delta T.
+N'oubliez pas que la formule est delta H, s, m,
+delta T.
+
+The solutions we're using here are so dilute
+that almost all of their mass consists of water.
+Les solutions que nous utilisons ici sont si diluées
+que la quasi-totalité de leur masse est constituée d'eau.
+
+Therefore, we can use the specific heat capacity
+of water.
+Par conséquent, nous pouvons utiliser la capacité thermique spécifique
+de l'eau.
+
+If we look that up on our table, we'll see
+that it is 4.184 Joules per gram degrees Celsius;
+Si nous regardons cela sur notre tableau, nous verrons
+qu'il s'agit de 4,184 Joules par gramme de degrés Celsius;
+
+I used 100 grams of each chemical for a total
+mass of 200 grams.
+J'ai utilisé 100 grammes de chaque produit chimique pour une
+masse totale de 200 grammes.
+
+And finally, we need the temperature change.
+Et enfin, nous avons besoin du changement de température.
+
+If you remember, the temperature rose from
+294.0 Kelvin to 301.4 Kelvin;
+Si vous vous souvenez, la température est passée de
+294,0 Kelvin à 301,4 Kelvin ;
+
+the difference between these two is 7.4 Kelvin.
+la différence entre ces deux est de 7,4 Kelvin.
+
+It's a positive value because the temperature
+increased.
+C'est une valeur positive parce que la température a
+augmenté.
+
+Cancel out all the appropriate units and then bang on the calculator to get a final release of 6192.32 J,
+Annulez toutes les unités appropriées, puis appuyez sur la calculatrice pour obtenir une libération finale de 6192,32 J,
+
+or 6.2 kiloJoules of heat from the reaction.
+soit 6,2 kiloJoules de chaleur de la réaction.
+
+Because this formula is based on temperature
+change,
+Parce que cette formule est basée sur le
+changement de température,
+
+and since the temperature increased, we end
+up with a positive result.
+et puisque la température a augmenté, nous nous retrouvons
+avec un résultat positif.
+
+But most importantly, it tells us the magnitude
+of the change in heat energy.
+Mais surtout, il nous indique l'ampleur
+du changement d'énergie thermique.
+
+So, I wonder how that compares to the amount
+we would predict using Hess's Law
+Donc, je me demande comment cela se compare à la quantité que
+nous prévoirions en utilisant la loi de Hess
+
+and the standard enthalpy of formation?
+et l'enthalpie standard de formation ?
+
+Remember that we can look up the standard
+enthalpy of formation for all the products
+Rappelez-vous que nous pouvons rechercher l'
+enthalpie standard de formation pour tous les produits
+
+and reactants in the back of a textbook or
+online,
+et réactifs à la fin d'un manuel ou en
+ligne,
+
+the chemical reaction between hydrochloric acid and sodium hydroxide produces liquid water and sodium chloride.
+la réaction chimique entre l'acide chlorhydrique et l'hydroxyde de sodium produit de l'eau liquide et du chlorure de sodium.
+
+The standard enthalpy of formation for hydrochloric
+acid is -167.2 kJ per mole;
+L'enthalpie standard de formation de l'
+acide chlorhydrique est de -167,2 kJ par mole ;
+
+for sodium hydroxide it's -469.15 kJ per mole;
+pour l'hydroxyde de sodium, c'est -469,15 kJ par mole;
+
+for liquid water it's -285.8;
+and for sodium chloride it's -407.27.
+pour l'eau liquide c'est -285,8 ;
+et pour le chlorure de sodium, c'est -407,27.
+
+I'm not gonna do the mole calculations on-screen,
+Je ne vais pas faire les calculs de mole à l'écran,
+
+but trust me when I say that we used 0.100
+mole of HCL and the amount of NaOH.
+mais croyez-moi quand je dis que nous avons utilisé 0,100
+mole de HCL et la quantité de NaOH.
+
+Because everything in the equation balances
+out, it's just a 1:1:1:1 ratio,
+Parce que tout dans l'équation
+s'équilibre, c'est juste un rapport 1: 1: 1: 1,
+
+we can assume that they all have the same
+amount of each product as well.
+nous pouvons supposer qu'ils ont tous la même
+quantité de chaque produit également.
+
+If we plug these into Hess's Law and do the
+calculation,
+Si nous les connectons à la loi de Hess et effectuons le
+calcul,
+
+we found that the change in heat or enthalpy
+of the reaction is -5.67 kJ.
+nous avons constaté que le changement de chaleur ou d'enthalpie
+de la réaction est de -5,67 kJ.
+
+The system is releasing or losing energy,
+so the number is negative,
+Le système libère ou perd de l'énergie,
+donc le nombre est négatif,
+
+but again it's really the magnitude that we
+wanna know.
+mais encore une fois, c'est vraiment la magnitude que nous
+voulons connaître.
+
+So there you go, the calorimetry formula gave
+an absolute enthalpy change of 6.2 kJ,
+Alors voilà, la formule de calorimétrie a donné
+un changement d'enthalpie absolu de 6,2 kJ,
+
+while Hess's Law gives a change of 5.67 kJ.
+tandis que la loi de Hess donne un changement de 5,67 kJ.
+
+So, why the difference?
+Alors, pourquoi la différence ?
+
+Well, the greatest factor is probably that we used the specific heat capacity of pure water
+Eh bien, le facteur le plus important est probablement que nous avons utilisé la capacité thermique spécifique de l'eau pure
+
+instead of the salt water that we actually
+created.
+au lieu de l'eau salée que nous avons réellement
+créée.
+
+We also didn't include the heat capacity of
+our calorimeter itself.
+Nous n'avons pas non plus inclus la capacité calorifique de
+notre calorimètre lui-même.
+
+The calorimeter walls and the thermometer
+were heated too,
+Les parois du calorimètre et le thermomètre
+ont également été chauffés,
+
+resulting in some of the produced heat not
+being accounted for.
+ce qui a fait qu'une partie de la chaleur produite n'a pas
+été prise en compte.
+
+The insulation of the calorimeter is obviously
+a bit light,
+L'isolation du calorimètre est évidemment
+un peu légère,
+
+which allowed some heat to escape entirely
+and that's another major factor.
+ce qui a permis à une partie de la chaleur de s'échapper entièrement
+et c'est un autre facteur important.
+
+Even so, I'd say we did pretty well, the important thing is that it showed us what we needed to see,
+Même ainsi, je dirais que nous nous en sommes plutôt bien sortis, l'important est que cela nous ait montré ce que nous devions voir,
+
+even though it was just a little plastic bottle
+in a koozie.
+même si ce n'était qu'une petite bouteille
+en plastique dans un koozie.
+
+For a quick simple method, the calorimeter
+got us pretty close to the calculated value.
+Pour une méthode simple et rapide, le
+calorimètre nous a rapprochés de la valeur calculée.
+
+If we were calculating the amount of a particular
+fuel we would need to travel to Mars,
+Si nous calculions la quantité d'un carburant particulier dont
+nous aurions besoin pour voyager vers Mars,
+
+or inventing a cold pack that won't give you
+frostbite,
+ou si nous inventions une compresse froide qui ne vous donnera pas de
+gelures,
+
+we'd wanna use a more sophisticated system and work more carefully, but this was pretty cool for our purposes.
+nous voudrions utiliser un système plus sophistiqué et travailler plus soigneusement, mais c'était plutôt cool  pour nos besoins.
+
+Thanks for watching this episode of Crash
+Course.
+Merci d'avoir regardé cet épisode de Crash
+Course.
+
+If you paid attention, you learned that we
+don't necessarily have to use standard enthalpies
+Si vous avez fait attention, vous avez appris que nous
+n'avons pas nécessairement besoin d'utiliser des enthalpies
+
+of formation to solve Hess's Law,
+de formation standard pour résoudre la loi de Hess,
+
+you learned what a calorimeter is,
+vous avez appris ce qu'est un calorimètre,
+
+that calorimetry is another way to investigate
+heat changes in chemical reactions,
+que la calorimétrie est une autre façon d'étudier
+les changements de chaleur dans les réactions chimiques
+
+and that specific heat capacity tells us
+et que la capacité thermique spécifique  nous indique
+
+how much heat energy affects the molecules
+in a substance without changing its temperature.
+combien d'énergie thermique affecte les molécules
+d'une substance sans changer sa température.
+
+And finally, you learned some potential sources
+of error related to calorimetry.
+Et enfin, vous avez appris quelques sources potentielles
+d'erreur liées à la calorimétrie.
+
+The episode of Crash Course Chemistry was
+written by Edi Gonzalez.
+L'épisode de Crash Course Chemistry a été
+écrit par Edi Gonzalez.
+
+The script was edited by Blake de Pastino and our chemistry consultant was Dr. Heiko Langner.
+Le script a été édité par Blake de Pastino et notre consultant en chimie était le Dr Heiko Langner.
+
+It was filmed, edited, and directed by Nicholas
+Jenkins.
+Il a été filmé, monté et réalisé par Nicholas
+Jenkins.
+
+Our script supervisor was Caitlin Hofmeister,
+and our sound designer is Michael Aranda.
+Notre scénariste était Caitlin Hofmeister
+et notre concepteur sonore est Michael Aranda.
+
+And, of course, our graphics team is
+Thought Cafe.
+Et, bien sûr, notre équipe graphique est
+Thought Cafe.
+

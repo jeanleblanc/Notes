@@ -1,0 +1,678 @@
+Thank you to CuriosityStream for supporting
+PBS Digital Studios.
+Merci à CuriosityStream pour son soutien à
+PBS Digital Studios.
+
+Imagine that here, in front of me, is a box.
+Imaginez qu'ici, devant moi, se trouve une boîte.
+
+But this is no ordinary box.
+Mais ce n'est pas une boîte ordinaire.
+
+It’s indestructible, could be any size,
+and anything could be happening inside it.
+Il est indestructible, peut être de n'importe quelle taille
+et tout peut se passer à l'intérieur.
+
+Maybe it’s making steel from iron.
+Peut-être qu'il fabrique de l'acier à partir de fer.
+
+Or maybe it’s burning coal to generate electricity,
+or creating compounds to be used in medicines.
+Ou peut-être brûle-t-il du charbon pour produire de l'électricité
+ou crée-t-il des composés à utiliser dans les médicaments.
+
+No matter what’s going on inside this
+magical box, it’s our job as engineers to make
+it the best most efficient box it can be.
+Peu importe ce qui se passe à l'intérieur de cette
+boîte magique, c'est notre travail en tant qu'ingénieurs d'en
+faire la meilleure boîte la plus efficace possible.
+
+And to do that, we’ll need to rely on an
+incredibly basic rule. A law, if you will.
+Et pour ce faire, nous devrons nous appuyer sur une
+règle incroyablement basique.  Une loi, si vous voulez.
+
+It’s called the Law of Conservation, and
+it says that matter and energy can neither
+be created nor destroyed.
+C'est ce qu'on appelle la loi de conservation, et
+elle dit que la matière et l'énergie ne peuvent
+être ni créées ni détruites.
+
+And we can use this law to figure out both,
+where our box isn’t operating as efficiently
+as it can be, and how to fix it.
+Et nous pouvons utiliser cette loi pour comprendre à la fois
+où notre boîte ne fonctionne pas aussi
+efficacement qu'elle peut l'être et comment y remédier.
+
+[Theme Music]
+[Theme Music]
+
+Whatever it’s doing, our box is what
+engineers call a system, and what’s happening
+inside it is a process.
+Quoi qu'il fasse, notre boîte est ce que les
+ingénieurs appellent un système, et ce qui se passe à l'
+intérieur est un processus.
+
+Everything beyond the box is known as the
+surroundings.
+Tout ce qui se trouve au-delà de la boîte est connu sous le nom d'
+environnement.
+
+Let’s say you have an entire steel mill
+inside this particular box, so the process
+is converting iron to steel.
+Disons que vous avez une aciérie entière à l'
+intérieur de cette boîte particulière, donc le
+processus convertit le fer en acier.
+
+Now, iron is expensive.
+Maintenant, le fer coûte cher.
+
+Running steel mills is expensive.
+L'exploitation d'aciéries coûte cher.
+
+So if there’s something inefficient about
+the way your box works, you’re going to want
+to know about it – and fix it.
+Donc, s'il y a quelque chose d'inefficace dans
+le fonctionnement de votre box, vous
+voudrez le savoir - et le réparer.
+
+Ideally, whatever you feed into the system
+at the beginning, is what you get at the end.
+Idéalement, tout ce que vous introduisez dans le système
+au début est ce que vous obtenez à la fin.
+
+Input equals output.
+L'entrée est égale à la sortie.
+
+If your box is perfectly efficient,
+Si votre boîte est parfaitement efficace,
+
+the law of conservation tells you that the amount
+of steel you get at the end, should weigh exactly as
+much as the ingredients you put in.
+la loi de conservation vous dit que la quantité
+d'acier que vous obtenez à la fin doit peser exactement
+autant que les ingrédients que vous y mettez.
+
+So if you have 100 kilograms of iron and other
+ingredients going into your box every hour, you’d
+also have 100 kilograms of steel coming out.
+Donc, si vous avez 100 kilogrammes de fer et d'autres
+ingrédients entrant dans votre  boîte toutes les heures, vous
+auriez aussi 100 kilogrammes d'acier qui sortent.
+
+You know you’re not going to get 105 kilograms
+of steel, because you can’t create 5 kilograms of
+matter from nowhere.
+Vous savez que vous n'obtiendrez pas 105 kilogrammes
+d'acier, car vous ne pouvez pas créer 5 kilogrammes de
+matière à partir de nulle part.
+
+And you can’t have 95 kilograms at the end,
+either, because everything you put into this perfect
+version of the box is being turned into steel,
+Et vous ne pouvez pas non plus avoir 95 kilogrammes à la
+fin, car tout ce que vous mettez dans cette
+version parfaite de la boîte est transformé en acier,
+
+and 5 kilograms of matter just
+can’t disappear.
+et 5 kilogrammes de matière ne peuvent tout simplement
+pas disparaître.
+
+If you’re running this system continuously,
+with ingredients always flowing in and an equal
+amount of steel always coming out,
+Si vous utilisez ce système en continu,
+avec des ingrédients entrant toujours et une
+quantité égale d'acier sortant toujours,
+
+you have what’s called steady-state.
+vous avez ce qu'on appelle un état stable.
+
+When a system is steady-state, that means the
+variables at the input and output remain constant,
+despite what’s happening inside the system.
+Lorsqu'un système est en régime permanent, cela signifie que les
+variables à l'entrée et à la sortie restent constantes,
+malgré ce qui se passe à l'intérieur du système.
+
+It’s like water flowing through a full tank: if the
+system is steady-state, water comes out at the
+same rate it flows in, and the tank stays full.
+C'est comme si l'eau coulait dans un réservoir plein : si le
+système est en régime permanent, l'eau
+sort au même rythme qu'elle entre et le réservoir reste plein.
+
+Of course, we’re just talking about what
+would happen in an ideal situation – if the
+box is perfectly efficient at steel-making.
+Bien sûr, nous ne parlons que de ce
+qui se passerait dans une situation idéale - si la
+boîte était parfaitement efficace pour la fabrication de l'acier.
+
+The thing is, the real world doesn’t usually
+work that way.
+Le fait est que le monde réel ne fonctionne généralement pas de
+cette façon.
+
+Engineers deal with systems that are way
+more complex, and they’re not going to be
+perfectly efficient.
+Les ingénieurs traitent des systèmes beaucoup
+plus complexes, et ils ne seront pas
+parfaitement efficaces.
+
+But you can use the law of conservation to
+get a system as close to perfect as possible
+Mais vous pouvez utiliser la loi de conservation pour
+obtenir un système aussi parfait que possible
+
+– in other words, to get as much output
+from your input, as you can.
+- en d'autres termes, pour obtenir autant de sortie que possible
+de votre entrée.
+
+Before we go back to our steel mill, though,
+let’s bake a cake.
+Avant de retourner à notre aciérie,
+préparons un gâteau.
+
+The pan will be our system, the oven will
+be our surroundings, and the cake batter will
+be our raw materials, or input.
+La casserole sera notre système, le four
+sera notre environnement et la pâte à gâteau
+sera notre matière première ou intrant.
+
+The cake itself will be our delicious output.
+Le gâteau lui-même sera notre délicieuse sortie.
+
+Like most processes, we’re using this one
+to make something we want – the cake.
+Comme la plupart des processus, nous utilisons celui-ci
+pour faire quelque chose que nous voulons - le gâteau.
+
+But, again like other processes, it’s probably
+gonna produce some byproducts.
+Mais, encore une fois, comme d'autres processus, cela va probablement
+produire des sous-produits.
+
+When you burn coal to get electricity, for
+example, you also get ash, sulfur oxides,
+and nitrogen oxides.
+Lorsque vous brûlez du charbon pour obtenir de l'électricité, par
+exemple, vous obtenez également des cendres, des oxydes de soufre
+et des oxydes d'azote.
+
+Steelmaking creates dust from zinc and
+other metals, which is considered abrasive,
+hazardous waste.
+La fabrication de l'acier crée de la poussière de zinc et d'
+autres métaux, qui est considérée comme un déchet abrasif et
+dangereux.
+
+And don’t even get me started on chemical
+waste from manufacturing pharmaceuticals.
+Et ne me lancez même pas sur les
+déchets chimiques provenant de la fabrication de produits pharmaceutiques.
+
+Our cake will probably have some byproducts, too,
+like if we burn some of the batter on the pan, creating
+some charred bits that we wouldn’t want to eat.
+Notre gâteau aura probablement aussi des sous-produits,
+comme si nous brûlions une partie de la pâte sur la poêle, créant
+des morceaux carbonisés que nous ne voudrions pas manger.
+
+Look, not everyone’s a master chef.
+Écoutez, tout le monde n'est pas un grand chef.
+
+There are lots of other ways to end up with
+leftovers, too.
+Il existe également de nombreuses autres façons de se retrouver avec des
+restes.
+
+Sometimes you can’t get all of your raw materials to
+react or turn into what you want – like if there’s some
+batter in the pan that doesn’t get cooked.
+Parfois, vous ne pouvez pas faire réagir toutes vos matières premières
+ou les transformer en ce que vous voulez, par exemple s'il y a de la
+pâte dans la poêle qui ne cuit pas.
+
+Some of the final product can also get stuck
+in the system.
+Une partie du produit final peut également rester bloquée
+dans le système.
+
+Maybe some of the batter spilled onto the
+oven racks.
+Peut-être qu'une partie de la pâte s'est renversée sur les
+grilles du four.
+
+Any of these examples could be waste since
+you couldn’t simply separate them back into their
+initial parts to use them as input next time.
+N'importe lequel de ces exemples pourrait être un gaspillage puisque
+vous ne pouvez pas simplement les séparer dans leurs
+parties initiales pour les utiliser comme entrée la prochaine fois.
+
+There’s also the possibility our raw materials
+were contaminated, which could easily end
+up in our final product.
+Il est également possible que nos matières premières
+aient été contaminées, ce qui pourrait facilement se
+retrouver dans notre produit final.
+
+When we cracked open the eggs, for example, some
+small pieces of shell might have fallen into the batter,
+Lorsque nous avons ouvert les œufs, par exemple, certains
+petits morceaux de coquille peuvent être tombés dans la pâte,
+
+which means we’ll probably still find them
+when we try a slice of finished cake.
+ce qui signifie que nous les trouverons probablement encore
+lorsque nous essaierons une tranche de gâteau fini.
+
+You know, on second thought, maybe I’ll
+pass.
+Vous savez, après réflexion, je vais peut-être
+passer.
+
+So, clearly our cake-baking process has a
+lot of room for improvement.
+Donc, il est clair que notre processus de cuisson des gâteaux a
+beaucoup de place pour l'amélioration.
+
+Engineers define problems like these in terms
+of conversion and yield.
+Les ingénieurs définissent des problèmes comme ceux-ci en termes
+de conversion et de rendement.
+
+Conversion describes how much of our initial
+input was used in the process.
+La conversion décrit la quantité de notre entrée initiale qui a
+été utilisée dans le processus.
+
+If our system has a conversion rate of less than
+100%, it means you’ll have some leftover or waste.
+Si notre système a un taux de conversion inférieur à
+100 %, cela signifie que vous aurez des restes ou des déchets.
+
+Now that our cake is done, let’s go back
+to the steel mill in a box.
+Maintenant que notre gâteau est fait, retournons
+à l'aciérie dans une boîte.
+
+If you had 100 kilograms of iron and other
+ingredients going in, and a 60% conversion rate,
+Si vous aviez 100 kilogrammes de fer et d'autres
+ingrédients et un taux de conversion de 60 %,
+
+that means you’d have 40 kilograms
+of iron left over at the end of the process.
+cela signifie qu'il vous resterait 40 kilogrammes
+de fer à la fin du processus.
+
+That’s a lot of wasted iron!
+C'est beaucoup de fer gaspillé !
+
+Yield, meanwhile, describes how much of the final
+product you were able to get from your initial input.
+Le rendement, quant à lui, décrit la quantité de produit final que
+vous avez pu obtenir à partir de votre entrée initiale.
+
+So if your box has a 30% yield, 100 kilograms
+of raw materials would get you 30 kilograms 
+of steel, and 70 kilograms of waste.
+Ainsi, si votre boîte a un rendement de 30 %, 100 kilogrammes
+de matières premières vous rapporteront 30 kilogrammes
+d'acier et 70 kilogrammes de déchets.
+
+The most basic way to think about a system
+is in terms of “balance”.
+La façon la plus élémentaire de penser à un système
+est en termes d'« équilibre ».
+
+Engineers measure the values that go in and the
+values that come out, and if there’s a difference,
+they’ll try to figure out what’s causing it.
+Les ingénieurs mesurent les valeurs qui entrent et les
+valeurs qui sortent, et s'il y a une différence,
+ils essaieront de comprendre ce qui en est la cause.
+
+But conversion and yield only cover the beginning
+and end of the process.
+Mais la conversion et le rendement ne couvrent que le début
+et la fin du processus.
+
+Engineering, like life, is usually not that
+simple.
+L'ingénierie, comme la vie, n'est généralement pas aussi
+simple.
+
+If you have a system that’s not in steady-state,
+then you probably don’t have the same amount
+of mass coming in and out.
+Si vous avez un système qui n'est pas en état d'équilibre
+, vous n'avez probablement pas la même quantité
+de masse entrante et sortante.
+
+Real-life processes are messy, and stuff gets
+stuck along the way.
+Les processus réels sont désordonnés et les choses restent
+bloquées en cours de route.
+
+That’s accumulation, and as engineers, we can
+use it to keep track of the differences between
+what’s coming in and what’s going out.
+C'est de l'accumulation, et en tant qu'ingénieurs, nous pouvons l'
+utiliser pour garder une trace des différences entre
+ce qui entre et ce qui sort.
+
+The basic idea is pretty simple: if you subtract your
+output from your input, you get your accumulation.
+L'idée de base est assez simple : si vous soustrayez votre
+sortie de votre entrée, vous obtenez votre accumulation.
+
+If you’re measuring all this in terms of mass,
+that simple equation is probably all you need.
+Si vous mesurez tout cela en termes de masse,
+cette simple équation est probablement tout ce dont vous avez besoin.
+
+Mass goes in, and whatever mass doesn’t
+come out at the end, is stuck inside the system.
+La masse entre, et quelle que soit la masse qui ne
+sort pas à la fin, elle est coincée à l'intérieur du système.
+
+But when there are chemical reactions happening
+inside the system – which there often are –
+Mais lorsque des réactions chimiques se produisent
+à l'intérieur du système - ce qui est souvent le cas -,
+
+it can be more useful to think about accumulation
+in terms of molecules.
+il peut être plus utile de penser à l'accumulation
+en termes de molécules.
+
+During a process, your raw materials might go
+through a chemical reaction that generates some
+molecules that don’t end up in your product.
+Au cours d'un processus, vos matières premières peuvent
+subir une réaction chimique qui génère des
+molécules qui ne se retrouvent pas dans votre produit.
+
+Or a reaction might consume some molecules
+that are hanging around inside the system and
+weren’t part of the input.
+Ou une réaction pourrait consommer certaines molécules
+qui traînent à l'intérieur du système et
+ne faisaient pas partie de l'entrée.
+
+To keep track of where all your molecules are, and
+which of them are accumulating inside the system, you
+need two more terms: generation and consumption.
+Pour savoir où se trouvent toutes vos molécules et
+lesquelles s'accumulent dans le système, vous avez
+besoin de deux termes supplémentaires : génération et consommation.
+
+To calculate accumulation, you’d take your
+input and subtract the output like usual.
+Pour calculer l'accumulation, vous devez prendre votre
+entrée et soustraire la sortie comme d'habitude.
+
+But then you’d also add the molecules being
+generated within the system by chemical reactions,
+and subtract any molecules being consumed.
+Mais ensuite, vous ajouteriez également les molécules
+générées dans le système par des réactions chimiques
+et soustrayez toutes les molécules consommées.
+
+Whatever’s left over is what’s accumulated
+inside the system.
+Ce qui reste est ce qui s'est accumulé
+à l'intérieur du système.
+
+This equation is essential to engineering.
+Cette équation est essentielle à l'ingénierie.
+
+Even in its simplest form, engineers can
+use this equation to figure out how to improve
+a system.
+Même dans sa forme la plus simple, les ingénieurs peuvent
+utiliser cette équation pour comprendre comment améliorer
+un système.
+
+So let’s see how we can improve ours!
+Voyons donc comment nous pouvons améliorer les nôtres !
+
+The steel mill in our box has some raw materials
+flowing in and steel flowing out.
+L'aciérie dans notre boîte a des matières premières
+qui entrent et de l'acier qui en sort.
+
+As engineers, our goal is to make as much
+steel as possible at the end of the process.
+En tant qu'ingénieurs, notre objectif est de produire le plus d'
+acier possible à la fin du processus.
+
+Let’s say we begin with 100 kilograms of
+raw materials with a 70% conversion rate,
+Disons que nous commençons avec 100 kilogrammes de
+matières premières avec un taux de conversion de 70 %,
+
+which means we’re only making 70% of what’s
+possible, or 70 kilograms of steel.
+ce qui signifie que nous ne fabriquons que 70 % de ce qui est
+possible, soit 70 kilogrammes d'acier.
+
+Not bad, but not great.
+Pas mal, mais pas génial. 
+
+We’d be losing out on 30 kilograms of raw
+materials, and probably a good bit of money!
+Nous perdrions 30 kilos de matières
+premières, et probablement pas mal d'argent !
+
+This is where we’ll need to problem-solve
+as an engineer and figure out how to make
+the process better.
+C'est là que nous devrons résoudre des problèmes
+en tant qu'ingénieur et trouver comment
+améliorer le processus.
+
+How about a recycling system?
+Que diriez-vous d'un système de recyclage?
+
+We can introduce a separator at the end of
+our system to sort out any leftovers.
+Nous pouvons introduire un séparateur à la fin de
+notre système pour trier les restes.
+
+Then we can run that stream of unused raw
+materials back into the beginning of our process.
+Ensuite, nous pouvons renvoyer ce flux de matières
+premières inutilisées au début de notre processus.
+
+We already have 70 kilograms of steel and
+30 kilograms of iron and other ingredients
+that weren’t used.
+Nous avons déjà 70 kilogrammes d'acier et
+30 kilogrammes de fer et d'autres ingrédients
+qui n'ont pas été utilisés.
+
+Let’s send those 30 kilograms back.
+Renvoyons ces 30 kilogrammes.
+
+Now, instead of 100 kilograms being fed into
+the system, we have 100 kilograms plus the
+leftovers from the previous cycle.
+Maintenant, au lieu de 100 kilogrammes introduits dans
+le système, nous avons 100 kilogrammes plus les
+restes du cycle précédent.
+
+So, even though we still have a 70% conversion
+rate, we’re still getting more steel from the same
+amount of raw material, than we were before.
+Ainsi, même si nous avons toujours un taux de conversion de 70 %
+, nous obtenons toujours plus d'acier à partir de la même
+quantité de matière première qu'auparavant.
+
+But what if our raw materials aren’t perfectly
+clean?
+Mais que se passe-t-il si nos matières premières ne sont pas parfaitement
+propres ?
+
+What if we have contaminants?
+Que faire si nous avons des contaminants?
+
+Sometimes contaminants can lead to big problems,
+literally ruining machines and halting production.
+Parfois, les contaminants peuvent entraîner de gros problèmes,
+détruisant littéralement les machines et interrompant la production.
+
+It can be very serious and costly.
+Cela peut être très grave et coûteux.
+
+For example, soda bottling plants have had
+to shut down production because of possible
+chlorine contamination.
+Par exemple, les usines d'embouteillage de soda ont
+dû arrêter leur production en raison d'une possible
+contamination au chlore.
+
+With our steelmaking example, let’s assume
+the contaminants are relatively harmless and
+won’t react with anything.
+Avec notre exemple de fabrication d'acier, supposons que
+les contaminants sont relativement inoffensifs et
+ne réagiront avec rien.
+
+We’ll keep using our recycling system from
+before, but now we’ll also need a ‘purge system’
+to filter out the contaminants.
+Nous continuerons à utiliser notre système de recyclage d'
+avant, mais maintenant nous aurons également besoin d'un "système de purge"
+pour filtrer les contaminants.
+
+If we don’t get rid of them, we’ll be passing
+them back while adding new contaminants
+during the next cycle.
+Si nous ne nous en débarrassons pas, nous
+les renverrons tout en ajoutant de nouveaux contaminants au
+cours du prochain cycle.
+
+As the contaminants build up, we’d run into more
+and more problems with our machines and tools.
+Au fur et à mesure que les contaminants s'accumulaient, nous rencontrions de plus
+en plus de problèmes avec nos machines et nos outils.
+
+Remember, just because we’re following the
+Law of Conservation, or any other principles
+of engineering for that matter,
+N'oubliez pas que ce n'est pas parce que nous suivons la
+loi de la conservation ou tout autre principe
+d'ingénierie
+
+it doesn’t mean everything is working out
+the way we want it to.
+que tout se passe
+comme nous le souhaitons.
+
+As engineers, we’ll encounter limitations
+like these and many others.
+En tant qu'ingénieurs, nous rencontrerons des limitations
+comme celles-ci et bien d'autres.
+
+But with clever designs, we can work around
+them.
+Mais avec des conceptions intelligentes, nous pouvons les
+contourner.
+
+Engineering is all about testing our limits
+and pushing them as far as we can until we
+reach something truly extraordinary.
+L'ingénierie consiste à tester nos limites
+et à les repousser aussi loin que possible jusqu'à ce que nous
+atteignions quelque chose de vraiment extraordinaire.
+
+So today we learned all about the law of conservation,
+beginning with simple, steady-state systems.
+Aujourd'hui, nous avons donc tout appris sur la loi de la conservation, en
+commençant par des systèmes simples en régime permanent.
+
+We then introduced the terms conversion and
+yield, showing how they apply to a system.
+Nous avons ensuite introduit les termes conversion et
+rendement, montrant comment ils s'appliquent à un système.
+
+We ended with accumulation and covered how
+generation and consumption can affect how
+much accumulation there is in a system.
+Nous avons terminé avec l'accumulation et expliqué comment la
+production et la consommation peuvent affecter la
+quantité d'accumulation dans un système.
+
+I’ll see you next time, when we’ll learn
+all about reversibility and irreversibility
+and how they affect engineering.
+Je vous verrai la prochaine fois, quand nous apprendrons
+tout sur la réversibilité et l'irréversibilité
+et comment elles affectent l'ingénierie.
+
+Thank you to CuriosityStream for supporting
+PBS Digital Studios.
+Merci à CuriosityStream pour son soutien à
+PBS Digital Studios.
+
+CuriosityStream is a subscription streaming service that offers documentaries and non-fiction titles from a variety of filmmakers, including CuriosityStream originals.
+CuriosityStream est un service de streaming par abonnement qui propose des documentaires et des titres non romanesques de divers cinéastes, y compris les originaux de CuriosityStream.
+
+For instance, CuriosityStream has “Stephen
+Hawking's Favorite Places”
+Par exemple, CuriosityStream a "
+Les lieux préférés de Stephen Hawking",
+
+a series where renowned physicist Stephen
+Hawking takes a flight of epic proportions to
+visit his favorite places in the Universe.
+une série dans laquelle le célèbre physicien Stephen
+Hawking prend un vol aux proportions épiques pour
+visiter ses lieux préférés dans l'univers.
+
+You can learn more at curiositystream.com/crashcourse
+and use the code crashcourse during the sign-up process.
+Vous pouvez en savoir plus sur
+le site tourismstream.com/crashcourse et utiliser le code crashcourse lors du processus d'inscription.
+
+Crash Course Engineering is produced in association
+with PBS Digital Studios.
+Crash Course Engineering est produit en association
+avec PBS Digital Studios.
+
+You can head over to their channel to check
+out a playlist of their latest amazing shows,
+Vous pouvez vous rendre sur leur chaîne pour
+consulter une liste de lecture de leurs dernières émissions étonnantes,
+
+like The Origin of Everything, Deep Look,
+and Eons.
+comme The Origin of Everything, Deep Look
+et Eons.
+
+Crash Course is a Complexly production and this
+episode was filmed in the Doctor Cheryl C. Kinney
+Studio with the help of these wonderful people.
+Crash Course est une production de Complexly et cet
+épisode a été filmé dans le studio du docteur Cheryl C. Kinney
+avec l'aide de ces personnes merveilleuses.
+
+And our amazing graphics team is Thought Cafe.
+Et notre incroyable équipe graphique est Thought Cafe.
+

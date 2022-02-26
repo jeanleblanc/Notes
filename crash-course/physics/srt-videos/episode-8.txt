@@ -1,0 +1,277 @@
+Lorsque les gens disent que Issac Newton a radicalement transformé le domaine de la physique, ils ne plaisantent pas.
+
+Jusqu'ici, nous avons parlé des trois lois du mouvement, qui décrivent comment les choses se déplacent.
+
+Mais une autre des grandes contributions de Newton à la physique est sa compréhension de la gravité
+
+Quand Newton a débuté, le concept de gravité était quasi inexistant parmi les scientifiques.
+
+Enfin, ils savaient que lorsque vous laissez tomber quelque chose, celle-ci tombe au sol, et par de minutieuses observations
+
+ils savaient que les planètes et les lunes orbitaient d'une certaine façon.
+
+Ce qu'ils ne savaient pas par contre c'est que ces deux concepts étaient liés.
+
+Évidemment, comme avec le mouvement, nous savons désormais qu'il y a plus à dire de la gravité
+
+que ce que Newton pouvait observer.
+
+Malgré tout, lorsque l'on doit décrire l'effet de la gravité à l'échelle, disons, de notre système solaire,
+
+la loi de gravitation universelle de Newton est incroyablement utile.
+
+Et tout a commencé avec une pomme.
+
+...Probablement
+
+[Thème musical]
+
+Il y a de grandes chances que vous ayez déjà entendu l'histoire de la pomme de Newton ou au moins une partie de celle-ci.
+
+L'histoire raconte que un jour, il était assis au pied d'un pommier dans le jardin de sa mère,
+
+quand une pomme est tombée de l'arbre.
+
+C'est à ce moment-là que Newton eut sa grande révélation: Quelque chose attirait cette pomme vers la Terre.
+
+Ce qui le mena vers une autre idée: Et si la pomme attirait aussi la Terre, mais on ne pouvait pas
+
+se rendre compte, parce que les effets de la force de la pomme sur la Terre étaient moins évident ?
+
+Des années plus tard, Newton était assis dans le même jardin quand un autre trait de génie lui vint:
+
+Et si la même force qui attirait la pomme vers le sol pouvait affecter des choses beaucoup plus éloignées
+
+de la surface de la Terre -- comme la Lune ?
+
+C'était contre-intuitif, puisque la Lune orbite autour de la Terre, au lieu de foncer en ligne droite
+
+vers le sol comme la pomme tombant de l'arbre
+
+Cependant, Newton realisa que la Lune était constamment attirée par la Terre -- elle se déplaçait néanmoins
+
+latéralement tellement vite qu'elle ne tombait jamais sur la Terre. C'est ce qui la maintient en orbite.
+
+Si la gravité maintient la Lune en orbite, est-ce qu'elle peut influencer le comportement de n'importe quel couple d'objets --
+
+comme une planète orbitant autour du Solei ?
+
+Ça c'est la version officielle de l'histoire -- celle que Newton lui-même racontait.
+
+La plupart des historiens pensent qui'il l'a un peu embellie, mais il y a certainement une part de vérité.
+
+Que l'histoire de la pomme ce soit vraiment passée ou pas, Newton trouvait son idée prometteuse.
+
+L'idée que la gravité peut tout influencer, y compris les orbites des autres planètes et lunes.
+
+Il a donc commencé à chercher une équation qui décrirait précisément la façon dont la force gravitationnelle influence le comportement des objets --
+
+que ce soit une pomme tombant sur le sol, ou la Lune orbitant autour de la Terre.
+
+Newton savait que bien que cette force gravitationnelle fonctionnait bien, elle se comporterait comme
+
+tout autre force nette agissant sur un objet -- elle serait égale à la masse de l'objet, fois son accélération.
+
+La partie masse était assez facile -- ce serait juste la masse de la pomme ou de la Lune.
+
+Par contre ça allait être plus difficile de déterminer les facteurs affectant la partie accélération de l'équation.
+
+Newton réalisa que, en premier lieu, il devait prendre en compte la distance.
+
+Quand un objet est proche de la surface terrestre, comme une pomme dans un arbre, la gravité le fait
+
+accéléré d'environ 10 mètres par seconde carrée.
+
+Mais la Lune a une accélération 3600 fois moins élévé que la pomme qui tombe.
+
+La Lune se situe aussi est environ 60 fois plus loin du centre de la Terre que la pomme --
+
+et 60 au carrée vaut 3600.
+
+Ainsi, Newton réalisa que la force gravitationnelle entre deux objets devenait plus faibles quand ils étaient plus éloignées.
+
+Plus précisément, elle doit dépendre du carré de la distance entre deux objets.
+
+Et puis il y a la masse.
+
+Pas la masse de la pomme ou de la Lune -- mais la masse de l'autre objet impliqué
+
+dans cette danse gravitationnelle : dans notre cas, la Terre.
+
+Newton realisa que plus la masse des objets s'attirant l'un vers l'autre était grandes
+
+plus la force gravitationnelle serait fortes entre eux.
+
+Une fois pris en compte la distance entre les deux objets, et leurs masses,
+
+Newton avait presque toute son équation pour décrire le comportement de la gravité:
+
+La force gravitationnelle était proportionnelle au produit de la masse des deux objets,
+
+divisé par le carré de la distance entre eux.
+
+Cependant elle doit être beacoup plus petite sinon vous verriez une force attirer tout les objet autour de vous.
+
+Comme ce Rubik's cube qui se tient devant là au lieu d'être attiré vers moi.
+
+Donc la force gravitationnelle entre nous doit être très faible.
+
+C'est pourquoi Newton ajouta une constante à son équation -- un nombre si minuscule qu'elle ferait que
+
+la force gravitationnele ne soit qu'une infime partie de ce que l'on calculerait sinon.
+
+Il l'appela G.
+
+Et il appela l'équation complète, F = GMm/r^2, la loi de gravitation universelle.
+
+Newton ne savait pas du tout quel nombre était grand G. Il savait simplement que ce serait un petit
+
+nombre, et mis la lettre G dans son équation juste comme un paramètre.
+
+Environ un siècle plus tard, Henry Cavendish, un autre scientifique britannique, pris de précises mesures
+
+avec les instruments les plus précis et sensibles de son époque, et découvrit que G valait
+
+à peu près 6.67 * 10^-11 N*m^2/kg^2.
+
+En fin decompte, Newton avait raison sur le fait que grand G devait être très petit.
+
+Et même si il ne connaissait pas exactement la valeur de G à ce moment là,
+
+Newton avait assez pour établir sa loi universelle de la gravitation.
+
+Il décrit la gravité comme une force entre deux objets, et publia son équation servant à calculer cette force.
+
+Ensuite, Newton est allé un pas plus loin -- bon en fait, trois pas plus plus loin.
+
+50 ans plus tôt, un astronome nommé Johannes Kepler avait trouvé 3 lois
+
+expliquant la façon dont les orbites fonctionnaient.
+
+Et ces prédictions vérifiaient quasi parfaitement ce que les astronomes observaient dans le ciel.
+
+Donc Newton savait que sa loi universelle de la gravitation devait vérifier les lois de Kepler,
+
+ou alors il devrait trouver un moyen d'expliquer en quoi Kepler avait tord.
+
+Heuresement pour Newton, non seulement sa loi de la gravitation fonctionne avec les lois de Kepler,
+
+mais en plus il était de l'utiliser, avec l'aide de ses trois lois du mouvement et du calcul infinitésimal, pour prouver les lois de Kepler.
+
+Selon Kepler, les orbites des planètes sont des ellipses -- et non des cercles --
+
+avec le Soleil situé l'un des foyer de l'ellipse -- l'un des deux points importants pour décrire la courbure d'une ellipse.
+
+Et voilà ce qu'on appele la première loi de Kepler, elle s'applique en fait à toute orbite
+
+elliptique -- pas seulement à celle des planètes.
+
+L'orbite de notre lune est aussi une ellipse, et la Terre occupe l'un des foyers de cette ellipse.
+
+La deuxième loi de Kepler dit que si vous tracez une ligne d'une planète au soleil, elle balayera
+
+toujours la même aire pour un même temps donné.
+
+Quand la Terre se situe à son point le plus éloigné du Soleil, le temps d'une journée
+
+nous avons couvert une aire qui ressemble à une fine et longue part de pizza.
+
+Et au point le plus proche du Soleil, un jour passé va couvrir une aire
+
+qui ressemble une petite et épaisse part de pizza.
+
+La seconde loi de Kepler dit que si nous les mesurons , ces deux parts de pizzas
+
+ont exactement la même aire.
+
+Sa troisième loi est un peu plus technique, mais c'est simplement une observation sur
+
+ce qui se passe quand vous prenez le plus long rayon -- ou demi grand axe -- de l'orbite d'une planète
+
+l'élevé au cube, puis le divisé par la période de l'orbite de la planète, au carré.
+
+Selon Kepler, le rapport doit être identique pour n'importe quelle planète --
+
+et aujourd'hui nous savons que c'est presque exacte.
+
+Pour n'importe quelle planète orbitant autour du Soleil, ce rapport est de 3.34 ou 3.35.
+
+Encore une fois ! Newton était capable pourquoi les orbites observées durant la nuit
+
+déviaient un peu des prédictions de Kepler -- par exemple, en ayant des rapports variant légèrement.
+
+Ce que Kepler ne savait pas et que Newton a découvert,  c'est que les planètes et les lunes s'attiraient
+
+les unes vers les autres, et que souvent, cette attirance était assez forte pour faire varier un peu l'oribite.
+
+Une dernière chose à dire à propos de la loi universelle de gravitation de Newton,
+
+c'est qu'elle correspond à ce à quoi une équation d'une force nette devrait ressembler, selon Newton
+
+Grâce à la seconde loi du mouvement de Newton, nous savons que la force nette est égale à la masse fois l'accélération.
+
+Ce que la loi universelle de gravitation dit, c'est que lorsque une force agissant sur un objet
+
+est dû à la gravité, l'accélération est égale à la masse d'un plus gros objet -- comme la Terre --
+
+divisée par la distance entre les deux objets, fois grand G.
+
+Donc, maintenant savez-vous comment on a pu décrire l'accélération gravitationnelle à la surface de la Terre avec petit g ?
+
+En bien en fait, petit g est égale à grand G, fois la masse de la Terre, divisée par le rayon de la Terre au carré.
+
+...math!
+
+Et nous pouvons utiliser cette équation de l'accélération gravitationnelle pour aider la NASA à surmonter un défi
+
+qu'elle rencontre en ce moment.
+
+On veut envoyer des hommes sur Mars. Cependant, nous voulons être certains que leurs combinaisons spatiales pourront
+
+fonctionner correctement à la gravité martienne.
+
+L'une des façons de la NASA de tester ces combinaisons et d'envoyer des astronautes voler dans des avions spéciaux --
+
+appelés parfois Machine à Vomir.
+
+Ils volent en arc ce qui permet aux testeurs de combinaisonts de diminuer leurs poids -- jusqu'à 0 parfois --
+
+-- pour une courte durée.
+
+Pour simuler la gravité martienne, le vol devra simuler l'accélération gravitationnelle
+
+que vous ressentiriez si vous vous amusiez à bondir sur la surface de Mars.
+
+Donc, combien vaut cette accélération ?
+
+Et bien, à partir de la loi universelle de graviation de Newton, nous savons que l'accélération de tout objet
+
+à la surface de Mars serait égale à grand G fois la masse de Mars, divisé par le rayon de Mars au carré.
+
+En fait nous connaissons déjà la mars et le rayon de Mars, ce qui... aide beacoup.
+
+Donc, en remplaçant par les nombres, on peut calculer l'accélération gravitationnele à la surface de Mars:
+
+elle devrait être d'environ 3.7 mètres par seconde carré.
+
+Voilà l'accélération que vous ressentiriez sur Mars, c'est ce que la Machine à Vomir tente de maintenir lors du vol --
+
+environ 38% de l'accélération que vous ressentez lorsque vous sauter sur le sol ici sur Terre.
+
+Finalement, des centaines d'années àprès Newton, la Nasa utilise toujours ses maths.
+
+Ouais, on peut dire qu'il était important.
+
+Aujourd'hui, nous avons appris comment Newton est parvenu à sa loi de la gravitation universelle.
+
+Nous avons aussi parlé des trois lois de Kepler et calculé l'accélération gravitationnelle à la surface de Mars.
+
+Crash Course Physique est produit en association avec PBS Digital Studios. Vous pouvez vous diriger
+
+vers leur chaîne pour voir des émissions géniales comme Deep Look, The Good Stuff, et PBS Space Time.
+
+Cet épisode de Crash Course a été filmé au Doctor Cheryl C. Kinney Crash Course Studio
+
+avec l'aide de toutes ces personnes géniales et
+notre équipe de graphiste est Thought Café.
+

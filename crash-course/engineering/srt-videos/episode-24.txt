@@ -1,0 +1,667 @@
+The efforts of engineers are all around you.
+Les efforts des ingénieurs sont tout autour de vous.
+
+Take a stroll down the street and you’ll
+spot one feat of engineering after another.
+Promenez-vous dans la rue et vous
+apercevrez une prouesse d'ingénierie après l'autre.
+
+But what you can’t see are all the feats
+of engineering people are carrying around
+inside their bodies.
+Mais ce que vous ne pouvez pas voir, ce sont tous les exploits que les
+ingénieurs transportent
+dans leur corps.
+
+Because engineering isn’t just about what’s
+around us; it’s also about what’s inside us.
+Parce que l'ingénierie ne concerne pas seulement ce
+qui nous entoure;  il s'agit aussi de ce qui est à l'intérieur de nous.
+
+From medical implants to artificial limbs
+and the bandages that cover your cuts,
+Des implants médicaux aux membres artificiels
+et aux bandages qui couvrent vos coupures,
+
+so many things have been designed from a special
+set of materials that work well with the human body.
+tant de choses ont été conçues à partir d'un
+ensemble spécial de matériaux qui fonctionnent bien avec le corps humain.
+
+These biomaterials are vital to medicine,
+healthcare, and the world as we know it.
+Ces biomatériaux sont vitaux pour la médecine, les
+soins de santé et le monde tel que nous le connaissons.
+
+[Theme Music]
+[Thème musical]
+
+It takes special effort to design things that
+work directly with the human body.
+Il faut un effort particulier pour concevoir des choses qui
+fonctionnent directement avec le corps humain.
+
+Technically, you could try and use any material
+as a biomaterial, but to be successful, it needs
+to be compatible with the biological system
+it’s interacting with.
+Techniquement, vous pouvez essayer d'utiliser n'importe quel matériau
+comme biomatériau, mais pour réussir, il
+doit être compatible avec le système biologique avec lequel
+il interagit.
+
+All the materials we’ve talked about in this course
+– metals, ceramics, polymers, and composites –
+Tous les matériaux dont nous avons parlé dans ce cours
+- métaux, céramiques, polymères et composites -
+
+and even living cells and tissues can be
+candidates for biomaterials, as long as they
+have the right skills for the job.
+et même les cellules et tissus vivants peuvent être des
+candidats pour les biomatériaux, à condition qu'ils
+aient les bonnes compétences pour le travail.
+
+That’s where biocompatibility comes in.
+C'est là qu'intervient la biocompatibilité.
+
+That’s a general term for how compatible
+a material is with living tissue.
+C'est un terme général désignant la compatibilité d'
+un matériau avec les tissus vivants.
+
+It’s not only an important feature of biomaterials,
+it’s what makes something a biomaterial.
+Ce n'est pas seulement une caractéristique importante des biomatériaux,
+c'est ce qui fait de quelque chose un biomatériau.
+
+There are four main ways a material can interact
+with your body:
+Un matériau peut interagir
+avec votre corps de quatre manières principales :
+
+it can hurt you; it can dissolve and be replaced by
+cells; your body can surround it with a protective layer;
+or it can bond with your living tissue.
+il peut vous blesser ;  il peut se dissoudre et être remplacé par des
+cellules ;  votre corps peut l'entourer d'une couche protectrice ;
+ou il peut se lier à vos tissus vivants.
+
+Biocompatible materials are the ones that
+result in healthy bodily responses.
+Les matériaux biocompatibles sont ceux qui
+entraînent des réponses corporelles saines.
+
+They don’t tend to cause blood clots or infections,
+and lead to normal, uncomplicated healing.
+Ils n'ont pas tendance à provoquer des caillots sanguins ou des infections
+et conduisent à une guérison normale et sans complication.
+
+Which can be really important, because for most applications, your biomaterials will at least partly come in contact with bodily tissues or cells, and often for long periods of time.
+Ce qui peut être très important, car pour la plupart des applications, vos biomatériaux entreront au moins en partie en contact avec des tissus ou des cellules corporelles, et souvent pendant de longues périodes.
+
+Months. Years.
+Maybe decades.
+Mois.  Années. 
+Peut-être des décennies.
+
+Over the years, the materials we consider
+biocompatible have changed a lot –
+Au fil des ans, les matériaux que nous considérons comme
+biocompatibles ont beaucoup changé -
+
+from the animal tissue used by ancient Egyptians to
+stitch wounds, to the wood used in olden-day peg legs,
+to the carefully-engineered materials we use today.
+des tissus animaux utilisés par les anciens Égyptiens pour
+recoudre les plaies, au bois utilisé dans les pattes de cheville d'autrefois,
+aux matériaux soigneusement conçus que nous utilisons aujourd'hui.
+
+Some of the more prominent ones today are
+titanium and stainless steel, used everywhere
+from joint replacements to dental implants.
+Certains des plus importants aujourd'hui sont le
+titane et l'acier inoxydable, utilisés partout,
+des remplacements articulaires aux implants dentaires.
+
+There’s also polyurethane, a type of polymer used in
+catheters, artificial heart valves, and other flexible
+devices, and hydrogels, for things like contact lenses.
+Il y a aussi le polyuréthane, un type de polymère utilisé dans les
+cathéters, les valves cardiaques artificielles et d'autres
+dispositifs flexibles, et les hydrogels, pour des choses comme les lentilles de contact.
+
+Each type has different properties that make
+it useful as a biomaterial.
+Chaque type a des propriétés différentes qui le
+rendent utile comme biomatériau.
+
+We’ve already talked about one use for alloys,
+like titanium and stainless steel, for example: braces.
+Nous avons déjà parlé d'une utilisation des alliages,
+comme le titane et l'acier inoxydable, par exemple : les bagues.
+
+Titanium and some other alloys can be classified
+as biologically inert materials, which means they
+cause little or no reaction with nearby tissues.
+Le titane et certains autres alliages peuvent être classés
+comme des matériaux biologiquement inertes, ce qui signifie qu'ils ne
+provoquent que peu ou pas de réaction avec les tissus voisins.
+
+Your body may recognize them as foreign
+materials and try to surround them in fibrous
+tissue, but it doesn’t outright reject them.
+Votre corps peut les reconnaître comme des corps
+étrangers et essayer de les entourer de
+tissu fibreux, mais il ne les rejette pas complètement.
+
+In the US alone, over four million people
+wear braces, many of whom have the metal kind.
+Aux États-Unis seulement, plus de quatre millions de personnes
+portent des appareils dentaires, dont beaucoup en métal.
+
+And that’s not counting all the people who
+have already spent a couple of years of their
+lives with alloys digging into their gums.
+Et c'est sans compter toutes les personnes qui
+ont déjà passé quelques années de leur
+vie avec des alliages creusant leurs gencives.
+
+You’ll also find these alloys in plenty
+of other things that we put in people’s
+bodies for an extended period of time.
+Vous trouverez également ces alliages dans de
+nombreuses autres choses que nous mettons dans le corps des gens
+pendant une période prolongée.
+
+Titanium is often used in place of stainless
+steel because it lacks things like nickel that can
+sometimes cause allergic reactions.
+Le titane est souvent utilisé à la place de l'acier
+inoxydable car il manque des éléments comme le nickel qui peuvent
+parfois provoquer des réactions allergiques.
+
+It also has a lower density compared to other metallic
+biomaterials, so a titanium implant will be lighter than
+a similar one made from stainless steel.
+Il a également une densité inférieure à celle d'autres
+biomatériaux métalliques, de sorte qu'un implant en titane sera plus léger qu'un implant
+similaire en acier inoxydable.
+
+And when it comes to artificial body parts, “lighter”
+usually translates to “much more comfortable.”
+Et lorsqu'il s'agit de parties artificielles du corps, "plus léger"
+se traduit généralement par "beaucoup plus confortable".
+
+But both titanium and stainless steel have
+excellent mechanical properties like strength,
+resistance to bending, and durability.
+Mais le titane et l'acier inoxydable ont d'
+excellentes propriétés mécaniques telles que la résistance, la
+résistance à la flexion et la durabilité.
+
+That’s why they’re used for things that tend to
+get a lot of wear and tear, like teeth and joints.
+C'est pourquoi ils sont utilisés pour des choses qui ont tendance
+à s'user beaucoup, comme les dents et les articulations.
+
+Titanium is also often used to surround things
+that wouldn’t be biocompatible otherwise – a
+pacemaker, for example.
+Le titane est également souvent utilisé pour entourer des objets
+qui ne seraient pas biocompatibles autrement - un
+stimulateur cardiaque, par exemple.
+
+On their own, having a battery and electrical
+circuits inside you wouldn’t be great.
+À eux seuls, avoir une batterie et des circuits électriques à l'
+intérieur de vous ne serait pas génial.
+
+Surround them with a biocompatible material
+like titanium, though, and it becomes much safer.
+Entourez-les d'un matériau biocompatible
+comme le titane, cependant, et cela devient beaucoup plus sûr.
+
+Sometimes, you can change the surface of a
+material to do even better than just not causing harm.
+Parfois, vous pouvez modifier la surface d'un
+matériau pour faire encore mieux que simplement ne pas causer de dommages.
+
+For example, sometimes implanted devices that
+come into direct contact with blood, like pacemakers,
+Par exemple, les dispositifs implantés qui
+entrent parfois en contact direct avec le sang, comme les stimulateurs cardiaques,
+
+cause dangerous blood clots or narrowing of blood vessels as the person’s body tries to heal around them.
+provoquent des caillots sanguins dangereux ou un rétrécissement des vaisseaux sanguins lorsque le corps de la personne essaie de guérir autour d'eux.
+
+But scientists have found that coating the titanium
+in a mixture of collagen proteins and a blood thinner
+called heparin could someday help prevent those
+complications.
+Mais les scientifiques ont découvert qu'enrober le titane
+d'un mélange de protéines de collagène et d'un anticoagulant
+appelé héparine pourrait un jour aider à prévenir ces
+complications.
+
+The research is still in the early stages,
+but the fibrous tissues that form around implants
+are often collagen-based,
+La recherche en est encore à ses débuts,
+mais les tissus fibreux qui se forment autour des implants
+sont souvent à base de collagène,
+
+so coating the titanium
+in the same proteins might speed up healing.
+donc enrober le titane
+des mêmes protéines pourrait accélérer la guérison.
+
+Meanwhile, the blood thinner might prevent
+clots.
+Pendant ce temps, l'anticoagulant pourrait empêcher la
+formation de caillots.
+
+Other types of titanium coatings are already
+used for surgeries where you need to get an
+implant to bond with the surrounding bone.
+D'autres types de revêtements en titane sont déjà
+utilisés pour les chirurgies où vous devez obtenir un
+implant pour se lier à l'os environnant.
+
+Some knee replacements, for example, are coated with things like proteins and silver, which give the alloy the ability to bond with living tissue and discourage bacterial growth.
+Certaines prothèses de genou, par exemple, sont recouvertes d'éléments comme les protéines et l'argent, qui donnent à l'alliage la capacité de se lier aux tissus vivants et de décourager la croissance bactérienne.
+
+With things like knee replacements, that can be really important, because for the surgery to be successful, you typically need to get the implant to bond with the surrounding bone.
+Avec des choses comme les arthroplasties du genou, cela peut être très important, car pour que la chirurgie réussisse, vous devez généralement faire en sorte que l'implant se lie à l'os environnant.
+
+So when it comes to biocompatibility, alloys
+like titanium are super useful.
+Ainsi, en matière de biocompatibilité, les alliages
+comme le titane sont extrêmement utiles.
+
+And with some clever engineering, you can
+make them even better.
+Et avec une ingénierie intelligente, vous pouvez les
+rendre encore meilleurs.
+
+Sometimes, though, you need a material that’s
+a little more flexible, like for a heart valve.
+Parfois, cependant, vous avez besoin d'un matériau
+un peu plus flexible, comme pour une valve cardiaque.
+
+And for that, engineers often turn to polyurethane.
+Et pour cela, les ingénieurs se tournent souvent vers le polyuréthane.
+
+Like other polymers, polyurethane is made
+up of long, repeating chains arranged into
+larger molecules.
+Comme d'autres polymères, le polyuréthane est
+composé de longues chaînes répétitives disposées en
+molécules plus grosses.
+
+But the smaller segments of the polymer alternate
+between hard and soft, which gives it a super
+useful set of properties.
+Mais les plus petits segments du polymère alternent
+entre durs et mous, ce qui lui confère un
+ensemble de propriétés super utiles.
+
+Polyurethane has a high level of elasticity,
+so it’s pretty flexible, but it’s also durable and
+resistant to tearing.
+Le polyuréthane a un haut niveau d'élasticité,
+il est donc assez flexible, mais il est également durable et
+résistant à la déchirure.
+
+Combine these properties and you end up with
+a biomaterial that performs well under both
+static and dynamic loads.
+Combinez ces propriétés et vous obtenez
+un biomatériau qui fonctionne bien sous
+des charges statiques et dynamiques.
+
+More importantly, though, those hard and soft
+segments make polyurethane biocompatible.
+Plus important encore, ces segments durs et mous
+rendent le polyuréthane biocompatible.
+
+In the 1980s, researchers discovered that the molecules in the softer segments helped make the polymer more blood-friendly because the platelet cells that cause clots didn’t stick to them as much.
+Dans les années 1980, les chercheurs ont découvert que les molécules des segments les plus mous contribuaient à rendre le polymère plus respectueux du sang, car les cellules plaquettaires qui causent les caillots ne s'y collaient pas autant.
+
+Since then, engineers have worked to make polyurethanes with even better biocompatibility by changing the chemical structure of the hard segments so they don’t accumulate platelets as much, either.
+Depuis lors, les ingénieurs ont travaillé pour fabriquer des polyuréthanes avec une biocompatibilité encore meilleure en modifiant la structure chimique des segments durs afin qu'ils n'accumulent pas autant de plaquettes non plus.
+
+But polyurethane isn’t the only polymer
+that’s widely-used as a biomaterial.
+Mais le polyuréthane n'est pas le seul
+polymère largement utilisé comme biomatériau.
+
+There are also hydrogels, materials made up of things
+called hydrophilic structures, cross-linked polymers
+capable of holding large amounts of water.
+Il existe également des hydrogels, des matériaux constitués de choses
+appelées structures hydrophiles, des polymères réticulés
+capables de retenir de grandes quantités d'eau.
+
+Think of the polymers we’ve talked about
+before, with those long chemical chains,
+Pensez aux polymères dont nous avons parlé
+auparavant, avec ces longues chaînes chimiques,
+
+but now they’re linked repeatedly between the chains,
+forming a network-like structure.
+mais maintenant ils sont liés à plusieurs reprises entre les chaînes,
+formant une structure en forme de réseau.
+
+That network can then swell with water to
+fill in the gaps between the chains, leading
+to some interesting properties.
+Ce réseau peut ensuite se gonfler d'eau pour
+combler les vides entre les chaînes, ce
+qui conduit à des propriétés intéressantes.
+
+For example, one of the most widely used hydrogels
+is something called PHEMA, a material that’s pretty
+unreactive and supportive of biological processes.
+Par exemple, l'un des hydrogels les plus largement utilisés
+est quelque chose appelé PHEMA, un matériau qui est assez
+non réactif et qui soutient les processus biologiques.
+
+It’s tough and doesn't degrade easily, isn’t absorbed by the body, and it can take on many different shapes and forms, making it the sort of swiss army knife of biomaterials.
+Il est résistant et ne se dégrade pas facilement, n'est pas absorbé par le corps et peut prendre de nombreuses formes différentes, ce qui en fait une sorte de couteau suisse des biomatériaux.
+
+These characteristics are what make PHEMA
+hydrogels so well-suited for contact lenses.
+Ces caractéristiques rendent les
+hydrogels PHEMA si bien adaptés aux lentilles de contact.
+
+There’s even research on using them to deliver
+medicine to the eye!
+Il y a même des recherches sur leur utilisation pour administrer des
+médicaments à l'œil !
+
+In fact, the unique chemical structure of
+hydrogels in general could make them ideal
+for delivering drugs across the body.
+En fait, la structure chimique unique des
+hydrogels en général pourrait les rendre
+idéales pour administrer des médicaments dans tout le corps.
+
+Say you swallow a hydrogel capsule filled
+with medication that you might normally take
+in a shot.
+Supposons que vous avaliez une capsule d'hydrogel remplie
+de médicaments que vous pourriez normalement prendre
+en une injection.
+
+When the pill enters your body, the water
+inside you will try to fill it up.
+Lorsque la pilule pénètre dans votre corps, l'eau
+à l'intérieur de vous essaiera de la remplir.
+
+The hydrogel will take in the fluid and swell up to
+maintain its equilibrium, effectively pushing out the drug
+into your body and releasing it where it needs to go.
+L'hydrogel absorbera le liquide et gonflera pour
+maintenir son équilibre, poussant efficacement le médicament
+dans votre corps et le libérant là où il doit aller.
+
+And if you use a hydrogel that your body
+can gradually absorb, it will just dissolve
+after it’s done its job.
+Et si vous utilisez un hydrogel que votre corps
+peut progressivement absorber, il se dissoudra simplement
+après avoir fait son travail.
+
+The potential for future hydrogel applications
+is vast, including wound-healing bioadhesives,
+Le potentiel pour les futures applications d'hydrogel
+est vaste, y compris les bioadhésifs cicatrisants,
+
+artificial skin and cartilage, sexual organ
+reconstruction, and even vocal cord replacements.
+la peau et le cartilage artificiels, la
+reconstruction des organes sexuels et même les remplacements de cordes vocales.
+
+So far, we’ve mostly talked about building
+devices to put in the body.
+Jusqu'à présent, nous avons surtout parlé de la construction d'
+appareils à mettre dans le corps.
+
+But biomaterials can be used to help boost
+the body’s existing behaviors, too.
+Mais les biomatériaux peuvent également être utilisés pour aider à stimuler
+les comportements existants du corps.
+
+For example, some researchers are working
+on a gel that can that can stick to your bodily
+tissues and help heal them faster.
+Par exemple, certains chercheurs travaillent
+sur un gel qui peut coller à vos
+tissus corporels et aider à les guérir plus rapidement.
+
+This gel can help prevent internal blisters
+and infections by filling the dead space that’s
+created by surgeries like tumor removals.
+Ce gel peut aider à prévenir les cloques internes
+et les infections en remplissant l'espace mort
+créé par des interventions chirurgicales telles que l'ablation de tumeurs.
+
+After your body has the time to heal, the
+gel degrades and is absorbed.
+Une fois que votre corps a eu le temps de guérir, le
+gel se dégrade et est absorbé.
+
+On a much smaller scale – like, the size
+of individual cells –
+À une échelle beaucoup plus petite – comme la taille
+des cellules individuelles – les
+
+researchers are also looking into biomaterials
+that could deliver things like DNA directly into cells
+they otherwise couldn’t get into.
+chercheurs étudient également des biomatériaux
+qui pourraient fournir des éléments comme l'ADN directement dans des cellules dans lesquelles
+ils ne pourraient autrement pas pénétrer.
+
+By creating biomaterials that mimic viruses,
+you can trick cells into taking in these molecules,
+like some kind of cellular Trojan horse.
+En créant des biomatériaux qui imitent les virus,
+vous pouvez inciter les cellules à absorber ces molécules,
+comme une sorte de cheval de Troie cellulaire.
+
+We might even be able to use them for cancer
+vaccines!
+Nous pourrions même les utiliser pour des
+vaccins contre le cancer !
+
+But like anything else in science, and especially
+medicine,
+Mais comme toute autre chose en science, et en particulier en
+médecine,
+
+there are certain protocols biomaterial engineers are
+expected to follow to make sure what they’re designing
+is more than just effective – it has to be safe.
+il existe certains protocoles que les ingénieurs en biomatériaux sont
+censés suivre pour s'assurer que ce qu'ils conçoivent
+est plus qu'efficace - il doit être sûr.
+
+For example, early research might include testing the
+material on cells outside of the body, to get an idea of
+how biocompatible it is without risking anyone’s life.
+Par exemple, les premières recherches pourraient inclure des tests du
+matériau sur des cellules à l'extérieur du corps, pour avoir une idée
+de sa biocompatibilité sans risquer la vie de quiconque.
+
+Other times, it might involve animal testing,
+to see how a material affects the physiology of
+other animals before trying it on humans.
+D'autres fois, cela peut impliquer des tests sur des animaux,
+pour voir comment un matériau affecte la physiologie d'
+autres animaux avant de l'essayer sur des humains.
+
+But the proper precautions aren’t always taken,
+Mais les précautions appropriées ne sont pas toujours prises,
+
+and there have been some cases where devices
+that were said to be safe caused reactions as mild
+as a rash or as serious as death.
+et il y a eu des cas où des
+appareils réputés sûrs ont provoqué des réactions aussi
+légères qu'une éruption cutanée ou aussi graves que la mort.
+
+Like the Dalkon Shield, an early IUD contraceptive.
+Comme le Dalkon Shield, un premier contraceptif stérilet.
+
+When it was introduced in the late 1960s,
+the Dalkon Corporation marketed the Shield
+as superior to other IUDs on the market.
+Lorsqu'il a été introduit à la fin des années 1960,
+la Dalkon Corporation a commercialisé le Shield
+comme étant supérieur aux autres DIU sur le marché.
+
+They said it had a lower failure rate, at
+about 1%, and that it was easier and less
+painful to insert and remove.
+Ils ont dit qu'il avait un taux d'échec inférieur, à
+environ 1%, et qu'il était plus facile et moins
+douloureux à insérer et à retirer.
+
+And then people started getting infections.
+Et puis les gens ont commencé à avoir des infections.
+
+Which was weird, because the uterus is normally
+sterile.
+Ce qui était bizarre, car l'utérus est normalement
+stérile.
+
+By 1974, it had caused problems in tens of
+thousands of people, including at least 18 deaths.
+En 1974, il avait causé des problèmes à des dizaines de
+milliers de personnes, dont au moins 18 décès.
+
+Later investigations revealed that the culprit
+was the tail string attached to the IUD to
+help remove it.
+Des enquêtes ultérieures ont révélé que le coupable
+était la ficelle de queue attachée au stérilet pour
+aider à le retirer.
+
+The string was made of a bundle of thin nylon
+fibers with a shell of nylon around them,
+La ficelle était constituée d'un faisceau de fines
+fibres de nylon entourées d'une enveloppe de nylon,
+
+and it acted like a wick, drawing bacteria
+up into the uterus.
+et elle agissait comme une mèche, attirant les
+bactéries dans l'utérus.
+
+Turns out, the parent company that bought Dalkon
+had known about this problem the whole time.
+Il s'avère que la société mère qui a acheté Dalkon
+était au courant de ce problème depuis le début.
+
+When one of their quality control employees insisted
+they address it, the company fired him instead –
+something that would be illegal in the US today.
+Lorsqu'un de leurs employés du contrôle qualité a insisté pour
+qu'ils s'en occupent, l'entreprise l'a licencié à la place -
+ce qui serait aujourd'hui illégal aux États-Unis.
+
+On top of that, there were so many flaws in the
+human safety trial for the IUDs that it would take
+me another ten minutes just to list them all.
+En plus de cela, il y avait tellement de défauts dans l'
+essai sur la sécurité humaine des DIU qu'il me faudrait
+encore dix minutes pour les énumérer tous.
+
+We’ll discuss the ethics of engineering
+in more detail in a later episode,
+Nous discuterons plus en détail de l'éthique de l'ingénierie
+dans un épisode ultérieur,
+
+but what happened with the Dalkon Shield was a clear
+violation of even the most basic safety protocols.
+mais ce qui s'est passé avec le Dalkon Shield était une
+violation flagrante des protocoles de sécurité les plus élémentaires.
+
+They released a product they knew could
+be dangerous, didn’t tell anyone about the risk,
+and hoped for the best.
+Ils ont lancé un produit dont ils savaient qu'il pouvait
+être dangereux, n'ont parlé à personne du risque
+et espéraient le meilleur.
+
+That plan didn’t work out well for anyone.
+Ce plan n'a bien fonctionné pour personne.
+
+Biomaterials can be an incredibly powerful
+tool for improving people’s lives.
+Les biomatériaux peuvent être un outil incroyablement puissant
+pour améliorer la vie des gens.
+
+But as engineers, it’s up to us to wield
+that power responsibly.
+Mais en tant qu'ingénieurs, c'est à nous d'exercer
+ce pouvoir de manière responsable.
+
+So today we learned all about biomaterials.
+Aujourd'hui, nous avons donc tout appris sur les biomatériaux.
+
+We talked about alloys like titanium and their
+coatings, the special chemistry of polyurethane,
+and the cross-linked structure of hydrogels.
+Nous avons parlé d'alliages comme le titane et de leurs
+revêtements, de la chimie particulière du polyuréthane
+et de la structure réticulée des hydrogels.
+
+We also looked at ways to use biomaterials
+to boost the body’s existing behaviors,
+as well as their enormous future potential.
+Nous avons également examiné les moyens d'utiliser les biomatériaux
+pour stimuler les comportements existants du corps
+, ainsi que leur énorme potentiel futur.
+
+Finally, we talked about the importance of
+safety research.
+Enfin, nous avons parlé de l'importance de
+la recherche sur la sécurité.
+
+I’ll see you next time, when we’ll shift
+directions a bit and learn about process control.
+Je vous verrai la prochaine fois, quand nous changerons
+un peu de direction et en apprendrons davantage sur le contrôle des processus.
+
+Crash Course Engineering is produced in association
+with PBS Digital Studios.
+Crash Course Engineering est produit en association
+avec PBS Digital Studios.
+
+If you want to keep learning new things, check
+out It’s Okay to be Smart,
+Si vous voulez continuer à apprendre de nouvelles choses,
+consultez It's Okay to be Smart,
+
+which is all about our curious universe and the science
+that makes it possible, hosted by Joe Hanson.
+qui traite de notre univers curieux et de la science
+qui le rend possible, animé par Joe Hanson.
+
+Check out It's Okay to be Smart and subscribe
+at the link below.
+Découvrez It's Okay to be Smart et abonnez-vous
+au lien ci-dessous.
+
+Crash Course is a Complexly production and this
+episode was filmed in the Doctor Cheryl C. Kinney
+Studio with the help of these wonderful people.
+Crash Course est une production de Complexly et cet
+épisode a été filmé dans le studio du docteur Cheryl C. Kinney
+avec l'aide de ces personnes merveilleuses.
+
+And our amazing graphics team is Thought Cafe.
+Et notre incroyable équipe graphique est Thought Cafe.
+

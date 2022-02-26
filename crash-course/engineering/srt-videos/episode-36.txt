@@ -1,0 +1,675 @@
+Medicine matters.
+La médecine compte.
+
+Whether you’re getting a flu shot or just
+taking an aspirin, the medical field is vital
+to the way you live your life.
+Que vous receviez un vaccin contre la grippe ou que vous preniez simplement
+une aspirine, le domaine médical est essentiel
+à la façon dont vous vivez votre vie.
+
+New treatments are coming out nearly every
+day, all because of the hard work of scientists
+and engineers.
+De nouveaux traitements sortent presque tous les
+jours, tout cela grâce au travail acharné des scientifiques
+et des ingénieurs.
+
+Together they’re creating breakthrough medicines
+and figuring out how to get them where they need to go.
+Ensemble, ils créent des médicaments révolutionnaires
+et trouvent comment les amener là où ils doivent aller.
+
+These efforts are known as drug discovery
+and drug delivery, and they’re what you need if
+you want to engineer a healthier world.
+Ces efforts sont connus sous le nom de découverte de
+médicaments et d'administration de médicaments, et ils sont ce dont vous avez besoin si
+vous voulez créer un monde plus sain.
+
+[Theme Music]
+[Thème musical]
+
+In today’s world, it’s pretty easy to
+get things with a personalized touch.
+Dans le monde d'aujourd'hui, il est assez facile d'
+obtenir des choses avec une touche personnalisée.
+
+Everyone’s different, and people want a
+lifestyle that reflects those differences.
+Tout le monde est différent et les gens veulent un
+style de vie qui reflète ces différences.
+
+Custom cars, tailored clothes, personalized
+electronics – the list goes on.
+Voitures personnalisées, vêtements sur mesure,
+électronique personnalisée - la liste est longue.
+
+But what about medicine?
+Mais qu'en est-il de la médecine ?
+
+What if you could walk into a hospital and
+get a completely personalized treatment for
+whatever you had going on?
+Et si vous pouviez entrer dans un hôpital et
+obtenir un traitement entièrement personnalisé pour
+tout ce que vous aviez ?
+
+That’s the dream of biomedical engineering:
+a world where doctors can diagnose and treat a
+person based on their individual differences.
+C'est le rêve du génie biomédical :
+un monde où les médecins peuvent diagnostiquer et traiter une
+personne en fonction de ses différences individuelles.
+
+This concept is called personalized medicine
+and it’s the healthcare of the future.
+Ce concept s'appelle la médecine personnalisée
+et ce sont les soins de santé du futur.
+
+It’s the idea that you could combine a person’s
+genetic information with clinical data to best tailor
+a treatment to meet their specific and unique needs.
+C'est l'idée que vous pouvez combiner
+les informations génétiques d'une personne avec des données cliniques pour adapter au mieux
+un traitement afin de répondre à ses besoins spécifiques et uniques.
+
+Medicine is the field where all our knowledge
+comes together.
+La médecine est le domaine où toutes nos connaissances
+se rejoignent.
+
+You’ll need biology to understand the problem,
+chemistry to figure out the solution, and physics to
+deliver that solution in a safe and targeted way.
+Vous aurez besoin de biologie pour comprendre le problème, de
+chimie pour trouver la solution et de physique pour
+fournir cette solution de manière sûre et ciblée.
+
+As an engineer, it’s your job to bring all this together using concepts like biocompatibility and fluid flow to create one easy-to-use package that could save someone’s life.
+En tant qu'ingénieur, c'est votre travail de rassembler tout cela en utilisant des concepts tels que la biocompatibilité et l'écoulement des fluides pour créer un ensemble facile à utiliser qui pourrait sauver la vie de quelqu'un.
+
+Lucky enough, there’s already some places
+where this kind of personalized approach is
+being used!
+Heureusement, il existe déjà des endroits
+où ce type d'approche personnalisée
+est utilisé !
+
+For instance, genetic tests can reveal how likely
+someone is to get breast cancer and guide them
+onto an appropriate monitoring path early in life.
+Par exemple, les tests génétiques peuvent révéler la probabilité
+qu'une personne soit atteinte d'un cancer du sein et la guider
+vers une voie de surveillance appropriée tôt dans la vie.
+
+Hopefully this leads to detecting the
+disease early on, when treatment options are
+less invasive and more successful.
+Espérons que cela conduira à détecter la
+maladie dès le début, lorsque les options de traitement sont
+moins invasives et plus efficaces.
+
+But there are still many challenges to overcome
+before personalized medicine becomes widespread.
+Mais il reste encore de nombreux défis à relever
+avant que la médecine personnalisée ne se généralise.
+
+You need to develop better systems to quickly
+assess a patient’s genetic profile,
+Vous devez développer de meilleurs systèmes pour
+évaluer rapidement le profil génétique d'un patient,
+
+create inexpensive diagnostic devices using
+that information, and find the best way to deliver
+a drug if anything comes up.
+créer des dispositifs de diagnostic peu coûteux à l'aide de
+ces informations et trouver le meilleur moyen d'administrer
+un médicament en cas de problème.
+
+And that’s all after your come up with a
+good treatment in the first place!
+Et c'est tout après que vous ayez trouvé un
+bon traitement en premier lieu !
+
+Drug discovery is all about finding that new
+treatment.
+La découverte de médicaments consiste à trouver ce nouveau
+traitement.
+
+It’s the process through which you discover and
+create new medications based on what you know
+about your ingredients and how they’ll interact
+with the human body.
+C'est le processus par lequel vous découvrez et
+créez de nouveaux médicaments en fonction de ce que vous savez
+de vos ingrédients et de la façon dont ils interagiront
+avec le corps humain.
+
+Even before modern healthcare, people found
+natural remedies, often by chance, that improved their
+health or helped them get over an illness.
+Même avant les soins de santé modernes, les gens trouvaient
+des remèdes naturels, souvent par hasard, qui amélioraient leur
+santé ou les aidaient à surmonter une maladie.
+
+The early days of drug discovery were all about
+finding the active ingredients inside those remedies –
+Les premiers jours de la découverte de médicaments consistaient à
+trouver les ingrédients actifs à l'intérieur de ces remèdes -
+
+the part that was actually affecting the body – and
+learning how to replicate or improve on the outcome.
+la partie qui affectait réellement le corps - et à
+apprendre comment reproduire ou améliorer le résultat.
+
+Hot peppers, for instance, were used for centuries
+to relieve the pain of things like toothaches,
+Les piments forts, par exemple, ont été utilisés pendant des siècles
+pour soulager la douleur de choses comme les maux de dents,
+
+but today we know it’s only the substance
+capsaicin that matters.
+mais aujourd'hui, nous savons que seule la substance
+capsaïcine compte.
+
+You can now buy it to treat conditions such as
+arthritis and shingles – all without the burning
+sensation created by other parts of the pepper!
+Vous pouvez désormais l'acheter pour traiter des affections telles que l'
+arthrite et le zona, le tout sans la
+sensation de brûlure créée par d'autres parties du poivre !
+
+These days we have large chemical libraries of synthetic
+molecules, natural products, and chemical extracts that
+|have been tested to determine their effects.
+De nos jours, nous avons de grandes bibliothèques chimiques de
+molécules synthétiques, de produits naturels et d'extraits chimiques
+qui ont été testés pour déterminer leurs effets.
+
+This is called classical pharmacology.
+C'est ce qu'on appelle la pharmacologie classique.
+
+A new tool is genome analysis, the study of
+a complete set of an organism’s DNA, including
+all of its genes.
+Un nouvel outil est l'analyse du génome, l'étude d'
+un ensemble complet d'ADN d'un organisme, y compris
+tous ses gènes.
+
+It’s the result of the Human Genome Project,
+which successfully sequenced our DNA.
+C'est le résultat du projet du génome humain,
+qui a séquencé avec succès notre ADN.
+
+Sequencing your genome is like mapping out
+all the genes in your body.
+Séquençage de votre génome, c'est comme cartographier
+tous les gènes de votre corps.
+
+It’s about figuring out the order of all
+the DNA nucleotides, or bases, in your genome.
+Il s'agit de déterminer l'ordre de tous
+les nucléotides d'ADN, ou bases, dans votre génome.
+
+For the Human Genome Project, researchers were
+able to sequence all of our 3.2 billion base pairs,
+Pour le projet du génome humain, les chercheurs ont
+pu séquencer l'ensemble de nos 3,2 milliards de paires de bases,
+
+which allowed for the rapid cloning and
+synthesis of large quantities of purified proteins.
+ce qui a permis le clonage et la
+synthèse rapides de grandes quantités de protéines purifiées.
+
+Genome analysis is the foundation of the
+modern approach to developing drugs, called
+reverse pharmacology.
+L'analyse du génome est à la base de l'
+approche moderne du développement de médicaments, appelée
+pharmacologie inverse.
+
+Reverse pharmacology starts by identifying
+which of those proteins is related to the
+condition you want to treat.
+La pharmacologie inverse commence par identifier
+laquelle de ces protéines est liée à la
+condition que vous souhaitez traiter.
+
+You can compare that protein to a list of
+chemical reactions to find a molecule known
+to interact with it.
+Vous pouvez comparer cette protéine à une liste de
+réactions chimiques pour trouver une molécule connue
+pour interagir avec elle.
+
+If you find a match, you can test the
+substance on living cells to see if the reaction
+has any positive impact.
+Si vous trouvez une correspondance, vous pouvez tester la
+substance sur des cellules vivantes pour voir si la réaction
+a un impact positif.
+
+From single cells, you can move up to simple
+animals and – if all goes well – eventually
+to human trials.
+À partir de cellules individuelles, vous pouvez passer à de simples
+animaux et, si tout se passe bien, éventuellement
+à des essais sur l'homme.
+
+By starting with the “problem area” and working
+backwards, reverse pharmacology is the more educated
+– and often faster – way to discover a new medicine.
+En commençant par la « zone problématique » et en travaillant à
+rebours, la pharmacologie inverse est le moyen le plus instruit
+– et souvent le plus rapide – de découvrir un nouveau médicament.
+
+Regardless of which way you got it, once you
+have a treatment, it’s on to drug delivery:
+Quelle que soit la manière dont vous l'avez obtenu, une fois que vous
+avez un traitement, il s'agit de l'administration du médicament :
+
+getting the medicine to move through the body,
+find the site of the problem, and even attach to
+right parts of the cells.
+faire circuler le médicament dans le corps,
+trouver le site du problème et même s'attacher aux
+bonnes parties des cellules.
+
+Syringes are the classic solution to this
+problem.
+Les seringues sont la solution classique à ce
+problème.
+
+Just draw up some medicine and inject it right
+where it’s needed.
+Préparez simplement un médicament et injectez-le là
+où vous en avez besoin.
+
+But those syringes used to need a lubricant
+to help the plunger – that thing you press
+down on – well, go down.
+Mais ces seringues avaient besoin d'un lubrifiant
+pour aider le piston - cette chose sur laquelle vous
+appuyez - eh bien, descendre.
+
+This usually meant using silicon oil, which
+could be a problem.
+Cela signifiait généralement utiliser de l'huile de silicone, ce qui
+pouvait poser problème.
+
+Silicon oil can react with the medicine inside and,
+as medicines have become more and more specialized,
+the worse and worse the reactions can be.
+L'huile de silicone peut réagir avec le médicament à l'intérieur et,
+comme les médicaments sont devenus de plus en plus spécialisés,
+les réactions peuvent être de pire en pire.
+
+Many drugs also can’t be delivered straight
+to the bloodstream, but have to be metabolized
+in the stomach or intestines first.
+De nombreux médicaments ne peuvent pas non plus être administrés directement
+dans la circulation sanguine, mais doivent d'abord être métabolisés
+dans l'estomac ou les intestins.
+
+So it’s a good idea to have other options
+for delivering your drugs.
+C'est donc une bonne idée d'avoir d'autres options
+pour livrer vos médicaments.
+
+We’ve talked about some possibilities before,
+such as nanomaterials or biomaterials.
+Nous avons déjà parlé de certaines possibilités,
+comme les nanomatériaux ou les biomatériaux.
+
+Researchers are currently exploring ways to
+engineer nanoparticles that could deliver a drug
+to its target in the body while evading your
+immune system’s normal defenses.
+Les chercheurs explorent actuellement des moyens de
+concevoir des nanoparticules qui pourraient délivrer un médicament
+à sa cible dans le corps tout en évitant
+les défenses normales de votre système immunitaire.
+
+You’ve heard about smartphones and smart
+cars, but what about smart medical devices?
+Vous avez entendu parler des smartphones et des
+voitures intelligentes, mais qu'en est-il des dispositifs médicaux intelligents ?
+
+The idea is to design something that’s sensitive
+to the body’s internal conditions, letting the drugs
+react in the right way at the right times.
+L'idée est de concevoir quelque chose qui soit sensible
+aux conditions internes du corps, laissant les médicaments
+réagir de la bonne manière au bon moment.
+
+Take someone with diabetes, for example.
+Prenez une personne atteinte de diabète, par exemple.
+
+You could design smarter devices with better
+materials so that insulin was only released into their
+system when their blood glucose levels were too high.
+Vous pourriez concevoir des appareils plus intelligents avec de meilleurs
+matériaux afin que l'insuline ne soit libérée dans leur
+système que lorsque leur glycémie était trop élevée.
+
+In the new field of tissue engineering, researchers
+are combining the principles of biology
+Dans le nouveau domaine de l'ingénierie tissulaire, les
+chercheurs combinent les principes de la biologie
+
+with the applications of engineering to create
+novel biomaterials that could aid in the repair of
+damaged body tissues – maybe even replace them!
+avec les applications de l'ingénierie pour créer de
+nouveaux biomatériaux qui pourraient aider à réparer
+les tissus corporels endommagés - peut-être même les remplacer !
+
+One goal is a type of “medical scaffold” that
+can attract stem cells and guide their growth into
+specific types of tissue using biological signals.
+L'un des objectifs est un type d '«échafaudage médical»
+capable d'attirer les cellules souches et de guider leur croissance dans
+des types de tissus spécifiques à l'aide de signaux biologiques.
+
+Stem cells are the building blocks of the body.
+Les cellules souches sont les éléments constitutifs du corps.
+
+And, in the future, mastery of synthetic tissue
+engineering could make it possible to regenerate
+tissues and even entire organs.
+Et, à l'avenir, la maîtrise de l'
+ingénierie des tissus synthétiques pourrait permettre de régénérer des
+tissus, voire des organes entiers.
+
+That’s about as personalized as it gets!
+C'est à peu près aussi personnalisé que possible !
+
+Even that doesn’t cover the full spectrum
+of what we want medicine to do.
+Même cela ne couvre pas tout le spectre
+de ce que nous voulons que la médecine fasse.
+
+Sometimes the problem isn't that you’re
+trying to repair or regenerate the body,
+Parfois, le problème n'est pas que vous
+essayez de réparer ou de régénérer le corps,
+
+but rather that you’re trying to stop something
+from spreading or growing in the first place.
+mais plutôt que vous essayez d'empêcher quelque chose
+de se propager ou de se développer en premier lieu.
+
+Cancer is the second leading cause of death
+worldwide, and it’s responsible for millions
+of deaths every year.
+Le cancer est la deuxième cause de décès
+dans le monde et il est responsable de millions
+de décès chaque année.
+
+Conventional treatments generally rely on
+a combination of surgery, radiation, and chemotherapy.
+Les traitements conventionnels reposent généralement sur
+une combinaison de chirurgie, de radiothérapie et de chimiothérapie.
+
+Chemo is often the first choice for treating many types
+of cancer, but it’s basically a poison that you hope kills
+the cancerous cells faster than the healthy ones.
+La chimio est souvent le premier choix pour traiter de nombreux types
+de cancer, mais c'est essentiellement un poison qui, vous l'espérez, tue
+les cellules cancéreuses plus rapidement que les cellules saines.
+
+It’s a similar story with radiation – it’s
+hard to limit its effects to just the bad cells.
+C'est une histoire similaire avec les radiations - il est
+difficile de limiter ses effets aux seules mauvaises cellules.
+
+With conditions like these, a drug delivery
+system that only gets the treatment generally
+where it needs to go isn’t good enough.
+Avec des conditions comme celles-ci, un
+système d'administration de médicaments qui n'obtient généralement le traitement que
+là où il doit aller n'est pas assez bon.
+
+You need to have a targeted drug delivery
+and not hurt anything else along the way.
+Vous devez avoir une livraison ciblée de médicaments
+et ne rien blesser d'autre en cours de route.
+
+This enables you to maximize the positive
+effect at a specific place in the body with
+few negative side effects elsewhere.
+Cela vous permet de maximiser l'
+effet positif à un endroit spécifique du corps avec
+peu d'effets secondaires négatifs ailleurs.
+
+It would also allow you to treat hard-to-reach
+places while also using smaller doses.
+Cela vous permettrait également de traiter les endroits difficiles d'accès
+tout en utilisant des doses plus faibles.
+
+The idea of this “magic bullet” approach has
+led to a number of new drug carrier systems.
+L'idée de cette approche « magique » a
+conduit à un certain nombre de nouveaux systèmes de transport de médicaments.
+
+A great example of these are direct local
+delivery systems, like the skin patch.
+Un bon exemple de ceux-ci sont les
+systèmes de distribution locale directe, comme le patch cutané.
+
+These patches can slowly release medicine
+into the body over a period of days.
+Ces patchs peuvent libérer lentement des médicaments
+dans le corps sur une période de plusieurs jours.
+
+They’re commonly used to administer birth
+control or help smokers with nicotine withdrawal.
+Ils sont couramment utilisés pour administrer des
+contraceptifs ou aider les fumeurs à sevrer la nicotine.
+
+A drug-eluting stent, which is a mesh tube
+that delivers time-released medicine, can do
+the same thing from within the body.
+Un stent à élution de médicament, qui est un tube maillé
+qui délivre un médicament à libération prolongée, peut faire
+la même chose depuis l'intérieur du corps.
+
+They’re often implanted into patients with
+coronary artery disease to prevent dangerous
+blockages.
+Ils sont souvent implantés chez des patients atteints de
+maladie coronarienne pour prévenir les
+blocages dangereux.
+
+Another promising tool is microparticles.
+Les microparticules sont un autre outil prometteur.
+
+They’re small enough to travel through the
+heart as part of the bloodstream, yet big enough
+that they can’t enter capillaries.
+Ils sont suffisamment petits pour traverser le
+cœur dans le cadre de la circulation sanguine, mais suffisamment gros pour
+ne pas pénétrer dans les capillaires.
+
+A number of researchers have taken this unique
+property and prepared biodegradable drugs
+made of things like starch.
+Un certain nombre de chercheurs ont pris cette
+propriété unique et préparé des médicaments biodégradables à
+base de choses comme l'amidon.
+
+They can deliver a large dose of chemotherapy
+directly to a targeted site, a process that’s also
+called chemo-embolization.
+Ils peuvent administrer une dose importante de chimiothérapie
+directement sur un site ciblé, un processus également
+appelé chimio-embolisation.
+
+The particles accumulate at designated spots
+in the body, kind of like a storage depot.
+Les particules s'accumulent à des endroits désignés
+du corps, un peu comme un dépôt de stockage.
+
+As they break down, the drugs release slowly,
+but continuously into the targeted area.
+Au fur et à mesure qu'ils se décomposent, les médicaments se libèrent lentement,
+mais continuellement dans la zone ciblée.
+
+Want to speed up or slow down the release
+rate of the medicine?
+Vous voulez accélérer ou ralentir la
+vitesse de libération du médicament ?
+
+Try using a different material – one that
+degrades at a different speed – or design the
+particles to have bigger or smaller pores.
+Essayez d'utiliser un matériau différent - qui
+se dégrade à une vitesse différente - ou concevez les
+particules pour qu'elles aient des pores plus grands ou plus petits.
+
+But let’s say you do want something that
+can enter the capillaries so that it can keep
+on circulating through your body.
+Mais disons que vous voulez quelque chose qui
+puisse pénétrer dans les capillaires afin qu'il puisse continuer
+à circuler dans votre corps.
+
+Then nanoparticles are the way to go.
+Ensuite, les nanoparticules sont la voie à suivre.
+
+Particles around 110-140 nm in size seem to
+be ideal for most applications
+Les particules d'une taille d'environ 110 à 140 nm semblent
+être idéales pour la plupart des applications
+
+because they’re large enough to avoid being
+cleaned out by the liver or kidneys, but small enough
+not to be attacked by white blood cells.
+car elles sont suffisamment grandes pour éviter d'être
+nettoyées par le foie ou les reins, mais suffisamment petites pour
+ne pas être attaquées par les globules blancs.
+
+The goal is for them to stay in the body’s
+circulation long enough to be removed by the target
+tissue rather than something like your immune system.
+L'objectif est qu'ils restent dans la circulation du corps
+assez longtemps pour être éliminés par le
+tissu cible plutôt que par quelque chose comme votre système immunitaire.
+
+This approach might be especially well suited
+to treat cancer.
+Cette approche pourrait être particulièrement bien adaptée
+pour traiter le cancer.
+
+Since the blood vessels connected to tumors
+are often quite large, the medicine is less likely
+to leak into surrounding tissue,
+Étant donné que les vaisseaux sanguins connectés aux tumeurs
+sont souvent assez gros, le médicament est moins susceptible
+de fuir dans les tissus environnants,
+
+resulting in something called the enhanced
+permeability and retention, or EPR, effect.
+ce qui entraîne ce que l'on appelle l'effet de
+perméabilité et de rétention améliorées, ou EPR.
+
+Basically, you’re increasing how much
+medicine gets to where you want, while
+reducing it where you don’t.
+Fondamentalement, vous augmentez la quantité de
+médicaments qui arrive là où vous voulez, tout en la
+réduisant là où vous ne le faites pas.
+
+Future techniques could be even more accurate.
+Les techniques futures pourraient être encore plus précises.
+
+An idea currently being developed is microbubbles,
+which are super small bubbles filled with gas.
+Une idée en cours de développement est celle des microbulles,
+qui sont de super petites bulles remplies de gaz.
+
+Someday they could hold a chemotherapy drug
+that would only be released when the bubbles
+experience the waves of an ultrasound.
+Un jour, ils pourraient contenir un médicament de chimiothérapie
+qui ne serait libéré que lorsque les
+bulles subiraient les ondes d'une échographie.
+
+The ultrasound would target a specific part
+of the body and burst only the microbubbles
+at the site of the tumor,
+L'échographie ciblerait une partie spécifique
+du corps et n'éclaterait que les microbulles
+au site de la tumeur,
+
+which would activate the drug only where
+it’s needed most.
+ce qui n'activerait le médicament que là où
+il est le plus nécessaire.
+
+Targeted carriers like these, along with good
+disease detection systems and a wealth of drug
+discoveries, will add up to that promised world
+of personalized medicine.
+Des porteurs ciblés comme ceux-ci, ainsi que de bons
+systèmes de détection des maladies et une multitude de découvertes de médicaments
+, contribueront à ce monde promis
+de la médecine personnalisée.
+
+Today we learned about drug discovery and
+drug delivery.
+Aujourd'hui, nous avons appris la découverte de médicaments et
+l'administration de médicaments.
+
+We covered classical and reverse pharmacology,
+as well as the new field of synthetic biology and what
+people have been able to accomplish with it.
+Nous avons couvert la pharmacologie classique et inverse
+, ainsi que le nouveau domaine de la biologie synthétique et ce que les
+gens ont pu accomplir avec.
+
+Finally, we saw how important good disease
+detection is and why we need more targeted
+drug delivery systems.
+Enfin, nous avons vu à quel point une bonne
+détection des maladies est importante et pourquoi nous avons besoin de
+systèmes d'administration de médicaments plus ciblés.
+
+I’ll see you next time, when we’ll go
+one step further and talk about biodevices.
+Je vous verrai la prochaine fois, quand nous irons plus
+loin et parlerons des biodispositifs.
+
+Crash Course Augmented Reality Poster
+available now at DFTBA.com
+Crash Course Augmented Reality Poster
+disponible dès maintenant sur DFTBA.com
+
+Crash Course Engineering is produced in association
+with PBS Digital Studios, which also produces
+Global Weirding,
+Crash Course Engineering est produit en association
+avec PBS Digital Studios, qui produit également
+Global Weirding,
+
+a show that explores the intersection among
+climate, politics, and more, hosted by climate
+scientist Katharine Hayhoe.
+une émission qui explore l'intersection entre le
+climat, la politique, etc., animée par la climatologue
+Katharine Hayhoe.
+
+Check it out at the link in the description.
+Découvrez-le sur le lien dans la description.
+
+Crash Course is a Complexly production and this
+episode was filmed in the Doctor Cheryl C. Kinney
+Studio with the help of these wonderful people.
+Crash Course est une production de Complexly et cet
+épisode a été filmé dans le studio du docteur Cheryl C. Kinney
+avec l'aide de ces personnes merveilleuses.
+
+And our amazing graphics team is Thought Cafe.
+Et notre incroyable équipe graphique est Thought Cafe.
+

@@ -1,0 +1,989 @@
+you can review content from crash course
+
+organic chemistry with the crash course
+vous pouvez revoir le contenu du cours accéléré de chimie organique avec l'
+
+app available now for android and ios
+application de cours intensif disponible maintenant pour les appareils Android et ios
+
+devices
+
+hi i'm daboki chakravarti and welcome to
+salut je suis daboki chakravarti et bienvenue dans le cours
+
+crashcourse organic chemistry
+intensif de chimie
+
+organic chemistry sure gives your brain
+organique la chimie organique donne à votre cerveau
+
+a good workout and glucose is the
+un bon entraînement et le glucose est la
+
+primary energy source used by our brains
+principale source d'énergie utilisée  par notre cerveau,
+
+so without it we'd be in big big trouble
+donc sans cela, nous aurions de gros problèmes,
+
+thankfully our brains can get all the
+heureusement, notre cerveau peut obtenir tout le
+
+glucose they need through chemistry one
+glucose dont il a besoin grâce à la chimie.
+
+particularly important process is called
+
+gluconeogenesis
+
+which helps us maintain the necessary
+
+levels of blood glucose when we haven't
+
+just eaten a meal the whole process of
+un repas l'ensemble du processus de
+
+gluconeogenesis is pretty interesting if
+gluconéogenèse est assez intéressant si
+
+you're a biochemistry nerd but a key
+vous êtes un nerd de biochimie mais une
+
+step that's relevant to this course is
+étape clé qui est pertinente pour ce cours est
+
+an aldol reaction
+une réaction d'aldol
+
+in this aldol reaction an aldehyde and a
+dans cette réaction d'aldol un aldéhyde et une
+
+ketone with three carbons each join to
+cétone avec trois carbones chacun se rejoignent pour
+
+make a six carbon sugar molecule so
+faire un sucre à six carbones  molécule afin
+
+they're forming tasty carbon-carbon
+qu'ils forment de savoureuses liaisons carbone-carbone
+
+bonds and we'll be exploring more of
+et nous explorerons davantage de
+
+these kinds of reactions in this episode
+ces types de réactions dans cet épisode
+
+[Music]
+[M  usic]
+
+an aldol is a ketone or aldehyde with a
+un aldol est une cétone ou un aldéhyde avec un groupe
+
+beta-hydroxy group in other words it's a
+bêta-hydroxy en d'autres termes c'est une
+
+molecule with a carbonyl functional
+molécule avec un groupe fonctionnel carbonyle à
+
+group a couple of carbons away from an
+quelques atomes de carbone d'un
+
+alcohol group aldols are the product of
+groupe alcool les aldols sont le produit de
+
+aldol reactions which are another way of
+réactions d'aldol qui sont une autre façon de
+
+forming carbon-carbon bonds in organic
+former du carbone-  liaisons carbone en
+
+chemistry essentially we combine two
+chimie organique essentiellement nous combinons deux
+
+simpler carbonyl compounds into a bigger
+composés carbonyle plus simples en une molécule plus grosse
+
+molecule this reaction was discovered
+cette réaction a été découverte
+
+independently by the french chemist
+indépendamment par le chimiste français
+
+charles adolf wertz and the russian
+charles adolf wertz et le
+
+chemist and composer alexander borodin
+chimiste et compositeur russe alexandre borodine
+
+in the late 1800s
+à la fin des années 1800
+
+the l part of the name comes from the
+la partie l du nom vient du
+
+fact that the reaction involved two
+fait  que la réaction impliquait deux
+
+aldehydes before we figured out ketones
+aldéhydes avant de comprendre que les cétones
+
+could be involved too and the old part
+pouvaient également être impliquées et que l'ancienne partie
+
+comes from the alcohol because the
+provient de l'alcool car le
+
+product is a
+produit est un
+
+beta-hydroxycarbonyl compound as always
+composé bêta-hydroxycarbonyle, comme toujours,
+
+we want to understand the mechanisms at
+nous voulons comprendre les mécanismes à l'
+
+work not just memorize reactions
+œuvre, pas seulement mémoriser les réactions
+
+aldol reactions can be acid catalyzed or
+les réactions d'aldol peuvent être  catalysé par un acide ou
+
+base catalyzed and they begin by
+catalysé par une base et ils commencent par
+
+converting an aldehyde or ketone to an
+convertir un aldéhyde ou une cétone en un
+
+enol in acid or enolate in base like we
+énol dans un acide ou un éno  tard dans la base comme nous l'avons
+
+did in episode 43. next the enol or
+fait dans l'épisode 43. ensuite, l'énol ou l'
+
+enolate attacks another aldehyde or
+énolate attaque un autre aldéhyde ou
+
+ketone in an aldol addition step and
+cétone dans une étape d'addition d'aldol,
+
+then to finish it off water is removed
+puis pour le terminer, l'eau est éliminée
+
+in a step called as you might guess
+dans une étape appelée comme vous pouvez le deviner
+
+dehydration the overall process of two
+déshydratation le processus global de deux
+
+carbonyls coming together with loss of
+carbonyles à venir  avec la perte d'
+
+water is called aldol condensation in
+eau, on appelle la condensation d'aldol dans
+
+this episode we're only going to join
+cet épisode, nous n'allons joindre que
+
+two identical aldehydes or ketones it's
+deux aldéhydes ou cétones identiques, il est
+
+possible to join two different carbonyl
+possible de joindre deux
+
+molecules but we're saving that for next
+molécules de carbonyle différentes, mais nous gardons cela pour la prochaine
+
+time with that being said let's take a
+fois, cela étant dit, jetons un
+
+look at some simple examples
+coup d'œil à  quelques exemples simples d'
+
+first an aldol reaction under basic
+abord une réaction d'aldol dans des conditions basiques
+
+conditions as we saw in the last episode
+comme nous l'avons vu dans le dernier épisode
+
+a base steals a proton from the alpha
+une base vole un proton du
+
+carbon of the carbonyl this gives us an
+carbone alpha du carbonyle cela nous donne un
+
+enolate ion with a resonance stabilized
+ion énolate avec une charge négative stabilisée par résonance
+
+negative charge this enolate is only
+cet énolate ne se
+
+formed in small amounts so next an
+forme qu'en petites quantités donc  ensuite une
+
+enolate molecule attacks the carbonyl of
+molécule d'énolate attaque le carbonyle de l'
+
+one of the ketones in the sea of acetone
+une des cétones dans la mer de
+
+molecules which are acting as
+molécules d'acétone qui agissent comme des
+
+electrophiles
+électrophiles
+
+and once this addition step is done we
+et une fois cette étape d'addition effectuée  ne nous avons
+
+formed a carbon-carbon bond the
+formé une liaison carbone-carbone l'
+
+now-negative oxygen of the alkoxide
+oxygène maintenant négatif de l'alcoolate
+
+swipes a proton from some nearby water
+balaie un proton de l'eau à proximité
+
+now we've got an aldol product with a
+maintenant nous avons un produit aldol avec un
+
+carbonyl and an alcohol but we're not
+carbonyle et un alcool mais nous n'avons pas
+
+quite done at this point the aldol
+tout à fait fini à ce stade le
+
+product will often undergo dehydration
+produit aldol  subira souvent une déshydratation
+
+and remember this is a base catalyzed
+et rappelez-vous qu'il s'agit d'une réaction catalysée par une base
+
+reaction which means the base is
+, ce qui signifie que la base est
+
+reformed at the end this dehydration is
+reformée à la fin cette déshydratation est
+
+a little tricky so let's look at it
+un peu délicate, alors regardons-la
+
+carefully to start the base nabs one of
+attentivement pour commencer la base attrape l'un
+
+the alpha hydrogens in between the
+des hydrogènes alpha entre les
+
+carbonyl and alcohol groups and we form
+groupes carbonyle et alcool  et nous formons à
+
+an enolate again but now it's the
+nouveau un énolate mais maintenant c'est l'
+
+enolate of the aldol product then
+énolate du produit aldol puis l'
+
+hydroxide is eliminated leaving us with
+hydroxyde est éliminé nous laissant avec
+
+an unsaturated carbonyl compound wait a
+un composé carbonyle insaturé attendez un
+
+second hydroxide is a bad leaving group
+deuxième hydroxyde est un mauvais groupe partant à
+
+right or at least the bokeh of the past
+droite ou au moins le bokeh du passé
+
+said so so how are we getting away with
+dit alors alors comment allons-nous  s'en tirer
+
+this well it's what's known as an e1cb
+bien c'est ce qu'on appelle une
+
+elimination which happens in multiple
+élimination e1cb qui se déroule en plusieurs
+
+steps as a quick reminder we've already
+étapes pour un rappel rapide nous avons déjà
+
+met a couple of elimination mechanisms
+rencontré quelques mécanismes d'élimination
+
+e1 and e2 the e2 mechanism occurs in one
+e1 et e2 le mécanisme e2  m se produit en une
+
+step and the e1 mechanism has two steps
+étape et le mécanisme e1 comporte deux étapes de
+
+loss of a leaving group followed by
+perte d'un groupe partant suivie d'une
+
+deprotonation and the rate depends on
+déprotonation et le taux dépend de
+
+the concentration of the substrate e1cb
+la concentration du substrat e1cb
+
+joins this family as a special type of
+rejoint cette famille en tant que type spécial de
+
+e1 mechanism so the hydroxide leaving
+mécanisme e1 de sorte que la sortie de l'hydroxyde
+
+doesn't affect the reaction rate this
+n'affecte pas le  taux de réaction ce
+
+mechanism typically happens when we can
+mécanisme se produit généralement lorsque nous pouvons
+
+make a stabilized anion on carbon like
+créer un anion stabilisé sur le carbone comme
+
+adjacent to a carbonyl and have a poor
+adjacent à un carbonyle et avoir un
+
+leaving group on the carbon next to the
+groupe partant médiocre sur le carbone à côté de l'
+
+anion like hydroxide first the base
+anion comme l'hydroxyde d'abord la base
+
+grabs one of the acidic alpha hydrogens
+saisit l'un des hydrogènes alpha acides
+
+and forms a new enolate in the
+et forme un nouvel énolate  dans l'
+
+stabilized anion there's a buildup of
+anion stabilisé, il y a une accumulation de
+
+negative charge on the molecule then the
+charge négative sur la molécule, puis la
+
+lone pair of electrons moves to the
+seule paire d'électrons se déplace vers l'
+
+neighboring atom kicking out the leaving
+atome voisin, expulsant le
+
+group and forming a double bond in
+groupe partant et formant une double liaison en
+
+general e1cb mechanisms can be drawn
+général, les mécanismes e1cb peuvent être dessinés
+
+like this
+comme ceci
+
+ewg and x are the electron stabilizing
+ewg et x sont l'électron stabilisant
+
+groups and lg stands for leaving group
+groupes et lg signifie groupe de départ,
+
+so e1cb is the cherry on top of a base
+donc e1cb est la cerise sur le gâteau d'une
+
+catalyzed aldol reaction we don't have
+réaction d'aldol catalysée par une base, nous n'avons
+
+anything more to say about those for now
+rien de plus à dire à ce sujet  se pour l'
+
+time for the acid-catalyzed version as
+instant pour la version catalysée par l'acide comme
+
+we saw in the last episode again the
+nous l'avons vu dans le dernier épisode à nouveau l'
+
+carbonyl oxygen is protonated then the
+oxygène carbonyle est protoné puis le
+
+alpha carbon is deprotonated by the
+carbone alpha est déprotoné par la
+
+conjugate base of our acid and we get an
+base conjuguée de notre acide et nous obtenons un
+
+enol now another protonated ketone
+énol maintenant une autre cétone protonée
+
+enters the mix with its electropositive
+entre dans le mélange avec son  le
+
+carbon vulnerable to nucleophilic attack
+carbone électropositif vulnérable aux attaques nucléophiles,
+
+the electrons push down from the oxygen
+les électrons poussent de l'oxygène en
+
+kicking out the double bond of our
+expulsant la double liaison de notre
+
+nucleophilic enol which makes a
+énol nucléophile qui crée une
+
+carbon-carbon bond with our protonated
+liaison carbone-carbone avec notre cétone protonée,
+
+ketone that's our aldol addition step
+c'est notre étape d'addition d'aldol,
+
+then the protonated carbonyl group is
+puis le groupe carbonyle protoné est
+
+deprotonated and voila we have a neutral
+déprotoné et le tour est joué.
+
+aldol product but again we're not quite
+produit aldol neutre, mais encore une fois, nous n'avons pas tout à
+
+done there's also a potential
+fait terminé, il y a aussi une
+
+elimination step here especially if the
+étape d'élimination potentielle ici, surtout si le
+
+aldol product is heated in these acidic
+produit aldol est chauffé dans ces
+
+conditions there's a few possible
+conditions acides, il y a quelques
+
+mechanisms for the elimination for
+mécanismes possibles pour l'élimination, par
+
+example the hydroxyl group could get
+exemple, le groupe hydroxyle pourrait être
+
+protonated first then water might leave
+protoné en premier, puis l'eau pourrait partir
+
+on its own in an e1 mechanism followed
+seul dans un mécanisme e1 suivi
+
+by a deprotonation it's also possible to
+d'une déprotonation il est aussi possible d'
+
+eliminate in one step through the e2
+éliminer en un  pas à pas à travers le
+
+mechanism a third possibility is that
+mécanisme e2 une troisième possibilité est que
+
+the reaction mechanism goes through a
+le mécanisme de réaction passe par un
+
+more complex mechanism involving an enol
+mécanisme plus complexe impliquant un énol
+
+this beta elimination uses a little push
+cette élimination bêta utilise une petite poussée
+
+from the carbonyl kind of like the e1cb
+du type carbonyle comme l'e1cb
+
+but this time we're going through an
+mais cette fois nous passons par un
+
+enol instead of an enolate speaking of
+énol au lieu d'un  énolate en parlant
+
+which it's been a little while since
+de cela fait un petit moment que
+
+we've looked at our penicillin v mold
+nous n'avons pas regardé notre
+
+medicine map which we started in episode
+carte de médecine pénicilline v moisissure que nous avons commencée dans l'épisode
+
+30. it's the perfect time to revisit
+30. c'est le moment idéal pour revoir
+
+that synthesis because it has an e1cb
+cette synthèse car elle a aussi une
+
+step too if we compare the starting
+étape e1cb si nous comparons le
+
+material with the product we'd like to
+matériel de départ avec  le produit que nous aimerions
+
+make we can see that we have to get rid
+fabriquer, nous pouvons voir que nous devons nous débarrasser
+
+of two functional groups a hydroxyl from
+de deux groupes fonctionnels, un hydroxyle de
+
+our acid and a chloride we also want to
+notre acide et un chlorure, nous voulons également
+
+join the two oxygens up to give us an
+joindre les deux oxygènes pour nous donner une
+
+ester type linkage and add some double
+liaison de type ester et ajouter des doubles
+
+bonds this is one of the most
+liaisons  c'est l'une des séquences les plus
+
+complicated sequences we'll look at in
+compliquées que nous examinerons dans
+
+this series but we can puzzle through
+cette série, mais nous pouvons résoudre
+
+some of it using the rules we've learned
+certaines d'entre elles en utilisant les règles que nous avons apprises,
+
+so buckle up the acetic anhydride
+alors bouclez le réactif anhydride acétique
+
+reactant has a built-in leaving group
+a un gr de départ intégré  ouup
+
+acetate and it can even react with weak
+acétate et il peut même réagir avec des nucléophiles faibles en
+
+nucleophiles looking at our molecule
+regardant notre molécule
+
+let's think about the most nucleophilic
+pensons à l'endroit le plus nucléophile
+
+spot it's the carboxylic acid so the
+c'est l'acide carboxylique donc
+
+acetic anhydride reacts with our
+l'anhydride acétique réagit avec notre
+
+carboxylic acid forming a new anhydride
+acide carboxylique formant un nouvel anhydride
+
+in the first step now we've put a good
+dans la première étape maintenant nous avons mis un bon
+
+leaving group on our carboxylic acid
+départ  groupe sur notre acide
+
+which sets us up for an intramolecular
+carboxylique qui nous prépare à une
+
+reaction the amide oxygen is pretty
+réaction intramoléculaire l'oxygène de l'amide est assez
+
+electron rich because of amide resonance
+riche en électrons à cause de la résonance de l'amide de
+
+so that attacks the acid anhydride
+sorte qu'attaque le
+
+carbon our leaving group acetate again
+carbone de l'anhydride acide notre groupe partant acétate
+
+is kicked out and we get the
+est à nouveau expulsé et nous obtenons le
+
+five-membered ring we see in our product
+cycle à cinq chaînons que nous voyons dans  notre produit
+
+more or less except we need to lose hcl
+plus ou moins sauf que nous devons perdre du hcl,
+
+we still have a basic molecule in here
+nous avons toujours une molécule de base ici,
+
+the acetate
+l'acétate
+
+that hydrogen next to an electronegative
+que l'hydrogène à côté d'un
+
+nitrogen plus a carbonyl is pretty
+azote électronégatif plus un carbonyle est assez
+
+acidic and deprotonation even makes a
+acide et la déprotonation fait même un
+
+bonus aromatic ring intermediate so we
+anneau aromatique bonus intermédiaire, donc nous
+
+make an enolate then the chlorine is
+faisons un énolate puis le  le chlore est
+
+eliminated in an e1cb step it's just one
+éliminé dans une étape e1cb c'est juste une
+
+extra double bond away from what we saw
+double liaison supplémentaire loin de ce que nous avons vu
+
+before more substituted double bonds are
+avant que d'autres doubles liaisons substituées ne soient
+
+more stable so a kind of brain bendy
+mor  e stable donc une sorte d'isomérisation du cerveau
+
+isomerization occurs and all our double
+se produit et toutes nos
+
+and single bonds are where we want them
+liaisons doubles et simples sont là où nous les voulons
+
+hooray now as exciting as penicillin is
+hourra maintenant aussi excitant que la pénicilline est
+
+there's another reaction we still have
+il y a une autre réaction que nous devons
+
+to cover as you may have guessed from
+encore couvrir comme vous l'avez peut-être deviné d'après
+
+the title of this episode we've got the
+le titre de cet épisode nous '  j'ai les
+
+basics of aldol reactions down but
+bases des réactions d'aldol mais
+
+there's a similar reaction called the
+il y a une réaction similaire appelée la
+
+claisen condensation it's named after
+condensation de claisen il porte le nom
+
+the german chemist rainer ludwig klaizen
+du chimiste allemand rainer ludwig klaizen
+
+he was born in 1851 began studying
+il est né en 1851 a commencé à étudier la
+
+chemistry in 1869 was a military nurse
+chimie en 1869 était une infirmière militaire
+
+and then returned to academia and worked
+puis est retourné à l'université et a travaillé
+
+in kekule's lab for a while yes
+dans le laboratoire de kekule  pendant un certain temps oui
+
+calculated the benzene guy anyway in the
+calculé le gars du benzène de toute façon dans la
+
+claisen condensation an ester joins with
+condensation claisen un ester se joint
+
+either another ester or another carbonyl
+à un autre ester ou à un autre
+
+compound in the presence of a strong
+composé carbonyle en présence d'une base forte
+
+base
+
+once again we're making a carbon-carbon
+encore une fois nous faisons une liaison carbone-carbone
+
+bond the ultimate product of this
+le produit ultime de cette
+
+claisen reaction is a beta keto ester we
+réaction claisen est  un ester bêta céto, nous
+
+don't want to end up with a horrible
+ne voulons pas nous retrouver avec un
+
+mess so we need to use a base that won't
+gâchis horrible, nous devons donc utiliser une base qui ne sera
+
+get involved in some sort of
+pas impliquée dans une sorte de
+
+nucleophilic substitution or addition
+sous-marins nucléophiles  titution ou
+
+reaction with a carbonyl carbon the
+réaction d'addition avec un carbone carbonyle le
+
+alkoxide salt of the alcohol that's
+sel d'alcoolate de l'alcool qui est
+
+kicked out at the end of the reaction is
+expulsé à la fin de la réaction est
+
+a good option so in this example we're
+une bonne option donc dans cet exemple nous
+
+using sodium ethoxide as our strong base
+utilisons l'éthylate de sodium comme base forte
+
+because the alcohol that gets kicked out
+parce que l'alcool qui est expulsé
+
+is ethanol first the oxygen of the
+est l'éthanol  d'abord, l'oxygène de l'
+
+ethoxide grabs one of the alpha
+éthoxyde saisit l'un des
+
+hydrogens from the ester which gives us
+hydrogènes alpha de l'ester, ce qui nous donne
+
+an enolate the next bit looks similar to
+un énolate, le bit suivant ressemble à d'
+
+other reactions we've seen the enolate
+autres réactions, nous avons vu que l'énolate
+
+acts as a nucleophile and attacks the
+agit comme un nucléophile et attaque le
+
+carbonyl carbon of another ester
+carbone carbonyle d'une autre
+
+molecule the ethoxide group is kicked
+molécule d'ester le groupe éthoxyde  est
+
+out and promptly picks up an alpha
+expulsé et capte rapidement un
+
+hydrogen to form the alcohol now we have
+hydrogène alpha pour former l'alcool maintenant nous avons
+
+a resonance stabilized carbon ion that
+un ion carbone stabilisé par résonance qui
+
+gets protonated to form the neutral
+est protoné pour former le
+
+product when some acid is added and
+produit neutre lorsqu'un peu d'acide est ajouté et
+
+that's a claisen condensation in a
+c'est une condensation claisen en un
+
+nutshell unlike in the aldol reaction
+mot contrairement à la réaction d'aldol
+
+where the base was catalytic and remade
+où le  la base était catalytique et refaite
+
+at the end claisen condensation needs a
+à la fin claisen la condensation nécessite une
+
+stoichiometric amount of base the
+quantité stoechiométrique de base la
+
+deprotonation of the beta-ketoester at
+déprotonation du bêta-cétoester à
+
+the end is effectively pulling the whole
+la fin est  tirant efficacement toute la
+
+reaction along so we need enough bass
+réaction, nous avons donc besoin de suffisamment de basses
+
+for that to happen
+pour que cela se produise,
+
+we also need our enolizable partner to
+nous avons également besoin que notre partenaire énolisable
+
+have a minimum of two protons to start
+ait un minimum de deux protons pour commencer
+
+so the deprotonation can happen the
+afin que la déprotonation puisse se produire la
+
+reaction we just did involved two
+réaction que nous venons de faire impliquait deux
+
+identical esters but we can also do a
+esters identiques mais nous pouvons aussi faire un
+
+cross claisen condensation where we have
+condensation croisée claisen où nous avons
+
+two different starting molecules in this
+deux molécules de départ différentes dans ce
+
+case we need to deliberately choose one
+cas, nous devons choisir délibérément une
+
+molecule that can form an enolate and
+molécule qui peut former un énolate et
+
+one that can to avoid a messy mixture of
+une autre qui peut éviter un mélange désordonné de
+
+four different products
+quatre produits différents,
+
+basically we need to make sure that one
+nous devons nous assurer que l'un
+
+of the substrates doesn't have alpha
+des substrats ne  'pas d'hydrogènes alpha
+
+hydrogens also we set this up with an
+aussi nous avons mis cela en place avec un
+
+excess of the non-enolizable reactant
+excès de réactif non énolisable de
+
+that way there's a better chance that
+cette façon il y a une meilleure chance que
+
+the enolate will react with the
+l'énolate réagisse avec le
+
+non-enolizable substrate which is what
+substrat non énolisable qui est ce que
+
+we want rather than react with another
+nous voulons plutôt que de réagir avec une autre
+
+molecule of itself which we don't
+molécule de lui-même qui  nous ne sommes pas
+
+overall the mechanism of a cross claisen
+dans l'ensemble le mécanisme d'une condensation claisen croisée
+
+condensation is the same as a claisen
+est le même qu'une
+
+condensation and we end up with a
+condensation claisen et nous nous retrouvons avec un
+
+carbonyl group beta to our ester in this
+groupe carbonyle bêta à notre  ester dans cet
+
+particular example we've made a diester
+exemple particulier, nous avons fait un diester
+
+now that we have this reaction in our
+maintenant que nous avons cette réaction dans notre
+
+tool kit we're heading back to our mold
+trousse à outils, nous retournons à notre
+
+medicine map for another loop of the
+carte de médecine des moisissures pour une autre boucle des
+
+roller coaster so check your safety
+montagnes russes, alors vérifiez votre
+
+harness to do a cross cleason
+harnais de sécurité pour faire une
+
+condensation on this penicillin
+condensation croisée sur  ce
+
+precursor let's take a peek at the
+précurseur de pénicilline jetons un coup d'œil à l'
+
+alcohol that's kicked out at the end so
+alcool qui est expulsé à la fin, donc
+
+for our strong base we'll use the
+pour notre base forte, nous utiliserons le
+
+alkoxide salt sodium tert-butoxide and
+sel d'alcoolate de tert-butoxyde de sodium et
+
+our other reactant is tert-butyl formate
+notre autre réactif est le formiate de tert-butyle
+
+in the mechanism sodium tert-butoxide
+dans le mécanisme le tert-butoxyde de sodium
+
+plucks the acidic hydrogen off the alpha
+arrache le  l'hydrogène acide du
+
+carbon in between the nitrogen and the
+carbone alpha entre l'azote et l'
+
+ester next the nucleophilic enolate
+ester ensuite l'énolate nucléophile que
+
+we've just formed attacks the carbonyl
+nous venons de former attaque le
+
+carbon in the tert-butyl formate the
+carbone carbonyle dans le formiate de tert-butyle l'
+
+tetrahedral intermediate collapses and
+intermédiaire tétraédrique s'effondre et
+
+the tert-butoxide is kicked out the
+le tert-butoxyde est expulsé la
+
+final deprotonation makes another
+déprotonation finale fait un autre
+
+enolate and once we protonate that we're
+énolate  et une fois que nous avons protoné cela, nous nous retrouvons
+
+left with a neutral product and a shiny
+avec un produit neutre et une
+
+new carbon-carbon bond two new reactions
+nouvelle liaison carbone-carbone brillante deux nouvelles réactions
+
+and two new steps in our penicillin v
+et deux nouvelles étapes dans notre
+
+synthesis not bad for one episode in
+synthèse de pénicilline v pas mal f  ou un épisode de
+
+this episode we learned an aldol product
+cet épisode, nous avons appris qu'un produit aldol
+
+is a ketone or aldehyde with a
+est une cétone ou un aldéhyde avec un
+
+beta-hydroxy group aldol reactions join
+groupe bêta-hydroxy les réactions d'aldol
+
+together two aldehydes or ketones and
+réunissent deux aldéhydes ou cétones et
+
+can be acid or based catalyzed the aldol
+peuvent être catalysées par un acide ou une base la
+
+condensation involves an elimination
+condensation d'aldol implique une
+
+step which in base is an e1cb reaction
+étape d'élimination qui en base est un e1cb  réaction
+
+and the claisen condensation is used to
+et la condensation claisen est utilisée pour
+
+join up esters there are even more enols
+joindre les esters il y a encore plus d'énols
+
+and enolates coming up in the next
+et d'énolates à venir dans le prochain
+
+episode as we learn crossed aldol
+épisode alors que nous apprenons la
+
+reaction and conjugate edition until
+réaction d'aldol croisée et l'édition conjuguée jusqu'à la
+
+next time thanks for watching this
+prochaine fois merci d'avoir regardé cet
+
+episode of crash course organic
+épisode de cours intensif de
+
+chemistry if you want to help keep all
+chimie organique si vous voulez  aidez à garder tous les
+
+crash course free for everybody forever
+cours accélérés gratuits pour tout le monde pour toujours
+
+you can join our community on patreon
+vous pouvez rejoindre notre communauté sur patreon
+

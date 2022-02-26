@@ -1,0 +1,687 @@
+Hey there, I'm Mike Rugnetta
+Salut, je suis Mike Rugnetta
+
+This is Crash Course mythology,
+C'est la mythologie du Crash Course,
+
+and in the first episode of this series,
+et dans le premier épisode de cette série,
+
+we defined what we mean by myth.
+nous avons défini ce que nous entendons par mythe.
+
+I also said that we weren't gonna get too theoretical
+J'ai également dit que nous n'allions pas devenir trop théoriques
+
+because the theory of mythology gets complicated quickly--
+car la théorie de la mythologie se complique rapidement --
+
+but you all have asked for an episode on theories of mythology;
+mais vous avez tous demandé un épisode sur les théories de la mythologie ;
+
+...and if you know me, and the other things that I make,
+...et si vous me connaissez, et les autres choses que je fais,
+
+you know how I feel.. about talking theory.
+vous savez ce que je ressens... à propos de parler de théorie.
+
+So... that's what we're gonna do;
+Alors... c'est ce que nous allons faire ;
+
+and, ok, that ask may have just been some strong-arming from Thoth,
+et, d'accord, cette demande n'était peut-être qu'un coup de force de Thoth,
+
+but who can say no to that face?!?
+mais qui peut dire non à ce visage ?!?
+
+[intro music]
+[musique d'intro]
+
+So.. let's look at how people think about mythology
+Alors... regardons comment les gens pensent de la mythologie
+
+and give you some ideas about how to analyze
+et donnons-nous quelques idées sur la façon d'analyser les
+
+myths yourself.
+mythes vous-même.
+
+We're gonna start with the definition of
+Nous allons commencer par la définition de
+
+MYTH - OLOGY
+MYTHE - OLOGIE
+
+Unlike myths themselves, which as we pointed out
+Contrairement aux mythes eux-mêmes, qui, comme nous l'avons souligné,
+
+are difficult to define, mythology
+sont difficiles à définir, la mythologie
+
+is pretty straightforward--
+est assez simple--
+
+since in english, "ology" means basically the study of--
+puisqu'en anglais, "ologie" signifie essentiellement l'étude de--
+
+"mythology" is the systematic study of myths...
+"mythologie" est  l'étude systématique des mythes...
+
+...a thing you probably already figured out for yourself
+...une chose que vous avez probablement déjà compris par vous-même
+
+at this point in the series.
+à ce stade de la série.
+
+The real question is..
+La vraie question est ..
+
+HOW are myths studied,
+COMMENT les mythes sont étudiés,
+
+and for that we're gonna jump in our time-machine
+et pour cela nous allons sauter dans notre machine à voyager dans le temps --
+
+--courtesy of Zurvan the zoroastrian god of time--
+gracieuseté de Zurvan le dieu zoroastrien du temps --
+
+check your divine flux capacitor and buckle up.
+vérifier votre condensateur de flux divin et boucler votre ceinture.
+
+So, we start in ancient Greece. In the first episode
+Donc, nous commençons dans la Grèce antique.  Dans le premier épisode,
+
+I mentioned that critical analysis of myths has been around for a long time.
+j'ai mentionné que l'analyse critique des mythes existe depuis longtemps.
+
+As early as the mid 500's BCE
+Dès le milieu des années 500 avant notre ère, des
+
+presocratic philosophers like Xenophanes were criticizing Hesiod and Homer
+philosophes présocratiques comme Xénophane critiquaient Hésiode et Homère
+
+for attributing all of the evil and shameful aspects of humanity to the gods.
+pour avoir attribué tous les aspects pervers et honteux de l'humanité aux dieux.
+
+Plato was among the first to equate myths with 'lying'
+Platon a été parmi les premiers à assimiler les mythes au « mensonge »
+
+and, as we discussed in episode 1, that idea has stuck.
+et, comme nous en avons discuté dans l'épisode 1, cette idée est restée.
+
+But Plato further complicated this issue because he claimed that myths about
+Mais Platon a encore compliqué cette question parce qu'il a affirmé que les mythes sur les
+
+gods, heroes, and fantastic creatures were irrational and therefore, 'false.'
+dieux, les héros et les créatures fantastiques étaient irrationnels et donc « faux ».
+
+Yet philosophical myths like the ones he put forward in "The Republic"
+Pourtant, les mythes philosophiques comme ceux qu'il a mis en avant dans "La République"
+
+served a rational purpose.. and were 'true.'
+servaient un but rationnel... et étaient "vrais".
+
+Sorry Thoth, you're gonna have to talk it over with Veritas, Roman goddess of truth.
+Désolé Thoth, tu vas devoir en parler avec Veritas, la déesse romaine de la vérité.
+
+A little bit after Plato came the influential thinker Euhemeros.
+Peu après Platon est venu le penseur influent Euhemeros.
+
+He assumed that people who lived before him were primitive, with no concept of science,
+Il a supposé que les gens qui vivaient avant lui étaient primitifs, sans aucun concept de science,
+
+so they created fanciful versions of historical events to explain things they didn't understand.
+alors ils ont créé des versions fantaisistes d'événements historiques pour expliquer des choses qu'ils ne comprenaient pas.
+
+In Euhemeros's opinion, Zeus was an early human king whose deeds became legendary and,
+De l'avis d'Euhemeros, Zeus était un des premiers rois humains dont les actes sont devenus légendaires et, au fur et à
+
+as those legends were retold, he transformed into a god.
+mesure que ces légendes ont été racontées, il s'est transformé en dieu.
+
+Euhemerism has come to mean interpreting "Myths as primitive explanations of the natural world
+L'euhémérisme en est venu à signifier l'interprétation «des mythes comme des explications primitives du monde naturel
+
+or as time-distorted accounts of long-past historical events."
+ou comme des récits déformés dans le temps d'événements historiques passés depuis longtemps».
+
+Although Euhemeros wasn't particularly influential in his own time, his ideas were picked up later by Roman thinkers--
+Bien qu'Euhemeros n'ait pas été particulièrement influent à son époque, ses idées ont été reprises plus tard par des penseurs romains, en
+
+--especially Christians.
+particulier des chrétiens.
+
+Early church-thinkers, like Tertullian and Clement of Alexanderia, took up the Platonic sense of myth as 'falsehood',
+Les premiers penseurs de l'Église, comme Tertullien et Clément d'Alexandre, ont adopté le sens platonicien du mythe comme « mensonge »
+
+and upon it they based a new theory: that the Greek and Roman myths were influenced by demons
+et, sur celui-ci, ils ont fondé une nouvelle théorie : que les mythes grecs et romains étaient influencés par des démons
+
+who wanted the stories to prepare their listeners for the story of Jesus, and to provide a contrast between him
+qui voulaient que les histoires préparent leur vie.  auditeurs pour l'histoire de Jésus, et de fournir un contraste entre lui
+
+and the pagan gods.
+et les dieux païens.
+
+..so, I mean, those are some pretty helpful demons.. I guess?
+..donc, je veux dire, ce sont des démons plutôt utiles.. je suppose?
+
+These early mythologists set up a dichotomy between 'mythos,' associated with falsehood,
+Ces premiers mythologues ont établi une dichotomie entre le « mythe », associé au mensonge,
+
+and 'logos,' which Christian thinkers associated with transcendant truth.
+et le « logos », que les penseurs chrétiens associaient à la vérité transcendante.
+
+This synthesis of Plato and Christianity was the basis of Western mythology until the Renaissance.
+Cette synthèse de Platon et du christianisme a été à la base de la mythologie occidentale jusqu'à la Renaissance.
+
+For many centuries European artists drew a great deal from classical Greek and Roman myths
+Pendant de nombreux siècles, les artistes européens se sont beaucoup inspirés des mythes classiques grecs et romains
+
+but, mythology as a study didn't really take off until the 18th and 19th centuries,
+, mais la mythologie en tant qu'étude n'a vraiment décollé qu'aux XVIIIe et XIXe siècles,
+
+drawing on the linguistic discovery that the languages of India, SouthWest-Asia and Europe are all related--
+s'appuyant sur la découverte linguistique que les langues de l'Inde, de l'Asie du Sud-Ouest et de l'Europe  sont tous liés -
+
+they're all derived from a single language,
+ils sont tous dérivés d'une seule langue,
+
+now known as "Proto-Indo-Europian".
+maintenant connue sous le nom de "proto-indo-européen".
+
+The discovery of Proto-Indo-Europian led some to posit that it was spoken by a group called "Aryans,"
+La découverte du proto-indo-européen a conduit certains à postuler qu'il était parlé par un groupe appelé "Aryens",
+
+whose myths were the basis for all European, Indian, and Southwest-Asian myths--
+dont les mythes étaient à la base de tous les mythes européens, indiens et sud-ouest asiatiques
+
+--a purported explanation for their similarities.
+-- une prétendue explication de leurs similitudes.  .
+
+In addition to the Aryan hypothesis, this discovery also gave way to a broadly comparative mythology
+En plus de l'hypothèse aryenne, cette découverte a également cédé la place à une mythologie largement comparative
+
+that focused much more on origin and content than function.
+qui se concentrait beaucoup plus sur l'origine et le contenu que sur la fonction.
+
+There's no real evidence that these Aryans ever existed,
+Il n'y a aucune preuve réelle que ces Aryens aient jamais existé,
+
+but that didn't stop romantic thinkers like Johann Gottfried Herder
+mais cela n'a pas empêché des penseurs romantiques comme Johann Gottfried Herder
+
+who believed that their myths, along with other things, embodied the simplicity and purity of the German 'volk.'
+qui croyaient que leurs mythes, entre autres choses, incarnaient la simplicité et la pureté du "volk" allemand.
+
+That sounds innocuous enough until we learn that the Nazis would later appropriate Herders pro-German ideas
+Cela semble assez anodin jusqu'à ce que nous apprenions que les nazis s'approprieront plus tard les idées pro-allemandes de Herder
+
+to justify their atrocities and legitimize their hateful ideology.
+pour justifier leurs atrocités et légitimer leur idéologie haineuse.
+
+The study of myth changes again in the 20th century when it joins forces with the new discipline of anthropology.
+L'étude du mythe change à nouveau au XXe siècle lorsqu'elle s'associe à la nouvelle discipline de l'anthropologie.
+
+Anthropologists wouldn't just read about myths in libraries, they would conduct fieldwork
+Les anthropologues ne se contenteraient pas de lire sur les mythes dans les bibliothèques, ils mèneraient des recherches sur le terrain
+
+to discover how myths functioned in living societies.
+pour découvrir comment les mythes fonctionnaient dans les sociétés vivantes.
+
+Although in the early days of anthropology the object of study was still societies considered 'primitive,'
+Bien qu'aux débuts de l'anthropologie, l'objet d'étude était encore les sociétés considérées comme "primitives",
+
+...at least by those anthropologists.
+... du moins par ces anthropologues.
+
+Let's go to the thought bubble--
+Allons à la bulle de pensée -
+
+One of the towering figures in this new way of studying myths was the Scottish anthropologist Sir James Frazer
+L'une des figures dominantes de cette nouvelle façon d'étudier les mythes était l'anthropologue écossais Sir James Frazer
+
+who could really rock a beard.
+qui pouvait vraiment secouer une barbe.
+
+His twelve volume book, "The Golden Bough,"
+Son livre en douze volumes, "The Golden Bough", se
+
+centers on different versions of a myth in which sacred kings are slaughtered
+concentre sur différentes versions d'un mythe dans lequel des rois sacrés sont
+
+in order to ensure a bountiful harvest.
+massacrés afin d'assurer une récolte abondante.
+
+Frazer supported the concepts of myths as primitive science,
+Frazer a soutenu les concepts de mythes en tant que science primitive,
+
+which attributed to the will of deities, people or animals
+qui attribuait à la volonté des divinités, des personnes ou des animaux
+
+that which modern science attributes to the impersonal functioning of
+ce que la science moderne attribue au fonctionnement impersonnel de
+
+various physical laws and biological processes.
+diverses lois physiques et processus biologiques.
+
+That's another way of saying, "Hey, if you haven't quite mastered physics, blame a god."
+C'est une autre façon de dire : "Hé, si vous ne maîtrisez pas tout à fait la physique, blâmez un dieu."
+
+To be honest, that's what I do.
+Pour être honnête, c'est ce que je fais.
+
+Ooooh! A GOD!
+Ooooh !  UN DIEU! 
+
+One of the mythologists to follow Frazer,
+L'un des mythologues qui ont suivi Frazer,
+
+Bronisław Malinowski, did fieldwork in the Trobriand Islands
+Bronisław Malinowski, a effectué un travail de terrain dans les îles Trobriand
+
+and outlined the new anthropological view of myth that grew out of working with living peoples.
+et a esquissé la nouvelle vision anthropologique du mythe issue du travail avec les peuples vivants.
+
+Studied alive, myth... is not symbolic, but a direct expression of its subject-matter;
+Étudié vivant, le mythe... n'est pas symbolique, mais une expression directe de son objet ;
+
+... a narrative resurrection of a primeval reality,
+... une résurrection narrative d'une réalité primitive,
+
+... Myth fulfills in primitive culture an indispensable function;
+... Le mythe remplit dans la culture primitive une fonction indispensable ;
+
+it expresses, enhances and codifies belief;
+il exprime, renforce et codifie la croyance ;
+
+it safeguards and enforces morality;
+il sauvegarde et renforce la moralité ;
+
+it vouches for the efficiency of ritual
+il atteste de l'efficacité du rituel
+
+and contains practical rules for the guidance of man.
+et contient des règles pratiques pour guider l'homme.
+
+Yeah, that 'primitive peoples' part is a little hard to take. Early anthropology was pretty judgy.
+Oui, cette partie des "peuples primitifs" est un peu difficile à accepter.  L'anthropologie primitive était assez judicieuse.
+
+But this new approach had the advantage of
+Mais cette nouvelle approche avait l'avantage de se
+
+focusing on what so-called primitive people know,
+concentrer sur ce que les gens dits primitifs savent,
+
+rather than what they don't.
+plutôt que sur ce qu'ils ne savent pas.
+
+Building on the work of anthropologists, recent mythologists
+S'appuyant sur les travaux des anthropologues, les mythologues récents
+
+have tried to connect their work to the lived experiences of actual human beings.
+ont tenté de relier leur travail aux expériences vécues d'êtres humains réels.
+
+--Thanks, Thought Bubble!
+--Merci, bulle de pensée !
+
+At around the same time that anthropology was gaining prominence,
+À peu près au même moment où l'anthropologie gagnait en importance,
+
+the new field of psychology was also looking to myths
+le nouveau domaine de la psychologie se tournait également vers les mythes
+
+for an explanation of human experience.
+pour expliquer l'expérience humaine.
+
+Two of the best known psychologists,
+Deux des psychologues les plus connus,
+
+Sigmund Freud and Carl Jung,
+Sigmund Freud et Carl Jung,
+
+posit that the source of myths is the human unconscious,
+postulent que la source des mythes est l'inconscient humain
+
+and that mythical characters are projections of that unconscious.
+et que les personnages mythiques sont des projections de cet inconscient.
+
+We're gonna return to these thinkers in a later episode,
+Nous reviendrons sur ces penseurs dans un épisode ultérieur,
+
+but for now it's helpful to understand the fundamental difference between the two.
+mais pour l'instant, il est utile de comprendre la différence fondamentale entre les deux.
+
+For Freud, the unconscious is the true psychical reality;
+Pour Freud, l'inconscient est la vraie réalité psychique ;
+
+but our conscious minds, like Tom Cruise,
+mais nos esprits conscients, comme Tom Cruise,
+
+"CAN'T HANDLE THE TRUTH!!"
+"NE PEUVENT PAS GÉRER LA VÉRITÉ !!"
+
+So we make these terrible realities palatable, by creating imaginative works,
+Nous rendons donc acceptables ces terribles réalités en créant des œuvres imaginatives,
+
+like myths,
+comme des mythes,
+
+which are strategies for managing the internal forces that shape our thoughts, feelings and actions.
+qui sont des stratégies pour gérer les forces internes qui façonnent nos pensées, nos sentiments et nos actions.
+
+Jung similarly saw myths as a projection of the unconscious,
+Jung considérait également les mythes comme une projection de l'inconscient,
+
+but for him.. the unconscious was collective and universal
+mais pour lui... l'inconscient était collectif et universel -
+
+--NOT individual.
+NON individuel.
+
+It's like a reservoir, from which we all drink.
+C'est comme un réservoir, auquel nous buvons tous.
+
+A reservoir with more dreams... and less flouride
+Un réservoir avec plus de rêves... et moins de fluor
+
+They put that in the reservoir itself, right?
+Ils ont mis ça dans le réservoir lui-même, n'est-ce pas ?
+
+Jung defined a number of archetypes that he saw as aspects of every person's psyche
+Jung a défini un certain nombre d'archétypes qu'il considérait comme des aspects de la psyché de chaque personne
+
+and, in his estimation, the characters that appear in myths
+et, selon lui, les personnages qui apparaissent dans les mythes
+
+are versions of these archetypes.
+sont des versions de ces archétypes.
+
+The collective nature of human consciousness
+La nature collective de la conscience humaine
+
+may be one reason we can find similar mythic characters
+peut être l'une des raisons pour lesquelles nous pouvons trouver des personnages mythiques similaires
+
+from stories originating in many parts of the world.
+dans des histoires originaires de nombreuses régions du monde.
+
+And of course, we couldn't do an episode on thoeries of mythology
+Et bien sûr, on ne pouvait pas faire un épisode sur les théories de la mythologie
+
+without mentioning the best known mythologist of the twentieth century,
+sans évoquer le mythologue le plus connu du XXe siècle,
+
+Lets hear it for: Joseph Campbell.
+Ecoutons-le pour : Joseph Campbell.
+
+Campbell became famous in the 1980s for a television series,
+Campbell est devenu célèbre dans les années 1980 pour une série télévisée,
+
+"The Power of Myth," also with Bill Moyers.
+"The Power of Myth", également avec Bill Moyers.
+
+And George Lucas also credited Campbell with influencing Star Wars.
+Et George Lucas a également crédité Campbell d'avoir influencé Star Wars.
+
+Luke, guess... he's your father.
+Luke, je suppose... c'est ton père.
+
+More on that later.
+Plus sur cela plus tard.
+
+Campbell's understanding of myth, and particularly of hero stories,
+La compréhension de Campbell du mythe, et en particulier des histoires de héros,
+
+is a reflection of the American valorization of rugged individuals.
+est le reflet de la valorisation américaine des individus robustes.
+
+For Campbell, "Mythology is ultimately and always
+Pour Campbell, "la mythologie est finalement et toujours
+
+the vehicle through which the individual
+le véhicule par lequel l'individu
+
+finds a sense of identity and place in the world."
+trouve un sentiment d'identité et de place dans le monde."
+
+Campbell synthesized the ideas of psychoanalysts,
+Campbell a synthétisé les idées des psychanalystes,
+
+comparative mythologists, and literary and cultural critics
+des mythologues comparatifs et des critiques littéraires et culturels
+
+to create his own theory of a single "mono-myth"
+pour créer sa propre théorie d'un «mono-mythe» unique
+
+that underlies all mythical stories.
+qui sous-tend toutes les histoires mythiques.
+
+Meanwhile, French anthropologist, Claude Levi-Strauss
+Pendant ce temps, l'anthropologue français Claude Lévi-Strauss
+
+-- no relationship to the blue-jeans --
+- sans rapport avec les blue-jeans - a
+
+developed a theory for describing myths by looking at their structure.
+développé une théorie pour décrire les mythes en examinant leur structure.
+
+Structuralism holds that specific instances of culture,
+Le structuralisme soutient que des exemples spécifiques de culture,
+
+like myths, betray a much more complicated underlying structure.
+comme les mythes, trahissent une structure sous-jacente beaucoup plus compliquée.
+
+What that structure is, and how it works,
+La nature de cette structure et son fonctionnement
+
+depends upon which structuralist you're talking to.
+dépendent du structuraliste auquel vous vous adressez.
+
+Levi-Strauss, arguably the first structuralist, was all about...
+Lévi-Strauss, sans doute le premier structuraliste, était tout au sujet de...
+
+BINARIES.
+BINAIRES.
+
+Culture is built a relationship between..
+La culture est construite une relation entre…
+
+male and female,
+homme et femme,
+
+hero and villain,
+héros et méchant,
+
+even cooked and raw, among many others.
+même cuit et cru, parmi tant d'autres.
+
+For him, myths, like all units of culture,
+Pour lui, les mythes, comme toutes les unités de la culture,
+
+sit atop these inescapable opposing binaries.
+reposent sur ces binaires opposés incontournables.
+
+And, since many students of mythology will have heard of him and his theories,
+Et, puisque de nombreux étudiants en mythologie auront entendu parler de lui et de ses théories,
+
+we should also mention Romanian religious historian,
+il convient également de mentionner l'historien religieux roumain,
+
+Mircea Eliade.
+Mircea Eliade.
+
+Even though his personal politics have overshadowed his scholarship in many circles.
+Même si sa politique personnelle a éclipsé son érudition dans de nombreux cercles.
+
+Eliade was a Romanian nationalist who associated with a proto-fascist group
+Eliade était un nationaliste roumain qui s'est associé à un groupe proto-fasciste
+
+and thus his reputation, like that of Herder and Nietzsche, has suffered.
+et ainsi sa réputation, comme celle de Herder et Nietzsche, en a souffert.
+
+Hey!
+Hé! 
+
+Mythologists!
+Mythologues !
+
+No more chillin' with fascists, ok?
+Plus de fric avec les fascistes, d'accord ?
+
+I feel like I shouldn't even have to ask this.
+J'ai l'impression que je ne devrais même pas avoir à demander ça.
+
+Eliade was also a fan of binaries;
+Eliade était aussi fan des binaires ;
+
+particularly the sacred and the profane,
+en particulier le sacré et le profane
+
+as well as the archaic and the modern.
+, ainsi que l'archaïque et le moderne.
+
+For Eliade, archaic people were more in-touch with the sacred.
+Pour Eliade, les archaïques étaient plus en contact avec le sacré.
+
+And today myths allow us to escape the profane,
+Et aujourd'hui, les mythes nous permettent d'échapper au profane,
+
+to travel back to the past,
+de voyager dans le passé
+
+and re-encounter the sacred.
+et de retrouver le sacré.
+
+Structuralist theory was very popular at the end of the twentieth century,
+La théorie structuraliste était très populaire à la fin du XXe siècle,
+
+but it also left a lot of people wondering, "so what?"
+mais elle a aussi laissé beaucoup de gens se demander « et alors ?
+
+What do we gain by reducing all myths to a set of patterns,
+Que gagne-t-on à réduire tous les mythes à un ensemble de schémas,
+
+or even to one single pattern?
+voire à un seul schéma ?
+
+What does that really tell us about-
+Qu'est-ce que cela nous apprend vraiment sur la
+
+-why cultures use myth, or how myth reveals culture?
+raison pour laquelle les cultures utilisent le mythe ou comment le mythe révèle la culture ?
+
+Contemporary approaches have pioneered some new methods
+Les approches contemporaines ont été les pionnières de certaines nouvelles
+
+of asking and answering these questions.
+méthodes pour poser et répondre à ces questions.
+
+William Doty proposes giving students of myth a toolkit
+William Doty propose de donner aux étudiants du mythe une boîte à outils
+
+which includes a series of questions to ask when reading myths,
+qui comprend une série de questions à se poser lors de la lecture des mythes,
+
+centering on several concerns:
+centrées sur plusieurs préoccupations :
+
+the social,
+le social,
+
+the psychological,
+le psychologique,
+
+the literary,
+le littéraire, le
+
+textual and performative,
+textuel et performatif,
+
+the structural and, finally, the political.
+le structurel et, enfin, le politique.
+
+These provide a broader way of looking at myths.
+Ceux-ci fournissent une manière plus large de regarder les mythes.
+
+Wendy Doniger provides an updated version of comparative mythology,
+Wendy Doniger fournit une version mise à jour de la mythologie comparée,
+
+asking myth readers to look also at the context in which the myth is told--
+demandant aux lecteurs de mythes de regarder également le contexte dans lequel le mythe est raconté - en
+
+exploring difference.
+explorant la différence.
+
+These more contemporary ways of looking at myths
+Ces façons plus contemporaines de regarder les mythes
+
+fit well with the complex view of the world that we try to take here at Crash Course.
+cadrent bien avec la vision complexe du monde que nous essayons d'avoir ici à Crash Course.
+
+but, we're not going to follow any one school of thought
+mais, nous n'allons pas suivre une seule école de pensée
+
+when it comes to how we "-ology" these here "myths".
+quand il s'agit de la façon dont nous "-ologie" ces "mythes".
+
+We like being eclectic,
+Nous aimons être éclectiques
+
+and have no interest in forcing you to see myths in one particular way.
+et n'avons aucun intérêt à vous forcer à voir les mythes d'une manière particulière.
+
+Hadúr, Hungarian god of forests?
+Hadúr, dieu hongrois des forêts ?
+
+Got my eye on you!
+Je t'ai à l'oeil !
+
+Thanks for watching, we'll see you next time.
+Merci d'avoir regardé, nous vous verrons la prochaine fois.
+
+Check out our Crash Course Mythology
+Découvrez notre
+
+"Thoth-Tote Bag" and poster, available now at DFTBA.COM.
+"Thoth-Tote Bag" et notre affiche sur la mythologie du cours accéléré, disponibles dès maintenant sur DFTBA.COM.
+
+Crash Course Mythology is filmed in the Chad & Stacey Emigholz Studio in Indianapolis, Indiana,
+Crash Course Mythology est filmé dans le studio Chad & Stacey Emigholz à Indianapolis, Indiana,
+
+it is produced with the help of all of these nice people.
+il est produit avec l'aide de toutes ces personnes sympathiques.
+
+Our animation team is Thought Cafe
+Notre équipe d'animation est Thought Cafe
+
+and Crash Course exists thanks to the generous support of our patrons at Patreon.
+et Crash Course existe grâce au généreux soutien de nos clients à Patreon.
+
+Patreon is a voluntary subscription service
+Patreon est un service d'abonnement volontaire
+
+where you can support the content that you love via a monthly donation
+où vous pouvez soutenir le contenu que vous aimez via un don mensuel
+
+to help keep Crash Course free for everyone.. forever.
+pour aider à garder Crash Course gratuit pour tout le monde... pour toujours.
+
+Crash Course is made with Adobe Creative Cloud,
+Crash Course est fait avec Adobe Creative Cloud,
+
+check the description for a link to a free trial.
+consultez la description pour un lien vers un essai gratuit.
+
+Thanks for watching and, you know what?
+Merci d'avoir regardé et, vous savez quoi ?
+
+I've been thinking about it, I think I'm going to come clean:
+J'y ai pensé, je pense que je vais être clair :
+
+I don't feel great about that Star Wars joke earlier.
+je ne me sens pas bien à propos de cette blague de Star Wars plus tôt.
+
+I'm real sorry.
+Je suis vraiment désolé.
+

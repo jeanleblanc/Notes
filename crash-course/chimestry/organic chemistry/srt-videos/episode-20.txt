@@ -1,0 +1,684 @@
+You can review content from Crash Course Organic Chemistry with the Crash Course app, available now on Android and iOS devices.
+Vous pouvez consulter le contenu de Crash Course Organic Chemistry avec l'application Crash Course, disponible dès maintenant sur les appareils Android et iOS.
+
+Hi!
+Salut! 
+
+I’m Deboki Chakravarti and welcome to Crash
+Course Organic Chemistry!
+Je suis Deboki Chakravarti et bienvenue au cours intensif de
+chimie organique !
+
+World War I has been called the "Chemist's War" because of chemical warfare agents such as phosgene, lewisite, and mustard gas.
+La Première Guerre mondiale a été appelée la "guerre des chimistes" en raison d'agents de guerre chimique tels que le phosgène, le lewisite et le gaz moutarde.
+
+As bad reputations go, this was pretty horrific.
+Comme les mauvaises réputations vont, c'était assez horrible.
+
+After World War I, a paper published in 1931
+described an unexpected benefit of sulfur mustard:
+Après la Première Guerre mondiale, un article publié en 1931
+décrivait un avantage inattendu de la moutarde au soufre :
+
+anti-carcinogenic, or cancer stopping, effects.
+des effets anti-cancérigènes ou anticancéreux.
+
+Fighting fire with fire, or cancer with mustard
+gas, would be way too dangerous for patients.
+Combattre le feu par le feu, ou le cancer avec du
+gaz moutarde, serait bien trop dangereux pour les patients.
+
+So chemists went back to their lab benches.
+Les chimistes ont donc regagné leurs paillasses de laboratoire.
+
+They found that by replacing the sulfur in
+mustard gas with a nitrogen,
+Ils ont découvert qu'en remplaçant le soufre
+du gaz moutarde par de l'azote,
+
+they were able to treat cancer and reduce some of the toxic
+side-effects in humans.
+ils pouvaient traiter le cancer et réduire certains des
+effets secondaires toxiques chez l'homme.
+
+This new class of compounds were called the
+nitrogen mustards.
+Cette nouvelle classe de composés s'appelait les
+moutardes azotées.
+
+And in 1946, nitrogen mustards were used to
+treat Hodgkin's lymphoma and chronic lymphocytic leukemia.
+Et en 1946, les moutardes à l'azote ont été utilisées pour
+traiter le lymphome de Hodgkin et la leucémie lymphoïde chronique.
+
+By the 1950’s, another derivative of mustard gas called chlorambucil was marketed as a chemotherapy drug patients could take by mouth.
+Dans les années 1950, un autre dérivé du gaz moutarde appelé chlorambucil était commercialisé comme médicament de chimiothérapie que les patients pouvaient prendre par voie orale.
+
+Nowadays, we understand that mustard gas,
+and the chemotherapy drugs inspired by it,
+De nos jours, nous comprenons que le gaz moutarde
+et les médicaments de chimiothérapie qui en sont inspirés
+
+cross-link DNA and keep it from replicating.
+réticulent l'ADN et l'empêchent de se répliquer.
+
+Being able to stop cancer cell DNA from replicating
+is hugely important in chemotherapy treatments.
+Être capable d'empêcher la réplication de l'ADN des cellules cancéreuses
+est extrêmement important dans les traitements de chimiothérapie.
+
+By the end of this episode, we’ll be able
+to see how substitution reactions make these chemotherapy agents work.
+À la fin de cet épisode, nous
+pourrons voir comment les réactions de substitution font fonctionner ces agents de chimiothérapie.
+
+[Theme Music]
+[Thème musical]
+
+We've learned that lots of addition reactions
+with alkenes or alkynes happen because pi bonds are nucleophilic.
+Nous avons appris que de nombreuses réactions d'addition
+avec des alcènes ou des alcynes se produisent parce que les liaisons pi sont nucléophiles.
+
+We added water, halogens, or other groups
+across a double or triple bond without removing any atoms.
+Nous avons ajouté de l'eau, des halogènes ou d'autres groupes à
+travers une double ou une triple liaison sans enlever aucun atome.
+
+Alkanes don’t have electron rich areas,
+so in episode 19,
+Les alcanes n'ont pas de zones riches en électrons,
+donc dans l'épisode 19,
+
+we used radical reactions to turn them into alkyl halides.
+nous avons utilisé des réactions radicalaires pour les transformer en halogénures d'alkyle.
+
+These reactions gave us a way to halogenate
+alkanes, basically installing molecular hotspots.
+Ces réactions nous ont donné un moyen d'halogéner les
+alcanes, installant essentiellement des points chauds moléculaires.
+
+In general chemistry, you might've heard substitution
+reactions called displacement reactions.
+En chimie générale, vous avez peut-être entendu des
+réactions de substitution appelées réactions de déplacement.
+
+Like two pairs of dance partners, two ionic
+compounds in water could swap ions when mixed,
+Comme deux paires de partenaires de danse, deux
+composés ioniques dans l'eau pouvaient échanger des ions lorsqu'ils étaient mélangés, de
+
+so the positive part of one compound ended
+up with the negative of the other.
+sorte que la partie positive d'un composé se
+retrouvait avec le négatif de l'autre.
+
+In organic chemistry, substitution reactions
+also involve switching partners,
+En chimie organique, les réactions de substitution
+impliquent également de changer de partenaire,
+
+but they're a little more complicated.
+mais elles sont un peu plus compliquées.
+
+We usually deal with single displacement reactions,
+where one group finds a new partner and the other just has to… leave.
+Nous traitons généralement des réactions de déplacement unique,
+où un groupe trouve un nouveau partenaire et l'autre n'a qu'à… partir.
+
+And organic molecules are a bit more complicated
+than inorganic ions,
+Et les molécules organiques sont un peu plus compliquées
+que les ions inorganiques
+
+so we’ll have to think carefully about stereochemistry.
+, nous devrons donc réfléchir attentivement à la stéréochimie.
+
+Don't worry though.
+Ne vous inquiétez pas cependant.
+
+We got this.
+Nous avons ceci.
+
+To help us figure out organic substitution
+reactions, we need three things:
+Pour nous aider à comprendre les
+réactions de substitution organique, nous avons besoin de trois choses :
+
+Number 1: An sp3 hybridized carbon, which
+we’re going to call the substrate.
+Numéro 1 : Un carbone hybride sp3, que
+nous allons appeler le substrat.
+
+Number 2: A leaving group, which is an atom
+or group that can accept electron density.
+Numéro 2 : Un groupe partant, qui est un atome
+ou un groupe qui peut accepter la densité électronique.
+
+And Number 3: A nucleophile, which is an atom
+or group that contains a lone pair or a pi bond.
+Et numéro 3 : un nucléophile, qui est un atome
+ou un groupe qui contient une paire isolée ou une liaison pi.
+
+This is the general model of a substitution
+reaction, with placeholders.
+C'est le modèle général d'une
+réaction de substitution, avec des espaces réservés.
+
+We can add in some real atoms and molecules
+here: the substrate is 1-bromobutane,
+Nous pouvons ajouter ici de vrais atomes et
+molécules: le substrat est le 1-bromobutane,
+
+which switches its bromide dance partner for hydroxide.
+qui remplace son partenaire de danse bromure par de l'hydroxyde.
+
+In this reaction, the leaving group is a bromide
+ion, and the nucleophile is a hydroxide ion.
+Dans cette réaction, le groupe partant est un
+ion bromure et le nucléophile est un ion hydroxyde.
+
+As we've been discovering, organic chemistry
+is full of puzzles,
+Comme nous l'avons découvert, la chimie organique
+est pleine d'énigmes, de
+
+so substitution reaction mechanisms can get a little tricky.
+sorte que les mécanismes de réaction de substitution peuvent devenir un peu délicats.
+
+Specifically, they can take two paths called
+SN1 and SN2.
+Plus précisément, ils peuvent emprunter deux chemins appelés
+SN1 et SN2.
+
+Depending on the path, we’ll see differences
+in stereochemistry and mechanism.
+Selon le chemin, nous verrons des différences
+dans la stéréochimie et le mécanisme.
+
+Let's adventure along one pathway, or one
+mechanism, at a time.
+Partons à l'aventure le long d'une voie, ou d'un
+mécanisme, à la fois.
+
+And we'll start with SN1.
+Et nous allons commencer par SN1.
+
+The S is for substitution, the N is for nucleophilic,
+and the 1 is for unimolecular,
+Le S est pour substitution, le N est pour nucléophile
+et le 1 est pour unimoléculaire,
+
+which tells us about the reaction rate.
+ce qui nous renseigne sur la vitesse de réaction.
+
+There are two steps to an SN1 reaction: formation
+of a carbocation and nucleophilic attack.
+Une réaction SN1 comporte deux étapes : formation
+d'un carbocation et attaque nucléophile.
+
+To see what this looks like in a reaction
+mechanism, let's use a general model again.
+Pour voir à quoi cela ressemble dans un
+mécanisme de réaction, utilisons à nouveau un modèle général.
+
+First, formation of the carbocation is the
+rate-determining step.
+Premièrement, la formation du carbocation est l'
+étape déterminant la vitesse.
+
+We’ve got to wait for that leaving group to pop off of the molecule with its electrons and give the carbon a positive charge.
+Nous devons attendre que ce groupe partant se détache de la molécule avec ses électrons et donne au carbone une charge positive.
+
+Since this could take awhile, the rate-determining
+step is also called the slow step.
+Étant donné que cela peut prendre un certain temps, l'étape déterminant la vitesse
+est également appelée étape lente.
+
+And the reason we call SN1 reactions unimolecular is because the overall rate of this reaction depends on that one molecule, the substrate, losing its leaving group.
+Et la raison pour laquelle nous appelons les réactions SN1 unimoléculaires est que la vitesse globale de cette réaction dépend de cette molécule, le substrat, qui perd son groupe partant.
+
+Okay, I know we can broadly visualize substitutions
+as dancing, but I like to picture the details with a playground.
+D'accord, je sais que nous pouvons largement visualiser les substitutions
+comme de la danse, mais j'aime imaginer les détails avec une aire de jeux.
+
+Specifically, a merry-go-round.
+Plus précisément, un manège.
+
+You know, those spinny platforms where you sit and someone else pushes it in circles until you're super dizzy?
+Vous savez, ces plates-formes tournantes où vous vous asseyez et quelqu'un d'autre la pousse en rond jusqu'à ce que vous soyez super étourdi ?
+
+Suppose there was a merry-go-round that could
+only hold three kids.
+Supposons qu'il y ait un manège qui ne puisse
+contenir que trois enfants.
+
+You're the fourth, so you get stuck spinning
+your friends, waiting for one to get off so you can hop on.
+Vous êtes le quatrième, alors vous êtes coincé à faire tourner
+vos amis, en attendant qu'un descende pour pouvoir monter.
+
+It always feels like forever before you get a turn.
+C'est toujours comme une éternité avant d'avoir un tour.
+
+But that’s basically the first step of an
+SN1 reaction.
+Mais c'est essentiellement la première étape d'une
+réaction SN1.
+
+Now, a carbocation is pretty irresistible
+to nucleophiles,
+Maintenant, un carbocation est assez irrésistible
+pour les nucléophiles,
+
+so next the nucleophile attacks this intermediate and a bond is formed.
+donc ensuite le nucléophile attaque cet intermédiaire et une liaison se forme.
+
+Sort of like how you'd quickly jump onto a
+merry-go-round to take a turn when your friend finally hops off.
+Un peu comme la façon dont vous sauteriez rapidement sur un
+manège pour faire un tour lorsque votre ami en sortira enfin.
+
+Because it happens so quickly, this step doesn’t
+determine the overall rate.
+Parce que cela se produit si rapidement, cette étape ne
+détermine pas le taux global.
+
+Those are the basic steps along the SN1 pathway.
+Ce sont les étapes de base le long de la voie SN1.
+
+But it's one thing to watch a complicated
+dance or imagine a merry-go-round,
+Mais c'est une chose de regarder une
+danse compliquée ou d'imaginer un manège,
+
+and another thing entirely to use your muscles.
+et c'en est une autre d'utiliser ses muscles.
+
+So let's go through a specific reaction mechanism
+in detail.
+Passons donc en revue un mécanisme de réaction spécifique
+en détail.
+
+We'll react 2-methyl-2-bromopropane, more
+commonly known as tert-butylbromide, with water.
+Nous ferons réagir le 2-méthyl-2-bromopropane, plus
+communément appelé bromure de tert-butyle, avec de l'eau.
+
+First, we have the formation of the carbocation,
+our slow, rate-determining step where bromine leaves.
+Tout d'abord, nous avons la formation du carbocation
+, notre étape lente et déterminante de la vitesse d'où sort le brome.
+
+And next, we have the nucleophilic attack
+on the substrate, which is relatively fast:
+Et ensuite, nous avons l'attaque nucléophile
+sur le substrat, qui est relativement rapide : l'
+
+water attacks the carbocation,
+eau attaque le carbocation,
+
+and we see our familiar “one-two punch” where a second water molecule scoops up the proton from the oxonium ion.
+et nous voyons notre "coup de poing un-deux" familier où une deuxième molécule d'eau récupère le proton de l'ion oxonium.
+
+If we plot this reaction on an energy diagram, we can see that the activation energy is really big for the dissociation of the bromide ion.
+Si nous traçons cette réaction sur un diagramme d'énergie, nous pouvons voir que l'énergie d'activation est vraiment importante pour la dissociation de l'ion bromure.
+
+It takes a lot of oomph for that slow step
+to get going!
+Il faut beaucoup de punch pour que ce pas lent démarre
+!
+
+On the other hand, the activation energies for the nucleophilic attack and the deprotonation reaction are relatively small.
+En revanche, les énergies d'activation de l'attaque nucléophile et de la réaction de déprotonation sont relativement faibles.
+
+So these reactions happen pretty quickly in
+comparison.
+Ces réactions se produisent donc assez rapidement en
+comparaison.
+
+Now, we should also pay attention to the stereochemistry
+of these molecules.
+Maintenant, nous devons également prêter attention à la stéréochimie
+de ces molécules.
+
+During that first transition state when the
+bromide leaves and the carbocation forms,
+Au cours de ce premier état de transition lorsque le
+bromure part et que le carbocation se forme,
+
+the molecule flattens out like a pancake.
+la molécule s'aplatit comme une crêpe.
+
+Overall, there's a trigonal planar molecular
+geometry:
+Dans l'ensemble, il existe une géométrie moléculaire plane
+trigonale :
+
+three methyl groups around an sp2 hybridized carbon with an empty p orbital.
+trois groupes méthyle autour d'un carbone hybride sp2 avec une orbitale p vide.
+
+Our carbocation!
+Notre carbocation !
+
+SN1 reactions prefer tertiary carbocations,
+which are stable thanks to those effects we talked about in episode 14: 
+Les réactions SN1 privilégient les carbocations tertiaires,
+qui sont stables grâce aux effets dont nous avons parlé dans l'épisode 14 : l'
+
+induction and hyperconjugation.
+induction et l'hyperconjugaison.
+
+We’ll get into more details about why this
+happens in the next episode!
+Nous entrerons dans plus de détails sur la raison pour laquelle cela
+se produit dans le prochain épisode!
+
+Anyway, a flat intermediate means that the
+incoming nucleophile can attack the lobes of our p-orbital from either the front side (where the bromine just left) 
+Quoi qu'il en soit, un intermédiaire plat signifie que le
+nucléophile entrant peut attaquer les lobes de notre orbitale p de la face avant (là où le brome vient de sortir)
+
+or the back side (which is, well, the other one).
+ou de la face arrière (qui est, eh bien, l'autre).
+
+If the groups around the central carbon are
+all the same, like the three methyl groups in our previous example,
+Si les groupes autour du carbone central sont
+tous les mêmes, comme les trois groupes méthyle dans notre exemple précédent,
+
+this isn’t super important.
+ce n'est pas très important.
+
+Our final product looks the same no matter
+which side the water molecule attacks.
+Notre produit final a le même aspect, quel
+que soit le côté attaqué par la molécule d'eau.
+
+But if our substrate is chiral, we need to
+pay close attention because two different stereoisomers can form.
+Mais si notre substrat est chiral, nous devons
+faire très attention car deux stéréoisomères différents peuvent se former.
+
+A nucleophilic attack from the front side
+gives us the same configuration we started with.
+Une attaque nucléophile de la face avant
+nous donne la même configuration avec laquelle nous avons commencé.
+
+But if the nucleophile attacks the back side,
+the stereochemistry flips, or inverts.
+Mais si le nucléophile attaque la face arrière,
+la stéréochimie bascule ou s'inverse.
+
+If we started with a single enantiomer of
+the substrate,
+Si nous commencions avec un seul énantiomère
+du substrat,
+
+we would now have a racemic mixture of our reaction product.
+nous aurions maintenant un mélange racémique de notre produit de réaction.
+
+Now this is key: carbons that have three bonds to a carbon make tertiary carbocations and their substitution reactions happen via an SN1 mechanism.
+Maintenant, c'est la clé : les carbones qui ont trois liaisons avec un carbone font des carbocations tertiaires et leurs réactions de substitution se produisent via un mécanisme SN1.
+
+But, substrates that have one carbon substituent (called primary) or two carbon substituents (called secondary) usually take a completely different path: 
+Mais, les substrats qui ont un substituant carbone (appelé primaire) ou deux substituants carbone (appelés secondaires) empruntent généralement un chemin complètement différent :
+
+they follow an SN2 mechanism.
+ils suivent un mécanisme SN2.
+
+The S is for substitution, the N is for nucleophilic,
+and the 2 is for bimolecular,
+Le S est pour la substitution, le N est pour nucléophile
+et le 2 est pour bimoléculaire,
+
+because the reaction rate will depend on two molecules
+coming together, instead of one just falling apart.
+car la vitesse de réaction dépendra de la rencontre de deux
+molécules, au lieu d'une seule qui s'effondre.
+
+Our two molecules are the substrate and the
+nucleophile.
+Nos deux molécules sont le substrat et le
+nucléophile.
+
+In an SN2 mechanism, there is no carbocation intermediate and the nucleophile plays a much more active role.
+Dans un mécanisme SN2, il n'y a pas d'intermédiaire carbocation et le nucléophile joue un rôle beaucoup plus actif.
+
+It all happens in one big, dramatic swoop:
+the nucleophile does a backside attack,
+Tout se passe d'un seul coup dramatique :
+le nucléophile fait une attaque arrière,
+
+pushes out the leaving group, and the stereochemistry
+gets inverted….
+repousse le groupe partant, et la
+stéréochimie s'inverse….
+
+kind of like an umbrella that gets turned inside-out in a heavy wind storm.
+un peu comme un parapluie qui se retourne dans une forte tempête de vent.
+
+Specifically, it's another one of those funky concerted reactions where bonds break and form at the same time.
+Plus précisément, c'est une autre de ces réactions concertées géniales où les liens se brisent et se forment en même temps.
+
+SN2 mechanisms go through a stage that looks
+like a carbon with five bonds.
+Les mécanismes SN2 passent par une étape qui ressemble
+à un carbone à cinq liaisons.
+
+But it's not, because both the nucleophile
+and leaving group are attached with partial bonds.
+Mais ce n'est pas le cas, car le nucléophile
+et le groupe partant sont liés par des liaisons partielles.
+
+A partial bond means as one bond is forming,
+the other is breaking.
+Une liaison partielle signifie qu'une liaison se forme,
+l'autre se rompt.
+
+Basically, the nucleophile starts to share its electrons but doesn’t want to fully commit until the leaving group leaves.
+Fondamentalement, le nucléophile commence à partager ses électrons mais ne veut pas s'engager pleinement tant que le groupe partant ne part pas.
+
+And the substrate doesn’t want to fully
+let go of the leaving group until the nucleophile commits.
+Et le substrat ne veut pas
+lâcher complètement le groupe partant tant que le nucléophile ne s'est pas engagé.
+
+Kind of like a passionate ballet with dancers
+joining hands or letting go.
+Un peu comme un ballet passionné avec des danseurs qui se
+donnent la main ou se lâchent.
+
+Or, going back to our merry-go-round metaphor,
+it's like you're spinning three friends again.
+Ou, pour en revenir à notre métaphore du manège,
+c'est comme si vous tourniez à nouveau trois amis.
+
+But instead of waiting patiently for one of
+them to hop off,
+Mais au lieu d'attendre patiemment que l'un d'
+eux descende,
+
+you push one friend away and sit down across from where they were.
+vous repoussez un ami et vous vous asseyez en face de lui.
+
+Then your other friends, to balance it out
+(or just to get away from you) shift over.
+Ensuite, vos autres amis, pour équilibrer le tout
+(ou simplement pour vous éloigner de vous), se déplacent.
+
+SN2 is a much rowdier playground than SN1!
+SN2 est un terrain de jeu beaucoup plus chahuteur que SN1 !
+
+Once again, it's easy to make dance or playground
+analogies, and tricker to go through a specific reaction mechanism.
+Encore une fois, il est facile de faire des analogies avec la danse ou la cour de récréation
+, et plus délicat de passer par un mécanisme de réaction spécifique.
+
+So let's look at what happens if we do a substitution
+reaction with (R)-2-iodobutane, a chiral substrate.
+Regardons donc ce qui se passe si nous faisons une
+réaction de substitution avec du (R)-2-iodobutane, un substrat chiral.
+
+Our nucleophile involves a sulfur atom, which attacks the substrate and kicks out our leaving group, the iodine, in one mighty swoop.
+Notre nucléophile implique un atome de soufre, qui attaque le substrat et expulse notre groupe partant, l'iode, d'un seul coup.
+
+And if we look at the energy diagram for this
+reaction, we can see how it's a concerted reaction:
+Et si nous regardons le diagramme d'énergie de cette
+réaction, nous pouvons voir comment c'est une réaction concertée :
+
+there's one big hill without any
+intermediates.
+il y a une grande colline sans aucun
+intermédiaire.
+
+So even though SN1 and SN2 mechanisms have
+similar names,
+Ainsi, même si les mécanismes SN1 et SN2 ont
+des noms similaires,
+
+the pathways are pretty different when you look closely, especially at experimental evidence.
+les voies sont assez différentes quand on regarde de près, en particulier les preuves expérimentales.
+
+For instance, when chemists experimentally
+tested reaction rates,
+Par exemple, lorsque les chimistes ont
+testé expérimentalement les taux de réaction,
+
+they learned that SN1 only depends on the concentration of substrate and SN2 depends on both the substrate and the nucleophile.
+ils ont appris que SN1 dépend uniquement de la concentration du substrat et que SN2 dépend à la fois du substrat et du nucléophile.
+
+And we know that tertiary substrates work
+better for SN1 but they don’t do SN2 at all.
+Et nous savons que les substrats tertiaires fonctionnent
+mieux pour SN1 mais ils ne font pas du tout SN2.
+
+Nucleophiles can't squeeze in, do a backside
+attack, and force a whole inside-out umbrella flip on a super bulky tertiary substrate.
+Les nucléophiles ne peuvent pas se faufiler, faire une
+attaque à l'envers et forcer tout un parapluie à l'envers sur un substrat tertiaire super volumineux.
+
+The substrate has to lose its leaving group
+and flatten out first.
+Le substrat doit d'abord perdre son groupe partant
+et s'aplatir.
+
+All the details of substitution reactions
+can be tricky,
+Tous les détails des réactions de substitution
+peuvent être délicats,
+
+so let's summarize everything we've learned about SN1 and SN2 mechanisms in a table, which we'll add to over the next few episodes.
+alors résumons tout ce que nous avons appris sur les mécanismes SN1 et SN2 dans un tableau, que nous ajouterons au cours des prochains épisodes.
+
+And now, let's finish by looking at an important
+SN2 mechanism in medicine.
+Et maintenant, terminons en examinant un
+mécanisme SN2 important en médecine.
+
+We can apply everything we’ve learned about
+substitution reactions to the example we started with: 
+Nous pouvons appliquer tout ce que nous avons appris sur
+les réactions de substitution à l'exemple avec lequel nous avons commencé :
+
+DNA and nitrogen mustard, or mechlorethamine.
+ADN et moutarde à l'azote, ou méchloréthamine.
+
+The nucleophile and the leaving group are
+on the same molecule,
+Le nucléophile et le groupe partant sont
+sur la même molécule,
+
+but it's still a substitution reaction because it involves those three key things!
+mais il s'agit toujours d'une réaction de substitution car elle implique ces trois éléments clés !
+
+First, we have an intramolecular SN2 reaction,
+where the nucleophilic nitrogen attacks by chlorine, 
+Premièrement, nous avons une réaction SN2 intramoléculaire,
+où l'azote nucléophile attaque par le chlore,
+
+the leaving group on the chain attached
+to the nitrogen.
+le groupe partant de la chaîne attachée
+à l'azote.
+
+This forms a three-membered ring with the
+nitrogen,
+Celui-ci forme un cycle à trois chaînons avec l'
+azote,
+
+basically the nitrogen equivalent of the epoxide molecule we saw in episode 17.
+essentiellement l'équivalent azoté de la molécule d'époxyde que nous avons vue dans l'épisode 17.
+
+Then, another nucleophile saunters in: the
+DNA molecule!
+Puis, un autre nucléophile débarque : la
+molécule d'ADN !
+
+The nitrogen on one of the nitrogenous bases
+of DNA does an SN2 reaction,
+L'azote sur l'une des bases azotées
+de l'ADN effectue une réaction SN2, se
+
+attaching to nitrogen mustard, and opening up the strained
+three-membered ring.
+fixant à la moutarde à l'azote et ouvrant le
+cycle à trois chaînons tendu.
+
+Finally, the whole process repeats with the
+paired strand of DNA, linking them together.
+Enfin, l'ensemble du processus se répète avec le
+brin d'ADN apparié, les reliant ensemble.
+
+Thanks to these two substitution reactions, we have two DNA strands tangled up with our nitrogen mustard substrate.
+Grâce à ces deux réactions de substitution, nous avons deux brins d'ADN enchevêtrés avec notre substrat de moutarde à l'azote.
+
+This is what I mean by crosslinking!
+C'est ce que je veux dire par réticulation!
+
+It physically keeps these DNA strands from
+replicating, which means cell death…
+Il empêche physiquement ces brins d'ADN de se
+répliquer, ce qui signifie la mort cellulaire…
+
+and that's the basis of many chemotherapy treatments.
+et c'est la base de nombreux traitements de chimiothérapie.
+
+In this episode, we learned that:
+Dans cet épisode, nous avons appris que :
+
+An SN1 mechanism occurs through a carbocation
+intermediate and the stereochemistry can be the same configuration or inverted
+Un mécanisme SN1 se produit via un carbocation
+intermédiaire et la stéréochimie peut être la même configuration ou inversée
+
+An SN2 mechanism occurs through a concerted
+process and the stereochemistry is always inverted
+Un mécanisme SN2 se produit via un
+processus concerté et la stéréochimie est toujours inversée
+
+Tertiary substrates favor SN1 mechanisms,
+while secondary and primary substrates favor SN2
+Les substrats tertiaires favorisent les mécanismes SN1,
+tandis que les substrats secondaires et primaires  les substrats favorisent SN2
+
+And substitution reactions can be really powerful
+(good and bad) when it comes to DNA.
+Et les réactions de substitution peuvent être vraiment puissantes
+(bonnes et mauvaises) quand il s'agit d'ADN.
+
+Next time, we’ll get deeper into the reaction conditions that favor one substitution reaction mechanism over another and fill in more details in our table.
+La prochaine fois, nous approfondirons les conditions de réaction qui favorisent un mécanisme de réaction de substitution par rapport à un autre et fournirons plus de détails dans notre tableau.
+
+Until then, thanks for watching this episode
+of Crash Course Organic Chemistry.
+En attendant, merci d'avoir regardé cet épisode
+de Crash Course Organic Chemistry.
+
+If you want to help keep all Crash Course
+free for everybody, forever, you can join our community on Patreon.
+Si vous voulez aider à garder tous les cours intensifs
+gratuits pour tout le monde, pour toujours, vous pouvez rejoindre notre communauté sur Patreon.
+

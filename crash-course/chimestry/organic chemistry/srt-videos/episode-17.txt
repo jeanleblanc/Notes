@@ -1,0 +1,537 @@
+You can review content from Crash Course Organic
+Chemistry with the Crash Course app.
+Vous pouvez revoir le contenu du Crash Course Organic
+Chemistry avec l'application Crash Course.
+
+Available now for Android and iOS devices.
+Disponible dès maintenant pour les appareils Android et iOS.
+
+Hi!
+Salut! 
+
+I’m Deboki Chakravarti and welcome to Crash
+Course Organic Chemistry!
+Je suis Deboki Chakravarti et bienvenue au cours intensif de
+chimie organique !
+
+Oxidation-reduction reactions, also known as redox reactions, are all around us from charging a cell phone to avocados turning brown.
+Les réactions d'oxydo-réduction, également connues sous le nom de réactions redox, sont partout autour de nous, du chargement d'un téléphone portable aux avocats qui brunissent.
+
+And they happen inside of us too.
+Et ils se produisent aussi à l'intérieur de nous.
+
+Redox reactions let us strip electrons off the food we eat, and add them onto the oxygen we breathe to give us the energy we need to survive.
+Les réactions redox nous permettent d'enlever les électrons de la nourriture que nous mangeons et de les ajouter à l'oxygène que nous respirons pour nous donner l'énergie dont nous avons besoin pour survivre.
+
+Speaking of electrons, in Crash Course General Chemistry, we defined oxidation as the loss of electrons and reduction as the gain of electrons.
+En parlant d'électrons, dans Crash Course General Chemistry, nous avons défini l'oxydation comme la perte d'électrons et la réduction comme le gain d'électrons.
+
+Or as I remember it, LEO the lion says GER:
+Ou si je me souviens bien, LEO le lion dit GER :
+
+Losing Electrons is Oxidation and Gaining
+Electrons is Reduction.
+Perdre des électrons est une oxydation et gagner des
+électrons est une réduction.
+
+These rules are true for organic molecules, but it can sometimes be easier to track the number of carbon-oxygen bonds we gain or lose.
+Ces règles sont vraies pour les molécules organiques, mais il peut parfois être plus facile de suivre le nombre de liaisons carbone-oxygène que nous gagnons ou perdons.
+
+For example, the molecule methane can be oxidized by replacing carbon-hydrogen bonds with carbon-oxygen bonds until we get carbon dioxide, the most oxidized form of a single carbon atom.
+Par exemple, la molécule de méthane peut être oxydée en remplaçant les liaisons carbone-hydrogène par des liaisons carbone-oxygène jusqu'à ce que nous obtenions du dioxyde de carbone, la forme la plus oxydée d'un seul atome de carbone.
+
+On the flip side, carbon dioxide can be reduced
+by replacing oxygen atoms or oxygen-carbon bonds with hydrogen atoms.
+D'un autre côté, le dioxyde de carbone peut être réduit
+en remplaçant les atomes d'oxygène ou les liaisons oxygène-carbone par des atomes d'hydrogène.
+
+So, we can also define oxidation as gaining
+bonds to oxygen, and reduction as losing carbon-oxygen bonds.
+Ainsi, nous pouvons également définir l'oxydation comme l'acquisition de
+liaisons avec l'oxygène et la réduction comme la perte de liaisons carbone-oxygène.
+
+In this episode, we'll consider the oxidation and reduction reactions of alkenes, and see what types of oxygen-containing compounds we can make from alkenes.
+Dans cet épisode, nous examinerons les réactions d'oxydation et de réduction des alcènes et verrons quels types de composés contenant de l'oxygène nous pouvons fabriquer à partir d'alcènes.
+
+[Theme Music]
+[Thème musical]
+
+Oxidizing agents are molecules that oxidize
+organic compounds.
+Les agents oxydants sont des molécules qui oxydent
+les composés organiques.
+
+They accept electrons from the organic compound,
+and in the process, the reagents are reduced.
+Ils acceptent les électrons du composé organique
+et, ce faisant, les réactifs sont réduits.
+
+Oxidizing agents are usually the culprits behind multiple carbon-oxygen bonds forming from an alkene!
+Les agents oxydants sont généralement les coupables de la formation de multiples liaisons carbone-oxygène à partir d'un alcène !
+
+We'll see two types of oxidizing agents in
+this episode:
+Nous verrons deux types d'agents oxydants dans
+cet épisode :
+
+ones with oxygen-oxygen bonds, and ones with
+metal-oxygen bonds.
+ceux avec des liaisons oxygène-oxygène et ceux avec
+des liaisons métal-oxygène.
+
+Like we worked on last episode, a handy way to see patterns and predict products in addition reactions is by asking three key questions.
+Comme nous avons travaillé sur le dernier épisode, un moyen pratique de voir les modèles et de prédire les réactions des produits en plus consiste à poser trois questions clés.
+
+Our three-part secret handshake.
+Notre poignée de main secrète en trois parties.
+
+Question Number 1: What are we adding across
+the double bond?
+Question numéro 1 : Qu'ajoutons-nous à travers
+la double liaison ?
+
+Question Number 2: Where will the groups add
+on an asymmetrical molecule?
+Question numéro 2 : Où les groupes s'ajouteront-ils
+sur une molécule asymétrique ?
+
+In general, this question is asking about regioselectivity.
+En général, cette question porte sur la régiosélectivité.
+
+Markovinkov’s rule is an example of regioselectivity.
+La règle de Markovinkov est un exemple de régiosélectivité.
+
+And Question Number 3: What is the expected
+stereochemistry of the added groups?
+Et la question numéro 3 : Quelle est la
+stéréochimie attendue des groupes ajoutés ?
+
+If they're added to the same face of the alkene, it's syn addition, or if they're added to opposite faces, it's called anti addition.
+S'ils sont ajoutés à la même face de l'alcène, c'est une addition syn, ou s'ils sont ajoutés à des faces opposées, on parle d'anti addition.
+
+In this episode, we’ll look at these questions in the context of reactions that oxidize our alkene friends.
+Dans cet épisode, nous examinerons ces questions dans le contexte des réactions qui oxydent nos amis alcènes.
+
+We saw an example of an oxidizing agent at the end of episode 16 with hydroboration-oxidation, when hydrogen peroxide replaced the boron atom we added to the alkene.
+Nous avons vu un exemple d'oxydant à la fin de l'épisode 16 avec hydroboration-oxydation, lorsque le peroxyde d'hydrogène a remplacé l'atome de bore que nous avons ajouté à l'alcène.
+
+We can also use peroxides to perform a reaction
+called epoxidation.
+Nous pouvons également utiliser des peroxydes pour effectuer une réaction
+appelée époxydation.
+
+An epoxide is a three-membered ring with an
+oxygen, and we can make these from alkenes!
+Un époxyde est un cycle à trois chaînons avec un
+oxygène, et nous pouvons les fabriquer à partir d'alcènes !
+
+So Question One is pretty straightforward:
+La première question est donc assez simple : l'
+
+epoxidation adds one oxygen molecule across
+both atoms of the double bond.
+époxydation ajoute une molécule d'oxygène sur les
+deux atomes de la double liaison.
+
+Usually we do epoxidation by reacting an alkene
+with mCPBA, meta-chloroperoxybenzoic acid.
+Habituellement, nous procédons à l'époxydation en faisant réagir un alcène
+avec du mCPBA, l'acide méta-chloroperoxybenzoïque.
+
+You might see this reaction written out in
+a simplified way like this:
+Vous pourriez voir cette réaction écrite de
+manière simplifiée comme ceci :
+
+But if you draw everything out, you can see
+how mCPBA transfers one of its oxygen atoms in the process:
+Mais si vous extrayez tout, vous pouvez voir
+comment mCPBA transfère l'un de ses atomes d'oxygène dans le processus :
+
+To answer our other questions, we need to
+look at the reaction mechanism.
+Pour répondre à nos autres questions, nous devons
+examiner le mécanisme de réaction  .
+
+Like hydroboration, we have another concerted reaction that happens all at once -- so there's a lot of electron pushing to help us get to the transition state.
+Comme l'hydroboration, nous avons une autre réaction concertée qui se produit en même temps - il y a donc beaucoup d'électrons qui poussent pour nous aider à atteindre l'état de transition.
+
+In fact, if you can get this mechanism down,
+you’ll be doing great!
+En fait, si vous pouvez faire tomber ce mécanisme,
+vous vous en sortirez très bien !
+
+This reaction has some of the most complex
+arrow pushing we’ll see in a one-step organic reaction.
+Cette réaction a certaines des flèches les plus complexes que
+nous verrons dans une réaction organique en une étape.
+
+Basically, the alkene's double bond forms a strained bridge with the blue oxygen at the same time the other bonds break on mCPBA.
+Fondamentalement, la double liaison de l'alcène forme un pont tendu avec l'oxygène bleu en même temps que les autres liaisons se rompent sur mCPBA.
+
+I like to start with the double bonded oxygen
+in mCPBA, and attack the proton.
+J'aime commencer avec l'oxygène à double liaison
+dans le mCPBA et attaquer le proton.
+
+Then, I can use the electrons from the oxygen-hydrogen
+bond to attack the alkene.
+Ensuite, je peux utiliser les électrons de la liaison oxygène-hydrogène
+pour attaquer l'alcène.
+
+The alkene attacks back, and the bond to the
+blue oxygen that breaks forms a new carbonyl.
+L'alcène attaque en retour et la liaison à l'
+oxygène bleu qui se rompt forme un nouveau carbonyle.
+
+And the transition state looks like this.
+Et l'état de transition ressemble à ceci.
+
+Because we're only adding one atom and it's
+bridged, the answer to Question Two is…
+Parce que nous n'ajoutons qu'un seul atome et qu'il est
+ponté, la réponse à la question 2 est…
+
+it doesn't matter.
+cela n'a pas d'importance.
+
+Essentially the same group is added to each side.
+Essentiellement, le même groupe est ajouté de chaque côté.
+
+And because everything is all attached at once in a concerted reaction, if we look at the stereochemistry, we always have a syn addition.
+Et parce que tout est attaché à la fois dans une réaction concertée, si nous regardons la stéréochimie, nous avons toujours une addition syn.
+
+That's our answer to Question Three.
+C'est notre réponse à la troisième question.
+
+The oxygen bridge can form on either side of the double bond, so we get two different enantiomers as products in a racemic mixture,
+Le pont oxygène peut se former de chaque côté de la double liaison, nous obtenons donc deux énantiomères différents sous forme de produits dans un mélange racémique,
+
+which, as you might remember, means equal amounts of each one.
+ce qui, comme vous vous en souvenez peut-être, signifie des quantités égales de chacun.
+
+Overall, epoxidation has a pretty straightforward
+combo.
+Dans l'ensemble, l'époxydation a un combo assez simple
+.
+
+We can sum it up with another card.
+On peut résumer avec une autre carte.
+
+So now we know how to make an epoxide, which
+is a fun little ring shape!
+Alors maintenant, nous savons comment fabriquer un époxyde, qui
+est une petite forme d'anneau amusante !
+
+Earlier in this series we looked at the bond energy of cyclopropane, and learned that three-membered  rings have a lot of strain, so they're fairly unstable.
+Plus tôt dans cette série, nous avons examiné l'énergie de liaison du cyclopropane et avons appris que les cycles à trois chaînons ont beaucoup de contraintes, ils sont donc assez instables.
+
+And instability means the chance for some
+exciting chemical reactions.
+Et l'instabilité signifie la possibilité de
+réactions chimiques passionnantes.
+
+Specifically, we can use epoxides as a gateway
+to anti-dihydroxylation, a name that hints at the stereochemistry of this reaction:
+Concrètement, on peut utiliser les époxydes comme porte
+d'entrée vers l'anti-dihydroxylation, un nom qui fait allusion à la stéréochimie de cette réaction :
+
+spoiler alert, it's going to be anti addition.
+spoiler alert, ça va être anti addition.
+
+This name also hints at what we're going to
+end up with, two hydroxyl groups, also known as alcohol groups.
+Ce nom fait également allusion à ce avec quoi nous allons nous
+retrouver, deux groupes hydroxyle, également appelés groupes alcool.
+
+Yes, hydroxyl and alcohol are interchangeable,
+in case organic chemistry nomenclature wasn't tricky enough.
+Oui, l'hydroxyle et l'alcool sont interchangeables,
+au cas où la nomenclature de la chimie organique ne serait pas assez délicate.
+
+The anti-dihydroxylation reaction happens the same way for both enantiomers of an epoxide, so we’ll just look at one stereoisomer.
+La réaction d'anti-dihydroxylation se produit de la même manière pour les deux énantiomères d'un époxyde, nous n'examinerons donc qu'un seul stéréoisomère.
+
+Remember, a strong acid in water forms hydronium
+ions.
+N'oubliez pas qu'un acide fort dans l'eau forme des
+ions hydronium.
+
+So when we add aqueous hydrochloric acid to an epoxide, the nucleophilic oxygen will attack our electrophilic hydronium ion, which makes a positively charged oxonium ion.
+Ainsi, lorsque nous ajoutons de l'acide chlorhydrique aqueux à un époxyde, l'oxygène nucléophile attaque notre ion hydronium électrophile, qui produit un ion oxonium chargé positivement.
+
+This next step is where it gets fun.
+Cette prochaine étape est celle où ça devient amusant.
+
+A water molecule will swoop in as a nucleophile
+in an anti-attack and open the epoxide.
+Une molécule d'eau se précipitera en tant que nucléophile
+dans une anti-attaque et ouvrira l'époxyde.
+
+In this particular case, the water molecule
+can attack either of the epoxide carbons.
+Dans ce cas particulier, la molécule d'eau
+peut attaquer l'un ou l'autre des carbones époxydes.
+
+The final step of epoxide opening is that
+typical one-two punch pattern that happens under acidic conditions,
+La dernière étape de l'ouverture de l'époxyde est ce
+modèle typique de un-deux coups qui se produit dans des conditions acides,
+
+a water molecule adds first, and the oxonium
+ion we get is deprotonated by a second molecule of water.
+une molécule d'eau s'ajoute en premier, et l'ion oxonium que
+nous obtenons est déprotoné par une deuxième molécule d'eau.
+
+This makes the racemic mixture of 4,4-dimethylcyclohexan-1,2-diol.
+Cela rend le mélange racémique de 4,4-diméthylcyclohexan-1,2-diol.
+
+And that's it!
+Et c'est tout! 
+
+Here's our three-step summary of anti-dihydroxylation.
+Voici notre résumé en trois étapes de l'anti-dihydroxylation.
+
+The overall effect of the anti-dihydroxylation process is the addition of two alcohol groups on opposite sides of the substrate.
+L'effet global du processus anti-dihydroxylation est l'ajout de deux groupes alcool sur les côtés opposés du substrat.
+
+But if we wanted to add them to the same side we'd need a totally different reaction, logically called syn-dihydroxylation.
+Mais si nous voulions les ajouter du même côté, nous aurions besoin d'une réaction totalement différente, logiquement appelée syn-dihydroxylation.
+
+And we actually have two options for oxidizing
+agents here!
+Et nous avons en fait deux options pour les
+agents oxydants ici !
+
+Like fraternal twins, they're related but
+have some distinguishing features.
+Comme les jumeaux fraternels, ils sont liés mais
+ont des caractéristiques distinctives.
+
+One metal catalyst is osmium tetraoxide, which
+is a wonderful source of oxygen but also super toxic.
+Un catalyseur métallique est le tétraoxyde d'osmium, qui
+est une merveilleuse source d'oxygène mais aussi super toxique.
+
+It’s safer to use less of it, so we can add other oxidizing agents like tert-butyl peroxide or N-methylmorpholine-N-oxide (also known as NMO) into the reaction.
+Il est plus sûr d'en utiliser moins, nous pouvons donc ajouter d'autres agents oxydants comme le peroxyde de tert-butyle ou le N-méthylmorpholine-N-oxyde (également connu sous le nom de NMO) dans la réaction.
+
+NMO helps remake osmium tetraoxide over the
+reaction and lets us more safely use a catalytic amount of the toxic metal.
+NMO aide à refaire le tétraoxyde d'osmium au cours de la
+réaction et nous permet d'utiliser de manière plus sûre une quantité catalytique du métal toxique.
+
+The first step in this reaction is the formation
+of an osmate ester, which is why our hydroxyl groups end up syn.
+La première étape de cette réaction est la formation
+d'un ester d'osmate, c'est pourquoi nos groupes hydroxyle finissent syn.
+
+The osmium reagent approaches the double bond
+from one face.
+Le réactif à l'osmium s'approche de la double liaison
+par une face.
+
+In the reduction step, the sodium bisulfite
+binds to the osmate ester, and helps it break apart in water.
+Dans l'étape de réduction, le bisulfite de sodium
+se lie à l'ester d'osmate et l'aide à se décomposer dans l'eau.
+
+If we use osmium tetraoxide with NMO, the NMO does two things.
+Si nous utilisons du tétraoxyde d'osmium avec NMO, le NMO fait deux choses.
+
+It helps break up the osmate ester and gives up one of its oxygens to regenerate osmium tetraoxide, making the reaction catalytic in osmium.
+Il aide à briser l'ester d'osmate et cède l'un de ses oxygènes pour régénérer le tétraoxyde d'osmium, rendant la réaction catalytique dans l'osmium.
+
+The nitty-gritty of these reactions is inorganic
+chemistry and a little beyond the scope of this series.
+L'essentiel de ces réactions est la
+chimie inorganique et un peu au-delà de la portée de cette série.
+
+What's most important for this one is which
+reagents to use for syn-dihydroxylation and generally why they work.
+Le plus important pour celui-ci est de savoir quels
+réactifs utiliser pour la syn-dihydroxylation et généralement pourquoi ils fonctionnent.
+
+So with that in mind… the other twin, uh,
+reaction, happens in a similar way.
+Donc, avec cela à l'esprit… l'autre jumeau, euh, la
+réaction, se produit de la même manière.
+
+The metal catalyst involved in the first oxidation
+step is potassium permanganate.
+Le catalyseur métallique impliqué dans la première
+étape d'oxydation est le permanganate de potassium.
+
+And that second step needs cold, basic conditions
+like sodium hydroxide floating around in an icy cold solution.
+Et cette deuxième étape nécessite des conditions froides et basiques
+comme de l'hydroxyde de sodium flottant dans une solution glacée.
+
+And here’s our card to sum up syn-dihydroxylation.
+Et voici notre carte pour résumer la syn-dihydroxylation.
+
+Up until this point, we’ve been adding alcohol groups to alkenes which is all fine and good but lacks some drama, y'know?
+Jusqu'à présent, nous avons ajouté des groupes d'alcool aux alcènes, ce qui est très bien mais manque de drame, vous savez ?
+
+Sure, all chemical reactions are cool in their
+own unique ways, but so far we've left our carbon chains intact.
+Bien sûr, toutes les réactions chimiques sont cool à leur
+manière, mais jusqu'à présent, nous avons laissé nos chaînes de carbone intactes.
+
+What about something that blasts a molecule
+into smaller pieces?!
+Qu'en est-il de quelque chose qui fait exploser une molécule
+en plus petits morceaux ? !
+
+Entropy!
+Entropie !
+
+Turns out, we can oxidize an alkene and break
+the double bond completely using a reaction called ozonolysis.
+Il s'avère que nous pouvons oxyder un alcène et rompre
+complètement la double liaison en utilisant une réaction appelée ozonolyse.
+
+The name comes from our main reagent, ozone, and "lysis" which is Greek for breaking something down.
+Le nom vient de notre réactif principal, l'ozone, et "lyse" qui est le grec pour décomposer quelque chose.
+
+To understand how this happens let's look
+at the reaction mechanism!
+Pour comprendre comment cela se produit,
+regardons le mécanisme de réaction !
+
+The first step is our alkene reacting with
+ozone so it adds across the double bond.
+La première étape est notre alcène réagissant avec l'
+ozone afin qu'il s'ajoute à travers la double liaison.
+
+This makes an intermediate, which then breaks
+apart and rearranges into a molecule called an ozonide.
+Cela crée un intermédiaire, qui se décompose ensuite
+et se réorganise en une molécule appelée ozonide.
+
+After we've got an ozonide, the next step is a quick reduction reaction by adding DMS or zinc in acid -- the referees that break up the reactants!
+Après avoir obtenu un ozonide, la prochaine étape est une réaction de réduction rapide en ajoutant du DMS ou du zinc dans l'acide -- les arbitres qui décomposent les réactifs !
+
+And our products are two different molecules,
+each with a carbonyl group.
+Et nos produits sont deux molécules différentes,
+chacune avec un groupe carbonyle.
+
+Now these products might be a little hard to visualize, but we can think of ozonolysis as pair of oxidizing scissors that snips the double bond in half while adding a double bonded oxygen to each side.
+Maintenant, ces produits peuvent être un peu difficiles à visualiser, mais nous pouvons considérer l'ozonolyse comme une paire de ciseaux oxydants qui coupe la double liaison en deux tout en ajoutant un oxygène à double liaison de chaque côté.
+
+On paper, I draw an alkene in pencil, use an eraser to "snip" the double bond in the center, and then add in oxygen caps to both double bonded ends.
+Sur papier, je dessine un alcène au crayon, j'utilise une gomme pour "couper" la double liaison au centre, puis j'ajoute des bouchons d'oxygène aux deux extrémités à double liaison.
+
+Since we’re splitting the double bond in
+half in ozonolysis we don’t need a notecard.
+Puisque nous divisons la double liaison en
+deux dans l'ozonolyse, nous n'avons pas besoin d'une notecard.
+
+We don’t need to worry about stereochemistry
+and regiochemistry.
+Nous n'avons pas à nous soucier de la stéréochimie
+et de la régiochimie.
+
+Now we know lots of ways to oxidize alkenes,
+and we also need to learn how to reduce them.
+Nous connaissons maintenant de nombreuses façons d'oxyder les alcènes,
+et nous devons également apprendre à les réduire.
+
+Adding hydrogen across a double bond is called
+hydrogenation, and makes an alkane.
+L'ajout d'hydrogène à travers une double liaison s'appelle l'
+hydrogénation et produit un alcane.
+
+However, the activation energy needed to get the party started is really high because, other than the double bond, there aren't really any reactive sites in the alkene or molecular hydrogen…
+Cependant, l'énergie d'activation nécessaire pour démarrer la fête est très élevée car, à part la double liaison, il n'y a pas vraiment de sites réactifs dans l'alcène ou l'hydrogène moléculaire…
+
+they're pretty stable and boring as far as
+reactants go.
+ils sont assez stables et ennuyeux en ce qui concerne les
+réactifs. aller.
+
+So to help a hydrogenation reaction along,mwe need a catalyst to lower the activation energy -- usually a metal, like platinum or palladium.
+Donc, pour aider une réaction d'hydrogénation, nous avons besoin d'un catalyseur pour abaisser l'énergie d'activation - généralement un métal, comme le platine ou le palladium.
+
+First, the hydrogen forms a complex with the
+surface of the metal.
+Tout d'abord, l'hydrogène forme un complexe avec la
+surface du métal.
+
+The alkene approaches the metal-hydrogen complex,
+and hydrogen is added with its electrons across the double bond.
+L'alcène se rapproche du complexe métal-hydrogène
+et l'hydrogène est ajouté avec ses électrons à travers la double liaison.
+
+The alkene gains electrons, so it’s reduced, and the metal surface makes the hydrogens add to one face -- a syn addition!
+L'alcène gagne des électrons, il est donc réduit, et la surface métallique fait que les hydrogènes s'ajoutent à une face - une addition syn !
+
+Here’s our hydrogenation notecard.
+Voici notre notecard d'hydrogénation.
+
+In the past few episodes, we've talked about a lot of different reactions involving alkenes, building intuition about products along the way.
+Au cours des derniers épisodes, nous avons parlé de nombreuses réactions différentes impliquant des alcènes, créant ainsi une intuition sur les produits en cours de route.
+
+But, let's face it, in organic chemistry we
+need tons of practice.
+Mais, avouons-le, en chimie organique, nous avons
+besoin de beaucoup de pratique.
+
+One way of practicing is filling in a wheel
+of chemical reactions to see how they're all connected!
+Une façon de pratiquer consiste à remplir une roue
+de réactions chimiques pour voir comment elles sont toutes liées !
+
+Basically taping all our reaction mechanisms
+together into one big map of The Island of Alkenes.
+Fondamentalement, enregistrer tous nos mécanismes de réaction
+sur une seule grande carte de l'île d'Alkenes.
+
+You can pause the screen here if you want
+to take notes!
+Vous pouvez mettre l'écran en pause ici si vous
+souhaitez prendre des notes !
+
+Here's the reaction wheel our team drew up
+with 1-methylcyclohex-1-ene in the center….
+Voici la roue de réaction que notre équipe a tracée
+avec le 1-méthylcyclohex-1-ène au centre….
+
+Look at all we've learned in the past few
+episodes alone!
+Regardez tout ce que nous avons appris au cours des derniers
+épisodes !
+
+And there's still so many exciting things
+to come.
+Et il y a encore tellement de choses passionnantes
+à venir.
+
+But in this episode, we:
+Mais dans cet épisode, nous avons :
+
+Learned about oxidation (the addition of oxygen)
+and reduction (the addition of hydrogen) in relation to organic molecules
+Appris l'oxydation (l'ajout d'oxygène)
+et la réduction (l'ajout d'hydrogène) en relation avec les molécules organiques
+
+Added two alcohol groups to an alkene, both
+syn and anti
+Ajouté deux groupes alcool à un alcène, à la fois
+syn et anti
+
+And used ozonolysis to cleave a double bond
+Et utilisé l'ozonolyse pour cliver une double liaison
+
+All our reaction knowledge will keep building, and we'll even see some familiar reagents next time when we explore reduction reactions with alkynes!
+Tous  nos connaissances sur les réactions continueront à se développer, et nous verrons même des réactifs familiers la prochaine fois lorsque nous explorerons les réactions de réduction avec les alcynes !
+
+Thanks for watching this episode of Crash
+Course Organic Chemistry.
+Merci d'avoir regardé cet épisode de Crash
+Course Organic Chemistry.
+
+If you want to help keep all Crash Course free for everybody, forever, you can join our community on Patreon.
+Si vous voulez aider à garder tous les cours intensifs gratuits pour tout le monde, pour toujours, vous pouvez rejoindre notre communauté sur Patreon.
+

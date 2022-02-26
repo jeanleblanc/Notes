@@ -1,0 +1,775 @@
+In 1912, the Titanic set off for her maiden
+voyage across the Atlantic Ocean.
+En 1912, le Titanic partit pour son
+voyage inaugural à travers l'océan Atlantique.
+
+The ship’s builders were convinced that
+even in the most disastrous collision at sea,
+Les constructeurs du navire étaient convaincus que
+même dans la collision la plus désastreuse en mer,
+
+the ship could float for two to three days,
+enough time for nearby ships to come to its rescue.
+le navire pouvait flotter pendant deux à trois jours,
+suffisamment de temps pour que les navires à proximité viennent à son secours.
+
+But on April 14th, the Titanic struck a massive
+iceberg and in just three short hours the ship had sunk.
+Mais le 14 avril, le Titanic a heurté un énorme
+iceberg et en seulement trois petites heures, le navire a coulé.
+
+The collision fractured the ship’s hull,
+cracking it like a china plate, as well as 
+shearing off the rivets holding it in place.
+La collision a fracturé la coque du navire, la
+fissurant comme une assiette en porcelaine, ainsi que
+cisaillant les rivets qui la maintenaient en place.
+
+And as we all know, it was an absolute disaster.
+Et comme nous le savons tous, ce fut un désastre absolu.
+
+One of our most important tasks as engineers
+is to try and avert catastrophes like these.
+L'une de nos tâches les plus importantes en tant qu'ingénieurs
+est d'essayer d'éviter des catastrophes comme celles-ci.
+
+You see, when it comes to structures, tools
+and equipment, we need to make sure they’re
+made of the right stuff.
+Vous voyez, lorsqu'il s'agit de structures, d'outils
+et d'équipements, nous devons nous assurer qu'ils sont
+faits de la bonne matière.
+
+That means taking a closer look at the materials
+they’re made of.
+Cela signifie examiner de plus près les matériaux dont
+ils sont faits.
+
+So this episode is really going to test your,
+uh mettle.
+Donc cet épisode va vraiment tester votre
+courage.
+
+[Theme Music]
+[Thème musical]
+
+If a material exists, there’s a pretty good
+chance an engineer has thought about using
+it at some point.
+Si un matériau existe, il y a de fortes
+chances qu'un ingénieur ait pensé à l'
+utiliser à un moment donné.
+
+As far back as two and a half million years ago, early
+humans were using the materials around them, primarily
+stone and wood, to build tools like hammers and axes.
+Il y a deux millions et demi d'années déjà, les premiers
+humains utilisaient les matériaux qui les entouraient, principalement la
+pierre et le bois, pour fabriquer des outils comme des marteaux et des haches.
+
+These days, we’ve developed totally new
+materials.
+Ces jours-ci, nous avons développé des matériaux totalement nouveaux
+.
+
+There’s aerogel, for example, which is an
+ultra-light substance that can withstand high
+temperatures.
+Il y a l'aérogel, par exemple, qui est une
+substance ultra-légère qui peut résister à des
+températures élevées.
+
+Not to mention graphene, a one-atom-thick sheet
+of carbon atoms that’s stronger than steel and
+superb at conducting heat and electricity.
+Sans parler du graphène, une feuille
+d'atomes de carbone d'une épaisseur d'un atome, plus résistante que l'acier et
+excellente conductrice de chaleur et d'électricité.
+
+While those advanced materials might be used more
+widely in the future, today, most materials that engineers
+work with can be categorized into three groups.
+Alors que ces matériaux avancés pourraient être utilisés plus
+largement à l'avenir, aujourd'hui, la plupart des matériaux avec lesquels les ingénieurs
+travaillent peuvent être classés en trois groupes.
+
+Metals and their alloys; ceramics and glass;
+and polymers.
+Métaux et leurs alliages;  céramique et verre;
+et polymères.
+
+Which material is best suited for a job depends
+on its properties, and how those properties 
+affect it in practice.
+Le matériau le mieux adapté à un travail dépend
+de ses propriétés et de la manière dont ces propriétés l'
+affectent dans la pratique.
+
+More specifically, whatever we’re using, it’s
+vital to know the material’s mechanical properties.
+Plus précisément, peu importe ce que nous utilisons, il est
+essentiel de connaître les propriétés mécaniques du matériau.
+
+Mechanical properties relate to how a material’s
+shape changes when a force is applied to it.
+Les propriétés mécaniques se rapportent à la façon dont la
+forme d'un matériau change lorsqu'une force lui est appliquée.
+
+To make better sense of this, it helps to
+have a concrete example in mind.
+Pour mieux comprendre cela, il est utile d'
+avoir un exemple concret en tête.
+
+But we’re not actually going to use concrete.
+At least not yet.
+Mais nous n'allons pas vraiment utiliser de béton.
+Au moins pas encore. 
+
+Instead, we’ll consider a steel beam, like
+the kind widely used in civil engineering
+and construction.
+Au lieu de cela, nous considérerons une poutre en acier, comme
+celle largement utilisée dans le génie civil
+et la construction.
+
+Of course, we could make beams out of all
+kinds of materials, and the resulting beams would
+have different properties.
+Bien sûr, nous pourrions fabriquer des poutres à partir de toutes
+sortes de matériaux, et les poutres résultantes
+auraient des propriétés différentes.
+
+But no matter what you’re making them
+out of, there’s one important thing to know:
+no material is perfectly rigid.
+Mais peu importe de quoi vous les
+faites, il y a une chose importante à savoir :
+aucun matériau n'est parfaitement rigide.
+
+As long as you apply a large enough force,
+a beam will deform and change shape, even
+if only internally.
+Tant que vous appliquez une force suffisamment importante,
+une poutre se déformera et changera de forme, même
+si ce n'est qu'en interne.
+
+Some things you encounter in everyday life
+might seem totally rigid because the change
+in shape is so small.
+Certaines choses que vous rencontrez dans la vie quotidienne
+peuvent sembler totalement rigides car le changement
+de forme est si petit.
+
+But when that stops being the case, it can
+have dramatic consequences.
+Mais lorsque cela cesse d'être le cas, cela peut
+avoir des conséquences dramatiques.
+
+Something that all engineers aim to avoid
+is failure .
+Quelque chose que tous les ingénieurs visent à éviter
+est l'échec.
+
+Not in the sense of whether or not you do
+things exactly right all the time.
+Pas dans le sens de savoir si oui ou non vous faites les
+choses exactement comme il faut tout le temps.
+
+Even engineers aren’t perfect, and sometimes
+we get things a little wrong.
+Même les ingénieurs ne sont pas parfaits, et parfois
+nous nous trompons un peu.
+
+It’s all part of the learning process.
+Tout cela fait partie du processus d'apprentissage.
+
+When it comes to materials, the word ‘failure’
+describes the point at which a material breaks.
+En ce qui concerne les matériaux, le mot « défaillance »
+décrit le point auquel un matériau se brise.
+
+And unlike messing up a few problems on
+your math homework, this is the kind of failure
+that isn’t worth the learning opportunity!
+Et contrairement à gâcher quelques problèmes sur
+vos devoirs de mathématiques, c'est le genre d'échec
+qui ne vaut pas l'opportunité d'apprendre !
+
+In a system like a car, where everything depends
+on the structural integrity of the materials, the
+outcome could be fatal.
+Dans un système comme une voiture, où tout dépend
+de l'intégrité structurelle des matériaux, l'
+issue pourrait être fatale.
+
+So to prevent critically dangerous situations,
+engineers characterize a material’s mechanical
+properties so they can prevent it from failing.
+Ainsi, pour prévenir les situations extrêmement dangereuses, les
+ingénieurs caractérisent les propriétés mécaniques d'un matériau
+afin de l'empêcher de tomber en panne.
+
+If you’re using a beam to construct a building,
+those properties are crucial for keeping the
+structure standing tall.
+Si vous utilisez une poutre pour construire un bâtiment,
+ces propriétés sont cruciales pour maintenir la
+structure debout.
+
+This is where stress comes in.
+C'est là que la contrainte entre en jeu.
+
+We touched on what stress means in an engineering
+context when we looked at fluids: it’s the force
+applied over a particular area of the material.
+Nous avons abordé ce que signifie la contrainte dans un
+contexte d'ingénierie lorsque nous avons examiné les fluides : c'est la force
+appliquée sur une zone particulière du matériau.
+
+We can apply this type of stress to our beam
+in three distinct ways:
+Nous pouvons appliquer ce type de contrainte à notre poutre
+de trois manières distinctes :
+
+There’s compressive stress, which pushes
+in on the ends of a material.
+Il y a une contrainte de compression, qui
+pousse sur les extrémités d'un matériau.
+
+Then there’s tensile stress, which stretches
+and potentially elongates it.
+Ensuite, il y a la contrainte de traction, qui l'étire
+et l'allonge potentiellement.
+
+And finally, there’s shear stress, where
+you push sideways on a material in opposite
+directions.
+Et enfin, il y a la contrainte de cisaillement, où
+vous poussez latéralement sur un matériau dans des
+directions opposées.
+
+To measure the effects of this stress on our
+beam, we look at its strain.
+Pour mesurer les effets de cette contrainte sur notre
+poutre, nous regardons sa déformation.
+
+Strain is how much the beam’s length changes
+in a particular direction.
+La contrainte est la mesure dans laquelle la longueur du faisceau change
+dans une direction particulière.
+
+When we were discussing stresses on liquids, the
+level of deformity was linked to the liquid’s viscosity:
+how easily it flowed in response to pressure.
+Lorsque nous parlions des contraintes sur les liquides, le
+niveau de déformation était lié à la viscosité du liquide :
+la facilité avec laquelle il s'écoulait en réponse à la pression.
+
+In a materials context, the level of deformity
+is a little more complicated.
+Dans un contexte matériel, le niveau de déformation
+est un peu plus compliqué.
+
+But like so many things in engineering, visualizing
+it as a graph can help.
+Mais comme tant de choses en ingénierie, la
+visualiser sous forme de graphique peut aider.
+
+Let’s take the beam and put it in an extensometer, a piece of equipment with an awesome name that will apply tensile strength to the beam and measure its strain.
+Prenons la poutre et plaçons-la dans un extensomètre, un équipement au nom génial qui appliquera la résistance à la traction à la poutre et mesurera sa déformation.
+
+To graph what’s happening, we’ll put the
+level of stress we’re applying, represented by
+the greek letter ‘sigma,’ on the vertical axis.
+Pour représenter graphiquement ce qui se passe, nous placerons le
+niveau de stress que nous appliquons, représenté par
+la lettre grecque « sigma », sur l'axe vertical.
+
+Then we’ll put the strain on the horizontal
+axis.
+Ensuite, nous allons mettre la contrainte sur l'
+axe horizontal.
+
+When the stress we’re applying is perpendicular
+to the ends of the beam, as in the extensometer,
+Lorsque la contrainte que nous appliquons est perpendiculaire
+aux extrémités de la poutre, comme dans l'extensomètre,
+
+the resulting change in length is called the
+normal strain.
+le changement de longueur qui en résulte est appelé la
+contrainte normale.
+
+That’s represented with the letter ‘epsilon.’
+Cela est représenté par la lettre "epsilon".
+
+As we increase the stress on the object, the
+material will begin to display signs of strain,
+changing its length.
+Au fur et à mesure que nous augmentons la pression sur l'objet, le
+matériau commence à montrer des signes de tension,
+modifiant sa longueur.
+
+The amount of stress a material is subjected to before
+it undergoes a particular amount of strain –
+La quantité de contrainte à laquelle un matériau est soumis avant
+qu'il ne subisse une contrainte particulière -
+
+in other words, the slope of the line – is
+known as the modulus of elasticity.
+en d'autres termes, la pente de la ligne - est
+connue sous le nom de module d'élasticité.
+
+That quantity is a measure of how resistant
+our material is to bending and stretching.
+Cette quantité est une mesure de la résistance de
+notre matériau à la flexion et à l'étirement.
+
+The closer the line is to vertical, the higher
+the modulus.
+Plus la ligne est proche de la verticale, plus
+le module est élevé.
+
+To make sense of the units here, stress is
+measured in gigapascals because it’s a force
+applied over an area,
+Pour donner un sens aux unités ici, la contrainte est
+mesurée en gigapascals car il s'agit d'une force
+appliquée sur une zone,
+
+which gives it the same dimensions as pressure.
+ce qui lui donne les mêmes dimensions que la pression.
+
+Strain, meanwhile, is a ratio of two lengths,
+so it’s a dimensionless quantity – it has no units.
+La déformation, quant à elle, est un rapport de deux longueurs,
+c'est donc une quantité sans dimension - elle n'a pas d'unités.
+
+Putting that all together, the modulus of
+elasticity has units of gigapascals.
+En mettant tout cela ensemble, le module d'
+élasticité a des unités de gigapascals.
+
+But what does the modulus actually mean?
+Mais que signifie réellement le module ?
+
+Let’s compare beams made of two different
+materials: rubber and concrete.
+Comparons des poutres faites de deux
+matériaux différents : le caoutchouc et le béton.
+
+Rubber has a modulus of elasticity of just 0.01
+gigapascals, while concrete has a modulus of 30.
+Le caoutchouc a un module d'élasticité de seulement 0,01
+gigapascals, tandis que le béton a un module de 30.
+
+That means for a given amount of stress applied
+to each material, the rubber will have a proportional
+change in length 3,000 times that of the concrete!
+Cela signifie que pour une quantité donnée de contrainte appliquée
+à chaque matériau, le caoutchouc aura un
+changement de longueur proportionnel de 3 000 fois celui du béton !
+
+That’s not surprising, right?
+Ce n'est pas surprenant, non?
+
+We know it’s easier to stretch rubber than
+concrete.
+Nous savons qu'il est plus facile d'étirer le caoutchouc que le
+béton.
+
+So the modulus of elasticity, which you can
+measure from the stress-strain diagram,
+Ainsi, le module d'élasticité, que vous pouvez
+mesurer à partir du diagramme contrainte-déformation,
+
+gives you an idea of how much the material
+resists a change in shape under an applied stress.
+vous donne une idée de la résistance du matériau
+à un changement de forme sous une contrainte appliquée.
+
+For example, in units of gigapascals, the
+modulus of glass is around 50, while brass
+is around 100.
+Par exemple, en unités de gigapascals, le
+module du verre est d'environ 50, tandis que le laiton
+est d'environ 100. L'
+
+Steel is higher still, at around 200, while
+diamond clocks in at a whopping 1,220 gigapascals!
+acier est encore plus élevé, à environ 200, tandis que le
+diamant se situe à 1 220 gigapascals !
+
+So far, all the lines on the stress-strain
+diagram have been straight, with constant slopes.
+Jusqu'à présent, toutes les lignes du diagramme contrainte-déformation
+étaient droites, avec des pentes constantes.
+
+But as you apply even more stress, that relationship
+breaks down, and the material will begin to deform and
+stretch along its cross section as well as its length.
+Mais à mesure que vous appliquez encore plus de contraintes, cette relation se
+rompt et le matériau commence à se déformer et à
+s'étirer le long de sa section transversale ainsi que de sa longueur.
+
+We call that point the yield stress.
+Nous appelons ce point la limite d'élasticité.
+
+For example, apply enough tensile strength to a bar
+of clay and eventually it gets thinner in the middle as it
+stretches to meet the demands of high tensile stress.
+Par exemple, appliquez suffisamment de résistance à la traction à une barre
+d'argile et elle finit par s'amincir au milieu à mesure qu'elle
+s'étire pour répondre aux exigences d'une contrainte de traction élevée.
+
+Finally, if we apply enough tensile stress, the
+material breaks apart entirely and undergoes failure.
+Enfin, si nous appliquons une contrainte de traction suffisante, le
+matériau se brise entièrement et subit une rupture.
+
+And the exact same thing can happen to our
+steel beam, too!
+Et la même chose peut arriver à notre
+poutre en acier !
+
+The stress-strain curve tells you about another
+important property for avoiding failure and determining
+a material’s suitability: its toughness.
+La courbe contrainte-déformation vous renseigne sur une
+autre propriété importante pour éviter les défaillances et déterminer
+l'adéquation d'un matériau : sa ténacité.
+
+A material’s toughness is the amount of
+energy it can absorb before it undergoes failure.
+La ténacité d'un matériau est la quantité d'
+énergie qu'il peut absorber avant de subir une rupture.
+
+On our diagram, that’s represented by the
+total area under the curve for the material,
+from the origin to the failure point.
+Sur notre diagramme, cela est représenté par la
+surface totale sous la courbe du matériau,
+de l'origine au point de rupture.
+
+If you know a bit of calculus, you’ll recognise
+this as the integral of the stress-strain curve.
+Si vous connaissez un peu le calcul, vous le
+reconnaîtrez comme l'intégrale de la courbe contrainte-déformation.
+
+Toughness isn’t the same as strength, though!
+La ténacité n'est pas la même chose que la force, cependant!
+
+A material might be very strong, with a very
+high modulus of elasticity, but break after only
+a small amount of strain.
+Un matériau peut être très résistant, avec un
+module d'élasticité très élevé, mais se casser après seulement
+une petite quantité de déformation.
+
+On the other hand, a material might be able
+to strain a long distance without breaking,
+D'un autre côté, un matériau peut être capable
+de se déformer sur une longue distance sans se casser,
+
+but have a very low modulus of elasticity,
+like Play-Doh.
+mais avoir un module d'élasticité très faible,
+comme Play-Doh.
+
+Toughness is a balance between the two.
+La robustesse est un équilibre entre les deux.
+
+And while a tough material might be useful
+for making the foundations of a building,
+Et bien qu'un matériau résistant puisse être utile
+pour faire les fondations d'un bâtiment,
+
+in other applications it might be something
+you want to avoid!
+dans d'autres applications, cela pourrait être quelque chose que
+vous voudriez éviter !
+
+For example, by adding carbon to the steel
+beam, you can give it a greater yield stress.
+Par exemple, en ajoutant du carbone à la
+poutre en acier, vous pouvez lui donner une plus grande limite d'élasticité.
+
+It barely deforms under a single impact, but
+that also makes it more brittle.
+Il se déforme à peine sous un seul impact, mais
+cela le rend également plus cassant.
+
+Meanwhile, low carbon steel has a low modulus
+of elasticity, it will deform much more quickly
+Pendant ce temps, l'acier à faible teneur en carbone a un faible module
+d'élasticité, il se déformera beaucoup plus rapidement
+
+because it has a low yield stress, but that
+makes it more ductile, so it’s more useful
+for shaping and welding.
+car il a une faible limite d'élasticité, mais cela le
+rend plus ductile, il est donc plus utile
+pour le façonnage et le soudage.
+
+But neither of those options maximizes the
+toughness of steel!
+Mais aucune de ces options ne maximise la
+ténacité de l'acier !
+
+Toughness would be finding the middle ground
+where you maximize the area under the curve,
+La ténacité serait de trouver le terrain d'entente
+où vous maximisez la zone sous la courbe, de
+
+so the steel is able to absorb as much energy
+as possible before fracturing.
+sorte que l'acier soit capable d'absorber autant d'énergie
+que possible avant de se fracturer.
+
+A measurement that comes in handy for measuring
+this is the Charpy impact test,
+Une mesure utile pour mesurer
+cela est le test d'impact Charpy,
+
+which tells us the toughness of our material by
+whacking it with a hammer.
+qui nous indique la ténacité de notre matériau en le
+frappant avec un marteau.
+
+No, seriously.
+Non sérieusement. 
+
+The Charpy test measures toughness by taking
+a small sample of material and striking it with a
+hammer on a pendulum and trying to break it.
+Le test Charpy mesure la ténacité en prenant
+un petit échantillon de matériau et en le frappant avec un
+marteau sur un pendule et en essayant de le casser.
+
+The height you drop the hammer from and
+the height that the hammer swings up to after
+smashing through the material
+La hauteur à partir de laquelle vous laissez tomber le marteau et
+la hauteur à laquelle le marteau oscille après avoir
+brisé le matériau
+
+can determine how much energy the
+hammer lost breaking the sample.
+peuvent déterminer la quantité d'énergie que le
+marteau a perdue en cassant l'échantillon.
+
+And that tells you how tough the material
+is.
+Et cela vous indique à quel point le matériau
+est résistant.
+
+While not all material tests are quite as
+fun to perform,
+Bien que tous les tests de matériaux ne soient pas aussi
+amusants à réaliser,
+
+there are lots of different mechanical properties to
+consider in materials that could make them totally
+great for the job at hand or just completely useless.
+il existe de nombreuses propriétés mécaniques différentes à
+prendre en compte dans les matériaux qui pourraient les rendre totalement
+parfaits pour le travail à accomplir ou tout simplement complètement inutiles.
+
+For example, there’s hardness, which is
+how much your material deforms in a particular
+location – that is, how easily you can dent it.
+Par exemple, il y a la dureté, c'est-à-dire à
+quel point votre matériau se déforme à un
+endroit particulier, c'est-à-dire avec quelle facilité vous pouvez le bosseler.
+
+Measuring hardness is simple enough: you use
+a device called an indenter to apply a localized load
+to your material and see how much it gets dented.
+La mesure de la dureté est assez simple : vous utilisez
+un appareil appelé pénétrateur pour appliquer une charge localisée
+à votre matériau et voir à quel point il est bosselé.
+
+Pretty straightforward!
+Assez simple! 
+
+Another mechanical property which can be a
+good or a bad thing, depending on the situation,
+is creep strength.
+Une autre propriété mécanique qui peut être une
+bonne ou une mauvaise chose, selon la situation,
+est la résistance au fluage.
+
+Which thankfully has nothing to do with the
+Minecraft monster.
+Qui heureusement n'a rien à voir avec le
+monstre Minecraft.
+
+Creep strength is how much a material resists
+deforming or, to use the engineering term, resists creep
+under long term stress or extreme temperatures.
+La résistance au fluage est la résistance à la déformation d'un matériau
+ou, pour utiliser le terme d'ingénierie, résiste au fluage
+sous une contrainte à long terme ou à des températures extrêmes.
+
+In some cases, a low creep is a good thing.
+Dans certains cas, un faible fluage est une bonne chose.
+
+In the blades of a propellor, too much creep
+could elongate the blades and make them hit
+the casing, damaging them.
+Dans les pales d'une hélice, trop de fluage
+pourrait allonger les pales et les faire heurter
+le carter, les endommageant.
+
+But in a concrete structure, some amount
+of creep can be useful since it prevents the
+concrete from cracking outright.
+Mais dans une structure en béton, une certaine quantité
+de fluage peut être utile car elle empêche le
+béton de se fissurer complètement.
+
+There’s also fatigue strength, which measures
+how many times a material can endure a certain
+amount of stress before it fails.
+Il y a aussi la résistance à la fatigue, qui mesure
+combien de fois un matériau peut supporter une certaine
+quantité de stress avant de tomber en panne.
+
+Sometimes even applying small loads of stress
+well below the yield stress still leaves tiny impacts,
+like microscopic cracks in the material.
+Parfois, même l'application de petites charges de contrainte
+bien inférieures à la limite d'élasticité laisse encore de minuscules impacts,
+comme des fissures microscopiques dans le matériau.
+
+If that small amount of stress is applied
+repetitively, the cracks can deepen and spread in
+the material until they eventually cause fracture.
+Si cette petite quantité de contrainte est appliquée de manière
+répétitive, les fissures peuvent s'approfondir et se propager dans
+le matériau jusqu'à ce qu'elles finissent par provoquer une fracture.
+
+As you’d expect, a material might be able
+handle lots of little bits of stress applied
+to it over time before it fractures.
+Comme vous vous en doutez, un matériau peut être capable de
+supporter de nombreuses petites contraintes qui lui sont appliquées
+au fil du temps avant de se fracturer.
+
+But it might only survive failure under a
+few large stresses.
+Mais il pourrait ne survivre à l'échec que sous
+quelques contraintes importantes.
+
+The fatigue strength is the highest possible
+stress a material can withstand a given number
+of times before undergoing failure.
+La résistance à la fatigue est la contrainte la plus élevée possible
+qu'un matériau peut supporter un certain nombre
+de fois avant de subir une rupture.
+
+Of course, hardness, creep strength, and fatigue
+strength are just some of a material’s mechanical
+properties.
+Bien sûr, la dureté, la résistance au fluage et la résistance à la fatigue ne
+sont que quelques-unes des propriétés mécaniques d'un matériau
+.
+
+We might also need to consider how the surface
+of our chosen material reacts with its environment,
+Nous pourrions également avoir besoin de considérer comment la surface
+de notre matériau choisi réagit avec son environnement,
+
+how much it costs to produce and obtain, and
+even what it looks like.
+combien il en coûte pour produire et obtenir, et
+même à quoi il ressemble.
+
+And while all of those are important, it isn’t
+much use considering those other properties
+Et bien que tout cela soit important, il n'est pas
+très utile de prendre en compte ces autres propriétés
+
+until you’re sure the material is mechanically
+up to the task of handling the stresses and
+strains the world is gonna throw its way.
+tant que vous n'êtes pas sûr que le matériau est
+mécaniquement à la hauteur pour gérer les contraintes et les
+contraintes que le monde va lui infliger.
+
+And knowing about the the strengths of the
+materials you use will add to your strengths
+as an engineer.
+Et connaître les points forts des
+matériaux que vous utilisez ajoutera à vos points forts
+en tant qu'ingénieur.
+
+In this episode, we’ve started considering
+the materials that are used in engineering.
+Dans cet épisode, nous avons commencé à considérer
+les matériaux utilisés en ingénierie.
+
+We looked at mechanical properties of materials,
+which describe how much strain a material undergoes
+given a certain amount of stress.
+Nous avons examiné les propriétés mécaniques des matériaux,
+qui décrivent la quantité de déformation subie par un matériau
+compte tenu d'une certaine quantité de contraintes.
+
+From stress-strain diagrams, we found useful
+properties that could be measured like the
+modulus of elasticity and toughness,
+À partir des diagrammes contrainte-déformation, nous avons trouvé des
+propriétés utiles qui pouvaient être mesurées comme le
+module d'élasticité et de ténacité,
+
+and described other material properties
+like hardness, creep strength, and fatigue
+strength.
+et décrit d'autres propriétés des matériaux
+comme la dureté, la résistance au fluage et la
+résistance à la fatigue.
+
+Next time, we’ll get into the real substance
+of things and discuss the materials themselves
+in a bit more depth,
+La prochaine fois, nous entrerons dans la vraie substance
+des choses et discuterons des matériaux eux-
+mêmes un peu plus en profondeur, en
+
+starting with what makes a metal a metal.
+commençant par ce qui fait qu'un métal est un métal.
+
+Crash Course Engineering is produced in association
+with PBS Digital Studios.
+Crash Course Engineering est produit en association
+avec PBS Digital Studios.
+
+If you have a couple minutes, we have some
+homework for you because PBS Digital Studios
+is conducting its annual survey,
+Si vous avez quelques minutes, nous avons quelques
+devoirs pour vous car PBS Digital
+Studios mène son enquête annuelle,
+
+which gives us a chance to hear from you
+and helps us make some big decisions.
+ce qui nous donne l'occasion d'avoir de vos nouvelles
+et nous aide à prendre de grandes décisions.
+
+Plus, 25 random people will win a PBSDS t-shirt.
+De plus, 25 personnes au hasard gagneront un t-shirt PBSDS.
+
+Head on over to the link in the description.
+Rendez-vous sur le lien dans la description.
+
+Crash Course is a Complexly production and this
+episode was filmed in the Doctor Cheryl C. Kinney
+Studio with the help of these wonderful people.
+Crash Course est une production de Complexly et cet
+épisode a été filmé dans le studio du docteur Cheryl C. Kinney
+avec l'aide de ces personnes merveilleuses.
+
+And our amazing graphics team is Thought Cafe.
+Et notre incroyable équipe graphique est Thought Cafe.
+

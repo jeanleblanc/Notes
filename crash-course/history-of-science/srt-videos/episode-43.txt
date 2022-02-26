@@ -1,0 +1,843 @@
+We’ve talked a 
+lot about advances in biotech.
+Nous avons
+beaucoup parlé des progrès de la biotechnologie.
+
+But none of those could have happened without
+advances in computing.
+Mais rien de tout cela n'aurait pu se produire sans les
+progrès de l'informatique.
+
+It’s time to get back to data and explore
+the unlikely birth, strange life, and potential
+Il est temps de revenir aux données et d'explorer
+la naissance improbable, la vie étrange et les
+
+futures of the Internet.
+futurs potentiels d'Internet.
+
+The theme of the history of computing is that
+what we mean by “computing” keeps changing.
+Le thème de l'histoire de l'informatique est que
+ce que nous entendons par « informatique » ne cesse de changer.
+
+With the invention of the transistor in 1947,
+the computer started to shrink!
+Avec l'invention du transistor en 1947,
+l'ordinateur a commencé à se rétrécir !
+
+And speed up!
+Et accélérez !
+
+And change meaning yet again, becoming a ubiquitous
+dimension of contemporary life—not to mention
+Et changer encore une fois de sens, devenir une
+dimension omniprésente de la vie contemporaine, sans parler d'
+
+a totally normal thing to yell at.
+une chose tout à fait normale à crier.
+
+Hey Google... can you roll the intro?
+Hey Google... peux-tu lancer l'intro ?
+
+[long pause]
+[longue pause]
+
+Google: I'm not sure.
+Google : Je ne suis pas sûr.
+
+[Intro Music Plays]
+[Intro Music Plays]
+
+In 1965, Electronics Magazine asked computer
+scientist Gordon Moore to do something scientists
+En 1965, Electronics Magazine a demandé à l'
+informaticien Gordon Moore de faire quelque chose que l'
+
+are generally taught not to do: predict the
+future.
+on enseigne généralement aux scientifiques à ne pas faire : prédire l'
+avenir.
+
+Moore guessed that, roughly every year, the
+number of electronic switches that people
+Moore a deviné que, chaque année environ, le
+nombre de commutateurs électroniques que les gens
+
+could squeeze onto one computer chip would
+double.
+pourraient insérer dans une seule puce informatique
+doublerait.
+
+This meant computer chips would continue to
+become faster, more powerful, and cheaper—at
+Cela signifiait que les puces informatiques continueraient de
+devenir plus rapides, plus puissantes et moins chères, à
+
+an absolutely amazing rate.
+un rythme absolument incroyable.
+
+Which might have sounded suspiciously awesome
+to readers.
+Ce qui aurait pu sembler étrangement génial
+pour les lecteurs.
+
+But Moore’s prediction came true!
+Mais la prédiction de Moore s'est réalisée !
+
+Although it took eighteen months for each
+doubling, and, arguably, this was a self-fulfilling
+Bien qu'il ait fallu dix-huit mois pour chaque
+doublement, et, sans doute, c'était une prophétie auto-réalisatrice
+
+prophecy, since engineers actively worked
+towards it.
+, puisque les ingénieurs y ont activement travaillé
+.
+
+Moore went on to serve as CEO as Intel and
+is now worth billions.
+Moore a ensuite occupé le poste de PDG d'Intel et
+vaut maintenant des milliards.
+
+His prediction is called “Moore’s law.”
+Sa prédiction s'appelle la "loi de Moore".
+
+Think about what this means for manufacturers:
+they keep competing to invent hot new machines
+Pensez à ce que cela signifie pour les fabricants :
+ils continuent de se concurrencer pour inventer de nouvelles machines
+
+that make their old ones obsolete.
+qui rendent les anciennes obsolètes.
+
+The same applies to methods of data
+Today, engineers face big questions about
+Il en va de même pour les méthodes de données
+Aujourd'hui, les ingénieurs sont confrontés à de grandes questions sur
+
+the physical limit of Moore’s law.
+la limite physique de la loi de Moore.
+
+Even with new tricks here and there, just
+how small and fast can conventional chips
+Même avec de nouvelles astuces ici et là, à
+quel point les puces conventionnelles peuvent-elles être petites et rapides
+
+get?
+?
+
+Currently, teams at different chip manufacturers
+are working to create transistors at the nanometer
+Actuellement, des équipes de différents fabricants de puces
+travaillent à la création de transistors à l'
+
+scale.
+échelle nanométrique.
+
+IBM made a whole computer that’s only one
+millimeter by one millimeter wide and is about
+IBM a fabriqué un ordinateur entier qui ne mesure qu'un
+millimètre sur un millimètre de large et qui est à peu près
+
+as fast as a computer from 1990.
+aussi rapide qu'un ordinateur de 1990.
+
+As computers became smaller and cheaper, they
+moved from military bases to businesses in
+À mesure que les ordinateurs devenaient plus petits et moins chers, ils sont
+passés des bases militaires aux entreprises dans
+
+the 1960s and to schools and homes by the
+late 1970s and 1980s.
+les années 1960 et aux écoles et aux maisons à la
+fin des années 1970.  et années 1980.
+
+And computers changed these spaces.
+Et les ordinateurs ont changé ces espaces.
+
+People got used to using them for certain
+tasks.
+Les gens se sont habitués à les utiliser pour certaines
+tâches.
+
+But computers were pretty intimidating.
+Mais les ordinateurs étaient assez intimidants.
+
+Manufacturers had to make them work better
+with people.
+Les fabricants devaient les faire mieux fonctionner
+avec les gens.
+
+So in 1970 the Xerox Corporation founded the
+Palo Alto Research Center—known as Xerox
+Ainsi, en 1970, la Xerox Corporation a fondé le
+Palo Alto Research Center, connu sous le nom de Xerox
+
+PARC.
+PARC.
+
+Here, researchers invented many features of
+modern computing.
+Ici, les chercheurs ont inventé de nombreuses fonctionnalités de
+l'informatique moderne.
+
+In 1973, they came up with the Xerox Alto,
+the first personal computer…
+En 1973, ils ont inventé le Xerox Alto,
+le premier ordinateur personnel…
+
+But Xerox didn’t think there was a market
+for computers in the home yet.
+Mais Xerox ne pensait pas encore qu'il y avait un marché
+pour les ordinateurs à la maison.
+
+Other Xerox PARC inventions include laser
+printing, the important networking standard
+Parmi les autres inventions de Xerox PARC figurent l'
+impression laser, l'importante norme de mise en réseau
+
+called Ethernet, and even the graphical user
+interface or GUI—which included folders,
+appelée Ethernet et même l'interface utilisateur
+graphique ou GUI, qui comprenait des dossiers, des
+
+icons, and windows.
+icônes et des fenêtres.
+
+But Xerox didn’t capitalize on these inventions.
+Mais Xerox n'a pas capitalisé sur ces inventions.
+
+You probably know who did.
+Vous savez probablement qui l'a fait.
+
+In the 1970s, two nerds who dropped out of
+college started selling computers you were
+Dans les années 1970, deux nerds qui ont abandonné l'
+université ont commencé à vendre des ordinateurs que vous
+
+meant to use at home, for fun and—you know,
+to do… stuff, whatever you wanted.
+deviez utiliser à la maison, pour vous amuser et, vous savez,
+pour faire… des trucs, tout ce que vous vouliez.
+
+In retrospect, that was the genius of the
+Apple Two, released in 1977.
+Rétrospectivement, c'était le génie de l'
+Apple Two, sorti en 1977.
+
+Along with decades of shrewd engineering and
+business moves, fun made video game designer
+Avec des décennies d'ingénierie astucieuse et de
+mouvements commerciaux, le concepteur de jeux vidéo
+
+and meditation enthusiast Steve Jobs and engineer
+Steve Wozniak into mega-billionaires.
+et passionné de méditation Steve Jobs et l'ingénieur
+Steve Wozniak sont devenus des méga-milliardaires.
+
+They had a commitment to computing for play,
+not always just work.
+Ils avaient un engagement envers l'informatique pour le jeu,
+pas toujours pour le travail.
+
+And they weren’t alone.
+Et ils n'étaient pas seuls.
+
+In 1981, IBM started marketing the PC powered
+by the DOS operating system, which they licensed
+En 1981, IBM a commencé à commercialiser le PC alimenté
+par le système d'exploitation DOS, sous licence
+
+from Microsoft—founded by Harvard dropout
+Bill Gates in 1975.
+de Microsoft, fondé par
+Bill Gates, un abandon de Harvard, en 1975.
+
+By 1989, Microsoft’s revenues reached one
+billion dollars.
+En 1989, les revenus de Microsoft atteignaient un
+milliard de dollars.
+
+You can find out more about college dropouts-turned-billionaires
+elsewhere.
+Vous pouvez en savoir plus sur les décrocheurs universitaires devenus milliardaires
+ailleurs.
+
+For our purposes, note that some of the inventors
+who influenced the future of computing were
+Pour nos besoins, notez que certains des inventeurs
+qui ont influencé l'avenir de l'informatique étaient
+
+traditional corporate engineers like Gordon
+Moore.
+des ingénieurs d'entreprise traditionnels comme Gordon
+Moore.
+
+But increasingly, they were people like the
+Steves who didn’t focus on discoveries in
+Mais de plus en plus, c'étaient des gens comme les
+Steves qui ne se concentraient pas sur les découvertes en
+
+computer science, but on design and marketing:
+how to create new kinds of interactions with,
+informatique, mais sur le design et le marketing :
+comment créer de nouveaux types d'interactions avec
+
+and on, computers.
+et sur les ordinateurs.
+
+Compare this to the birth of social media
+in the early 2000s.
+Comparez cela à la naissance des médias sociaux
+au début des années 2000.
+
+So new social spaces emerged on computers.
+Ainsi, de nouveaux espaces sociaux ont émergé sur les ordinateurs.
+
+And connecting computers together allowed
+for new communities to form—from Second
+Et connecter des ordinateurs entre eux a permis
+à de nouvelles communautés de se former, de Second
+
+Life to 4chan.
+Life à 4chan.
+
+For that, we have to once again thank U.S.
+military research.
+Pour cela, nous devons encore une fois remercier la
+recherche militaire américaine.
+
+ThoughtBubble, plug us in.
+ThoughtBubble, branchez-nous.
+
+Back in the late 1950s, the U.S. was really
+worried about Soviet technologies.
+À la fin des années 1950, les États-Unis étaient vraiment
+préoccupés par les technologies soviétiques.
+
+So in 1958, the Secretary of Defense authorized
+a new initiative called the Defense Advanced
+Ainsi, en 1958, le secrétaire à la Défense a autorisé
+une nouvelle initiative appelée Defense Advanced
+
+Research Projects Agency or DARPA.
+Research Projects Agency ou DARPA.
+
+DARPA set about solving a glaring problem:
+what happened if Soviet attacks cut U.S. telephone
+La DARPA s'est mise à résoudre un problème criant :
+que se passerait-il si les attaques soviétiques coupaient les lignes téléphoniques américaines
+
+lines?
+?
+
+How could information be moved around quickly,
+even after a nuclear strike?
+Comment l'information pourrait-elle circuler rapidement,
+même après une frappe nucléaire ?
+
+A faster computer wouldn’t help if itt was
+blown to bits.
+Un ordinateur plus rapide n'aiderait pas s'il était
+réduit en miettes.
+
+What was needed was a network.
+Ce qu'il fallait, c'était un réseau.
+
+So in part to defend against information loss
+during a war—and in part to make researchers’
+Ainsi, en partie pour se défendre contre la perte d'informations
+pendant une guerre - et en partie pour faciliter la vie des chercheurs - la
+
+lives easier—DARPA funded the first true
+network of computers, the Advanced Research
+DARPA a financé le premier véritable
+réseau d'ordinateurs, l'Advanced Research
+
+Projects Agency Nework, better known as ARPANET.
+Projects Agency Nework, mieux connu sous le nom d'ARPANET.
+
+People give different dates for the birthday
+of the Internet, but two stand out.
+Les gens donnent des dates différentes pour l'anniversaire
+d'Internet, mais deux se démarquent.
+
+On September 2nd, 1969, ARPANET went online.
+Le 2 septembre 1969, ARPANET est mis en ligne.
+
+It used the then-new technology of packet
+switching, or sending data in small, independent,
+Il a utilisé la nouvelle technologie de commutation de paquets
+, ou l'envoi de données en petites parties indépendantes et
+
+broken-up parts that can each find their own
+fastest routes and be reassembled later.
+fragmentées qui peuvent chacune trouver leurs propres
+itinéraires les plus rapides et être réassemblées plus tard.
+
+This is still the basis of our networks today!
+C'est encore aujourd'hui la base de nos réseaux !
+
+At first, ARPANET only linked a few universities.
+Au début, ARPANET ne reliait que quelques universités.
+
+But it grew as researchers found that linking
+computers was useful for all sorts of reasons,
+Mais il a grandi au fur et à mesure que les chercheurs ont découvert que la liaison des
+ordinateurs était utile pour toutes sortes de raisons,
+
+nukes aside!
+à part les armes nucléaires !
+
+And then, on January 1st, 1983, several computer
+networks including ARPANET were joined together
+Et puis, le 1er janvier 1983, plusieurs
+réseaux informatiques dont ARPANET ont été réunis en
+
+using a standard way of requesting and sharing
+information: TCP/IP.
+utilisant un moyen standard de demander et de partager des
+informations : TCP/IP.
+
+This remains the backbone of the Internet
+today.
+Cela reste l'épine dorsale d'Internet
+aujourd'hui.
+
+Meanwhile, French engineers created their
+own computer network, connected through through
+Pendant ce temps, des ingénieurs français ont créé leur
+propre réseau informatique, connecté via
+
+telephone lines, Minitel, back in 1978—five
+years before TCP/IP!
+des lignes téléphoniques, Minitel, en 1978, cinq
+ans avant TCP/IP !
+
+Minitel was retired in 2012.
+Minitel a été retiré en 2012.
+
+And the Soviets developed their own versions
+of ARPANET.
+Et les Soviétiques ont développé leurs propres versions
+d'ARPANET.
+
+But after 1991, these joined the TCP/IP-driven
+Internet, and the virtual world became both
+Mais après 1991, ceux-ci ont rejoint l'Internet piloté par TCP/IP
+, et le monde virtuel est devenu à la fois
+
+larger and smaller.
+plus grand et plus petit.
+
+The Internet in the 1980s was literally that:
+a network interconnecting computers.
+L'Internet dans les années 1980 était littéralement cela :
+un réseau interconnectant des ordinateurs.
+
+It didn’t look like a new space yet.
+Cela ne ressemblait pas encore à un nouvel espace.
+
+For that, we can thank British computer scientist
+Sir Tim Berners-Lee, who invented the World
+Pour cela, nous pouvons remercier l'informaticien britannique
+Sir Tim Berners-Lee, qui a inventé le World
+
+Wide Web in 1990.
+Wide Web en 1990.
+
+Berners-Lee pulled together existing ideas,
+like hypertext and the internet, and built
+Berners-Lee a rassemblé des idées existantes,
+comme l'hypertexte et Internet, et a construit
+
+the first web browser to create the beginnings
+of the functional and useful web we know today.
+le premier navigateur Web pour créer les débuts
+du  Web fonctionnel et utile que nous connaissons aujourd'hui.
+
+The Web had profound effects.
+Le Web a eu des effets profonds.
+
+It brought the Internet to millions of people—and
+brought them into it, making them feel like
+Il a apporté Internet à des millions de personnes - et les y
+a fait entrer, leur donnant l'impression
+
+they had a home “online,” a virtual place
+to represent themselves, meet strangers all
+d'avoir une maison "en ligne", un lieu virtuel
+pour se représenter, rencontrer des étrangers
+
+over the world, and troll educational video
+shows!
+du monde entier et des émissions de vidéos éducatives à la traîne
+!
+
+The Web also democratized the tools of knowledge
+making.
+Le Web a aussi démocratisé les outils de
+fabrication de connaissances.
+
+From World War Two until 1990, building computers
+and using them to do work was largely the
+De la Seconde Guerre mondiale jusqu'en 1990, la construction d'ordinateurs
+et leur utilisation pour faire du travail étaient en grande partie le
+
+domain of elites.
+domaine des élites.
+
+A short time later, we can trade software
+on GitHub, freely share 3D printing templates
+Peu de temps après, nous pouvons échanger des logiciels
+sur GitHub, partager librement des modèles d'impression 3D
+
+on Thingiverse, and benefit from the collective
+wisdom of Wikipedia.
+sur Thingiverse et bénéficier de la
+sagesse collective de Wikipedia.
+
+It’s as if the Internet now contains not
+one but several Libraries of Alexandria.
+C'est comme si Internet ne contenait plus
+une mais plusieurs bibliothèques d'Alexandrie.
+
+They’ve radically changed how we learn and
+make knowledge.
+Ils ont radicalement changé notre façon d'apprendre et d'acquérir
+des connaissances.
+
+Just as scientific journals had once been
+invented as printed objects, since 1990, they’ve
+Tout comme les revues scientifiques avaient autrefois été
+inventées sous forme d'objets imprimés, depuis 1990, elles se sont
+
+moved online—though often behind steep paywalls.
+déplacées en ligne, bien que souvent derrière des murs de paiement élevés.
+
+In fact, Russian philosopher Vladimir Odoevsky predicted way back in
+En fait, le philosophe russe Vladimir Odoevsky avait prédit en
+
+1837—in The Year 4338—that our houses
+would be connected by “magnetic telegraphs.”
+1837, en l'an 4338, que nos maisons
+seraient reliées par des « télégraphes magnétiques ».
+
+But this came true only one hundred and fifty
+years later—not two millennia!
+Mais cela ne s'est réalisé que cent cinquante
+ans plus tard, et non deux millénaires !
+
+So what will happen in another hundred and
+fifty years?
+Alors que se passera-t-il dans cent
+cinquante ans ?
+
+Well, computing seems to be changing unpredictably.
+Eh bien, l'informatique semble changer de façon imprévisible.
+
+Not only because computers are still getting
+faster, but because of at least three more
+Non seulement parce que les ordinateurs deviennent toujours
+plus rapides, mais à cause d'au moins trois autres
+
+fundamental shifts.
+changements fondamentaux.
+
+One, scientists are experimenting with quantum
+computers, which work in a different way than
+Premièrement, les scientifiques expérimentent des
+ordinateurs quantiques, qui fonctionnent différemment des ordinateurs
+
+“classical,” binary ones.
+binaires "classiques".
+
+This is called superposition, and it has the
+potential to make the computers of the future
+C'est ce qu'on appelle la superposition, et cela a le
+potentiel de rendre les ordinateurs du futur
+
+much faster than today’s.
+beaucoup plus rapides que ceux d'aujourd'hui.
+
+This could lead to major shifts in cryptography:
+the current method of protecting our credit
+Cela pourrait conduire à des changements majeurs dans la cryptographie :
+la méthode actuelle de protection de nos
+
+cards works because classical computers aren’t
+strong enough to factor very large numbers
+cartes de crédit fonctionne car les ordinateurs classiques ne sont pas
+assez puissants pour factoriser rapidement de très grands nombres
+
+quickly.
+.
+
+But a quantum computer should be able to do
+this kind of math easily.
+Mais un ordinateur quantique devrait être capable de faire
+ce genre de calcul facilement.
+
+To date, however, quantum computers are not
+yet finished technologies that engineers can
+À ce jour, cependant, les ordinateurs quantiques ne sont pas
+encore des technologies finies que les ingénieurs peuvent
+
+improve, but epistemic objects: things that
+scientists are still working to understand.
+améliorer, mais des objets épistémiques : des choses que les
+scientifiques s'efforcent encore de comprendre.
+
+So will quantum computing change everything?
+L'informatique quantique va-t-elle tout changer ?
+
+Or mostly remain a weird footnote to classical
+computing?
+Ou reste-t-il pour la plupart une note de bas de page étrange à l'
+informatique classique ?
+
+I don’t know… we’ll find out!
+Je ne sais pas... on va le savoir !
+
+Fundamental shift two: some researchers across
+computing, history, and epistemology—the
+Deuxième changement fondamental : certains chercheurs dans les domaines de l'
+informatique, de l'histoire et de l'épistémologie - la
+
+branch of philosophy that asks, what counts
+as knowledge?—wonder if really really large
+branche de la philosophie qui demande, qu'est-ce qui compte
+comme connaissance ? - se demandent si de très grandes
+
+amounts of data, called Big Data, will change
+how we do science.
+quantités de données, appelées Big Data, vont changer
+notre façon de faire de la science.
+
+One of the main jobs of being a scientist
+has been to just collect data.
+L'une des tâches principales d'un
+scientifique consiste simplement à collecter des données.
+
+But if Internet-enabled sensors of all kinds
+are always transmitting back to databases,
+Mais si des capteurs connectés à Internet de toutes
+sortes transmettent toujours aux bases de données,
+
+then maybe the work of science will shift
+away from data collection, and even away from
+alors peut-être que le travail scientifique
+s'éloignera de la collecte de données, et même de l'
+
+analysis—AI can crunch numbers—and into
+asking questions about patterns that emerge
+analyse - l'IA peut calculer des chiffres - et
+posera des questions sur les modèles qui émergent
+
+from data, seemingly on their own.
+des données.  , apparemment seuls.
+
+So instead of saying, I wonder if X is true
+about the natural or social world, and then
+Ainsi, au lieu de dire, je me demande si X est vrai à
+propos du monde naturel ou social, puis
+
+going out to observe or test, the scientist
+of the future might wait for a computer to
+en sortant pour observer ou tester, le scientifique
+du futur pourrait attendre qu'un ordinateur lui
+
+tell her, X seems true about the world, are
+you interested in knowing more?
+dise, X semble vrai à propos du monde, êtes-
+vous  intéressé à en savoir plus?
+
+This vision for using Big Data has been called
+“hypothesis-free science,” and it would
+Cette vision de l'utilisation du Big Data a été qualifiée de
+« science sans hypothèse » et pourrait
+
+qualify as a new paradigm.
+être qualifiée de nouveau paradigme.
+
+But will it replace hypothesis-driven science?
+Mais remplacera-t-elle la science fondée sur des hypothèses ?
+
+Even if AI is mostly “weak,” meaning not
+like a human brain—but only, say, a sensor
+Même si l'IA est principalement "faible", ce qui signifie qu'elle ne
+ressemble pas à un cerveau humain, mais seulement, disons, à un
+
+system that knows what temperature it is in
+your house and how to adjust to the temp you
+système de capteurs qui sait quelle température il fait dans
+votre maison et comment s'adapter à la température
+
+want—once it’s very common, it could challenge
+long-held assumptions about what thought is.
+souhaitée, une fois que c'est très courant, cela pourrait  remettre
+en question les hypothèses de longue date sur ce qu'est la pensée.
+
+In fact, many people have already entrusted
+cognitive responsibilities such as knowing
+En fait, de nombreuses personnes ont déjà confié
+des responsabilités cognitives telles que savoir
+
+what time it is to AI scripts on computers
+in their phones, watches, cars, and homes.
+quelle heure il est aux scripts d'IA sur les ordinateurs
+de leurs téléphones, montres, voitures et maisons.
+
+Will human cognition feel different if we
+keep giving AI more and more human stuff to
+La cognition humaine se sentira-t-elle différente si nous
+continuons à donner à l'IA de plus en plus de choses humaines à
+
+take care of?
+prendre en charge ?
+
+How will society change?
+Comment la société va-t-elle changer ?
+
+I don’t know… we’ll find out!!!
+Je ne sais pas... on verra !!!
+
+And these are only some of the anxieties of
+our hyper-connected world!
+Et ce ne sont là que quelques-unes des angoisses de
+notre monde hyper-connecté !
+
+We could do a whole episode on blockchain,
+a list of time-stamped records which are linked
+Nous pourrions faire un épisode entier sur la blockchain,
+une liste d'enregistrements horodatés qui sont liés à l'
+
+using cryptography and (theoretically) resistant
+to fraud, and the new social technologies
+aide de la cryptographie et (théoriquement) résistants
+à la fraude, et les nouvelles technologies sociales
+
+it enables: like cryptocurrency, kinds of
+money not backed by sovereign nations but
+qu'elle permet : comme la crypto-monnaie, des types d'
+argent non soutenus par des nations souveraines mais
+
+by groups of co-invested strangers on the
+Internet.
+par  groupes d'inconnus co-investis sur
+Internet.
+
+Will blockchain change money, and fundamentally,
+trust in strangers?
+La blockchain changera-t-elle l'argent et, fondamentalement, la
+confiance envers les étrangers ?
+
+Or is it just another shift in cryptography?
+Ou est-ce juste un autre changement dans la cryptographie ?
+
+A fad?
+Une mode? 
+
+I don't know... we'll find out!
+Je ne sais pas... nous le saurons !
+
+Let’s head back to the physical world to
+look at the cost of these developments.
+Revenons au monde physique pour
+examiner le coût de ces développements.
+
+One feature they have in common is they require
+ever greater amounts of electricity and rare-earth
+Ils ont en commun de nécessiter
+des quantités toujours plus importantes d'électricité et de terres
+
+metals.
+rares.
+
+And older computers become e-waste, toxic
+trash recycled by some impoverished persons
+Et les anciens ordinateurs deviennent des déchets électroniques, des déchets toxiques
+recyclés par certaines personnes démunies
+
+at cost to their own bodies.
+au détriment de leur propre corps.
+
+Even as computers become so small they’re
+invisible, so common they feel like part of
+Même si les ordinateurs deviennent si petits qu'ils sont
+invisibles, si courants qu'ils semblent faire partie de
+
+our own brains, and so fast that they may
+fundamentally change critical social structures
+notre propre cerveau, et si rapidement qu'ils peuvent
+fondamentalement changer des structures sociales critiques
+
+like banking and buying animal hoodies on
+Etsy… they also contribute to dangerous
+comme la banque et l'achat de sweats à capuche pour animaux sur
+Etsy… ils contribuent également à des
+
+shifts of natural resources.
+changements dangereux de nature  Ressources. 
+
+Next time—we’ll wrap up our story of the
+life sciences by asking questions about the
+La prochaine fois, nous terminerons notre histoire des sciences de la
+vie en posant des questions sur l'
+
+future of medicine and the human brain that
+remain unanswered as of early 2019.
+avenir de la médecine et du cerveau humain qui
+restent sans réponse au début de 2019. L'
+
+History isn’t finished!
+histoire n'est pas terminée !
+
+Crash Course History of Science is filmed
+in the Cheryl C. Kinney Studio in Missoula,
+Crash Course History of Science est filmé
+dans le studio Cheryl C. Kinney à Missoula,
+
+MT and it's made with the help of all these
+nice people.
+MT et il est réalisé avec l'aide de toutes ces
+personnes sympathiques.
+
+And our animation team is Thought Cafe.
+Et notre équipe d'animation est Thought Cafe.
+
+Crash Course is a Complexly Production.
+Crash Course est une production complexe.
+
+If you want to keep imagining the world complexly
+with us you can check out some of our other
+Si vous voulez continuer à imaginer le monde de manière complexe
+avec nous, vous pouvez consulter certaines de nos autres
+
+channels
+chaînes
+
+like Animal Wonders, The Art Assignment, and
+Scishow Psych.
+comme Animal Wonders, The Art Assignment et
+Scishow Psych.
+
+And if you would like to keep Crash Course
+free forever for everyone, you can support
+Et si vous souhaitez garder Crash Course
+gratuit pour toujours pour tout le monde, vous pouvez soutenir
+
+the series on Patreon, a crowd funding platform
+that allows you to support the content you
+la série sur Patreon, une plateforme de financement participatif
+qui vous permet de soutenir le contenu que vous
+
+love.
+aimez.
+
+Thank you to all our patrons for making Crash
+Course possible with your continued support.
+Merci à tous nos mécènes d'avoir rendu Crash
+Course possible grâce à votre soutien continu.
+

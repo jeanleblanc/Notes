@@ -1,0 +1,832 @@
+So, I have this brother, John. You may have
+heard of him.
+Donc, j'ai ce frère, John.  Vous avez peut-être
+entendu parler de lui.
+
+JOHN: Hi there!
+JOHN : Salut !
+
+HANK: As it happens, John and I have the exact
+same parents.
+HANK : Il se trouve que John et moi avons exactement les
+mêmes parents.
+
+JOHN: Yes, Mom and Dad Green.
+JOHN : Oui, maman et papa Green.
+
+HANK: And since we have the same parents,
+it's to be expected
+HANK : Et puisque nous avons les mêmes parents,
+il faut s'attendre à ce
+
+that John and I would have similar physical
+characteristics
+que John et moi ayons des caractéristiques physiques similaires,
+
+because the source of our DNA is exactly the
+same.
+car la source de notre ADN est exactement la
+même.
+
+JOHN: Hank and I share some genes, but nobody
+knew anything about chromosomes or DNA until
+JOHN : Hank et moi partageons certains gènes, mais personne ne
+savait rien des chromosomes ou de l'ADN
+
+the middle of the 20th century. And people
+have been noticing that brothers tend to look
+jusqu'au milieu du 20ème siècle.  Et les gens
+ont remarqué que les frères ont tendance à se
+
+alike since like, people started noticing
+stuff or whatever.
+ressembler depuis que les gens ont commencé à remarquer des
+trucs ou quoi que ce soit.
+
+HANK: That was very scientific, John.
+HANK : C'était très scientifique, John.
+
+JOHN: I will remind you that I am doing you a favor.
+JOHN : Je vous rappelle que je vous fais une faveur.
+
+Heredity: it's basically just the passing
+on of genetic traits from parents to offspring.
+Hérédité : il s'agit essentiellement de la
+transmission de traits génétiques des parents à la progéniture.
+
+Like John said, the study of heredity is ancient,
+although the first ideas about how the goods
+Comme John l'a dit, l'étude de l'hérédité est ancienne,
+bien que les premières idées sur la façon dont les biens
+
+are passed on from parents to kids
+were really really really really really really
+sont transmis des parents aux enfants
+étaient vraiment vraiment vraiment vraiment vraiment
+
+wrong.
+fausses.
+
+For instance, the concept that people were
+working with for nearly 2,000 years came from
+Par exemple, le concept avec lequel les gens
+travaillaient depuis près de 2 000 ans est venu d'
+
+Aristotle, who suggested that:
+We're each a mixture of our parents' traits,
+Aristote, qui a suggéré que :
+nous sommes chacun un mélange des traits de nos parents
+
+with the father kind of supplying the life
+force to the new human and the mother
+, le père fournissant en quelque sorte la
+force vitale au nouvel humain et la mère.
+
+supplying the building blocks to put it all
+together.
+fournir les éléments de base pour tout
+assembler.
+
+Aristotle also thought that semen was like
+highly-purified
+Aristote pensait également que le sperme ressemblait à du
+
+menstrual blood, which is why we still refer
+to "bloodlines" when
+sang menstruel hautement purifié, c'est pourquoi nous nous référons encore
+aux «lignées sanguines» lorsque
+
+we're talking about heredity.
+nous parlons d'hérédité.
+
+Anyway, since nobody had a better idea, and
+since nobody
+Quoi qu'il en soit, puisque personne n'avait une meilleure idée, et
+puisque personne
+
+really wanted to tangle with Aristotle, for
+hundreds of years
+ne voulait vraiment s'embrouiller avec Aristote, pendant des
+centaines d'années,
+
+everybody just assumed that our parents'
+traits just sort of
+tout le monde a supposé que les traits de nos parents se
+
+blended together in us:
+mélangeaient en quelque sorte en nous :
+
+like if a black squirrel and a white squirrel
+fell in love and decided to start a family
+comme si un écureuil noir et un écureuil blanc
+tombaient dans  l'amour et ont décidé de fonder une famille
+
+together, their offspring would be gray.
+ensemble, leur progéniture serait grise.
+
+The first person to really start studying
+and thinking about
+La première personne à vraiment commencer à étudier
+et à penser à l'
+
+heredity in a modern way was this Austrian
+monk named Gregor Mendel
+hérédité d'une manière moderne fut ce
+moine autrichien nommé Gregor Mendel
+
+
+and Mendel demonstrated that inheritance followed particular patterns.
+et Mendel démontra que l'héritage suivait des schémas particuliers.
+
+In the mid-1800s, Mendel spent sort
+of an unhealthy amount of time grubbing around
+Au milieu des années 1800, Mendel a passé une sorte
+de temps malsain à fouiller
+
+in his garden with a bunch of pea plants,
+and through a series of experiments, crossing
+dans son jardin avec un tas de plants de pois,
+et à travers une série d'expériences, à croiser
+
+the pea plants and seeing which traits got
+passed on and which didn't--he came up with
+les plants de pois et à voir quels traits étaient
+transmis et lesquels ne l'étaient pas.  --il a proposé
+
+a framework for understanding how traits actually
+get passed from one generation to another.
+un cadre pour comprendre comment les traits
+se transmettent réellement d'une génération à l'autre.
+
+So, to talk about Classical Genetics, which
+includes Mendel's
+Donc, pour parler de la génétique classique, qui
+inclut les idées de Mendel
+
+ideas about how traits get passed along from
+parents to children,
+sur la façon dont les traits se transmettent des
+parents aux enfants,
+
+we kind of have to simplify the crap out of
+genetics. I hope you don't mind.
+nous devons en quelque sorte simplifier les conneries de la
+génétique.  J'espère que ça ne vous dérange pas.
+
+So we've all got chromosomes, which are
+the form that our DNA
+Nous avons donc tous des chromosomes, qui sont
+la forme que prend notre ADN
+
+takes in order to get passed on from parent
+to child.
+pour se transmettre de parent
+à enfant.
+
+Human cells have 23 pairs of chromosomes.
+Now a gene is a
+Les cellules humaines ont 23 paires de chromosomes.
+Maintenant, un gène est une
+
+section of DNA in a specific location on a
+chromosome that
+section d'ADN à un emplacement spécifique sur un
+chromosome qui
+
+contains information that determines a trait.
+contient des informations qui déterminent un trait.
+
+Of course, the vast majority of the time,
+a physical trait is a
+Bien sûr, la grande majorité du temps,
+un trait physique est le
+
+reflection of a bunch of different genes working
+together, which makes this all very confusing,
+reflet d'un tas de gènes différents travaillant
+ensemble, ce qui rend tout cela très déroutant,
+
+and when this happens it's called a polygenic
+trait.
+et lorsque cela se produit, cela s'appelle un
+trait polygénique.
+
+Polygenic: many genes.
+Polygénique : plusieurs gènes.
+
+And then again, sometimes a single gene can
+influence how
+Et là encore, parfois, un seul gène peut
+influencer la façon dont
+
+multiple traits are going to be expressed;
+these genes are called pleiotropic.
+plusieurs traits vont être exprimés ;
+ces gènes sont appelés pléiotropes.
+
+
+However, some
+Cependant, certains
+
+very few, but some
+très peu, mais certains
+
+single traits are decided by a single gene.
+Like the
+traits uniques sont décidés par un seul gène.
+Comme la
+
+color of pea flowers for example, which is
+what Mendel studied when he discovered all
+couleur des fleurs de pois par exemple, qui est
+ce que Mendel a étudié quand il a découvert
+
+of this stuff, and when that happens,
+in Mendel's honor, we call it a
+tout cela, et quand cela se produit,
+en l'honneur de Mendel, nous l'appelons un
+
+Mendelian trait.
+trait mendélien.
+
+There are a couple of examples of Mendelian
+traits in humans, one of them being the relative
+Il existe quelques exemples de
+traits mendéliens chez les humains, l'un d'eux étant l'
+
+wetness or dryness of your ear wax.
+humidité ou la sécheresse relative de votre cérumen.
+
+So, there is just one gene that determines
+the consistency of your
+Ainsi, il n'y a qu'un seul gène qui détermine
+la consistance de votre
+
+earwax, and that gene is located at the very
+same spot on each
+cérumen, et ce gène est situé au
+même endroit sur
+
+person's chromosome.
+le chromosome de chaque personne.
+
+Right here! Chromosome 16.
+Ici!  Chromosome 16.
+
+However, there's one version of this gene,
+or allele, that says the
+Cependant, il existe une version de ce gène,
+ou allèle, qui dit que la
+
+wax is going to be wet, and there's another
+allele that says the wax is going to be dry.
+cire va être humide, et il y a un autre
+allèle qui dit que la cire va être sèche.
+
+You may be asking yourself what the difference
+is between these two things and I'm glad you
+Vous vous demandez peut-être quelle est la
+différence entre ces deux choses et je suis heureux que vous posiez la
+
+asked because we actually know the answer
+to that question.
+question car nous connaissons en fait la réponse
+à cette question.
+
+Among the many amino acids that make up this
+particular
+Parmi les nombreux acides aminés qui composent cette
+
+gene sequence, there is one exact slot where
+they're different. If
+séquence de gènes particulière, il existe un emplacement exact où
+ils sont différents.  Si
+
+the amino acid is glycine in that slot, you're
+gonna have wet ear wax. But if it's arginine,
+l'acide aminé est la glycine dans cette fente, vous
+aurez du cérumen humide.  Mais si c'est de l'arginine,
+
+it's dry.
+c'est sec.
+
+Now comes the question of how you get what
+you get from your
+Vient maintenant la question de savoir comment vous obtenez ce que
+vous obtenez de vos
+
+parents. In most animals, basically any cell
+in the body that isn't a sperm or an egg -- these
+parents.  Chez la plupart des animaux, pratiquement toute cellule
+du corps qui n'est pas un spermatozoïde ou un ovule -
+
+are called somatic cells -- are diploid,
+meaning there are two sets of chromosomes,
+on les appelle des cellules somatiques - est diploïde,
+ce qui signifie qu'il existe deux ensembles de chromosomes,
+
+one inherited from
+each of your parents. So you get one earwax-determining
+un hérité de
+chacun de vos parents.  Donc, vous obtenez un allèle déterminant le cérumen
+
+allele from your mom and one from your dad.
+de votre mère et un de votre père.
+
+I should mention that the reason for this
+is that gametes, or sex cells--Senor Sperm
+Je dois mentionner que la raison en
+est que les gamètes, ou cellules sexuelles - Senor Sperm
+
+and Madame Egg--are haploid cells, meaning
+they only have one set of chromosomes.
+et Madame Egg - sont des cellules haploïdes, ce
+qui signifie qu'elles n'ont qu'un seul ensemble de chromosomes.
+
+Again, for emphasis, non-sex cells are called
+somatic cells and they are diploid. Sex cells
+Encore une fois, pour souligner, les cellules non sexuelles sont appelées
+cellules somatiques et elles sont diploïdes.  Les cellules sexuelles
+
+are gametes and they are haploid.
+sont des gamètes et elles sont haploïdes.
+
+This makes a lot of sense because a sperm
+or an egg has a very specific motivation:
+Cela a beaucoup de sens car un spermatozoïde
+ou un ovule a une motivation très spécifique :
+
+they're seriously hoping to score, and if
+they do, they plan to join with a complementary
+ils espèrent sérieusement marquer des points, et s'ils le
+font, ils prévoient de se joindre à une
+
+haploid cell that has the other pair of chromosomes
+they're going to need to make a new human,
+cellule haploïde complémentaire qui a l'autre paire de chromosomes
+qu'ils ont.  va devoir faire un nouvel humain,
+
+or buffalo or squid or whatever.
+ou un buffle ou un calmar ou quoi que ce soit.
+
+Also, just so you know, some plants have polyploid
+cells, which means they have more than two
+De plus, juste pour que vous le sachiez, certaines plantes ont des
+cellules polyploïdes, ce qui signifie qu'elles ont plus de deux
+
+sets of chromosomes in each
+cell, which isn't better or anything--it's
+ensembles de chromosomes dans chaque
+cellule, ce qui n'est pas mieux ou quoi que ce soit - c'est comme
+
+just how they do. But
+anyway, the point of all that is that we inherit
+ça qu'elles font.  Mais
+quoi qu'il en soit, le but de tout cela est que nous héritons d'
+
+one version of the
+earwax gene from each of our parents.
+une version du
+gène du cérumen de chacun de nos parents.
+
+So, back to earwax!
+Alors, retour au cérumen !
+
+So, let's just say your mom gives you a
+wet earwax allele and your
+Donc, disons simplement que votre mère vous donne un
+allèle de cérumen humide et que votre
+
+dad gives you a dry earwax allele.
+père vous donne un allèle de cérumen sec.
+
+Good Lord, your dad has horribly ugly ears!
+Mon Dieu, ton père a des oreilles horriblement moches !
+
+Anyway, since your parents have two alleles,
+each for one gene inherited from each of their
+Quoi qu'il en soit, puisque vos parents ont deux allèles,
+chacun pour un gène hérité de chacun de leurs
+
+parents, the one passed along to you is entirely
+random.
+parents, celui qui vous est transmis est entièrement
+aléatoire.
+
+So, a lot of what Mendel discovered is that
+when there are two
+Ainsi, une grande partie de ce que Mendel a découvert est que
+lorsqu'il y a deux
+
+alleles that decide the outcome of a specific
+trait, one of these
+allèles qui décident du résultat d'un
+trait spécifique, l'un de ces
+
+alleles could be dominant and the other one
+recessive.
+allèles peut être dominant et l'autre
+récessif.
+
+Dominance is the relationship between alleles
+in which one allele
+La dominance est la relation entre allèles
+dans laquelle un allèle
+
+masks or totally suppresses the expression
+of another allele.
+masque ou supprime totalement l'expression
+d'un autre allèle.
+
+So, back to earwax, because I know we all
+love talking about it so much.
+Alors, revenons au cérumen, parce que je sais que nous
+aimons tous tellement en parler.
+
+It turns out that Mom's wet earwax allele
+is dominant, which is why she gets a BIG W,
+Il s'avère que l'allèle de cérumen humide de maman
+est dominant, c'est pourquoi elle obtient un BIG W,
+
+and Dad's dry earwax allele is recessive,
+which is why he has to be a little w.
+et l'allèle de cérumen sec de papa est récessif
+, c'est pourquoi il doit être un peu w.
+
+JOHN: Go, Mom!
+JEAN : Vas-y maman !
+
+HANK: Oh, you're back!
+HANK : Oh, vous êtes de retour !
+
+JOHN: Yeah! You sound surprised.
+JOHN : Ouais !  Vous semblez surpris.
+
+HANK: Anyway, Mom's allele is dominant,
+and that settles it, right--
+HANK : Quoi qu'il en soit, l'allèle de maman est dominant,
+et cela règle le problème, n'est-
+
+we're gonna have wet earwax?
+ce pas - nous allons avoir du cérumen humide ?
+
+JOHN: Uh, something about the way that you
+said that tells
+JOHN : Euh, quelque chose dans la façon dont vous avez
+dit
+
+me it's not that easy.
+me dit que ce n'est pas si facile.
+
+HANK: Aw, you are so much smarter than you
+look. It is indeed not that easy.
+HANK : Aw, vous êtes tellement plus intelligent que vous n'en avez l'
+air.  Ce n'est en effet pas si facile.
+
+So, just because an allele is recessive doesn't
+mean it's
+Ainsi, ce n'est pas parce qu'un allèle est
+récessif qu'il est
+
+less common in all your genetic material than
+the dominant allele.
+moins courant dans tout votre matériel génétique que
+l'allèle dominant.
+
+Which leads us to the assumption, the CORRECT
+assumption, that there's something else going on here.
+Ce qui nous amène à l'hypothèse, l'
+hypothèse CORRECTE, qu'il se passe quelque chose d'autre ici.
+
+
+JOHN: I'm definitely getting that vibe from
+you.
+JOHN: Je reçois définitivement cette ambiance de
+vous.
+
+HANK: So, it has to do with Mom and Dad's
+parents. Because
+HANK : Donc, cela a à voir avec les parents de papa et maman
+.  Parce que
+
+everybody inherits two alleles from their
+parents. Mom got one from Nanny and one from
+tout le monde hérite de deux allèles de ses
+parents.  Maman en a eu un de Nanny et un de
+
+Paw Paw. And let's just say Mom got a little
+w from Nanny and a big W allele from Paw Paw.
+Paw Paw.  Et disons simplement que maman a reçu un petit
+w de Nanny et un gros allèle W de Paw Paw.
+
+That means Mom's genotype, or genetic makeup
+when it comes to that single trait, is heterozygous,
+Cela signifie que le génotype de maman, ou la composition génétique
+de ce trait unique, est hétérozygote,
+
+which means she inherited two different versions
+of the same gene from each of her parents.
+ce qui signifie qu'elle a hérité de deux versions différentes
+du même gène de chacun de ses parents.
+
+Dad, on the other hand is a homozygote.
+Papa, par contre, est homozygote.
+
+JOHN: Let me guess, that means that he had
+two of the
+JOHN : Laissez-moi deviner, cela signifie qu'il avait
+deux
+
+same allele, either a little w or a Big W
+allele inherited from both Grandma and Grandpa.
+allèles identiques, soit un petit w, soit un gros
+allèle W hérité à la fois de grand-mère et de grand-père.
+
+HANK: Right! And in order for this to all
+work out the way that I want it to, let's
+HANK : C'est vrai !  Et pour que tout se passe
+comme je le souhaite,
+
+just say that both Grandma and Grandpa would
+have passed little w's down to Dad, making
+disons simplement que grand-mère et grand-père
+auraient transmis les petits w à papa, rendant
+
+his genotype homozygous recessive for this
+gene.
+son génotype homozygote récessif pour ce
+gène.
+
+JOHN: Okay, so I'm keeping score in my head
+right now. And
+JOHN : Ok, donc je garde le score dans ma tête en
+ce moment.  Et
+
+according to my brain, Mom is a Big W, little
+w and Dad is a little w, little w.
+selon mon cerveau, maman est un grand W, petit
+w et papa est un petit w, petit w.
+
+
+HANK: And now we're going to figure out
+what our earwax phenotype is. And phenotype
+HANK : Et maintenant, nous allons découvrir
+quel est notre phénotype de cérumen.  Et le phénotype
+
+is what's
+expressed physically, or in this case, what
+est ce qui est
+exprimé physiquement, ou dans ce cas, ce que
+
+you'd see if you looked
+into our ears.
+vous verriez si vous regardiez
+dans nos oreilles.
+
+JOHN: Alright, so are we gonna do a Punnett
+Square or
+JOHN : D'accord, alors on va faire un Punnett
+Square ou
+
+anything? This is why I do history, if we're
+going to do Punnett Squares, I'm leaving!
+quoi que ce soit ?  C'est pour ça que je fais de l'histoire, si on
+va faire des Punnett Squares, je m'en vais !
+
+HANK: But I was just going to start to talk
+about people again. So Reginald C. Punnett,
+HANK: Mais j'allais juste recommencer à parler
+des gens.  Alors Reginald C. Punnett,
+
+who was a total Gregor Mendel
+fanboy, invented the Punnett Square as a way
+qui était un fanboy total de Gregor Mendel
+, a inventé le Punnett Square comme un moyen
+
+to diagram the
+outcome of a particular cross breeding experiment.
+de schématiser le
+résultat d'une expérience de croisement particulière.
+
+A really simple one looks like this:
+Un très simple ressemble à ceci :
+
+So, let's put Mom on the side here and give
+her a Big W and a
+Alors, mettons maman sur le côté ici et donnons-
+lui un grand W et un
+
+little w. And let's put Dad on the top,
+and he gets two little w's.
+petit w.  Et mettons papa en haut,
+et il obtient deux petits w.
+
+So if you fill this in, it looks like there's
+a 50/50 chance that any child of this mating
+Donc, si vous remplissez ceci, il semble qu'il y
+ait 50/50 de chances que n'importe quel enfant de cet
+
+will be homozygous or heterozygous.
+accouplement soit homozygote ou hétérozygote.
+
+And as for our phenotype, it shakes out the
+same way: John and I both have a 50% chance
+Et quant à notre phénotype, il évolue de la
+même manière : John et moi avons tous les deux 50 % de chances
+
+of having wet ear
+wax and a 50% chance of having dry ear wax.
+d'avoir du cérumen humide
+et 50 % de chances d'avoir du cérumen sec.
+
+So I just had to go and call John, because
+now he's not participating
+Alors j'ai juste dû aller appeler John, parce que
+maintenant il ne participe pas
+
+because he doesn't like Punnett Sauares, and
+it turns out, that he has wet ear wax. I also
+parce qu'il n'aime pas Punnett Sauares, et
+il s'avère qu'il a du cérumen humide.  J'ai aussi du
+
+have wet ear wax. Which, you know, is not
+that unlikely, considering that our parents
+cérumen humide.  Ce qui, vous savez, n'est pas
+si improbable, étant donné que nos parents
+
+were homozygous and heterozygous.
+étaient homozygotes et hétérozygotes.
+
+This may explain the odor of our bathroom
+growing up because it turns out there's a
+Cela peut expliquer l'odeur de notre salle de bain en
+grandissant, car il s'avère qu'il existe une
+
+correlation between wet ear wax and body odor,
+because ear wax and armpit sweat are produced
+corrélation entre le cérumen humide et l'odeur corporelle,
+car le cérumen et la sueur des aisselles sont produits
+
+by the same type of gland.
+par le même type de glande.
+
+Because this one gene has an effect on multiple
+traits or phenotypes, it's an example of a
+Parce que ce gène a un effet sur plusieurs
+traits ou phénotypes, c'est un exemple de
+
+pleiotropic gene, because the gene affects
+how wet your ear wax is, and how much you stink.
+gène pléiotrope, car le gène affecte le
+degré d'humidité de votre cérumen et la quantité de puanteur.
+
+
+One more thing you might find interesting:
+sex-linked inheritance.
+Une autre chose qui pourrait vous intéresser :
+l'héritage lié au sexe.
+
+So we've got 23 chromosomes:
+22 pairs are
+Nous avons donc 23 chromosomes :
+22 paires sont des
+
+autosomes, or non-sex chromosomes, and 1 pair
+the 23rd pair,
+autosomes, ou des chromosomes non sexuels, et 1 paire,
+la 23e paire,
+
+to be exact--is a sex chromosome. At that
+23rd pair, women have two full length chromosomes,
+pour être exact, est un chromosome sexuel.  À cette
+23e paire, les femmes ont deux chromosomes de pleine longueur,
+
+or "XX," and men have one X chromosome
+(that they inherited from their Mom) and this
+ou "XX", et les hommes ont un chromosome X
+(qu'ils ont hérité de leur mère) et
+
+one little, short, puny, shriveled chromosome
+that we call "Y," which is why men are "XY."
+ce petit chromosome court, chétif et ratatiné
+que nous appelons "Y", qui  c'est pourquoi les hommes sont "XY".
+
+So, certain genetic traits are linked to a
+person's sex and are
+Ainsi, certains traits génétiques sont liés au
+sexe d'une personne et sont
+
+passed on through the sex chromosomes. Since
+dudes don't have
+transmis par les chromosomes sexuels.  Étant donné que les
+mecs n'ont pas
+
+two full chromosomes on pair 23, there may
+be recessive alleles
+deux chromosomes complets sur la paire 23, il peut
+y avoir des allèles récessifs
+
+on the X that they inherited from their mom
+that will get expressed,
+sur le X qu'ils ont hérité de leur mère
+qui seront exprimés,
+
+since there's not any information on the
+Y chromosome to provide
+car il n'y a aucune information sur le
+chromosome Y pour fournir
+
+the possibility for a dominant allele counteracting
+that specific trait.
+la possibilité qu'un allèle dominant contrecarre
+ce trait spécifique.
+
+Take, for instance, balding. Women rarely
+go bald in their youth
+Prenez, par exemple, la calvitie.  Les femmes
+deviennent rarement chauves dans leur jeunesse
+
+like some men do because it is caused by a
+recessive allele
+comme certains hommes le font parce que cela est causé par un
+allèle récessif
+
+located in a gene on the X chromosome. So
+it's rare that women
+situé dans un gène sur le chromosome X.  Il
+est donc rare que les femmes
+
+get 2 recessive alleles. But men need just
+one recessive allele
+obtiennent 2 allèles récessifs.  Mais les hommes n'ont besoin que d'
+un seul allèle récessif
+
+and, Doh! Baldy bald!
+et, Doh !  Chauve chauve !
+
+And that allele is on their X chromosome,
+which they got from
+Et cet allèle est sur leur chromosome X
+, qu'ils ont reçu de
+
+Mom. But was Mom bald? Probably not. And where did Mom get
+maman.  Mais maman était-elle chauve ?  Probablement pas.  Et où maman a-t
+
+that allele on her X chromosome? Either from
+her Dad or her Mom.
+-elle trouvé cet allèle sur son chromosome X ?  Soit de
+son papa, soit de sa maman.
+
+So if you're bald, you can go ahead and blame
+it on your
+Donc, si vous êtes chauve, vous pouvez aller de l'avant et
+blâmer votre
+
+maternal grandmother, or your maternal-maternal great-grandfather
+grand-mère maternelle, ou votre arrière-grand-père maternel-maternel ou votre arrière-arrière-grand-père
+
+or your maternal-maternal-maternal
+great-great grandfather
+maternel-maternel-maternel
+
+
+who probably went bald before he was 30.
+qui est probablement devenu chauve avant d'avoir 30 ans.
+
+So, Genetics, you guys. Resistance is futile.
+Donc, la génétique  , vous, les gars.  La résistance est futile. 
+
+Thanks to my brother John for sharing his
+personal genetic
+Merci à mon frère John d'avoir partagé
+
+information with us, and also his face and
+voice and all that stuff. That was very nice.
+avec nous ses informations génétiques personnelles, ainsi que son visage, sa
+voix et tout le reste.  C'était très bien.
+
+Think of us next time you swab out your ears!
+Actually they say that you really shouldn't
+Pensez à nous la prochaine fois que vous vous essuyerez les oreilles !
+En fait, ils disent que vous ne devriez vraiment pas
+
+do that because we have earwax for a reason,
+and you might poke your brain or something.
+faire ça parce que nous avons du cérumen pour une raison,
+et vous pourriez vous casser la tête ou quelque chose comme ça.
+
+Okay, that's the last time I'm mentioning
+earwax.
+D'accord, c'est la dernière fois que je parle de
+cérumen.
+
+Review! Click on any of these things to go
+back to that section of the video. If you
+La revue!  Cliquez sur l'une de ces choses pour
+revenir à cette section de la vidéo.  Si vous
+
+have any questions, please ask them in the
+comments.
+avez des questions, n'hésitez pas à les poser dans les
+commentaires.
+

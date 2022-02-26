@@ -1,0 +1,783 @@
+You can review content from Crash Course Organic Chemistry with the Crash Course App,
+Vous pouvez consulter le contenu de Crash Course Organic Chemistry avec l'application Crash Course,
+
+available now for Android and iOS devices.
+disponible dès maintenant pour les appareils Android et iOS.
+
+Hi! I’m Deboki Chakravarti and welcome 
+to Crash Course Organic Chemistry!
+Salut!  Je suis Deboki Chakravarti et bienvenue
+au cours intensif de chimie organique !
+
+When you get down to it, 
+all life is kinda similar.
+Au fond,
+toute la vie est un peu similaire.
+
+From plants to fungi to humans, we share 
+many of the same biological organic reactions  
+Des plantes aux champignons en passant par les humains, nous partageons
+plusieurs des mêmes réactions organiques biologiques
+
+that break down molecules for energy and 
+build the molecules that make you... you.
+qui décomposent les molécules pour produire de l'énergie et
+construisent les molécules qui vous font... vous.
+
+But we are different from a mushroom or a tree.
+Mais nous sommes différents d'un champignon ou d'un arbre.
+
+And those differences allow some organisms to 
+produce molecules that may have wildly different effects in other organisms—
+Et ces différences permettent à certains organismes de
+produire des molécules qui peuvent avoir des effets très différents sur d'autres organismes,
+
+sometimes  harmful, but sometimes beneficial.
+parfois nocifs, mais parfois bénéfiques.
+
+For example, willow leaves contain 
+salicylic acid that acts as a plant hormone,  
+Par exemple, les feuilles de saule contiennent de
+l'acide salicylique qui agit comme une hormone végétale,
+
+and as far back as 4000 BCE the Assyrians used 
+this extract to treat joint pain in humans.
+et dès 4000 avant notre ère, les Assyriens utilisaient
+cet extrait pour traiter les douleurs articulaires chez l'homme.
+
+Natural products like salicylic 
+acid can be medicines themselves,  
+Les produits naturels comme l'
+acide salicylique peuvent être eux-mêmes des médicaments
+
+or they can be inspiration 
+for more effective treatments.
+ou ils peuvent être une source
+d'inspiration pour des traitements plus efficaces.
+
+Like in 1853, French chemist Charles Frédéric 
+Gerhardt synthesized a similar compound,  
+Comme en 1853, le chimiste français Charles Frédéric
+Gerhardt a synthétisé un composé similaire,
+
+acetylsalicylic acid, which 
+we know today as aspirin.
+l'acide acétylsalicylique, que
+nous connaissons aujourd'hui sous le nom d'aspirine.
+
+Gerhardt's aspirin wasn’t pure 
+acetylsalicylic acid, though,  
+L'aspirine de Gerhardt n'était pas de
+l'acide acétylsalicylique pur,
+
+which brings us to the topic of this episode.
+ce qui nous amène au sujet de cet épisode.
+
+When we’re running reactions in a lab,
+Lorsque nous exécutons des réactions dans un laboratoire,
+
+we need to purify them to isolate the chemical we're trying to make from any other reactants or side products hanging around in the mixture.
+nous devons les purifier pour isoler le produit chimique que nous essayons de fabriquer de tout autre réactif ou produit secondaire qui traîne dans le mélange.
+
+And one method to separate 
+chemicals is chromatography!
+Et une méthode pour séparer les
+produits chimiques est la chromatographie !
+
+[Theme Music]
+[Thème musical]
+
+Many reactions produce mixtures,
+De nombreuses réactions produisent des mélanges,
+
+sometimes due to competing side reactions and sometimes because 
+the starting material didn’t completely react.
+parfois en raison de réactions secondaires concurrentes et parfois parce que
+le matériel de départ n'a pas complètement réagi.
+
+For example, let’s look at a synthesis of 
+the antidepressant medication paroxetine,  
+Par exemple, examinons une synthèse de
+l'antidépresseur paroxétine,
+
+also called Paxil.
+également appelé Paxil.
+
+We’re starting with an alcohol and 
+our goal is to turn it into an ether.
+Nous commençons avec un alcool et
+notre objectif est de le transformer en éther.
+
+Remember that hydroxide is a poor 
+leaving group, so in this synthesis,  
+Rappelez-vous que l'hydroxyde est un
+groupe partant pauvre, donc dans cette synthèse,
+
+we react the alcohol to form a mesylate.
+nous faisons réagir l'alcool pour former un mésylate.
+
+Now we have a great leaving group,
+Nous avons maintenant un grand groupe partant
+
+and can use the Williamson etherification 
+reaction to make the ether.
+et pouvons utiliser la réaction d'éthérification de Williamson
+pour fabriquer l'éther.
+
+Unfortunately, those reactions 
+aren’t super efficient,  
+Malheureusement, ces réactions
+ne sont pas super efficaces
+
+and the ether is only 56% of our products.
+et l'éther ne représente que 56 % de nos produits.
+
+So before we move onto the 
+last step to make Paxil,  
+Donc, avant de passer à la
+dernière étape pour fabriquer Paxil,
+
+we’ll need to separate the ether we 
+want from side products that we don't.
+nous devrons séparer l'éther que nous
+voulons des produits secondaires que nous ne voulons pas.
+
+This is where chromatography comes in.
+C'est là qu'intervient la chromatographie. La
+
+Chromatography is what we call a group 
+of different techniques that let us separate the components of a mixture, 
+chromatographie est ce que nous appelons un groupe
+de techniques différentes qui nous permettent de séparer les composants d'un mélange,
+
+usually to quantify or identify them.
+généralement pour les quantifier ou les identifier.
+
+Chromatography always involves two key pieces to 
+help separate different molecules in a sample:
+La chromatographie implique toujours deux éléments clés pour
+aider à séparer différentes molécules dans un échantillon :
+
+there's a stationary phase or adsorbent, 
+and a mobile phase or eluant.
+  
+il y a une phase stationnaire ou adsorbant
+et une phase mobile ou éluant.
+
+The inventor of chromatography, Russian-Italian 
+botanist Mikhail Tsvet,
+L'inventeur de la chromatographie, le botaniste russo-italien
+Mikhail Tsvet, a d'
+
+first used solid calcium carbonate as a stationary phase to 
+separate a sample of colored plant pigments.
+abord utilisé du carbonate de calcium solide comme phase stationnaire pour
+séparer un échantillon de pigments végétaux colorés.
+
+That’s how chromatography got its name!
+C'est ainsi que la chromatographie tire son nom !
+
+We can do a simple kind of paper chromatography 
+using a piece of paper as our stationary phase,  
+Nous pouvons faire un type simple de chromatographie sur papier en
+utilisant un morceau de papier comme phase stationnaire,
+
+to separate the component 
+pigments in washable marker ink.
+pour séparer les
+pigments composants dans l'encre de marqueur lavable.
+
+Paper is made up of cellulose, which is a 
+bunch of sugar molecules strung together.
+Le papier est composé de cellulose, qui est un
+tas de molécules de sucre liées ensemble.
+
+All of those hydroxyl groups hanging off 
+the sugars have dipoles,
+Tous ces groupes hydroxyle suspendus
+aux sucres ont des dipôles,
+
+which means this paper is polar and interacts a lot 
+with molecules that are also polar.
+ce qui signifie que ce papier est polaire et interagit beaucoup
+avec des molécules qui sont également polaires.
+
+We're not just tearing off a 
+piece of our notebook here.
+Nous ne nous contentons pas d'arracher un
+morceau de notre cahier ici.
+
+Notebook paper is often coated to prevent ink 
+from running, and we need the ink to spread out.
+Le papier pour ordinateur portable est souvent enduit pour empêcher l'encre
+de couler, et nous avons besoin que l'encre s'étale.
+
+Now, I’ll draw a little line on the bottom of our 
+chromatography paper in pencil to mark the origin,  
+Maintenant, je vais tracer une petite ligne au bas de notre
+papier de chromatographie au crayon pour marquer l'origine
+
+which is where we put our 
+washable marker ink sample.
+,  où nous plaçons notre
+échantillon d'encre de marqueur lavable.
+
+This ink is a mixture made up of several different 
+colored compounds that have different polarity.
+Cette encre est un mélange composé de plusieurs
+composés de couleurs différentes qui ont une polarité différente.
+
+Then, we can stand the paper 
+up in a solvent chamber.
+Ensuite, nous pouvons placer le
+papier dans une chambre à solvant.
+
+Here, I just have a jar with our solvent,  
+Ici, j'ai juste un pot avec notre solvant,
+
+or mobile phase: a mixture of 
+isopropyl alcohol and water.
+ou phase mobile : un mélange d'
+alcool isopropylique et d'eau.
+
+We have to make sure the marker 
+ink spot is above the solvent,  
+Nous devons nous assurer que la
+tache d'encre du marqueur est au-dessus du solvant,
+
+or our sample will just diffuse into the 
+solution at the bottom of the chamber,  
+sinon notre échantillon se diffusera simplement dans la
+solution au fond de la chambre,
+
+giving us a murky solution and 
+no separation on the paper.
+nous donnant une solution trouble et
+aucune séparation sur le papier.
+
+Oops.
+Oups. 
+
+What we want to happen here is for a process called capillary action   to move the solvent up our chromatography paper.
+Ce que nous voulons ici, c'est qu'un processus appelé action capillaire déplace le solvant vers le haut de notre papier de chromatographie.
+
+We actually saw capillary action way back in 
+Episode 6 when we looked at candle wax, too!
+Nous avons en fait vu l'action capillaire il y a bien longtemps dans l'
+épisode 6 lorsque nous avons également examiné la cire de bougie !
+
+Polar compounds in the marker ink sample 
+spend a lot of time interacting with the polar stationary phase,
+Les composés polaires de l'échantillon d'encre du marqueur
+passent beaucoup de temps à interagir avec la phase stationnaire polaire
+
+and stick to the 
+cellulose molecules at the bottom of the paper.
+et adhèrent aux
+molécules de cellulose au bas du papier.
+
+Less polar compounds don’t interact as much with the paper molecules and move up with the mobile phase more easily.
+Les composés moins polaires n'interagissent pas autant avec les molécules de papier et remontent plus facilement avec la phase mobile.
+
+Different colored marker inks 
+have different compounds,  
+Les encres de marqueurs de différentes couleurs
+ont des composés différents,
+
+so let’s check out the beautiful color 
+separations from some paper chromatography!
+alors voyons les belles
+séparations de couleurs de certaines chromatographies sur papier !
+
+Like I mentioned, our solvent chamber 
+was filled with isopropyl alcohol  
+Comme je l'ai mentionné, notre chambre à solvant
+était remplie d'alcool isopropylique
+
+and water because that's safe and 
+easy to do in a Crash Course studio.
+et d'eau, car c'est sûr et
+facile à faire dans un studio de cours accéléré.
+
+But in organic chemistry labs, diethyl ether and 
+hexane is a common chromatography solvent system.
+Mais dans les laboratoires de chimie organique, l'éther diéthylique et l'
+hexane sont un système de solvant de chromatographie courant.
+
+Also, because paper is porous, the colors 
+in the paper chromatography experiment were pretty spread out,
+De plus, comme le papier est poreux, les couleurs
+de l'expérience de chromatographie sur papier étaient assez étalées,
+
+which isn't that 
+useful for working with organic chemicals.
+ce qui n'est pas très
+utile pour travailler avec des produits chimiques organiques.
+
+So our stationary phase in the lab 
+is usually silica gel or alumina,  
+Ainsi, notre phase stationnaire en laboratoire
+est généralement du gel de silice ou de l'alumine,
+
+which has the consistency of very fine 
+sand and gives a better separation.
+qui a la consistance d'un sable très fin
+et donne une meilleure séparation.
+
+A thin layer of the stationary phase 
+is adhered to a glass, aluminum,  
+Une fine couche de la phase stationnaire
+est collée à une plaque de verre, d'aluminium
+
+or plastic-backed plate and we call the technique 
+thin layer chromatography, or TLC for short.
+ou de plastique et nous appelons la technique
+chromatographie sur couche mince, ou TLC en abrégé.
+
+Now that we've got a new experimental 
+setup,
+Maintenant que nous avons une nouvelle
+configuration expérimentale,
+
+let’s look at what happens to a sample of an organic compound when 
+we alter the ratios of solvents.
+regardons ce qui arrive à un échantillon d'un composé organique lorsque
+nous modifions les ratios de solvants.
+
+We’ll start with an equal mixture of diethyl ether and hexane as our mobile 
+phase,
+Nous allons commencer avec un mélange égal d'éther diéthylique et d'hexane comme
+phase mobile,
+
+a 1:1 solvent system.
+un système de solvant 1:1.
+
+We can quantify the movement of a spot 
+of organic compound on the plate by calculating its retention factor or Rf –  
+Nous pouvons quantifier le mouvement d'une tache
+de composé organique sur la plaque en calculant son facteur de rétention ou Rf -
+
+a way to describe the eluting power of a solvent system,  
+un moyen de décrire le pouvoir d'élution d'un système de solvant,
+
+or how much the solvent can move a compound 
+up a stationary phase during chromatography.
+ou la mesure dans laquelle le solvant peut déplacer un composé
+vers le haut d'une phase stationnaire pendant la chromatographie.
+
+To calculate Rf, we measure the distance 
+traveled by the spot from the origin,  
+Pour calculer Rf, nous mesurons la distance
+parcourue par le point depuis l'origine,
+
+and divide it by the distance from 
+the solvent front to the origin,  
+et la divisons par la distance entre
+le front de solvant et l'origine,
+
+which is how far we let the 
+solvent move up on the plate.
+qui correspond à la distance à laquelle nous laissons le
+solvant remonter sur la plaque.
+
+We have to remove the plate from the 
+chamber before the solvent reaches the top,  
+Nous devons retirer la plaque de la
+chambre avant que le solvant n'atteigne le haut,
+
+otherwise the spot tends to spread out too much!
+sinon la tache a tendance à trop s'étaler !
+
+Doing the math in this 1:1 solvent system, 
+our spot has a retention factor of 0.41.
+En faisant le calcul dans ce système de solvant 1:1,
+notre spot a un facteur de rétention de 0,41.
+
+Now let's try a different ratio by increasing the 
+hexane, the nonpolar solvent in our mobile phase,  
+Essayons maintenant un rapport différent en augmentant l'
+hexane, le solvant non polaire de notre phase mobile,
+
+for a 1:5 ratio of ether to hexane.
+pour un rapport de 1:5 d'éther à l'hexane.
+
+After doing the chromatography experiment, 
+measuring, and calculating Rf, we only get 0.16!
+Après avoir effectué l'expérience de chromatographie,
+mesuré et calculé Rf, nous n'obtenons que 0,16 !
+
+So we can say that the 1:5 solvent system has 
+less eluting power than the 1:1 solvent system.
+Nous pouvons donc dire que le système de solvant 1:5 a
+un pouvoir d'élution inférieur à celui du système de solvant 1:1.
+
+The nonpolar solvent hexane is less effective at pulling polar organic   compounds away from the polar stationary phase and moving them up the TLC plate.
+L'hexane, un solvant non polaire, est moins efficace pour éloigner les composés organiques polaires de la phase stationnaire polaire et les déplacer vers le haut de la plaque TLC.
+
+However, if we switch the ratio and increase the 
+ether, the polar solvent in our mobile phase,  
+Cependant, si nous modifions le rapport et augmentons l'
+éther, le solvant polaire de notre phase mobile,
+
+we'll get different results.
+nous obtiendrons des résultats différents.
+
+With a 5:1 ratio of ether to hexane, we’ll expect polar organic compounds to interact to a greater extent with the more polar mobile phase,
+Avec un rapport éther/hexane de 5:1, nous nous attendons à ce que les composés organiques polaires interagissent davantage avec la phase mobile plus polaire,
+
+increasing the eluting power.
+augmentant ainsi le pouvoir d'élution.
+
+Let's do the math and, what do you know, 
+in this solvent system our Rf is 0.70.
+Faisons le calcul et, que savez-vous,
+dans ce système de solvant, notre Rf est de 0,70.
+
+In the lab we're not just calculating Rf   values of spots of pure organic compounds in different solvents.
+En laboratoire, nous ne calculons pas seulement les valeurs Rf des points de composés organiques purs dans différents solvants.
+
+We use chromatography to 
+separate reaction products,  
+Nous utilisons la chromatographie pour
+séparer les produits de réaction,
+
+like the ether from the side 
+products when making Paxil.
+comme l'éther des sous-
+produits lors de la fabrication de Paxil.
+
+And that requires us to examine, and actually 
+physically separate, mixtures from a sample.
+Et cela nous oblige à examiner, et en fait à
+séparer physiquement, les mélanges d'un échantillon.
+
+We use TLC to monitor our reaction, and,  
+Nous utilisons la CCM pour surveiller notre réaction et, à l'
+
+using a thin capillary tube, we put a spot of 
+our starting material in lane A on the left.
+aide d'un tube capillaire fin, nous mettons une tache de
+notre matériau de départ dans la voie A sur la gauche.
+
+We spot our reaction mixture, which usually contains multiple compounds that we want to separate from each other, in lane C on the right.
+Nous repérons notre mélange réactionnel, qui contient généralement plusieurs composés que nous voulons séparer les uns des autres, dans la voie C à droite.
+
+In the middle lane B, we spot both 
+on top of each other – a cospot.
+Dans la voie du milieu B, nous repérons les deux l'un
+au-dessus de l'autre - un cospot.
+
+If all the lanes look like lane A after our 
+chromatography is done, we could have made  
+Si toutes les voies ressemblent à la voie A après la fin de notre
+chromatographie, nous aurions pu fabriquer
+
+a completely pure product from the reaction 
+with an identical Rf to the starting material.
+un produit complètement pur à partir de la réaction
+avec un Rf identique à celui du matériau de départ.
+
+However, it’s more likely that 
+something's gone wrong with the reaction.
+Cependant, il est plus probable que
+quelque chose ait mal tourné avec la réaction.
+
+So basically, TLC lets us preview 
+if our reaction actually worked,  
+Donc, fondamentalement, TLC nous permet de prévisualiser
+si notre réaction a réellement fonctionné,
+
+or if we're stuck with the same 
+molecules that we started with!
+ou si nous sommes coincés avec les mêmes
+molécules avec lesquelles nous avons commencé !
+
+Lane B, the cospot, helps us make sure there really is a difference between our starting material and our reaction mixture,  
+La voie B, le cospot, nous aide à nous assurer qu'il y a vraiment une différence entre notre matériau de départ et notre mélange réactionnel,
+
+and that we know our starting 
+material was used up in the reaction.
+et que nous savons que notre
+matériau de départ a été utilisé dans la réaction.
+
+For example, if lane B looks like it’s 
+missing the spot from lane A, but lanes B and C look the same,
+Par exemple, si la voie B semble
+manquer l'endroit de la voie A, mais que les voies B et C se ressemblent,
+
+a starting material could've hitched a ride with the reaction solvent to move further up the plate and fool us into thinking it's a new compound when it's not.
+un matériau de départ aurait pu faire du stop avec le solvant de réaction pour remonter plus haut dans la plaque et nous faire croire que c'est  un nouveau composé quand ce n'est pas le cas.
+
+But if lane B includes the same separations 
+as both lane A and lane C, we're good.
+Mais si la voie B inclut les mêmes séparations
+que la voie A et la voie C, tout va bien.
+
+It's really important to triple check 
+all this with these three lanes!
+Il est vraiment important de vérifier
+tout cela avec ces trois voies !
+
+Now, we’re not always working with colored 
+compounds in plants like Mikhail Tsvet,  
+Maintenant, nous ne travaillons pas toujours avec des
+composés colorés dans des usines comme Mikhail Tsvet,
+
+or separating bright marker 
+ink with paper chromatography.
+ou ne séparant pas l'
+encre de marqueur brillante avec la chromatographie sur papier.
+
+Often with TLC, our reaction mixtures are light 
+yellow or clear which can make them hard to see.
+Souvent, avec la CCM, nos mélanges réactionnels sont
+jaune clair ou clairs, ce qui peut les rendre difficiles à voir.
+
+Luckily, many organic compounds 
+have aromatic rings, double bonds,  
+Heureusement, de nombreux composés organiques
+ont des cycles aromatiques, des doubles liaisons
+
+or triple bonds, which absorb UV light.
+ou des triples liaisons, qui absorbent la lumière UV.
+
+So we keep a UV light in the lab to shine on TLC plates and reveal our separated components, so we can circle our spots with a pencil.
+Nous gardons donc une lumière UV dans le laboratoire pour briller sur les plaques TLC et révéler nos composants séparés, afin que nous puissions encercler nos taches avec un crayon.
+
+If we're working with compounds that 
+don't show up under UV light,
+Si nous travaillons avec des composés qui
+n'apparaissent pas sous la lumière UV,
+
+we use chromatography stains that can undergo chemical 
+reactions with the compounds on our plate.
+nous utilisons des colorants de chromatographie qui peuvent subir des
+réactions chimiques avec les composés de notre assiette.
+
+Conveniently, the effects of these 
+stains can be seen with the naked eye.
+Idéalement, les effets de ces
+taches peuvent être vus à l'œil nu.
+
+For example, a potassium permanganate stain 
+reacts with compounds by oxidation,
+Par exemple, une tache de permanganate de potassium
+réagit avec les composés par oxydation,
+
+and makes the oxidized compound spots appear yellow, on a 
+pretty purplish background… kind of like our set!
+et fait apparaître les taches de composés oxydés en jaune, sur un
+joli fond violacé… un peu comme notre ensemble !
+
+TLC gives us a great preview of 
+how our compounds will separate,  
+La CCM nous donne un excellent aperçu de la
+manière dont nos composés se sépareront,
+
+but a tiny plate isn't practical to 
+purify grams of our reaction mixture.
+mais une petite plaque n'est pas pratique pour
+purifier des grammes de notre mélange réactionnel.
+
+For that, we’ll need a bigger, badder 
+technique called flash chromatography.
+Pour cela, nous aurons besoin d'une technique plus importante et plus
+efficace appelée chromatographie flash.
+
+To set up our flash chromatography,  
+Pour configurer notre chromatographie flash,
+
+we actually need to play around with TLC to find a solvent system that gives the component we want to separate from the reaction mixture an Rf of about 0.2.
+nous devons en fait jouer avec TLC pour trouver un système de solvant qui donne au composant que nous voulons séparer du mélange réactionnel un Rf d'environ 0,2.
+
+We also need to know the mass of the 
+unpurified sample we want to separate,  
+Nous devons également connaître la masse de l'
+échantillon non purifié que nous voulons séparer,
+
+and from there we can pick an 
+appropriately sized flash column with a simple table –
+et à partir de là, nous pouvons choisir une
+colonne flash de taille appropriée avec un simple tableau -
+
+thanks to the work of chemists before us!
+grâce au travail des chimistes avant nous !
+
+So let's say that we've figured that out, and 
+now we’ll head into the Thought Bubble Lab!
+Supposons que nous ayons compris cela, et
+nous allons maintenant nous diriger vers le Thought Bubble Lab !
+
+To start, we'll push a plug of cotton firmly 
+into the bottom of the chromatography column,  
+Pour commencer, nous allons enfoncer fermement un bouchon de coton
+dans le fond de la colonne de chromatographie
+
+and cover the cotton with a 
+little sand for reinforcement.
+et recouvrir le coton d'un
+peu de sable pour le renforcer.
+
+We're gonna use a method called slurry 
+packing, where we mix the mobile phase solvent with silica gel as our stationary phase, 
+Nous allons utiliser une méthode appelée
+emballage en suspension, où nous mélangeons le solvant de la phase mobile avec du gel de silice comme phase stationnaire,
+
+and pour that into the column through a funnel.
+et le versons dans la colonne à travers un entonnoir.
+
+Next, we’ll apply pressure to the 
+top of the column using an air hose,  
+Ensuite, nous appliquerons une pression sur le
+haut de la colonne à l'aide d'un tuyau d'air
+
+until the solvent is level with the silica gel.
+jusqu'à ce que le solvant soit au même niveau que le gel de silice.
+
+Let’s add a little more sand 
+to keep the silica gel even,  
+Ajoutons un peu plus de sable
+pour maintenir le gel de silice uniforme,
+
+and then we're ready to load 
+our sample into the column!
+et nous sommes prêts à charger
+notre échantillon dans la colonne !
+
+With a long Pasteur pipet, we add 
+our reaction mixture to the column.
+Avec une longue pipette Pasteur, nous ajoutons
+notre mélange réactionnel dans la colonne.
+
+Then, we can fill the reservoir with 
+our mobile phase and run the column.
+Ensuite, nous pouvons remplir le réservoir avec
+notre phase mobile et exécuter la colonne.
+
+We’ll apply pressure with an air hose again,  
+Nous appliquerons à nouveau une pression avec un tuyau d'air,
+
+forcing the liquid through all the 
+silica gel, sand, and the cotton plug.
+forçant le liquide à travers tout le
+gel de silice, le sable et le tampon de coton.
+
+And we'll collect fractions of 
+the mobile phase in test tubes.
+Et nous collecterons des fractions de
+la phase mobile dans des tubes à essai.
+
+We have to be careful not to let the solvent 
+move below the level of the silica gel in the column –
+Nous devons faire attention à ne pas laisser le
+solvant descendre en dessous du niveau du gel de silice dans la colonne -
+
+that would mess up our carefully 
+balanced mixture of mobile and stationary phases.
+cela gâcherait notre
+mélange soigneusement équilibré de phases mobiles et stationnaires.
+
+So we can add solvent to the top to 
+prevent the column from going dry!
+Nous pouvons donc ajouter du solvant en haut pour
+éviter que la colonne ne sèche !
+
+The less-polar compounds move quickly through the silica gel in the flash column into the first few test tubes.
+Les composés moins polaires se déplacent rapidement à travers le gel de silice dans la colonne flash dans les premiers tubes à essai.
+
+After we've collected all the fractions, we can 
+check if our compound has eluted by doing TLC.
+Une fois que nous avons collecté toutes les fractions, nous pouvons
+vérifier si notre composé a élué en effectuant une CCM.
+
+The less-polar compounds will also move fastest 
+via capillary action upward on the TLC plate!
+Les composés moins polaires se déplaceront également plus rapidement
+via l'action capillaire vers le haut sur la plaque TLC !
+
+Lastly, we’ll combine the fractions that have the compound we want in a round bottom flask and concentrate using a rotary evaporator.
+Enfin, nous combinerons les fractions contenant le composé souhaité dans un ballon à fond rond et concentrerons à l'aide d'un évaporateur rotatif.
+
+A vacuum reduces the pressure inside the rotovap,  
+Un vide réduit la pression à l'intérieur du rotovap,
+
+which lowers the boiling point of the solvents 
+to remove them easily from the sample.
+ce qui abaisse le point d'ébullition des solvants
+pour les éliminer facilement de l'échantillon.
+
+We spin the flask to create more surface area and encourage the solvent molecules to move into the vapor phase.
+Nous faisons tourner le ballon pour créer plus de surface et encourager les molécules de solvant à passer en phase vapeur.
+
+Hopefully we've isolated a good-sized, 
+pure sample of the compound we want!
+J'espère que nous avons isolé un
+échantillon pur et de bonne taille du composé que nous voulons !
+
+Thanks, Thought Bubble!
+Merci, bulle de pensée !
+
+With a purified sample, we can calculate a percent 
+yield to see how efficient our reaction was,  
+Avec un échantillon purifié, nous pouvons calculer un
+rendement en pourcentage pour voir l'efficacité de notre réaction,
+
+analyze our compound using spectroscopy, and then 
+move on to the next reaction in our synthesis.
+analyser notre composé par spectroscopie, puis
+passer à la réaction suivante de notre synthèse.
+
+Maybe now we have our purified ether and 
+can move onto the final step to make Paxil,  
+Peut-être que maintenant nous avons notre éther purifié et
+pouvons passer à l'étape finale pour fabriquer du Paxil,
+
+or we're doing any number of other reactions.
+ou nous faisons un certain nombre d'autres réactions.
+
+Flash chromatography is pretty 
+common in organic chemistry!
+La chromatographie flash est assez
+courante en chimie organique !
+
+In this episode we learned that:
+Dans cet épisode, nous avons appris que : la
+
+Chromatography separates organic 
+compounds based on polarity
+chromatographie sépare les composés organiques en
+fonction de la polarité La
+
+Thin layer chromatography tells 
+us how well our reaction went,
+chromatographie en couche mince
+nous indique le bon déroulement de notre réaction,
+
+and Flash chromatography lets us separate 
+larger quantities of compounds
+et la chromatographie flash nous permet de séparer de
+plus grandes quantités de composés
+
+In the next episode, we’ll talk about how we 
+can use proton NMR,
+Dans le prochain épisode, nous parlerons de la façon dont nous
+pouvons utiliser le proton  La RMN, l'
+
+one of the most important spectroscopy techniques to an organic chemist, 
+to see if we really made our desired product.
+une des techniques de spectroscopie les plus importantes pour un chimiste organique,
+pour voir si nous avons vraiment fabriqué le produit souhaité.
+
+Until then, thanks for watching this 
+episode of Crash Course Organic Chemistry.
+En attendant, merci d'avoir regardé cet
+épisode du cours intensif de chimie organique.
+
+If you want to help keep all 
+Crash Course free for everybody, forever,
+Si vous voulez aider à garder tous les
+cours intensifs gratuits pour tout le monde, pour toujours,
+
+you can join our community on Patreon.
+vous pouvez rejoindre notre communauté sur Patreon.
+

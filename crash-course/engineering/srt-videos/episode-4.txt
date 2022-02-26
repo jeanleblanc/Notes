@@ -1,0 +1,553 @@
+Electricity powers our world.
+L'électricité alimente notre monde.
+
+And we harness it through electrical engineering,
+the field that focuses on the application of electricity
+and electromagnetism in our everyday lives.
+Et nous l'exploitons grâce au génie électrique,
+le domaine qui se concentre sur l'application de l'électricité
+et de l'électromagnétisme dans notre vie quotidienne.
+
+Just as you have blood pumping through your
+veins, machines and systems often need electrical
+power flowing through their wires to work.
+Tout comme vous avez du sang qui circule dans vos
+veines, les machines et les systèmes ont souvent besoin d'énergie
+électrique circulant dans leurs fils pour fonctionner.
+
+It’s the lifeblood of our society.
+C'est l'âme de notre société.
+
+And it’s hard to imagine society today without three
+of the main branches of electrical engineering:
+Et il est difficile d'imaginer la société d'aujourd'hui sans trois
+des principales branches de l'électrotechnique : les
+
+telecommunications, power and lighting;
+and computer engineering.
+télécommunications, l'énergie et l'éclairage ;
+et génie informatique.
+
+They each came about in their own way, with
+their own challenges and victories, their own
+heroes and sometimes villains.
+Ils ont chacun vu le jour à leur manière, avec
+leurs propres défis et victoires, leurs propres
+héros et parfois des méchants.
+
+And you’d be surprised how much death is
+involved in the history of electrical engineering.
+Et vous seriez surpris de voir à quel point la mort est
+impliquée dans l'histoire de l'électrotechnique.
+
+Well, it can be dangerous.
+Eh bien, cela peut être dangereux.
+
+[Theme Music]
+[Thème musical]
+
+Electrical engineering deals with the properties
+of electricity and magnetism.
+L'électrotechnique traite des propriétés
+de l'électricité et du magnétisme.
+
+So it stands to reason that the field didn’t really
+exist until we knew what those things were.
+Il va donc de soi que le champ n'existait pas vraiment
+jusqu'à ce que nous sachions ce que ces choses étaient.
+
+No one had a very good understanding of electromagnetism
+Personne n'avait une très bonne compréhension de l'électromagnétisme
+
+until English physicist William Gilbert released
+his principal work, De Magnete, or “On the Magnet”,
+back in 1600.
+jusqu'à ce que le physicien anglais William Gilbert publie
+son ouvrage principal, De Magnete, ou "On the Magnet"
+, en 1600.
+
+After years of experimentation, he found that the needle
+of a compass points north-south and dips downwards
+because the Earth is basically a giant magnet.
+Après des années d'expérimentation, il découvrit que l'aiguille
+d'une boussole pointe nord-sud.  et plonge vers
+le bas parce que la Terre est essentiellement un aimant géant.
+
+He was the first to describe the phenomena we now
+associate with electrical attraction and magnetic poles,
+Il a été le premier à décrire les phénomènes que nous
+associons maintenant à l'attraction électrique et aux pôles magnétiques
+
+which is why many view him as
+the father of electrical studies.
+, c'est pourquoi beaucoup le considèrent comme
+le père des études électriques.
+
+Now, electrical conduction – which is the movement
+of electrically charged particles through a transmission
+medium –
+Maintenant, la conduction électrique - qui est le mouvement
+de particules chargées électriquement à travers un
+milieu de transmission -
+
+wasn’t discovered until around 1729, by a
+British scientist – Stephen Gray.
+n'a été découverte que vers 1729, par un
+scientifique britannique - Stephen Gray.
+
+He discovered it while doing experiments in which
+he connected a glass tube to various objects, like an
+ivory ball or a piece of cork, by wire or string.
+Il l'a découvert en faisant des expériences dans lesquelles
+il reliait un tube de verre à divers objets, comme une
+boule d'ivoire ou un morceau de liège, par du fil ou de la ficelle.
+
+When he rubbed the glass tube, creating friction,
+he found the object at the other end of the line
+would be electrified.
+Lorsqu'il a frotté le tube de verre, créant une friction,
+il a découvert que l'objet à l'autre bout de la ligne
+serait électrifié.
+
+With the age of discovery and colonization upon
+the world, could Gray’s work be used to produce
+a faster means of communication?
+À l'ère de la découverte et de la colonisation
+du monde, le travail de Gray pourrait-il être utilisé pour produire
+un moyen de communication plus rapide ?
+
+This brings us to the start of the first field
+of electrical engineering: telecommunication.
+Cela nous amène au début du premier domaine
+du génie électrique : les télécommunications.
+
+Efforts to communicate over long distances,
+by things like semaphore, were undertaken as
+early as the 1700s.
+Des efforts pour communiquer sur de longues distances,
+par des choses comme le sémaphore, ont été entrepris
+dès les années 1700.
+
+But it wasn’t until 1837 that Sir William
+Fothergill Cooke and Charles Wheatstone
+patented the first electric telegraph.
+Mais ce n'est qu'en 1837 que Sir William
+Fothergill Cooke et Charles Wheatstone ont
+breveté le premier télégraphe électrique.
+
+Their design used five or six magnetic needles
+to sway right or left to indicate specific letters.
+Leur conception utilisait cinq ou six aiguilles magnétiques
+pour se balancer à droite ou à gauche pour indiquer des lettres spécifiques.
+
+This early model was a little impractical
+because of its cost, but the men later patented a
+new version that only used one magnetic needle.
+Ce premier modèle était un peu peu pratique en
+raison de son coût, mais les hommes ont ensuite breveté une
+nouvelle version qui n'utilisait qu'une seule aiguille magnétique.
+
+Their invention was clearly a neat idea.
+Leur invention était clairement une bonne idée.
+
+But it didn’t really take off, until it was used to
+solve a murder that sounds like it was lifted from
+the pages of a Sherlock Holmes novel.
+Mais cela n'a pas vraiment décollé, jusqu'à ce qu'il soit utilisé pour
+résoudre un meurtre qui semble avoir été tiré
+des pages d'un roman de Sherlock Holmes.
+
+On New Year’s Day 1845, a man named John Tawell
+gave a woman he was seeing a fatal dose of poison.
+Le jour du Nouvel An 1845, un homme du nom de John Tawell a
+donné à une femme qu'il voyait une dose mortelle de poison.
+
+As the poison set in, she started to scream,
+which alerted the neighbors.
+Lorsque le poison s'est installé, elle s'est mise à crier,
+ce qui a alerté les voisins.
+
+And Tawell ran off in a panic, thinking he
+escaped the law as he boarded a train from
+Slough to London.
+Et Tawell s'est enfui dans la panique, pensant avoir
+échappé à la loi alors qu'il montait à bord d'un train de
+Slough à Londres.
+
+But his escape was foiled by technology.
+Mais son évasion a été déjouée par la technologie.
+
+His description was sent by telegraph to London,
+where Tawell was arrested and later tried and hanged.
+Sa description a été envoyée par télégraphe à Londres,
+où Tawell a été arrêté puis jugé et pendu.
+
+It’s a rather gruesome way to make an
+invention popular, but it spread the story of
+the electric telegraph nonetheless.
+C'est une façon assez horrible de rendre une
+invention populaire, mais cela a néanmoins répandu l'histoire du
+télégraphe électrique.
+
+Around the same time as all of this was happening,
+Samuel Morse was making his own developments
+in the United States.
+À peu près au même moment où tout cela se passait,
+Samuel Morse faisait ses propres développements
+aux États-Unis.
+
+He figured out how to use an electromagnet
+with a pen, so that when the electromagnet was
+energized, the pen made a mark on paper.
+Il a compris comment utiliser un électro-aimant
+avec un stylo, de sorte que lorsque l'électro-aimant était
+alimenté, le stylo faisait une marque sur le papier.
+
+In 1838, he developed a system of dots and
+dashes, now known as Morse code, so that
+messages could be easily transmitted.
+En 1838, il a développé un système de points et de
+tirets, maintenant connu sous le nom de code Morse, afin que les
+messages puissent être facilement transmis.
+
+By 1844, he had obtained financial support
+from Congress and built the first telegraph
+line in the United States.
+En 1844, il avait obtenu le soutien financier
+du Congrès et construit la première
+ligne télégraphique aux États-Unis.
+
+It travelled between Baltimore and Washington,
+and on May 24th, he sent the line’s first message,
+“What hath God wrought.”
+Il a voyagé entre Baltimore et Washington,
+et le 24 mai, il a envoyé le premier message de la ligne,
+"Qu'est-ce que Dieu a fait."
+
+Pretty ominous, if I do say so myself.
+Assez inquiétant, si je le dis moi-même.
+
+About 20 years later, in 1866, the British ship
+Great Eastern succeeded in laying the first permanent
+telegraph line across the Atlantic Ocean.
+Environ 20 ans plus tard, en 1866, le navire britannique
+Great Eastern réussit à poser la première
+ligne télégraphique permanente à travers l'océan Atlantique.
+
+Before it, large bodies of water were a big
+obstacle for means of telecommunication.
+Avant cela, les grandes étendues d'eau constituaient un
+obstacle majeur pour les moyens de télécommunication.
+
+After the transatlantic telegraph line, some engineers
+began to realize that by fluctuating an electric current,
+they could induce different sound vibrations.
+Après la ligne télégraphique transatlantique, certains ingénieurs ont
+commencé à se rendre compte qu'en faisant fluctuer un courant électrique,
+ils pouvaient induire différentes vibrations sonores.
+
+It made them wonder, if they could 
+manipulate sound vibrations,
+Cela les a amenés à se demander, s'ils pouvaient
+manipuler les vibrations sonores,
+
+could they input a sound on one end of a telegraph
+line and replicate the same sound on the other end?
+pourraient-ils entrer un son à une extrémité d'une
+ligne télégraphique et reproduire le même son à l'autre extrémité ?
+
+Could they capture the human voice?
+Pourraient-ils capter la voix humaine ?
+
+By 1876, they did just that, with the invention
+of the telephone.
+En 1876, c'est exactement ce qu'ils ont fait, avec l'invention
+du téléphone.
+
+A few different minds came up with similar ideas
+at the same time, but Alexander Graham Bell was
+the first to get the patent.
+Quelques esprits différents ont eu des idées similaires
+en même temps, mais Alexander Graham Bell a été
+le premier à obtenir le brevet.
+
+He was able to use a fluctuating current to vary the magnetism in the coil of an electromagnet, which caused a small piece of iron to vibrate on a diaphragm.
+Il était capable d'utiliser un courant fluctuant pour faire varier le magnétisme dans la bobine d'un électroaimant, ce qui faisait vibrer un petit morceau de fer sur un diaphragme.
+
+This replicated the vibration that had initially sent
+the fluctuation, which reproduced the initial sound.
+Cela reproduisait la vibration qui avait initialement envoyé
+la fluctuation, qui reproduisait le son initial.
+
+Now you could call talk to people who were
+far away, but you still needed telephone lines and
+a phone with a physical connection to them.
+Maintenant, vous pouviez appeler des personnes
+éloignées, mais vous aviez toujours besoin de lignes téléphoniques et d'
+un téléphone avec une connexion physique avec elles.
+
+But that changed when Heinrich Hertz discovered
+electromagnetic waves around 1887.
+Mais cela a changé lorsque Heinrich Hertz a découvert les
+ondes électromagnétiques vers 1887.
+
+It was soon realized that these waves could
+carry a signal by modifying their wavelength,
+amplitude, and frequency.
+On s'est vite rendu compte que ces ondes pouvaient
+transporter un signal en modifiant leur longueur d'onde, leur
+amplitude et leur fréquence.
+
+This led to the radio, and the never-ending
+confusion over who gets credit for inventing it.
+Cela a conduit à la radio et à la
+confusion sans fin quant à savoir à qui revient le mérite de l'avoir inventée.
+
+Now, after World War I, electrical engineers
+manipulated these signals and found that along with
+the conversion of light to electrical impulses,
+Maintenant, après la Première Guerre mondiale, les ingénieurs électriciens ont
+manipulé ces signaux et ont découvert qu'avec
+la conversion de la lumière en impulsions électriques,
+
+they could create a visual broadcast: television.
+ils pouvaient créer une émission visuelle : la télévision.
+
+Since then, we’ve taken these signals even
+further.
+Depuis lors, nous avons poussé ces signaux encore
+plus loin.
+
+With the internet and wifi, we’ve developed
+nearly instant, wireless communication around
+the world.
+Avec Internet et le Wi-Fi, nous avons développé
+une communication sans fil presque instantanée dans
+le monde entier.
+
+But electrical engineering is far more than
+telecommunication.
+Mais l'électrotechnique, c'est bien plus que les
+télécommunications.
+
+We have electrical engineering to thank for
+supplying power and light.
+Nous devons remercier le génie électrique pour l'
+alimentation et la lumière.
+
+In 1801, Sir Humphry Davy discovered that he
+could produce a brilliant spark, or arc, between
+two carbon rods in a battery circuit.
+En 1801, Sir Humphry Davy découvrit qu'il
+pouvait produire une étincelle brillante, ou arc, entre
+deux tiges de carbone dans un circuit de batterie.
+
+This is called arc lighting.
+C'est ce qu'on appelle l'éclairage à arc.
+
+Davy’s battery wasn’t powerful enough
+to produce a stable arc.
+La batterie de Davy n'était pas assez puissante
+pour produire un arc stable.
+
+So arc lighting wasn’t commercially
+feasible until the 1870’s,
+L'éclairage à arc n'était donc pas commercialement
+réalisable avant les années 1870,
+
+after Belgian-born engineer Zénobe-Théophile
+Gramme developed a generator that could support
+a higher power capacity.
+après que l'ingénieur d'origine belge Zénobe-Théophile
+Gramme ait développé un générateur capable de supporter
+une capacité de puissance plus élevée.
+
+It was called the Gramme dynamo, a
+continuous-current electrical generator that drove
+the push for electrical power.
+Elle s'appelait la dynamo Gramme, un
+générateur électrique à courant continu qui
+propulsait l'énergie électrique.
+
+While arc lighting began showing up on streets
+around the world, Thomas Edison realized that arc
+lighting was too bright to be used in the home.
+Alors que l'éclairage à arc a commencé à apparaître dans les rues
+du monde entier, Thomas Edison s'est rendu compte que l'
+éclairage à arc était trop lumineux pour être utilisé à la maison.
+
+This led to his development of the incandescent
+lamp.
+Cela a conduit à son développement de la
+lampe à incandescence.
+
+By capitalizing on the work of many others,
+En capitalisant sur le travail de nombreux autres,
+
+his incandescent lighting systems were soon featured
+at popular exhibits such as the Paris Lighting Exhibition
+in 1881 and the Crystal Palace in London.
+ses systèmes d'éclairage à incandescence ont rapidement été présentés
+lors d'expositions populaires telles que l'exposition d'éclairage de Paris
+en 1881 et le Crystal Palace à Londres.
+
+But Edison quickly gained competition, most notably
+from George Westinghouse and Nikola Tesla.
+Mais Edison a rapidement gagné la concurrence, notamment
+de George Westinghouse et Nikola Tesla.
+
+This led to what’s now remembered as the
+War of Currents,
+Cela a conduit à ce dont on se souvient maintenant comme la
+guerre des courants,
+
+with Westinghouse and Tesla as proponents
+of an alternating, or AC, current against Edison’s
+direct, or DC, current.
+avec Westinghouse et Tesla comme partisans
+d'un courant alternatif, ou courant alternatif, contre le
+courant continu, ou courant continu, d'Edison.
+
+Edison did his best to discredit AC currents by
+trying to convince the public they were dangerous.
+Edison a fait de son mieux pour discréditer les courants alternatifs en
+essayant de convaincre le public qu'ils étaient dangereux.
+
+He had animals electrocuted by AC currents on
+public display, and even recommended electrocution
+as a death-penalty alternative to hanging prisoners.
+Il a fait électrocuter des animaux par des courants alternatifs
+exposés au public et a même recommandé l'électrocution
+comme alternative à la peine de mort à la pendaison des prisonniers.
+
+At which he succeeded.
+A quoi il a réussi.
+
+The first person to be executed by electricity was
+a convicted murderer named William Kemmler, who
+was put to death in the electric chair in 1890.
+La première personne à être exécutée par l'électricité était
+un meurtrier reconnu coupable nommé William Kemmler, qui a
+été mis à mort sur la chaise électrique en 1890.
+
+Despite his other efforts, though, Edison
+failed to discredit the push for AC.
+Malgré ses autres efforts, cependant, Edison
+n'a pas réussi à discréditer la pression pour AC.
+
+Westinghouse won the contract to supply electricity to
+the 1893 World’s fair in Chicago, and AC currents have
+since become dominant in the electric power industry.
+Westinghouse a remporté le contrat de fourniture d'électricité à
+l'exposition universelle de 1893 à Chicago, et les courants alternatifs sont
+depuis devenus dominants dans l'industrie de l'énergie électrique.
+
+We also have electrical engineering to thank for
+many of the electronic devices we use every day.
+Nous devons également remercier le génie électrique pour
+de nombreux appareils électroniques que nous utilisons quotidiennement.
+
+That brings us to the third field of electrical
+engineering: computers.
+Cela nous amène au troisième domaine du
+génie électrique : les ordinateurs.
+
+In their beginning, before World War II,
+most computers were part of what was called
+“radio engineering”.
+À leurs débuts, avant la Seconde Guerre mondiale, la
+plupart des ordinateurs faisaient partie de ce qu'on appelait
+« l'ingénierie radio ».
+
+Most of the computer’s focus was on radar,
+radio, and early television.
+L'ordinateur se concentrait principalement sur le radar, la
+radio et les premières télévisions.
+
+Their primary work was in processing the signals
+of those devices.
+Leur travail principal consistait à traiter les signaux
+de ces appareils.
+
+Computers only began to gain a broader audience
+after the transistor was developed in 1947.
+Les ordinateurs n'ont commencé à gagner un public plus large
+qu'après le développement du transistor en 1947.
+
+The point-contact transistor was a semiconductor
+device that could amplify or switch electrical signals.
+Le transistor à contact ponctuel était un dispositif semi-
+conducteur capable d'amplifier ou de commuter des signaux électriques.
+
+It allowed electrical engineers to replace
+vacuum tubes, which were bulky, unstable,
+and consumed too much power.
+Il a permis aux ingénieurs électriciens de remplacer les
+tubes à vide, qui étaient encombrants, instables
+et consommaient trop d'énergie.
+
+But while the computers could be smaller,
+they were still pretty large.
+Mais alors que les ordinateurs pouvaient être plus petits,
+ils étaient encore assez gros.
+
+They also needed a separate integrated chip
+for each one of their functions.
+Ils avaient également besoin d'une puce intégrée distincte
+pour chacune de leurs fonctions.
+
+Then, in 1968, American engineer Marcian Hoff
+helped solve these problems.
+Puis, en 1968, l'ingénieur américain Marcian Hoff a
+aidé à résoudre ces problèmes.
+
+He conceived of a universal processor that
+could be used by all computers.
+Il a conçu un processeur universel
+pouvant être utilisé par tous les ordinateurs.
+
+His work led to the Intel 4004, the world’s
+first commercial microprocessor.
+Son travail a conduit à l'Intel 4004, le
+premier microprocesseur commercial au monde.
+
+Since microprocessors were so tiny, the computers
+themselves could be even smaller.
+Comme les microprocesseurs étaient si petits, les ordinateurs
+eux-mêmes pouvaient être encore plus petits.
+
+And, that’s how electrical engineers shaped the
+world we live in today: with telecommunications,
+electric power and lighting, and computers.
+Et c'est ainsi que les ingénieurs électriciens ont façonné le
+monde dans lequel nous vivons aujourd'hui : avec les télécommunications, l'
+électricité et l'éclairage, et les ordinateurs.
+
+The fact is, it takes all three of these fields – none
+of which existed until a couple hundred years ago – to
+work together, for you to watch me right now.
+Le fait est qu'il faut que ces trois domaines -
+dont aucun n'existait jusqu'à il y a quelques centaines d'années -
+travaillent ensemble, pour que vous me regardiez en ce moment.
+
+So today we explored the history of each of these fields, touching on such topics as magnetism, electrical conduction, telegraphy, lighting, and computers.
+Nous avons donc exploré aujourd'hui l'histoire de chacun de ces domaines, en abordant des sujets tels que le magnétisme, la conduction électrique, la télégraphie, l'éclairage et les ordinateurs.
+
+Crash Course Engineering is produced in association
+with PBS Digital Studios.
+Crash Course Engineering est produit en association
+avec PBS Digital Studios.
+
+You can head over to their channel to check out a playlist of their amazing shows, like Brain Craft, Global Weirding with Katharine Hayhoe, and Hot Mess.
+Vous pouvez vous rendre sur leur chaîne pour consulter une liste de lecture de leurs émissions incroyables, comme Brain Craft, Global Weirding avec Katharine Hayhoe et Hot Mess.
+
+Crash Course is a Complexly production and this
+episode was filmed in the Doctor Cheryl C. Kinney
+Studio with the help of these wonderful people.
+Crash Course est une production de Complexly et cet
+épisode a été filmé dans le studio du docteur Cheryl C. Kinney
+avec l'aide de ces personnes merveilleuses.
+
+And our amazing graphics team is Thought Cafe.
+Et notre incroyable équipe graphique est Thought Cafe.
+

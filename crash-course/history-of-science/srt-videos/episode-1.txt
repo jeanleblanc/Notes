@@ -1,0 +1,872 @@
+Hello, and welcome to our new series—Crash
+Course: History of Science.
+Bonjour et bienvenue dans notre nouvelle série—Crash
+Course: History of Science.
+
+My name is Hank Green, and I’ve wanted to
+produce this course for years.
+Je m'appelle Hank Green et je voulais
+produire ce cours depuis des années.
+
+I’m obsessed with how people throughout
+the ages have uncovered truths about the universe
+Je suis obsédé par la façon dont les gens à travers
+les âges ont découvert des vérités sur l'univers
+
+and converted these into a wealth of technological
+wonders.
+et les ont converties en une multitude de
+merveilles technologiques.
+
+This process has decreased the suffering of
+millions of humans—even as it’s sparked
+Ce processus a diminué la souffrance de
+millions d'humains, même s'il a déclenché
+
+entirely new problems.
+des problèmes entièrement nouveaux.
+
+Regardless of the outcomes of scientific inquiry,
+the process itself is fascinating.
+Indépendamment des résultats de la recherche scientifique,
+le processus lui-même est fascinant.
+
+The world you inhabit today is full of gadgets
+that once belonged to science fiction.
+Le monde que vous habitez aujourd'hui regorge de gadgets
+qui appartenaient autrefois à la science-fiction.
+
+We can model what the earth looked like millions
+of years ago, or zoom in and observe the atoms
+Nous pouvons modéliser à quoi ressemblait la Terre
+il y a des millions d'années, ou zoomer et observer les atomes
+
+that make up our own bodies.
+qui composent notre propre corps.
+
+We are going to tell that inspiring story:
+we’ll be thinking about thinking with Aristotle,
+Nous allons raconter cette histoire inspirante :
+nous penserons à réfléchir avec Aristote, à
+
+digging canals in Song Dynasty China,
+creuser des canaux dans la Chine de la dynastie Song, à
+
+listening to robot musicians in medieval Turkey,
+écouter des robots musiciens dans la Turquie médiévale, à
+
+fighting an electrical war in New York City,
+mener une guerre électrique à New York
+
+and discovering the shape of DNA in Cold War
+England.
+et à découvrir la forme de l'ADN dans
+Angleterre de la guerre froide.
+
+But the history of science is not only a story
+of humanity’s collective movement from ignorance
+Mais l'histoire des sciences n'est pas seulement l'histoire
+du passage collectif de l'humanité de l'ignorance
+
+to knowledge, for two different reasons.
+à la connaissance, pour deux raisons différentes.
+
+First, as much as scientists today may not
+like to admit it, we are still pretty ignorant…
+Tout d'abord, même si les scientifiques d'aujourd'hui
+n'aiment pas l'admettre, nous sommes encore assez ignorants…
+
+And we don’t agree on what it would mean
+to reach the ultimate Truth, capital T.
+Et nous ne sommes pas d'accord sur ce que cela signifierait
+d'atteindre la Vérité ultime, T majuscule.
+
+Take a big question that we've been asking for a long time like “what is stuff”:
+Prenez une grande question que nous avons posée  pendant longtemps comme « qu'est-ce que la matière » :
+
+While modern physicists will tell you that
+alors que les physiciens modernes vous diront que la
+
+stuff is made of atoms, and atoms are made
+of quarks and leptons, we still don’t know
+matière est constituée d'atomes, et que les atomes sont constitués
+de quarks et de leptons, nous ne savons toujours pas
+
+why quarks exist.
+pourquoi les quarks existent.
+
+Or why there appears to be far more matter
+in the universe than we can account for.
+Ou pourquoi il semble y avoir beaucoup plus de matière
+dans l'univers que nous ne pouvons en rendre compte.
+
+Even something as basic as “stuff” needs
+a lot more sciencing!
+Même quelque chose d'aussi basique que des "trucs" a besoin
+de beaucoup plus de science !
+
+Second, and more importantly for historians,
+“science” isn’t a stable or single idea.
+Deuxièmement, et plus important encore pour les historiens, la
+"science" n'est pas une idée stable ou unique.
+
+That’s why, in this episode, we’re going
+to be thinking about some ways to answer a deceptively
+C'est pourquoi, dans cet épisode, nous
+allons réfléchir à des moyens de répondre à une question d'une
+
+simple question:
+simplicité trompeuse : de
+
+what is the history of science the history
+of?
+quoi l'histoire des sciences est-elle l'
+histoire ?
+
+[intro music plays]
+[musique d'intro]
+
+Today, “science” can mean both our body
+of knowledge about the world as well as the
+Aujourd'hui, la « science » peut signifier à la fois notre ensemble
+de connaissances sur le monde ainsi que les
+
+methods we use to create that knowledge, or
+how we know the stuff that we know.
+méthodes que nous utilisons pour créer ces connaissances, ou
+comment nous savons ce que nous savons.
+
+Within that “how,” there are two main
+practices—things that we do—that systematically
+Dans ce « comment », il y a deux
+pratiques principales – des choses que nous faisons – qui
+
+generate knowledge:
+génèrent systématiquement des connaissances :
+
+One: observe some specific aspect of the world.
+Premièrement : observer un aspect spécifique du monde.
+
+For example, Darwin spent decades obsessively
+observing the subtle variations in different
+Par exemple, Darwin a passé des décennies à
+observer de manière obsessionnelle les variations subtiles de différents
+
+kinds of barnacles, orchids, turtles, birds,
+and other living things.
+types de balanes, d'orchidées, de tortues, d'oiseaux
+et d'autres êtres vivants.
+
+This led him to theorize how they had changed
+over time.
+Cela l'a amené à théoriser comment ils avaient changé au
+fil du temps.
+
+My dude loved barnacles!
+Mon mec adorait les balanes !
+
+Two: conduct an experiment to answer some
+question about the world.
+Deux : mener une expérience pour répondre à une
+question sur le monde.
+
+Did Galileo drop two metal balls of different
+masses from the Leaning Tower of Pisa, to
+Galilée a-t-il fait tomber deux boules de métal de
+masses différentes de la tour penchée de Pise, pour
+
+show that they fall at the same rate and disprove
+Aristotle’s theory of gravity?
+montrer qu'elles tombent au même rythme et réfuter
+la théorie de la gravité d'Aristote ?
+
+Probably not.
+Probablement pas. 
+
+But Dutch thinkers Simon Stevin and Jan Cornets
+de Groot did conduct that experiment soon after.
+Mais les penseurs hollandais Simon Stevin et Jan Cornets
+de Groot ont mené cette expérience peu de temps après.
+
+Today, we have much bigger “towers” for
+testing theories in physics: the Large Hadron
+Aujourd'hui, nous avons des « tours » beaucoup plus grandes pour
+tester des théories en physique : le Large Hadron
+
+Collider is seventeen miles long!
+Collider mesure 17 miles de long !
+
+Finally, when I said systematically, I meant
+that there are rules about observing or experimenting—rules
+Enfin, quand j'ai dit systématiquement, je voulais dire
+qu'il y a des règles concernant l'observation ou l'expérimentation, des règles
+
+that anyone can follow.
+que n'importe qui peut suivre.
+
+That notion of anyone being able to be a scientist
+is super important.
+Cette notion de n'importe qui pouvant être un scientifique
+est super importante.
+
+In fact, a lot of contemporary scientists
+have three Latin words tattooed on their arms:
+En fait, beaucoup de scientifiques contemporains
+ont trois mots latins tatoués sur leurs bras :
+
+“NULLIUS IN VERBA”—“on no one’s
+word…”
+"NULLIUS IN VERBA" - "sur la
+parole de personne..."
+
+Let’s explore this phrase because it's important.
+Explorons cette phrase parce qu'elle est importante.
+
+In this series, The Thoughtbubble is going
+to bring to life different wonders from the
+Dans cette série, The Thoughtbubble
+va donner vie à différentes merveilles de l'
+
+history of science.
+histoire des sciences.
+
+Today, our wonder is pretty abstract: the
+wonder of the reproducible experiment.
+Aujourd'hui, notre merveille est assez abstraite : la
+merveille de l'expérience reproductible.
+
+“NULLIUS IN VERBA” is the motto of the
+Royal Society.
+« NULLIUS IN VERBA » est la devise de la
+Royal Society.
+
+This group of knowledge-makers was founded
+in 1660 as a “College for the Promoting
+Ce groupe de créateurs de connaissances a été fondé
+en 1660 sous le nom de "College for the Promoting
+
+of Physico-Mathematical Experimental Learning”
+and re-founded in 1663 as “the Royal Society
+of Physico-Mathematical Experimental Learning"
+et refondé en 1663 sous le nom de "Royal Society
+
+of London for the Improvement of Natural Knowledge.”
+of London for the Improvement of Natural Knowledge".
+
+And it’s still around today!
+Et c'est toujours le cas aujourd'hui !
+
+The Society was started as a place to debate
+new ideas about nature.
+La Société a été créée comme un lieu de débat sur de
+nouvelles idées sur la nature.
+
+Its members demonstrated experiments in front
+of each other—“witnessing” the proofs
+Ses membres ont fait des démonstrations d'expériences les
+uns devant les autres, « témoignant » des preuves
+
+behind their theories.
+derrière leurs théories.
+
+They wrote up these theories in the Society’s
+Philosophical Transactions, one of the world’s
+Ils ont rédigé ces théories dans
+Philosophical Transactions de la Society, l'une des plus
+
+oldest peer-reviewed scientific journals.
+anciennes revues scientifiques à comité de lecture au monde.
+
+Influenced by Francis Bacon’s ideas, which
+would eventually become associated with the
+Influencés par les idées de Francis Bacon,
+qui finiront par être associées à la
+
+“scientific method,” the founding members
+of the Royal Society chose a motto with an
+«méthode scientifique», les membres fondateurs
+de la Royal Society ont choisi une devise au
+
+unambiguous meaning:
+sens sans ambiguïté:
+
+don’t believe something just because someone
+tells you it’s true.
+ne croyez pas quelque chose simplement parce que quelqu'un
+vous dit que c'est vrai.
+
+Test out each new hypothesis, or educated
+guess, yourself.
+Testez vous-même chaque nouvelle hypothèse ou
+supposition éclairée.
+
+In other words: your individual proof of how
+some natural phenomenon works should be something
+En d'autres termes : votre preuve individuelle du fonctionnement
+d'un phénomène naturel devrait être quelque chose
+
+that anyone can reproduce.
+que n'importe qui peut reproduire.
+
+This idea had an enormous impact on the history
+of science.
+Cette idée a eu un impact énorme sur l'histoire
+des sciences.
+
+Later members of the Royal Society included
+stars such as Ike Newton, Ben Franklin, Mike
+Les membres ultérieurs de la Royal Society comprenaient des
+stars telles que Ike Newton, Ben Franklin, Mike
+
+Faraday, Chuck Darwin, and even Big Al Einstein,
+who was about as British as sauerkraut.
+Faraday, Chuck Darwin et même Big Al Einstein,
+qui était à peu près aussi britannique que la choucroute.
+
+In fact—plot twist!—the early scientists
+who adopted the creed “NULLIUS IN VERBA”
+En fait – intrigue ! – les premiers scientifiques
+qui ont adopté le credo « NULLIUS IN VERBA »
+
+were not actually “scientists.”
+n'étaient pas réellement des « scientifiques ».
+
+They were well-off alchemists and medical doctors,
+C'étaient des alchimistes et des médecins aisés,
+
+and they called themselves Natural Philosophers.
+et ils s'appelaient eux-mêmes des philosophes naturels.
+
+Or, "People who loved truths concerning the world around them."
+Ou, "Les gens qui aimaient les vérités concernant le monde autour d'eux."
+
+Natural philosophy in seventeenth-century
+England was sort of like the contemporary
+La philosophie naturelle dans l'
+Angleterre du XVIIe siècle était un peu comme les
+
+natural sciences mashed up with medicine,
+mathematics, some philosophy–philosophy,
+sciences naturelles contemporaines mélangées avec la médecine, les
+mathématiques, un peu de philosophie-philosophie
+
+and a whiff of religion.
+et une bouffée de religion.
+
+The word “scientist” was only coined recently,
+in historical terms, in the 1830s, and caught
+Le mot "scientifique" n'a été inventé que récemment,
+en termes historiques, dans les années 1830, et s'est
+
+on around 1840.
+répandu vers 1840.
+
+It was made up by an English scientist named
+William Whewell who was also a historian of
+Il a été inventé par un scientifique anglais du nom de
+William Whewell, qui était également historien des
+
+science and a priest.
+sciences et prêtre.
+
+So if we only cared about the history of people
+called “scientists,” our job would be
+Alors si on ne s'intéressait qu'à l'histoire des gens
+dits « savants », notre travail serait
+
+easy: there aren’t any until around 1840!
+facile : il n'y en a pas avant 1840 environ !
+
+And most people called scientists, or natural
+philosophers, looked suspiciously similar
+Et la plupart des gens appelés scientifiques, ou
+philosophes de la nature, se ressemblaient étrangement
+
+to one another.
+.
+
+Take the Royal Society: its members have been,
+until recently, almost exclusively rich English
+Prenez la Royal Society : ses membres étaient,
+jusqu'à récemment, presque exclusivement des Anglais riches
+
+men.
+.
+
+Even though their ranks have included many
+incredibly clever scientists, they haven’t
+Même si leurs rangs ont inclus de nombreux
+scientifiques incroyablement intelligents, ils n'ont
+
+represented anything like all knowledge makers.
+rien représenté comme tous les créateurs de connaissances.
+
+The sixty-second President of the Royal Society,
+biophysicist Venkatraman Ramakrishnan, is
+Le soixante-deuxième président de la Royal Society, le
+biophysicien Venkatraman Ramakrishnan, est
+
+the group’s first non-white leader.
+le premier dirigeant non blanc du groupe.
+
+And there has never been a female President.
+Et il n'y a jamais eu de femme présidente.
+
+But the history of systematically knowing
+stuff goes back much further than the Royal
+Mais l'histoire de la connaissance systématique des
+choses remonte à bien plus loin que la Royal
+
+Society and includes more types of people
+than English blokes.
+Society et comprend plus de types de personnes
+que les mecs anglais.
+
+Thus “science” is a historical and social
+concept—not one that’s existed forever,
+Ainsi, la « science » est un concept historique et social,
+qui n'existe pas depuis toujours,
+
+in the same way for all people.
+de la même manière pour tous les peuples.
+
+Because the history of science includes many
+systems of understanding the world, we have
+Parce que l'histoire des sciences comprend de nombreux
+systèmes de compréhension du monde, nous
+
+to consider these systems on their own terms.
+devons considérer ces systèmes selon leurs propres termes.
+
+It may seem simpler to focus on the “winners”
+of history.
+Il peut sembler plus simple de se focaliser sur les « gagnants »
+de l'histoire.
+
+But hearing only the big Euroamerican names—Plato,
+Einstein—doesn’t teach us as much about
+Mais n'entendre que les grands noms euroaméricains - Platon,
+Einstein - ne nous en apprend pas autant sur
+
+our global system of science today.
+notre système scientifique mondial aujourd'hui.
+
+Taking the time to highlight different knowledge
+worlds will help us see our own as relatively
+Prendre le temps de mettre en évidence différents
+mondes de connaissances nous aidera à voir le nôtre comme relativement
+
+recent, not entirely unified, and evolving.
+récent, pas entièrement unifié et en évolution.
+
+For example, we’ll learn about the Greco-Latin-Jewish-Arabic
+medicine of the medieval Mediterranean world,
+Par exemple, nous en apprendrons davantage sur la médecine gréco-latine-juive-arabe
+du monde méditerranéen médiéval, des
+
+millennia of ayurvedic knowledge across the
+millénaires de connaissances ayurvédiques à travers le
+
+Subcontinent, traditional Chinese medicine,
+and Incan “talking knots” and engineering—just
+sous-continent, la médecine traditionnelle chinoise
+et les « nœuds parlants » incas et l'ingénierie,
+
+to name a few.
+pour n'en nommer que quelques-uns.
+
+Each of these systems has its own social norms
+about what count as valid ways to make and
+Chacun de ces systèmes a ses propres normes sociales
+sur ce qui compte comme des moyens valables de créer et de
+
+share knowledge.
+partager des connaissances.
+
+We’ll look at modern scientific norms in
+a later episode.
+Nous examinerons les normes scientifiques modernes dans
+un épisode ultérieur.
+
+And each of these can help us see the “otherness”
+of these past or different cultures as not
+Et chacun de ces éléments peut nous aider à voir « l'altérité »
+de ces cultures passées ou différentes comme n'étant pas
+
+so other, after all.
+si différentes, après tout.
+
+We can see natural philosophers and other
+proto-scientists as smart people making sense
+Nous pouvons voir les philosophes de la nature et autres
+proto-scientifiques comme des personnes intelligentes qui donnent un sens
+
+of their world, not as “bad” scientists.
+à leur monde, et non comme de « mauvais » scientifiques.
+
+They understood the world around them in the
+smartest way they could.
+Ils comprenaient le monde qui les entourait de la
+manière la plus intelligente possible.
+
+For example, according to medieval Mediterranean
+medicine, the organ in my head was for venting
+Par exemple, selon la médecine méditerranéenne médiévale
+, l'organe dans ma tête servait à évacuer
+
+waste heat, not thinking.
+la chaleur perdue, pas à penser.
+
+People in the past weren’t stupid: they
+knew that if your head was chopped off, that
+Les gens d'autrefois n'étaient pas stupides : ils
+savaient que si on vous coupait la tête,
+
+was curtains for you.
+c'était des rideaux pour vous.
+
+They just weren’t sure what all this weird
+gray stuff did.
+Ils n'étaient tout simplement pas sûrs de ce que faisaient tous ces
+trucs gris bizarres.
+
+Even today—though we can see a neuron fire
+in high-resolution—we struggle to understand
+Même aujourd'hui, bien que nous puissions voir un neurone se déclencher
+en haute résolution, nous avons du mal à comprendre
+
+what really goes on when it fires, that is,
+the role a single neuron plays in thinking…
+ce qui se passe réellement lorsqu'il se déclenche, c'est-à-dire
+le rôle qu'un seul neurone joue dans la pensée
+
+much less answer the question, what is consciousness.
+… et encore moins à répondre à la question, qu'est-ce que la conscience.
+
+The history of science really gets even juicier
+when incremental, nagging questions about
+L'histoire de la science devient vraiment encore plus juteuse
+lorsque des questions incrémentielles et lancinantes sur
+
+the natural world add up and cause a scientific
+discipline, or an entire society, to change
+le monde naturel s'additionnent et font qu'une
+discipline scientifique, ou une société entière, change
+
+in a “revolutionary” way.
+de manière «révolutionnaire».
+
+Later in the series, we’ll look at moments
+of revolution within the sciences alongside
+Plus tard dans la série, nous nous pencherons sur les moments
+de révolution au sein des sciences aux côtés de
+
+philosophers such as Thomas Kuhn and Michel
+Foucault, who... did not always agree.
+philosophes tels que Thomas Kuhn et Michel
+Foucault, qui... n'étaient pas toujours d'accord.
+
+They show that science isn’t only historical
+and social, but constructs entire worlds of
+Ils montrent que la science n'est pas seulement historique
+et sociale, mais construit des mondes entiers de
+
+knowledge in which we all find ourselves trapped.
+connaissances dans lesquels nous nous retrouvons tous piégés.
+
+But don’t worry about that just yet.
+Mais ne vous inquiétez pas pour l'instant.
+
+By learning the history of science, we will
+automatically start to think about our own
+En apprenant l'histoire de la science, nous
+commencerons automatiquement à penser à notre propre
+
+knowledge world as historical—not finished,
+not capital-E enlightened.
+monde de la connaissance comme historique - non fini,
+non éclairé avec un E majuscule.
+
+Around the world, humans are still actively
+working to understand our universe… but
+Partout dans le monde, les humains travaillent toujours activement
+pour comprendre notre univers… mais
+
+they don’t all agree on how to do it.
+ils ne sont pas tous d'accord sur la façon de le faire.
+
+We may be able to make more accurate models
+of natural phenomena… but we may never find
+Nous pourrons peut-être créer des modèles plus précis
+de phénomènes naturels… mais nous ne trouverons peut-être jamais
+
+the ultimate answers we seek.
+les réponses ultimes que nous recherchons.
+
+At its limit, the history of science touches
+on the study of religion: the diverse and
+À sa limite, l'histoire de la science touche
+à l'étude de la religion : la nature diverse et
+
+changing nature of the never-ending human
+search for Truth, capital T.
+changeante de la recherche humaine sans fin de la
+Vérité, T majuscule.
+
+Our path through past knowledge worlds is
+going to be a beautiful and powerful one.
+Notre chemin à travers les mondes de la connaissance du
+passé sera beau et puissant.
+
+There are many, many marvelous insights to
+celebrate.
+Il y a beaucoup, beaucoup de merveilleuses idées à
+célébrer.
+
+To help us keep our footing as we jump across
+centuries and continents, we’re going to
+Pour nous aider à garder le cap alors que nous sautons à travers les
+siècles et les continents, nous allons
+
+keep our eyes on five big questions.
+garder les yeux sur cinq grandes questions.
+
+Questions that, to this day, we do not have
+complete answers to.
+Des questions auxquelles, à ce jour, nous n'avons pas de
+réponses complètes.
+
+First: what is stuff?
+Premièrement : qu'est-ce que c'est ?
+
+From atoms to dark matter to spacetime: what
+are things made of?
+Des atomes à la matière noire en passant par l'espace-temps : de quoi
+sont faites les choses ?
+
+“Things,” by the way, includes air, fire,
+and outer space:
+Soit dit en passant, les « choses » incluent l'air, le feu
+et l'espace :
+
+if you think I’m going to sit here and not
+celebrate the death of phlogiston with you,
+si vous pensez que je vais m'asseoir ici et ne pas
+célébrer la mort du phlogistique avec vous,
+
+you’re sorely mistaken!
+vous vous trompez gravement !
+
+Number two: what is Life?
+Numéro deux : qu'est-ce que la vie ?
+
+What’s the simplest way to define living
+things?
+Quelle est la manière la plus simple de définir les êtres
+vivants ?
+
+Are viruses alive?
+Les virus sont-ils vivants ?
+
+Is the earth alive?
+La terre est-elle vivante ?
+
+Where did life come from?
+D'où vient la vie ?
+
+Where did current organisms come from?
+D'où viennent les organismes actuels ?
+
+How do we understand their interactions with
+each other and their world?
+Comment comprenons-nous leurs interactions les
+uns avec les autres et leur monde ?
+
+Three: where are we?
+Trois : où en sommes-nous ?
+
+What is this place, the earth?
+Quel est cet endroit, la terre ?
+
+What is its place in the cosmos?
+Quelle est sa place dans le cosmos ?
+
+Is this the only universe?
+Est-ce le seul univers ?
+
+Four: when are we?
+Quatre : quand sommes-nous ?
+
+More questions of scale: how long have we
+been around?
+Plus de questions d'échelle : depuis combien de temps existons-
+nous ?
+
+What about living things?
+Qu'en est-il des êtres vivants ?
+
+What about the whole universe?
+Qu'en est-il de l'univers entier ?
+
+What came before that?
+Qu'est-ce qui s'est passé avant cela ?
+
+And five: how can we agree on what we know?
+Et cinq : comment pouvons-nous être d'accord sur ce que nous savons ?
+
+And how can I convince more people that the
+stuff I know is accurate?
+Et comment puis-je convaincre plus de gens que
+ce que je sais est exact ?
+
+For example, how can I show anti-vaccers that
+vaccines are necessary!?
+Par exemple, comment puis-je montrer aux anti-vaccins que les
+vaccins sont nécessaires ! ?
+
+Regarding technology, how should we talk about
+what to do what our knowledge?
+En ce qui concerne la technologie, comment devrions-nous parler de
+quoi faire ce que nos connaissances?
+
+All of these questions have been considered
+by people as far back as records exist.
+Toutes ces questions ont été examinées
+par des personnes aussi loin que les documents existent.
+
+They also remain active areas of study today.
+Ils restent également des domaines d'étude actifs aujourd'hui.
+
+But the last theme is so important that it
+gets its the final section.
+Mais le dernier thème est si important qu'il
+devient la section finale.
+
+Humans have always tried to describe the world,
+for lots of reasons: in part because it’s
+Les humains ont toujours essayé de décrire le monde,
+pour de nombreuses raisons : en partie parce qu'il est
+
+fascinating (“magnets—how do they work!?”),
+and in part to control it.
+fascinant (« les aimants, comment fonctionnent-ils ? »),
+et en partie pour le contrôler.
+
+Knowledge, as they told us in grade school,
+really is power!
+La connaissance, comme on nous le disait à l'école primaire,
+c'est vraiment le pouvoir !
+
+The power that knowing stuff gives the knower
+is exactly why we should study the history
+Le pouvoir que la connaissance des choses donne au connaisseur
+est exactement la raison pour laquelle nous devrions étudier l'histoire
+
+of science.
+des sciences.
+
+Thus one goal of this course is to highlight how the values (beliefs about  right and wrong) and ethics (acceptable behaviors)
+Ainsi, l'un des objectifs de ce cours est de mettre en évidence comment les valeurs (croyances sur le bien et le mal) et l'éthique (comportements acceptables)
+
+of scientists and engineers shape our world.
+des scientifiques et des ingénieurs façonnent notre monde.
+
+And how, conversely, sciences and technologies are shaped by the societies that produce them.
+Et comment, à l'inverse, les sciences et les technologies sont façonnées par les sociétés qui les produisent.
+
+We have a responsibility as citizens to understand
+En tant que citoyens, nous avons la responsabilité de comprendre
+
+and to act accordingly.
+et d'agir en conséquence.
+
+Our world today looks radically dissimilar
+to that of three hundred years ago.
+Notre monde d'aujourd'hui est radicalement différent
+de celui d'il y a trois cents ans.
+
+To quote Andy Weir, we’ve “scienced”
+the heck out of it.
+Pour citer Andy Weir, nous en avons « fait la science »
+.
+
+We learned about stuff, made new technologies,
+and are currently scrambling to learn new
+Nous avons appris des choses, créé de nouvelles technologies
+et nous nous efforçons actuellement d'apprendre de nouvelles
+
+stuff to solve the problems that our old technologies
+created.
+choses pour résoudre les problèmes
+créés par nos anciennes technologies.
+
+Facing an utterly unprecedented total ecological
+catastrophe, we may need to “science”
+Face à une catastrophe écologique totale sans précédent
+, il se peut que nous ayons besoin de la "science
+
+it even more, in one way or another.
+" encore plus, d'une manière ou d'une autre.
+
+We’ll talk more about this in future episodes.
+Nous en reparlerons dans les prochains épisodes.
+
+Learning the history of science can help shine
+a light on this dark future.
+Apprendre l'histoire de la science peut aider à faire
+la lumière sur cet avenir sombre.
+
+Next time—pack your spanakopita: we’re
+heading to ancient Greece to invent natural
+La prochaine fois, préparez votre spanakopita : nous nous
+dirigeons vers la Grèce antique pour inventer la
+
+philosophy with the Presocratics.
+philosophie naturelle avec les présocratiques.
+
+Until then, this has been—“on no one’s
+word”—Crash Course: History of Science!
+Jusque-là, c'était - "sur
+parole de personne" - Crash Course: History of Science!
+
+Crash Course History of Science is filmed
+in the Dr. Cheryl C. Kinney Studio in Missoula,
+Crash Course History of Science est filmé
+dans le studio du Dr Cheryl C. Kinney à Missoula,
+
+MT and It’s made with the help of all of
+these nice people.
+MT et il est réalisé avec l'aide de toutes
+ces personnes sympathiques.
+
+And our animation team is Thought Cafe.
+Et notre équipe d'animation est Thought Cafe.
+
+Crash Course is a Complexly production.
+Crash Course est une production complexe.
+
+If you want to keep imagining the world complexly
+with us, check out some of our other channels
+Si vous voulez continuer à imaginer le monde de manière complexe
+avec nous, consultez certaines de nos autres chaînes
+
+like Sexplanations, How To Adult, and Healthcare
+Triage.
+comme Sexplanations, How To Adult et Healthcare
+Triage.
+
+If you'd like to keep Crash Course free for
+everyone, forever, you can support the series
+Si vous souhaitez que Crash Course reste gratuit pour
+tout le monde, pour toujours, vous pouvez soutenir la série
+
+at Patreon, a crowdfunding platform that allows
+you to support the content you love.
+sur Patreon, une plateforme de financement participatif qui
+vous permet de soutenir le contenu que vous aimez.
+
+Thank you to all of our patrons for making
+Crash Course possible with their continued support.
+Merci à tous nos mécènes d'avoir rendu
+Crash Course possible grâce à leur soutien continu.
+

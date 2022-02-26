@@ -1,0 +1,615 @@
+Propane, methane, butane, those single-bond
+carbon chains we talked about last week,
+Le propane, le méthane, le butane, ces
+chaînes de carbone à liaison simple dont nous avons parlé la semaine dernière
+
+they are important,
+but they're kind of boring.
+, sont importantes,
+mais elles sont plutôt ennuyeuses.
+
+Alkanes are just more of the same, add another
+carbon to lengthen the chain.
+Les alcanes sont un peu plus les mêmes, ajoutez un autre
+carbone pour allonger la chaîne.
+
+But toss a double bond in here or there, and
+the situation gets a lot more complicated,
+Mais lancez une double liaison ici ou là, et
+la situation devient beaucoup plus compliquée,
+
+and interesting, and delicious.
+intéressante et délicieuse.
+
+Hydrocarbons can fuel cars and stoves and
+stuff, but they can also fuel you:
+Les hydrocarbures peuvent alimenter les voitures, les cuisinières,
+etc., mais ils peuvent aussi vous alimenter :
+
+dripping off your hamburger, melting into
+your biscuit or frying up your tater tots.
+dégoulinant de votre hamburger, fondant dans
+votre biscuit ou faisant frire vos tater tots.
+
+Delicious, marvelous, complicated fats.
+Des graisses délicieuses, merveilleuses et compliquées.
+
+Fats have a bunch of jargon associated with them, that the average person uses daily and with abandon,
+Les graisses sont associées à un tas de jargon, que la personne moyenne utilise quotidiennement et avec abandon,
+
+despite having absolutely no idea what it
+means.
+bien qu'elle n'ait absolument aucune idée de ce que cela
+signifie.
+
+But they still jabber on about saturated, or mono- polyunsaturated, omega-3, hydrogenated, or trans.
+Mais ils baragouinent encore sur les saturés, ou les mono-polyinsaturés, les oméga-3, les hydrogénés ou les trans.
+
+The differences between fats and what
+makes them better or worse for you
+La différence entre les graisses et ce
+qui les rend meilleures ou pires pour vous
+
+is whether or not they have double and triple
+bonds, and where and how those bonds occur.
+est de savoir si elles ont ou non des doubles et triples
+liaisons, et où et comment ces liaisons se produisent.
+
+Seemingly trivial changes in the structure
+of a carbon chain
+Des changements apparemment insignifiants dans la structure
+d'une chaîne carbonée
+
+can completely change the chemistry of the
+molecule,
+peuvent complètement changer la chimie de la
+molécule,
+
+including the chemistry of what happens when
+you ingest it.
+y compris la chimie de ce qui se passe lorsque
+vous l'ingérez.
+
+Yes, your body can tell the difference between them, and by the time we're done here today, you'll be able to as well.
+Oui, votre corps peut faire la différence entre eux, et lorsque nous aurons fini ici aujourd'hui, vous pourrez également le faire.
+
+[Theme Music]
+[Thème musical] Les
+
+Alkanes, as you'll recall, are saturated hydrocarbons.
+alcanes, comme vous vous en souviendrez, sont des hydrocarbures saturés.
+
+All of the carbons in a saturated hydrocarbon are bonded to the maximum number of atoms that carbon can accommodate: 4.
+Tous les carbones d'un hydrocarbure saturé sont liés au nombre maximal d'atomes que le carbone peut contenir : 4.
+
+In unsaturated hydrocarbons, some of the carbon atoms are double or triple bonded with each other,
+Dans les hydrocarbures insaturés, certains des atomes de carbone sont liés entre eux par des liaisons doubles ou triples
+
+so they're only bonded with three or two atoms.
+, ils ne sont donc liés qu'à trois ou  deux atomes.
+
+And when those double and triple bonds appear,
+we've got whole new classes of hydrocarbons.
+Et lorsque ces doubles et triples liaisons apparaissent,
+nous avons de toutes nouvelles classes d'hydrocarbures.
+
+If they've got a double bond, we call them
+alkenes, and those with triple bonds are alkynes.
+S'ils ont une double liaison, nous les appelons des
+alcènes, et ceux qui ont des triples liaisons sont des alcynes.
+
+So three words representing three different
+groups of organic compounds:
+Donc trois mots représentant trois
+groupes différents de composés organiques :
+
+alkanes for all single bonds, alkenes if they
+contain double bonds,
+alcanes pour toutes les liaisons simples, alcènes s'ils
+contiennent des doubles liaisons,
+
+and alkynes if they contain one or more triple
+bonds.
+et alcynes s'ils contiennent une ou plusieurs triples
+liaisons.
+
+How do you remember which is which?
+Well, I have a trick that I use.
+Comment vous rappelez-vous qui est qui ?
+Eh bien, j'ai une astuce que j'utilise.
+
+There's only one letter changing here: A in alkanes changes to E for alkenes and then to Y for alkynes.
+Il n'y a qu'une seule lettre qui change ici : A dans les alcanes se transforme en E pour les alcènes, puis en Y pour les alcynes.
+
+In alphabetical order, A is first, E is second,
+and Y is third.
+Dans l'ordre alphabétique, A est le premier, E le deuxième
+et Y le troisième.
+
+Not too complicated, I hope.
+Pas trop compliqué, j'espère.
+
+And it's actually pretty nice that the words
+are so similar,
+Et c'est plutôt bien que les mots
+soient si similaires,
+
+because it means we can reuse all of those
+old alkane rules.
+car cela signifie que nous pouvons réutiliser toutes ces
+anciennes règles sur les alcanes.
+
+The prefixes remain the same, but the suffixes
+change in some fairly easy-to-predict ways.
+Les préfixes restent les mêmes, mais les suffixes
+changent de manière assez facile à prévoir.
+
+Hydrocarbons that have one or more double
+bonds end in -ene,
+Les hydrocarbures qui ont une ou plusieurs doubles
+liaisons se terminent par -ène,
+
+while the ones that have triple bonds use
+the suffix -yne.
+tandis que ceux qui ont des triples liaisons utilisent
+le suffixe -yne.
+
+So a compound with 3 carbons and 1 double bond would be propene, 3 carbons and 1 triple bond: propyne.
+Ainsi un composé avec 3 carbones et 1 double liaison serait le propène, 3 carbones et 1 triple liaison : le propyne.
+
+All the other naming rules apply to alkenes
+and alkynes too.
+Toutes les autres règles de dénomination s'appliquent également aux alcènes
+et aux alcynes.
+
+For instance, the main carbon chain, the longest one, is numbered in such a way that the various components,
+Par exemple, la chaîne carbonée principale, la plus longue, est numérotée de manière à ce que les différents composants,
+
+including the double bond, have the lowest
+numbers possible.
+y compris la double liaison, aient le plus petit
+nombre possible.
+
+Now, the bonds in alkenes have a few tricks up their sleeves. It's not as simple as you might imagine.
+Maintenant, les liaisons dans les alcènes ont quelques tours dans leur sac.  Ce n'est pas aussi simple que vous pourriez l'imaginer.
+
+Single bonds, also called sigma bonds, are
+pretty simple,
+Les liaisons simples, également appelées liaisons sigma, sont
+assez simples
+
+and carbon atoms attached by them can rotate
+around the bond freely.
+et les atomes de carbone qui y sont attachés peuvent tourner
+librement autour de la liaison.
+
+That may not sound like a big deal at first, but alkenes and alkynes don't have that kind of freedom,
+Cela peut ne pas sembler un gros problème au début, mais les alcènes et les alcynes n'ont pas ce genre de liberté,
+
+and that simple fact has a huge affect on
+their properties.
+et ce simple fait a un effet énorme sur
+leurs propriétés.
+
+Double bonds consist of a sigma bond and a
+pi bond.
+Les doubles liaisons sont constituées d'une liaison sigma et d'une
+liaison pi.
+
+That pi bond bridges the sigma bond, locking
+it in place.
+Cette liaison pi relie la liaison sigma, la
+verrouillant en place.
+
+So whatever's attached to the other sides of the carbon atoms can't change their orientation with respect to each other.
+Ainsi, tout ce qui est attaché aux autres côtés des atomes de carbone ne peut pas changer leur orientation les uns par rapport aux autres.
+
+If all of those things attached to those carbons
+are the same, it doesn't matter.
+Si toutes ces choses attachées à ces carbones
+sont les mêmes, cela n'a pas d'importance.
+
+But if the parts are different, it's possible to have two totally different isomers of the same compound.
+Mais si les parties sont différentes, il est possible d'avoir deux isomères totalement différents du même composé.
+
+Let's build an example for ourselves.
+2-butene should suffice.
+Construisons un exemple pour nous-mêmes.
+Le 2-butène devrait suffire.
+
+So it starts with but-, so it has to be a
+4 carbon chain.
+Donc ça commence par mais-, donc ça doit être une
+chaîne à 4 carbones.
+
+It ends in -ene, so it needs to have a double
+bond.
+Il se termine par -ene, il doit donc avoir une double
+liaison.
+
+The 2 tells us that the double bond starts
+on the second carbon.
+Le 2 nous dit que la double liaison commence
+sur le deuxième carbone.
+
+So we've got our structure!
+Or do we?
+Nous avons donc notre structure !
+Ou faisons-nous?
+
+With the information we have, this 2-butene
+could be one of two different isomers:
+Avec les informations dont nous disposons, ce 2-butène
+pourrait être l'un des deux isomères différents : l'
+
+one with the methyl groups on the same side or one with the methyl groups on different sides.
+un avec les groupes méthyle du même côté ou l'autre avec les groupes méthyle de différents côtés.
+
+They're not structural isomers like n-butane and i-butane, instead, they're what we call cis-trans isomers.
+Ce ne sont pas des isomères structuraux comme le n-butane et l'i-butane, mais plutôt ce que nous appelons des isomères cis-trans.
+
+These have the atoms in the same position on the molecule, but the atoms are oriented differently in space.
+Ceux-ci ont les atomes dans la même position sur la molécule, mais les atomes sont orientés différemment dans l'espace.
+
+Cis- comes from the Latin word that means on the same side and trans- is Latin based prefix that means across.
+Cis- vient du mot latin qui signifie du même côté et trans- est un préfixe basé sur le latin qui signifie à travers.
+
+If the matching groups are on the same side
+of the double bond like this, we call it cis-2-butene.
+Si les groupes correspondants sont du même côté
+de la double liaison comme celle-ci, nous l'appelons cis-2-butène.
+
+And if the two components are across from
+each other, it's called trans-2-butene.
+Et si les deux composants sont face
+à face, cela s'appelle du trans-2-butène.
+
+Note, by the way, that organic compounds cannot switch from cis- to trans- or the other way around.
+Notez, en passant, que les composés organiques ne peuvent pas passer de cis- à trans- ou l'inverse.
+
+You would have to break the pi bond, and thus,
+the entire molecule to rotate between isomers.
+Il faudrait rompre la liaison pi, et
+donc toute la molécule pour tourner entre les isomères.
+
+The same rules apply no matter what's attached
+to the double bond.
+Les mêmes règles s'appliquent, peu importe ce qui est attaché
+à la double liaison.
+
+It might be a long hydrocarbon chain or a
+halogen or an oxygen.
+Il peut s'agir d'une longue chaîne hydrocarbonée ou d'un
+halogène ou d'un oxygène.
+
+All that matters is that the matching components are next to each other or across from each other.
+Tout ce qui compte, c'est que les composants correspondants soient côte à côte ou face à face.
+
+The triple bonds in alkynes, meanwhile, are composed of 1 sigma bond and 2 pi bonds for a total of 3 bonds.
+Les triples liaisons dans les alcynes, quant à elles, sont composées de 1 liaison sigma et 2 liaisons pi pour un total de 3 liaisons.
+
+The pi bonds prevent the triple bonds from
+rotating here as well,
+Les liaisons pi empêchent également les triples liaisons de
+tourner ici,
+
+but triple bonded carbons can only bond to
+one other atom, so even if it could rotate,
+mais les carbones à triple liaison ne peuvent se lier qu'à
+un autre atome, donc même s'il pouvait tourner,
+
+nothing would change.
+rien ne changerait.
+
+Thus, no isomers with alkynes.
+Phew.
+Ainsi, pas d'isomères avec des alcynes.
+Phew. 
+
+OK I'm done describing for the moment.
+Let's talk about some actual chemistry.
+OK, j'ai fini de décrire pour le moment.
+Parlons de la chimie réelle.
+
+Pi bonds are significantly more unstable than
+sigma bonds,
+Les liaisons Pi sont nettement plus instables que
+les liaisons sigma,
+
+so double and triple bonds are pretty easy to break, opening the doors for some good chemistry.
+donc les liaisons doubles et triples sont assez faciles à rompre, ouvrant les portes à une bonne chimie.
+
+Certain reactions open up a double or triple
+bond to insert various atoms,
+Certaines réactions ouvrent une double ou triple
+liaison pour insérer divers atomes,
+
+leaving only a single bond between the carbons.
+ne laissant qu'une seule liaison entre les carbones.
+
+These are called addition reactions because atoms are added to the carbons that were previously double bonded.
+Celles-ci sont appelées réactions d'addition car des atomes sont ajoutés aux carbones qui étaient auparavant à double liaison.
+
+Probably the simplest addition reaction and
+one that you've heard of is hydrogenation,
+La réaction d'addition la plus simple
+et dont vous avez probablement entendu parler est l'hydrogénation,
+
+in which a molecule of hydrogen, H2, is added
+across the bond.
+dans laquelle une molécule d'hydrogène, H2, est ajoutée à
+travers la liaison.
+
+To do this, a metal catalyst like platinum
+is usually required to help break the H2 apart,
+Pour ce faire, un catalyseur métallique comme le platine
+est généralement nécessaire pour aider à séparer le H2,
+
+because that bond is very strong.
+car cette liaison est très forte.
+
+But once that's done, the hydrogen atoms readily
+attach to the hydrocarbon molecule,
+Mais une fois cela fait, les atomes d'hydrogène se
+fixent facilement à la molécule d'hydrocarbure,
+
+converting a double bond to a single bond.
+convertissant une double liaison en une simple liaison.
+
+Other molecules can break down a double bond
+as well.
+D'autres molécules peuvent également rompre une double
+liaison.
+
+If a halogen, such as bromine, is added in the place of hydrogen, the reaction is called halogenation.
+Si un halogène, tel que le brome, est ajouté à la place de l'hydrogène, la réaction est appelée halogénation.
+
+Water molecule: hydration. Oxygen gas: oxygenation.
+You get the idea.
+Molécule d'eau : hydratation.  Oxygène gazeux : oxygénation.
+Vous avez eu l'idée. 
+
+The point is that double or triple bonds can
+be usually opened up fairly easily.
+Le fait est que les liaisons doubles ou triples peuvent
+généralement être ouvertes assez facilement.
+
+Alkenes can be made into alkanes and alkynes
+can become either alkenes or alkanes
+Les alcènes peuvent être transformés en alcanes et les alcynes
+peuvent devenir des alcènes ou des alcanes
+
+depending on how many atoms are added.
+selon le nombre d'atomes ajoutés.
+
+And those opened bonds can also provide connections
+for carbon atoms to attach to each other, too,
+Et ces liaisons ouvertes peuvent également fournir des connexions
+permettant aux atomes de carbone de s'attacher les uns aux autres,
+
+opening the door for polymerization, which
+we should talk about soon enough.
+ouvrant la porte à la polymérisation, dont
+nous devrions parler assez tôt.
+
+Now, using all these words we learned today, let's apply some to our society's ubiquitous fat lingo.
+Maintenant, en utilisant tous ces mots que nous avons appris aujourd'hui, appliquons-en quelques-uns au jargon gras omniprésent de notre société.
+
+First, though, what is fat?
+Mais d'abord, qu'est-ce que la graisse ?
+
+When three fatty acids, and we will talk about their structures more specifically in a later episode,
+Lorsque trois acides gras, et nous parlerons plus précisément de leurs structures dans un épisode ultérieur,
+
+are bonded to a molecule of glycerol, that
+is a triglyceride.
+sont liés à une molécule de glycérol, c'est-à-
+dire un triglycéride.
+
+That's the stuff that we're generally talking
+about when we say "fat."
+C'est ce dont nous parlons généralement
+lorsque nous disons "gras".
+
+The fatty acid chains, they have long hydrocarbon chains, are what we're mostly concerned with here.
+Les chaînes d'acides gras, elles ont de longues chaînes d'hydrocarbures, sont ce qui nous intéresse le plus ici.
+
+They can be alkanes or alkenes, sometimes,
+even rarely, alkynes.
+Il peut s'agir d'alcanes ou d'alcènes, parfois,
+voire rarement, d'alcynes.
+
+So, we've heard of saturated fats. What does
+that mean? It means no double bonds.
+Donc, nous avons entendu parler des graisses saturées.
+Qu'est-ce que ça veut dire?  Cela signifie pas de doubles liaisons.
+
+All of the carbon chains are alkanes and has
+as many hydrogens as possible. It's saturated.
+Toutes les chaînes carbonées sont des alcanes et ont
+autant d'hydrogènes que possible.  C'est saturé.
+
+That means that there are no unstable pi bonds,
+so they tend to have longer shelf lives.
+Cela signifie qu'il n'y a pas de liaisons pi instables
+, elles ont donc tendance à avoir une durée de conservation plus longue.
+
+They are also able to lay flat against each other, making them more likely to be solid at room temperature.
+Ils sont également capables de reposer à plat les uns contre les autres, ce qui les rend plus susceptibles d'être solides à température ambiante.
+
+The bad news is that they're kind of hard for your body to do chemistry with since they're so stable,
+La mauvaise nouvelle, c'est qu'il est difficile pour votre corps de faire de la chimie avec eux, car ils sont si stables
+
+so they often just stick around in your body,
+clogging stuff up.
+qu'ils restent souvent dans votre corps,
+obstruant les choses.
+
+Now, what about hydrogenated oils?
+Qu'en est-il des huiles hydrogénées ?
+
+Vegetable oils are generally poly-unsaturated
+fats,
+Les huiles végétales sont généralement des graisses poly-insaturées
+,
+
+meaning that they have lots of double bonds,
+or at least more than one.
+ce qui signifie qu'elles ont beaucoup de doubles liaisons,
+ou au moins plus d'une.
+
+They're much healthier for us than saturated
+fats and they're also generally cheaper.
+Ils sont beaucoup plus sains pour nous que les
+graisses saturées et ils sont aussi généralement moins chers.
+
+Since saturated fats are most likely made from animals, which are notoriously difficult to maintain.
+Étant donné que les graisses saturées sont très probablement fabriquées à partir d'animaux, qui sont notoirement difficiles à entretenir.
+
+But they're also less stable and are usually liquid at room temperature, and thus, harder to spread on your toast.
+Mais ils sont également moins stables et sont généralement liquides à température ambiante, et donc plus difficiles à étaler sur vos toasts.
+
+Food chemists use hydrogenation to saturate the unsaturated fat, making it spreadable and also stabilizing it.
+Les chimistes alimentaires utilisent l'hydrogénation pour saturer la graisse insaturée, la rendant tartinable et la stabilisant également.
+
+And, since it's made from vegetable oil instead
+of animal product, it is much cheaper to create.
+Et, comme il est fabriqué à partir d'huile végétale au lieu
+de produit animal, il est beaucoup moins cher à créer.
+
+Sometimes the oils are fully hydrogenated,
+creating saturated alkanes.
+Parfois, les huiles sont entièrement hydrogénées,
+créant des alcanes saturés.
+
+And sometimes, they're just partially hydrogenated,
+Et parfois, ils ne sont que partiellement hydrogénés,
+
+usually leaving just one double bond in the fatty acid chain, creating a mono-unsaturated fat.
+ne laissant généralement qu'une seule double liaison dans la chaîne des acides gras, créant une graisse mono-insaturée.
+
+Now it's not just whether or not there are
+double bonds,
+Maintenant, il ne s'agit pas seulement de savoir s'il y a ou non des
+doubles liaisons,
+
+the location of the double bonds also has an effect on what your body can do with the molecules,
+l'emplacement des doubles liaisons a également un effet sur ce que votre corps peut faire avec les molécules,
+
+which leads me to omega-3s.
+ce qui m'amène aux oméga-3.
+
+Omega-3 refers to a specific location of the
+double bond.
+Oméga-3 fait référence à un emplacement spécifique de la
+double liaison.
+
+3 carbons from the end, or omega of the fatty
+acid chain.
+3 carbones de la fin, ou oméga de la
+chaîne des acides gras.
+
+Your body is completely incapable of making this sort of fatty acid, and yet, it need them to survive.
+Votre corps est totalement incapable de fabriquer ce type d'acide gras, et pourtant, il en a besoin pour survivre.
+
+So, you have to eat them.
+Donc, vous devez les manger.
+
+A final question: what can you tell me about
+the dreaded trans fats?
+Une dernière question : que pouvez-vous me dire sur
+les redoutables gras trans ?
+
+Well we know that they're unsaturated alkenes
+Eh bien, nous savons que ce sont des alcènes insaturés
+
+because saturated fats don't have double bonds,
+and thus, can't have cis- and trans- isomers.
+car les graisses saturées n'ont pas de doubles liaisons
+et ne peuvent donc pas avoir d'isomères cis et trans.
+
+But we also know from every advertisement
+about healthy food that probably isn't that
+Mais nous savons aussi, grâce à toutes les publicités
+sur des aliments sains qui ne sont probablement jamais aussi
+
+healthy ever, that trans fats are really bad!
+sains, que les gras trans sont vraiment mauvais !
+
+So it's an unsaturated fat, but it's really bad for you, that doesn't really jive. What's going on?
+C'est donc une graisse insaturée, mais c'est vraiment mauvais pour vous, ça ne bouge pas vraiment.  Que se passe-t-il? 
+
+Well, almost all natural, unsaturated fats are cis- fats, which our bodies are prepared for and know what to do with.
+Eh bien, presque toutes les graisses naturelles insaturées sont des graisses cis, auxquelles notre corps est préparé et dont il sait quoi faire.
+
+Trans fats are created by partially hydrogenating
+vegetable oil on a cheap path to tasty fat,
+Les gras trans sont créés en hydrogénant partiellement
+l'huile végétale sur une voie bon marché vers des graisses savoureuses,
+
+without all the saturated fat on the dietary
+label.
+sans toutes les graisses saturées sur l'
+étiquette diététique.
+
+However, these trans fats pretty much act exactly like saturated fats, except that since they're naturally very rare,
+Cependant, ces gras trans agissent à peu près exactement comme les gras saturés, sauf que, comme ils sont naturellement très rares,
+
+our bodies don't have good systems to break
+them down into healthy byproducts.
+notre corps n'a pas de bons systèmes pour
+les décomposer en sous-produits sains.
+
+So, as you can see, unsaturated fats went from the best kind of fat to the worst kind of fat with 1 little isomeric change.
+Ainsi, comme vous pouvez le voir, les graisses insaturées sont passées du meilleur type de graisse au pire type de graisse avec 1 petit changement isomérique.
+
+Your body can definitely tell the difference.
+And now, so can you.
+Votre corps peut certainement faire la différence.
+Et maintenant, vous aussi.
+
+Thanks for watching this episode of Crash
+Course Chemistry.
+Merci d'avoir regardé cet épisode de Crash
+Course Chemistry.
+
+If you paid attention, you learned that hydrocarbons
+with double bonds are called alkenes
+Si vous avez fait attention, vous avez appris que les hydrocarbures
+avec des doubles liaisons sont appelés alcènes
+
+and those with triple bonds are called alkynes and that the naming rules are the same as for alkanes.
+et ceux avec des triples liaisons sont appelés alcynes et que les règles de dénomination sont les mêmes que pour les alcanes.
+
+You also learned a little bit about cis-trans isomerism and learned a few important reactions of alkenes and alkynes
+Vous avez également appris un peu plus sur l'isomérie cis-trans et appris quelques réactions importantes d'alcènes et d'alcynes
+
+such as hydrogenation, halogenation, and polymerization.
+telles que l'hydrogénation, l'halogénation et la polymérisation.
+
+And finally, you learned what all of those names of the different kinds of fats really mean.
+Et enfin, vous avez appris ce que signifient vraiment tous ces noms de différents types de graisses.
+
+This episode was written by Edi Gonzalez and
+myself.
+Cet épisode a été écrit par Edi Gonzalez et
+moi-même.
+
+It was edited by Blake de Pastino and our
+chemistry consultant was Dr. Heiko Langner.
+Il a été édité par Blake de Pastino et notre
+consultant en chimie était le Dr Heiko Langner.
+
+It was filmed, edited, and directed by Nicholas
+Jenkins.
+Il a été filmé, monté et réalisé par Nicholas
+Jenkins.
+
+The script supervisor was Michael Aranda who
+was also our sound designer.
+Le superviseur du scénario était Michael Aranda qui
+était aussi notre concepteur sonore.
+
+And our graphics team is Thought Cafe.
+Et notre équipe graphique est Thought Cafe.
+

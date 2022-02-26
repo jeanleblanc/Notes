@@ -1,0 +1,442 @@
+When you study physics, you can start to see
+it everywhere – even here.
+Lorsque vous étudiez la physique, vous pouvez commencer à la
+voir partout – même ici.
+
+As an engineer who studied physics, I have to say one the most interesting parts of the holidays is the lights.
+En tant qu'ingénieur ayant étudié la physique, je dois dire que l'un des aspects les plus intéressants des vacances est la lumière.
+
+Just think of all of the crazy displays that you see, and what it would take to figure out the current required to power all of the tiny light bulbs that make them glow.
+Pensez à tous les écrans fous que vous voyez et à ce qu'il faudrait pour déterminer le courant nécessaire pour alimenter toutes les petites ampoules qui les font briller.
+
+So many resistors.
+Tant de résistances.
+
+Now, I’m not going to ask you to diagram
+the holiday lights on your neighbor’s house.
+Maintenant, je ne vais pas vous demander de schématiser
+les lumières de Noël sur la maison de votre voisin.
+
+But, one of the best ways to understand how electricity works in a system like that, is through circuit analysis:
+Mais l'une des meilleures façons de comprendre le fonctionnement de l'électricité dans un système comme celui-ci est l'analyse de circuit :
+
+the process of breaking down a circuit into its key components, and studying each one, to see what it can tell you about the others.
+le processus de décomposition d'un circuit en ses composants clés et d'étude de chacun pour voir ce qu'il peut vous dire sur les autres.  .
+
+So far, you’ve learned about the key components of every electrical circuit – namely voltage, resistance, and current.
+Jusqu'à présent, vous avez appris les composants clés de chaque circuit électrique, à savoir la tension, la résistance et le courant.
+
+These properties are all related to one another
+through Ohm’s law.
+Ces propriétés sont toutes liées les unes aux autres
+par la loi d'Ohm.
+
+This means that if you know two out of the three variables, you can solve for the remaining one.
+Cela signifie que si vous connaissez deux des trois variables, vous pouvez résoudre celle qui reste.
+
+For example, you can take a bunch of resistors in a circuit, find their equivalent resistance, and then use the voltage to figure out what the current is.
+Par exemple, vous pouvez prendre un tas de résistances dans un circuit, trouver leur résistance équivalente, puis utiliser la tension pour déterminer quel est le courant.
+
+And when you know the current, you can get even more important information, like the voltage across a particular component, or the current through a specific wire.
+Et lorsque vous connaissez le courant, vous pouvez obtenir des informations encore plus importantes, comme la tension à travers un composant particulier ou le courant à travers un fil spécifique.
+
+So if nothing else, today’s lesson in circuit analysis will help you appreciate holiday lights on a whole new level.
+Donc, si rien d'autre, la leçon d'analyse de circuit d'aujourd'hui vous aidera à apprécier les lumières de Noël à un tout autre niveau.
+
+[Theme Music]
+[Thème musical]
+
+Let’s keep things simple.
+Gardons les choses simples.
+
+There’s an enormous number of circuit-building methods that I’d love to go over with you, but we’re going to stick to the basics, which you’ll use in every circuit problem you’ll encounter.
+Il existe un nombre énorme de méthodes de construction de circuits que j'aimerais parcourir avec vous, mais nous allons nous en tenir aux bases, que vous utiliserez dans chaque problème de circuit que vous rencontrerez.
+
+These are DC circuits, with resistors in series
+and parallel formations.
+Ce sont des circuits à courant continu, avec des résistances en série
+et en parallèle.
+
+You’ll recall that series formations occur when resistors are connected along the same path, so they have the same current passing through each one.
+Vous vous souviendrez que les formations en série se produisent lorsque les résistances sont connectées le long du même chemin, elles ont donc le même courant traversant chacune.
+
+And parallel connections are when resistors are placed on wires that branch out from a single point, all having the same voltage drop across them.
+Et les connexions parallèles se produisent lorsque des résistances sont placées sur des fils qui partent d'un seul point, tous ayant la même chute de tension à travers eux.
+
+And to find the equivalent resistance of resistors in series, you just add their resistances together.
+Et pour trouver la résistance équivalente des résistances en série, il suffit d'additionner leurs résistances.
+
+For resistors in parallel, meanwhile, you use a different method – one that gives you a resistor with an equivalent resistance that’s smaller than any of the individual resistors in the branches.
+Pour les résistances en parallèle, en attendant, vous utilisez une méthode différente - celle qui vous donne une résistance avec une résistance équivalente qui est plus petite que n'importe laquelle des résistances individuelles dans les branches.
+
+Now, let’s put these equations to work!
+Maintenant, mettons ces équations au travail !
+
+Here’s an example of a circuit with resistors
+in both series and parallel formations.
+Voici un exemple de circuit avec des résistances
+dans des formations en série et en parallèle.
+
+Say you have a 20-volt battery, immediately
+followed by a resistor of 10 Ohms.
+Disons que vous avez une batterie de 20 volts, immédiatement
+suivie d'une résistance de 10 Ohms.
+
+Following that, there’s a parallel
+formation of more resistors:
+Suite à cela, il y a une
+formation parallèle de plusieurs résistances :
+
+One branch consists of two resistors in series,
+one of 15 Ohms and one of 2 Ohms.
+une branche se compose de deux résistances en série,
+une de 15 Ohms et une de 2 Ohms.
+
+The other branch has a 6 Ohm resistor, and then another parallel formation of resistors, 3 and 5 Ohms each.
+L'autre branche a une résistance de 6 ohms, puis une autre formation parallèle de résistances de 3 et 5 ohms chacune.
+
+Our goal is to simplify everything down to one resistor, which will have the equivalent resistance of all of these resistors combined.
+Notre objectif est de tout simplifier jusqu'à une seule résistance, qui aura la résistance équivalente de toutes ces résistances combinées.
+
+With that equivalent resistance, you can then know
+what the resulting current is in the circuit.
+Avec cette résistance équivalente, vous pouvez alors savoir
+quel est le courant résultant dans le circuit.
+
+Then, using Ohm’s Law, you can calculate the voltage across, and current through, each resistor.
+Ensuite, en utilisant la loi d'Ohm, vous pouvez calculer la tension aux bornes et le courant à travers chaque résistance.
+
+OK, let’s do the easiest steps first.
+OK, commençons par les étapes les plus simples.
+
+Start by finding the resistors in a series.
+Commencez par trouver les résistances en série.
+
+You can collapse these down into a single resistor by simply adding their resistances together.
+Vous pouvez les regrouper en une seule résistance en ajoutant simplement leurs résistances ensemble.
+
+In this case, you add the 15 and 2 Ohm resistors
+into a single, 17 Ohm equivalent resistor.
+Dans ce cas, vous ajoutez les résistances de 15 et 2 ohms
+en une seule résistance équivalente de 17 ohms.
+
+Now that branch contains a single resistor.
+Maintenant, cette branche contient une seule résistance.
+
+Let’s look at the other branch.
+Regardons l'autre branche.
+
+This one has a single resistor and then two
+in parallel.
+Celui-ci a une seule résistance puis deux
+en parallèle.
+
+So let’s start by turning the parallel connection of the 3 Ohm and 5 Ohm resistors into one equivalent resistor.
+Commençons donc par transformer la connexion parallèle des résistances 3 Ohm et 5 Ohm en une résistance équivalente.
+
+Using our equation for resistors in parallel, you find that they simplify to a single resistor of about 1.88 Ohms.
+En utilisant notre équation pour les résistances en parallèle, vous constatez qu'elles se simplifient en une seule résistance d'environ 1,88 Ohms.
+
+Then, you can add the newly formed resistor to the 6 Ohm one, and the branch simplifies even more – to a single resistor of 7.88 Ohms.
+Ensuite, vous pouvez ajouter la résistance nouvellement formée à celle de 6 Ohms, et la branche se simplifie encore plus - en une seule résistance de 7,88 Ohms.
+
+All right, you’re almost there!
+C'est bon, vous y êtes presque !
+
+Now, let’s combine the 17 Ohm and 7.88 Ohm resistors, which are in parallel, into one resistor and its resistance turns out to be 5.38 Ohms.
+Maintenant, combinons les résistances de 17 ohms et 7,88 ohms, qui sont en parallèle, en une seule résistance et sa résistance s'avère être de 5,38 ohms.
+
+And with that, you’re left with only two resistors in series, which you can combine to form a single resistor with the equivalent resistance of 15.38 Ohms.
+Et avec cela, il ne vous reste que deux résistances en série, que vous pouvez combiner pour former une seule résistance avec la résistance équivalente de 15,38 Ohms.
+
+Now, there’s only one resistor left, which means you can easily find the current drawn from the battery!
+Maintenant, il ne reste qu'une seule résistance, ce qui signifie que vous pouvez facilement trouver le courant tiré de la batterie !
+
+Using Ohm’s Law, you can find that the current through a circuit with a 20 volt battery and an equivalent resistance of 15.38 Ohms is about 1.30 Amperes.
+En utilisant la loi d'Ohm, vous pouvez trouver que le courant traversant un circuit avec une batterie de 20 volts et une résistance équivalente de 15,38 Ohms est d'environ 1,30 Ampères.
+
+Just pause for a moment and appreciate what
+you’ve done so far.
+Arrêtez-vous un instant et appréciez ce que
+vous avez fait jusqu'à présent.
+
+You were able to take what you knew about the power source and the number and configuration of the resistors to figure out the current that runs through the circuit.
+Vous avez pu prendre ce que vous saviez sur la source d'alimentation et le nombre et la configuration des résistances pour déterminer le courant qui traverse le circuit.
+
+And it wasn’t that hard, was it?
+Et ce n'était pas si difficile, n'est-ce pas ?
+
+And now that you’ve determined the current,
+you can learn so much more!
+Et maintenant que vous avez déterminé le courant,
+vous pouvez en apprendre bien plus !
+
+With the total current in the system, you can expand the equivalent circuit back to its original form.
+Avec le courant total dans le système, vous pouvez étendre le circuit équivalent à sa forme d'origine.
+
+And while you’re doing that, you can determine both the current through, and the voltage drop across, every single resistor.
+Et pendant que vous faites cela, vous pouvez déterminer à la fois le courant traversant et la chute de tension à travers chaque résistance.
+
+Just go back one step to the ten Ohm resistor,
+and the 5.38 Ohm resistor.
+Il suffit de revenir en arrière d'un pas à la résistance de dix ohms
+et à la résistance de 5,38 ohms.
+
+Nothing has changed about the current through
+the circuit.
+Rien n'a changé sur le courant à travers
+le circuit.
+
+And the two resistors are in series, so the
+current flowing through them is the same.
+Et les deux résistances sont en série, donc le
+courant qui les traverse est le même.
+
+But the voltage drop across each resistor
+is different.
+Mais la chute de tension à travers chaque résistance
+est différente.
+
+You can calculate the voltage drop across each
+resistor by using Ohm’s Law, V equals I times R.
+Vous pouvez calculer la chute de tension à travers chaque
+résistance en utilisant la loi d'Ohm, V est égal à I fois R.
+
+You know the current, I, and you know each resistance, R, so you simply use them to find the distinct voltage drop, V, across each resistor.
+Vous connaissez le courant, I, et vous connaissez chaque résistance, R, donc vous les utilisez simplement pour trouver la chute de tension distincte, V, à travers  chaque résistance.
+
+The voltage drop across the 10 Ohm resistor turns out to be 13 Volts, which leaves the remaining voltage drop across the rest of the circuit to be 7 Volts.
+La chute de tension aux bornes de la résistance de 10 ohms s'avère être de 13 volts, ce qui laisse la chute de tension restante sur le reste du circuit à 7 volts.
+
+And you don’t have to do anything with the 10 Ohm resistor, since that’s not a combination of resistors.
+Et vous n'avez rien à faire avec la résistance de 10 ohms, car ce n'est pas une combinaison de résistances.
+
+So the current through and voltage across
+that circuit element doesn’t change.
+Ainsi, le courant traversant et la tension à travers
+cet élément de circuit ne changent pas.
+
+In order to complete the rest of the circuit, let’s expand the 5.38 Ohm resistor back out again, to those two resistors in parallel.
+Afin de compléter le reste du circuit, étendons à nouveau la résistance de 5,38 ohms à ces deux résistances en parallèle.
+
+Now, you know that any two resistors in parallel have the same voltage drop, so both the 17 Ohm resistor and the 7.88 Ohm resistor have a voltage drop of 7 Volts, just when they were collapsed into one.
+Maintenant, vous savez que deux résistances en parallèle ont la même chute de tension, donc la résistance de 17 ohms et la résistance de 7,88 ohms ont une chute de tension de 7 volts, juste au moment où elles ont été regroupées en une seule.
+
+But the current through each branch is not
+the same.
+Mais le courant à travers chaque branche n'est pas
+le même.
+
+Since you know the resistance of, and voltage across, each resistor, you just use Ohm’s Law again to calculate the current through each wire.
+Puisque vous connaissez la résistance et la tension aux bornes de chaque résistance, il vous suffit d'utiliser à nouveau la loi d'Ohm pour calculer le courant à travers chaque fil.
+
+The 17 Ohm resistor, with a voltage drop of
+7 Volts, will have a current of 0.41 Amperes.
+La résistance de 17 ohms, avec une chute de tension de
+7 volts, aura un courant de 0,41 ampères.
+
+And the 7.88 Ohm resistor, with the same voltage drop of 7 Volts, will have a current of 0.89 Amperes.
+Et la résistance de 7,88 Ohm, avec la même chute de tension de 7 Volts, aura un courant de 0,89 Ampères.
+
+And look at this: If you add these two currents
+together, they equal the 1.3 amperes.
+Et regardez ceci : si vous additionnez ces deux
+courants, ils sont égaux à 1,3 ampères.
+
+That’s the same value for the current that
+enters the junction where the wires split.
+C'est la même valeur pour le courant qui
+entre dans la jonction où les fils se séparent.
+
+This must be true, to satisfy conservation of charge, because remember: What goes in must come out!
+Cela doit être vrai, pour satisfaire la conservation de la charge, car rappelez-vous : ce qui entre doit sortir !
+
+Now, let’s expand the resistor on the right into its two components, a 6 Ohm and a 1.88 Ohm resistor.
+Maintenant, développons la résistance de droite en ses deux composants, une résistance de 6 Ohm et une de 1,88 Ohm.
+
+The current through these two is still 0.89 Amperes, but the voltage drop of 7 Volts is now split across the two resistors.
+Le courant à travers ces deux est toujours de 0,89 Ampères, mais la chute de tension de 7 Volts est maintenant répartie entre les deux résistances.
+
+All you have to do is implement Ohm’s law yet again, multiplying current and resistance in order to find the voltage drop.
+Tout ce que vous avez à faire est d'appliquer à nouveau la loi d'Ohm, en multipliant le courant et la résistance afin de trouver la chute de tension.
+
+So 0.89 Amperes times 6 Ohms equals a 5.33
+Volt drop.
+Donc 0,89 Ampères fois 6 Ohms équivaut à une
+chute de 5,33 Volts.
+
+And 0.89 Amperes times 1.88 Ohms equals the
+remaining 1.67 Volt drop.
+Et 0,89 Ampères fois 1,88 Ohms équivaut à la
+chute de 1,67 Volt restante.
+
+Now, It’s good to check that you’re on the right track by looking at the relationships of all of these values.
+Maintenant, il est bon de vérifier que vous êtes sur la bonne voie en examinant les relations de toutes ces valeurs.
+
+Keep in mind that, for resistors in series, the larger the resistance is, the larger the voltage drop that’s required.
+Gardez à l'esprit que, pour les résistances en série, plus la résistance est grande, plus la chute de tension requise est importante.
+
+Think of a big light bulb and a tiny light bulb on the same wire of holiday lights, using the same current.
+Pensez à une grosse ampoule et à une petite ampoule sur le même fil de lumières de Noël, utilisant le même courant.
+
+The little light bulb doesn’t draw nearly as much power, so it uses less voltage for the same amount of current passing through it.
+La petite ampoule ne consomme pas autant d'énergie, elle utilise donc moins de tension pour la même quantité de courant qui la traverse.
+
+OK, back to work!
+Bon, retour au travail !
+
+Our 1.88 Ohm resistor is a combination of
+a 3 Ohm and 5 Ohm pair of resistors in parallel.
+Notre résistance de 1,88 Ohm est une combinaison d'
+une paire de résistances de 3 Ohm et 5 Ohm en parallèle.
+
+So the voltage drop across each resistor is still 1.67 Volts, but the current passing through each will be different.
+Ainsi, la chute de tension aux bornes de chaque résistance est toujours de 1,67 volts, mais le courant traversant chacune sera différent.
+
+Using Ohm’s Law, you can divide the voltage across each resistor by its respective resistance, giving you the current through each branch.
+En utilisant la loi d'Ohm, vous pouvez diviser la tension aux bornes de chaque résistance par sa résistance respective, vous donnant le courant à travers chaque branche.
+
+1.67 volts divided by 3 Ohms gives you a current
+of 0.56 Amperes through the 3 Ohm resistor.
+1,67 volt divisé par 3 ohms vous donne un courant
+de 0,56 ampères à travers la résistance de 3 ohms.
+
+And 1.67 volts divided by 5 Ohms gives you
+a current of 0.33 Amperes.
+Et 1,67 volt divisé par 5 Ohms vous donne
+un courant de 0,33 Ampère.
+
+And since 0.56 plus 0.33 Amperes equals the 0.89 Amperes that enters the wire at the split, you know you’re on the right track.
+Et puisque 0,56 plus 0,33 ampères équivaut aux 0,89 ampères qui entrent dans le fil à la séparation, vous savez que vous êtes sur la bonne voie.
+
+One last step!
+Une dernière étape !
+
+The 17 Ohm resistor is a series combination
+of a 15 Ohm and 2 Ohm resistor.
+La résistance de 17 ohms est une combinaison en série
+d'une résistance de 15 ohms et de 2 ohms.
+
+Here, the current through them – 0.41 Amperes – stays the same, while the voltage drop across each one can be found using Ohm’s Law.
+Ici, le courant qui les traverse - 0,41 Ampères - reste le même, tandis que la chute de tension à travers chacun peut être trouvée à l'aide de la loi d'Ohm.
+
+0.41 Amperes times 15 Ohms equals 6.17 volts
+across the 15 Ohm resistor.
+0,41 Ampères fois 15 Ohms équivaut à 6,17 volts
+aux bornes de la résistance de 15 Ohms.
+
+And 0.41 Amperes times 2 Ohms equals the remaining
+0.82 Volts across the 2 Ohm resistor.
+Et 0,41 Ampères fois 2 Ohms équivaut aux
+0,82 Volts restants à travers la résistance de 2 Ohms.
+
+To check your work, you can go back and see that the two voltage drops equal the total voltage drop across each branch after the 10 Ohm resistor.
+Pour vérifier votre travail, vous pouvez revenir en arrière et voir que les deux chutes de tension sont égales à la chute de tension totale sur chaque branche après la résistance de 10 ohms.
+
+And you’ve done it!
+Congrats!
+Et vous l'avez fait !
+Félicitations! 
+
+You’ve taken a whole circuit, simplified it down to the bare minimum, then expanded it again, discovering the current and voltage values for every single resistor.
+Vous avez pris un circuit entier, l'avez simplifié au strict minimum, puis élargi à nouveau, en découvrant les valeurs de courant et de tension pour chaque résistance.
+
+But, even though we all love math, what if
+that’s not enough for you?
+Mais, même si nous aimons tous les maths, que se passe-t-il si
+cela ne vous suffit pas ?
+
+What if you physically constructed this circuit yourself, and you wanted to measure the values so that you knew your math checked out?
+Et si vous construisiez physiquement ce circuit vous-même et que vous vouliez mesurer les valeurs afin que vous sachiez que vos calculs ont été vérifiés ?
+
+To measure voltage, you’d just need a tool
+known as a voltmeter.
+Pour mesurer la tension, vous aurez juste besoin d'un outil
+appelé voltmètre.
+
+Pretty creative, I know.
+Assez créatif, je sais.
+
+Now, you want a way to measure voltage without
+altering the actual circuit.
+Maintenant, vous voulez un moyen de mesurer la tension sans
+modifier le circuit réel.
+
+No solution is perfect, but you can get a pretty accurate reading by attaching the voltmeter on either side of the device that you want to measure.
+Aucune solution n'est parfaite, mais vous pouvez obtenir une lecture assez précise en fixant le voltmètre de chaque côté de l'appareil que vous souhaitez mesurer.
+
+And you do it that way, because you know that any components connected in parallel will have the same voltage.
+Et vous le faites de cette façon, car vous savez que tous les composants connectés en parallèle auront la même tension.
+
+But even if you measure the voltage, you still
+want to avoid changing the resulting circuit.
+Mais même si vous mesurez la tension, vous
+voulez toujours éviter de changer le circuit résultant.
+
+So, what you do is give the voltmeter a resistance that's so high that it’s considered infinite, relative to the rest of the circuit.
+Donc, ce que vous faites, c'est donner au voltmètre une résistance si élevée qu'elle est considérée comme infinie, par rapport au reste du circuit.
+
+With an “infinite” resistance, the same voltage is read across both the voltmeter and the device you’re measuring, and a tiny amount of current ends up running through the voltmeter.
+Avec une résistance "infinie", la même tension est lue à la fois sur le voltmètre et sur l'appareil que vous mesurez, et une infime quantité de courant finit par traverser le voltmètre.
+
+OK, you’re a stickler, and even though you’ve confirmed your voltage, you want to do the same thing with the current.
+OK, vous êtes un adepte, et même si vous avez confirmé votre tension, vous voulez faire la même chose avec le courant.
+
+This time, you’ll use the fact that devices
+connected in series share the same current.
+Cette fois, vous utiliserez le fait que les appareils
+connectés en série partagent le même courant.
+
+So, you need a device that can measure current, in series with another component, without changing the current.
+Vous avez donc besoin d'un appareil capable de mesurer le courant, en série avec un autre composant, sans modifier le courant.
+
+This is known as an ammeter, and it measures the current in Amperes by connecting in series with the circuit.
+C'est ce qu'on appelle un ampèremètre, et il mesure le courant en ampères en se connectant en série avec le circuit.
+
+It doesn’t affect the circuit, because the
+device has a near-zero resistance.
+Cela n'affecte pas le circuit, car l'
+appareil a une résistance proche de zéro.
+
+But here’s a pro tip: When you use these devices in the lab, be very careful not to mix up the methods of connection!
+Mais voici un conseil de pro : lorsque vous utilisez ces appareils en labo, faites très attention à ne pas mélanger les méthodes de connexion !
+
+Attaching the ammeter, a device with near-zero resistance, in parallel with another resistor, will cause nearly all the current to run through the ammeter, possibly damaging it.
+Fixer l'ampèremètre, un appareil avec une résistance proche de zéro, en parallèle avec une autre résistance, fera passer presque tout le courant à travers l'ampèremètre, ce qui peut l'endommager.
+
+And if a voltmeter is attached in series, you’re not going to see any current flowing, because the resistance is so large!
+Et si un voltmètre est connecté en série, vous ne verrez aucun courant circuler, car la résistance est si grande !
+
+But used correctly, these devices can not only allow you to confirm your maths, they can also give you a hands-on way to measure the basic principles of Ohm’s Law in action.
+Mais utilisés correctement, ces appareils peuvent non seulement vous permettre de confirmer vos calculs, mais ils peuvent également vous donner un moyen pratique de mesurer les principes de base de la loi d'Ohm en action.
+
+And they just might help you raise your holiday-lighting
+game to a whole new level.
+Et ils pourraient vous aider à élever votre jeu d'éclairage de vacances
+à un tout autre niveau.
+
+Today, we saw how circuit analysis can be used on any series and parallel configuration of resistors in a DC circuit.
+Aujourd'hui, nous avons vu comment l'analyse de circuit peut être utilisée sur n'importe quelle configuration série et parallèle de résistances dans un circuit CC.
+
+We used Ohm’s Law to go from an equivalent circuit to solving for every current value and voltage drop in the system.
+Nous avons utilisé la loi d'Ohm pour passer d'un circuit équivalent à la résolution de chaque valeur de courant et chute de tension dans le système.
+
+Finally, we saw how to measure voltage and current in a real circuit using voltmeters and ammeters.
+Enfin, nous avons vu comment mesurer la tension et le courant dans un circuit réel à l'aide de voltmètres et d'ampèremètres.
+
+Crash Course Physics is produced in association
+with PBS Digital Studios.
+Crash Course Physics est produit en association
+avec PBS Digital Studios.
+
+You can head over to their channel to check out a playlist of the latest episodes from shows like PBS Space Time, The Good Stuff, and Indie Alaska.
+Vous pouvez vous rendre sur leur chaîne pour consulter une liste de lecture des derniers épisodes d'émissions telles que PBS Space Time, The Good Stuff et Indie Alaska.
+
+This episode of Crash Course was filmed in
+the Doctor Cheryl C. Kinney Crash Course Studio
+Cet épisode de Crash Course a été filmé dans
+le studio Doctor Cheryl C. Kinney Crash Course
+
+with the help of these amazing people and our equally amazing graphics team, is Thought Cafe.
+avec l'aide de ces personnes incroyables et de notre équipe graphique tout aussi incroyable, Thought Cafe.
+

@@ -1,0 +1,679 @@
+Whether you’re putting food into your body
+or fuel into your car, you’re always trying to get
+something out of raw materials.
+Que vous mettiez de la nourriture dans votre corps
+ou du carburant dans votre voiture, vous essayez toujours de tirer
+quelque chose des matières premières.
+
+You’re trying to convert energy.
+Vous essayez de convertir de l'énergie.
+
+But if you want to understand how this works,
+we need to talk about thermodynamics, and the
+laws behind it.
+Mais si vous voulez comprendre comment cela fonctionne,
+nous devons parler de thermodynamique et des
+lois qui la sous-tendent.
+
+Only then can we truly harness the power of
+energy as engineers.
+Ce n'est qu'alors que nous pourrons vraiment exploiter la puissance de l'
+énergie en tant qu'ingénieurs.
+
+[Theme Music]
+[Thème musical] L'
+
+Energy is constantly being converted all around
+you.
+énergie est constamment convertie tout autour de
+vous.
+
+When you take a bite of an apple, you
+take in the fruit’s energy and convert it into
+something that your body can use.
+Lorsque vous prenez une bouchée de pomme, vous
+absorbez l'énergie du fruit et la convertissez en
+quelque chose que votre corps peut utiliser.
+
+Maybe you’ll use it to help power the marathon
+you’re training for.
+Peut-être que vous l'utiliserez pour alimenter le marathon
+pour lequel vous vous entraînez.
+
+Maybe it’ll go to power your normal bodily
+functions.
+Peut-être que cela alimentera vos fonctions corporelles normales
+.
+
+Or you might store the energy to use later,
+as fat.
+Ou vous pouvez stocker l'énergie pour l'utiliser plus tard,
+sous forme de graisse.
+
+But energy conversions don’t just happen
+on a personal scale.
+Mais les conversions d'énergie ne se produisent pas seulement
+à une échelle personnelle.
+
+They’re also at the core of many engineering
+designs, like with hydroelectric dams.
+Ils sont également au cœur de nombreuses
+conceptions techniques, comme les barrages hydroélectriques.
+
+In a hydroelectric dam, water turns a turbine, which then
+turns a metal shaft in an electric generator, converting
+the movement of the water into electricity.
+Dans un barrage hydroélectrique, l'eau fait tourner une turbine, qui fait ensuite
+tourner un arbre métallique dans un générateur électrique, convertissant
+le mouvement de l'eau en électricité.
+
+These conversions are important, because
+energy doesn’t just come out of nowhere.
+Ces conversions sont importantes, car l'
+énergie ne vient pas de nulle part.
+
+It needs to come from some other type of energy.
+Elle doit provenir d'un autre type d'énergie.
+
+So, to better understand how energy can be
+converted, you need to understand thermodynamics.
+Donc, pour mieux comprendre comment l'énergie peut être
+convertie, vous devez comprendre la thermodynamique.
+
+Thermodynamics is the branch of physics and
+engineering that focuses on converting energy,
+often in the form of heat and work.
+La thermodynamique est la branche de la physique et de l'
+ingénierie qui se concentre sur la conversion de l'énergie,
+souvent sous forme de chaleur et de travail.
+
+It describes how thermal energy is converted to
+and from other forms of energy and also to work.
+Il décrit comment l'énergie thermique est convertie vers
+et à partir d'autres formes d'énergie et également en travail.
+
+And thermodynamics is one of the main focuses
+of mechanical engineering.
+Et la thermodynamique est l'un des principaux axes
+de l'ingénierie mécanique.
+
+Because thermo, as it’s often called, is
+critical to engines.
+Parce que le thermo, comme on l'appelle souvent, est
+essentiel pour les moteurs.
+
+Engineers need to know how much heat or work
+they’ll get out of an engine if they put energy into it.
+Les ingénieurs doivent savoir combien de chaleur ou de travail
+ils retireront d'un moteur s'ils y mettent de l'énergie.
+
+We’ll talk a lot more about engines in the
+next episode.
+Nous parlerons beaucoup plus des moteurs dans le
+prochain épisode.
+
+Even when we’re not focused on heating or cooling
+something, like with heat pumps and refrigerators,
+we still don’t want our machines overheating.
+Même lorsque nous ne nous concentrons pas sur le chauffage ou le refroidissement de
+quelque chose, comme avec les pompes à chaleur et les réfrigérateurs,
+nous ne voulons toujours pas que nos machines surchauffent.
+
+After all, engineering is not just about getting more of
+what we want, but also controlling what we don’t want.
+Après tout, l'ingénierie ne consiste pas seulement à obtenir plus de
+ce que nous voulons, mais aussi à contrôler ce que nous ne voulons pas.
+
+It’s not just mechanical engineers that
+deal with thermodynamics.
+Les ingénieurs en mécanique ne sont pas les seuls à
+s'occuper de la thermodynamique.
+
+It also plays a big role in chemical engineering.
+Il joue également un rôle important dans le génie chimique.
+
+When chemical reactions form new compounds,
+they often create energy.
+Lorsque les réactions chimiques forment de nouveaux composés,
+elles créent souvent de l'énergie.
+
+And often that energy is thermal energy.
+Et souvent cette énergie est de l'énergie thermique.
+
+Now, to understand how all this works, we
+should start at the bottom: the zeroth law
+of thermodynamics!
+Maintenant, pour comprendre comment tout cela fonctionne, il
+faut commencer par le bas : la loi zéro
+de la thermodynamique !
+
+Yes, that’s really what it’s called!
+Oui, c'est vraiment comme ça que ça s'appelle !
+
+We only came to understand the zeroth law after its
+more famous siblings – the first and second laws –
+had already been established.
+Nous n'avons compris la loi zéro qu'après que ses
+sœurs les plus célèbres - les première et deuxième lois -
+aient déjà été établies.
+
+But it was considered so fundamental to
+thermodynamics that it was promoted to be
+more than first – so, “zeroth”!
+Mais il était considéré comme si fondamental pour la
+thermodynamique qu'il a été promu comme étant
+plus que premier - donc, "zéro" !
+
+Now, this law focuses on temperature and defines
+thermal equilibrium.
+Or, cette loi porte sur la température et définit l'
+équilibre thermique.
+
+In general, an equilibrium is where certain
+properties, like pressure, volume, or temperature,
+remain the same across the system.
+En général, un équilibre est l'endroit où certaines
+propriétés, telles que la pression, le volume ou la température,
+restent les mêmes dans tout le système.
+
+So, if two or more things are in thermal equilibrium,
+then they’re all at the same temperature.
+Donc, si deux choses ou plus sont en équilibre thermique,
+alors elles sont toutes à la même température.
+
+The zeroth law says that when two objects are
+individually in thermal equilibrium with a third object,
+then they are also in equilibrium with each other.
+La loi zéro dit que lorsque deux objets sont
+individuellement en équilibre thermique avec un troisième objet,
+alors ils sont également en équilibre l'un avec l'autre.
+
+This is important because when a body is left in a
+medium at a different temperature, energy will be
+transferred until a thermal equilibrium is established.
+Ceci est important car lorsqu'un corps est laissé dans un
+milieu à une température différente, de l'énergie sera
+transférée jusqu'à ce qu'un équilibre thermique soit établi.
+
+That’s why, if you leave a cold soda out
+in the sun, it will warm up and reach the
+same temperature as the air outside.
+C'est pourquoi, si vous laissez un soda froid
+au soleil, il se réchauffera et atteindra la
+même température que l'air extérieur.
+
+The basic ideas behind why this happens lie
+within the next law, the first law of thermodynamics.
+Les idées de base derrière pourquoi cela se produit se trouvent
+dans la loi suivante, la première loi de la thermodynamique.
+
+The first law of thermodynamics applies the law
+of conservation that we learned a few episodes
+ago to thermodynamics.
+La première loi de la thermodynamique applique à la thermodynamique la loi
+de conservation que nous avons apprise il y a quelques
+épisodes.
+
+It basically defines heat as a form of energy,
+which means it can neither be created nor
+destroyed.
+Il définit essentiellement la chaleur comme une forme d'énergie,
+ce qui signifie qu'elle ne peut être ni créée ni
+détruite.
+
+So we can’t create or destroy energy, but
+we can convert it from one form to another.
+Nous ne pouvons donc pas créer ou détruire de l'énergie, mais
+nous pouvons la convertir d'une forme à une autre.
+
+This might seem pretty simple, but it’s
+a powerful idea.
+Cela peut sembler assez simple, mais c'est
+une idée puissante.
+
+It allows us to better understand a system, how
+we can get energy from it, or how we can stop the
+conversion of energy when we want to.
+Cela nous permet de mieux comprendre un système, comment
+nous pouvons en tirer de l'énergie ou comment nous pouvons arrêter la
+conversion de l'énergie quand nous le voulons.
+
+Now, no matter what system you’re looking at,
+there are two areas of energy that we need to
+concern ourselves with:
+Maintenant, quel que soit le système que vous regardez,
+il y a deux domaines d'énergie dont nous devons
+nous préoccuper :
+
+the energy contained within the system, and the
+energy that can move between boundaries.
+l'énergie contenue dans le système et l'
+énergie qui peut se déplacer entre les frontières.
+
+Let’s start with the energy inside a system.
+Commençons par l'énergie à l'intérieur d'un système.
+
+We can break it down into three main parts.
+Nous pouvons le décomposer en trois parties principales.
+
+The first is kinetic energy. This is the type
+of energy that’s involved with movement.
+Le premier est l'énergie cinétique.  C'est le type
+d'énergie qui est impliqué dans le mouvement.
+
+The most common form is translational kinetic
+energy, which is when something moves from
+one location to another.
+La forme la plus courante est l'énergie cinétique de translation
+, c'est-à-dire lorsque quelque chose se déplace d'
+un endroit à un autre.
+
+There’s also rotational kinetic energy, when
+something spins or rotates, and vibrational kinetic
+energy, when something shakes or vibrates.
+Il y a aussi l'énergie cinétique de rotation, quand
+quelque chose tourne ou tourne, et l'énergie cinétique vibratoire
+, quand quelque chose secoue ou vibre.
+
+Think about it in terms of throwing a baseball.
+Pensez-y en termes de lancer une balle de baseball.
+
+As it flies through the air, the ball will
+have kinetic energy.
+En volant dans les airs, la balle aura de
+l'énergie cinétique.
+
+The kinetic energy would be translational
+as it moves from your hand to your friend’s
+mitt, and rotational as it spins in the air.
+L'énergie cinétique serait translationnelle
+lorsqu'elle se déplace de votre main au
+gant de votre ami, et rotationnelle lorsqu'elle tourne dans les airs.
+
+The second type of energy inside a system
+is potential energy.
+Le deuxième type d'énergie à l'intérieur d'un système
+est l'énergie potentielle.
+
+This is energy that can come from where something
+is, even if it’s not moving.
+C'est de l'énergie qui peut provenir de l'endroit où se trouve quelque
+chose, même s'il ne bouge pas.
+
+We can basically think of it as stored energy.
+Nous pouvons essentiellement le considérer comme de l'énergie stockée.
+
+Potential energy often has to do with how
+high something is.
+L'énergie potentielle est souvent liée à la
+hauteur de quelque chose.
+
+The higher it is, the more potential energy
+we can have.
+Plus il est élevé, plus
+nous pouvons avoir d'énergie potentielle.
+
+This is often called gravitational potential
+energy.
+C'est ce qu'on appelle souvent l'
+énergie potentielle gravitationnelle.
+
+Like, if you’re climbing a ladder, you’ll have more
+and more potential energy with every step you take.
+Par exemple, si vous grimpez sur une échelle, vous aurez de plus
+en plus d'énergie potentielle à chaque pas que vous ferez.
+
+But potential energy can also come from an
+object's horizontal position.
+Mais l'énergie potentielle peut également provenir de
+la position horizontale d'un objet.
+
+Think about a bow and arrow.
+Pensez à un arc et une flèche.
+
+Using elasticity, we can transfer potential
+energy to an arrow as we draw it back in a bow.
+En utilisant l'élasticité, nous pouvons transférer de l'
+énergie potentielle à une flèche lorsque nous la retirons dans un arc.
+
+As we fire the arrow, the potential energy
+will be transformed into kinetic energy.
+Lorsque nous tirons la flèche, l'énergie potentielle
+sera transformée en énergie cinétique.
+
+But the third type of energy that we’ll
+find in a system is a bit different.
+Mais le troisième type d'énergie que nous
+trouverons dans un système est un peu différent.
+
+It’s called internal energy.
+C'est ce qu'on appelle l'énergie interne.
+
+Internal energy is the energy associated with
+the seemingly random movement of molecules.
+L'énergie interne est l'énergie associée au
+mouvement apparemment aléatoire des molécules.
+
+It’s similar to kinetic or potential energy,
+but on a much smaller, microscopic scale.
+C'est similaire à l'énergie cinétique ou potentielle,
+mais à une échelle microscopique beaucoup plus petite.
+
+Take a glass of water for example.
+Prenez un verre d'eau par exemple.
+
+As it just sits there on a table, the water
+doesn’t seem to be moving.
+Comme il est juste assis sur une table, l'eau
+ne semble pas bouger.
+
+But on a microscopic level, the water is 
+teeming with molecules that are traveling
+around at super high speeds.
+Mais au niveau microscopique, l'eau
+regorge de molécules qui se
+déplacent à des vitesses très élevées.
+
+While this type of energy might not seem as
+important, it can have major effects on a system.
+Bien que ce type d'énergie puisse sembler moins
+important, il peut avoir des effets majeurs sur un système.
+
+That’s because changes in internal energy can result
+in changes in temperature, changes in phase – like a
+solid to a gas – or changes in chemical structure.
+En effet, les changements d'énergie interne peuvent entraîner
+des changements de température, des changements de phase - comme un
+solide en gaz - ou des changements de structure chimique.
+
+All of these types of energy – kinetic,
+potential, and internal – show us what can
+exist within a system.
+Tous ces types d'énergie - cinétique,
+potentielle et interne - nous montrent ce qui peut
+exister dans un système.
+
+But these types of energy can’t cross the
+boundary from their system to the surroundings.
+Mais ces types d'énergie ne peuvent pas franchir la
+frontière entre leur système et l'environnement.
+
+But we’ve already talked about the main
+types of energy that can cross boundaries.
+Mais nous avons déjà parlé des principaux
+types d'énergie qui peuvent traverser les frontières.
+
+One is heat, which we know to be the flow of
+thermal energy, and another other is work, which
+is essentially any type of energy other than heat.
+L'un est la chaleur, que nous savons être le flux d'
+énergie thermique, et un autre est le travail, qui
+est essentiellement tout type d'énergie autre que la chaleur.
+
+So knowing all of these different types of energy
+involved with a system can help us understand the
+first law of thermodynamics.
+Ainsi, connaître tous ces différents types d'énergie
+impliqués dans un système peut nous aider à comprendre la
+première loi de la thermodynamique.
+
+Let’s start with a closed system, where
+no fluid is moving in or out.
+Commençons par un système fermé, où
+aucun fluide n'entre ou ne sort.
+
+A good example would be a piston enclosed
+in its cylinder.
+Un bon exemple serait un piston enfermé
+dans son cylindre.
+
+The first law of thermodynamics states that
+the change in internal energy, kinetic energy,
+and potential energy of a system
+La première loi de la thermodynamique stipule que
+la variation de l'énergie interne, de l'énergie cinétique
+et de l'énergie potentielle d'un système
+
+is equal to the heat added to the system,
+minus the work done by the system.
+est égale à la chaleur ajoutée au système,
+moins le travail effectué par le système.
+
+This equation may look pretty complicated,
+but there are a few different scenarios that
+can help clear it up.
+Cette équation peut sembler assez compliquée,
+mais il existe quelques scénarios différents qui
+peuvent aider à la clarifier.
+
+One is a stationary system.
+L'un est un système stationnaire.
+
+If you look at the left side of the equation, you’ll
+see that the changes in kinetic and potential
+energies will be 0 for a system that isn’t moving.
+Si vous regardez le côté gauche de l'équation, vous
+verrez que les changements d'énergies cinétiques et potentielles
+seront de 0 pour un système qui ne bouge pas.
+
+Another special case is an adiabatic process.
+Un autre cas particulier est un processus adiabatique.
+
+An adiabatic process is when there is no heat
+transfer.
+Un processus adiabatique est lorsqu'il n'y a pas de
+transfert de chaleur.
+
+It’s rooted in the Greek word “adiabatos”,
+meaning “not to be passed”.
+Il est enraciné dans le mot grec "adiabatos", qui
+signifie "à ne pas dépasser".
+
+This can happen if there are no differing temperatures,
+or if something is so well insulated that only a negligible
+amount of heat can pass through the boundary.
+Cela peut se produire s'il n'y a pas de températures différentes
+ou si quelque chose est si bien isolé que seule une
+quantité négligeable de chaleur peut traverser la frontière.
+
+Think of it like how a good thermos bottle
+can keep your hot chocolate warm.
+Pensez-y comme à la façon dont une bonne bouteille thermos
+peut garder votre chocolat chaud au chaud.
+
+Now you can also simplify this equation if
+you have an isochoric process.
+Maintenant, vous pouvez également simplifier cette équation si
+vous avez un processus isochore.
+
+When a process is isochoric, the volume of
+the system remains constant.
+Lorsqu'un processus est isochore, le volume
+du système reste constant.
+
+This often means that there won’t be any
+work, leaving us with only heat on the right
+side of the equation.
+Cela signifie souvent qu'il n'y aura pas de
+travail, nous laissant avec seulement de la chaleur du côté droit
+de l'équation.
+
+Any of these special cases help give you a
+much simpler equation to work with, but this
+all has to do with a closed system.
+Chacun de ces cas particuliers vous donne une
+équation beaucoup plus simple à utiliser, mais
+tout cela a à voir avec un système fermé.
+
+Oftentimes you’ll find yourself dealing
+with more complex, open systems.
+Vous serez souvent confronté
+à des systèmes ouverts plus complexes.
+
+Unlike closed systems, open systems have a
+flow going in and out.
+Contrairement aux systèmes fermés, les systèmes ouverts ont un
+flux entrant et sortant.
+
+A good example would be if your basement flooded
+and you wanted to pump the water out of it.
+Un bon exemple serait si votre sous-sol était inondé
+et que vous vouliez en pomper l'eau.
+
+With a system like this, you’ll need to
+introduce a different energy measurement:
+enthalpy.
+Avec un système comme celui-ci, vous devrez
+introduire une mesure d'énergie différente : l'
+enthalpie.
+
+Enthalpy includes internal energy, but also
+adds in the energy required to give a system
+its volume and pressure.
+L'enthalpie comprend l'énergie interne, mais
+ajoute également l'énergie nécessaire pour donner à un système
+son volume et sa pression.
+
+For an open system, you’ll also want to
+refine what you mean by work.
+Pour un système ouvert, vous voudrez également
+affiner ce que vous entendez par travail.
+
+Here you’ll want to focus on shaft work,
+which is basically any type of mechanical energy
+other than what’s necessary for flow.
+Ici, vous voudrez vous concentrer sur le travail de l'arbre,
+qui est essentiellement tout type d'énergie mécanique
+autre que ce qui est nécessaire pour l'écoulement.
+
+Going back to our equation, you’ll want to replace
+your internal energy with enthalpy and change your more
+general work to focus specifically on shaft work.
+Pour en revenir à notre équation, vous voudrez remplacer
+votre énergie interne par de l'enthalpie et modifier votre
+travail plus général pour vous concentrer spécifiquement sur le travail de l'arbre.
+
+This will let you apply the law to open systems
+as well.
+Cela vous permettra également d'appliquer la loi aux systèmes ouverts
+.
+
+So let’s use a flooded basement as our open
+system.
+Utilisons donc un sous-sol inondé comme
+système ouvert.
+
+First off, we should establish that we’ll be treating
+the basement as our system and the outside, where
+we want the water to go, as our surroundings.
+Tout d'abord, nous devons établir que nous traiterons
+le sous-sol comme notre système et l'extérieur, où
+nous voulons que l'eau aille, comme notre environnement.
+
+When we run the pump, it will take in electricity
+and convert it to shaft work, which turns the pump.
+Lorsque nous faisons fonctionner la pompe, elle consomme de l'électricité
+et la convertit en travail d'arbre, ce qui fait tourner la pompe.
+
+That energy will then be used to get the water
+moving, which will change some of its potential
+energy to kinetic energy.
+Cette énergie sera ensuite utilisée pour faire bouger l'eau
+, ce qui transformera une partie de son énergie potentielle en
+énergie cinétique.
+
+Hydroelectric dams are open systems too.
+Les barrages hydroélectriques sont aussi des systèmes ouverts.
+
+If you think of the dam as a system and its
+environment as its surroundings,
+Si vous considérez le barrage comme un système et son
+environnement comme son environnement,
+
+then you see that there’s flow coming in, in the form
+of water, and flow coming out in the form of electricity.
+alors vous voyez qu'il y a un flux entrant, sous forme
+d'eau, et un flux sortant sous forme d'électricité.
+
+It’s a little more complex than just draining
+a basement,
+C'est un peu plus complexe que de simplement vidanger
+un sous-sol,
+
+and it’ll take a lot longer to learn everything
+that’s involved with generating electricity, but
+the laws behind it are exactly the same.
+et il faudra beaucoup plus de temps pour apprendre tout ce
+qui est impliqué dans la production d'électricité, mais
+les lois sous-jacentes sont exactement les mêmes.
+
+So you see, you can’t always find the exact
+answers to problems quickly.
+Vous voyez donc que vous ne pouvez pas toujours trouver
+rapidement les réponses exactes aux problèmes.
+
+But through science and engineering, you’ll
+have the tools and knowledge to solve them
+the best you can.
+Mais grâce à la science et à l'ingénierie, vous
+aurez les outils et les connaissances nécessaires pour les résoudre
+du mieux que vous pourrez.
+
+So today we learned about thermodynamics and
+how it shows up in our lives.
+Donc, aujourd'hui, nous avons appris la thermodynamique et
+comment elle se manifeste dans nos vies.
+
+We started by learning the zeroth law of
+thermodynamics and what it means to reach
+|a thermal equilibrium.
+Nous avons commencé par apprendre la loi zéro de la
+thermodynamique et ce que signifie atteindre
+|un équilibre thermique.
+
+Then we talked about the different types of
+energies involved with a system and defined
+the first law of thermodynamics.
+Ensuite, nous avons parlé des différents types d'
+énergies impliquées dans un système et défini
+la première loi de la thermodynamique.
+
+We also found out that stationary, adiabatic,
+and isochoric processes can make our lives
+as engineers a little easier.
+Nous avons également découvert que les processus stationnaires, adiabatiques
+et isochores peuvent rendre notre vie
+d'ingénieur un peu plus facile.
+
+I’ll see you next time, when we’ll learn
+about entropy and move on to the second law
+of thermodynamics.
+Je vous verrai la prochaine fois, quand nous apprendrons l'
+entropie et passerons à la deuxième loi
+de la thermodynamique.
+
+Crash Course Engineering is produced in association
+with PBS Digital Studios.
+Crash Course Engineering est produit en association
+avec PBS Digital Studios.
+
+You can head over to their channel to check
+out a playlist of their amazing shows, like
+Vous pouvez vous rendre sur leur chaîne pour
+consulter une liste de lecture de leurs émissions incroyables, comme
+
+Brain Craft, Global Weirding with Katharine
+Hayhoe, and Hot Mess.
+Brain Craft, Global Weirding avec Katharine
+Hayhoe et Hot Mess.
+
+Crash Course is a Complexly production and this
+episode was filmed in the Doctor Cheryl C. Kinney
+Studio with the help of these wonderful people.
+Crash Course est une production de Complexly et cet
+épisode a été filmé dans le studio du docteur Cheryl C. Kinney
+avec l'aide de ces personnes merveilleuses.
+
+And our amazing graphics team is Thought Cafe.
+Et notre incroyable équipe graphique est Thought Cafe.
+

@@ -1,0 +1,360 @@
+Hi! I’m Deboki Chakravarti and welcome to Crash Course Organic Chemistry!
+Salut!  Je suis Deboki Chakravarti et bienvenue au cours intensif de chimie organique !
+
+The science of chemistry is pretty incredible
+because it’s the science of… everything.
+La science de la chimie est assez incroyable
+parce que c'est la science de… tout.
+
+Stars and computer hard drives and desks and our bodies are all made up of different arrangements of atoms that are bonded together, breaking apart, or reacting with each other all the time.
+Les étoiles, les disques durs et les bureaux des ordinateurs et nos corps sont tous constitués de différents arrangements d'atomes qui sont liés ensemble, se séparent ou réagissent les uns avec les autres tout le temps.
+
+We already did a Crash Course about the wonders of general chemistry.
+Nous avons déjà fait un Crash Course sur les merveilles de la chimie générale.
+
+So this course will focus on just a slice of that pie, because we’re talking about organic chemistry.
+Ce cours ne se concentrera donc que sur une part de ce gâteau, car nous parlons de chimie organique.
+
+And organic chemistry is the study of molecules
+that have carbon atoms.
+Et la chimie organique est l'étude des molécules
+qui ont des atomes de carbone.
+
+With four valence electrons, carbon often
+catenates, which means it bonds to itself.
+Avec quatre électrons de valence, le carbone se
+catène souvent, ce qui signifie qu'il se lie à lui-même.
+
+So it forms lots of different compounds.
+Il forme donc de nombreux composés différents.
+
+You can get long chains of carbons and hydrogens, like dodecane, or rings of carbons like anthracene, or complex structures with multiple rings and other atoms like the steroid estradiol.
+Vous pouvez obtenir de longues chaînes de carbones et d'hydrogènes, comme le dodécane, ou des anneaux de carbones comme l'anthracène, ou des structures complexes avec plusieurs anneaux et d'autres atomes comme le stéroïde estradiol.
+
+You might think that the whole focusing-on-carbon
+thing would rule out a lot of the universe -- and it does rule out things like glass, rocks, minerals, and gems other than diamonds.
+Vous pourriez penser que toute cette focalisation sur le carbone
+exclurait une grande partie de l'univers - et cela exclut des choses comme le verre, les roches, les minéraux et les pierres précieuses autres que les diamants.
+
+But organic chemicals are pretty much everywhere!
+Mais les produits chimiques organiques sont à peu près partout !
+
+Over these 50 episodes, we’ll discover new
+reactions, new compounds, and new methods to understand them.
+Au fil de ces 50 épisodes, nous découvrirons de nouvelles
+réactions, de nouveaux composés et de nouvelles méthodes pour les comprendre.
+
+And all of these discoveries didn’t just
+appear in a chemistry lab notebook overnight.
+Et toutes ces découvertes ne sont pas
+apparues dans un cahier de laboratoire de chimie du jour au lendemain.
+
+They’re the result of centuries of hard work isolating chemicals, trying to figure out what they do, and stumbling upon happy accidents that led to revolutionary ideas.
+Ils sont le résultat de siècles de travail acharné pour isoler les produits chimiques, essayer de comprendre ce qu'ils font et tomber sur des accidents heureux qui ont conduit à des idées révolutionnaires.
+
+A big part of understanding organic chemistry is grasping the logic behind everything from molecular structures to chemical reaction mechanisms.
+Une grande partie de la compréhension de la chimie organique consiste à saisir la logique derrière tout, des structures moléculaires aux mécanismes de réaction chimique.
+
+Even though these kinds of problems can feel overwhelming, treating them like a puzzle can help us make sense of them.
+Même si ces types de problèmes peuvent sembler accablants, les traiter comme un puzzle peut nous aider à leur donner un sens.
+
+So let's start our story with the birth of modern organic chemistry, which begins right around the mid-1800s.
+Commençons donc notre histoire avec la naissance de la chimie organique moderne, qui commence vers le milieu des années 1800.
+
+[Theme Music]
+[Musique à thème]
+
+Plants like willow, ephedra, and poppies were known by ancient civilizations to have medicinal benefits, but they had no idea why.
+Les plantes comme le saule, l'éphédra et le coquelicot étaient connues par les civilisations anciennes pour avoir des bienfaits médicinaux, mais elles ne savaient pas pourquoi.
+
+In the early 1800s, there was a breakthrough in understanding their medicinal properties, and people began to extract therapeutic chemicals from them.
+Au début des années 1800, il y a eu une percée dans la compréhension de leurs propriétés médicinales et les gens ont commencé à en extraire des produits chimiques thérapeutiques.
+
+Today, we know that these plants contain medicinal organic molecules like salicylic acid, ephedrine, and morphine.
+Aujourd'hui, nous savons que ces plantes contiennent des molécules organiques médicinales comme l'acide salicylique, l'éphédrine et la morphine.
+
+Organic means “derived from living things,” and the term “organic chemistry” was coined by the Swedish chemist Jöns Jacob Berzelius, who discovered several elements and came up with the modern chemical symbols that we use today.
+Organique signifie « dérivé d'êtres vivants », et le terme « chimie organique » a été inventé par le chimiste suédois Jöns Jacob Berzelius, qui a découvert plusieurs éléments et a proposé les symboles chimiques modernes que nous utilisons aujourd'hui.
+
+At that time, organic chemistry referred to the study of chemical compounds extracted from living things.
+A cette époque, la chimie organique désigne l'étude des composés chimiques extraits des êtres vivants.
+
+We thought that organic compounds could only be harvested from living things, but not made.
+Nous pensions que les composés organiques ne pouvaient être récoltés que sur des êtres vivants, mais pas fabriqués.
+
+That’s why we used to dye our fabrics beautiful colors using organic plant materials, like flowers and dirt… with a little help from our own urine.
+C'est pourquoi nous avions l'habitude de teindre nos tissus de belles couleurs en utilisant des matières végétales organiques, comme des fleurs et de la terre... avec un peu d'aide de notre propre urine.
+
+Urea is the main nitrogen-containing part of urine that comes from our body’s metabolic breakdown of proteins.
+L'urée est la principale partie de l'urine contenant de l'azote qui provient de la dégradation métabolique des protéines de notre corps.
+
+But it’s also a great fabric dye mordant, which is a chemical that makes the dye last longer and often enhances the color.
+Mais c'est aussi un excellent mordant de teinture pour tissu, qui est un produit chimique qui fait durer la teinture plus longtemps et améliore souvent la couleur.
+
+This is because urea can form a chemical bridge between the dye molecule and the fabric, and it shields the dye from fading.
+En effet, l'urée peut former un pont chimique entre la molécule de colorant et le tissu, et elle protège le colorant de la décoloration.
+
+There’s evidence that urea was used by ancient civilizations as a dye additive, particularly for indigo dye.
+Il existe des preuves que l'urée était utilisée par les civilisations anciennes comme additif de teinture, en particulier pour la teinture indigo.
+
+The same dye that makes our
+jeans blue!
+La même teinture qui rend nos
+jeans bleus !
+
+In ancient Rome, people would even sell their urine to dyers to make some money.
+Dans la Rome antique, les gens vendaient même leur urine à des teinturiers pour gagner de l'argent.
+
+It was such a big business that the government even
+passed a urine tax to get a cut of the profits.
+C'était une si grande entreprise que le gouvernement a même
+adopté une taxe sur l'urine pour obtenir une réduction des bénéfices.
+
+If you’ve ever tie-dyed a shirt, the colored
+dye solution probably had urea in it too.
+Si vous avez déjà teint une chemise, la
+solution de teinture colorée contenait probablement aussi de l'urée.
+
+But don’t worry, since we’ve moved beyond the “get every chemical from living things” days of organic chemistry, it’s not derived from urine.
+Mais ne vous inquiétez pas, puisque nous sommes allés au-delà de l'époque de la chimie organique "obtenons chaque produit chimique des êtres vivants", ce n'est pas dérivé de l'urine.
+
+This urea is synthesized from an inorganic compound.
+Cette urée est synthétisée à partir d'un composé inorganique.
+
+And for that, we can thank German chemist, Friedrich Wöhler.
+Et pour cela, nous pouvons remercier le chimiste allemand, Friedrich Wöhler.
+
+He was a rock collector and is credited with being the first person to isolate the elements yttrium, beryllium, and titanium -- and the first person to discover organic matter on meteorites.
+Il était un collectionneur de roches et est crédité d'être la première personne à isoler les éléments yttrium, béryllium et titane - et la première personne à découvrir la matière organique sur les météorites.
+
+But he’s most well known for his discovery that an inorganic salt, ammonium cyanate, could be used to make urea without a living organism.
+Mais il est surtout connu pour sa découverte qu'un sel inorganique, le cyanate d'ammonium, pourrait être utilisé pour fabriquer de l'urée sans organisme vivant.
+
+Wöhler’s discovery in 1828 is considered the starting point of the modern organic chemical industry.
+La découverte de Wöhler en 1828 est considérée comme le point de départ de l'industrie chimique organique moderne.
+
+And today, organic chemistry is defined as the study of the structure, properties, composition, reactions, and preparation of carbon-containing compounds.
+Et aujourd'hui, la chimie organique est définie comme l'étude de la structure, des propriétés, de la composition, des réactions et de la préparation des composés contenant du carbone.
+
+This definition includes chemicals extracted from living things, but also man-made polymers, like plastics.
+Cette définition inclut les produits chimiques extraits des êtres vivants, mais aussi les polymères artificiels, comme les plastiques.
+
+Throughout this course, we need to remember this one simple thing: organic chemistry is carbon-centric.
+Tout au long de ce cours, nous devons nous souvenir d'une chose simple : la chimie organique est centrée sur le carbone.
+
+Carbon is the key atom in all these molecules, and carbon atoms do some very predictable things, like make four bonds.
+Le carbone est l'atome clé de toutes ces molécules, et les atomes de carbone font des choses très prévisibles, comme faire quatre liaisons.
+
+Keeping this in mind, there are several different
+ways we can draw organic compounds.
+En gardant cela à l'esprit, il existe plusieurs façons différentes de
+dessiner des composés organiques.
+
+One way to represent organic molecules is with a Lewis structure, like the ones we drew in Crash Course General Chemistry.
+Une façon de représenter les molécules organiques est d'utiliser une structure de Lewis, comme celles que nous avons dessinées dans Crash Course General Chemistry.
+
+Lewis structures illustrate what atoms are connected and they show all of the bonds and lone pairs of electrons in a molecule.
+Les structures de Lewis illustrent quels atomes sont connectés et elles montrent toutes les liaisons et les paires d'électrons isolées dans une molécule.
+
+For example, propane is a common fuel for home heating and barbeque grills.
+Par exemple, le propane est un combustible courant pour le chauffage domestique et les barbecues.
+
+And it’s a simple organic compound.
+Et c'est un simple composé organique.
+
+Because we haven’t learned how to name compounds yet, I’m just going to say that propane’s molecular formula is C3H8, so it has 3 carbon atoms and 8 hydrogen atoms.
+Parce que nous n'avons pas encore appris à nommer les composés, je vais juste dire que la formule moléculaire du propane est C3H8, donc il a 3 atomes de carbone et 8 atomes d'hydrogène.
+
+A molecular formula tells us the atoms web have and how many of each atom there is, but it doesn’t tell us what’s bonded to what.
+Une formule moléculaire nous dit que le réseau d'atomes a et combien il y a de chaque atome, mais elle ne nous dit pas ce qui est lié à quoi.
+
+For that, we’ll need a Lewis structure.
+Pour cela, nous aurons besoin d'une structure de Lewis.
+
+As I mentioned earlier, organic molecules can make carbon chains, so let’s start by connecting all 3 of propane’s carbons in a straight line.
+Comme je l'ai mentionné plus tôt, les molécules organiques peuvent former des chaînes de carbone, alors commençons par connecter les 3 carbones du propane en ligne droite.
+
+Then, knowing that carbon atoms prefer to make four bonds, we can add enough hydrogen atoms around each carbon so that they have four bonds.
+Ensuite, sachant que les atomes de carbone préfèrent former quatre liaisons, nous pouvons ajouter suffisamment d'atomes d'hydrogène autour de chaque carbone pour qu'ils aient quatre liaisons.
+
+Lastly, we need to check that we’ve accounted for all 3 carbons and 8 hydrogens in propane’s structure.
+Enfin, nous devons vérifier que nous avons pris en compte les 3 carbones et les 8 hydrogènes dans la structure du propane.
+
+And, more importantly, we need to make sure each carbon has 8 electrons around it—an octet.
+Et, plus important encore, nous devons nous assurer que chaque carbone est entouré de 8 électrons, soit un octet.
+
+Remember that each bond represents 2 electrons,
+so 4 bonds per carbon is 8 electrons.
+Rappelez-vous que chaque liaison représente 2 électrons,
+donc 4 liaisons par carbone font 8 électrons.
+
+So we’re good!
+Alors on est bien !
+
+Writing Lewis structures for small carbon
+chains isn’t too bad.
+Écrire des structures de Lewis pour de petites
+chaînes de carbone n'est pas trop mal.
+
+But drawing a bigger organic structure that shows all of the bonds, hydrogen atoms, and electrons can start to get complicated.
+Mais dessiner une structure organique plus grande qui montre toutes les liaisons, les atomes d'hydrogène et les électrons peut commencer à devenir compliqué.
+
+And, let’s be real, we’re busy chemists.
+Et, soyons réalistes, nous sommes des chimistes occupés.
+
+We don’t have the time to draw every structure like this every time.
+Nous n'avons pas le temps de dessiner chaque structure comme celle-ci à chaque fois.
+
+So the first simplification we can make is
+called a condensed structural formula, where we group all of the hydrogens together next to the carbons they’re bonded to, instead of drawing each one separately.
+Ainsi, la première simplification que nous pouvons faire
+s'appelle une formule structurelle condensée, où nous regroupons tous les hydrogènes à côté des carbones auxquels ils sont liés, au lieu de les dessiner séparément.
+
+That’s better, but it’s still a bit crowded.
+C'est mieux, mais c'est quand même un peu encombré.
+
+So we can simplify the structure even more by removing all the carbons and their attached hydrogens.
+Nous pouvons donc simplifier encore plus la structure en supprimant tous les carbones et leurs hydrogènes attachés.
+
+This leaves behind a skeleton of lines representing bonds, which is why this is called a skeletal formula or line-angle formula.
+Cela laisse derrière lui un squelette de lignes représentant des liaisons, c'est pourquoi on l'appelle une formule squelettique ou une formule d'angle de ligne.
+
+In skeletal formulas, carbons are the bends or the ends of the lines.
+Dans les formules squelettiques, les carbones sont les coudes ou les extrémités des lignes.
+
+And hydrogens aren’t shown because carbon atoms in most organic compounds have 4 bonds, so the number of hydrogens needed to give each carbon 4 bonds is implied.
+Et les hydrogènes ne sont pas représentés car les atomes de carbone de la plupart des composés organiques ont 4 liaisons, de sorte que le nombre d'hydrogènes nécessaires pour donner à chaque liaison carbone 4 est implicite.
+
+We can take these drawing shortcuts for all kinds of organic molecules, no matter how complicated or simple they are.
+Nous pouvons utiliser ces raccourcis de dessin pour toutes sortes de molécules organiques, aussi compliquées ou simples soient-elles.
+
+For example, let’s look at a straight chain of eight carbons with the molecular formula C8H18.
+Par exemple, regardons une chaîne droite de huit carbones avec la formule moléculaire C8H18.
+
+That’s octane, by the way, but we’ll get to naming in a later video.
+Soit dit en passant, c'est l'octane, mais nous en parlerons dans une vidéo ultérieure.
+
+The Lewis structure of octane looks like this, the condensed structural formula looks like this, and the skeletal formula looks like this.
+La structure de Lewis de l'octane ressemble à ceci, la formule structurelle condensée ressemble à ceci et la formule squelettique ressemble à ceci.
+
+And you can see that, unlike the Lewis structure, the skeletal formula uses zig-zag lines to represent bonds, because we need those bends to see how many carbon atoms are in the structure.
+Et vous pouvez voir que, contrairement à la structure de Lewis, la formule squelettique utilise des lignes en zigzag pour représenter les liaisons, car nous avons besoin de ces courbes pour voir combien d'atomes de carbone se trouvent dans la structure.
+
+One long straight line basically wouldn’t
+tell us anything!
+Une longue ligne droite ne
+nous dirait rien !
+
+We’ll need to move between these structural
+representations a lot throughout this series.
+Nous devrons beaucoup nous déplacer entre ces
+représentations structurelles tout au long de cette série.
+
+So, given the skeletal structure for iso-octane, an important component in gasoline, we’ll need to know it translates to this condensed formula, and this Lewis structure.
+Donc, étant donné la structure squelettique de l'iso-octane, un composant important de l'essence, nous devons savoir qu'il se traduit par cette formule condensée et cette structure de Lewis.
+
+But the thing is, organic chemistry isn’t
+just carbon and hydrogen atoms.
+Mais le fait est que la chimie organique ne se
+limite pas aux atomes de carbone et d'hydrogène.
+
+We have a whole periodic table of elements!
+Nous avons tout un tableau périodique des éléments !
+
+We’ve even got a poster!
+Nous avons même une affiche !
+
+Though there are a few main ones that are commonly a part of organic compounds.
+Bien qu'il y en ait quelques-uns principaux qui font généralement partie des composés organiques.
+
+These atoms in organic molecules other than carbon and hydrogen are called heteroatoms.
+Ces atomes dans des molécules organiques autres que le carbone et l'hydrogène sont appelés hétéroatomes.
+
+We always show heteroatoms with the attached hydrogens in the skeletal formula, like this one for the artificial sweetener aspartame.
+Nous montrons toujours des hétéroatomes avec les hydrogènes attachés dans la formule squelettique, comme celle-ci pour l'aspartame, édulcorant artificiel.
+
+Also, it’s sometimes helpful to show the lone pairs of electrons on heteroatoms, because it’ll help us think about chemical reactions.
+De plus, il est parfois utile de montrer les paires d'électrons isolées sur les hétéroatomes, car cela nous aidera à réfléchir aux réactions chimiques.
+
+Skeletal formulas make it easier for us to focus on the parts of an organic structure that are non-carbon atoms or have double and triple bonds.
+Les formules squelettiques nous permettent de nous concentrer plus facilement sur les parties d'une structure organique qui ne sont pas des atomes de carbone ou qui ont des doubles et des triples liaisons.
+
+These parts are called functional groups and that’s where all the cool chemistry happens!
+Ces parties sont appelées groupes fonctionnels et c'est là que se produit toute la chimie cool !
+
+We’ll be dealing with a lot of these skeletal structures or other depictions of organic compounds, but it’s also important to remember that these chemicals are real things that we use on a daily basis.
+Nous traiterons beaucoup de ces structures squelettiques ou d'autres représentations de composés organiques, mais il est également important de se rappeler que ces produits chimiques sont de vraies choses que nous utilisons quotidiennement.
+
+Aspartame, which I just mentioned, is in the little blue sugar packets that we can add to our coffee.
+L'aspartame, dont je viens de parler, se trouve dans les petits sachets de sucre bleu que nous pouvons ajouter à notre café.
+
+And this cup is already full of organic compounds that give coffee its taste and smell and most importantly, the caffeine that helps us wake up in the morning!
+Et cette tasse regorge déjà de composés organiques qui donnent au café son goût et son odeur et surtout, la caféine qui nous aide à nous réveiller le matin !
+
+The whole reason anyone can see this video in the first place is an organic chemical called retinal, a molecule in our eyes that’s responsible for turning visible light into nerve signals.
+La raison pour laquelle tout le monde peut voir cette vidéo en premier lieu est un produit chimique organique appelé rétinal, une molécule dans nos yeux qui est responsable de transformer la lumière visible en signaux nerveux.
+
+And, not to mention, most video screens and
+computer equipment have lots of organic polymers.
+Et, sans oublier que la plupart des écrans vidéo et
+des équipements informatiques contiennent de nombreux polymères organiques.
+
+One important breakthrough in polymer chemistry
+in the 1970s was how to make plastics conduct electricity.
+Une percée importante dans la chimie des polymères
+dans les années 1970 était de savoir comment rendre les plastiques conducteurs d'électricité.
+
+These special kinds of polymers are responsible for lightweight laptops, tablets, and phones we carry around, because plastics are a lot lighter than metals.
+Ces types spéciaux de polymères sont responsables des ordinateurs portables, tablettes et téléphones légers que nous transportons, car les plastiques sont beaucoup plus légers que les métaux.
+
+Also, light-emitting polymers are responsible for full color displays.
+En outre, les polymères électroluminescents sont responsables des écrans en couleur.
+
+These light-emitting polymers behave almost like metals but change colors with different amounts of electricity.
+Ces polymères électroluminescents se comportent presque comme des métaux mais changent de couleur avec différentes quantités d'électricité.
+
+Plenty of natural things like flowers, fruits, and vegetables are colored because of organic compounds too.
+Beaucoup de choses naturelles comme les fleurs, les fruits et les légumes sont également colorées à cause des composés organiques.
+
+Like, beets are high in betanin, a dye that gives them a lovely purple color.
+Par exemple, les betteraves sont riches en bétanine, un colorant qui leur donne une belle couleur violette.
+
+Some people don’t metabolize betanin so it turns their urine and feces purple.
+Certaines personnes ne métabolisent pas la bétanine, ce qui rend leur urine et leurs excréments violets.
+
+It’s also a great fabric dye.
+C'est aussi une excellente teinture pour tissus.
+
+So to bring this all full-circle, organic compounds give color to a lot of the foods and other things we see every single day, whether they’re fixed with urea or not!
+Donc, pour boucler la boucle, les composés organiques donnent de la couleur à beaucoup d'aliments et d'autres choses que nous voyons chaque jour, qu'ils soient fixés avec de l'urée ou non !
+
+I hope you’re just as excited as I am about how diverse organic compounds are.
+J'espère que vous êtes aussi enthousiaste que moi à propos de la diversité des composés organiques.
+
+We’re going to learn so much together!
+Nous allons tellement apprendre ensemble !
+
+But in this episode, we talked about:
+Mais dans cet épisode, nous avons parlé de :
+
+The origins of modern organic chemistry
+Les origines de la chimie organique moderne
+
+How to write Lewis structures, condensed structures, and skeletal formulas
+Comment écrire les structures de Lewis, les structures condensées et les formules squelettiques
+
+A brief introduction to functional groups and heteroatoms
+Une brève introduction aux groupes fonctionnels et aux hétéroatomes
+
+And how Romans used to soak their fabrics in urine dye to make them pretty colors
+Et comment les Romains avaient l'habitude de tremper leurs tissus dans la teinture d'urine pour les rendre jolis  les couleurs La
+
+Next time, we’ll work on nomenclature and what to call these organic molecules!
+prochaine fois, on travaillera sur la nomenclature et comment appeler ces molécules organiques !
+
+Thanks for watching this episode of Crash Course Organic Chemistry.
+Merci d'avoir regardé cet épisode de Crash Course Organic Chemistry.
+
+If you want to help keep all Crash Course free for everybody, forever, you can join our community on Patreon.
+Si vous voulez aider à garder tous les cours intensifs gratuits pour tout le monde, pour toujours, vous pouvez rejoindre notre communauté sur Patreon.
+

@@ -1,0 +1,787 @@
+You can review content from Crash Course Organic Chemistry with the Crash Course App,
+Vous pouvez consulter le contenu de Crash Course Organic Chemistry avec l'application Crash Course,
+
+available now for Android and iOS devices.
+disponible dès maintenant pour les appareils Android et iOS.
+
+Hi! I’m Deboki Chakravarti and welcome 
+to Crash Course Organic Chemistry!
+Salut!  Je suis Deboki Chakravarti et bienvenue
+au cours intensif de chimie organique !
+
+Esters are found in the 
+perfumes and colognes we wear,  
+Les esters se trouvent dans les
+parfums et les eaux de Cologne que nous portons
+
+as well as in the fragrances 
+of flowers and some fruits.
+, ainsi que dans les parfums
+de fleurs et de certains fruits.
+
+For example, oranges contain octyl 
+ethanoate, which contributes to their scent.
+Par exemple, les oranges contiennent de l'
+éthanoate d'octyle, qui contribue à leur parfum.
+
+But oranges and other citrus fruits also contain 
+an ester with important biochemical roles:  
+Mais les oranges et autres agrumes contiennent également
+un ester aux rôles biochimiques importants :
+
+the antioxidant vitamin C.
+la vitamine C antioxydante.
+
+As we talked about in Episode 19, vitamin C 
+can react with radicals and neutralize them.
+Comme nous en avons parlé dans l'épisode 19, la vitamine C
+peut réagir avec les radicaux et les neutraliser.
+
+It’s also used by the body to make collagen, 
+the main protein found in connective tissues.
+Il est également utilisé par le corps pour fabriquer du collagène,
+la principale protéine présente dans les tissus conjonctifs.
+
+Not getting enough vitamin C causes scurvy,  
+Un apport insuffisant en vitamine C provoque le scorbut,
+
+a disease that involves jaundice, 
+bleeding gums, and joint pain.
+une maladie qui implique la jaunisse, des
+saignements des gencives et des douleurs articulaires.
+
+Vitamin C’s chemical name, ascorbic acid, 
+comes from the word ‘antiscorbutic’,  
+Le nom chimique de la vitamine C, l'acide ascorbique,
+vient du mot "antiscorbutique",
+
+which literally means ‘preventing scurvy’.
+qui signifie littéralement "prévenir le scorbut".
+
+It’s estimated that 2 million sailors died of the 
+disease between 1500 and 1800 on long voyages.
+On estime que 2 millions de marins sont morts de la
+maladie entre 1500 et 1800 lors de longs voyages.
+
+There was some recognition that citrus fruits 
+helped prevent scurvy, so by 1795,
+Il y avait une certaine reconnaissance que les agrumes
+aidaient à prévenir le scorbut, donc en 1795,
+
+British Naval officers were given lemon juice as part 
+of their rations as a scurvy prevention tactic.
+les officiers de la marine britannique recevaient du jus de citron dans le cadre
+de leurs rations comme tactique de prévention du scorbut.
+
+But the organic chemistry reasoning eluded them.
+Mais le raisonnement de la chimie organique leur a échappé.
+
+In the early 1900s, the British Navy 
+was finding lemons harder to come by.
+Au début des années 1900, la marine britannique
+trouvait les citrons plus difficiles à trouver.
+
+Limes could be more easily sourced from 
+British colonies,
+Les citrons verts pourraient provenir plus facilement des
+colonies britanniques
+
+so they subbed in lime juice under the assumption that the acidity 
+of citrus fruits was what warded off scurvy.
+, ils ont donc remplacé le jus de citron vert en supposant que l'acidité
+des agrumes était ce qui empêchait le scorbut.
+
+Limes are more acidic than lemons, 
+but they also contain less vitamin C.
+Les citrons verts sont plus acides que les citrons,
+mais ils contiennent également moins de vitamine C.
+
+So, sometimes, drinking lime juice wasn’t 
+enough to prevent scurvy in sailors,  
+Ainsi, parfois, boire du jus de citron vert n'était pas
+suffisant pour prévenir le scorbut chez les marins,
+
+and more of them were getting sick again.
+et plus d'entre eux tombaient à nouveau malades.
+
+It wasn’t until 1932 that vitamin 
+C, with its ester functional group,  
+Ce n'est qu'en 1932 que la vitamine
+C, avec son groupe fonctionnel ester, a
+
+was conclusively linked as the 
+scurvy-preventing chemical,  
+été définitivement associée à la
+prévention du scorbut,
+
+and the British Navy realized that their 
+lemon-to-lime switch was a big mistake!
+et la marine britannique s'est rendu compte que leur
+changement de citron à citron vert était une grosse erreur !
+
+Esters are just one of several compounds 
+that are derived from carboxylic acids,  
+Les esters ne sont qu'un des nombreux
+composés dérivés d'acides carboxyliques,
+
+and many of them have a fascinating range of uses.
+et nombre d'entre eux ont une gamme fascinante d'utilisations.
+
+In this video, we'll explore some of the others!
+Dans cette vidéo, nous allons en explorer d'autres !
+
+[Theme Music]
+[Thème musical]
+
+In the last episode, we looked 
+at carboxylic acid reactions  
+Dans le dernier épisode, nous avons
+examiné les réactions des acides carboxyliques
+
+and saw that using a nucleophile to add groups 
+to the carbonyl carbon is kind of tricky.
+et avons constaté que l'utilisation d'un nucléophile pour ajouter des groupes
+au carbone carbonyle est assez délicate.
+
+Basic nucleophiles pluck off the 
+proton from the carboxylic acid group,  
+Les nucléophiles basiques arrachent le
+proton du groupe acide carboxylique,
+
+leaving us with a carboxylate ion.
+nous laissant avec un ion carboxylate.
+
+To get around this problem and add to the 
+carbonyl carbon,
+Pour contourner ce problème et ajouter au
+carbone carbonyle,
+
+we can use the carboxylic acid derivatives we made in the last episode 
+– specifically acid chlorides and esters.
+nous pouvons utiliser les dérivés d'acide carboxylique que nous avons fabriqués dans le dernier épisode
+- en particulier les chlorures d'acide et les esters.
+
+And we’ll add two more examples of 
+carboxylic acid derivatives in this episode:  
+Et nous ajouterons deux autres exemples de
+dérivés d'acides carboxyliques dans cet épisode :   les
+
+anhydrides and amides.
+anhydrides et les amides.
+
+These four carboxylic acid derivatives have different amounts of reactivity at the carbonyl carbon.
+Ces quatre dérivés d'acide carboxylique ont différentes quantités de réactivité au niveau du carbone carbonyle.
+
+If it helps, we could think of 
+them as a barbershop quartet,  
+Si cela peut aider, nous pourrions les
+considérer comme un quatuor de barbiers,
+
+four different but interchangeable individuals.
+quatre individus différents mais interchangeables.
+
+And to understand why, we need to 
+look closely at their structures.
+Et pour comprendre pourquoi, nous devons
+examiner de près leurs structures.
+
+We’ve already learned that 
+carbonyl compounds have a dipole,  
+Nous avons déjà appris que
+les composés carbonyle ont un dipôle,
+
+which makes the carbonyl 
+carbon partially positive.
+ce qui rend le
+carbone carbonyle partiellement positif.
+
+And we know that electronegative 
+elements exert a strong pull on an electron pair in a covalent bond.
+Et nous savons que les
+éléments électronégatifs exercent une forte attraction sur une paire d'électrons dans une liaison covalente.
+
+We call this pull an inductive effect.
+Nous appelons cette attraction un effet inductif.
+
+So when there's an electronegative element 
+like chlorine bonded to the carbonyl carbon,  
+Ainsi, lorsqu'un élément électronégatif
+comme le chlore est lié au carbone carbonyle,
+
+the inductive effect means that even more electron 
+density is pulled away from the carbonyl carbon.
+l'effet inductif signifie qu'encore plus de
+densité électronique est éloignée du carbone carbonyle.
+
+This makes an acid chloride even more reactive and irresistible to nucleophiles than aldehydes and ketones.
+Cela rend un chlorure d'acide encore plus réactif et irrésistible pour les nucléophiles que les aldéhydes et les cétones.
+
+Inductive effects don't completely explain the difference in reactivity of these four carboxylic acid derivatives, though.
+Cependant, les effets inductifs n'expliquent pas complètement la différence de réactivité de ces quatre dérivés d'acide carboxylique.
+
+After all, chlorine, oxygen, and nitrogen atoms 
+are all pretty electronegative
+Après tout, les atomes de chlore, d'oxygène et d'azote
+sont tous assez électronégatifs
+
+and pull electron density away from the carbonyl carbon so there 
+must be another reason for the different voices –
+et éloignent la densité électronique du carbone carbonyle. Il
+doit donc y avoir une autre raison pour les différentes voix -
+
+well, reactivity – in our barber shop quartet.
+enfin, la réactivité - dans notre quatuor de barbiers.
+
+We also need to consider resonance effects!
+Il faut aussi tenir compte des effets de résonance !
+
+In carboxylic acid derivatives, the oxygen and 
+nitrogen atoms have good orbital overlap with the carbonyl carbon's p-orbital,
+Dans les dérivés d'acide carboxylique, les atomes d'oxygène et d'
+azote ont un bon chevauchement orbital avec l'orbitale p du carbone carbonyle
+
+and can donate electron density through resonance.
+et peuvent donner une densité électronique par résonance.
+
+This decreases the partial positive 
+charge on the carbonyl carbon,  
+Cela diminue la charge positive partielle
+sur le carbone carbonyle, le
+
+making it less attractive to nucleophiles.
+rendant moins attrayant pour les nucléophiles.
+
+Overall, if there's more p-orbital 
+overlap, we have more resonance effects,  
+Dans l'ensemble, s'il y a plus de
+chevauchement des orbitales p, nous avons plus d'effets de résonance
+
+and there's decreased reactivity in our chemical.
+et la réactivité de notre produit chimique est réduite.
+
+So of our four carboxylic acid derivatives, 
+acid chloride is the most reactive.
+Ainsi, de nos quatre dérivés d'acide carboxylique, le
+chlorure d'acide est le plus réactif.
+
+Chlorine is one of the more electronegative 
+elements on the periodic table,  
+Le chlore est l'un des éléments les plus électronégatifs
+du tableau périodique,
+
+so the inductive effects are pretty strong, pull 
+electron density away from the carbonyl carbon,  
+donc les effets inductifs sont assez forts,
+éloignent la densité électronique du carbone carbonyle
+
+and make it more reactive.
+et le rendent plus réactif.
+
+Plus, chlorine is a row below 
+carbon on the periodic table,  
+De plus, le chlore est une ligne en dessous du
+carbone dans le tableau périodique
+
+so they're pretty different in size, 
+and that leads to poor orbital overlap.
+,  ils sont donc de taille assez différente,
+et cela conduit à un mauvais chevauchement orbital.
+
+Also, a C-L-plus atom would be unstable,  
+De plus, un atome C-L-plus serait instable,
+
+so any resonance effects are pretty 
+insignificant for acid chlorides.
+donc tout effet de résonance est assez
+insignifiant pour les chlorures d'acide.
+
+For anhydrides, esters, and amides,
+Pour les anhydrides, les esters et les amides,
+
+resonance effects make them increasingly 
+less reactive – in that order.
+les effets de résonance les rendent de
+moins en moins réactifs, dans cet ordre.
+
+The central oxygen of the anhydride 
+has resonance with two carbonyl groups  
+L'oxygène central de l'anhydride
+a une résonance avec deux groupes carbonyle
+
+and is sharing electrons in two 
+directions, so it's next in reactivity.
+et partage des électrons dans deux
+directions, il est donc le suivant en termes de réactivité.
+
+The ester only shares electrons 
+with one carbonyl group,  
+L'ester ne partage des électrons
+qu'avec un seul groupe carbonyle
+
+so it has lower reactivity than the anhydride.
+, il a donc une réactivité plus faible que l'anhydride.
+
+Finally, nitrogen can handle a positive charge 
+rather well by comparison to oxygen or chlorine.
+Enfin, l'azote supporte plutôt bien une charge positive
+par rapport à l'oxygène ou au chlore.
+
+So that's why amides are the 
+least reactive of the quartet,  
+C'est pourquoi les amides sont les
+moins réactifs du quatuor,
+
+with the weakest inductive effects 
+and strongest resonance effects.
+avec les effets inductifs les plus faibles et les effets de
+résonance les plus forts.
+
+Now that we understand the reactivity pattern 
+of our four carboxylic acid derivatives,  
+Maintenant que nous comprenons le schéma
+de réactivité de nos quatre dérivés d'acide carboxylique,
+
+it's time to actually play with some reactions!
+il est temps de jouer avec certaines réactions !
+
+Specifically, we'll just add in a nucleophile  
+Plus précisément, nous allons simplement ajouter un nucléophile
+
+to aim for some nucleophilic 
+acyl substitution reactions.
+pour viser certaines réactions de
+substitution nucléophile acyle.
+
+Even though "substitution" 
+is right there in the name,  
+Même si "substitution"
+est juste là dans le nom,
+
+this reaction takes place through 
+an addition-elimination mechanism.
+cette réaction se produit via
+un mécanisme d'addition-élimination.
+
+Remember, we can’t do SN1 and SN2 reactions at 
+sp2-hybridized carbons like our carbonyl carbon.
+N'oubliez pas que nous ne pouvons pas effectuer de réactions SN1 et SN2 sur
+des carbones hybrides sp2 comme notre carbone carbonyle.
+
+First, the nucleophile adds on to the carbonyl 
+carbon,
+Premièrement, le nucléophile s'ajoute au
+carbone carbonyle,
+
+pushing the electrons up onto oxygen and producing a tetrahedral intermediate,
+poussant les électrons vers le haut sur l'oxygène et produisant un intermédiaire tétraédrique,
+
+like we saw with aldehydes and ketones.
+comme nous l'avons vu avec les aldéhydes et les cétones.
+
+But carboxylic acid derivatives, unlike the 
+aldehydes and ketones we saw in episode 27,  
+Mais les dérivés d'acide carboxylique, contrairement aux
+aldéhydes et cétones que nous avons vus dans l'épisode 27,
+
+have a built-in leaving group!
+ont un groupe partant intégré !
+
+See?
+Voir? 
+
+All four of them have an electronegative 
+element attached to the carbonyl carbon  
+Tous les quatre ont un
+élément électronégatif attaché au carbone carbonyle
+
+that can hop right off the molecule: 
+the X groups we highlighted here.
+qui peut sauter directement de la molécule :
+les groupes X que nous avons mis en évidence ici.
+
+So, when the electrons push back down,  
+Ainsi, lorsque les électrons repoussent,
+
+that X group attached to the carbonyl 
+carbon is eliminated from the molecule.
+ce groupe X attaché au
+carbone carbonyle est éliminé de la molécule.
+
+Nucleophilic acyl substitution reactions are key steps in the creation of the important plastics, and the nylon found in clothing.
+Les réactions de substitution des acyles nucléophiles sont des étapes clés dans la création des plastiques importants et du nylon que l'on trouve dans les vêtements.
+
+They can also be used to form polyesters, 
+which, as we can see in the name,  
+Ils peuvent également être utilisés pour former des polyesters,
+qui, comme nous pouvons le voir dans leur nom,
+
+are made of a bunch of repeating 
+ester functional groups.
+sont constitués d'un ensemble de
+groupes fonctionnels esters répétitifs.
+
+Acyl substitution reactions are also important 
+in our bodies,
+Les réactions de substitution d'acyle sont également importantes
+dans notre corps, en
+
+as steps in the synthesis and breakdown of important biological 
+molecules such as proteins and fats.
+tant qu'étapes de la synthèse et de la dégradation d'importantes
+molécules biologiques telles que les protéines et les graisses.
+
+Many of the fats in the foods we eat 
+are triglycerides:
+De nombreuses graisses contenues dans les aliments que nous consommons
+sont des triglycérides :
+
+a combination of three long-chained carboxylic acids and one 
+glycerol, an alcohol formed from glucose.
+une combinaison de trois acides carboxyliques à longue chaîne et d'un
+glycérol, un alcool formé à partir du glucose.
+
+The carboxylic acid chains link up with 
+the glycerol molecule through ester groups.
+Les chaînes d'acide carboxylique se lient à
+la molécule de glycérol par l'intermédiaire de groupes ester.
+
+So when you eat food containing fats,
+Ainsi, lorsque vous mangez des aliments contenant des graisses, les
+
+lipase enzymes in your digestive system catalyze the hydrolysis of those ester groups in triglyceride molecules.
+enzymes lipases de votre système digestif catalysent l'hydrolyse de ces groupes esters dans les molécules de triglycérides.
+
+Specifically, this reaction is 
+called ester hydrolysis
+Plus précisément, cette réaction
+s'appelle l'hydrolyse d'ester
+
+and it's a great example of an acyl substitution reaction!
+et c'est un excellent exemple de réaction de substitution d'acyle !
+
+It breaks the triglycerides 
+down into carboxylic acids  
+Il décompose les
+triglycérides en acides carboxyliques
+
+which can then be stored as energy 
+or used for cell repair and growth.
+qui peuvent ensuite être stockés sous forme d'énergie
+ou utilisés pour la réparation et la croissance des cellules.
+
+Ester hydrolysis of fats is also 
+a key reaction in soap-making,  
+L'hydrolyse des esters des graisses est également
+une réaction clé dans la fabrication du savon,
+
+such as the ester groups in 
+animal fats and vegetable oils,  
+comme les groupes esters dans
+les graisses animales et les huiles végétales,
+
+which are both made up of triglycerides.
+qui sont tous deux composés de triglycérides.
+
+This ester hydrolysis reaction can also be called a saponification reaction when we're using a strong base to make soap.
+Cette réaction d'hydrolyse d'ester peut également être appelée réaction de saponification lorsque nous utilisons une base forte pour fabriquer du savon.
+
+Base-catalyzed ester hydrolysis starts 
+with the hydroxide ion attacking
+L'hydrolyse de l'ester catalysée par une base commence
+par l'attaque
+
+and adding on to the carbonyl carbon 
+to form a tetrahedral intermediate.
+et l'ajout de l'ion hydroxyde au carbone carbonyle
+pour former un intermédiaire tétraédrique.
+
+After this, the electrons push back 
+down, and the alkoxy group is eliminated,  
+Après cela, les électrons
+repoussent et le groupe alcoxy est éliminé,
+
+leaving a carboxylic acid behind.
+laissant derrière lui un acide carboxylique.
+
+The alkoxide ion that just got eliminated 
+is basic, and comes back to pinch a proton from the carboxylic acid,
+L'ion alcoxyde qui vient d'être éliminé
+est basique et revient pour pincer un proton de l'acide carboxylique,
+
+forming an alcohol and leaving a carboxylate ion.
+formant un alcool et laissant un ion carboxylate.
+
+So when you wash your hands, for example,  
+Ainsi, lorsque vous vous lavez les mains,
+
+the long, nonpolar hydrocarbon chain 
+dissolves the oils on your skin.
+la longue chaîne d'hydrocarbures non polaire
+dissout les huiles sur votre peau.
+
+And the charged carboxylate ion allows the soap molecule to interact with water and be washed away.
+Et l'ion carboxylate chargé permet à la molécule de savon d'interagir avec l'eau et d'être emportée.
+
+This base-catalyzed ester hydrolysis is also the reaction that takes place when you use cleaners to try and remove stuck-on grease in your oven!
+Cette hydrolyse d'ester catalysée par une base est également la réaction qui se produit lorsque vous utilisez des nettoyants pour essayer d'éliminer la graisse collée dans votre four !
+
+And hydrolysis reactions 
+aren't exclusive to esters;  
+Et les réactions d'hydrolyse
+ne sont pas exclusives aux esters ;
+
+all carboxylic acid derivatives 
+can undergo similar reactions.
+tous les dérivés d'acide carboxylique
+peuvent subir des réactions similaires.
+
+Anhydrides and acid chlorides are reactive enough that we only need water for hydrolysis to take place.
+Les anhydrides et les chlorures d'acide sont suffisamment réactifs pour que nous n'ayons besoin que d'eau pour que l'hydrolyse ait lieu.
+
+For esters and amides, though, the 
+reaction with water alone is too slow.
+Pour les esters et les amides, cependant, la
+réaction avec l'eau seule est trop lente.
+
+So we need to use an acid or a base as a catalyst 
+– like we just saw in our saponification reaction.
+Nous devons donc utiliser un acide ou une base comme catalyseur
+, comme nous venons de le voir dans notre réaction de saponification.
+
+The mechanism for acid-catalyzed hydrolysis of 
+esters is slightly different from base-catalyzed hydrolysis.
+Le mécanisme de l'hydrolyse catalysée par un acide des
+esters est légèrement différent de l'hydrolyse catalysée par une base.
+
+Remember, we don’t want to 
+form negative charges in acidic solutions!
+N'oubliez pas que nous ne voulons pas
+former de charges négatives dans les solutions acides !
+
+In acid-catalyzed hydrolysis, first, the carbonyl 
+oxygen grabs a proton from the hydronium ion.
+Dans l'hydrolyse catalysée par un acide, d'abord, l'oxygène du carbonyle
+saisit un proton de l'ion hydronium.
+
+Next, a water molecule attacks the carbonyl carbon 
+to give us our familiar tetrahedral intermediate.
+Ensuite, une molécule d'eau attaque le carbone carbonyle
+pour nous donner notre intermédiaire tétraédrique familier.
+
+In base-catalyzed hydrolysis,  
+Dans l'hydrolyse catalysée par une base, c'est à
+
+this is when the electrons pushed back 
+down and we kicked out an alkoxide ion.
+ce moment que les électrons ont
+repoussé et que nous avons expulsé un ion alcoxyde.
+
+But negatively charged alkoxide ions 
+aren’t stable in acidic solutions,  
+Mais les ions alcoxyde chargés négativement
+ne sont pas stables dans les solutions acides,
+
+so that isn’t possible here 
+in acid-catalyzed hydrolysis.
+ce qui n'est donc pas possible ici
+dans l'hydrolyse catalysée par un acide.
+
+Instead, our mechanism changes in 
+acid to avoid negative charges.
+Au lieu de cela, notre mécanisme change d'
+acide pour éviter les charges négatives.
+
+So the alkoxy group gets protonated 
+first, and then it leaves as an alcohol.
+Ainsi, le groupe alcoxy est d'
+abord protoné, puis il part sous forme d'alcool.
+
+After this, the water 
+deprotonates the carbonyl oxygen,  
+Après cela, l'eau
+déprotone l'oxygène du carbonyle,
+
+and we're left with a carboxylic 
+acid as our other product.
+et nous nous retrouvons avec un
+acide carboxylique comme autre produit.
+
+And we're done!
+Et nous avons terminé !
+
+Hydrolysis reactions pop up at a couple of 
+points during our synthesis of penicillin.
+Des réactions d'hydrolyse apparaissent à quelques
+moments de notre synthèse de pénicilline.
+
+Let’s fill these in on our Mold Medicine Map 
+that will document the steps in penicillin V synthesis,
+Inscrivons-les sur notre carte de la médecine des moisissures
+qui documentera les étapes de la synthèse de la pénicilline V,
+
+as it was first done by the 
+organic chemist Dr. John C. Sheehan.
+comme cela a été fait pour la première fois par le
+chimiste organique, le Dr John C. Sheehan.
+
+As we learn the reactions throughout the 
+rest of the series, we'll add to the map!
+Au fur et à mesure que nous apprendrons les réactions tout au long du
+reste de la série, nous ajouterons à la carte !
+
+In this early step of penicillin synthesis, we use acid-catalyzed ester hydrolysis to convert an ester group into a carboxylic acid, 
+Dans cette première étape de la synthèse de la pénicilline, nous utilisons l'hydrolyse d'esters catalysée par un acide pour convertir un groupe ester en acide carboxylique,
+
+which we've already seen the mechanism for!
+dont nous avons déjà vu le mécanisme !
+
+You’ll notice that there’s another 
+functional group transformation here, too:  
+Vous remarquerez qu'il existe également une autre
+transformation de groupe fonctionnel :
+
+the amide group is hydrolyzed to form an amine.
+le groupe amide est hydrolysé pour former une amine.
+
+Let’s take a closer look at 
+the amide hydrolysis mechanism,  
+Examinons de plus près
+le mécanisme d'hydrolyse des amides, en
+
+using what we learned in the ester hydrolysis 
+examples from earlier in this episode.
+utilisant ce que nous avons appris dans les exemples d'hydrolyse des esters
+plus tôt dans cet épisode.
+
+Remember that esters are more reactive than 
+amides as functional groups on carboxylic acid derivatives,
+N'oubliez pas que les esters sont plus réactifs que les
+amides en tant que groupes fonctionnels sur les dérivés d'acide carboxylique, de
+
+so the ester hydrolysis reaction 
+will probably happen before the amide hydrolysis.
+sorte que la réaction d'hydrolyse de l'ester
+se produira probablement avant l'hydrolyse de l'amide.
+
+Base-catalyzed hydrolysis is possible with amides,  
+L'hydrolyse catalysée par une base est possible avec les amides,
+
+but this requires a strong base and lots of heating.
+mais cela nécessite une base forte et beaucoup de chauffage.
+
+So acid-catalyzed hydrolysis is more common.
+L'hydrolyse catalysée par un acide est donc plus courante.
+
+The first few steps of an acid-catalyzed amide 
+hydrolysis are similar to we saw with the ester.
+Les premières étapes d'une hydrolyse d'amide catalysée par un acide
+sont similaires à celles que nous avons vues avec l'ester.
+
+First, the carbonyl oxygen grabs 
+a proton from the hydronium ion.
+Tout d'abord, l'oxygène du carbonyle saisit
+un proton de l'ion hydronium.
+
+This leaves a water molecule behind, 
+which attacks the carbonyl carbon,  
+Cela laisse une molécule d'eau,
+qui attaque le carbone carbonyle,
+
+and once again gives us a 
+tetrahedral intermediate.
+et nous donne à nouveau un
+intermédiaire tétraédrique.
+
+In the next steps, a proton is removed from the positively charged oxygen and transferred to the nitrogen.
+Dans les étapes suivantes, un proton est retiré de l'oxygène chargé positivement et transféré à l'azote.
+
+This makes for an excellent leaving group, 
+and it’s booted out to form an amine.
+Cela en fait un excellent groupe partant,
+et il est amorcé pour former une amine.
+
+Later in the penicillin synthesis,  
+Plus tard dans la synthèse de la pénicilline,
+
+we see acid-catalyzed hydrolysis again, 
+only with an ester instead of an amide.
+nous voyons à nouveau une hydrolyse catalysée
+par un acide, uniquement avec un ester au lieu d'un amide.
+
+About midway through the synthesis, an ester containing a bulky tert-butyl is put on the molecule to act as a protecting group,  
+À mi-chemin de la synthèse, un ester contenant un tert-butyle volumineux est placé sur la molécule pour agir comme un groupe protecteur,
+
+which stops the carboxylic acid group from reacting when we want other parts of the structure to react instead.
+ce qui empêche le groupe acide carboxylique de réagir lorsque nous voulons que d'autres parties de la structure réagissent à la place.
+
+This protecting group needs to be removed later in the synthesis so we can form the penicillin structure’s four-membered ring.
+Ce groupe protecteur doit être supprimé plus tard dans la synthèse afin que nous puissions former l'anneau à quatre chaînons de la structure de la pénicilline.
+
+And that's where the acid-catalyzed 
+ester hydrolysis comes in!
+Et c'est là
+qu'intervient l'hydrolyse des esters catalysée par un acide !
+
+This reaction isn’t done in water, 
+so it’s a different mechanism,  
+Cette réaction ne se fait pas dans l'eau,
+c'est donc un mécanisme différent,
+
+but the end result is the same — a carboxylic acid.
+mais le résultat final est le même : un acide carboxylique.
+
+We’ll learn a bunch about protecting 
+groups in just a couple of episodes,  
+Nous en apprendrons beaucoup sur la protection des
+groupes en quelques épisodes seulement,
+
+so consider this a sneak preview.
+alors considérez ceci comme un aperçu.
+
+Our Mold Medicine Map features a few other 
+steps involving carboxylic acid derivatives,  
+Notre Mold Medicine Map présente quelques autres
+étapes impliquant des dérivés d'acide carboxylique
+
+so we’ll continue playing with these compounds 
+and their reactions in the next episode.
+,   nous continuerons donc à jouer avec ces composés
+et leurs réactions dans le prochain épisode.
+
+But in this episode, we:
+Mais dans cet épisode, nous avons :
+
+Identified four carboxylic acid derivatives 
+and looked at their different reactivities,
+identifié quatre dérivés d'acide carboxylique
+et examiné leurs différentes réactivités, fait
+
+Reacted nucleophiles with 
+carboxylic acid derivatives, and
+réagir des nucléophiles avec
+des dérivés d'acide carboxylique, et
+
+Learned some hydrolysis reaction mechanisms to 
+make carboxylic acids and carboxylate salts.
+appris certains mécanismes de réaction d'hydrolyse pour
+fabriquer des acides carboxyliques et des sels de carboxylate.
+
+In the next episode, we’ll look at how we can interconvert between the carboxylic acid derivatives we’ve met in this episode,  
+Dans le prochain épisode, nous verrons comment nous pouvons effectuer une interconversion entre les dérivés d'acide carboxylique que nous avons rencontrés dans cet épisode,
+
+and learn about some other important reactions.
+et découvrirons d'autres réactions importantes.
+
+Until then, thanks for watching this 
+episode of Crash Course Organic Chemistry.
+En attendant, merci d'avoir regardé cet
+épisode du cours intensif de chimie organique.
+
+If you want to help keep all Crash 
+Course free for everybody, forever,  
+Si vous souhaitez aider à garder tous les
+cours d'initiation gratuits pour tout le monde, pour toujours,
+
+you can join our community on Patreon.
+vous pouvez rejoindre notre communauté sur Patreon.
+

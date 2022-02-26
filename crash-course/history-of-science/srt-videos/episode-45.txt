@@ -1,0 +1,791 @@
+This image is called the Blue Marble, and
+it was taken in 1972 during the Apollo 17
+Cette image s'appelle Blue Marble et
+a été prise en 1972 lors de la mission Apollo 17
+
+mission.
+.
+
+It has become a symbol not only of cool space
+travel, but the environmental movement back
+Il est devenu un symbole non seulement des voyages spatiaux cool
+, mais aussi du mouvement environnemental
+
+here on the ground.
+ici sur le terrain.
+
+Think about it: when you’re on the earth,
+it seems pretty dang big and solid.
+Pensez-y : quand vous êtes sur terre,
+cela semble assez gros et solide.
+
+But seen from far above, it’s just a blue
+marble flecked with beautiful green.
+Mais vu de loin, ce n'est qu'un
+marbre bleu tacheté de beau vert.
+
+Inspiring, isolated, and not really all that
+big.
+Inspirant, isolé et pas si grand que ça
+.
+
+And thanks to technologies like air travel
+and the Internet, and to a booming human population,
+Et grâce à des technologies comme le transport aérien
+et Internet, et à une population humaine en plein essor,
+
+it keeps feeling smaller.
+il semble toujours plus petit.
+
+And thanks to technologies… and a booming
+human population… it keeps losing those
+Et grâce aux technologies… et à une
+population humaine en plein essor… elle ne cesse de perdre
+
+all-important green flecks.
+ces taches vertes si importantes.
+
+Today is the history of climate science, which
+leads to some dark questions about the future
+Aujourd'hui, c'est l'histoire de la science du climat, qui
+conduit à de sombres questions sur l'avenir
+
+of life on earth.
+de la vie sur terre.
+
+[Intro Music Plays]
+[Intro Music Plays] Les
+
+Scientists tend to be conservative—not politically
+scientifiques ont tendance à être conservateurs - pas politiquement
+
+conservative, but careful, resistant to big
+claims.
+conservateurs, mais prudents, résistants aux grandes
+revendications.
+
+So evidence for the possible end of the living
+world took a while to be seen as such.
+Ainsi, les preuves de la fin possible du monde vivant
+ont mis du temps à être perçues comme telles.
+
+One problem was the structure of modern science.
+L'un des problèmes était la structure de la science moderne.
+
+Remember how those ancient Greek, Indian,
+and Chinese natural philosophers tended to
+Rappelez-vous comment ces anciens philosophes naturels grecs, indiens
+et chinois avaient tendance à
+
+study astronomy, math, the living world, and
+human society, all at once?
+étudier l'astronomie, les mathématiques, le monde vivant et
+la société humaine, tout à la fois ?
+
+By the 1900s, professional scientists had
+gone in the other direction, specialization.
+Dans les années 1900, les scientifiques professionnels étaient
+allés dans l'autre sens, la spécialisation.
+
+Scientists tended to focus on learning about
+one specific thing, often practically oriented
+Les scientifiques avaient tendance à se concentrer sur l'apprentissage d'
+une chose spécifique, souvent des choses orientées vers la pratique
+
+things.
+.
+
+Another problem was actually epistemic: studying
+weather patterns in one region is useful,
+Un autre problème était en fait épistémique : étudier les
+conditions météorologiques dans une région est utile,
+
+but how do you study global climate?
+mais comment étudie-t-on le climat mondial ?
+
+How many local patterns add up to a global
+one?
+Combien de modèles locaux s'additionnent pour former un modèle
+global ?
+
+And there are so many elements involved in
+the earth’s systems—solar radiation, human
+Et il y a tellement d'éléments impliqués dans
+les systèmes terrestres - rayonnement solaire,
+
+activity, carbon, nitrogen, water, nonhumans:
+how do you know which variables matter in
+activité humaine, carbone, azote, eau, non-humains :
+comment savez-vous quelles variables sont importantes pour
+
+answering any given question?
+répondre à une question donnée ?
+
+Big Data suddenly becomes not a source of
+potential answers, but a serious problem.
+Le Big Data devient soudainement non pas une source de
+réponses potentielles, mais un problème sérieux.
+
+So how did we get here?
+Alors, comment en sommes-nous arrivés là ?
+
+English inventor Guy Callendar correctly predicted
+rising atmospheric carbon dioxide concentration
+L'inventeur anglais Guy Callendar a correctement prédit l'
+augmentation de la concentration de dioxyde de carbone
+
+in 1938.
+dans l'atmosphère en 1938.
+
+He analyzed measurements of temperatures from
+the nineteenth century on, correlating them
+Il a analysé les mesures de températures à partir
+du XIXe siècle, en les corrélant
+
+with measurements of carbon dioxide.
+avec les mesures de dioxyde de carbone.
+
+He saw that temperature had increased and
+proposed that this was an effect of increasing
+Il a vu que la température avait augmenté et a
+proposé que c'était un effet de l'augmentation du
+
+CO2.
+CO2.
+
+Most scientists were skeptical, but Callendar
+died convinced he was onto something.
+La plupart des scientifiques étaient sceptiques, mais Callendar est
+mort convaincu qu'il était sur quelque chose.
+
+And his work influenced a small number of
+scientists.
+Et son travail a influencé un petit nombre de
+scientifiques.
+
+In 1957, Revelle published a paper with Hans
+Suess suggesting that human emissions of greenhouse
+En 1957, Revelle a publié un article avec Hans
+Suess suggérant que les émissions humaines de gaz à effet de
+
+gases like CO2
+might create a “greenhouse effect”—these
+serre comme le CO2
+pourraient créer un "effet de serre" - ces
+
+heat-trapping gases would be trapped in the
+atmosphere, not absorbed quickly enough by
+gaz piégeant la chaleur seraient piégés dans l'
+atmosphère, pas absorbés assez rapidement par
+
+the oceans—which would cause global warming.
+les océans - ce qui causerait  le réchauffement climatique. 
+
+Revelle also convinced geochemist Charles
+Keeling to keep measuring atmospheric CO2
+Revelle a également convaincu le géochimiste Charles
+Keeling de continuer à mesurer les concentrations atmosphériques de CO2
+
+concentrations at Mauna Loa Observatory, starting
+in 1958.
+à l'observatoire du Mauna Loa, à partir
+de 1958.
+
+These measurements showed seasonal variation
+as well as a clear arc over time: the planet
+Ces mesures ont montré des variations saisonnières
+ainsi qu'un arc clair dans le temps : la planète
+
+is warming, and CO2 is rising.
+se réchauffe et le CO2 augmente.
+
+This trend is called the Keeling Curve.
+Cette tendance s'appelle la courbe de Keeling.
+
+In 1988, the World Meteorological Organisation
+established the Intergovernmental Panel on
+En 1988, l'Organisation météorologique mondiale a
+créé le Groupe d'experts intergouvernemental sur l'évolution du
+
+Climate Change, or IPCC, which has become
+the premiere body for establishing just what
+climat, ou GIEC, qui est devenu
+le premier organisme chargé d'établir exactement ce qui
+
+is going on with the earth’s climate.
+se passe avec le climat de la Terre.
+
+And in 1996, the governments of the world
+came together to ban chlorofluorocarbons or
+Et en 1996, les gouvernements du monde
+se sont réunis pour interdire les chlorofluorocarbures ou
+
+CFCs, a group of odorless chemicals that were
+used in hair sprays, refrigerators, and lots
+CFC, un groupe de produits chimiques inodores qui étaient
+utilisés dans les laques pour cheveux, les réfrigérateurs et de
+
+of other places… and that were causing a
+hole in the earth’s protective ozone layer.
+nombreux autres endroits… et qui causaient un
+trou dans la couche d'ozone protectrice de la Terre.
+
+By the 2000s, many scientists had overcome
+their conservatism to speak out about global
+Dans les années 2000, de nombreux scientifiques avaient surmonté
+leur conservatisme pour dénoncer les
+
+shifts in climate which were affecting living
+systems of all sorts, agriculture, cities,
+changements climatiques mondiaux qui affectaient les
+systèmes vivants de toutes sortes, l'agriculture, les villes
+
+and, well, everything.
+et, enfin, tout.
+
+In 2000, atmospheric chemist Paul Crutzen
+coined a term for these global shifts, and—however
+En 2000, le chimiste de l'atmosphère Paul Crutzen a
+inventé un terme pour ces changements globaux, et - aussi
+
+imperfect—it has stuck: the Anthropocene,
+or the “Age of Man.”
+imparfait soit-il - il est resté : l'Anthropocène,
+ou « l'âge de l'homme ».
+
+Some scholars have called into question naming
+this era after “the” human, as if all
+Certains chercheurs ont remis en question le fait de nommer
+cette époque d'après "l'" humain, comme si tous les
+
+humans are equally to blame.
+humains étaient également à blâmer.
+
+Other contenders include Donna Haraway’s
+the Chthulhucene, or Age of Science Fictional
+D'autres prétendants incluent
+le Chthulhucene de Donna Haraway, ou Age of Science Fictional
+
+Badness; the Manthropocene, or Age of Dudes,
+which not so subtly hints at the gender bias
+Badness;  le Manthropocène, ou Age of Dudes,
+qui ne fait pas si subtilement allusion aux préjugés sexistes
+
+in science; and, catching on with some historians,
+the Capitalocene, or Age of Political–Economics.
+dans la science ;  et, rattrapant certains historiens,
+le Capitalocene, ou Age of Political-Economics.
+
+This is a fight among historians over how
+to discuss longue durée history, or history
+Il s'agit d'un combat entre historiens sur la manière
+de discuter de l'histoire de longue durée, ou de l'histoire à
+
+across many millennia.
+travers plusieurs millénaires.
+
+It’s also a fight among geologists about
+where to place so-called “golden spikes”—moments
+C'est aussi un combat entre géologues pour savoir
+où placer les soi-disant "pointes dorées" - des moments
+
+that represent shifts in the very makeup of
+the earth, usually visible shifts in the fossil
+qui représentent des changements dans la composition même de
+la terre, des changements généralement visibles dans les
+
+record.
+archives fossiles.
+
+In fact, the Anthropocene is a political fight
+about the intersection of geological epochs
+En fait, l'Anthropocène est un combat politique à
+propos de l'intersection des époques géologiques
+
+and human history.
+et de l'histoire humaine.
+
+The problem with the Anthropocene is there
+are so many good candidates for the golden
+Le problème avec l'Anthropocène est qu'il
+y a tellement de bons candidats pour l'
+
+spike of a human epoch.
+épi doré d'une époque humaine.
+
+Show us, ThoughtBubble:
+First, there’s the original fossil fuel—coal—which
+Montrez-nous, ThoughtBubble :
+Tout d'abord, il y a le combustible fossile d'origine - le charbon - qui
+
+was mined extensively in certain regions starting
+in the late 1700s and ramping up seriously
+a été largement exploité dans certaines régions à partir
+de la fin des années 1700 et qui s'est sérieusement intensifié
+
+in the late 1800s—the Industrial Revolution.
+à la fin des années 1800 - la révolution industrielle.
+
+Second, there’s radioactive material in
+the form of strontium-90, which could be traced
+Deuxièmement, il y a des matières radioactives
+sous forme de strontium-90, qui pourraient être retrouvées
+
+all over the world
+soon after the Trinity atomic bomb test—the
+partout dans le monde
+peu après le test de la bombe atomique de Trinity, le
+
+first of many such tests.
+premier de nombreux tests de ce type.
+
+So this date for the beginning of the Anthropocene
+would be the specific date of July 16, 1945—the
+Donc, cette date pour le début de l'Anthropocène
+serait la date précise du 16 juillet 1945 - le
+
+day of the Trinity Test and the birth of the
+Cold War.
+jour du test de la Trinité et de la naissance de la
+guerre froide.
+
+Third, there’s plastic, steel, and concrete—but
+especially plastic.
+Troisièmement, il y a le plastique, l'acier et le béton, mais
+surtout le plastique.
+
+Humans built stuff and even had plastic before
+World War Two, but development took off at
+Les humains construisaient des choses et avaient même du plastique avant la
+Seconde Guerre mondiale, mais le développement a décollé à
+
+an unprecedented pace around 1960.
+un rythme sans précédent vers 1960.
+
+This “Great Acceleration” saw rapid, often
+exponential growth in human population, use
+Cette "grande accélération" a vu une croissance rapide et souvent
+exponentielle de la population humaine, l'utilisation
+
+of freshwater, ability to produce and move
+food, greenhouse gas emissions, temperature
+de l'eau douce, la capacité de produire et de transporter de la
+nourriture, des effets de serre.  les émissions de gaz, la température
+
+of the earth’s surface, and consumption
+of natural resources of all kinds.
+de la surface terrestre et la consommation
+de ressources naturelles de toutes sortes.
+
+The period of the Great Acceleration also
+gave rise to the first megacities, or urban
+La période de la Grande Accélération a également
+donné naissance aux premières mégapoles, ou
+
+areas with over ten million people.
+zones urbaines de plus de dix millions d'habitants.
+
+In reaction to massive urbanization, humans
+have also set aside more land as national
+En réaction à l'urbanisation massive, les humains
+ont également réservé plus de terres en
+
+parks or greenways, creating a landscape dominated
+by industrial agriculture and cities but also
+parcs nationaux ou en voies vertes, créant un paysage dominé
+par l'agriculture industrielle et les villes, mais aussi par
+
+sporting well-defined breaks of deep green.
+des pauses bien définies de vert profond.
+
+All of these changes can be seen in the earth’s
+geological record, and they all symbolize
+Tous ces changements peuvent être vus dans les
+archives géologiques de la Terre, et ils symbolisent tous
+
+how some humans have changed the physical
+world.
+comment certains humains ont changé le
+monde physique.
+
+But perhaps the best candidate is number four:
+chicken bones!
+Mais peut-être que le meilleur candidat est le numéro quatre :
+les os de poulet !
+
+With more than twenty-three billion alive
+at any time, chickens—whose bodies have
+Avec plus de vingt-trois milliards de personnes vivantes
+à tout moment, les poulets - dont les corps ont
+
+been heavily designed by humans—are the
+most common terrestrial vertebrate species
+été fortement conçus par les humains - sont les
+espèces de vertébrés terrestres les plus courantes
+
+on the planet.
+sur la planète.
+
+Aliens visiting the ruins of earth could reasonably
+conclude from our fossil record that the only
+Les extraterrestres visitant les ruines de la Terre pourraient raisonnablement
+conclure à partir de nos archives fossiles que la seule
+
+life-form that ever mattered on this planet
+was the chicken.
+forme de vie qui ait jamais compté sur cette planète
+était le poulet.
+
+Thanks, ThoughtBubble.
+Merci, Bulle de Pensée.
+
+But the Anthropocene is only one way of viewing
+geological change and human disruption of
+Mais l'Anthropocène n'est qu'une manière d'appréhender les
+changements géologiques et la perturbation humaine des
+
+natural cycles.
+cycles naturels.
+
+Also influential are the Planetary Boundaries—a
+set of nine specific ranges for natural processes
+Les limites planétaires sont également influentes - un
+ensemble de neuf plages spécifiques pour les processus naturels
+
+within which humans can definitely live.
+dans lesquels les humains peuvent certainement vivre.
+
+These include measures such as climate change,
+ocean acidification, and ozone depletion,
+Il s'agit notamment de mesures telles que le changement climatique,
+l'acidification des océans et l'appauvrissement de la couche d'ozone,
+
+but also the genetic diversity of life on
+earth and how much land is converted to cropland.
+mais aussi la diversité génétique de la vie sur
+terre et la quantité de terres converties en terres cultivées.
+
+But we can’t talk about climate disruption
+without mentioning the pushback.
+Mais on ne peut pas parler de dérèglement climatique
+sans évoquer le refoulement.
+
+Even though the vast majority of scientists
+realized that humans have had a tremendous
+Même si la grande majorité des scientifiques ont
+réalisé que les humains ont eu un
+
+impact on the earth, politically conservative
+talk shows run stories about how there’’s
+impact énorme sur la terre, des
+talk-shows politiquement conservateurs racontent qu'il n'y a
+
+no consensus.
+pas de consensus.
+
+So where did this idea come from?
+Alors d'où est venue cette idée ?
+
+In 2010, geologist and historian of science
+Naomi Oreskes and NASA historian Erik Conway
+En 2010, la géologue et historienne des sciences
+Naomi Oreskes et l'historien de la NASA Erik Conway
+
+showed that fossil fuel companies had hired
+some of the same PR agents and strategists
+ont montré que les entreprises de combustibles fossiles avaient embauché
+certains des mêmes agents de relations publiques et stratèges
+
+who had worked for the tobacco companies,
+decades earlier, to invent climate denial:
+qui avaient travaillé pour les compagnies de tabac, des
+décennies plus tôt, pour inventer le déni climatique :
+
+that is, to create doubt about science that
+was not doubted by scientists.
+c'est-à-dire  créer un doute sur la science qui
+n'a pas été mis en doute par les scientifiques.
+
+Ultimately, climate science isn’t just about
+long-term shifts in the movement of carbon,
+En fin de compte, la science du climat ne concerne pas seulement les
+changements à long terme dans le mouvement du carbone, de l'
+
+water, heat, and other natural phenomena.
+eau, de la chaleur et d'autres phénomènes naturels.
+
+The big questions for scientists in the Capitalocene
+include epistemic, technical, and moral ones.
+Les grandes questions pour les scientifiques du Capitalocène
+comprennent les questions épistémiques, techniques et morales.
+
+Epistemic questions include how fast are humans,
+and especially humans working within capitalism
+Les questions épistémiques incluent à quelle vitesse les humains,
+et en particulier les humains travaillant au sein du capitalisme,
+
+changing which ecosystems, in what ways?
+changent quels écosystèmes, de quelles manières ?
+
+For example, we know that many important pollinators
+such as honeybees, bumblebees, and butterflies
+Par exemple, nous savons que de nombreux pollinisateurs importants
+tels que les abeilles, les bourdons et les papillons
+
+are dying out.
+sont en train de disparaître.
+
+Which is real sad, but also potentially an enormous problem.
+Ce qui est vraiment triste, mais aussi potentiellement un énorme problème.
+
+And we have some ideas as to why.
+Et nous avons quelques idées sur la raison.
+
+A major cause is off-target damage from pesticides—which,
+no surprise, they literally are made to kill
+Une cause majeure est les dommages hors cible causés par les pesticides – qui,
+sans surprise, sont littéralement conçus pour tuer les
+
+bugs.
+insectes.
+
+But which pesticides affect which bugs in
+which ways?
+Mais quels pesticides affectent quels insectes et de
+quelle manière ?
+
+Are there are safe options?
+Existe-t-il des options sûres ?
+
+Can we test lots of ways of doing agriculture
+and see which is most bug-friendly?
+Pouvons-nous tester de nombreuses façons de faire de l'agriculture
+et voir laquelle est la plus respectueuse des insectes ?
+
+And which forms of agriculture are most likely
+to erode soil from the land, and which help
+Et quelles formes d'agriculture sont les plus susceptibles
+d'éroder le sol de la terre et lesquelles contribuent à
+
+build soil back up?
+reconstituer le sol ?
+
+Basically: what kinds of knowledge do we need
+to make today, in a connected, fragile, increasingly
+Au fond : quelles connaissances devons-
+nous fabriquer aujourd'hui, dans un monde connecté, fragile, de plus en plus
+
+“disrupted” world?
+« disrupté » ?
+
+In terms of technical questions, earth scientists
+are increasingly being pushed from the role
+En termes de questions techniques, les scientifiques de la Terre
+sont de plus en plus poussés du rôle
+
+of description to recommending action.
+de description à celui de recommandation d'action.
+
+Some prominent scientists are calling for
+governments to seriously consider geoengineering,
+Certains scientifiques éminents appellent les
+gouvernements à envisager sérieusement la géo-ingénierie,
+
+also known as climate engineering: the intentional,
+global-scale transformation of the environment
+également connue sous le nom d'ingénierie climatique : la transformation intentionnelle à
+l'échelle mondiale de l'environnement
+
+to combat global warming and other disruptions.
+pour lutter contre le réchauffement climatique et d'autres perturbations.
+
+Some geoengineering would be relatively uncontroversial,
+likelike creating more forests.
+Certaines géo-ingénieries seraient relativement peu controversées,
+comme la création de plus de forêts.
+
+But other ideas have been hotly debated,
+likelike fertilizing the ocean with iron to
+Mais d'autres idées ont été vivement débattues,
+comme fertiliser l'océan avec du fer pour
+
+accelerate the growth of algae, thus capturing
+more CO2 from the atmosphere.
+accélérer la croissance des algues, captant ainsi
+plus de CO2 de l'atmosphère.
+
+But perhaps the biggest shift in professional
+sciencing today is moral.
+Mais peut-être que le plus grand changement dans la
+science professionnelle aujourd'hui est moral.
+
+Who should pay for solutions to global-scale
+problems such as sea-level rise and global
+Qui devrait payer pour des solutions à des
+problèmes à l'échelle mondiale tels que l'élévation du niveau de la mer et le réchauffement
+
+warming?
+climatique ?
+
+Everyone?
+Toutes les personnes? 
+
+Or only the people who most contributed to
+the problem?
+Ou seulement les personnes qui ont le plus contribué
+au problème ?
+
+The Yellow Vest movement in France is a recent
+example of this conflict: people across the
+Le mouvement des gilets jaunes en France est un
+exemple récent de ce conflit : les habitants de tout le
+
+country were subject to a new tax on fuel,
+in order to help lower carbon emissions.
+pays ont été soumis à une nouvelle taxe sur le carburant
+, afin de contribuer à réduire les émissions de carbone.
+
+But many of the working poor, especially in
+more rural areas, simply couldn’t afford
+Mais de nombreux travailleurs pauvres, en particulier dans
+les zones plus rurales, ne pouvaient tout simplement pas se permettre
+
+to pay more to get around, and riots broke
+out.
+de payer plus pour se déplacer, et des émeutes ont
+éclaté.
+
+And think about all of the scientists working
+on topics related to the environment but…
+Et pensez à tous les scientifiques travaillant
+sur des sujets liés à l'environnement mais…
+
+maybe on the wrong side of history.
+peut-être du mauvais côté de l'histoire.
+
+What if you are a professional geologist,
+and Exxon, BP, or Shell hired you to find
+Que se passe-t-il si vous êtes un géologue professionnel
+et qu'Exxon, BP ou Shell vous engage pour trouver
+
+more fossil fuels to extract?
+plus de combustibles fossiles à extraire ?
+
+Should you not do the science you’ve spent
+a decade getting really good at?
+Ne devriez-vous pas faire la science dans laquelle vous avez passé
+une décennie à devenir vraiment bon ?
+
+What if you work for a chemical company to
+study the unintended effects of a pesticides
+Que se passe-t-il si vous travaillez pour une entreprise de produits chimiques pour
+étudier les effets involontaires d'un pesticide
+
+on animals, and when you report your findings,
+the company tries to bury them?
+sur les animaux, et que lorsque vous rapportez vos découvertes,
+l'entreprise essaie de les enterrer ?
+
+And that's not a hypothetical, it's exactly what happened to leading amphibian
+endocrinologist Tyrone Hayes in the 2000s.
+Et ce n'est pas une hypothèse, c'est exactement ce qui est arrivé à l'éminent
+endocrinologue amphibien Tyrone Hayes dans les années 2000.
+
+He reported to Syngenta that one of their
+key products, the herbicide atrazine, disrupts
+Il a signalé à Syngenta que l'un de leurs
+produits clés, l'herbicide atrazine, perturbe
+
+the hormones of frogs and may have other serious
+unintended consequences.
+les hormones des grenouilles et peut avoir d'autres
+conséquences imprévues graves.
+
+And for that, Syngenta spent years trying
+to discredit their former collaborator.
+Et pour cela, Syngenta a passé des années à tenter
+de discréditer son ancien collaborateur.
+
+As it approaches the present, the history
+of science and technology becomes less about
+À mesure qu'elle approche du présent, l'histoire
+de la science et de la technologie devient moins axée sur les
+
+discoveries and inventions and more about
+how the choice to make specific knowledge—or
+découvertes et les inventions et davantage sur la
+façon dont le choix de créer des connaissances spécifiques - ou d'
+
+bury that knowledge—is highly political.
+enterrer ces connaissances - est hautement politique.
+
+This isn’t a portrait of doomsday, but a
+call to reflect on science’s strengths…
+Ce n'est pas un portrait apocalyptique, mais un
+appel à réfléchir sur les forces de la science…
+
+and its limits.
+et ses limites.
+
+Science alone can’t answer tough questions
+about how humanity should address climate
+La science seule ne peut pas répondre aux questions difficiles
+sur la façon dont l'humanité devrait faire face au
+
+disruption, and who should pay for potential
+solutions.
+dérèglement climatique et qui devrait payer pour les
+solutions potentielles.
+
+One thing is certain: whether we call it the
+Anthropocene, Capitalocene, or something else,
+Une chose est certaine : que nous l'appelions l'
+Anthropocène, le Capitalocène ou autre chose,
+
+the new era in which some humans have dragged
+the Blue Marble will forever change how we
+la nouvelle ère dans laquelle certains humains ont entraîné
+la Marbre Bleue changera à jamais notre façon de
+
+make and share knowledge and tools.
+fabriquer et de partager nos connaissances et nos outils.
+
+Next time—we’ll finish the series with
+a look at how science is gendered: not only
+La prochaine fois, nous terminerons la série
+en examinant comment la science est genrée : non seulement à
+
+how important women have been to the history
+of science, and how difficult it sometimes
+quel point les femmes ont été importantes dans l'histoire
+de la science, et à quel point il est parfois difficile
+
+is to tell their stories.
+de raconter leurs histoires.
+
+But also how our understandings of the natural
+world reflect our ideas about humanity.
+Mais aussi comment notre compréhension du monde naturel
+reflète nos idées sur l'humanité.
+
+Crash Course History of Science is filmed in the Dr. Cheryll C. Kinney studio in Missoula, MT
+Crash Course History of Science est filmé dans le studio du Dr Cheryll C. Kinney à Missoula, MT
+
+and it's made with the help of all these nice people and our animation team is Thought Cafe.
+et il est réalisé avec l'aide de toutes ces personnes sympathiques et notre équipe d'animation est Thought Cafe.
+
+Crash Course is a Complexly production. If you want to keep imagining the world more complexly with us
+Crash Course est une production complexe.  Si vous voulez continuer à imaginer le monde de manière plus complexe avec nous,
+
+you can check out some of our other shows like Animal Wonders, the Art Assignment, and Scishow Psych.
+vous pouvez consulter certaines de nos autres émissions comme Animal Wonders, the Art Assignment et Scishow Psych.
+
+And, if you would like to keep Crash Course free, for everyone, forever, you can  support the series on Patreon
+Et, si vous souhaitez garder Crash Course gratuit, pour tout le monde, pour toujours, vous pouvez soutenir la série sur
+
+A crowd funding platform that allows you to support the content you love.
+Patreon Une plateforme de financement participatif qui vous permet de soutenir le contenu que vous aimez.
+
+Thank you to all of our Patrons for their continued support.
+Merci à tous nos mécènes pour leur soutien continu.
+

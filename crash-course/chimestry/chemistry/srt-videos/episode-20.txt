@@ -1,0 +1,480 @@
+La vie, c'est le chaos. Tout l'univers, c'est le chaos.
+
+Que ce soit l'état terrible de mon bureau ou la lente désintégration de mon corps en poussière,
+
+l'univers a tendance à être en état de désordre.
+
+Mais pourquoi l'univers est-il structuré de cette terrible et dure manière?
+
+Eh bien, apparemment, ce n'est pas la faute de l'univers.
+
+Quand on y réfléchi, il n'y a qu'une ou deux manières d'arranger les choses de façon organisée.
+
+Mais il y a d'innombrables autres manières d'arranger ces mêmes choses.
+
+Les simples règles de probabilité dictent qu'il y a beaucoup plus de chances que la matière,
+
+que ce soit les trucs sur mon bureau ou les particules et l'énergie qui font de moi qui je suis,
+
+d'être dans un des nombreux états désorganisés que dans un des seuls états organisés.
+
+Ce sont des mathématiques simples et c'est inévitable.
+
+Et c'est tellement inévitable que c'est en faite notre deuxième principe de la thermodynamique, qui dit:
+
+« Tout processus spontané augmente le désordre
+ou aléatoire de l'univers « .
+
+Les processus qui n'augmentent pas le désordre de l'univers exigent un travail à faire dans l'opposition au désordre,
+
+et sont en fait souvent impossible à réaliser.
+
+L'acte même de mettre un système pour
+exige que d'autres systèmes deviennent désordonnés.
+
+Pensez-y de cette façon: Votre déjeuner était composé
+d'un ensemble extrêmement ordonné de molécules.
+
+Et il vous a donné l'énergie pour nettoyer votre
+maison, peut-être.
+
+Et il fallait être décomposé en moins ordonnée
+molécule nutritive pour vous de le faire.
+
+Les glucides, les protéines et les lipides et les
+les molécules se répartissent encore plus loin que
+
+ils ont été convertis en énergie dans vos cellules,
+
+et votre corps a utilisé une partie de cette énergie
+alimenter vos muscles que vous avez nettoyé votre maison.
+
+Mais un groupe de cette énergie a été utilisé pour faire des choses comme garder votre cœur battre, et respirer, et faire transpirer,
+
+et une partie de ce qui était perdu à l'environnement sous forme de mouvement aléatoire, et surtout, la chaleur.
+
+Au moment où vous avez terminé votre maison peut être ordonnée, mais les restes de vos molécules de déjeuner sont partout.
+
+Et c'est seulement l'un des nombreux systèmes
+est devenu moins ordonnée pendant que vous travaillez.
+
+Alors oui, le nettoyage de votre maison, en fait, augmenté
+le désordre général de l'univers.
+
+prochaine fois que quelqu'un vous donne du mal à l'état de votre maison, vous pouvez leur dire.
+
+Il est évident que le désordre est un assez gros problème dans l'univers, et qui en fait une affaire en chimie assez grand.
+
+Ainsi, les scientifiques ont un nom spécial pour elle:
+entropie.
+
+L'entropie est une mesure du caractère aléatoire moléculaire,
+ou d'un trouble.
+
+Et même si les gens se plaignent
+le désordre dans leur vie, ce n'est pas de mauvaises nouvelles.
+
+Entropie contribue à rendre possible des réactions chimiques,
+
+et il nous aide à prédire la quantité de travail utile
+peut être extrait à partir d'une réaction.
+
+Nous devons tous vivre avec un trouble de sorte que vous pourriez
+aussi bien le comprendre.
+
+Pour les dix prochaines minutes, je veux que vous embrasser
+le chaos.
+
+[Thème Muusic]
+
+Alors qu'est-ce que la deuxième loi de la Thermodynamique
+quand il dit:
+
+« Tout processus spontané augmente le désordre
+de l'univers."
+
+« Spontanée » signifie simplement un processus qui
+n'a pas besoin d'énergie à l'extérieur pour le maintenir.
+
+Et il va dans l'autre sens, tout ce qui augmente le désordre de l'univers se produit spontanément.
+
+Cela ne signifie pas que les choses seront toujours désordonnés
+se produire cependant, d'autres facteurs peuvent interférer.
+
+La réaction de changer un diamant en graphite,
+par exemple, serait thermodynamiquement spontanée.
+
+Il n'aurait pas d'être forcé le long de l'extérieur
+énergie,
+
+mais les liens dans le diamant sont si stables
+que l'essentiel, il ne se met en marche.
+
+Beaucoup d'autres réactions chimiques sont comme
+cela aussi.
+
+Ainsi, même si nous pensons à « spontanée » qui signifie soudaine et impulsif, comme la plupart des piercings à lèvres de centre commercial,
+
+en chimie « spontanée » ne vous dit pas
+la rapidité avec laquelle il arrive quelque chose,
+
+cela signifie qu'une réaction est thermodynamiquement capable de se produire sans énergie extérieure pour le déplacer le long.
+
+Bien venu à penser, je pense que piercings à lèvres spontanées provoquent ainsi une bonne quantité de désordre,
+
+surtout en arrivant à la maison.
+
+Entropy est une autre fonction d'état.
+
+Il ne dépend pas de la voie du système
+a pris pour atteindre son état actuel.
+
+Donc, même si nous ne pouvons pas mesurer l'entropie des réactifs ou des produits directement, nous pouvons les calculer.
+
+Nous pouvons également calculer la variation d'entropie au cours d'une réaction exactement comme nous pouvons pour le changement d'enthalpie,
+
+en soustrayant la somme des valeurs de réactif
+à partir de la somme des valeurs de produit.
+
+En d'autres termes, les formules sont exactement
+le même, juste par « S »
+
+(Qui, pour une raison quelconque, est utilisé pour désigner l'entropie)
+pour "Delta HF".
+
+Remarquez que nous a laissé tomber le « s Delta » à droite
+côté de la formule
+
+parce que nous savons des valeurs absolues pour l'entropie
+des réactifs et des produits individuels.
+
+Nous gardons le « Delta » à gauche
+
+parce que nous sommes le calcul de la variation d'entropie qui se produit lorsque les réactifs réarranger en produits.
+
+Que diable est-ce bon?
+
+Eh bien, nous pouvons expliquer une chose mystérieuse, qui
+est de savoir comment les réactions se produisent spontanément dans la nature
+
+même si il n'y a pas d'énergie émise, ou
+même ils sucent l'énergie sur l'environnement,
+
+et semblent remonter à la place à l'échelle de l'énergie
+de bas.
+
+Essayons avec une vraie réaction ici
+sur mon bureau - c'est l'un de mes favoris.
+
+Ceci est l'hydroxyde de baryum octahydraté et ce
+est le chlorure d'ammonium.
+
+En général, nous faisons des réactions chimiques en solution aqueuse, car la plupart des solides n'interagissent pas facilement,
+
+mais cette paire est exception à cette règle; ils
+réagir aisément sous forme solide.
+
+Cette réaction absorbe beaucoup de chaleur de l'environnement, ce qui rend tout autour de lui sentir le froid.
+
+Maintenant, pour vous montrer comment il fait froid, je vais
+de faire quelque chose ici.
+
+Et vous allez juste devoir vous assumez
+comprendre ce que je fais.
+
+« Qu'est-ce que je fais? Qu'est-ce qui se passe? Pourquoi suis-
+Je le faire? C'est bizarre Hank.
+
+Pourquoi fais-tu ça? » Et je mets que
+Ici.
+
+Alors maintenant, j'ai largué l'hydroxyde de baryum dans ce bécher, je vais vider le chlorure d'ammonium dans.
+
+Et maintenant, l'un des sous-produits de cette réaction est de l'ammoniaque, donc je vais devoir sentir, mais vous ne le font pas.
+
+Oooh vous-EAH, regardez ce slush.
+
+Je pense que nous avons réagi à peu près complètement ici et nous devons donc, si toutes les choses se sont passées correctement -
+
+Eh oui, c'est assez cool --- sucé assez de chaleur hors du bloc de bois pour geler réellement dans le bécher.
+
+Normalement, dans la chimie une réaction qui se déroule spontanément et absorbe encore la chaleur est vraiment bizarre.
+
+Fondamentalement, j'ai du mal à croire ce que
+Je viens de faire.
+
+Alors, qu'est-ce que l'entropie a à voir avec cette
+peu freak show?
+
+Vous pourriez penser qu'il a quelque chose à voir avec la prise de la chaleur de l'environnement pour rendre le système plus froid,
+
+mais tout c'est contre-intuitif et cool,
+ce n'est pas tout cela.
+
+Vous pourriez penser que cela a à voir avec deux solides qui combinent pour former tout un tas d'autres liquides et gaz,
+
+et qui est une grande partie, mais pas tous.
+
+Pour comprendre ce que nous venons de voir un peu mieux,
+nous devons mettre tout cela ensemble.
+
+Commençons par savoir exactement la quantité de chaleur qu'il n'absorbe et ce qui est arrivé à l'entropie ainsi.
+
+Tout d'abord, nous allons trouver le changement enthalpie utilisant
+La loi de Hess et enthalpies standard de formation.
+
+Nous pouvons utiliser les coefficients de l'équation chimique équilibrée pour remplir le nombre de moles pour chaque substance.
+
+Ensuite, nous devons chercher un tas de numéros
+
+(Rappelez-vous, vous pouvez trouver des tables comme celle-ci en ligne et probablement dans le dos de votre manuel de chimie aussi).
+
+Lorsque nous branchons les enthalpies standard de formation
+dans la formule et faire le calcul,
+
+nous constatons que le changement enthalpie standard
+est de plus 166 kilojoules.
+
+Il est positif, ce qui est logique car le
+réaction absorbé l'énergie thermique,
+
+assez pour créer environ un demi-kilo de glace si elle avait été entourée d'eau au lieu de l'air et les doigts.
+
+Ensuite, nous verrons le changement d'entropie: rappelez-vous,
+l'équation de base est le même.
+
+Nous avons mis dans le nombre de moles de l'équilibre
+équation chimique
+
+et les entropies standard de la table
+
+et un calcul rapide nous indique que le changement d'entropie est la norme 590 joules par Kelvin.
+
+Un résultat positif signifie que l'entropie de la
+augmenté réaction,
+
+qui signifie que les produits étaient plus désordonnée
+que les réactifs.
+
+Notez que l'enthalpie standard est en kilojoules alors que l'entropie standard est en joules par Kelvin.
+
+Les unités d'énergie doivent correspondre, donc nous allons appeler
+l'entropie norme 0,594 kilojoules par Kelvin.
+
+Il ne ressemble pas beaucoup en ce moment, mais attendez,
+Il y a plus.
+
+Ces chiffres n'expliquent pas pourquoi la réaction
+procède spontanément,
+
+même si elle balaye tout ce que la chaleur de
+l'environnement.
+
+Mais Josiah Willard Gibbs, il a trouvé un moyen de
+expliquer, et il ne veut pas dire même.
+
+Gibbs était intéressé par la quantité d'énergie dans un système qui était disponible ou libre de faire un travail utile.
+
+Aujourd'hui, nous appelons cette énergie libre de Gibbs ou parfois l'énergie libre standard ou l'énergie simplement libre du système.
+
+Comme enthalpie ou l'entropie, l'énergie libre de Gibbs est une fonction d'état, de sorte qu'il peut être calculé de la même façon.
+
+Nous substituons simplement « Delta G », qui signifie
+pour l'énergie libre de Gibbs, pour « Delta H » ou « S. »
+
+L'énergie libre standard de formation, écrit
+comme ça,
+
+est la variation d'énergie libre qui se produit lorsqu'une substance est formée à partir de ses éléments dans un état standard.
+
+Il est analogue à l'enthalpie standard de formation que nous utilisons pour calculer le changement d'enthalpie.
+
+Comme enthalpie et de l'entropie, nous ne pouvons pas directement
+le changement d'énergie libre de la réaction.
+
+Ainsi, les scientifiques ont créé une base en définissant
+le changement d'énergie libre standard de formation
+
+pour un élément dans sa forme la plus stable à
+état standard à zéro.
+
+Le changement d'énergie libre standard de formation
+pour un composé, puis,
+
+est juste la différence entre son niveau
+énergie libre et que la ligne de base.
+
+Mais si vous ne connaissez pas les énergies libres standard de formation pour les produits et réactifs?
+
+Eh bien, ils sont souvent répertoriés dans les tableaux, mais
+parfois ceux dont vous avez besoin ne sont pas disponibles.
+
+Ne craignez rien, Willard Gibbs a une application pour ça.
+Il est en fait une formule, mais il compris.
+
+En 1873, Gibbs a calculé que constante à
+la pression et la température,
+
+le changement d'énergie libre de Gibbs standard pour
+une réaction égale à la variation d'enthalpie norme
+
+moins le produit de la température et de la
+changer l'entropie standard.
+
+En d'autres termes, la quantité d'énergie libre une réaction met à la disposition de faire un travail dépend de deux
+
+et seulement deux choses: le changement enthalpie,
+la quantité de chaleur des transferts de réaction,
+
+et le changement d'entropie, la quantité de trouble
+il crée à une température donnée.
+
+Donc, ce qui est plus important, le transfert de chaleur
+ou le désordre? En fait ça dépend.
+
+Un grand changement d'enthalpie peut déterminer la
+direction d'un changement d'énergie libre,
+
+même si l'entropie change dans le sens opposé
+direction, et vice versa.
+
+Si la valeur absolue de la variation d'enthalpie est supérieure à la valeur absolue du produit de la température
+
+et le changement d'entropie (ou « T Delta S »),
+alors nous disons que la réaction est conduit enthalpie.
+
+cela signifie que le flux d'énergie thermique
+fournit la plupart de l'énergie libre dans la réaction.
+
+D'autre part, si la valeur absolue de « T Delta S » est supérieure à la valeur absolue de la variation d'enthalpie,
+
+nous appelons l'entropie conduit-réaction, ce qui signifie désordre croissant fournit la majeure partie de l'énergie libre de la réaction.
+
+Quel type a été la réaction d'hydroxyde de baryum?
+
+Eh bien, je vais dire que la température ici est d'environ 25 degrés Celsius, ou 298,15 Kelvin,
+
+parce que je suis génial comme ça - je peux
+dire.
+
+Quand on multiplie que par le changement d'entropie
+que nous avons calculé,
+
+0,594 kilojoules par kelvin,
+nous obtenons une valeur de 177 kilojoules.
+
+Si l'on compare cela à la variation d'enthalpie
+nous avons calculé, 166 kilojoules,
+
+il est clair que le « T Delta S » est supérieure à la « Delta H », de sorte que la réaction est entropie conduit - pas là surprise.
+
+Même si la réaction a absorbé une grande quantité d'énergie thermique, ce phénomène a été éclipsée par l'augmentation de l'entropie.
+
+Et cela est logique, car l'équilibre
+équation va de trois moles total de matières solides,
+
+avec leurs molécules verrouillés en place, pour une mole de substance solide, de dix moles de liquide, et deux moles de gaz.
+
+Ceci est une augmentation massive dans le désordre,
+
+car en plus du fait qu'il ya maintenant 13 moles de particules pour se déplacer au lieu de seulement 3,
+
+le liquide et le gaz sont particulièrement bons
+déplacer,
+
+ainsi la plupart de ces particules sont en mouvement aléatoire,
+plus coincé dans un seul endroit,
+
+provoquant une forte augmentation dans le désordre ou l'entropie.
+
+Mais voici la partie la plus froide, la formule de Gibbs nous dit aussi que la réaction est spontanée ou non.
+
+Nous savons que tous les systèmes tendent vers l'état d'énergie le plus bas possible, que ce soit un roulement à billes sur une colline,
+
+élastique retour élastique en forme, ou positive
+et des ions négatifs en formant une liaison.
+
+« Delta G » est un type d'énergie, de toute évidence, il se rapproche spontanément le minimum possible.
+
+Donc, si la valeur de « Delta G » est négatif, qui est si l'énergie libre diminue, la réaction est spontanée.
+
+Les réactions qui sont capables de libérer de l'énergie libre
+ne ont pas besoin d'énergie externe pour les faire procéder,
+
+et c'est la définition même d'un spontanée
+réaction.
+
+Donc, si « Delta G » est positif, la réaction est non spontanée, mais la réaction inverse est spontanée.
+
+Si « Delta G » est égal à zéro, la réaction est dans un état d'équilibre et ne se produit perceptible dans les deux sens.
+
+Alors qu'en est la réaction que je viens de faire?
+
+Est-il spontanée à la température ambiante? Pouvez
+il se produit sans énergie d'entraînement le long?
+
+Eh bien, oui, parce que nous venons de voir arriver,
+mais nous allons faire le calcul!
+
+Utilisation de la formule de Gibbs et de brancher les numéros
+nous avons calculé jusqu'à présent,
+
+on voit que l'énergie libre de Gibbs pour cette
+la réaction est de 11 kilojoules négatives.
+
+Il est en effet spontané, car elle libère de l'énergie au lieu d'exiger dans le but de commencer.
+
+L'énergie qui a été produit a été utilisé pour réorganiser
+les liaisons dans les réactifs,
+
+pour faire les petites molécules de produits, de briser
+attractions entre les molécules,
+
+et pousser à part certaines des particules à partir de
+sous forme solide sous forme liquide et gazeuse,
+
+qui a augmenté l'entropie du système.
+
+Ainsi, même si la réaction a absorbé une grande quantité d'énergie thermique, il n'a pas besoin de cette énergie pour faire procéder,
+
+parce que le grand changement d'entropie seule
+était suffisant pour faire avancer les choses le long.
+
+Ainsi, la formule Gibbs confirme nos résultats précédents avec juste une petite soustraction - gars très intelligent.
+
+Et maintenant, certains de ses smartness a été transféré
+en toi,
+
+maintenant que vous avez regardé cet épisode de Crash
+Chimie Cours.
+
+Si vous avez payé une attention, vous avez appris:
+
+qu'il est difficile de rester organisé parce qu'il
+sont autant de façons d'être désorganisé,
+
+que la deuxième loi de la thermodynamique dit
+trouble ou entropie, se produit partout,
+
+et que le changement d'entropie dépend en fin de compte sur la façon dont les molécules beaucoup de salle doivent se déplacer dans,
+
+la quantité d'énergie thermique de la chaleur, ils doivent émettre dans les réactions, et la température autour d'eux.
+
+Vous avez appris Willard Gibbs et Josiah sa formule pour calculer l'énergie libre de Gibbs pour une réaction,
+
+que l'entropie et à la fois l'énergie libre de Gibbs sont
+des fonctions d'état,
+
+et que le signe de l'énergie libre de Gibbs
+nous dire si oui ou non une réaction est spontanée.
+
+Cet épisode de Crash Course Chemistry était
+écrit par Edi Gonzalez.
+
+Le script a été édité par Blake de Pastino, et notre consultant en chimie était le Dr Heiko Langner.
+
+Il a été filmé, édité et dirigé par Nicholas Jenkins. Notre superviseur était Caitlin Hofmeister.
+
+Notre designer sonore est Michael Aranda, et
+notre équipe graphique est pensée Cafe.
+

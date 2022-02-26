@@ -1,0 +1,641 @@
+In 12th century Italy, a tower was under construction
+in the town of Pisa.
+Au XIIe siècle en Italie, une tour était en construction
+dans la ville de Pise.
+
+The design was for a beautiful, freestanding
+bell tower in the finest romanesque style.
+La conception était pour un beau
+clocher autoportant dans le plus beau style roman.
+
+But as construction of the third level began,
+something went wrong: the whole tower began
+to tilt.
+Mais lorsque la construction du troisième niveau a commencé,
+quelque chose s'est mal passé : toute la tour a commencé
+à s'incliner.
+
+And by the time it was finished, everything
+was noticeably leaning to one side.
+Et au moment où il a été terminé, tout
+penchait sensiblement d'un côté.
+
+Thankfully, the mistake was seen as charming
+by visitors.
+Heureusement, l'erreur a été considérée comme charmante
+par les visiteurs.
+
+And eventually, it turned into a global icon
+and tourist attraction.
+Et finalement, il est devenu une icône mondiale
+et une attraction touristique.
+
+But for the Civic Tower in Pavia, which was
+built around the same time, structural problems
+led to a fatal collapse in 1989.
+Mais pour la tour civique de Pavie, qui a été
+construite à peu près à la même époque, des problèmes structurels ont
+conduit à un effondrement fatal en 1989.
+
+The next year, a team of Italian engineers
+was formed to prevent the same fate in Pisa
+6while maintaining the tower’s iconic tilt.
+L'année suivante, une équipe d'ingénieurs italiens a
+été formée pour éviter le même sort à Pise
+6tout en maintenant l'inclinaison emblématique de la tour.  .
+
+For both buildings, the problem wasn’t just
+above the surface.
+Pour les deux bâtiments, le problème n'était pas seulement
+au-dessus de la surface.
+
+It had to do with the support of the foundation
+underneath.
+Cela avait à voir avec le soutien de la fondation en
+dessous.
+
+And since modern structures can be many times
+larger, the stakes are much higher – you definitely
+don’t want a leaning skyscraper on your hands!
+Et comme les structures modernes peuvent être plusieurs fois
+plus grandes, les enjeux sont beaucoup plus élevés - vous
+ne voulez certainement pas un gratte-ciel penché sur vos mains !
+
+So to keep things standing tall above ground,
+you need to look at what’s going on below it.
+Donc, pour garder les choses debout au-dessus du sol,
+vous devez regarder ce qui se passe en dessous.
+
+[Theme Music]
+[Thème Musique]
+
+Civil engineering is about creating the infrastructure
+we need for the places we want to live.
+Le génie civil consiste à créer l'infrastructure dont
+nous avons besoin pour les endroits où nous voulons vivre.
+
+Roads, bridges, tunnels and ports all require
+planning to build, and maintenance to keep
+working safely and efficiently.
+Les routes, les ponts, les tunnels et les ports nécessitent tous une
+planification pour la construction et l'entretien pour continuer à
+fonctionner de manière sûre et efficace.
+
+And infrastructure supports vital networks
+like water and power supplies.
+Et l'infrastructure prend en charge des réseaux vitaux
+comme l'eau et l'électricité.
+
+In fact, the US National Academy of Engineering has
+made repairing and improving infrastructure one of its
+grand challenges for the 21st century.
+En fait, la National Academy of Engineering des États-Unis a
+fait de la réparation et de l'amélioration des infrastructures l'un de ses
+grands défis pour le 21e siècle.
+
+And as we learned in Pavia, a structure that’s
+going to last needs to be on a solid foundation.
+Et comme nous l'avons appris à Pavie, une structure qui
+va durer doit reposer sur des bases solides.
+
+And that’s where geotechnical engineering comes in.
+Et c'est là qu'intervient l'ingénierie géotechnique.
+
+At least for now, the infrastructure we build
+is connected to the ground.
+Au moins pour l'instant, l'infrastructure que nous construisons
+est connectée au sol.
+
+Even the sturdiest, most well designed building
+won’t last if the land supporting it isn’t up to the task.
+Même le bâtiment le plus solide et le mieux conçu
+ne durera pas si le terrain qui le supporte n'est pas à la hauteur de la tâche.
+
+So geotechnical engineers spend a lot of
+their time investigating the rock and soil that
+structures are gonna be built on.
+Les ingénieurs géotechniciens passent donc une grande partie de
+leur temps à étudier la roche et le sol sur lesquels les
+structures vont être construites.
+
+As well as building on top of the ground, engineers
+often dig into it, like for a harbor or a dam, or tunnel
+through it, as in the case of underground train tracks.
+En plus de construire au-dessus du sol, les ingénieurs
+y creusent souvent, comme pour un port ou un barrage, ou un tunnel le
+traversant, comme dans le cas des voies ferrées souterraines.
+
+In each of these scenarios, you have to
+consider how the ground’s characteristics
+might affect the structure’s stability –
+Dans chacun de ces scénarios, vous devez
+considérer comment les caractéristiques du sol
+pourraient affecter la stabilité de la structure -
+
+a consideration the designers of the
+Tower of Pisa overlooked!
+une considération que les concepteurs de la
+tour de Pise ont négligée !
+
+We’ve seen before how forces like crosswind
+and the weight of the materials can affect a building.
+Nous avons déjà vu comment des forces telles que le vent de travers
+et le poids des matériaux peuvent affecter un bâtiment.
+
+Many of the same lessons apply here.
+Bon nombre des mêmes leçons s'appliquent ici.
+
+The foundation of a structure is the part
+that actually connects to the ground and
+transmits forces to it.
+La fondation d'une structure est la partie
+qui se connecte réellement au sol et lui
+transmet les forces.
+
+So that might be columns or walls that extend
+into the ground, for example.
+Il peut s'agir de colonnes ou de murs qui s'étendent
+dans le sol, par exemple.
+
+And they’re as much a part of the structure
+as the bits we can see.
+Et ils font autant partie de la structure
+que les éléments que nous pouvons voir.
+
+To stop a building from falling over, sinking,
+or snapping, it needs to be supported through
+its foundation by a reaction force.
+Pour empêcher un bâtiment de tomber, de couler
+ou de se briser, il doit être soutenu à travers
+ses fondations par une force de réaction.
+
+In other words, the soil needs to resist the
+force transmitted through the foundation.
+En d'autres termes, le sol doit résister à la
+force transmise à travers la fondation.
+
+Soil might seem pretty straightforward.
+Le sol peut sembler assez simple.
+
+After all, it’s just dirt, right?
+Après tout, ce n'est que de la saleté, n'est-ce pas?
+
+But, in reality, soil is one of the most complex
+environments engineers work with and it comes
+with a lot of variety.
+Mais, en réalité, le sol est l'un des environnements les plus complexes avec
+lesquels les ingénieurs travaillent et il
+est très varié.
+
+Just like other materials and fluids, soils and even
+rocks have mechanical properties that make them
+suitable or unsuitable for building on top of.
+Tout comme les autres matériaux et fluides, les sols et même les
+roches ont des propriétés mécaniques qui les rendent
+aptes ou non à la construction.
+
+If enough force is applied, the ground itself
+can shift and change shape in intense ways.
+Si une force suffisante est appliquée, le sol lui-même
+peut se déplacer et changer de forme de manière intense.
+
+The capability of the surrounding soil to
+withstand those forces is its bearing capacity:
+La capacité du sol environnant à
+résister à ces forces est sa capacité portante :
+
+how much force can be transmitted over a given area
+without causing the ground to drastically change shape.
+combien de force peut être transmise sur une zone donnée
+sans que le sol ne change radicalement de forme.
+
+Just like a solid material, soil can actually
+undergo failure in the mechanical sense!
+Tout comme un matériau solide, le sol peut effectivement
+subir une défaillance au sens mécanique !
+
+At that point, it no longer fully supports
+the structure, which is what happened to the
+Leaning Tower of Pisa.
+À ce moment-là, il ne supporte plus complètement
+la structure, ce qui est arrivé à la
+tour penchée de Pise.
+
+The foundations of the tower weren’t deep enough
+to support it after it reached a certain height.
+Les fondations de la tour n'étaient pas assez profondes pour la
+supporter après avoir atteint une certaine hauteur.
+
+That meant the stress applied by the tower’s
+mass was bigger than the soil’s bearing capacity,
+Cela signifiait que la contrainte appliquée par la
+masse de la tour était supérieure à la capacité portante du sol,
+
+which ultimately shifted the ground
+and tilted its foundation.
+ce qui a finalement déplacé le sol
+et incliné ses fondations.
+
+Bearing capacity is tricky to calculate, but essentially it
+depends on both the depth and design of the foundation
+and the qualities of the soil that you’re building into.
+La capacité portante est difficile à calculer, mais elle
+dépend essentiellement à la fois de la profondeur et de la conception de la fondation
+et des qualités du sol dans lequel vous construisez.
+
+Since you usually can’t control the soil,
+you need to understand it and build a foundation
+that accounts for any potential problems.
+Comme vous ne pouvez généralement pas contrôler le sol,
+vous devez le comprendre et construire une fondation
+qui tient compte de tout problème potentiel.
+
+The main property you’ll be interested in
+is shear strength.
+La propriété principale qui vous intéressera
+est la résistance au cisaillement.
+
+As the foundation applies the load to the ground,
+the soil redistributes the force, creating tension
+throughout the region around it.
+Lorsque la fondation applique la charge au sol,
+le sol redistribue la force, créant une tension
+dans toute la région qui l'entoure.
+
+Just as we saw for materials, everything has a
+certain internal resistance to shear stress – the
+kinds of forces that act in opposite directions.
+Tout comme nous l'avons vu pour les matériaux, tout a une
+certaine résistance interne à la contrainte de cisaillement - les
+types de forces qui agissent dans des directions opposées.
+
+There are other kinds of stresses to consider,
+but shear stress is the most important because
+it’s the one most likely to lead to failure.
+Il existe d'autres types de contraintes à prendre en compte,
+mais la contrainte de cisaillement est la plus importante car
+c'est celle qui est la plus susceptible d'entraîner une défaillance.
+
+Layers of soil that push past each other can
+quickly stop supporting a structure’s foundation.
+Les couches de sol qui se chevauchent peuvent
+rapidement cesser de soutenir les fondations d'une structure.
+
+The shear strength is the measure of the shear
+stress the soil can tolerate before it reaches failure.
+La résistance au cisaillement est la mesure de la
+contrainte de cisaillement que le sol peut tolérer avant qu'il n'atteigne la rupture.
+
+The higher the strength, the more stress the
+soil can resist before it finally gives way.
+Plus la résistance est élevée, plus le
+sol peut résister au stress avant qu'il ne cède finalement.
+
+It’s one of the biggest factors that
+determines the bearing capacity –
+C'est l'un des facteurs les plus importants qui
+détermine la capacité portante -
+
+you generally want the soil to be as strong as
+possible to ensure as much stability as you can.
+vous voulez généralement que le sol soit aussi solide que
+possible pour assurer autant de stabilité que possible.
+
+The trade off is that stronger soil can sometimes
+be a little tricker to excavate in the first place.
+Le compromis est qu'un sol plus solide peut parfois
+être un peu plus difficile à creuser en premier lieu.
+
+And some structures, such as bridges, have
+to be built in particular locations.
+Et certaines structures, comme les ponts,
+doivent être construites à des endroits particuliers.
+
+So you often have to work with whatever soil
+happens to be there!
+Il faut donc souvent travailler avec n'importe quel sol
+qui s'y trouve !
+
+The key to understanding the strength of a
+particular piece of ground is that soil isn’t
+one homogenous thing.
+La clé pour comprendre la force d'un
+terrain particulier est que le sol n'est pas
+une chose homogène.
+
+Instead, it’s best to consider soil as a
+collection of tiny grains of rock and leftover
+organic matter from living things.
+Au lieu de cela, il est préférable de considérer le sol comme une
+collection de minuscules grains de roche et de restes
+de matière organique provenant d'êtres vivants.
+
+The exact materials differ between soils,
+but in geotechnical engineering, the focus
+is on the size and shape of those grains.
+Les matériaux exacts diffèrent d'un sol à l'autre,
+mais en génie géotechnique, l'accent
+est mis sur la taille et la forme de ces grains.
+
+That’s where the soil gets its strength
+or weakness from.
+C'est de là que le sol tire sa force
+ou sa faiblesse.
+
+It helps to think of the concept of viscosity,
+which we encountered in fluid mechanics.
+Il est utile de penser au concept de viscosité,
+que nous avons rencontré en mécanique des fluides.
+
+When the soil undergoes shear stress, the
+friction between the layers of soil helps resist
+the stress and give it solidity.
+Lorsque le sol subit une contrainte de cisaillement, le
+frottement entre les couches de sol permet de résister à
+la contrainte et de lui donner de la solidité.
+
+One of the causes of that friction is that
+the grains interlock with one another and
+resist any change to their arrangement.
+L'une des causes de ce frottement est que
+les grains s'emboîtent les uns dans les autres et
+résistent à toute modification de leur disposition.
+
+If things do move, there’s the added friction
+of the particles rubbing together.
+Si les choses bougent, il y a le frottement supplémentaire
+des particules qui se frottent les unes contre les autres.
+
+Both of these contribute to the shear strength.
+Ces deux facteurs contribuent à la résistance au cisaillement.
+
+Separate from friction is what’s called
+cohesion, or the tendency for smaller particles
+to stick together, like in modeling clay.
+Séparé du frottement, il y a ce qu'on appelle la
+cohésion, ou la tendance des particules plus petites
+à se coller, comme dans la pâte à modeler.
+
+In fact, it’s often tiny particles of clay or silt
+that are responsible for cohesion in soil.
+En fait, ce sont souvent de minuscules particules d'argile ou de limon
+qui sont responsables de la cohésion du sol.
+
+So the more clay it contains, the stronger
+it will be.
+Ainsi, plus il contient d'argile, plus
+il sera solide.
+
+The size and shape of the grains, and the cohesion
+between them, are just some of the properties
+geotechnical engineers use to estimate shear strength.
+La taille et la forme des grains, ainsi que la cohésion
+entre eux, ne sont que quelques-unes des propriétés
+utilisées par les ingénieurs géotechniciens pour estimer la résistance au cisaillement.
+
+The full picture would take into account all
+the complexities of the soil,
+L'image complète prendrait en compte toutes
+les complexités du sol,
+
+including its mineral composition, moisture levels,
+and the size of the grains themselves.
+y compris sa composition minérale, son taux d'humidité
+et la taille des grains eux-mêmes.
+
+Not to mention the fact that strength isn’t
+constant throughout the ground.
+Sans parler du fait que la force n'est pas
+constante sur tout le terrain.
+
+It can be radically different for buildings on
+opposite sides of the street, or even at different
+depths under the same structure.
+Il peut être radicalement différent pour des bâtiments situés de
+part et d'autre de la rue, voire à des
+profondeurs différentes sous la même structure.
+
+So you’ll want to be sure to do a detailed
+analysis.
+Vous voudrez donc vous assurer de faire une
+analyse détaillée.
+
+That will guide you in designing a foundation
+that provides the bearing capacity needed for
+what you’re trying to build.
+Cela vous guidera dans la conception d'une fondation
+qui fournit la capacité portante nécessaire pour
+ce que vous essayez de construire.
+
+In 1990, a year after the Pavia tower collapsed,
+the Italian government set up a team of engineers
+to tackle the problem of Pisa’s bearing capacity.
+En 1990, un an après l'effondrement de la tour de Pavie,
+le gouvernement italien a mis en place une équipe d'ingénieurs
+pour s'attaquer au problème de la capacité portante de Pise.
+
+In the weak soil underneath the Pisa Tower,
+three-meter deep foundations weren’t enough
+and the tilt was slowly getting worse.
+Dans le sol fragile sous la tour de Pise,
+des fondations de trois mètres de profondeur ne suffisaient pas
+et l'inclinaison empirait lentement.
+
+After trying different approaches, engineers finally
+weighed down the side of the tower opposite the tilt with
+lead and removed some of the soil from that side.
+Après avoir essayé différentes approches, les ingénieurs ont finalement
+alourdi le côté de la tour opposé à l'inclinaison avec du
+plomb et ont retiré une partie de la terre de ce côté.
+
+In doing so, they managed to sink the
+foundation a little further into the ground,
+Ce faisant, ils ont réussi à enfoncer la
+fondation un peu plus dans le sol,
+
+increasing the contact area between it and
+the soil, and improving the bearing capacity.
+augmentant la surface de contact entre celle-ci et
+le sol et améliorant la capacité portante.
+
+The shifted weight of the tower even
+compressed the soil at its foundation,
+actually improving the soil’s strength!
+Le poids déplacé de la tour a même
+comprimé le sol à sa fondation
+, améliorant en fait la résistance du sol !
+
+Now it’s thought that the tower should be
+safe for at least 200 years, all while retaining
+its iconic lean.
+On pense maintenant que la tour devrait être en
+sécurité pendant au moins 200 ans, tout en conservant
+son inclinaison emblématique.
+
+While that’s great news for Pisa, other parts of
+Italy are prone to a different ground-based problem.
+Bien que ce soit une excellente nouvelle pour Pise, d'autres régions d'
+Italie sont sujettes à un problème au sol différent.
+
+Because of fault lines in the Earth’s tectonic plates,
+regions in Italy are susceptible to earthquakes, like other
+areas across the world.
+En raison des lignes de faille dans les plaques tectoniques de la Terre, les
+régions d'Italie sont sensibles aux tremblements de terre, comme d'autres
+régions du monde.
+
+In 2016, a powerful quake caused devastating
+damage to the buildings in central Italy.
+En 2016, un puissant séisme a causé des
+dégâts dévastateurs aux bâtiments du centre de l'Italie.
+
+Protecting against the effects of earthquakes is
+exactly the task seismic engineering is there to tackle.
+La protection contre les effets des tremblements de terre est
+exactement la tâche à laquelle l'ingénierie sismique est là pour s'attaquer.
+
+That’s why these people are often known
+as earthquake engineers.
+C'est pourquoi ces personnes sont souvent connues
+sous le nom d'ingénieurs parasismiques.
+
+While they share many techniques with geotechnical
+engineers, seismic engineers have to worry about what
+happens when the ground itself starts moving.
+Bien qu'ils partagent de nombreuses techniques avec les
+ingénieurs géotechniciens, les ingénieurs sismiques doivent s'inquiéter de ce qui
+se passe lorsque le sol lui-même commence à bouger.
+
+A violent movement can subject the foundation
+of a structure to a load larger than its bearing
+capacity can handle.
+Un mouvement violent peut soumettre la fondation
+d'une structure à une charge supérieure à sa
+capacité portante.
+
+Worse still, the soil might undergo what’s
+called liquefaction,
+Pire encore, le sol pourrait subir ce qu'on
+appelle la liquéfaction,
+
+in which loose, sandy soils lose virtually all
+their strength and behave like a liquid, which
+spells disaster for anything built on top!
+dans laquelle les sols meubles et sablonneux perdent pratiquement toute
+leur force et se comportent comme un liquide, ce qui
+est catastrophique pour tout ce qui est construit sur le dessus !
+
+In addition to modeling the soil like
+geotechnical engineers,
+En plus de modéliser le sol comme les
+ingénieurs géotechniciens,
+
+seismic engineers have to break out the full
+toolkit of statics and dynamics to understand
+the whole structure.
+les ingénieurs sismiques doivent sortir la
+boîte à outils complète de la statique et de la dynamique pour comprendre
+l'ensemble de la structure.
+
+In fact, because the effects of an earthquake
+are tricky to simulate, seismic engineers often use
+what’s called finite element analysis.
+En fait, parce que les effets d'un tremblement de terre
+sont difficiles à simuler, les ingénieurs sismiques utilisent souvent
+ce qu'on appelle l'analyse par éléments finis.
+
+They use computers to model every piece of
+a structure and predict the exact stresses
+and strains each piece might feel.
+Ils utilisent des ordinateurs pour modéliser chaque pièce d'
+une structure et prédire les contraintes
+et les contraintes exactes que chaque pièce pourrait ressentir.
+
+Just to be sure, scale replicas of entire buildings are
+often built and tested on oscillating platforms to
+demonstrate the real, physical effects of an earthquake!
+Juste pour être sûr, des répliques à l'échelle de bâtiments entiers sont
+souvent construites et testées sur des plates-formes oscillantes pour
+démontrer les effets physiques réels d'un tremblement de terre !
+
+While destroying a model bridge might sound
+fun, the goal is to test designs and see where
+faults arise, so they can be made safer.
+Bien que détruire un modèle de pont puisse sembler
+amusant, l'objectif est de tester les conceptions et de voir où les
+défauts surviennent, afin qu'ils puissent être rendus plus sûrs.
+
+In combination, geotechnical and seismic engineers make sure that structures remain standing tall from top to bottom when they encounter stress at their foundations.
+En combinaison, les ingénieurs géotechniques et sismiques s'assurent que les structures restent debout de haut en bas lorsqu'elles subissent des contraintes au niveau de leurs fondations.
+
+In environments dense with infrastructure, like cities,
+it’s a critical job for the safety of everyone nearby.
+Dans les environnements denses en infrastructures, comme les villes,
+c'est un travail essentiel pour la sécurité de tous ceux qui se trouvent à proximité.
+
+And this means we can continue to enjoy the
+Tower of Pisa for centuries to come.
+Et cela signifie que nous pouvons continuer à profiter de la
+tour de Pise pendant des siècles.
+
+In this episode, we looked at geotechnical
+and seismic engineering.
+Dans cet épisode, nous nous sommes penchés sur
+l'ingénierie géotechnique et sismique.
+
+We learned how structures connect to the ground
+and transmit loads through their foundations,
+Nous avons appris comment les structures se connectent au sol
+et transmettent les charges à travers leurs fondations,
+
+and how those foundations need to provide
+a high bearing capacity.
+et comment ces fondations doivent fournir
+une capacité portante élevée.
+
+We also saw how properties of the soil, like
+shear strength, affect bearing capacity.
+Nous avons également vu comment les propriétés du sol, comme la
+résistance au cisaillement, affectent la capacité portante.
+
+Finally, we considered what happens when the ground
+experiences stress from seismic activity and how
+seismic engineers work to counteract those effects.
+Enfin, nous avons examiné ce qui se passe lorsque le sol
+subit des contraintes dues à l'activité sismique et comment
+les ingénieurs sismiques travaillent pour contrer ces effets.
+
+I’ll see you next time, when we’ll engineer
+ways to get from one place to another!
+Je vous verrai la prochaine fois, quand nous trouverons des
+moyens de se rendre d'un endroit à un autre !
+
+Crash Course Engineering is produced in association
+with PBS Digital Studios,
+Crash Course Engineering est produit en association
+avec PBS Digital Studios,
+
+which also produces Hot Mess, a show
+about how climate change impacts all of us,
+and what we can do about it.
+qui produit également Hot Mess, une émission
+sur l'impact du changement climatique sur nous tous
+et sur ce que nous pouvons y faire.
+
+Explore how we can create a better future
+for our planet and ourselves by checking out
+Hot Mess at the link in the description.
+Découvrez comment nous pouvons créer un avenir meilleur
+pour notre planète et nous-mêmes en consultant
+Hot Mess sur le lien dans la description.
+
+Crash Course is a Complexly production and this
+episode was filmed in the Doctor Cheryl C. Kinney
+Studio with the help of these wonderful people.
+Crash Course est une production de Complexly et cet
+épisode a été filmé dans le studio du docteur Cheryl C. Kinney
+avec l'aide de ces personnes merveilleuses.
+
+And our amazing graphics team is Thought Cafe.
+Et notre incroyable équipe graphique est Thought Cafe.
+

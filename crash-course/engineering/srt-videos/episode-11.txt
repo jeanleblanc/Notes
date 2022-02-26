@@ -1,0 +1,708 @@
+To succeed in engineering, you have to master
+the art of repetition.
+Pour réussir en ingénierie, il faut maîtriser
+l'art de la répétition.
+
+That applies to repetition in your own work
+– so that you’re always designing, prototyping,
+testing, and then designing again.
+Cela s'applique à la répétition dans votre propre travail
+- de sorte que vous êtes toujours en train de concevoir, de prototyper, de
+tester, puis de reconcevoir.
+
+But repetition is also key to the processes
+that you use as an engineer.
+Mais la répétition est également essentielle aux processus
+que vous utilisez en tant qu'ingénieur.
+
+I’m talking here about cycles.
+Je parle ici des cycles.
+
+They can be pretty complex, but at their core,
+each one is just a sequence of events or steps
+that repeat themselves in the same order.
+Ils peuvent être assez complexes, mais à la base,
+chacun n'est qu'une séquence d'événements ou d'étapes
+qui se répètent dans le même ordre.
+
+And that’s exactly what’s happening in some
+of the most commonly used devices that have
+ever been engineered,
+Et c'est exactement ce qui se passe dans certains
+des appareils les plus couramment utilisés qui aient
+jamais été conçus,
+
+like the heat pump that’s heating your home
+and the refrigerator that’s keeping your food
+from spoiling.
+comme la pompe à chaleur qui chauffe votre maison
+et le réfrigérateur qui empêche vos aliments
+de se gâter.
+
+So, let’s learn, and then repeat.
+Alors, apprenons, puis répétons.
+
+[Theme Music]
+[Thème musical]
+
+In engineering, we say that a system has
+undergone a cycle if it returns to its initial
+state at the end of the process.
+En ingénierie, on dit qu'un système a
+subi un cycle s'il revient à son
+état initial à la fin du processus.
+
+So, its initial and final states should be
+the same.
+Ainsi, ses états initial et final devraient être
+les mêmes.
+
+And cycles are important because, they allow us
+to run through the same process again and again,
+instead of limiting us to doing something only once.
+Et les cycles sont importants car ils nous permettent de
+répéter le même processus encore et encore,
+au lieu de nous limiter à faire quelque chose une seule fois.
+
+With the right resources, we can keep running
+through cycles until we get enough of what we
+want, like the distance traveled in a car.
+Avec les bonnes ressources, nous pouvons continuer à
+parcourir les cycles jusqu'à ce que nous obtenions suffisamment de ce que nous
+voulons, comme la distance parcourue en voiture.
+
+We can also keep making cycles for as long
+as we need, say, to keep food cold in a fridge
+at a constant temperature.
+Nous pouvons également continuer à faire des cycles aussi longtemps
+que nous avons besoin, par exemple, de garder les aliments au frais dans un réfrigérateur
+à une température constante.
+
+The process that your fridge uses today is
+based on the work of 19th century American
+inventors Oliver Evans and Jacob Perkins.
+Le processus que votre réfrigérateur utilise aujourd'hui est
+basé sur le travail des inventeurs américains du 19ème siècle
+Oliver Evans et Jacob Perkins.
+
+In 1805, Evans came up with a closed
+vapor-compression refrigeration cycle, but
+he never actually built a refrigerator.
+En 1805, Evans a proposé un
+cycle de réfrigération fermé à compression de vapeur, mais
+il n'a jamais construit de réfrigérateur.
+
+Then, in the 1830’s, Perkins used Evans’
+ideas and actually did.
+Puis, dans les années 1830, Perkins a utilisé les
+idées d'Evans et l'a fait.
+
+Perkins’ system didn’t succeed commercially
+at first, but it was the first step towards the
+modern refrigerators that we use today.
+Le système de Perkins n'a pas réussi commercialement
+au début, mais c'était la première étape vers les
+réfrigérateurs modernes que nous utilisons aujourd'hui.
+
+So how do refrigeration cycles work?
+Alors, comment fonctionnent les cycles de réfrigération ?
+
+Well, it’s easier to understand if we start
+with something similar that we already know
+a bit about: heat engines.
+Eh bien, c'est plus facile à comprendre si nous commençons
+par quelque chose de similaire que nous connaissons déjà
+un peu : les moteurs thermiques.
+
+Last time, we learned that heat engines are
+machines or systems that convert heat into
+other forms of energy.
+La dernière fois, nous avons appris que les moteurs thermiques sont des
+machines ou des systèmes qui convertissent la chaleur en d'
+autres formes d'énergie.
+
+A basic heat engine can do this by taking
+in heat at a higher temperature, from say,
+solar energy or a furnace,
+Un moteur thermique de base peut le faire en absorbant la
+chaleur à une température plus élevée, par exemple de
+l'énergie solaire ou d'un four,
+
+and then converting part of that heat to work,
+usually by rotating a shaft.
+puis en convertissant une partie de cette chaleur en travail,
+généralement en faisant tourner un arbre.
+
+The engine then releases wasted heat at a lower
+temperature, maybe into its surroundings or a water
+supply, and then readies itself to start over again.
+Le moteur libère alors de la chaleur perdue à une
+température plus basse, peut-être dans son environnement ou dans une
+alimentation en eau, puis se prépare à redémarrer.
+
+So, like so many other things, heat engines
+operate on a cycle.
+Ainsi, comme tant d'autres choses, les moteurs thermiques
+fonctionnent selon un cycle.
+
+And cycles achieve some goal, like heating or
+cooling a room, by circulating what’s known as
+a working fluid through a series of operations.
+Et les cycles atteignent un objectif, comme chauffer ou
+refroidir une pièce, en faisant circuler ce qu'on appelle
+un fluide de travail à travers une série d'opérations.
+
+This working fluid will absorb and release energy,
+change from liquid to vapor and back again,
+Ce fluide de travail absorbe et libère de l'énergie,
+passe du liquide à la vapeur et vice-versa,
+
+and continue to circulate through the
+cycle as part of the system’s operation.
+et continue de circuler tout au long du
+cycle dans le cadre du fonctionnement du système.
+
+So, let’s look at a heat engine that uses
+water as its working fluid.
+Alors, regardons un moteur thermique qui utilise l'
+eau comme fluide de travail.
+
+It goes through four main stages.
+Elle passe par quatre étapes principales.
+
+In the first stage, we’ll add heat to our
+system by bringing in an energy source, QH.
+Dans la première étape, nous ajouterons de la chaleur à notre
+système en apportant une source d'énergie, QH.
+
+The water will absorb this heat through a boiler,
+which will cause it to become compressed steam.
+L'eau absorbera cette chaleur à travers une chaudière,
+ce qui la transformera en vapeur comprimée.
+
+In stage two, that steam will enter a turbine,
+expand, and cause the turbine shaft to turn,
+Dans la deuxième étape, cette vapeur entrera dans une turbine, se
+dilatera et fera tourner l'arbre de la turbine,
+
+which gives us an output of work, Wout,
+which was converted from some of the heat
+energy in our fluid.
+ce qui nous donnera une sortie de travail, Wout,
+qui a été convertie à partir d'une partie de l'
+énergie thermique de notre fluide.
+
+Remember, not all of the heat energy will
+convert to work.
+N'oubliez pas que toute l'énergie thermique ne sera pas
+convertie en travail.
+
+We’re going to have excess heat, which needs
+to be released from our system.
+Nous allons avoir un excès de chaleur, qui
+doit être évacué de notre système.
+
+We do this in stage 3 by condensing the
+steam in a condenser, which releases that
+excess heat into an energy sink, QL.
+Nous le faisons à l'étape 3 en condensant la
+vapeur dans un condenseur, qui libère cet
+excès de chaleur dans un puits d'énergie, QL.
+
+For the fourth and final stage, our fluid
+needs to be re-pressurized.
+Pour la quatrième et dernière étape, notre fluide
+doit être repressurisé.
+
+To make this happen, we’ll send it through
+a pump, which will need work as an input.
+Pour ce faire, nous l'enverrons via
+une pompe, qui devra fonctionner comme entrée.
+
+We’ll then send the re-pressurized water
+back to the boiler at the beginning to start
+the process all over again!
+Nous renverrons ensuite l'
+eau repressurisée à la chaudière au début pour
+recommencer le processus !
+
+That’s just one cycle.
+C'est juste un cycle.
+
+For each one that we do, we should have an
+output of work.
+Pour chacun que nous faisons, nous devrions avoir une
+sortie de travail.
+
+And if we look at the heat engine as a closed system,
+then the total changes in the kinetic energy, potential
+energy, and internal energy are all 0 through the cycle.
+Et si nous considérons le moteur thermique comme un système fermé,
+alors les changements totaux de l'énergie cinétique, de l'énergie potentielle
+et de l'énergie interne sont tous nuls tout au long du cycle.
+
+So, per the first law of thermodynamics, the changes
+in work and heat should equal themselves out!
+Ainsi, selon la première loi de la thermodynamique, les changements
+de travail et de chaleur devraient s'égaliser !
+
+Now, another way of looking at this cycle
+is by using a phase diagram.
+Maintenant, une autre façon de voir ce cycle
+est d'utiliser un diagramme de phase.
+
+Phase diagrams compare different properties
+to show what state or phase a substance is in.
+Les diagrammes de phase comparent différentes propriétés
+pour montrer dans quel état ou phase se trouve une substance.
+
+For this example, we’ll compare entropy to the
+temperature of the heat engine’s fluid using the Rankine
+cycle, which is the ideal cycle for vapor power plants.
+Pour cet exemple, nous allons comparer l'entropie à la
+température du fluide du moteur thermique en utilisant le
+cycle de Rankine, qui est le cycle idéal pour les centrales électriques à vapeur.
+
+If we take a look at the diagram, all the material to
+the left of the curve is in a liquid phase, while all the
+material to the right is in a gaseous state.
+Si nous regardons le diagramme, tout le matériau
+à gauche de la courbe est en phase liquide, tandis que tout le
+matériau à droite est à l'état gazeux.
+
+Everything under the curve is a mixture of
+gas and liquid.
+Tout sous la courbe est un mélange de
+gaz et de liquide.
+
+This plot lets us easily see what phase our
+fluid is in as it goes through each stage of
+the heat engine cycle.
+Ce tracé nous permet de voir facilement dans quelle phase se trouve notre
+fluide à chaque étape du
+cycle du moteur thermique.
+
+Now, not only is the heat engine a great way to turn
+heat energy into work, but with a few small changes,
+we can turn it into a very different type of system.
+Maintenant, non seulement le moteur thermique est un excellent moyen de transformer
+l'énergie thermique en travail, mais avec quelques petits changements,
+nous pouvons le transformer en un type de système très différent.
+
+Instead of trying to get work as our output,
+what if we tried to get heat?
+Au lieu d'essayer d'obtenir du travail comme résultat, et
+si nous essayions d'obtenir de la chaleur ?
+
+Well, we do this every day when we try to
+heat or cool our homes!
+Eh bien, nous le faisons tous les jours lorsque nous essayons de
+chauffer ou de refroidir nos maisons !
+
+We use heat pumps to add heat to a system when
+we’re feeling chilly, and refrigerators to remove heat
+from a system when we want to keep things cool.
+Nous utilisons des pompes à chaleur pour ajouter de la chaleur à un système lorsque
+nous avons froid, et des réfrigérateurs pour évacuer la chaleur
+d'un système lorsque nous voulons garder les choses au frais.
+
+In either case, we put work into the system,
+rather than trying to get it out.
+Dans les deux cas, nous mettons du travail dans le système,
+plutôt que d'essayer de le faire sortir.
+
+What’s interesting for refrigerators and
+heat pumps is that, since we’re aiming for
+an output of heat,
+Ce qui est intéressant pour les réfrigérateurs et
+les pompes à chaleur, c'est que, puisqu'on vise
+une production de chaleur,
+
+it’s possible to get a 100% conversion
+from work, which we know from the second
+law of thermodynamics.
+il est possible d'obtenir une conversion à 100 %
+du travail, ce que nous connaissons de la deuxième
+loi de la thermodynamique.
+
+However, it’s important to note that even though
+all of our work can be converted into heat,
+Cependant, il est important de noter que même si
+tout notre travail peut être converti en chaleur,
+
+it may not all be the exact heat we want,
+because we're still going to have two different
+temperature levels.
+ce n'est peut-être pas exactement la chaleur que nous voulons,
+car nous aurons toujours deux
+niveaux de température différents.
+
+Now, with all that in mind, let’s go back
+to the refrigerator.
+Maintenant, avec tout cela à l'esprit, revenons
+au réfrigérateur.
+
+If we’re talking about the fridge in your
+kitchen, the inside stays cool because of what’s
+happening on its rear exterior wall.
+Si nous parlons du réfrigérateur de votre
+cuisine, l'intérieur reste frais à cause de ce qui se
+passe sur son mur extérieur arrière.
+
+This is where our cycle will take place.
+C'est là que notre cycle aura lieu.
+
+Just like with the heat engine, we can break this
+cycle down into four stages, again with a working
+fluid that’s circulating through all the stages.
+Tout comme avec le moteur thermique, nous pouvons décomposer ce
+cycle en quatre étapes, toujours avec un
+fluide de travail qui circule à travers toutes les étapes.
+
+In your kitchen fridge, this working fluid
+is a hydrochlorofluorocarbon chemical that’s
+usually referred to generically as freon.
+Dans votre réfrigérateur de cuisine, ce fluide de travail
+est un produit chimique hydrochlorofluorocarbone qui est
+généralement appelé génériquement fréon.
+
+The first stage of the cycle is the evaporator,
+which removes heat from the inside of the fridge.
+La première étape du cycle est l'évaporateur,
+qui évacue la chaleur de l'intérieur du réfrigérateur.
+
+It starts out with liquid fluid that’s colder
+than the inside of the fridge, which is the result
+of the last stage of the previous cycle.
+Cela commence avec un fluide liquide plus froid
+que l'intérieur du réfrigérateur, qui est le résultat
+de la dernière étape du cycle précédent.
+
+But we’ll get to that.
+Mais nous y arriverons.
+
+So, this liquid is really cold, but its boiling
+point is also really low.
+Donc, ce liquide est vraiment froid, mais son
+point d'ébullition est également très bas.
+
+In fact, the liquid is just about at the temperature
+where it’s ready to boil.
+En fait, le liquide est à peu près à la température
+où il est prêt à bouillir.
+
+And when a liquid changes to a gas, it absorbs
+heat.
+Et lorsqu'un liquide se transforme en gaz, il absorbe de la
+chaleur.
+
+So when the liquid in the evaporator boils,
+it absorbs heat from the refrigerator at the
+same time.
+Ainsi, lorsque le liquide de l'évaporateur bout,
+il absorbe en
+même temps la chaleur du réfrigérateur.
+
+But even though it’s absorbing heat, its
+temperature doesn’t actually change.
+Mais même s'il absorbe de la chaleur, sa
+température ne change pas réellement.
+
+All that heat energy is going into changing
+the liquid into a gas, not raising its temperature.
+Toute cette énergie thermique sert à transformer
+le liquide en gaz, et non à augmenter sa température.
+
+Stage two is the compressor.
+La deuxième étape est le compresseur.
+
+Its job is to raise the pressure of the gas,
+which also raises its temperature — and
+its boiling point.
+Son travail consiste à augmenter la pression du gaz,
+ce qui augmente également sa température - et
+son point d'ébullition.
+
+After stage two is complete, the gas is really
+hot — hotter than the air outside the fridge.
+Une fois la deuxième étape terminée, le gaz est vraiment
+chaud - plus chaud que l'air à l'extérieur du réfrigérateur.
+
+But because its boiling point increased too,
+it’s still around the temperature where it’s ready
+to condense into a liquid.
+Mais comme son point d'ébullition a également augmenté,
+il se situe toujours autour de la température à laquelle il est prêt
+à se condenser en un liquide.
+
+Which brings us to stage three: the condenser,
+which is basically the opposite of the evaporator
+in stage one.
+Ce qui nous amène à la troisième étape : le condenseur,
+qui est essentiellement l'opposé de l'évaporateur
+de la première étape.
+
+In the condenser, the gas turns into a liquid,
+a process that releases heat.
+Dans le condenseur, le gaz se transforme en liquide,
+un processus qui libère de la chaleur.
+
+Since the refrigerant is now hotter than
+the air outside, heat can flow from inside the
+condenser to the surrounding air.
+Étant donné que le réfrigérant est maintenant plus chaud que
+l'air extérieur, la chaleur peut s'écouler de l'intérieur du
+condenseur vers l'air ambiant.
+
+But, like in the evaporator, the temperature
+of the refrigerant stays constant in the condenser.
+Mais, comme dans l'évaporateur, la température
+du réfrigérant reste constante dans le condenseur.
+
+Finally, in stage four, an expansion valve throttles
+the liquid, lowering its pressure — and therefore,
+lowering both its temperature and boiling point.
+Enfin, à la quatrième étape, une soupape de détente étrangle
+le liquide, abaissant sa pression - et donc,
+abaissant à la fois sa température et son point d'ébullition.
+
+It’s the opposite of what happens in the
+compressor.
+C'est l'inverse de ce qui se passe dans le
+compresseur.
+
+You end up with cold liquid refrigerant at
+a lower pressure, ready to enter the evaporator
+and start the process all over again,
+Vous vous retrouvez avec un réfrigérant liquide froid à
+une pression plus basse, prêt à entrer dans l'évaporateur
+et à recommencer le processus,
+
+absorbing more heat from the fridge as it boils.
+absorbant plus de chaleur du réfrigérateur lorsqu'il bout.
+
+So basically, the food inside your fridge
+stays cold because we’re taking heat out
+from the inside of your fridge.
+Donc, fondamentalement, la nourriture à l'intérieur de votre réfrigérateur
+reste froide parce que nous retirons la chaleur
+de l'intérieur de votre réfrigérateur.
+
+And we can see this all a bit more clearly
+if we take another look at a phase diagram,
+this time for a refrigeration cycle.
+Et nous pouvons voir tout cela un peu plus clairement
+si nous regardons à nouveau un diagramme de phases,
+cette fois pour un cycle de réfrigération.
+
+While similar to the phase diagram for the heat
+engine, we’ll see a few differences in what phases
+our fluid is in at the different stages.
+Bien que similaire au diagramme de phase du
+moteur thermique, nous verrons quelques différences dans les phases de
+notre fluide aux différentes étapes.
+
+The fluid spends more time in a gaseous
+state and less time as a liquid than our fluid
+did for the heat engine.
+Le fluide passe plus de temps à l'état gazeux
+et moins de temps à l'état liquide que notre
+fluide pour le moteur thermique.
+
+Now, full cycles like these are great, but sometimes
+we’ll need to have an incomplete cycle with a little
+outside help to get what we want.
+Maintenant, des cycles complets comme ceux-ci sont formidables, mais parfois
+nous aurons besoin d'avoir un cycle incomplet avec un peu d'
+aide extérieure pour obtenir ce que nous voulons.
+
+That’s because sometimes we’re limited by
+our environments and what we have available.
+C'est parce que nous sommes parfois limités par
+nos environnements et ce dont nous disposons.
+
+So, for example, refrigerators often need
+electricity, but that kind of power isn’t
+always available.
+Ainsi, par exemple, les réfrigérateurs ont souvent besoin d'
+électricité, mais ce type d'électricité n'est pas
+toujours disponible.
+
+So, with a little bit of problem-solving,
+we can design ones that don’t need it!
+Ainsi, avec un peu de résolution de problèmes,
+nous pouvons concevoir ceux qui n'en ont pas besoin !
+
+That was the idea behind the zeer pot.
+C'était l'idée derrière le pot de zeer.
+
+The zeer pot is a simple refrigerator made
+from one earthen pot set inside another, with
+a layer of wet sand in between them.
+Le pot zeer est un simple réfrigérateur fabriqué à
+partir d'un pot en terre placé à l'intérieur d'un autre, avec
+une couche de sable humide entre eux.
+
+It was made famous by Nigerian inventor Mohammed
+Bah Abba in the 1990’s, but similar devices may
+date back all the way to Egypt around 2500 BCE.
+Il a été rendu célèbre par l'inventeur nigérian Mohammed
+Bah Abba dans les années 1990, mais des appareils similaires peuvent
+remonter jusqu'en Égypte vers 2500 avant notre ère.
+
+So how does the zeer pot work?
+Alors, comment fonctionne le pot zeer?
+
+Well, as the moisture from the sand evaporates,
+it cools the inner pot by “pulling” out heat.
+Eh bien, au fur et à mesure que l'humidité du sable s'évapore,
+il refroidit le pot intérieur en "extrayant" la chaleur.
+
+It’s a great way to have a refrigeration
+system in a hot climate when you have very
+limited resources.
+C'est un excellent moyen d'avoir un
+système de réfrigération dans un climat chaud lorsque vous avez
+des ressources très limitées.
+
+But while it’s pretty awesome, the zeer
+pot isn’t quite a cycle.
+Mais bien que ce soit assez génial, le
+pot zeer n'est pas tout à fait un cycle.
+
+Without recapturing the evaporated water, we’re going
+to need some outside work to make our sand wet again
+if we want to continue the cooling process.
+Sans récupérer l'eau évaporée, nous allons
+avoir besoin de travaux extérieurs pour rendre notre sable à nouveau humide
+si nous voulons continuer le processus de refroidissement.
+
+So, sometimes we need to forgo a perfect cycle
+for the sake of practically.
+Donc, parfois, nous devons renoncer à un cycle parfait
+pour des raisons pratiques.
+
+But all that being said, let’s say we do
+have the resources for a refrigerator that
+can run on a cycle.
+Mais tout cela étant dit, disons que nous
+avons les ressources pour un réfrigérateur qui
+peut fonctionner sur un cycle.
+
+How can we improve this process even more?
+Comment pouvons-nous encore améliorer ce processus ?
+
+Well, one way is by using a renewable energy
+resource to fuel our system and produce the
+work that we need!
+Eh bien, une façon consiste à utiliser une
+ressource d'énergie renouvelable pour alimenter notre système et produire le
+travail dont nous avons besoin !
+
+Solar energy is a great example.
+L'énergie solaire en est un excellent exemple.
+
+Rather than taking electricity that was
+made from a typical source,
+Plutôt que de prendre de l'
+électricité provenant d'une source typique,
+
+we can use solar-powered photovoltaic panels
+to convert the sun’s rays into electricity by exciting
+the electrons within the panel’s cells.
+nous pouvons utiliser des panneaux photovoltaïques à énergie solaire
+pour convertir les rayons du soleil en électricité en excitant
+les électrons dans les cellules du panneau.
+
+The electricity that we’d get from this energy
+could replace the work that we needed for the cycle,
+thus making the cycle itself more reusable!
+L'électricité que nous obtiendrions de cette énergie
+pourrait remplacer le travail dont nous avions besoin pour le cycle,
+rendant ainsi le cycle lui-même plus réutilisable !
+
+Which is great, because a big goal for us as
+engineers is to find ways to improve our processes,
+even when something is already working.
+Ce qui est formidable, car un objectif majeur pour nous, en tant
+qu'ingénieurs, est de trouver des moyens d'améliorer nos processus,
+même lorsque quelque chose fonctionne déjà.
+
+We can always improve on our designs in one
+way or another.
+Nous pouvons toujours améliorer nos conceptions d'une
+manière ou d'une autre.
+
+We can always take another step forward.
+Nous pouvons toujours faire un autre pas en avant.
+
+The refrigerators that we make now are far
+better than the ones that Perkins made back
+in the 1800’s.
+Les réfrigérateurs que nous fabriquons aujourd'hui sont bien
+meilleurs que ceux fabriqués par Perkins
+dans les années 1800.
+
+Our heat engines are getting more and more
+efficient as time goes on.
+Nos moteurs thermiques deviennent de plus en plus
+performants au fil du temps.
+
+You see, the journey of an engineer is both
+discovery and optimization.
+Vous voyez, le parcours d'un ingénieur est à la fois
+découverte et optimisation.
+
+And we’re just getting started.
+Et nous ne faisons que commencer.
+
+So today, we learned all about cycles, what
+they are, and some of the systems that use them.
+Aujourd'hui, nous avons donc tout appris sur les cycles, ce
+qu'ils sont et certains des systèmes qui les utilisent.
+
+One of the biggest ones was heat engines.
+L'un des plus importants était les moteurs thermiques.
+
+Not only did we learn how heat engines work,
+but we also saw that with a few small changes,
+Non seulement nous avons appris comment fonctionnent les moteurs thermiques,
+mais nous avons également vu qu'avec quelques petites modifications,
+
+we can create other systems too, like refrigerators
+and heat pumps.
+nous pouvons également créer d'autres systèmes, comme des réfrigérateurs
+et des pompes à chaleur.
+
+We also learned about phase diagrams and the
+power of using renewable energy resources.
+Nous avons également appris les diagrammes de phase et la
+puissance de l'utilisation des ressources énergétiques renouvelables.
+
+I’ll see you next time, when we’ll learn
+about fluid mechanics and momentum transfer.
+Je vous verrai la prochaine fois, quand nous en apprendrons davantage
+sur la mécanique des fluides et le transfert d'impulsion.
+
+Crash Course Engineering is produced in association
+with PBS Digital Studios.
+Crash Course Engineering est produit en association
+avec PBS Digital Studios.
+
+You can head over to their channel to check
+out a playlist of their amazing shows, like
+America from Scratch, Hot Mess, and Eons.
+Vous pouvez vous rendre sur leur chaîne pour
+consulter une liste de lecture de leurs émissions incroyables, comme
+America from Scratch, Hot Mess et Eons.
+
+Crash Course is a Complexly production and this
+episode was filmed in the Doctor Cheryl C. Kinney
+Studio with the help of these wonderful people.
+Crash Course est une production de Complexly et cet
+épisode a été filmé dans le studio du docteur Cheryl C. Kinney
+avec l'aide de ces personnes merveilleuses.
+
+And our amazing graphics team is Thought Cafe.
+Et notre incroyable équipe graphique est Thought Cafe.
+

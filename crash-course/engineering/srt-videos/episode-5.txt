@@ -1,0 +1,611 @@
+Our world is made up of matter.
+Notre monde est fait de matière.
+
+And one way that we study matter is with chemistry.
+Et l'une des façons dont nous étudions la matière est la chimie.
+
+How we use that knowledge leads us to chemical
+engineering.
+La façon dont nous utilisons ces connaissances nous amène au
+génie chimique.
+
+Chemical engineering is one of the broadest of the
+engineering fields, focused not only on chemicals –
+Le génie chimique est l'un des
+domaines d'ingénierie les plus vastes, axé non seulement sur les produits chimiques -
+
+which make up everything – but also on
+developing and designing plants and processes
+for manufacturing chemicals.
+qui constituent tout - mais également sur le
+développement et la conception d'usines et de procédés
+de fabrication de produits chimiques.
+
+Now, let’s imagine we’ve come up with an
+amazing new product that we have to create
+through a chemical process.
+Maintenant, imaginons que nous ayons trouvé un
+nouveau produit incroyable que nous devons créer
+par un processus chimique.
+
+It could be some new kind of personal water
+purifier, or makeup that lasts as long as you want
+it to, or a revolutionary clothing material.
+Il peut s'agir d'un nouveau type de
+purificateur d'eau personnel, ou d'un maquillage qui dure aussi longtemps que vous le
+souhaitez, ou d'un tissu vestimentaire révolutionnaire.
+
+Whatever it is, we’re going to have to go
+through some steps before we all get rich.
+Quoi qu'il en soit, nous allons devoir passer
+par certaines étapes avant de devenir tous riches.
+
+Once we’ve designed our product, we’ll need
+to create a facility where we can make it.
+Une fois que nous aurons conçu notre produit, nous
+devrons créer une installation où nous pourrons le fabriquer.
+
+And in order to know how to do that, it
+would help if you understand a little about
+the history of chemical engineering.
+Et pour savoir comment faire cela, il
+serait utile que vous compreniez un peu
+l'histoire du génie chimique.
+
+[Theme Music]
+[Thème musical]
+
+To begin, let’s dispel a common assumption:
+that chemical engineering is simply chemistry
+applied to engineering.
+Pour commencer, dissipons une hypothèse commune :
+que le génie chimique est simplement de la chimie
+appliquée à l'ingénierie.
+
+Sure, there’s a lot of chemistry involved, but the
+engineering side has a lot to do with answering
+questions, like
+Bien sûr, il y a beaucoup de chimie en jeu, mais le
+côté ingénierie a beaucoup à voir avec la réponse à des
+questions, comme
+
+“What can we do with these chemicals?
+How can we make them?
+« Que pouvons-nous faire avec ces produits chimiques ?
+Comment pouvons-nous les fabriquer?
+
+Where can we go from here, and What are the
+possibilities?”
+Où pouvons-nous aller d'ici, et quelles sont les
+possibilités ? »
+
+Chemical engineering got its unofficial
+start back around the time of the American
+Revolutionary War.
+Le génie chimique a fait ses
+débuts officieux à l'époque de la guerre d'
+indépendance américaine.
+
+During the war, blockades were put up to stop
+trade between the American colonies and Europe.
+Pendant la guerre, des blocus ont été mis en place pour arrêter le
+commerce entre les colonies américaines et l'Europe.
+
+France was especially affected by these blockades,
+because America is where it got its supply of sodium
+carbonate, also known as soda ash.
+La France a été particulièrement touchée par ces blocages,
+car c'est aux États-Unis qu'elle s'est approvisionnée en carbonate de sodium
+, également appelé carbonate de soude.
+
+At the time, soda ash was used for a whole
+bunch of things, from cooking, to manufacturing
+glass and paper, to making soap.
+À l'époque, le carbonate de soude était utilisé pour tout un
+tas de choses, de la cuisine à la fabrication de
+verre et de papier, en passant par la fabrication de savon.
+
+Since France couldn’t get sodium carbonate
+from its normal trade routes,
+Comme la France ne pouvait pas obtenir de carbonate de sodium à
+partir de ses routes commerciales normales,
+
+the French Royal Academy offered up a prize in 1775
+to anyone who could make sodium carbonate from
+sodium chloride – which we know as common salt.
+l'Académie royale française a offert un prix en 1775
+à quiconque pouvait fabriquer du carbonate de
+sodium à partir de chlorure de sodium - que nous connaissons sous le nom de sel commun.
+
+It took about 15 years, but a French chemist
+and physician named Nicolas Leblanc finally
+figured out how to do it around 1789.
+Cela a pris environ 15 ans, mais un chimiste
+et médecin français nommé Nicolas Leblanc a finalement
+compris comment le faire vers 1789.
+
+His methods, now known as the Leblanc Process, first
+heated sodium chloride with sulfuric acid to produce
+sodium sulfate, which was called the salt cake.
+Ses méthodes, maintenant connues sous le nom de procédé Leblanc,
+chauffaient d'abord le chlorure de sodium avec de l'acide sulfurique pour produire
+du sulfate de sodium, appelé  le gâteau au sel.
+
+The salt cake was then mixed with crushed
+limestone and coal, and fired.
+Le gâteau de sel était ensuite mélangé avec du
+calcaire broyé et du charbon, et cuit.
+
+This left the combination of sodium carbonate
+and calcium sulfide, also known as black ash.
+Cela a laissé la combinaison de carbonate de sodium
+et de sulfure de calcium, également connue sous le nom de cendre noire.
+
+The final step separated the sodium carbonate
+from the black ash by washing it with water,
+which was then evaporated.
+La dernière étape a séparé le carbonate
+de sodium de la cendre noire en le lavant avec de l'eau,
+qui a ensuite été évaporée.
+
+We call this extraction process lixiviation.
+Nous appelons ce processus d'extraction la lixiviation.
+
+Leblanc’s process became the forerunner of
+modern chemical manufacturing, and paved the
+way for future chemical engineers to come.
+Le procédé de Leblanc est devenu le précurseur de
+la fabrication chimique moderne et a ouvert la
+voie aux futurs ingénieurs chimistes.
+
+By 1791, he opened up a small factory in Saint
+Denis and began large-scale production of soda ash.
+En 1791, il ouvre une petite usine à Saint
+Denis et se lance dans la production à grande échelle de carbonate de sodium.
+
+But his plant was soon taken over by revolutionaries
+during the French Revolution, who also released his
+trade secrets.
+Mais son usine a été rapidement reprise par les révolutionnaires
+pendant la Révolution française, qui ont également dévoilé ses
+secrets commerciaux.
+
+While this process was revolutionary in its
+own right, it was pretty bad for the environment.
+Bien que ce processus soit révolutionnaire en
+soi, il était plutôt mauvais pour l'environnement.
+
+It produced a ton of waste that smelled rather
+putrid.
+Cela produisait une tonne de déchets qui sentaient plutôt
+putride.
+
+Since chemical processes can often have
+nasty byproducts,
+Étant donné que les processus chimiques peuvent souvent avoir des
+sous-produits désagréables, les
+
+governments can often pass pollution legislation,
+especially around big cities and bodies of water.
+gouvernements peuvent souvent adopter une législation sur la pollution, en
+particulier autour des grandes villes et des plans d'eau.
+
+But none of this has stopped the chemical
+industry from growing.
+Mais rien de tout cela n'a empêché l'
+industrie chimique de se développer.
+
+In the late 19th century, British chemist
+George Davis worked as an inspector for the
+Alkali Act,
+À la fin du 19e siècle, le chimiste britannique
+George Davis a travaillé comme inspecteur pour l'
+Alkali Act,
+
+which was an early piece of environmental
+legislation in response to the Leblanc process.
+qui était l'un des premiers
+textes législatifs environnementaux en réponse au processus Leblanc.
+
+The act required soda manufacturers to reduce
+the amount of hydrochloric acid gas that they
+released into the atmosphere.
+La loi obligeait les fabricants de sodas à réduire
+la quantité de gaz acide chlorhydrique
+qu'ils rejetaient dans l'atmosphère.
+
+Around 1887, Davis gave a series of lectures
+at the Manchester School of Technology.
+Vers 1887, Davis donne une série de conférences
+à la Manchester School of Technology.
+
+His talks formed the basis for his two-volume
+Handbook of Chemical Engineering, which was
+the first of its kind.
+Ses entretiens ont constitué la base de son
+manuel en deux volumes de génie chimique, qui était
+le premier du genre.
+
+There were already chemistry books written
+for specific industries, like acid production
+and brewing.
+Il existait déjà des livres de chimie écrits
+pour des industries spécifiques, comme la production d'acide
+et le brassage.
+
+But what made Davis’ work unique was that it organized
+basic operations that are common to many industries,
+like transporting liquids and gases or distillation.
+Mais ce qui rendait le travail de Davis unique, c'est qu'il organisait
+des opérations de base communes à de nombreuses industries,
+comme le transport de liquides et de gaz ou la distillation.
+
+In the US, his work helped stimulate new ways
+of thinking about chemical processes
+Aux États-Unis, son travail a contribué à stimuler de nouvelles façons
+de penser les processus chimiques
+
+and sparked the creation of chemical engineering
+degrees at universities around the country.
+et a déclenché la création de
+diplômes en génie chimique dans les universités du pays.
+
+Any chemical engineers that we work with to
+help develop our product will likely have their
+education rooted in Davis’ teachings.
+Tous les ingénieurs chimistes avec lesquels nous travaillons
+pour développer notre produit auront probablement leur
+formation enracinée dans les enseignements de Davis.
+
+Around the turn of the 20th century, cars
+were starting to become a regular part of
+modern life.
+Au tournant du 20e siècle, les
+voitures commençaient à faire partie intégrante de
+la vie moderne.
+
+And soon chemical engineers were playing an
+important role in their use, by making gasoline.
+Et bientôt les ingénieurs chimistes jouèrent un
+rôle important dans leur utilisation, en fabriquant de l'essence.
+
+Drills were already finding crude oil, but
+that’s not gasoline.
+Les foreuses trouvaient déjà du pétrole brut, mais
+ce n'est pas de l'essence.
+
+The oil needed to be refined.
+L'huile devait être raffinée.
+
+So we needed refineries, which were basically
+giant chemical plants.
+Nous avions donc besoin de raffineries, qui étaient essentiellement
+des usines chimiques géantes.
+
+Chemical engineers improved the process of
+making gasoline by introducing methods like
+cracking,
+Les ingénieurs chimistes ont amélioré le processus de
+fabrication de l'essence en introduisant des méthodes telles que le
+craquage,
+
+where heavy hydrocarbon molecules
+are broken down into lighter molecules by
+heat and pressure.
+où les molécules d'hydrocarbures lourds
+sont décomposées en molécules plus légères par la
+chaleur et la pression.
+
+They also implemented the process of polymerization,
+Ils ont également mis en œuvre le processus de polymérisation,
+
+where propylene and butylene are combined
+into molecules of two or three times their
+original molecular weight.
+où le propylène et le butylène sont combinés
+en molécules de deux ou trois fois leur
+poids moléculaire d'origine.
+
+With these improvements, gasoline became
+more economically viable, which made gas cheaper
+and owning a car less expensive.
+Grâce à ces améliorations, l'essence est devenue
+plus viable économiquement, ce qui a rendu l'essence moins chère
+et la possession d'une voiture moins chère.
+
+Now, large-scale chemical production like
+this requires a lot of planning.
+Maintenant, une production chimique à grande échelle comme
+celle-ci nécessite beaucoup de planification.
+
+So, as chemical plants develop, a big part
+of chemical engineering becomes what we’ll
+call “Unit Operations”.
+Ainsi, à mesure que les usines chimiques se développent, une grande partie
+du génie chimique devient ce que nous
+appellerons les « opérations unitaires ».
+
+This was first introduced by the American
+Arthur D. Little in 1915, and it breaks down each
+part of a chemical plant into individual units.
+Cela a été introduit pour la première fois par l'Américain
+Arthur D. Little en 1915, et il décompose chaque
+partie d'une usine chimique en unités individuelles.
+
+Do you need to get chemicals flowing from
+one side of the plant to the other?
+Avez-vous besoin de faire circuler des produits chimiques d'
+un côté à l'autre de l'usine ?
+
+Use pipes.
+That’s a unit.
+Utilisez des tuyaux.
+C'est une unité.
+
+And you’ll need pumps to drive the flow.
+That’s another unit.
+Et vous aurez besoin de pompes pour conduire le flux.
+C'est une autre unité.
+
+Need to stimulate a reaction?
+Use a reactor.
+Besoin de stimuler une réaction ?
+Utilisez un réacteur.
+
+Want to mix those chemicals together?
+Go for a mixer.
+Vous voulez mélanger ces produits chimiques ensemble ?
+Optez pour un mixeur.
+
+Need to separate them?
+Besoin de les séparer ?
+
+Try distillation columns or maybe reverse
+osmosis membranes.
+Essayez des colonnes de distillation ou peut-être des
+membranes d'osmose inverse.
+
+All of these are units, and they highlight
+the key theories that chemical engineers need
+to understand to keep a plant running.
+Toutes ces unités sont des unités et elles mettent en évidence
+les théories clés que les ingénieurs chimistes
+doivent comprendre pour faire fonctionner une usine.
+
+It’s important to think of processes as
+a whole,
+Il est important de penser aux processus
+dans leur ensemble,
+
+but it will be just as important to break down
+our chemical plant into unit operations when we
+get to the manufacturing phase.
+mais il sera tout aussi important de décomposer
+notre usine chimique en opérations unitaires lorsque
+nous arriverons à la phase de fabrication.
+
+Once engineers realized – in part thanks to
+Little’s work –
+Une fois que les ingénieurs ont réalisé - en partie grâce au
+travail de Little -
+
+that all of these unit operations were founded
+on basic principles, such as momentum transfer,
+mass transfer, and thermodynamics,
+que toutes ces opérations unitaires étaient fondées
+sur des principes de base, tels que le transfert de quantité de mouvement,
+le transfert de masse et la thermodynamique,
+
+they could then become more creative in
+how they manufactured chemicals.
+ils pouvaient alors devenir plus créatifs dans la
+façon dont ils fabriquaient des produits chimiques.
+
+They no longer had to use the same equipment
+for the same limited purposes.
+Ils n'avaient plus à utiliser le même équipement
+aux mêmes fins limitées.
+
+Instead, they could devise new ways of using
+their tools and machines.
+Au lieu de cela, ils pourraient concevoir de nouvelles façons d'utiliser
+leurs outils et leurs machines.
+
+This allowed chemical engineering to grow
+into one of the broadest engineering fields.
+Cela a permis au génie chimique de devenir l'
+un des domaines d'ingénierie les plus vastes.
+
+As recently as the 1970’s, the field was
+much more narrow than it is now.
+Pas plus tard que dans les années 1970, le champ était
+beaucoup plus étroit qu'il ne l'est maintenant.
+
+Back then, around 80% of graduating
+chemical engineers took jobs in the chemical
+process industry and government.
+À l'époque, environ 80% des
+ingénieurs chimistes diplômés travaillaient dans l'industrie des
+procédés chimiques et le gouvernement.
+
+By 2000, that 80% had dropped to about 50%.
+En 2000, ce 80 % était tombé à environ 50 %.
+
+One of the reasons for this was the emergence
+of biotechnology.
+L'émergence de la biotechnologie en est l'une des raisons
+.
+
+Heavily focused on research and development,
+biotechnology engineering applies technology
+to biological systems and living organisms.
+Fortement axé sur la recherche et le développement, le
+génie biotechnologique applique la technologie
+aux systèmes biologiques et aux organismes vivants.
+
+Once we know how and why biological processes
+work, we can find ways to change, adapt, and control
+them, with the aim of making our lives better.
+Une fois que nous savons comment et pourquoi les processus biologiques
+fonctionnent, nous pouvons trouver des moyens de les modifier, de les adapter et de les
+contrôler, dans le but d'améliorer nos vies.
+
+In a similar fashion, pharmaceutical and
+healthcare companies also played a big role in
+expanding what chemical engineers do.
+De la même manière, les sociétés pharmaceutiques et de
+soins de santé ont également joué un rôle important dans l'
+expansion de ce que font les ingénieurs chimistes.
+
+Every day, new drugs and medicines are made
+and improved upon.
+Chaque jour, de nouveaux médicaments et médicaments sont fabriqués
+et améliorés.
+
+Chemical engineers also work on how best to
+deliver these drugs into our bodies.
+Les ingénieurs chimistes travaillent également sur la meilleure façon d'
+administrer ces médicaments dans notre corps.
+
+Some might best be injected, like insulin
+or an epipen, while others work well in a
+spray form, like an inhaler.
+Certains pourraient être mieux injectés, comme l'insuline
+ou un épipen, tandis que d'autres fonctionnent bien sous
+forme de spray, comme un inhalateur.
+
+A lot of chemical engineering goes into many
+of the foods that we eat as well.
+Beaucoup de génie chimique entre également dans de
+nombreux aliments que nous consommons.
+
+We’ve had to figure out such dark magic
+as getting corn syrup from corn and making
+artificial sweeteners.
+Nous avons dû découvrir une telle magie noire
+comme obtenir du sirop de maïs à partir de maïs et fabriquer des
+édulcorants artificiels.
+
+We’ve found dairy substitutes and used plants
+to make vegan and vegetarian meats that taste
+like they came from an animal – kind of.
+Nous avons trouvé des substituts laitiers et utilisé des plantes
+pour fabriquer des viandes végétaliennes et végétariennes qui ont le goût de
+provenir d'un animal, en quelque sorte.
+
+This has all done wonders for people with
+food allergies and dietary restrictions.
+Tout cela a fait des merveilles pour les personnes souffrant d'
+allergies alimentaires et de restrictions alimentaires.
+
+There’s also a growing focus on the
+environment and sustainable energy within
+the field of chemical engineering.
+L'
+environnement et l'énergie durable se concentrent également de plus en plus dans
+le domaine du génie chimique.
+
+We want to both preserve what we already have
+and find energy sources that won’t run out of power.
+Nous voulons à la fois préserver ce que nous avons déjà
+et trouver des sources d'énergie qui ne s'épuiseront pas.
+
+So one source that’s closely related to chemical
+engineering is biomass: renewable organic material
+that comes from plants and animals.
+Ainsi, une source étroitement liée au
+génie chimique est la biomasse : une matière organique renouvelable
+provenant de plantes et d'animaux.
+
+This ranges from wood and leftover crops,
+to garbage and manure.
+Cela va du bois et des restes de cultures
+aux ordures et au fumier.
+
+As of 2016, biomass fuels provide about 5%
+of the primary energy used in the United States.
+En 2016, les combustibles issus de la biomasse fournissent environ 5 %
+de l'énergie primaire utilisée aux États-Unis.
+
+And chemical engineers play a big part in
+figuring out what can be used as biomass and how
+to best break it down to get energy from it.
+Et les ingénieurs chimistes jouent un rôle important dans la
+détermination de ce qui peut être utilisé comme biomasse et
+de la meilleure façon de la décomposer pour en tirer de l'énergie.
+
+All of these developments in chemical engineering
+are what will really give us the knowledge to make
+our wonderful new product, whatever it is.
+Tous ces développements en génie chimique
+nous donneront vraiment les connaissances nécessaires pour fabriquer
+notre merveilleux nouveau produit, quel qu'il soit.
+
+We can improve upon what’s already there,
+or make something truly revolutionary.
+Nous pouvons améliorer ce qui existe déjà
+ou créer quelque chose de vraiment révolutionnaire.
+
+When you’re a creator, the possibilities
+are endless.
+Lorsque vous êtes un créateur, les possibilités
+sont infinies.
+
+So today we learned a lot about the history
+of chemical engineering, starting with its
+origins in sodium carbonate.
+Aujourd'hui, nous avons donc beaucoup appris sur l'histoire
+du génie chimique, à commencer par ses
+origines dans le carbonate de sodium.
+
+We then talked about George Davis, the father
+of chemical engineering, and his teachings.
+Nous avons ensuite parlé de George Davis, le père
+du génie chimique, et de ses enseignements.
+
+We moved on to oil refineries and chemical
+factories, learning about the unit operations
+behind them.
+Nous sommes passés aux raffineries de pétrole et aux
+usines chimiques, découvrant les opérations unitaires
+derrière elles.
+
+We ended our lesson by talking about the newer
+and emerging fields of biotechnology, pharmaceuticals
+and food, and finally renewable energy.
+Nous avons terminé notre leçon en parlant
+des domaines nouveaux et émergents de la biotechnologie, des produits pharmaceutiques
+et alimentaires, et enfin des énergies renouvelables.
+
+Next time we’ll learn about industrial and
+biomedical engineering and how they’re
+changing the world.
+La prochaine fois, nous en apprendrons davantage sur le génie industriel et
+biomédical et comment ils
+changent le monde.
+
+Crash Course Engineering is produced in
+association with PBS Digital Studios.
+Crash Course Engineering est produit en
+association avec PBS Digital Studios.
+
+You can head over to their channel to check
+out a playlist of their latest amazing shows,
+Vous pouvez vous rendre sur leur chaîne pour
+consulter une liste de lecture de leurs dernières émissions incroyables,
+
+like The Origin of Everything, Infinite Series,
+and Eons.
+comme The Origin of Everything, Infinite Series
+et Eons.
+
+Crash Course is a Complexly production and this
+episode of was filmed in the Doctor Cheryl C. Kinney
+Studio with the help of these wonderful people.
+Crash Course est une production complexe et cet
+épisode a été filmé dans le studio du docteur Cheryl C. Kinney
+avec l'aide de ces personnes merveilleuses.
+
+And our amazing graphics team is Thought Cafe.
+Et notre incroyable équipe graphique est Thought Cafe.
+

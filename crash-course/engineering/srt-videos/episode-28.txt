@@ -1,0 +1,689 @@
+Thanks to CuriosityStream for supporting PBS
+Digital Studios.
+Merci à CuriosityStream pour son soutien à PBS
+Digital Studios.
+
+Engineering is a dangerous field.
+L'ingénierie est un domaine dangereux.
+
+You need to worry about the dangers at work
+and the things you’re creating.
+Vous devez vous soucier des dangers au travail
+et des choses que vous créez.
+
+And there’s a lot that can go wrong.
+Et il y a beaucoup de choses qui peuvent mal tourner.
+
+You can’t expect to make things that will help
+change the world without addressing these issues.
+Vous ne pouvez pas vous attendre à créer des choses qui aideront à
+changer le monde sans résoudre ces problèmes.
+
+You need to care about safety.
+Vous devez vous soucier de la sécurité.
+
+[Theme Music]
+[Theme Music] La
+
+Safety – in engineering as with everything else –
+is all about trying to minimize or eliminate the hazards
+involved with what you’re doing.
+sécurité - en ingénierie comme pour tout le reste -
+consiste à essayer de minimiser ou d'éliminer les dangers
+liés à ce que vous faites.
+
+Go back a few centuries, and mishaps were
+usually seen as inevitable and uncontrollable.
+Remontez quelques siècles en arrière, et les mésaventures étaient
+généralement considérées comme inévitables et incontrôlables.
+
+But by the turn of the 20th century, as tens of thousands of people began dying every year in the US alone because of industrial accidents, something had to be done.
+Mais au tournant du 20e siècle, alors que des dizaines de milliers de personnes commençaient à mourir chaque année rien qu'aux États-Unis à cause d'accidents industriels, il fallait faire quelque chose.
+
+The public saw countless workers, including children,
+being killed in things like coal mine explosions,
+Le public a vu d'innombrables travailleurs, y compris des enfants,
+être tués dans des choses comme des explosions de mines de charbon
+
+or the tragic Triangle Shirtwaist Company fire
+of 1911, where 145 workers died after being
+trapped inside a burning factory.
+ou le tragique incendie de la Triangle Shirtwaist Company en
+1911, où 145 travailleurs sont morts après avoir été
+piégés dans une usine en feu.
+
+Reaction to events like these led to the modern
+safety protocols in place today – what engineers
+call safety culture.
+La réaction à des événements comme ceux-ci a conduit aux
+protocoles de sécurité modernes en place aujourd'hui - ce que les ingénieurs
+appellent la culture de sécurité.
+
+And the root of this culture is simply the idea
+that safety must be prioritized and embraced as
+a whole, not just thrown in here or there.
+Et la racine de cette culture est simplement l'idée
+que la sécurité doit être priorisée et adoptée
+dans son ensemble, pas seulement jetée ici ou là.
+
+Which is an important mindset to have, because
+today engineers work on projects that can have serious,
+permanent consequences – like nuclear power.
+C'est un état d'esprit important à avoir, car
+aujourd'hui les ingénieurs travaillent sur des projets qui peuvent avoir des conséquences graves et
+permanentes – comme le nucléaire.
+
+The Chernobyl accident of 1986 is a cautionary
+tale.
+L'accident de Tchernobyl de 1986 est un récit édifiant
+.
+
+Due to a flawed design and inadequately trained staff, one of the reactors in the Soviet nuclear power plant exploded, releasing massive amounts of radioactive material.
+En raison d'une conception défectueuse et d'un personnel insuffisamment formé, l'un des réacteurs de la centrale nucléaire soviétique a explosé, libérant d'énormes quantités de matières radioactives.
+
+Two workers were killed within hours, 28 more died of radiation exposure in the following weeks, and another hundred or so ended up in the hospital with acute radiation sickness.
+Deux travailleurs ont été tués en quelques heures, 28 autres sont morts d'une exposition aux radiations dans les semaines suivantes et une centaine d'autres se sont retrouvés à l'hôpital avec une maladie aiguë des radiations.
+
+Today, decades later, the area around Chernobyl
+is still uninhabitable.
+Aujourd'hui, des décennies plus tard, la zone autour de Tchernobyl
+est toujours inhabitable.
+
+The catastrophe revealed a severe lack of
+safety culture.
+La catastrophe a révélé un manque criant de
+culture de sécurité.
+
+Workers didn’t follow proper protocols and
+prioritized quick results over safety.
+Les travailleurs n'ont pas suivi les protocoles appropriés et ont donné la
+priorité aux résultats rapides plutôt qu'à la sécurité.
+
+Whether or not you're working with something
+as dangerous as nuclear power,
+Que vous travailliez ou non avec quelque chose d'
+aussi dangereux que l'énergie nucléaire,
+
+any safety precautions you take will fall
+under one of two main categories:
+occupational safety and public safety.
+toutes les précautions de sécurité que vous prendrez relèveront de l'
+une des deux principales catégories :
+la sécurité au travail et la sécurité publique.
+
+Occupational safety is all about the risks
+you’ll encounter where you work.
+La sécurité au travail concerne les risques
+que vous rencontrerez là où vous travaillez.
+
+Think of heavy machinery on construction sites,
+dangerous chemicals in a lab, or radioactive
+waste from a nuclear power plant.
+Pensez aux machines lourdes sur les chantiers de construction, aux
+produits chimiques dangereux dans un laboratoire ou aux
+déchets radioactifs d'une centrale nucléaire.
+
+Public safety is pretty much a catch-all for
+everything else.
+La sécurité publique est à peu près un fourre-tout pour
+tout le reste.
+
+It can be about dangers you come across at
+home – like a gas leak from your stove–
+Il peut s'agir de dangers que vous rencontrez à la
+maison - comme une fuite de gaz de votre cuisinière -
+
+or the ones you’ll encounter while driving to
+work – like flying debris from a demolition site.
+ou de ceux que vous rencontrerez en vous rendant au
+travail - comme des débris volants d'un chantier de démolition.
+
+We’ve talked before about the ethics behind
+engineering, but this episode is all about the practical
+steps you can take to fulfill your ethical obligation.
+Nous avons déjà parlé de l'éthique derrière l'
+ingénierie, mais cet épisode porte sur les mesures pratiques que
+vous pouvez prendre pour remplir votre obligation éthique.
+
+Because proper safety conditions don’t just
+happen.
+Parce que les bonnes conditions de sécurité ne se produisent pas par
+hasard.
+
+You need to have a plan: a set of precautions
+that will ensure safety as best you can.
+Vous devez avoir un plan : un ensemble de précautions
+qui assureront la sécurité du mieux que vous pourrez.
+
+One step might be wearing the right equipment.
+Hard hats and steel-toe-capped boots in a factory.
+Une étape pourrait être de porter le bon équipement.
+Casques et bottes à embout d'acier dans une usine.
+
+Lab coats and safety goggles in the lab.
+Blouses de laboratoire et lunettes de sécurité dans le laboratoire.
+
+Maybe a face mask if you’re dealing
+with toxic fumes.
+Peut-être un masque facial si vous avez affaire
+à des vapeurs toxiques.
+
+That might be a good start to address an occupational
+hazard on your own personal level, but you can’t expect
+the public to walk around in hard hats and lab coats.
+Cela pourrait être un bon début pour aborder un
+risque professionnel à votre niveau personnel, mais vous ne pouvez pas vous attendre à
+ce que le public se promène avec des casques et des blouses de laboratoire.
+
+As an engineer, you need to think more
+broadly and consider the people around you,
+En tant qu'ingénieur, vous devez penser plus
+largement et considérer les personnes qui vous entourent,
+
+not only while you’re working, but also anyone that
+will ever be involved with what you create.
+non seulement pendant que vous travaillez, mais aussi toute personne qui
+sera un jour impliquée dans ce que vous créez.
+
+If you’re building a car, for instance, you should
+have good safety practices from the second you
+start designing it to the day it rolls off the lot.
+Si vous construisez une voiture, par exemple, vous devriez
+avoir de bonnes pratiques de sécurité à partir du moment où vous
+commencez à la concevoir jusqu'au jour où elle sort du lot.
+
+And the first step in any project is to conduct
+an initial safety analysis.
+Et la première étape de tout projet consiste à effectuer
+une analyse de sécurité initiale.
+
+This happens during the design stage of your
+experiment, the process before you actually
+start to make anything.
+Cela se produit pendant la phase de conception de votre
+expérience, le processus avant que vous ne
+commenciez réellement à fabriquer quoi que ce soit.
+
+You want to know what the hazards are. Like,
+Electrical? Chemical? Mechanical?
+Vous voulez savoir quels sont les dangers.  Comme,
+électrique?  Chimique?  Mécanique? 
+
+Once you know that, you need to find your
+safety limits.
+Une fois que vous savez cela, vous devez trouver vos
+limites de sécurité.
+
+How hot can your equipment get before it
+breaks down?
+Quelle température votre équipement peut-il atteindre avant de
+tomber en panne ?
+
+How much pressure can you apply to
+something before it bursts?
+Quelle pression pouvez-vous appliquer à
+quelque chose avant qu'il n'éclate ?
+
+The idea here is to identify potential problems,
+and mitigate their chances of happening, or
+their effects if they do.
+L'idée ici est d'identifier les problèmes potentiels
+et d'atténuer leurs chances de se produire, ou
+leurs effets s'ils se produisent.
+
+Fortunately, there are lots of resources to
+help you do this!
+Heureusement, il existe de nombreuses ressources pour
+vous aider à le faire !
+
+Are you working with chemicals?
+Travaillez-vous avec des produits chimiques ?
+
+Check out the supplier’s MSDS, or Material
+Safety Data Sheet, to learn about any potential
+reactions they could have.
+Consultez la fiche signalétique ou la
+fiche de données de sécurité du fournisseur pour en savoir plus sur les
+réactions potentielles qu'il pourrait avoir.
+
+Working with any equipment?
+Travailler avec n'importe quel équipement?
+
+You should do what you never do at home:
+actually read the manual – especially if you haven’t
+worked with that type of machine before.
+Vous devriez faire ce que vous ne faites jamais à la maison
+: lire le manuel, surtout si vous n'avez jamais
+travaillé avec ce type de machine auparavant.
+
+One of your biggest resources is the people
+around you!
+L'une de vos plus grandes ressources, ce sont les gens
+qui vous entourent !
+
+Engineers work together in teams, so talk
+to others to get advice, especially people
+from different disciplines.
+Les ingénieurs travaillent en équipe, alors parlez
+à d'autres pour obtenir des conseils, en particulier des personnes
+de différentes disciplines.
+
+After you do an extensive safety analysis,
+you need to have a very thorough safety review
+during the final part of your design process.
+Après avoir effectué une analyse de sécurité approfondie,
+vous devez effectuer un examen de sécurité très approfondi au
+cours de la dernière partie de votre processus de conception.
+
+You might conduct a hazard and operability
+study, or HAZOP, to check everything out.
+Vous pouvez mener une étude de danger et d'
+opérabilité, ou HAZOP, pour tout vérifier.
+
+A HAZOP breaks down a big, complex design
+into smaller, simpler sections called nodes.
+Un HAZOP décompose une grande conception complexe
+en sections plus petites et plus simples appelées nœuds.
+
+That helps catch any issues you may have missed
+while looking at the design as a whole.
+Cela aide à détecter tous les problèmes que vous avez peut-être manqués
+en examinant la conception dans son ensemble.
+
+For instance, something as complicated as a
+nuclear power plant is built in many smaller stages.
+Par exemple, quelque chose d'aussi compliqué qu'une
+centrale nucléaire est construit en plusieurs petites étapes.
+
+You have to find a suitable site, design the power plant
+to fit that site, fabricate all of your components,
+Vous devez trouver un site approprié, concevoir la centrale électrique
+pour s'adapter à ce site, fabriquer tous vos composants,
+
+build the plant, and then finally get it all
+powered up and ready to operate.
+construire la centrale, puis enfin tout mettre
+sous tension et prêt à fonctionner.
+
+At every step of that process, you need to
+check out the safety of your operations.
+À chaque étape de ce processus, vous devez
+vérifier la sécurité de vos opérations.
+
+Like when you’re finding a suitable site,
+you need to make sure you have enough space
+not just for the reactors,
+Comme lorsque vous trouvez un site approprié,
+vous devez vous assurer d'avoir suffisamment d'espace
+non seulement pour les réacteurs,
+
+but also for things like ventilation and a
+safe place to store fuel.
+mais aussi pour des choses comme la ventilation et un
+endroit sûr pour stocker le carburant.
+
+But that’s not all.
+Mais ce n'est pas tout. 
+
+Once you’re out of the design stage and
+have something up and running, you should
+conduct safety reviews on a regular basis.
+Une fois que vous avez quitté la phase de conception et
+que quelque chose est opérationnel, vous devez
+effectuer régulièrement des examens de la sécurité.
+
+Conditions always change, and things break
+down in unexpected ways.
+Les conditions changent toujours et les choses se
+décomposent de manière inattendue.
+
+You want a scheduled process in place to try
+and catch those changes in a timely manner.
+Vous voulez qu'un processus planifié soit mis en place pour essayer
+d'attraper ces changements en temps opportun.
+
+And you especially need to have a safety review if you
+ever change anything, like if you move your operations to
+a new factory or use different materials to cut cost.
+Et vous avez particulièrement besoin d'avoir un examen de sécurité si
+jamais vous changez quoi que ce soit, comme si vous transférez vos opérations dans
+une nouvelle usine ou utilisez des matériaux différents pour réduire les coûts.
+
+At that point, you should have a formal
+inspection done by an official representative of either
+your company or the government,
+À ce stade, vous devriez faire effectuer une
+inspection formelle par un représentant officiel de
+votre entreprise ou du gouvernement,
+
+not just for safety, but also for any environmental
+impacts – which we’ll cover more next time!
+non seulement pour la sécurité, mais aussi pour tout
+impact environnemental - que nous couvrirons plus la prochaine fois !
+
+Now, if something goes wrong and
+someone gets hurt,
+Maintenant, si quelque chose ne va pas et que
+quelqu'un est blessé,
+
+you obviously need a thorough review to
+determine not only the cause, but also to assess
+if it was anyone’s responsibility.
+vous avez évidemment besoin d'un examen approfondi pour
+déterminer non seulement la cause, mais aussi pour évaluer
+si c'était la responsabilité de quelqu'un.
+
+Because the fact is, even after many levels
+of safety review, things can still go wrong.
+Parce que le fait est que même après de nombreux niveaux
+d'examen de la sécurité, les choses peuvent toujours mal tourner.
+
+You need to know why it happened so that others
+can avoid making the same mistake.
+Vous devez savoir pourquoi cela s'est produit afin que les autres
+puissent éviter de faire la même erreur.
+
+So, you have your resources, like an MSDS,
+and a safety review, and maybe a HAZOP,
+Donc, vous avez vos ressources, comme une fiche signalétique
+et un examen de la sécurité, et peut-être un HAZOP,
+
+but when it comes to your process for ensuring
+the safety of your project, you can compress all of
+these safety concerns down to four steps.
+mais lorsqu'il s'agit de votre processus pour assurer
+la sécurité de votre projet, vous pouvez réduire toutes
+ces préoccupations de sécurité à quatre étapes.
+
+The first part is “designing out” any
+hazards.
+La première partie consiste à « éliminer » tous les
+dangers.
+
+You want to minimize the inherent dangers
+of a process as much as possible from the get-go.
+Vous voulez minimiser
+autant que possible les dangers inhérents à un processus dès le départ.
+
+If you don’t want to start a fire, you’ll want to use
+fire-resistant materials rather than flammable ones and
+keep temperatures within an acceptable range.
+Si vous ne voulez pas allumer un feu, vous voudrez utiliser
+des matériaux résistants au feu plutôt que des matériaux inflammables et
+maintenir les températures dans une plage acceptable.
+
+Next, you want to come up with a design that
+allows for a reasonable margin of error.
+Ensuite, vous voulez proposer une conception qui
+permette une marge d'erreur raisonnable.
+
+Now you rate your lift for a dozen people,
+it better be able to hold 20, just in case.
+Maintenant que vous évaluez votre ascenseur pour une douzaine de personnes,
+il vaut mieux qu'il puisse en contenir 20, juste au cas où.
+
+So you may also need what’s called a
+“safe fail.”
+Vous pouvez donc également avoir besoin de ce qu'on appelle un
+"échec sûr".
+
+This basically means that if your design ends up failing
+or shutting down, then it does so as safely as possible,
+rather than ending in some kind of catastrophe.
+Cela signifie essentiellement que si votre conception échoue
+ou s'arrête, elle le fait de la manière la plus sûre possible,
+plutôt que de se terminer par une sorte de catastrophe.
+
+You’ve seen this first hand if your phone
+has ever overheated and shut down before any
+real damage happened.
+Vous avez vu cela de première main si votre téléphone
+a déjà surchauffé et s'est éteint avant que
+des dommages réels ne se produisent.
+
+Finally, you should put in place procedural
+safeguards.
+Enfin, vous devez mettre en place des
+garanties procédurales.
+
+These can range from general safety standards, like
+training workers and staff, to watching over a process
+in order to identify any new potential issues.
+Celles-ci peuvent aller des normes de sécurité générales, comme la
+formation des travailleurs et du personnel, à la surveillance d'un
+processus afin d'identifier tout nouveau problème potentiel.
+
+The best systems will have multiple layers
+of safety involved.
+Les meilleurs systèmes auront plusieurs couches
+de sécurité impliquées.
+
+It's a good idea to conduct something like
+a Layers of Protection Analysis, or LOPA.
+C'est une bonne idée de mener quelque chose comme
+une analyse des couches de protection, ou LOPA.
+
+After making your system as safe as possible,
+a LOPA helps you add in safety controls like
+automated responses or warnings.
+Après avoir rendu votre système aussi sûr que possible,
+un LOPA vous aide à ajouter des contrôles de sécurité tels que
+des réponses ou des avertissements automatisés.
+
+Some of these may be cautionary, like your
+car’s check engine light, while others will need your
+immediate attention, like a fire alarm.
+Certains d'entre eux peuvent être mis en garde, comme
+le voyant de contrôle du moteur de votre voiture, tandis que d'autres nécessiteront votre
+attention immédiate, comme une alarme incendie.
+
+Keep building outward and make sure every
+alarm is properly prioritized.
+Continuez à construire vers l'extérieur et assurez-vous que chaque
+alarme est correctement hiérarchisée.
+
+But only if they’re really needed – because
+too many alarms can actually do more harm
+than good.
+Mais seulement si elles sont vraiment nécessaires, car
+trop d'alarmes peuvent en fait faire plus de mal
+que de bien.
+
+Take the Texaco Pembroke Refinery explosion,
+for example.
+Prenez l'explosion de la raffinerie Texaco Pembroke,
+par exemple.
+
+In 1994, a large explosion ripped through the
+Pembroke Refinery in Wales, injuring 26 people.
+En 1994, une grande explosion a ravagé la
+raffinerie de Pembroke au Pays de Galles, blessant 26 personnes.
+
+The blast was heard from up to 40 miles
+away and its shockwave damaged properties
+within a 10-mile radius.
+L'explosion a été entendue jusqu'à 40 miles de
+distance et ses propriétés endommagées par l'onde de choc
+dans un rayon de 10 miles.
+
+There were many reasons why this explosion occurred,
+but one was the excessive number of alarms that the
+operators had to respond to during the emergency.
+Il y avait plusieurs raisons pour lesquelles cette explosion s'est produite,
+mais l'une était le nombre excessif d'alarmes auxquelles les
+opérateurs ont dû répondre pendant l'urgence.
+
+2,040 total alarms were in the system, with
+87% being designated as “high priority”.
+Au total, 2 040 alarmes se trouvaient dans le système, dont
+87 % étaient désignées comme "hautement prioritaires".
+
+But many of them were just given that
+designation without really addressing how
+dangerous they actually were.
+Mais beaucoup d'entre eux ont simplement reçu cette
+désignation sans vraiment dire à quel point
+ils étaient réellement dangereux.
+
+The whole event happened over several
+hours, but in the last 11 minutes alone,
+operators had to respond to 275 alarms!
+Tout l'événement s'est déroulé sur plusieurs
+heures, mais au cours des 11 dernières minutes seulement, les
+opérateurs ont dû répondre à 275 alarmes !
+
+They were unable to tell which were critical
+to safety and which were not, effectively
+rendering the alarms useless.
+Ils étaient incapables de dire lesquels étaient critiques
+pour la sécurité et lesquels ne l'étaient pas,
+rendant ainsi les alarmes inutiles.
+
+So your LOPA needs to help establish an
+adequate number of alarms and fail-safes
+set in place, but not too many.
+Votre LOPA doit donc aider à établir un
+nombre adéquat d'alarmes et de sécurités
+mises en place, mais pas trop.
+
+And it doesn’t stop there. At some point, you
+should also put in automated systems that will
+shut down the process when any issues arise.
+Et ça ne s'arrête pas là.  À un moment donné, vous
+devez également mettre en place des systèmes automatisés qui
+arrêteront le processus en cas de problème.
+
+One of the problems with the Chernobyl
+accident was that the operators actually disabled
+the automatic shutdown mechanisms,
+L'un des problèmes de l'
+accident de Tchernobyl était que les opérateurs avaient en fait désactivé
+les mécanismes d'arrêt automatique
+
+and the reactor was too unstable by the time
+they tried to shut it down themselves.
+et que le réacteur était trop instable au moment où
+ils ont essayé de l'arrêter eux-mêmes.
+
+You might also need physical protection systems, like
+ditches around your plant or some high, sturdy walls.
+Vous pourriez également avoir besoin de systèmes de protection physique, comme des
+fossés autour de votre usine ou des murs hauts et solides.
+
+And you definitely need not only a plant-wide
+response system, but also an emergency community
+response plan.
+Et vous avez certainement besoin non seulement d'un
+système d'intervention à l'échelle de l'usine, mais également d'un
+plan d'intervention communautaire d'urgence.
+
+For nuclear power plants in the US, the Nuclear
+Regulatory Commission makes sure that each one has
+a thorough emergency response system set in place.
+Pour les centrales nucléaires aux États-Unis, la
+Commission de réglementation nucléaire s'assure que chacune dispose d'
+un système d'intervention d'urgence complet mis en place.
+
+They require every plant to have a full-scale
+exercise at least once every 2 years
+Ils exigent que chaque usine ait un
+exercice à grande échelle au moins une fois tous les 2 ans
+
+to ensure everyone involved, from the operators to the
+local government, are fully prepared for the worst.
+pour s'assurer que toutes les personnes impliquées, des opérateurs au
+gouvernement local, sont pleinement préparées au pire.
+
+If any of this seems like too much, just remember
+that people’s lives are often in your hands.
+Si tout cela semble trop, rappelez-vous simplement
+que la vie des gens est souvent entre vos mains.
+
+While you can’t eliminate problems entirely,
+you can do a lot to prevent them.
+Bien que vous ne puissiez pas éliminer complètement les problèmes,
+vous pouvez faire beaucoup pour les prévenir.
+
+Something like a nuclear power plant can actually
+be pretty safe if you follow the proper protocols,
+and put an emphasis on safety culture.
+Quelque chose comme une centrale nucléaire peut en fait
+être assez sûr si vous suivez les protocoles appropriés
+et mettez l'accent sur la culture de sécurité.
+
+But fail to do so, and it can have catastrophic effects.
+Mais si vous ne le faites pas, cela peut avoir des effets catastrophiques.
+
+So just make sure you treat safety with the same level of importance as all the other engineering concepts you’ll learn and you’ll be on the best path to success!
+Assurez-vous donc de traiter la sécurité avec le même niveau d'importance que tous les autres concepts d'ingénierie que vous apprendrez et vous serez sur la meilleure voie vers le succès !
+
+Today we learned all about safety and its
+impact on engineering.
+Aujourd'hui, nous avons tout appris sur la sécurité et son
+impact sur l'ingénierie.
+
+We saw the difference between occupational safety and public safety and found out how to analyze and review a process for any potential dangers with things like HAZOP.
+Nous avons vu la différence entre la sécurité au travail et la sécurité publique et découvert comment analyser et revoir un processus pour tout danger potentiel avec des choses comme HAZOP.
+
+Then we learned about LOPA and the dangers of having too many alarms, and ended on how important it is to adopt a good mindset of safety culture.
+Ensuite, nous avons appris la LOPA et les dangers d'avoir trop d'alarmes, et avons terminé sur l'importance d'adopter un bon état d'esprit de la culture de sécurité.
+
+I’ll see you next time, when we’ll talk
+about environmental engineering.
+Je vous verrai la prochaine fois, quand nous parlerons
+d'ingénierie environnementale.
+
+Thank you to CuriosityStream for supporting
+PBS Digital Studios.
+Merci à CuriosityStream pour son soutien à
+PBS Digital Studios.
+
+CuriosityStream is a subscription streaming service that offers documentaries and non-fiction titles from a variety of filmmakers, including CuriosityStream originals.
+CuriosityStream est un service de streaming par abonnement qui propose des documentaires et des titres non romanesques de divers cinéastes, y compris les originaux de CuriosityStream.
+
+For instance, CuriosityStream has “Storm Chaser’s Guide,” which lets you (safely, from home) find out what it’s like to sit through a howling hurricane.
+Par exemple, CuriosityStream a "Storm Chaser's Guide", qui vous permet (en toute sécurité, depuis chez vous) de découvrir ce que c'est que de s'asseoir à travers un ouragan hurlant.
+
+Emmy award-winning storm chaser Jeff Piotrowski takes us on a breathtaking journey into the eyewall of Hurricane Harvey,
+Jeff Piotrowski, chasseur de tempêtes primé aux Emmy Awards, nous emmène dans un voyage à couper le souffle dans le mur oculaire de l'ouragan Harvey, l'
+
+one of the deadliest and costliest storms in U.S. history, as it makes landfall in Rockport, Texas.
+une des tempêtes les plus meurtrières et les plus coûteuses de l'histoire des États-Unis, alors qu'il touche terre à Rockport, au Texas.
+
+You can learn more at curiositystream.com/crashcourse
+and use the code crashcourse during the sign-up process.
+Vous pouvez en savoir plus sur
+le site tourismstream.com/crashcourse et utiliser le code crashcourse lors du processus d'inscription.
+
+Crash Course Engineering is produced in association
+with PBS Digital Studios.
+Crash Course Engineering est produit en association
+avec PBS Digital Studios.
+
+Wanna keep exploring our world? Check out
+Braincraft.
+Voulez-vous continuer à explorer notre monde ?  Découvrez
+Braincraft.
+
+Braincraft is a show that discusses common
+questions related to neuroscience and psychology.
+Braincraft est une émission qui aborde des
+questions courantes liées aux neurosciences et à la psychologie.
+
+Host Vanessa Hill will help you understand
+human motivations in real world situations,
+exploring why we act the way we do.
+L'animatrice Vanessa Hill vous aidera à comprendre
+les motivations humaines dans des situations réelles, en
+explorant pourquoi nous agissons comme nous le faisons.
+
+Crash Course is a Complexly production and this
+episode was filmed in the Doctor Cheryl C. Kinney
+Studio with the help of these wonderful people.
+Crash Course est une production de Complexly et cet
+épisode a été filmé dans le studio du docteur Cheryl C. Kinney
+avec l'aide de ces personnes merveilleuses.
+
+And our amazing graphics team is Thought Cafe.
+Et notre incroyable équipe graphique est Thought Cafe.
+

@@ -1,0 +1,855 @@
+You can review content from Crash Course Organic Chemistry with the Crash Course App,
+Vous pouvez consulter le contenu de Crash Course Organic Chemistry avec l'application Crash Course,
+
+available now for Android and iOS devices.
+disponible dès maintenant pour les appareils Android et iOS.
+
+Hi! I’m Deboki Chakravarti and welcome 
+to Crash Course Organic Chemistry!
+Salut!  Je suis Deboki Chakravarti et bienvenue
+au cours intensif de chimie organique !
+
+The German chemist August Kekulé is one of those people who’s often considered a founder of modern organic chemistry.
+Le chimiste allemand August Kekulé fait partie de ces personnes souvent considérées comme les fondateurs de la chimie organique moderne.
+
+In a speech at a symposium in 1890, he told the 
+audience that, thirty years earlier,
+Dans un discours prononcé lors d'un symposium en 1890, il raconta au
+public que, trente ans plus tôt,
+
+he was dozing near a fire in Ghent, Belgium when the image 
+of a snake devouring its own tail came to him.
+il somnolait près d'un feu à Gand, en Belgique, lorsque l'image
+d'un serpent dévorant sa propre queue lui vint à l'esprit.
+
+This dream, he said, was what led him 
+to the chemical structure of benzene:
+Ce rêve, dit-il, est ce qui l'a conduit
+à la structure chimique du benzène :
+
+a flat ring of six carbon 
+atoms with the formula C6H6.
+un anneau plat de six atomes de
+carbone avec la formule C6H6.
+
+This story has been repeated widely,  
+Cette histoire a été largement répétée,
+
+but some scientists have questioned it.
+mais certains scientifiques l'ont remise en question.
+
+In 1854, for example, an article was published in a French journal that 
+showed benzene as a hexagonal ring.
+En 1854, par exemple, un article a été publié dans une revue française qui
+montrait le benzène sous la forme d'un anneau hexagonal.
+
+The author was Auguste Laurent,  
+L'auteur était Auguste Laurent,
+
+but the work was actually published after 
+his death by some of his colleagues.
+mais l'ouvrage a en fait été publié après
+sa mort par certains de ses collègues.
+
+Laurent is probably most famous for 
+his work developing the functional group nomenclature that we still use today –
+Laurent est probablement le plus célèbre pour
+son travail de développement de la nomenclature des groupes fonctionnels que nous utilisons encore aujourd'hui
+
+that whole business of alkanes ending 
+in “ane”, alkenes in “ene,” and so on.
+- toute cette histoire d'alcanes se terminant
+par "ane", d'alcènes par "ene", etc.
+
+Other scientists have speculated that Kekulé chose to describe his “revelation” as a dream to avoid sharing credit with his colleagues!
+D'autres scientifiques ont émis l'hypothèse que Kekulé a choisi de décrire sa "révélation" comme un rêve pour éviter de partager le crédit avec ses collègues !
+
+Perhaps that’s true, but for now it’s 
+his name that we find in textbooks.
+C'est peut-être vrai, mais pour l'instant c'est
+son nom que l'on retrouve dans les manuels scolaires.
+
+In any case, I'm not here 
+to debate science history.
+En tout cas, je ne suis pas ici
+pour débattre de l'histoire des sciences.
+
+So let’s take a look at what makes benzene,
+Voyons donc ce qui rend le benzène
+
+and other aromatic compounds, so special.
+et d'autres composés aromatiques si spéciaux.
+
+[Theme music]
+[Musique à thème]
+
+Benzene is drawn in a couple different ways.
+Le benzène est dessiné de différentes manières.
+
+We can think of it with alternating 
+single and double bonds,  
+Nous pouvons y penser avec des
+liaisons simples et doubles alternées,
+
+or we can imagine the pi bonds 
+“smeared” across the whole molecule,  
+ou nous pouvons imaginer les liaisons pi
+" étalées" sur toute la molécule,
+
+and represent that resonance hybrid with 
+a dotted line or a circle in the middle.
+et représenter cet hybride de résonance avec
+une ligne pointillée ou un cercle au milieu.
+
+As the statistician George Box famously said, 
+“all models are wrong, but some are useful.”
+Comme l'a si bien dit le statisticien George Box,
+"tous les modèles sont faux, mais certains sont utiles".
+
+And that’s definitely the case here!
+Et c'est définitivement le cas ici !
+
+Neither diagram is completely right or 
+completely wrong, but both have their uses.
+Aucun des deux schémas n'est complètement correct ou
+complètement faux, mais les deux ont leur utilité.
+
+The “alternating bonds” version is 
+helpful when we’re trying to show which way electrons move in mechanisms.
+La version "liaisons alternées" est
+utile lorsque nous essayons de montrer de quelle manière les électrons se déplacent dans les mécanismes.
+
+It’s also better if we’re trying to 
+draw polycyclic aromatic hydrocarbons –
+C'est également mieux si nous essayons de
+dessiner des hydrocarbures aromatiques polycycliques - des
+
+molecules with joined-up aromatic rings.
+molécules avec des anneaux aromatiques joints.
+
+On the other hand, the "smeared" 
+version more accurately represents the electron distribution in the benzene ring.
+D'autre part, la version "enduite"
+représente plus précisément la distribution des électrons dans le cycle benzénique.
+
+You see, carbon-carbon double bonds 
+are typically 0.134 nanometers long,  
+Vous voyez, les doubles liaisons carbone-carbone
+mesurent généralement 0,134 nm de long,
+
+while single carbon bonds are slightly longer.
+tandis que les liaisons carbone simples sont légèrement plus longues.
+
+So, if you drew out Kekulé’s model, 
+you’d expect a sort of distorted hexagon.
+Donc, si vous dessiniez le modèle de Kekulé,
+vous vous attendriez à une sorte d'hexagone déformé.
+
+But in a famous paper published in 1929,  
+Mais dans un article célèbre publié en 1929,
+
+the English crystallographer Kathleen 
+Lonsdale showed that benzene rings are flat,  
+la cristallographe anglaise Kathleen
+Lonsdale a montré que les anneaux de benzène sont plats,
+
+symmetrical around a central point, and 
+the bonds were all the same length.
+symétriques autour d'un point central, et que
+les liaisons étaient toutes de la même longueur.
+
+Plus, in chemical reactions,
+De plus, dans les réactions chimiques, le
+
+benzene doesn't react like an alkene with some double and single carbon bonds.
+benzène ne réagit pas comme un alcène avec des liaisons carbone doubles et simples.
+
+For example, alkenes react 
+easily with molecular bromine –
+Par exemple, les alcènes réagissent
+facilement avec le brome moléculaire -
+
+the bromines add with anti-addition 
+across the double bond.
+les bromes s'ajoutent avec anti-addition à
+travers la double liaison.
+
+This doesn’t happen with benzene.
+Cela ne se produit pas avec le benzène.
+
+We need harsher conditions or a catalyst to 
+make anything happen, and even when it does,  
+Nous avons besoin de conditions plus dures ou d'un catalyseur pour
+faire bouger les choses, et même lorsque c'est le cas,
+
+only one bromine atom adds 
+and we keep the pi bonds.
+un seul atome de brome s'ajoute
+et nous gardons les liaisons pi.
+
+It turns out that the electron distribution in benzene actually makes it less nucleophilic than a simple alkene, thanks to conjugation.
+Il s'avère que la distribution des électrons dans le benzène le rend en fait moins nucléophile qu'un simple alcène, grâce à la conjugaison.
+
+Essentially, in a molecule with alternating 
+double and single carbon-carbon bonds,  
+Essentiellement, dans une molécule avec des
+liaisons carbone-carbone simples et doubles alternées,
+
+the p orbitals overlap, giving all of 
+the bonds partial double-bond character.
+les orbitales p se chevauchent, donnant à toutes
+les liaisons un caractère de double liaison partielle.
+
+And because benzene is a ring, the p 
+orbitals on each carbon atom align.
+Et parce que le benzène est un anneau, les
+orbitales p de chaque atome de carbone s'alignent.
+
+We get something kind of like a hamburger –
+Nous obtenons quelque chose comme un hamburger -
+
+the pi bonds are the “bread” and 
+the sigma bonds are the “meat."
+les liaisons pi sont le "pain" et
+les liaisons sigma sont la "viande".
+
+There are six pi electrons, 
+one for each p orbital,  
+Il y a six électrons pi,
+un pour chaque orbitale p,
+
+and they’re evenly distributed around the ring.
+et ils sont répartis uniformément autour de l'anneau.
+
+So we say the pi bonds in benzene are delocalized.
+Donc  on dit que les liaisons pi dans le benzène sont délocalisées.
+
+Overall, a pi bond in benzene 
+has lower electron density than in an alkene,
+Dans l'ensemble, une liaison pi dans le benzène
+a une densité d'électrons inférieure à celle d'un alcène,
+
+where electrons are 
+localized between two carbon atoms.
+où les électrons sont
+localisés entre deux atomes de carbone.
+
+And this explains the lower reactivity –
+Et cela explique la réactivité plus faible -
+
+with delocalized electrons, benzene is less 
+effective at polarizing other molecules!
+avec des électrons délocalisés, le benzène est moins
+efficace  à polariser d'autres molécules !
+
+Benzene is part of a family of aromatic compounds.
+Le benzène fait partie d'une famille de composés aromatiques.
+
+The name comes from the fact that many of these 
+substances were first extracted from smelly stuff.
+Le nom vient du fait que bon nombre de ces
+substances ont d'abord été extraites de substances malodorantes.
+
+For example, the smell of wintergreen 
+leaves comes from methyl salicylate,  
+Par exemple, l'odeur des feuilles de gaulthérie
+provient du salicylate de méthyle,
+
+while the smell of cinnamon 
+comes from cinnamaldehyde.
+tandis que l'odeur de  la cannelle
+provient du cinnamaldéhyde.
+
+Besides their scents, aromatic compounds 
+all share four key characteristics.
+Outre leurs parfums, les composés aromatiques
+partagent tous quatre caractéristiques clés.
+
+First, aromatics are cyclic –
+Premièrement, les aromatiques sont cycliques :
+
+they all have a ring structure.
+ils ont tous une structure cyclique.
+
+Second, their rings are planar, 
+which means they're flat.
+Deuxièmement, leurs cycles sont plans,
+ce qui signifie qu'ils  re plat.
+
+Third, they have conjugation 
+throughout the entire ring –
+Troisièmement, ils ont une conjugaison
+dans tout l'anneau -
+
+the "smeared", continuous stretch of delocalized 
+pi electrons we’ve been talking about.
+l'étendue continue "enduite" d'électrons pi délocalisés dont
+nous avons parlé.
+
+And finally, they follow Hückel’s rule.
+Et enfin, ils suivent la règle de Hückel.
+
+This rule is named after German 
+chemist and physicist Erich Hückel,  
+Cette règle porte le nom du
+chimiste et physicien allemand Erich Hückel,
+
+who noticed that if the number of pi 
+electrons in a compound equals 4n+2,  
+qui a remarqué que si le nombre d'
+électrons pi dans un composé est égal à 4n+2,
+
+where n is an integer, then 
+the compound is aromatic.
+où n est un entier, alors
+le composé est aromatique.
+
+For example, let's say n equals 1 –
+Par exemple, disons que n est égal à 1 -
+
+so, 4 times 1, plus 2, equals 6 pi electrons.
+donc, 4 fois 1, plus 2, équivaut à 6 électrons pi.
+
+Benzene has 6 pi electrons, and it’s aromatic!
+Le benzène a 6 électrons pi, et c'est aromatique !
+
+And if n equals 2, we get 4 times 
+2, plus 2, equals 10 pi electrons.
+Et si n est égal à 2, nous obtenons 4 fois
+2, plus 2, équivaut à 10 électrons pi.
+
+That works for naphthalene, 
+which is also aromatic!
+Cela fonctionne pour le naphtalène,
+qui est également aromatique !
+
+By the way, if we drew naphthalene with 
+circles in the middle of each ring,  
+Soit dit en passant, si nous avons dessiné du naphtalène avec des
+cercles au milieu de chaque anneau,
+
+it sort of implies two pi bonds in the 
+middle where the rings are joined –
+cela implique en quelque sorte deux liaisons pi au
+milieu où les anneaux sont joints -
+
+which isn't the case.
+ce qui n'est pas le cas.
+
+So this is why it's better to use the "alternating 
+bonds" model when we're drawing polycyclics!
+C'est pourquoi il est préférable d'utiliser le
+modèle des "liaisons alternées" lorsque nous dessinons des polycycliques !
+
+Now, not all aromatic compounds 
+are perfect 6-carbon hexagons.
+Maintenant, tous les composés aromatiques ne
+sont pas des hexagones parfaits à 6 carbones.
+
+We see aromaticity in certain 
+ions, too, like a tropylium cation:
+Nous voyons également de l'aromaticité dans certains
+ions, comme un cation tropylium :
+
+a 7-membered ring with a positive charge.
+un cycle à 7 chaînons avec une charge positive.
+
+It has an empty p orbital, and since we can draw resonance structures that delocalize the positive charge and the six pi electrons around the ring,
+Il a une orbitale p vide, et puisque nous pouvons dessiner des structures de résonance qui délocalisent la charge positive et les six électrons pi autour de l'anneau,
+
+the pi electron system is continuous.
+le système d'électrons pi est continu.
+
+So it's cyclic, planar, conjugated, and 
+with those 6 pi electrons, like benzene,  
+C'est donc cyclique, planaire, conjugué, et
+avec ces 6 électrons pi, comme le benzène,
+
+it follows Hückel’s rule.
+il suit la règle de Hückel.
+
+It's aromatic!
+C'est aromatique !
+
+And tropylium salts, such as tropylium 
+bromide, are remarkably stable.
+  
+Et les sels de tropylium, tels que le
+bromure de tropylium, sont remarquablement stables.
+
+The cyclopentadienyl anion 
+is an aromatic ion, too.
+L'anion cyclopentadiényle
+est également un ion aromatique.
+
+A strong base can deprotonate cyclopentadiene, 
+putting a pair of electrons into a p orbital.
+Une base forte peut déprotoner le cyclopentadiène,
+mettant une paire d'électrons dans une orbitale p.
+
+The anion that results is cyclic,  
+L'anion qui en résulte est cyclique,
+
+planar, has a continuous series of 
+p orbitals, and has 6 pi electrons!
+planaire, a une série continue d'
+orbitales p et a 6 électrons pi !
+
+We also have heterocyclic 
+compounds with aromaticity,  
+Nous avons également des
+composés hétérocycliques avec aromaticité,
+
+which are rings that include 
+an atom other than carbon.
+qui sont des cycles qui incluent
+un atome autre que le carbone.
+
+For example, pyridine is C5H5N.
+Par exemple, la pyridine est C5H5N.
+
+It's cyclic, planar, and has 
+6 delocalized pi electrons,  
+Il est cyclique, planaire et possède
+6 électrons pi délocalisés, dont l'
+
+one of which is coming from 
+the nitrogen, so it’s aromatic!
+un provient de
+l'azote, donc c'est aromatique !
+
+Nitrogen also has a lone pair in an sp2 orbital, 
+but it’s in the same plane as the sigma bonds.
+L'azote a également une paire isolée dans une orbitale sp2,
+mais elle se trouve dans le même plan que les liaisons sigma.
+
+You know, the meat part of the molecule “burger”!
+Vous savez, la partie viande de la molécule « burger » !
+
+And because of the trigonal planar 
+geometry,
+Et à cause de la géométrie planaire
+trigonale,
+
+the lone pair of electrons can’t be delocalized into the ring (or 
+burger bun) and break Hückel’s rule.
+la seule paire d'électrons ne peut pas être délocalisée dans l'anneau (ou le
+pain à hamburger) et enfreindre la règle de Hückel.
+
+In fact, this lone pair is 
+available to accept a proton,  
+En fait, cette paire isolée est
+disponible pour accepter un proton
+
+which is why we’ll see pyridine used 
+as a base in some organic reactions.
+,  c'est pourquoi nous verrons la pyridine utilisée
+comme base dans certaines réactions organiques.
+
+By contrast, the geometry of this heterocyclic compound pyrrole means that its nitrogen lone pair does contribute to the pi system.
+En revanche, la géométrie de ce pyrrole composé hétérocyclique signifie que sa paire isolée d'azote contribue au système pi.
+
+Just like the cyclopentadienyl anion, we 
+end up with 6 delocalized pi electrons,  
+Tout comme l'anion cyclopentadiényle, nous nous retrouvons
+avec 6 électrons pi délocalisés,
+
+and pyrrole is aromatic, too.
+et le pyrrole est également aromatique.
+
+BUT this lone pair is all tied up with 
+its buddies, making an aromatic pi system.
+MAIS cette paire solitaire est entièrement liée à
+ses copains, créant un système pi aromatique.
+
+So pyrrole can't be used as a base like pyridine.
+Le pyrrole ne peut donc pas être utilisé comme base comme la pyridine.
+
+The same goes for furan, only there's 
+an oxygen instead of a nitrogen.
+Il en va de même pour le furane, sauf qu'il y a
+un oxygène au lieu d'un azote.
+
+Because of this compound's geometry, only one of the oxygen lone pairs is incorporated into the ring system,
+En raison de la géométrie de ce composé, une seule des paires isolées d'oxygène est incorporée dans le système cyclique
+
+so we've still got 6 delocalized pi electrons.
+, nous avons donc encore 6 électrons pi délocalisés.
+
+And this makes the oxygen atom sp2 hybridized.
+Et cela rend l'atome d'oxygène sp2 hybride.
+
+So far, we've looked at 
+lots of aromatic compounds,  
+Jusqu'à présent, nous avons examiné
+de nombreux composés aromatiques,
+
+but plenty of cyclic compounds 
+don't quite make the cut.
+mais de nombreux composés cycliques
+ne sont pas tout à fait à la hauteur.
+
+For example, cyclo-deca-penta-ene follows 
+Hückle’s rule with 10 pi electrons,  
+Par exemple, le cyclo-déca-penta-ène suit
+la règle de Hückle avec des électrons de 10 pi,
+
+but it's not aromatic.
+mais il n'est pas aromatique.
+
+If it were planar, a 10-membered 
+ring would have 144º angles,  
+S'il était plan, un
+anneau à 10 chaînons aurait des angles de 144º,
+
+which is much larger than the comfy 
+120º angles of sp2 hybridized carbons.
+ce qui est beaucoup plus grand que les confortables
+angles de 120º des carbones hybrides sp2.
+
+So this ring puckers to become non-planar, 
+breaking the overlap between the p orbitals.
+Donc, cet anneau se plisse pour devenir non planaire,
+rompant le chevauchement entre les orbitales p.
+
+No conjugation, no aromaticity – sorry!
+Pas de conjugaison, pas d'aromaticité – désolé !
+
+There are also some cyclic, planar, conjugated 
+compounds that don’t follow Hückel’s rule.
+Il existe également des composés cycliques, plans et
+conjugués qui ne suivent pas la règle de Hückel.
+
+They look good at first, but then 
+you realize something is a bit off –
+Ils ont l'air bien au début, mais ensuite
+vous réalisez que quelque chose ne va pas,
+
+like creepy alien clones!
+comme des clones extraterrestres effrayants !
+
+These are antiaromatic compounds, and 
+tend to be very unstable with 4n electrons
+Ce sont des composés antiaromatiques et
+ont tendance à être très instables avec les électrons 4n
+
+(where n is still an integer).
+(où n est toujours un nombre entier).
+
+One antiaromatic example is 
+cyclobutadiene, with 4 pi electrons.
+Un exemple antiaromatique est le
+cyclobutadiène, avec 4 électrons pi.
+
+Or there's pentalene, which looks a little bit 
+like naphthalene, but it has 8 pi electrons.
+Ou il y a le pentalène, qui ressemble un peu au
+naphtalène, mais il a 8 électrons pi.
+
+But while this 8-membered cyclo-octa-tetra-ene gets close to being antiaromatic because it's cyclic and has 8 pi electrons,   
+Mais alors que ce cyclo-octa-tétra-ène à 8 chaînons se rapproche d'être antiaromatique parce qu'il est cyclique et a 8 électrons pi,
+
+it's not planar.
+il n'est pas plan.
+
+Because it’s large enough to bend, it adopts 
+a “tub” shape to avoid antiaromaticity.
+Parce qu'il est assez grand pour se plier, il adopte
+une forme de "cuve" pour éviter l'antiaromaticité.
+
+In the lab, when you have some stuff 
+in a flask,
+En laboratoire, lorsque vous avez des éléments
+dans un flacon,
+
+Nuclear Magnetic Resonance can be a great way to find out 
+whether a molecule has aromaticity.
+la résonance magnétique nucléaire peut être un excellent moyen de savoir
+si une molécule a une aromaticité.
+
+We met NMR in episode 26, so rewatch 
+that video if you want a refresher.
+Nous avons rencontré NMR dans l'épisode 26, alors revoyez
+cette vidéo si vous voulez un rappel.
+
+But we'll try to ease back into 
+reading spectra with an example!
+Mais nous allons essayer de revenir à la
+lecture des spectres avec un exemple !
+
+This is the proton NMR spectrum of 4-chlorophenol,  
+Il s'agit du spectre RMN du proton du 4-chlorophénol,
+
+which is a benzene ring with a Cl 
+on one side, and an OH at the other.
+qui est un cycle benzénique avec un Cl
+d'un côté et un OH de l'autre.
+
+There are 3 peaks here –
+Il y a 3 pics ici -
+
+and remember, each peak represents a 
+proton, or group of protons, in a molecule.
+et rappelez-vous que chaque pic représente un
+proton, ou un groupe de protons, dans une molécule.
+
+we can see that the peak at 9.5 ppm with an integral of 1 is the one OH proton on the phenol – easy!
+nous pouvons voir que le pic à 9,5 ppm avec une intégrale de 1 est le proton OH sur le phénol - facile !
+
+Now, the protons attached to a benzene 
+ring are a little less downfield –
+Désormais, les protons attachés à un
+anneau de benzène sont un peu moins en aval :
+
+they're between 8.5 and 6.5 ppm or so.
+ils se situent entre 8,5 et 6,5 ppm environ.
+
+Because of the way the pi orbital system 
+interacts with the magnetic field,  
+En raison de la façon dont le système orbital pi
+interagit avec le champ magnétique,
+
+these protons are quite deshielded.
+ces protons sont assez déblindés.
+
+And there are 2 peaks in this region, each with 
+an integral of 2, which represents 2 protons.
+Et il y a 2 pics dans cette région, chacun avec
+une intégrale de 2, ce qui représente 2 protons.
+
+But looking at the structure of 4-chlorophenol,  
+Mais en regardant la structure du 4-chlorophénol,
+
+we can see there are four 
+protons on the aromatic ring.
+nous pouvons voir qu'il y a quatre
+protons sur le cycle aromatique.
+
+We only see two peaks in the NMR spectrum 
+because this compound is symmetrical –
+Nous ne voyons que deux pics dans le spectre RMN
+car ce composé est symétrique :
+
+if you put a mirror though the middle of the ring,  
+si vous placez un miroir au milieu de l'anneau,
+
+the protons are effectively 
+the same on both sides.
+les protons sont effectivement
+les mêmes des deux côtés.
+
+In other words, they're chemically 
+equivalent to each other.
+En d'autres termes, ils sont chimiquement
+équivalents les uns aux autres.
+
+Specifically, the two protons near the 
+chlorine are equivalent to each other,  
+Plus précisément, les deux protons proches du
+chlore sont équivalents l'un à l'autre
+
+and so are the two protons near the hydroxide.
+, tout comme les deux protons proches de l'hydroxyde.
+
+The chlorine and hydroxide have slightly 
+different shielding effects,
+Le chlore et l'hydroxyde ont
+des effets de protection légèrement différents
+
+which is why we see 2 peaks, each with an integral of 2.
+, c'est pourquoi nous voyons 2 pics, chacun avec une intégrale de 2.
+
+Now that we've done some practice,  
+Maintenant que nous nous sommes entraînés,
+
+let's try to figure out an aromatic 
+compound based on the proton NMR spectrum.
+essayons de trouver un
+composé aromatique basé sur le spectre RMN du proton.
+
+We know its formula: C10H12O.
+On connaît sa formule : C10H12O.
+
+And we have an IR spectrum with a carbonyl 
+stretch, so we know it's an aldehyde or ketone.
+Et nous avons un spectre IR avec un
+étirement carbonyle, nous savons donc qu'il s'agit d'un aldéhyde ou d'une cétone.
+
+So let's dig into these NMR peaks and integrals!
+Alors creusons dans ces pics et intégrales RMN !
+
+By looking at our NMR table, we know that an 
+aldehyde proton would appear between 9 and 10 ppm.
+En regardant notre tableau RMN, on sait qu'un
+proton aldéhyde apparaîtrait entre 9 et 10 ppm.
+
+There's no peak there, so it looks 
+like our mystery compound is a ketone.
+Il n'y a pas de pic ici, il semble donc
+que notre composé mystérieux soit une cétone.
+
+Next, let’s look at the 
+huge peak over on the right,  
+Ensuite, regardons l'
+énorme pic sur la droite,
+
+with an integral of 6 – that’s weird, right?
+avec une intégrale de 6 - c'est bizarre, non ?
+
+One carbon can't have 6 protons attached!
+Un carbone ne peut pas avoir 6 protons attachés !
+
+But! We know that chemically equivalent 
+protons can all combine into 1 peak.
+Mais!  Nous savons que les protons chimiquement équivalents
+peuvent tous se combiner en un seul pic.
+
+So there has to be some symmetry going on 
+here, and we just need to puzzle it out.
+Il doit donc y avoir une certaine symétrie
+ici, et nous avons juste besoin de résoudre le problème.
+
+6 hydrogen atoms can come from the protons 
+on 2 chemically equivalent methyl groups,  
+6 atomes d'hydrogène peuvent provenir des protons
+sur 2 groupes méthyle chimiquement équivalents,
+
+which could be attached to the 
+same atom – let’s try a carbon!
+qui pourraient être attachés au
+même atome - essayons un carbone !
+
+So here we have an isopropyl group 
+with 6 chemically equivalent protons,  
+Nous avons donc ici un groupe isopropyle
+avec 6 protons chimiquement équivalents,
+
+because there’s a line of 
+symmetry though the middle.
+car il y a une ligne de
+symétrie au milieu.
+
+If we look a little downfield, there’s a 
+peak at 3.25 ppm with an integral of 1.
+Si nous regardons un peu plus bas, il y a un
+pic à 3,25 ppm avec une intégrale de 1.
+
+It looks like a CH group, but 
+it’s split into… well, lots.
+Cela ressemble à un groupe CH, mais
+il est divisé en… eh bien, beaucoup.
+
+Zooming in, we can count 7 split peaks.
+En zoomant, on peut compter 7 pics fractionnés.
+
+If the n+1 rule gives us 7, then n has to be 6, 
+and there must be 6 protons on adjacent carbons–
+Si la règle n+1 nous donne 7, alors n doit être 6,
+et il doit y avoir 6 protons sur les carbones adjacents -
+
+which fits with the isopropyl 
+group we just deduced!
+ce qui correspond au groupe isopropyle que
+nous venons de déduire !
+
+So on one end of our mystery ketone, 
+we have a CH group with two CH3 groups.
+Donc, à une extrémité de notre cétone mystère,
+nous avons un groupe CH avec deux groupes CH3.
+
+And at the other end, there's 
+a substituted benzene.
+Et à l'autre extrémité, il y a
+un benzène substitué.
+
+Time to tackle the benzene ring 
+peaks between 7.5 and 8 ppm!
+Il est temps de s'attaquer aux pics de l'anneau de benzène
+entre 7,5 et 8 ppm !
+
+The integrals suggest we have 2 sets 
+of 2 chemically equivalent protons,  
+Les intégrales suggèrent que nous avons 2 ensembles
+de 2 protons chimiquement équivalents,
+
+and 1 proton that’s a little different.
+et 1 proton qui est un peu différent.
+
+Adding those up, we know there are 5 protons 
+sticking off the benzene ring of this compound,  
+En additionnant ceux-ci, nous savons qu'il y a 5 protons qui
+collent sur le cycle benzénique de ce composé,
+
+so it only has one non-proton 
+thing substituted onto it.
+donc il n'y a qu'une seule chose non protonique qui lui
+est substituée.
+
+We'll just represent that as R for now!
+Nous allons simplement représenter cela comme R pour l'instant !
+
+From our NMR spectrum, we know our puzzle pieces:
+Grâce à notre spectre RMN, nous connaissons nos pièces de puzzle :
+
+a benzene ring with 1 substitution,  
+un cycle benzénique avec 1 substitution,
+
+an isopropyl group, and the ketone 
+that our IR spectrum told us about.
+un groupe isopropyle et la cétone
+dont notre spectre IR nous a parlé.
+
+Putting them together, we get... isobutyrophenone.
+En les mettant ensemble, on obtient... l'isobutyrophénone.
+
+We used what we've learned about aromatic 
+compounds and identified one using NMR – go us!
+Nous avons utilisé ce que nous avons appris sur les
+composés aromatiques et en avons identifié un à l'aide de la RMN - allez-y !
+
+In this episode, we saw that:
+Dans cet épisode, nous avons vu que : les
+
+Aromatic compounds are cyclic, planar, 
+conjugated, and satisfy Hückel's rule,
+composés aromatiques sont cycliques, plans,
+conjugués et satisfont à la règle de Hückel,
+
+The aromatic ring system is less 
+reactive than simple alkenes, and
+le système cyclique aromatique est moins
+réactif que les alcènes simples, et la
+
+Symmetry leads to chemically 
+equivalent protons in NMR spectra.
+symétrie conduit à des
+protons chimiquement équivalents dans les spectres RMN.
+
+We also briefly mentioned that 
+a halogen like bromine adds to  
+Nous avons également brièvement mentionné
+qu'un halogène comme le brome s'ajoute à
+
+a benzene ring in a different 
+way than a plain old alkene.
+un cycle benzénique d'une
+manière différente d'un vieil alcène ordinaire.
+
+And we’ll dive into how next time, when we look 
+at electrophilic aromatic substitution reactions.
+Et nous verrons comment la prochaine fois, lorsque nous examinerons
+les réactions de substitution aromatique électrophile.
+
+Until then, thanks for watching this 
+episode of Crash Course Organic Chemistry.
+En attendant, merci d'avoir regardé cet
+épisode du cours intensif de chimie organique.
+
+If you want to help keep all Crash 
+Course free for everybody, forever,  
+Si vous souhaitez aider à garder tous les
+cours d'initiation gratuits pour tout le monde, pour toujours,
+
+you can join our community on Patreon.
+vous pouvez rejoindre notre communauté sur Patreon.
+

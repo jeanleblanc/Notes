@@ -1,0 +1,870 @@
+With the question “what is life?”
+Avec la question "qu'est-ce que la vie?"
+
+largely addressed at the molecular level—and with
+companies setting up labs to test how thousands
+largement abordé au niveau moléculaire - et avec des
+entreprises mettant en place des laboratoires pour tester comment des milliers
+
+of chemicals affect living things—and with
+new technologies like immortalized cell lines
+de produits chimiques affectent les êtres vivants - et avec de
+nouvelles technologies comme les lignées cellulaires immortalisées
+
+and somatic-cell “cloning”—humanity
+could finally cure all disease and live forever…
+et le "clonage" de cellules somatiques - l'humanité
+pourrait enfin guérir toutes les maladies et vivre pour toujours...
+
+Except that didn’t happen, because—as
+usual—the natural world is a lot more complicated
+Sauf  cela ne s'est pas produit, car - comme d'
+habitude - le monde naturel est beaucoup plus compliqué
+
+than humans first thought.
+que les humains ne le pensaient au départ.
+
+Today, we’ll tell the story of the Human
+Genome Project.
+Aujourd'hui, nous allons raconter l'histoire du
+projet du génome humain.
+
+It’s really cool, you guys!
+C'est vraiment cool, les gars !
+
+[Intro Music Plays]
+[Intro Music Plays]
+
+Epistemically, the amount of information contained
+Sur le plan épistémique, la quantité d'informations contenues
+
+within even the smallest organism is simply
+mind-boggling.
+dans le plus petit organisme est tout simplement
+époustouflante.
+
+There is lots and lots of DNA.
+Il y a beaucoup, beaucoup d'ADN.
+
+Molecular biologists had figured out some
+genetic sequences in bacteria and the viruses
+Les biologistes moléculaires avaient découvert certaines
+séquences génétiques dans les bactéries et les virus
+
+that hijack them.
+qui les détournent.
+
+But mapping the human genome?
+Mais cartographier le génome humain ?
+
+That seemed like mapping every star in the
+universe.
+Cela ressemblait à cartographier toutes les étoiles de l'
+univers.
+
+Technologically, scientists in the 1950s and
+60s could barely sequence DNA and RNA at all.
+Technologiquement, les scientifiques des années 1950 et
+1960 pouvaient à peine séquencer l'ADN et l'ARN.
+
+One major breakthrough came in 1977, when
+British biochemist and double Nobel Prize
+Une percée majeure a eu lieu en 1977, lorsque
+le biochimiste britannique et double lauréat du prix
+
+winner Frederick Sanger developed a new, reliable
+way of decoding DNA that became known as Sanger
+Nobel Frederick Sanger a développé une nouvelle
+méthode fiable de décodage de l'ADN connue sous le nom de
+
+sequencing.
+séquençage Sanger.
+
+Sanger’s method became the standard way
+to sequence DNA until the late 1990s, when
+La méthode de Sanger est devenue le moyen standard
+de séquencer l'ADN jusqu'à la fin des années 1990, lorsque des
+
+“next-gen,” high-throughput sequencers
+became available.
+séquenceurs à haut débit de « nouvelle génération » sont
+devenus disponibles.
+
+It’s complicated, but Sanger sequencing
+cleverly works by chopping up an unknown sequence
+C'est compliqué, mais le séquençage de Sanger
+fonctionne intelligemment en coupant une séquence inconnue
+
+of DNA, tagging them with four different fluorescent
+dyes that bond to the four different nucleic
+d'ADN, en la marquant avec quatre colorants fluorescents différents
+qui se lient aux quatre bases nucléiques différentes
+
+bases, and then sorting out the segments by
+length.
+, puis en triant les segments par
+longueur.
+
+You can repeat the process many times to decode
+an entire genome.
+Vous pouvez répéter le processus plusieurs fois pour décoder
+un génome entier.
+
+One of the main issues is that decoding one
+sequence of DNA requires lots of copies of
+L'un des principaux problèmes est que le décodage d'une
+séquence d'ADN nécessite de nombreuses copies de
+
+that sequence.
+cette séquence.
+
+And copying DNA, up until the 1980s, took
+lots of time.
+Et copier l'ADN, jusque dans les années 1980, prenait
+beaucoup de temps.
+
+Like… weeks to months, and it was expensive… and, even
+Comme… des semaines à des mois, et c'était cher… et, même
+
+then, it didn’t always work!
+alors, ça n'a pas toujours fonctionné !
+
+Enter American biochemist and avid surfer
+Kary Mullis.
+Entrez le biochimiste américain et surfeur passionné
+Kary Mullis.
+
+In 1983, while working at the biotech firm
+Cetus in California, Mullis developed polymerase
+En 1983, alors qu'il travaillait dans la société de biotechnologie
+Cetus en Californie, Mullis a développé la réaction en
+
+chain reaction, or PCR.
+chaîne par polymérase, ou PCR.
+
+This was an automated way of taking advantage
+of a natural process for copying DNA.
+Il s'agissait d'un moyen automatisé de tirer parti
+d'un processus naturel de copie de l'ADN.
+
+In PCR, cycles of heating and cooling alternate
+between melting DNA and copying it using enzymes.
+Dans la PCR, les cycles de chauffage et de refroidissement alternent
+entre la fusion de l'ADN et sa copie à l'aide d'enzymes.
+
+PCR can make billions of copies every hour,
+helping scientists quickly replicate strands
+La PCR peut faire des milliards de copies chaque heure,
+aidant les scientifiques à répliquer rapidement des brins
+
+of DNA for study.
+d'ADN pour les étudier.
+
+Mullis and his bosses published a paper on
+PCR in 1985, and he went on to win the Nobel
+Mullis et ses patrons ont publié un article sur la
+PCR en 1985, et il a remporté le prix
+
+Prize.
+Nobel.
+
+You could say Mullis didn’t fit the mold
+of a traditional Nobelist.
+On pourrait dire que Mullis ne correspondait pas au moule
+d'un prix Nobel traditionnel.
+
+For one, he admitted to using LSD frequently
+in his youth.
+D'une part, il a admis avoir consommé fréquemment du LSD
+dans sa jeunesse.
+
+And—for a really weird two—in 1998, Mullis
+wrote an autobiography denying AIDS is a thing.
+Et – pour un couple vraiment bizarre – en 1998, Mullis a
+écrit une autobiographie niant que le sida est une chose.
+
+Which is just… really?
+C'est juste… vraiment ?
+
+That’s like “denying” pigeons!
+C'est comme « nier » les pigeons !
+
+Anyway.
+En tous cas. 
+
+Modern science doesn’t rely on individuals.
+La science moderne ne repose pas sur les individus.
+
+It’s a team sport.
+C'est un sport d'équipe.
+
+And the teams keep getting bigger.
+Et les équipes ne cessent de s'agrandir.
+
+By the late 1980s, some biologists began to
+discuss what had seemed impossible a decade
+À la fin des années 1980, certains biologistes ont commencé à
+discuter de ce qui semblait impossible une décennie
+
+before: completely decoding the human genome.
+auparavant : décoder complètement le génome humain.
+
+The stated idea was to understand the different
+versions of genes that seem linked to cancers
+L'idée énoncée était de comprendre les différentes
+versions des gènes qui semblent liés aux
+
+in order to develop better cancer-fighting
+drugs.
+cancers afin de développer de meilleurs
+médicaments anticancéreux.
+
+Another goal was political: this would be
+the Manhattan Project of biology.
+Un autre objectif était politique : ce serait
+le Manhattan Project of Biology.
+
+The U.S. would fund the future of medicine
+and attract the top biologists… hopefully
+Les États-Unis financeraient l'avenir de la médecine
+et attireraient les meilleurs biologistes… mais, espérons-le,
+
+no bombs, though.
+pas de bombes.
+
+Planning began in 1988, when the U.S. National
+Institutes of Health, or NIH, and the Department
+La planification a commencé en 1988, lorsque les National
+Institutes of Health des États-Unis, ou NIH, et le ministère
+
+of Energy agreed to work together.
+de l'Énergie ont convenu de travailler ensemble.
+
+And the federal government created the Office,
+later the Center, for Human Genome Research.
+Et le gouvernement fédéral a créé le Bureau,
+plus tard le Centre, de recherche sur le génome humain.
+
+The Center’s first director was the famous
+James Watson.
+Le premier directeur du Centre fut le célèbre
+James Watson.
+
+But he resigned early on,
+and physician and geneticist Francis S. Collins
+Mais il a démissionné très tôt
+et le médecin et généticien Francis S. Collins a
+
+took over.
+pris la relève.
+
+Collins, by the way, has a rock band called
+The Directors!
+Collins, au fait, a un groupe de rock qui s'appelle
+The Directors !
+
+The Human Genome Project officially began
+on October 1st, 1990, with the goal of sequencing
+Le projet du génome humain a officiellement débuté
+le 1er octobre 1990, dans le but de séquencer
+
+a representative “working draft” of ninety
+percent of a human genome—a model blueprint
+un « projet de travail » représentatif de quatre-vingt-dix
+pour cent d'un génome humain, un modèle de modèle
+
+for a human body.
+pour un corps humain.
+
+There was no central hub: instead, many labs
+participated, all over the world.
+Il n'y avait pas de hub central : à la place, de nombreux laboratoires ont
+participé, partout dans le monde.
+
+So planning the project took years.
+La planification du projet a donc pris des années.
+
+But in 1996, DNA sequencing for the draft
+genome finally began at six U.S. universities.
+Mais en 1996, le séquençage de l'ADN pour le projet de
+génome a finalement commencé dans six universités américaines.
+
+ThoughtBubble, prime us.
+ThoughtBubble, préparez-nous.
+
+Humans are complicated.
+Les humains sont compliqués.
+
+So many geneticists began by sequencing related
+organisms.
+Tant de généticiens ont commencé par séquencer des
+organismes apparentés.
+
+In 1996, an international team finished a
+draft sequence of Saccharomyces cerevisiae
+En 1996, une équipe internationale a terminé un
+brouillon de séquence de Saccharomyces cerevisiae
+
+, the yeast humans use to make beer, bread,
+and biotechnologies.
+, la levure utilisée par les humains pour fabriquer de la bière, du pain
+et des biotechnologies.
+
+Although Saccharomyces is a microbe, it was
+still the first eukaryotic organism—with
+Bien que Saccharomyces soit un microbe, c'est
+tout de même le premier organisme eucaryote – avec
+
+a membrane-bound nucleus, like humans!—to
+have its genome sequenced.
+un noyau membranaire, comme les humains ! –
+dont le génome a été séquencé.
+
+Also in 1996, scientists revealed a “map”
+of sixteen thousand human genes.
+Toujours en 1996, des scientifiques ont révélé une « carte »
+de seize mille gènes humains.
+
+Critics thought HGP would be a gargantuan
+waste of money.
+Les critiques pensaient que HGP serait un
+gaspillage d'argent gargantuesque.
+
+But the project was moving much faster than
+predicted.
+Mais le projet avançait beaucoup plus vite que
+prévu.
+
+In 1997, the Center became the National Human
+Genome Research Institute, or NHGRI.
+En 1997, le Centre est devenu l'Institut national de
+recherche sur le génome humain, ou NHGRI.
+
+And then, in 1998, American biotechnologist
+J. Craig Venter, entered the competition.
+Et puis, en 1998, le biotechnologue américain
+J. Craig Venter, a participé au concours.
+
+Earlier, Venter had worked at NIH, where he
+became an expert in making short synthetic
+Auparavant, Venter avait travaillé au NIH, où il
+est devenu un expert dans la fabrication de courts
+
+bits of DNA called "Expressed Sequence Tags."
+morceaux synthétiques d'ADN appelés "Expressed Sequence Tags".
+
+These were useful for identifying genes…
+Ceux-ci étaient utiles pour identifier les gènes…
+
+And Venter and the NIH controversially tried
+to patent them.
+Et Venter et le NIH ont tenté
+de les breveter de manière controversée.
+
+The U.S. Patent and Trademark Office said
+no in 1992, but this battle introduced Venter
+L'Office américain des brevets et des marques a dit
+non en 1992, mais cette bataille a mis
+
+to the scientific limelight.
+Venter sous les projecteurs scientifiques.
+
+So later, when Venter disagreed with the manner
+in which HGP was being managed, he decided
+Alors plus tard, lorsque Venter n'était pas d'accord avec la
+manière dont HGP était géré, il a décidé
+
+to compete with it—privately.
+de le concurrencer, en privé.
+
+That’s right: one dude said, I’ll beat
+the entire United States government at science!
+C'est vrai : un mec a dit, je vais
+battre tout le gouvernement des États-Unis en science !
+
+Venter believed that HGP should switch from
+reliable but slow Sanger sequencing to a much
+Venter pensait que HGP devrait passer d'
+un séquençage Sanger fiable mais lent à une
+
+faster but more expensive new method called
+shotgun sequencing.!
+nouvelle méthode beaucoup plus rapide mais plus coûteuse appelée
+séquençage shotgun.!
+
+Sanger sequencing only works on DNA strands
+up to ten thousand base pairs, which is very
+Le séquençage Sanger ne fonctionne que sur des brins d'ADN
+jusqu'à dix mille paires de bases, ce qui est très
+
+small.
+petit.
+
+“Shotgunning” a genome involves fragmenting
+it into bits, several times in a row, and
+"Shotgunning" un génome implique de le
+fragmenter en morceaux, plusieurs fois de suite,
+
+then letting a computer try to piece the blueprint
+back together.
+puis de laisser un ordinateur essayer de reconstituer le
+plan.
+
+Each pass is flawed, but collectively, they
+add up to a whole sequence.
+Chaque passe est imparfaite, mais collectivement, elles
+s'additionnent pour former une séquence entière.
+
+Thanks, ThoughtBubble.
+Merci, Bulle de Pensée.
+
+Venter wasn’t shy about letting the other
+HGP leaders know they were doing their job
+Venter n'a pas hésité à faire savoir aux autres
+dirigeants du HGP qu'ils faisaient mal leur travail
+
+wrong.
+.
+
+He officially quit HGP and started a for-profit
+company, Celera Genomics, that planned to
+Il a officiellement quitté HGP et a créé une
+société à but lucratif, Celera Genomics, qui prévoyait d'
+
+use shotgunning and automation to sequence
+the human genome in three years—seven years
+utiliser le shotgunning et l'automatisation pour séquencer
+le génome humain en trois ans, soit sept ans plus
+
+fasters than HGP.
+vite que HGP.
+
+He would pay for this by holding the sequenced
+genes as intellectual property.
+Il paierait pour cela en détenant les gènes séquencés en
+tant que propriété intellectuelle.
+
+That is, he’d continue his decade-long fight
+over whether or not human genes can be owned.
+C'est-à-dire qu'il poursuivrait son combat de dix ans
+pour savoir si les gènes humains pouvaient ou non être possédés.
+
+This rush to make money from human genes paralleled
+the pre-HGP rush to patent cell lines, like
+Cette ruée pour gagner de l'argent à partir de gènes humains a été parallèle à
+la ruée vers le brevetage des lignées cellulaires pré-HGP, comme
+
+the University of California’s ownership
+of Mo, from last episode.
+la propriété de Mo par l'Université de Californie
+, depuis le dernier épisode.
+
+And other companies followed suit.
+Et d'autres entreprises ont emboîté le pas.
+
+In 1998, the government of Iceland controversially
+licensed the health data of all 275,000 Icelanders
+En 1998, le gouvernement islandais a
+concédé de manière controversée les données de santé des 275 000 Islandais
+
+to a private U.S.–Icelandic company called
+deCODE Genetics, who were looking for genes
+à une société privée américano-islandaise appelée
+deCODE Genetics, qui recherchait des gènes
+
+linked to illnesses.
+liés à des maladies.
+
+deCODE declared bankruptcy in 2009 and has
+since been acquired by different companies.
+deCODE a fait faillite en 2009 et a
+depuis été racheté par différentes sociétés.
+
+In early 1999, sequencing of the human genome
+at a large scale began, about a decade after
+Au début de 1999, le séquençage du génome humain
+à grande échelle a commencé, environ une décennie après
+
+the project started.
+le début du projet.
+
+This was slow compared to the rapid development
+of the atomic bomb, but arguably that’s
+C'était lent par rapport au développement rapide
+de la bombe atomique, mais c'est sans doute
+
+like comparing one dangerous apple to billions
+and billions of oranges.
+comme comparer une pomme dangereuse à des milliards
+et des milliards d'oranges.
+
+And HGP had effects even before it finished.
+Et HGP a eu des effets avant même qu'il ne soit terminé.
+
+In 2000, President Clinton signed an Executive
+Order to prevent genetic discrimination in
+En 2000, le président Clinton a signé un
+décret exécutif pour prévenir la discrimination génétique dans
+
+federal workplaces.
+les lieux de travail fédéraux.
+
+The same year, both a public group and Celera
+released the genetic sequence of the fruit
+La même année, un groupe public et Celera ont
+publié la séquence génétique de la mouche des fruits, l'
+
+fly—one of biology’s rockstar model organisms.
+un des organismes modèles vedettes de la biologie.
+
+And then, also in 2000, with Venter about
+to scoop them, the leaders at the National
+Et puis, également en 2000, alors que Venter était sur le point
+de les récupérer, les dirigeants de l'Institut national de
+
+Human Genome Research Institute called a truce.
+recherche sur le génome humain ont appelé à une trêve.
+
+President Clinton, British Prime Minister
+Tony Blair, Venter, and Collins collectively
+Le président Clinton, le Premier ministre britannique
+Tony Blair, Venter et Collins ont
+
+announced the completion of eighty-five percent
+of a draft human genome.
+annoncé collectivement l'achèvement de quatre-vingt-cinq pour cent
+d'un projet de génome humain.
+
+Collins and Clinton both invoked religion.
+Collins et Clinton ont tous deux invoqué la religion.
+
+In Collins’ words: “We have caught the
+first glimpses of our instruction book, previously
+Selon les mots de Collins : "Nous avons eu les
+premiers aperçus de notre livre d'instructions, auparavant
+
+known only to God.”
+connu de Dieu seul."
+
+The complete draft was finished in 2003.
+Le projet complet a été terminé en 2003.
+
+Everybody was a winner.
+Tout le monde était gagnant.
+
+Private industry had fought the government
+to a stalemate and secured serious investment.
+L'industrie privée avait combattu le gouvernement
+jusqu'à une impasse et obtenu des investissements sérieux.
+
+The government had spent less than three billion
+1991 dollars.
+Le gouvernement avait dépensé moins de trois milliards de
+dollars de 1991.
+
+Which, if you think about, really is not much!
+Ce qui, si vous y réfléchissez, n'est vraiment pas grand-chose!
+
+And medical researchers, evolutionary biologists,
+and bioengineers now had more data than they
+Et les chercheurs en médecine, les biologistes de l'évolution
+et les bioingénieurs disposaient désormais de plus de données qu'ils ne
+
+knew what to do with!
+savaient quoi en faire !
+
+Within thirteen years, hundreds of scientists
+around the world had mapped the roughly three
+En treize ans, des centaines de scientifiques
+du monde entier ont cartographié les quelque trois
+
+billion base pairs of DNA that code for a
+single human body.
+milliards de paires de bases d'ADN qui codent pour un
+seul corps humain.
+
+But they understood very little of it.
+Mais ils n'y comprenaient que très peu de choses.
+
+Originally, they predicted there would be
+about one hundred thousands genes, or regions
+À l'origine, ils avaient prédit qu'il y aurait
+environ cent mille gènes, ou
+
+that code for proteins, in a human genome.
+régions codant pour des protéines, dans un génome humain.
+
+But there are only twenty thousand to twenty-five
+thousand.
+Mais il n'y en a que vingt mille à vingt-cinq
+mille.
+
+In fact, most DNA doesn’t “code for”
+anything!
+En fait, la plupart des ADN ne "codent"
+rien !
+
+Some DNA serves important regulatory functions,
+turning coding genes on and off.
+Certains ADN remplissent d'importantes fonctions de régulation,
+activant et désactivant les gènes codants.
+
+Some may be “junk.”
+Certains peuvent être "indésirables".
+
+So in 2003, NHGRI launched ENCODE—The Encyclopedia
+of DNA Elements Project—in order to understand
+Ainsi, en 2003, le NHGRI a lancé ENCODE - The Encyclopedia
+of DNA Elements Project - afin de comprendre
+
+all “functional elements” in human DNA.
+tous les «éléments fonctionnels» de l'ADN humain.
+
+ENCODE published results in 2012.
+ENCODE a publié ses résultats en 2012.
+
+On the technology side, the race to map the
+human genome drove the price of sequencing
+Côté technologie, la course à la cartographie du
+génome humain a fait chuter le prix du séquençage de l'
+
+DNA way down.
+ADN.
+
+Sequencing cost continues to fall exponentially:
+The first human genome cost three billion
+Le coût du séquençage continue de chuter de façon exponentielle :
+Le premier génome humain a coûté trois milliards de
+
+dollars.
+dollars.
+
+Today, sequencing one human genome only costs
+about a thousand.
+Aujourd'hui, le séquençage d'un génome humain n'en coûte
+qu'un millier environ.
+
+Lots of companies are doing just that.
+Beaucoup d'entreprises font exactement cela.
+
+There are over fifteen hundred biotech companies
+in the U.S. today and more than ten thousand
+Il existe aujourd'hui plus de quinze cents sociétés de biotechnologie
+aux États-Unis et plus de dix mille
+
+labs that conduct genetic sequencing.
+laboratoires qui effectuent le séquençage génétique.
+
+And since 2009, community biology labs have
+supported the rise of “DIY bio,” a movement
+Et depuis 2009, les laboratoires de biologie communautaires ont
+soutenu la montée du "DIY bio", un mouvement
+
+wherein amateurs can sequence DNA and practice
+bioengineering in nonprofit labs.
+dans lequel les amateurs peuvent séquencer l'ADN et pratiquer la
+bio-ingénierie dans des laboratoires à but non lucratif.
+
+So what has all this DNA discovery led to?
+Alors, à quoi toute cette découverte d'ADN a-t-elle abouti ?
+
+Immortality?
+Immortalité? 
+
+Flying cats?
+Chats volants ?
+
+I don't... I don't want flying cats.
+Je ne... Je ne veux pas de chats volants.
+
+Sadly, human genetics remain really, really
+complicated today.
+Malheureusement, la génétique humaine reste vraiment, vraiment
+compliquée aujourd'hui.
+
+Medical researchers are still working out
+ways to reprogram certain genes to, say, not
+Les chercheurs en médecine travaillent toujours sur des
+moyens de reprogrammer certains gènes pour, par exemple, ne
+
+give rise to cancer, or to reprogram immune
+cells to fight cancer better, without the
+pas provoquer de cancer, ou de reprogrammer des
+cellules immunitaires pour mieux combattre le cancer, sans
+
+need for toxic drugs.
+avoir besoin de médicaments toxiques.
+
+One day, healthcare may be specifically tailored
+to your unique genome and we’ll talk about
+Un jour, les soins de santé seront peut-être spécifiquement adaptés
+à votre génome unique et nous parlerons de
+
+this vision for personalized medicine in two
+episodes.
+cette vision de la médecine personnalisée dans deux
+épisodes.
+
+What HGP and cheap genome sequencing did in
+the 1990s and 2000s, however, was change criminal
+Ce que le HGP et le séquençage du génome bon marché ont fait dans
+les années 1990 et 2000, cependant, c'est changer le
+
+law and not-change popular understandings
+of race.
+droit pénal et ne pas changer les compréhensions populaires
+de la race.
+
+At first, defense lawyers were suspicious
+of DNA evidence.
+Au début, les avocats de la défense se méfiaient
+des preuves ADN.
+
+What if the lab made an error and sent the
+wrong person to jail?
+Et si le labo faisait une erreur et envoyait la
+mauvaise personne en prison ?
+
+But they soon realized that DNA evidence could
+be used to exonerate the wrongfully convicted.
+Mais ils se sont vite rendu compte que les preuves ADN pouvaient
+être utilisées pour disculper les personnes condamnées à tort.
+
+Today, DNA is a cornerstone of forensics.
+Aujourd'hui, l'ADN est une pierre angulaire de la médecine légale.
+
+It’s seen as more reliable than fingerprint
+evidence.
+Il est considéré comme plus fiable que les
+preuves d'empreintes digitales.
+
+Of course, some people find it super creepy
+that authorities can “profile” someone
+Bien sûr, certaines personnes trouvent super effrayant
+que les autorités puissent "profiler" quelqu'un en
+
+using their DNA…
+utilisant son ADN...
+
+Outside of the courtroom, the Human Genome
+Diversity Project, or HGDP, was organized
+En dehors de la salle d'audience, le Human Genome
+Diversity Project, ou HGDP, a été organisé
+
+at Stanford in the 1990s.
+à Stanford dans les années 1990.
+
+Its mission: to collect DNA samples from thousands
+of different populations to understand human
+Sa mission : collecter des échantillons d'ADN de milliers
+de populations différentes pour comprendre la
+
+diversity.
+diversité humaine.
+
+Its founder, Luca Cavalli-Sforza, was a prominent
+Son fondateur, Luca Cavalli-Sforza, était un éminent
+
+geneticist who thought HGDP would fight racism
+and celebrate different cultures.
+généticien qui pensait que HGDP combattrait le racisme
+et célébrerait différentes cultures.
+
+Yet some critics accused HGDP of being racist
+by exploiting indigenous people for potential
+Pourtant, certains critiques ont accusé le HGDP d'être raciste
+en exploitant les peuples autochtones à des
+
+commercial gain: the World Council of Indigenous
+People’s called it “the Vampire Project.”
+fins commerciales potentielles : le Conseil mondial des peuples autochtones
+l'a appelé "le projet vampire".
+
+Ouch.
+Aie. 
+
+Recently, genetic ancestry testing has become
+commonplace.
+Récemment, les tests d'ascendance génétique sont devenus
+monnaie courante.
+
+These could have highlighted how incredibly
+similar all humans are, and how artificial
+Celles-ci auraient pu mettre en évidence à quel point
+tous les humains sont incroyablement similaires et à quel point les
+
+groupings based on so-called “races” are:
+they are the products of imperial census-taking,
+groupements artificiels basés sur de soi-disant «races» sont:
+ils sont le produit du recensement impérial,
+
+not science.
+pas de la science.
+
+But instead, many ancestry tests reinforce
+census race terms.
+Mais au lieu de cela, de nombreux tests d'ascendance renforcent
+les termes raciaux du recensement.
+
+According to pioneering historian of biology
+Evelyn Fox Keller, the twentieth was the “century
+Selon l'historienne pionnière de la biologie
+Evelyn Fox Keller, le vingtième a été le « siècle
+
+of the gene”: the concept was born, explored,
+and finally understood to be much more complex
+du gène » : le concept est né, exploré
+et finalement compris comme étant beaucoup plus complexe
+
+than anyone had first thought.
+que quiconque ne l'avait d'abord pensé.
+
+“Genes” aren’t necessarily the best
+or even very good ways of thinking about traits
+Les « gènes » ne sont pas nécessairement les meilleures
+ou même les très bonnes façons de penser aux traits
+
+in the blueprints of organisms.
+dans les plans des organismes.
+
+DNA isn’t a computer language; it’s a
+kind of molecule.
+L'ADN n'est pas un langage informatique;  c'est une
+sorte de molécule.
+
+And knowing more about it may lead to better
+medicine one day, but it’s going to take
+Et en savoir plus à ce sujet peut conduire à une meilleure
+médecine un jour, mais cela
+
+a long time.
+prendra beaucoup de temps.
+
+Next time—we’re headed back to the world
+of data.
+La prochaine fois, nous retournons dans le monde
+des données.
+
+It’s time for the birth of everyone’s
+absolute favoritest place, the Internet!
+Il est temps pour la naissance de l'
+endroit préféré de tous, Internet !
+
+Crash Course is filmed in the Dr. Cheryl C. Kinney studio in Missoula, MT. And it's made with the help of all these nice people.
+Crash Course est filmé dans le studio du Dr Cheryl C. Kinney à Missoula, MT.  Et c'est fait avec l'aide de toutes ces personnes sympathiques.
+
+And our animation team is Thought Cafe.
+Et notre équipe d'animation est Thought Cafe.
+
+Crash Course is a Complexly production. If you want to keep imagining the world complexly with us
+Crash Course est une production complexe.  Si vous voulez continuer à imaginer le monde de manière complexe avec nous,
+
+check out some of our other channels like Sexplanations, Health Care Triage, and Mental Floss.
+consultez certaines de nos autres chaînes comme Sexplanations, Health Care Triage et Mental Floss.
+
+If you'd like to keep Crash Course free, for everyone, forever you can support the series at Patreon,
+Si vous souhaitez garder Crash Course gratuit, pour tout le monde, pour toujours, vous pouvez soutenir la série sur Patreon,
+
+a crowd funding platform that allows you to support the content you love.
+une plateforme de financement participatif qui vous permet de soutenir le contenu que vous aimez.
+

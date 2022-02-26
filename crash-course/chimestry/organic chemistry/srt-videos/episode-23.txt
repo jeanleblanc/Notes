@@ -1,0 +1,933 @@
+Hi!
+Salut! 
+
+I’m Deboki Chakravarti and welcome to
+Crash Course Organic Chemistry!
+Je suis Deboki Chakravarti et bienvenue au cours intensif de
+chimie organique !
+
+Have you ever played an adventure game?
+Avez-vous déjà joué à un jeu d'aventure ?
+
+The sort of thing where you start with a character,
+get some equipment, and go on a quest?
+Le genre de chose où vous commencez avec un personnage,
+obtenez de l'équipement et partez en quête?
+
+We can imagine organic chemicals as these
+kinds of characters!
+On peut imaginer des produits chimiques organiques comme ce
+genre de personnages !
+
+Our adventuring protagonist is our substrate.
+Notre protagoniste aventurier est notre substrat.
+
+Different substrates can be sorted into classes,
+which can undergo different transformations.
+Différents substrats peuvent être triés en classes,
+qui peuvent subir différentes transformations.
+
+Specifically, our heroes can take on incredible
+new forms through the substitution and elimination
+Plus précisément, nos héros peuvent prendre de
+nouvelles formes incroyables grâce aux réactions de substitution et d'élimination que
+
+reactions we’ve been learning for the past
+few episodes.
+nous avons apprises au cours des
+derniers épisodes.
+
+In this episode, we’ll learn how to beat
+this adventure game:
+Dans cet épisode, nous allons apprendre à battre
+ce jeu d'aventure :
+
+how to take any substrate, combined with any
+nucleophile,
+comment prendre n'importe quel substrat, combiné avec n'importe quel
+nucléophile,
+
+and predict what kind of new adventurer the
+transformation will produce!
+et prédire quel genre de nouvel aventurier la
+transformation produira !
+
+[Theme Music]
+[Thème musical]
+
+First of all, let’s set up our “world”
+to reveal the rules that our substitution
+Tout d'abord, mettons en place notre "monde"
+pour révéler les règles que nos
+
+and elimination reactions must follow.
+réactions de substitution et d'élimination doivent suivre.
+
+In terms of starting characters, we have a
+few fundamental classes:
+En termes de caractères de départ, nous avons
+quelques classes fondamentales :
+
+methyl, primary, secondary, and tertiary substrates.
+méthyle, substrats primaires, secondaires et tertiaires.
+
+Our substrate is always an sp3 hybridized
+carbon, and the classes refer to how many
+Notre substrat est toujours un carbone hybride sp3
+, et les classes font référence au nombre
+
+carbon substituents they have.
+de substituants de carbone qu'ils ont.
+
+Primary is one, secondary is two, and tertiary
+is three.
+Le primaire est un, le secondaire est deux et le tertiaire
+est trois.
+
+So a tertiary substrate is our bulkiest character
+option.
+Ainsi, un substrat tertiaire est notre option de caractère la plus volumineuse
+.
+
+Our substrates encounter different nucleophiles,
+which change the substrate through a chemical reaction.
+Nos substrats rencontrent différents nucléophiles,
+qui modifient le substrat par une réaction chimique.
+
+We can think of nucleophiles as different
+magic potions.
+Nous pouvons considérer les nucléophiles comme différentes
+potions magiques.
+
+Some are stronger, some are weaker, and the
+transformative potion effects depend on what the substrate is,
+Certaines sont plus fortes, d'autres plus faibles, et les
+effets de la potion transformatrice dépendent du substrat
+
+and the surrounding reaction conditions.
+et des conditions de réaction environnantes.
+
+In our world, if a character is in a desert
+kingdom, a potion could work differently than
+Dans notre monde, si un personnage se trouve dans un
+royaume désertique, une potion pourrait fonctionner différemment
+
+it would on a character in an icy cavern!
+qu'elle ne le ferait sur un personnage dans une caverne glacée !
+
+And there are four major transformations in
+this world --
+Et il y a quatre transformations majeures dans
+ce monde -- des
+
+types of substitution and elimination reactions.
+types de réactions de substitution et d'élimination.
+
+If you need more of a refresher, rewatch episodes
+20 through 22!
+Si vous avez besoin de plus d'informations, revoyez les épisodes
+20 à 22 !
+
+In both SN1 and E1 mechanisms, a carbocation
+intermediate forms.
+Dans les mécanismes SN1 et E1, un carbocation
+intermédiaire se forme.
+
+In the SN1 substitution reaction, the nucleophile
+can attack the carbocation from either side,
+Dans la réaction de substitution SN1, le nucléophile
+peut attaquer le carbocation de part et d'autre
+
+so we get a mixture of stereoisomers at a
+chiral carbon.
+, on obtient donc un mélange de stéréoisomères au niveau d'un
+carbone chiral.
+
+And in the E1 elimination reaction, the nucleophile
+acts as a base, deprotonating the substrate,
+Et dans la réaction d'élimination E1, le nucléophile
+agit comme une base, déprotonant le substrat,
+
+and we get an alkene.
+et nous obtenons un alcène.
+
+On the other hand, both SN2 and E2 mechanisms
+happen in one, single step.
+D'autre part, les mécanismes SN2 et E2
+se produisent en une seule étape.
+
+In the SN2 substitution reaction, the nucleophile's backside attack on the substrate inverts the stereochemistry at a chiral carbon.
+Dans la réaction de substitution SN2, l'attaque arrière du nucléophile sur le substrat inverse la stéréochimie au niveau d'un carbone chiral.
+
+And in the E2 elimination reaction, we need
+an antiperiplanar leaving group and beta hydrogen
+Et dans la réaction d'élimination de E2, nous avons besoin d'
+un groupe partant antipériplanaire et d'hydrogène bêta
+
+for the nucleophile to deprotonate the substrate,
+creating an alkene.
+pour que le nucléophile déprotone le substrat,
+créant un alcène.
+
+Okay!
+D'accord! 
+
+Let’s look at how different potions—or
+nucleophiles—
+Regardons comment différentes potions - ou
+nucléophiles -
+
+transform our characters—or substrates.
+transforment nos personnages - ou substrats.
+
+We’ll start with the smallest character
+class: methyls.
+Nous allons commencer par la plus petite
+classe de caractères : les méthyles.
+
+Since they only have one carbon, there are
+no beta hydrogens,
+Puisqu'ils n'ont qu'un seul carbone, il n'y a
+pas d'hydrogène bêta
+
+so they can't do an E2 transformation.
+, ils ne peuvent donc pas faire de transformation E2.
+
+They also can’t form stable carbocations,
+which means they're resistant to any SN1 and E1 reactions.
+Ils ne peuvent pas non plus former de carbocations stables,
+ce qui signifie qu'ils résistent à toutes les réactions SN1 et E1.
+
+That leaves us with one option:
+Cela nous laisse une option :
+
+methyl substrates only do SN2 reactions, no
+matter what nucleophile they encounter.
+les substrats méthyliques ne font que des réactions SN2,
+quel que soit le nucléophile qu'ils rencontrent.
+
+And, in fact, with poor nucleophiles, methyl
+substrates either don’t do anything,
+Et, en fait, avec les nucléophiles pauvres, les
+substrats méthyliques ne font rien
+
+or react so slowly that it’s just not worth it.
+ou réagissent si lentement que cela n'en vaut tout simplement pas la peine.
+
+I mean, come on, we need to take our potion
+and get on with this adventure!
+Je veux dire, allez, nous devons prendre notre potion
+et continuer cette aventure !
+
+Let’s take a look at a specific methyl substrate,
+bromomethane,
+Examinons un substrat méthylique spécifique, le
+bromométhane,
+
+and its reactions with three different nucleophiles.
+et ses réactions avec trois nucléophiles différents.
+
+In each case, our starting character is transformed
+by an SN2 reaction.
+Dans chaque cas, notre personnage de départ est transformé
+par une réaction SN2.
+
+There’s only one carbon, so there’s only
+one place each nucleophile can go,
+Il n'y a qu'un seul carbone, donc il n'y a qu'un
+seul endroit où chaque nucléophile peut aller,
+
+and one option for our character's final form,
+et une seule option pour la forme finale de notre personnage,
+
+the reaction product.
+le produit de réaction.
+
+Easy!
+Facile! 
+
+Next, let's look at primary substrates.
+Ensuite, regardons les substrats primaires.
+
+These characters have more carbons than methyl
+substrates,
+Ces caractères ont plus de carbones que les
+substrats méthyliques,
+
+but the leaving group is at the end of the
+chain.
+mais le groupe partant est en bout de
+chaîne.
+
+So primary substrates also don't form very
+stable carbocations,
+Ainsi, les substrats primaires ne forment pas non plus de
+carbocations très stables,
+
+which rules out SN1 and E1 reactions.
+ce qui exclut les réactions SN1 et E1.
+
+And if they encounter a poor nucleophile,
+not much will happen.
+Et s'ils rencontrent un pauvre nucléophile, il
+ne se passera pas grand-chose.
+
+Mostly, we see SN2 substitution reactions.
+La plupart du temps, nous voyons des réactions de substitution SN2.
+
+For example, there's the Williamson etherification,
+named after its discoverer,
+Par exemple, il y a l'éthérification de Williamson, du
+nom de son découvreur,
+
+English chemist Alexander William Williamson.
+le chimiste anglais Alexander William Williamson.
+
+Our character here is a primary alkyl halide,
+and our potion is a strongly nucleophilic alkoxide.
+Notre personnage ici est un halogénure d'alkyle primaire,
+et notre potion est un alcoxyde fortement nucléophile.
+
+After an SN2 transformation, our hero becomes
+an ether!
+Après une transformation SN2, notre héros devient
+un éther !
+
+But primary substrates can also undergo E2
+elimination reactions when there's a certain
+Mais les substrats primaires peuvent également subir des
+réactions d'élimination E2 lorsqu'il y a un certain
+
+type of potion... or, nucleophile.
+type de potion... ou nucléophile.
+
+Specifically, when primary substrates encounter
+a strong, bulky base.
+Plus précisément, lorsque les substrats primaires rencontrent
+une base solide et volumineuse.
+
+Steric hindrance makes it tricky for the big
+base to displace the leaving group with a backside attack,
+L'encombrement stérique rend difficile pour la grande
+base de déplacer le groupe partant avec une attaque arrière,
+
+so it just grabs one of the
+beta hydrogens and runs.
+donc il attrape juste l'un des
+hydrogènes bêta et s'exécute.
+
+That's elimination, not substitution!
+C'est de l'élimination, pas du remplacement !
+
+Now, primary substrates also have some special
+subclasses:
+Maintenant, les substrats primaires ont également des
+sous-classes spéciales :
+
+primary allylic and primary benzylic substrates.
+les substrats primaires allyliques et primaires benzyliques.
+
+These substrates have double bonds or benzene
+rings that stabilize carbocations by resonance.
+Ces substrats ont des doubles liaisons ou des
+cycles benzéniques qui stabilisent les carbocations par résonance.
+
+Also, polar, protic conditions “slow down”
+the effects of our nucleophile potions,
+De plus, les conditions polaires et protiques "ralentissent"
+les effets de nos potions nucléophiles, de
+
+so the nucleophile doesn’t attack immediately,
+there's time for a carbocation to form,
+sorte que le nucléophile n'attaque pas immédiatement,
+il y a du temps pour qu'un carbocation se forme,
+
+and we’ll get SN1 reactions.
+et nous aurons des réactions SN1.
+
+For example, here's a reaction with a primary
+benzylic substrate that forms an ether.
+Par exemple, voici une réaction avec un
+substrat benzylique primaire qui forme un éther.
+
+We can see that hydrobromic acid is a product,
+which is another hint that we have an SN1 reaction.
+Nous pouvons voir que l'acide bromhydrique est un produit,
+ce qui est un autre indice que nous avons une réaction SN1.
+
+Remember from episode 21:
+Rappelez-vous de l'épisode 21 :
+
+“when we see acid as a reactant or product,
+think SN1."
+"lorsque nous voyons l'acide comme un réactif ou un produit,
+pensez SN1."
+
+If we increase the strength of our nucleophile, or switch from a more sluggish polar, protic environment to an aprotic one,
+Si nous augmentons la force de notre nucléophile, ou passons d'un environnement polaire et protique plus lent à un environnement aprotique,
+
+these special substrates act like other primary substrates and favor SN2 reactions.
+ces substrats spéciaux agissent comme les autres  substrats primaires et favorisent les réactions SN2. Il est
+
+Time for some secondary characters -- and
+no, I don't mean sidekicks!
+temps pour certains personnages secondaires - et
+non, je ne veux pas dire des acolytes !
+
+Secondary substrates include some of the most
+important potions and reaction conditions to learn,
+Les substrats secondaires incluent certaines des
+potions et des conditions de réaction les plus importantes à apprendre,
+
+because they have the most competing mechanisms.
+car ils ont les mécanismes les plus concurrents.
+
+Secondary substrates have all the traits of
+less bulky character classes that allow for SN2 and E2 reactions.
+Les substrats secondaires ont  tous les traits des
+classes de caractères moins volumineuses qui permettent les réactions SN2 et E2.
+
+But they also have some branching, which means
+more stable carbocations,
+Mais ils ont aussi des ramifications, ce qui signifie
+des carbocations plus stables,
+
+and that SN1 and E1 reactions are possible
+too.
+et que les réactions SN1 et E1 sont
+également possibles.
+
+To start, let's look at an SN1 transformation example, with a secondary substrate and acetic acid as our nucleophile --
+Pour commencer, regardons un exemple de transformation SN1,  avec un substrat secondaire et de l'acide acétique comme nucléophile -
+
+that hint from episode 21 about acids and
+SN1 applies again!
+cet indice de l'épisode 21 sur les acides et
+SN1 s'applique à nouveau !
+
+And these are polar, protic conditions that
+slow down our nucleophiles and give carbocations time to form.
+Et ce sont des conditions polaires et protiques qui
+ralentissent nos nucléophiles et donnent c  arbocations le temps de se former.
+
+In SN1 reactions, the nucleophile can attack
+either face of the carbocation.
+Dans les réactions SN1, le nucléophile peut attaquer l'une
+ou l'autre face du carbocation.
+
+So if our substrate has a chiral carbon (and
+in this case, it has two)
+Donc, si notre substrat a un carbone chiral (et
+dans ce cas, il en a deux),
+
+the stereochemistry gets scrambled.
+la stéréochimie est brouillée.
+
+Here, we get a mixture of diastereomers as
+products.
+Ici, nous obtenons un mélange de diastéréoisomères comme
+produits.
+
+Remember from episode 9, these can occur when
+a compound has more than one chiral center
+Rappelez-vous de l'épisode 9, cela peut se produire
+lorsqu'un composé a plus d'un centre chiral
+
+and, as a result, has stereoisomers that aren't
+mirror images of each other.
+et, par conséquent, a des stéréoisomères qui ne sont pas des
+images miroir les uns des autres.
+
+The non-reacting chiral center from the starting
+material keeps its configuration in both products,
+Le centre chiral non réactif du
+matériau de départ conserve sa configuration dans les deux produits,
+
+but the reacting chiral center ends up R in
+one diastereomer, and S in the other.
+mais le centre chiral réactif finit par R dans
+un diastéréoisomère et S dans l'autre.
+
+But here's why we have to be so careful:
+Mais voici pourquoi nous devons être si prudents :
+
+when our secondary character drinks this potion,
+we're not guaranteed an SN1 transformation.
+lorsque notre personnage secondaire boit cette potion,
+nous ne sommes pas assurés d'une transformation SN1.
+
+Substitution and elimination can compete!
+La substitution et l'élimination peuvent rivaliser !
+
+Once a carbocation forms, the nucleophile
+can deprotonate our substrate,
+Une fois qu'un carbocation se forme, le nucléophile
+peut déprotoner notre substrat, de
+
+so some E1 products get formed too.
+sorte que certains produits E1 se forment également.
+
+Now, let's look at an SN2 transformation,
+with a tosylated alcohol as our substrate
+Maintenant, regardons une transformation SN2,
+avec un alcool tosylé comme substrat
+
+and a weakly basic nucleophile.
+et un nucléophile faiblement basique.
+
+DMSO as a solvent gives us polar aprotic conditions,
+which tend to give the nucleophile a bit of a boost!
+Le DMSO en tant que solvant nous donne des conditions aprotiques polaires,
+qui ont tendance à donner un petit coup de pouce au nucléophile !
+
+In other words, polar, aprotic conditions
+strengthen our potions,
+En d'autres termes, les conditions polaires et aprotiques
+renforcent nos potions, de
+
+so even a weak nucleophile can attack our
+substrate, favoring an SN2 reaction and inverted
+sorte que même un nucléophile faible peut attaquer notre
+substrat, favorisant une réaction SN2 et une
+
+stereochemistry in the product.
+stéréochimie inversée dans le produit.
+
+Now, if a secondary substrate encounters a
+strongly basic nucleophile,
+Maintenant, si un substrat secondaire rencontre un
+nucléophile fortement basique,
+
+we tend to see E2 reactions.
+nous avons tendance à voir des réactions E2.
+
+Like I said, lots of competing mechanisms
+with this character class!
+Comme je l'ai dit, beaucoup de mécanismes concurrents
+avec cette classe de personnage !
+
+Stronger bases are very reactive and quickly
+steal a beta hydrogen --
+Les bases plus fortes sont très réactives et
+volent rapidement un hydrogène bêta -
+
+so long as it’s antiperiplanar to the leaving
+group, of course!
+tant qu'il est antipériplanaire au groupe partant
+, bien sûr !
+
+This Newman projection reminds us why we get
+the E-alkene as our final form --
+Cette projection de Newman nous rappelle pourquoi nous obtenons
+l'E-alcène comme forme finale -
+
+it has to do with the antiperiplanar hydrogen
+and leaving group rotating around the carbon-carbon bond.
+cela a à voir avec l'hydrogène antipériplanaire
+et le groupe partant tournant autour de la liaison carbone-carbone.
+
+Pop back to episode 22 if you need a refresher.
+Revenez à l'épisode 22 si vous avez besoin d'un rappel.
+
+This example shows another way that the surrounding
+reaction conditions affect how our nucleophile potions work.
+Cet exemple montre une autre façon dont les
+conditions de réaction environnantes affectent le fonctionnement de nos potions nucléophiles.
+
+Notice this reaction was heated -- maybe this
+part of the game is in a desert?
+Remarquez que cette réaction a été passionnée – peut-être que cette
+partie du jeu se déroule dans un désert ?
+
+And heat favors elimination reactions.
+Et la chaleur favorise les réactions d'élimination.
+
+To understand why this is true, we have to
+remember our Gibbs Free Energy equation from episode 15:
+Pour comprendre pourquoi cela est vrai, nous devons nous
+souvenir de notre équation d'énergie libre de Gibbs de l'épisode 15 :
+
+ΔG = ΔH − TΔS
+ΔG = ΔH − TΔS
+
+Increasing the temperature makes the entropy
+factor more significant,
+L'augmentation de la température rend le
+facteur d'entropie plus significatif,
+
+which means we end up with a more negative delta G.
+ce qui signifie que nous nous retrouvons avec un delta G plus négatif.
+
+So, with higher heat, a reaction that increases
+entropy is more likely to happen spontaneously.
+Ainsi, avec  une chaleur plus élevée, une réaction qui augmente l'
+entropie est plus susceptible de se produire spontanément.
+
+Elimination reactions create more entropy than substitution reactions because they give us a greater number of products.
+Les réactions d'élimination créent plus d'entropie que les réactions de substitution car elles nous donnent un plus grand nombre de produits.
+
+We get a whole extra molecule by comparison,
+because the base runs off with a beta hydrogen.
+Nous obtenons une molécule supplémentaire entière par comparaison,
+car la base s'écoule avec un hydrogène bêta.
+
+Now it's time for tertiary substrates -- our
+final class of characters!
+Il est maintenant temps pour les substrats tertiaires - notre
+dernière classe de personnages !
+
+With all their branches, tertiary substrates
+are really good at forming stable carbocations.
+Avec toutes leurs ramifications, les substrats tertiaires
+sont vraiment doués pour former des carbocations stables.
+
+So SN1 and E1 reactions are possible with
+weak nucleophiles.
+Ainsi, les réactions SN1 et E1 sont possibles avec
+des nucléophiles faibles.
+
+Being the bulkiest character class means that
+tertiary substrates have a lot of steric hindrance too,
+Être la classe de caractères la plus volumineuse signifie que
+les substrats tertiaires ont également beaucoup d'encombrement stérique
+
+and can't undergo SN2 reactions.
+et ne peuvent pas subir de réactions SN2.
+
+Nucleophiles can’t get close enough to attack
+the electrophilic carbon from behind,
+Les nucléophiles ne peuvent pas s'approcher suffisamment pour attaquer
+le carbone électrophile par derrière,
+
+so our only all-at-once reaction choice is
+E2 elimination.
+donc notre seul choix de réaction tout à la fois est l'
+élimination de E2.
+
+Substitution and elimination reactions compete,
+Les réactions de substitution et d'élimination sont en concurrence
+
+so we have to pay close attention to the nucleophiles
+that favor one transformation over the other.
+, nous devons donc porter une attention particulière aux nucléophiles
+qui favorisent une transformation par rapport à l'autre.
+
+For example, here are some tertiary substrates
+and two different reactants:
+Par exemple, voici quelques substrats tertiaires
+et deux réactifs différents :
+
+hydrobromic acid or water.
+l'acide bromhydrique ou l'eau.
+
+Bromide and water are good nucleophiles, but
+poor bases --
+Le bromure et l'eau sont de bons nucléophiles, mais de
+mauvaises bases
+
+so they're not so great at grabbing protons.
+- ils ne sont donc pas si doués pour capter les protons.
+
+That means they favor substitution over elimination,
+and our only substitution option is SN1.
+Cela signifie qu'ils préfèrent la substitution à l'élimination,
+et notre seule option de substitution est SN1.
+
+To encourage elimination over substitution,
+we can pick a different reactant:
+Pour encourager l'élimination plutôt que la substitution,
+nous pouvons choisir un réactif différent :
+
+sulfuric acid, which forms the conjugate base
+bisulfate anion when it loses a proton.
+l'acide sulfurique, qui forme l'
+anion bisulfate de la base conjuguée lorsqu'il perd un proton.
+
+Remember from episode 22, a bisulfate ion
+is a poor nucleophile but it can act as a base.
+Rappelez-vous de l'épisode 22, un ion bisulfate
+est un piètre nucléophile mais il peut faire office de base.
+
+That means it's better at grabbing a proton,
+and E1 elimination is favored with our tertiary,
+Cela signifie qu'il est plus efficace pour saisir un proton
+et que l'élimination de E1 est favorisée avec notre
+
+and benzylic substrate.
+substrat tertiaire et benzylique.
+
+Now, let’s check out an example of an E2
+elimination reaction.
+Voyons maintenant un exemple de
+réaction d'élimination E2.
+
+The key here is the strong base, which usually
+gives us E2...
+La clé ici est la base forte, qui
+nous donne généralement E2...
+
+When tertiary or secondary substrates transform
+through elimination,
+Lorsque des substrats tertiaires ou secondaires se transforment
+par élimination,
+
+usually the major product that forms is the most substituted alkene.
+le produit principal qui se forme est généralement l'alcène le plus substitué.
+
+That's Zaitsev’s rule, which can be really
+helpful when predicting our characters' final forms.
+C'est la règle de Zaitsev, qui peut être très
+utile pour prédire les formes finales de nos personnages.
+
+In fact, we can see it in action here with
+a tertiary substrate and a sodium ethoxide potion.
+En fait, on le voit ici en action avec
+un substrat tertiaire et une potion d'éthylate de sodium.
+
+However, Zaitsev's rule has an exception with
+a special type of potion:
+Cependant, la règle de Zaitsev a une exception avec
+un type spécial de potion :
+
+a nucleophile that's a very bulky base.
+un nucléophile qui est une base très volumineuse.
+
+For example, the bulk of sodium tert-butoxide
+gets in the way.
+Par exemple, la majeure partie du tert-butylate de sodium gêne
+.
+
+To form the Zaitsev product, this nucleophile
+would need to grab a proton from a beta carbon.
+Pour former le produit Zaitsev, ce nucléophile
+aurait besoin de récupérer un proton d'un carbone bêta.
+
+But as the oxygen from the tert-butoxide ion
+gets closer,
+Mais à mesure que l'oxygène de l'ion tert-butoxyde
+se rapproche,
+
+there's a steric clash causing lots of repulsion,
+which slows the reaction down.
+il y a un choc stérique provoquant beaucoup de répulsion,
+ce qui ralentit la réaction.
+
+Instead, the tert-butoxide ion just grabs
+the proton from our less substituted beta carbon,
+Au lieu de cela, l'ion tert-butoxyde saisit simplement
+le proton de notre carbone bêta moins substitué,
+
+reducing the clash, speeding up the reaction,
+and forming
+réduisant le choc, accélérant la réaction
+et formant
+
+the less-substituted, non-Zaitsev product.
+le produit moins substitué et non Zaitsev.
+
+Substitution and elimination reactions can
+be really tough.
+Les réactions de substitution et d'élimination peuvent
+être très difficiles.
+
+Trust me, I've been there.
+Croyez-moi, j'ai été là.
+
+So here's a table to organize what we've learned.
+Voici donc un tableau pour organiser ce que nous avons appris.
+
+Remember that it'll take more than memorization
+to solve these puzzles:
+N'oubliez pas qu'il faudra plus que de la mémorisation
+pour résoudre ces énigmes :
+
+really imagine our game world, the substrate characters,
+imaginez vraiment notre monde de jeu, les personnages du substrat
+
+and how the nucleophile potions might transform them.
+et comment les potions nucléophiles pourraient les transformer.
+
+And, of course, practice helps.
+Et, bien sûr, la pratique aide.
+
+So it's time for some rapid fire problems!
+Il est donc temps pour des problèmes de tir rapide !
+
+We’re going to put four problems on screen
+that could be SN1, SN2, E1 or E2
+Nous allons mettre quatre problèmes à l'écran
+qui pourraient être SN1, SN2, E1 ou E2
+
+and predict the likely mechanism and the products.
+et prédire le mécanisme probable et les produits.
+
+Then, we'll work through the answers, so pause
+right after the question if you want to solve them yourself.
+Ensuite, nous travaillerons sur les réponses, alors
+faites une pause juste après la question si vous voulez les résoudre vous-même.
+
+Player 1, are you ready to start this game?
+Joueur 1, êtes-vous prêt à commencer ce jeu ?
+
+Here's problem number one.
+Voici le problème numéro un.
+
+We have a secondary benzylic substrate with
+methanethiol as our nucleophile.
+Nous avons un substrat benzylique secondaire avec du
+méthanethiol comme nucléophile.
+
+Looking at the table, negatively charged sulfur
+groups are weak bases,
+En regardant le tableau, les groupes soufrés chargés négativement
+sont des bases faibles
+
+so we might expect SN2, but here we have a
+thiol,
+, nous pourrions donc nous attendre à SN2, mais ici nous avons un
+thiol,
+
+and since the sulfur is protonated, an “S-H” group,
+et puisque le soufre est protoné, un groupe "S-H",
+
+we have acidic or neutral conditions.
+nous avons des conditions acides ou neutres.
+
+Using our handy hint, remember acidic conditions
+favor SN1!
+En utilisant notre astuce pratique, rappelez-vous que les conditions acides
+favorisent SN1 !
+
+Because we have a chiral center, we also get
+a mixture of enantiomers.
+Parce que nous avons un centre chiral, nous obtenons également
+un mélange d'énantiomères.
+
+And don't forget that pesky minor product
+by E1.
+Et n'oubliez pas ce produit mineur embêtant
+par E1.
+
+Here's problem number two.
+Voici le problème numéro deux.
+
+This time the substrate is secondary again,
+but the nucleophile is an acetylide anion.
+Cette fois, le substrat est à nouveau secondaire,
+mais le nucléophile est un anion acétylure.
+
+Acetylide anions are strong nucleophiles and
+super strong bases,
+Les anions acétylures sont des nucléophiles forts et
+des bases super fortes,
+
+which means this reaction strongly favors
+elimination -- specifically E2.
+ce qui signifie que cette réaction favorise fortement l'
+élimination - en particulier E2.
+
+And there’s a mixture of products.
+Et il y a un mélange de produits.
+
+Following Zaitsev’s rule, we would expect
+but-2-ene as the major product since it’s more substituted.
+Suivant la règle de Zaitsev, nous nous attendrions à ce que le
+but-2-ène soit le produit principal car il est plus substitué.
+
+Then, looking at that major product, we expect
+more trans than cis,
+Ensuite, en regardant ce produit majeur, nous nous attendons à
+plus de trans que de cis,
+
+because that’s the form where we get the
+most energetically stable arrangement --
+car c'est la forme où nous obtenons l'
+arrangement le plus énergétiquement stable -
+
+when the methyl groups are spaced as far apart
+as possible.
+lorsque les groupes méthyle sont aussi espacés
+que possible.
+
+Here's problem number three.
+Voici le problème numéro trois.
+
+We have another secondary substrate with methanol,
+a poor nucleophile.
+Nous avons un autre substrat secondaire avec du méthanol,
+un mauvais nucléophile.
+
+We also have polar, protic conditions.
+Nous avons aussi des conditions polaires, protiques.
+
+Looking at our reactants, we expect to see
+HBr as a product, which is acidic --
+En regardant nos réactifs, nous nous attendons à voir
+HBr comme un produit acide -
+
+so using that handy hint, we think we're dealing
+with SN1.
+donc en utilisant cette indication pratique, nous pensons que nous avons affaire
+à SN1.
+
+But there’s something else to consider.
+Mais il y a autre chose à considérer.
+
+The intermediate is a secondary carbocation
+which is less stable than a tertiary carbocation.
+L'intermédiaire est un carbocation secondaire
+qui est moins stable qu'un carbocation tertiaire.
+
+And if a less stable carbocation can get more
+stable through the migration of a C-H bond,
+Et si un carbocation moins stable peut devenir plus
+stable grâce à la migration d'une liaison C-H,
+
+then a rearrangement can occur.
+alors un réarrangement peut se produire.
+
+We've got to look out for these tricks!
+Nous devons faire attention à ces astuces !
+
+This migration is called a hydride shift.
+Cette migration s'appelle un déplacement d'hydrure.
+
+So we actually end up with a tertiary carbocation,
+and this substitution product.
+Nous nous retrouvons donc avec un carbocation tertiaire
+et ce produit de substitution.
+
+And lastly, here's problem number four.
+Et enfin, voici le problème numéro quatre.
+
+Here we have one more secondary substrate,
+and sodium acetate, which is a weak nucleophile.
+Ici, nous avons un autre substrat secondaire,
+et l'acétate de sodium, qui est un nucléophile faible.
+
+This is a nice simple setup, and it reacts
+easily by the SN2 mechanism.
+C'est une belle configuration simple, et elle réagit
+facilement par le mécanisme SN2.
+
+That’s it for this episode!
+Voilà pour cet épisode !
+
+Next time, we’re going to be looking more
+at alcohols, ethers and epoxides.
+La prochaine fois, nous nous pencherons davantage
+sur les alcools, les éthers et les époxydes.
+
+Until then, thanks for watching this episode
+of Crash Course Organic Chemistry.
+En attendant, merci d'avoir regardé cet épisode
+de Crash Course Organic Chemistry.
+
+If you want to help keep all Crash Course
+free for everybody, forever,
+Si vous voulez aider à garder tous les cours intensifs
+gratuits pour tout le monde, pour toujours,
+
+you can join our community on Patreon.
+vous pouvez rejoindre notre communauté sur Patreon.
+

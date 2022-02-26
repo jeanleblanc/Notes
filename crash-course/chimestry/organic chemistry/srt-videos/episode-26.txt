@@ -1,0 +1,739 @@
+You can review content from Crash Course Organic Chemistry with the Crash Course App,
+Vous pouvez consulter le contenu de Crash Course Organic Chemistry avec l'application Crash Course,
+
+available now for Android and iOS devices.
+disponible dès maintenant pour les appareils Android et iOS.
+
+Hi! I’m Deboki Chakravarti and welcome 
+to Crash Course Organic Chemistry!
+Salut!  Je suis Deboki Chakravarti et bienvenue
+au cours intensif de chimie organique !
+
+Chemists used to have a real problem 
+when it came to identifying the crystals,  
+Auparavant, les chimistes avaient un réel problème
+lorsqu'il s'agissait d'identifier les cristaux, le
+
+liquid, or general gloop they found themselves 
+with at the end of a chemical reaction.
+liquide ou la confusion générale avec lesquels ils se
+trouvaient à la fin d'une réaction chimique.
+
+Of course, they knew what they were trying 
+to make, but had they actually made it?
+Bien sûr, ils savaient ce qu'ils essayaient
+de faire, mais l'avaient-ils vraiment fait ?
+
+They could check boiling points, melting points, 
+smell, color, or even taste in the bad old days
+Ils pourraient vérifier les points d'ébullition, les points de fusion, l'
+odeur, la couleur ou même le goût du mauvais vieux temps
+
+(which is definitely not recommended now).
+(ce qui n'est certainement pas recommandé maintenant).
+
+But all of that took weeks of diligent 
+effort and was still somewhat inconclusive.
+Mais tout cela a demandé des semaines d'
+efforts assidus et n'a pas été concluant.
+
+Fortunately we’ve moved onto a much 
+more high-tech analytical technique:
+Heureusement, nous sommes passés à une
+technique d'analyse beaucoup plus sophistiquée :
+
+Nuclear Magnetic Resonance, or NMR.
+la résonance magnétique nucléaire, ou RMN.
+
+[Theme Music]
+[Theme Music]
+
+First off, let’s straighten 
+one thing out –
+Tout d'abord, clarifions
+une chose -
+
+the “nuclear” part of NMR’s name doesn’t refer to nuclear power.
+la partie "nucléaire" du nom de NMR ne fait pas référence à l'énergie nucléaire.
+
+It refers to the nuclei of atoms.
+Il fait référence aux noyaux des atomes.
+
+All atomic nuclei are made up of protons 
+and neutrons
+Tous les noyaux atomiques sont constitués de protons
+et de
+
+– except for hydrogen’s, which doesn't have any neutrons.
+neutrons, à l'exception de l'hydrogène, qui n'a pas de neutrons.
+
+Adding up the protons and neutrons 
+give us the atom’s mass number.
+L'addition des protons et des neutrons
+nous donne le nombre de masse de l'atome.
+
+Nuclei with odd mass numbers 
+have a property called spin,  
+Les noyaux avec des nombres de masse impairs
+ont une propriété appelée spin,
+
+and having spin makes them observable using NMR.
+et avoir un spin les rend observables à l'aide de la RMN.
+
+Obviously, there are quite a lot 
+of elements with odd mass numbers,  
+Évidemment, il y a pas mal
+d'éléments avec des nombres de masse impairs,
+
+but we're only interested in 
+a handful of them for NMR.
+mais nous ne nous intéressons qu'à
+une poignée d'entre eux pour la RMN.
+
+Nitrogen-15, fluorine-19, 
+phosphorous-31 all show up occasionally,  
+L'azote-15, le fluor-19, le
+phosphore-31 apparaissent tous occasionnellement,
+
+but the real stars are carbon-13 and hydrogen.
+mais les vraies étoiles sont le carbone-13 et l'hydrogène.
+
+We'll focus on hydrogen today and do proton NMR.
+Nous allons nous concentrer sur l'hydrogène aujourd'hui et faire de la RMN du proton.
+
+Spin is not the nuclei literally spinning; it’s 
+one of those weird quantum mechanical things.
+Le spin, ce n'est pas littéralement les noyaux qui tournent ;  c'est
+une de ces choses bizarres de la mécanique quantique.
+
+To avoid getting too into the physics, we’ll 
+just say that when charged particles
+Pour éviter de trop entrer dans la physique, nous
+dirons simplement que lorsque des particules chargées
+
+(like protons in a nucleus) move, a magnetic 
+field with a magnetic moment is created.
+(comme les protons dans un noyau) se déplacent, un
+champ magnétique avec un moment magnétique est créé.
+
+If you've played with iron filings before, you 
+know they move if you put a magnet near them.
+Si vous avez déjà joué avec de la limaille de fer, vous
+savez qu'elles bougent si vous placez un aimant près d'elles.
+
+Each iron filing has a magnetic moment and, under 
+normal circumstances, their directions are random.
+Chaque limaille de fer a un moment magnétique et, dans
+des circonstances normales, leurs directions sont aléatoires.
+
+However, in the presence of a magnet, which 
+has a magnetic field, they all line up.
+Cependant, en présence d'un aimant, qui
+a un champ magnétique, ils s'alignent tous.
+
+Similarly, if you stick a nucleus with a 
+magnetic moment in an external magnetic field,  
+De même, si vous placez un noyau avec un
+moment magnétique dans un champ magnétique externe,
+
+it either lines up with that 
+field, or exactly against it.
+il s'aligne soit avec ce
+champ, soit exactement contre lui.
+
+It takes less energy to align with the magnetic 
+field, and more energy to go against it,  
+Il faut moins d'énergie pour s'aligner sur le
+champ magnétique et plus d'énergie pour aller à l'encontre de celui-ci,
+
+so there's a clear energy difference 
+between the two different spin states.
+il y a donc une nette différence d'énergie
+entre les deux états de spin différents.
+
+Now we've got the "nuclear" and "magnetic" parts 
+of NMR covered, but what about the "resonance"?
+Nous avons maintenant couvert les parties "nucléaire" et "magnétique"
+de la RMN, mais qu'en est-il de la "résonance" ?
+
+It turns out that particular frequencies of radio waves will cause the nuclei to flip from one spin state to the other.
+Il s'avère que des fréquences particulières d'ondes radio feront basculer les noyaux d'un état de spin à l'autre.
+
+When we hit that perfect frequency, 
+that's what we call "resonance"  
+Lorsque nous atteignons cette fréquence parfaite,
+c'est ce que nous appelons la "résonance"
+
+and the nuclei absorb the 
+energy of the radio waves.
+et les noyaux absorbent l'
+énergie des ondes radio.
+
+This is where a detector measures 
+the frequency and intensity of the radio wave that got absorbed,  
+C'est là qu'un détecteur mesure
+la fréquence et l'intensité de l'onde radio qui a été absorbée
+
+and plots it on a spectrum.
+et la trace sur un spectre.
+
+In this episode we’re going 
+to concentrate on proton NMR,  
+Dans cet épisode, nous allons
+nous concentrer sur la RMN du proton,
+
+which tells us about the hydrogen nuclei – 
+and therefore hydrogen atoms – in molecules.
+qui nous renseigne sur les noyaux d'hydrogène -
+et donc les atomes d'hydrogène - dans les molécules.
+
+In general, we'll get a huge magnet, 
+and dissolve our chemical sample in a special deuterated solvent,
+En général, nous obtenons un énorme aimant
+et dissolvons notre échantillon chimique dans un solvant deutéré spécial,
+
+where the hydrogen atoms are replaced by deuterium.
+où les atomes d'hydrogène sont remplacés par du deutérium.
+
+If we used a regular old solvent with 
+protons,
+Si nous utilisions un ancien solvant ordinaire contenant des
+protons,
+
+the signals from our organic chemical would be overwhelmed by the 
+hydrogens on all the solvent molecules!
+les signaux de notre produit chimique organique seraient submergés par les
+hydrogènes de toutes les molécules de solvant !
+
+Then, we put our tiny solution of chemical 
+sample in the middle of the magnet,  
+Ensuite, nous plaçons notre minuscule solution d'
+échantillon chimique au milieu de l'aimant,
+
+blast a pulse of radio waves, and measure 
+the energy released by the nuclei
+émettons une impulsion d'ondes radio et mesurons
+l'énergie libérée par les noyaux
+
+as the different hydrogen atoms in the chemical go 
+from resonance back to their ground state.
+lorsque les différents atomes d'hydrogène du produit chimique passent
+de la résonance à leur état fondamental.
+
+Like IR spectroscopy that we talked about in 
+Episode 5, we get a spectrum from the sample.
+Comme la spectroscopie IR dont nous avons parlé dans l'
+épisode 5, nous obtenons un spectre à partir de l'échantillon.
+
+Once we look at some proton NMR spectra,  
+Une fois que nous aurons examiné certains spectres de RMN du proton,
+
+we'll get the hang of these patterns 
+– let's start with a simple example!
+nous comprendrons ces
+schémas                                                                                         , les, un simple, simple, nous, simple, exemple simple, à l'exemple, nous---------»»
+
+This is the spectrum for chloromethyl methyl 
+ether, or MOM chloride to its friends.
+C'est le spectre de l'éther méthylique de chlorométhyle
+, ou chlorure de MOM pour ses amis.
+
+The x-axis is measured in ppm, 
+which stands for parts per million.
+L'axe des x est mesuré en ppm,
+qui signifie parties par million.
+
+It has to do with the ratio between the radio frequency source and the energy required to cause the nuclei to flip spin.
+Cela a à voir avec le rapport entre la source de radiofréquence et l'énergie nécessaire pour faire tourner les noyaux.
+
+The process of adding deuterium to solvents 
+isn’t perfect,
+Le processus d'ajout de deutérium aux solvants
+n'est pas parfait,
+
+so a few hydrogens from the NMR solvent show up as a peak, which we can 
+use to set the scale of our NMR spectrum.
+donc quelques hydrogènes du solvant RMN apparaissent comme un pic, que nous pouvons
+utiliser pour définir l'échelle de notre spectre RMN.
+
+Or we can include a standard 
+chemical called tetramethylsilane,  
+Ou nous pouvons inclure un
+produit chimique standard appelé tétraméthylsilane,
+
+or TMS in the sample, which 
+produces a very strong signal.
+ou TMS dans l'échantillon, qui
+produit un signal très fort.
+
+TMS shows up on the far right of the spectrum and usually doesn’t overlap with the peaks from the hydrogens on our organic chemical.
+Le TMS apparaît à l'extrême droite du spectre et ne chevauche généralement pas les pics des hydrogènes sur notre produit chimique organique.
+
+Basically, the standard provides a 
+comparison point for the other peaks.
+Fondamentalement, la norme fournit un
+point de comparaison pour les autres pics.
+
+It’s a bit like measuring times against GMT: 
+if you live in New York, your time zone is GMT -5:00   
+C'est un peu comme mesurer les heures par rapport à l'heure GMT :
+si vous habitez à New York, votre fuseau horaire est GMT -5:00
+
+while someone in Paris is on GMT +1:00, and 
+someone in Canberra, Australia is on GMT +11:00.
+alors que quelqu'un à Paris est sur GMT +1:00, et
+quelqu'un à Canberra, en Australie, est sur GMT +11:00  .
+
+So, ignoring the peak at 0 from our TMS standard,  
+Ainsi, en ignorant le pic à 0 de notre norme TMS,
+
+there are only two peaks we need 
+to analyze in this spectrum.
+il n'y a que deux pics
+à analyser dans ce spectre.
+
+Using a computer, we can label each of these 
+peaks with the integral, the area underneath them,  
+À l'aide d'un ordinateur, nous pouvons étiqueter chacun de ces
+pics avec l'intégrale, la zone en dessous,
+
+which corresponds to the ratio of the number 
+of protons in that part of the molecule.
+qui correspond au rapport du nombre
+de protons dans cette partie de la molécule.
+
+One of our peaks here has an integral 
+value of three, which means three protons.
+L'un de nos pics ici a une
+valeur intégrale de trois, ce qui signifie trois protons.
+
+So that means there's probably a 
+methyl group, CH3, in our sample.
+Cela signifie donc qu'il y a probablement un
+groupe méthyle, CH3, dans notre échantillon.
+
+The other peak has an integral of two, which 
+suggests our chemical also contains a CH2 group.
+L'autre pic a une intégrale de deux, ce qui
+suggère que notre produit chimique contient également un groupe CH2.
+
+So if we were a chemist in a lab who didn't know, 
+but just suspected that we had MOM chloride,  
+Donc, si nous étions un chimiste dans un laboratoire qui ne savait pas,
+mais soupçonnait simplement que nous avions du chlorure de MOM,
+
+we could check whether the structure of our 
+suspected molecule fits with our spectrum.
+nous pourrions vérifier si la structure de notre
+molécule suspectée correspond à notre spectre.
+
+And yep, there sure is a CH3 
+and a CH2 group in MOM chloride!
+Et oui, il y a bien sûr un groupe CH3
+et un groupe CH2 dans le chlorure de MOM !
+
+One of the peaks is upfield,  
+L'un des pics est en amont,
+
+or further to the right, and the other is 
+more downfield, or further to the left.
+ou plus à droite, et l'autre est
+plus en aval, ou plus à gauche.
+
+That's because the protons making up these peaks 
+are surrounded by different amounts of electrons,  
+C'est parce que les protons qui composent ces pics
+sont entourés de différentes quantités d'électrons,   en
+
+because of different neighboring atoms.
+raison de différents atomes voisins.
+
+Nearby electrons from other atoms can shield 
+the proton nuclei from the magnetic field so they feel it less,   
+Les électrons proches d'autres atomes peuvent protéger
+les noyaux de protons du champ magnétique afin qu'ils le ressentent moins,
+
+and we need a lower 
+frequency radio wave to flip the spin.
+et nous avons besoin d'une
+onde radio de fréquence inférieure pour inverser le spin.
+
+On the other hand, electronegative atoms can draw electrons away from proton 
+nuclei so they're deshielded,  
+D'autre part, les atomes électronégatifs peuvent éloigner les électrons des noyaux de protons
+afin qu'ils soient déblindés,
+
+feel the magnetic field more, and we need a 
+higher frequency radio wave to flip the spin.
+ressentent davantage le champ magnétique et nous avons besoin d'une
+onde radio de fréquence plus élevée pour inverser le spin.
+
+Taking a look at MOM chloride,  
+En regardant le chlorure de MOM,
+
+we can see the CH3 group is attached 
+to an electronegative element, oxygen.
+nous pouvons voir que le groupe CH3 est attaché
+à un élément électronégatif, l'oxygène.
+
+But the CH2 group is sandwiched 
+between two electronegative atoms:
+Mais le groupe CH2 est pris en sandwich
+entre deux atomes électronégatifs :
+
+an oxygen and a chlorine.
+un oxygène et un chlore.
+
+So the electrons near the CH2 group are more 
+drawn away, the proton nuclei are more deshielded,  
+Ainsi, les électrons proches du groupe CH2 sont plus
+éloignés, les noyaux de protons sont plus déblindés
+
+and the peak is downfield of the CH3 group.
+et le pic est en aval du groupe CH3.
+
+To keep it really simple:
+Pour faire simple
+
+just remember that the presence of electronegative 
+atoms or groups shifts peaks to the left.
+: n'oubliez pas que la présence d'
+atomes ou de groupes électronégatifs déplace les pics vers la gauche.
+
+In proton NMR, the peaks on the spectrum actually have pretty consistent shifts based on the electronegativity and hybridization of the atoms near the protons.
+En RMN du proton, les pics du spectre ont en fait des décalages assez cohérents basés sur l'électronégativité et l'hybridation des atomes à proximité des protons.  Cependant, des
+
+Tables like this can’t cover 
+every possibility, though,  
+tableaux comme celui-ci ne peuvent pas couvrir
+toutes les possibilités
+
+which is why we need to understand how to think 
+about electronegativity and chemical shift!
+, c'est pourquoi nous devons comprendre comment penser
+à l'électronégativité et au déplacement chimique !
+
+Okay, now that we've talked through the MOM 
+chloride spectrum, let’s try another example.
+Bon, maintenant que nous avons parlé du
+spectre du chlorure MOM , essayons un autre exemple.
+
+This is the proton NMR spectrum of ethanol.
+C'est le spectre RMN du proton de l'éthanol.
+
+There are three peaks in this one, but two 
+of them are more like… groups of lines.
+Il y a trois pics dans celui-ci, mais deux
+d'entre eux ressemblent plus à… des groupes de lignes.
+
+There are lots of protons in organic molecules,  
+Il y a beaucoup de protons dans les molécules organiques,
+
+and remember that each nucleus with an odd 
+mass number has spin and a magnetic moment.
+et rappelez-vous que chaque noyau avec un
+nombre de masse impair a un spin et un moment magnétique.
+
+So protons on one carbon can influence protons on 
+an adjacent carbon in a process called coupling.
+Ainsi, les protons d'un carbone peuvent influencer les protons d'
+un carbone adjacent dans un processus appelé couplage.
+
+This leads to the split peaks, or 
+groups of lines, that we’re seeing here.
+Cela conduit aux pics divisés, ou
+groupes de lignes, que nous voyons ici.
+
+In fact, this has been observed so regularly that we can predict how many times a peak will be split.
+En fait, cela a été observé si régulièrement que nous pouvons prédire combien de fois un pic sera divisé.
+
+Thanks to the aptly named n+1 rule, 
+we know that a peak will be split n+1 times,
+Grâce à la règle bien nommée n+1,
+nous savons qu'un pic sera divisé n+1 fois,
+
+where n is the number 
+of protons on adjacent carbons.
+où n est le nombre
+de protons sur les carbones adjacents.
+
+The best way to understand 
+splitting is by looking at examples,  
+La meilleure façon de comprendre le
+fractionnement est de regarder des exemples,
+
+so let's start with our most shielded peak.
+alors commençons par notre pic le plus protégé.
+
+It's at about 1 ppm with an integral of 
+three, so we know it's the CH3 group.
+C'est à environ 1 ppm avec une intégrale de
+trois, nous savons donc qu'il s'agit du groupe CH3.
+
+We’re still practicing, so let’s 
+look at the structure of ethanol.
+Nous nous entraînons toujours, alors
+regardons la structure de l'éthanol.
+
+The CH3 group is bonded to a CH2 group.
+Le groupe CH3 est lié à un groupe CH2.
+
+There are two protons on the 
+neighboring carbon that are coupled.
+Il y a deux protons sur le
+carbone voisin qui sont couplés.
+
+This means n is 2.
+Cela signifie que n est 2.
+
+Using the n+1 rule, we can do 2+1 = 3.
+En utilisant la règle n+1, nous pouvons faire 2+1 = 3.
+
+So the CH3 peak should be split into three.
+Ainsi, le pic CH3 doit être divisé en trois.
+
+Now, going one peak downfield at about 3 
+ppm, we see the CH2 group in our spectrum.
+Maintenant, en descendant un pic vers le bas à environ 3
+ppm, nous voyons le groupe CH2 dans notre spectre.
+
+It's downfield of the CH3 because the CH2 group 
+is bonded to an electronegative oxygen atom.
+C'est en aval du CH3, car le groupe CH2
+est lié à un atome d'oxygène électronégatif.
+
+In the structure of ethanol, we know that 
+the CH2 group is bonded to the CH3 group,  
+Dans la structure de l'éthanol, nous savons que
+le groupe CH2 est lié au groupe CH3,
+
+so there are three protons on the neighboring 
+carbon that are coupled, and n is 3.
+il y a donc trois protons sur le
+carbone voisin qui sont couplés, et n est 3.
+
+Using the n+1 rule, 3+1 = 4, so 
+the CH2 peak is split into four.
+En utilisant la règle n+1, 3+1 = 4,
+le pic CH2 est donc divisé en quatre.
+
+Plus, it has an integral of two, 
+telling us there are two protons.
+De plus, il a une intégrale de deux,
+nous indiquant qu'il y a deux protons.
+
+These split peak patterns or 
+multiplicities have special names, too.
+Ces modèles de pics partagés ou
+multiplicités ont également des noms spéciaux.
+
+The CH3 peak split into three is a triplet, 
+and the CH2 peak split into four is a quartet.
+Le pic CH3 divisé en trois est un triplet,
+et le pic CH2 divisé en quatre est un quatuor.
+
+The third peak at about 4 ppm is the proton 
+on the OH group of our ethanol molecule.
+Le troisième pic à environ 4 ppm est le proton
+sur le groupe OH de notre molécule d'éthanol.
+
+OH protons are tricky because they can swap 
+with other protons in the sample solution,  
+Les protons OH sont délicats car ils peuvent échanger
+avec d'autres protons dans la solution d'échantillon,
+
+and can turn up as usually unsplit peaks 
+pretty much anywhere in the spectrum.
+et peuvent apparaître comme des pics généralement non divisés à
+peu près n'importe où dans le spectre.
+
+In fact, sometimes they don’t show up at all!
+En fait, parfois, ils ne se présentent pas du tout !
+
+It’s also important to mention that the 
+protons on oxygen and nitrogen don’t split the protons on adjacent carbons,
+Il est également important de mentionner que les
+protons sur l'oxygène et l'azote ne divisent pas les protons sur les carbones adjacents,
+
+so these protons don’t count when figuring out n+1.
+donc ces protons ne comptent pas lors de la détermination de n + 1.
+
+After you look at more peaks and more spectra, 
+solving these logic puzzles can be fun!
+Après avoir examiné plus de pics et plus de spectres,
+résoudre ces énigmes logiques peut être amusant !
+
+And because the whole point of proton NMR 
+is to figure out the structure of molecules,  
+Et parce que tout l'intérêt de la RMN du proton
+est de comprendre la structure des molécules,
+
+this next spectrum doesn't come with a named 
+structure like MOM chloride or ethanol.
+ce spectre suivant ne vient pas avec une
+structure nommée comme le chlorure de MOM ou l'éthanol.
+
+Fortunately, we have a high resolution mass 
+spectrum that gives us our chemical formula:  
+Heureusement, nous disposons d'un spectre de masse à haute résolution
+qui nous donne notre formule chimique :
+
+C5H8O2.
+C5H8O2.
+
+So let’s start with the most 
+shielded part of the spectrum.
+Commençons donc par la partie la plus
+protégée du spectre.
+
+We have two single peaks that have 
+integrals of three protons each.
+Nous avons deux pics uniques qui ont des
+intégrales de trois protons chacun.
+
+So, it looks like we have two CH3 
+groups on our mystery molecule.
+Il semble donc que nous ayons deux
+groupes CH3 sur notre molécule mystérieuse.
+
+Next, we can see that the 
+most deshielded single peak,  
+Ensuite, nous pouvons voir que le
+pic unique le plus déblindé
+
+has an integral of one proton.
+a une intégrale d'un proton.
+
+Referring back to our handy chart, we can see this 
+is where the proton on a carboxylic acid shows up.
+En se référant à notre tableau pratique, nous pouvons voir que
+c'est là que le proton sur un acide carboxylique apparaît.
+
+And what do you know, we have 
+two oxygen atoms in our formula,  
+Et que savez-vous, nous avons
+deux atomes d'oxygène dans notre formule,
+
+which fits perfectly with that thought!
+ce qui correspond parfaitement à cette pensée !
+
+Let’s add this fragment to the 
+pieces of our molecule puzzle.
+Ajoutons ce fragment aux
+pièces de notre puzzle moléculaire.
+
+One more peak to go!
+Encore un sommet à parcourir !
+
+And this single peak, corresponding to 
+one proton, is a bit deshielded too.
+Et ce pic unique, correspondant à
+un proton, est également un peu déblindé.
+
+In fact, looking at our chart again, it’s 
+showing up in the range of alkene hydrogen atoms.
+En fait, en regardant à nouveau notre graphique, il
+apparaît dans la gamme des atomes d'hydrogène des alcènes.
+
+The trickiest part about putting these four pieces together is figuring out where to place the two methyl groups and the carboxylic acid on our alkene.
+La partie la plus délicate de l'assemblage de ces quatre pièces consiste à déterminer où placer les deux groupes méthyle et l'acide carboxylique sur notre alcène.
+
+To start, let's put the two CH3 groups 
+on different sides of the alkene.
+Pour commencer, plaçons les deux groupes CH3
+de différents côtés de l'alcène.
+
+Wait a second though... with this structure,  
+Attendez une seconde cependant... avec cette structure,
+
+the methyl group is next to a 
+carbon atom with a hydrogen.
+le groupe méthyle est à côté d'un
+atome de carbone avec un hydrogène.
+
+This would split a single peak into a doublet,  
+Cela diviserait un seul pic en un doublet,
+
+and we’d expect the hydrogen atom to be split 
+by the three hydrogens on the methyl too.
+et nous nous attendrions à ce que l'atome d'hydrogène soit également divisé
+par les trois hydrogènes sur le méthyle.
+
+Since we don’t see splitting in the spectrum,
+Puisque nous ne voyons pas de division dans le spectre,
+
+let’s rearrange our structure so the hydrogen atom and both methyl groups won’t 
+be split by any adjacent protons.
+réorganisons notre structure afin que l'atome d'hydrogène et les deux groupes méthyle ne
+soient pas divisés par des protons adjacents.
+
+Even though the two methyl groups are attached 
+to the same carbon, double bonds are rigid.
+Même si les deux groupes méthyle sont attachés
+au même carbone, les doubles liaisons sont rigides.
+
+So one of these groups is stuck on 
+the same side as the carboxylic acid,  
+Ainsi, l'un de ces groupes est collé
+du même côté que l'acide carboxylique,
+
+and one is on the same side as the hydrogen.
+et l'autre est du même côté que l'hydrogène.
+
+These methyl hydrogens are in 
+different chemical environments,  
+Ces hydrogènes de méthyle se trouvent dans
+des environnements chimiques différents,
+
+and they're not chemically equivalent, so 
+that's why they show up as two different peaks!
+et ils ne sont pas chimiquement équivalents,
+c'est pourquoi ils apparaissent sous la forme de deux pics différents !
+
+We’ll talk more about chemical equivalence in a later episode when we look at the proton NMR spectra of aromatic compounds.
+Nous parlerons davantage de l'équivalence chimique dans un épisode ultérieur lorsque nous examinerons les spectres RMN du proton des composés aromatiques.
+
+But in this episode we’ve learned:
+Mais dans cet épisode, nous avons appris :
+
+Nuclear Magnetic Resonance helps us visualize 
+the atoms in molecules as peaks in a spectrum
+la résonance magnétique nucléaire nous aide à visualiser
+les atomes dans les molécules sous forme de pics dans un spectre.
+
+In proton NMR, the integral tells us 
+how many hydrogens each peak represents
+Dans la RMN du proton, l'intégrale nous indique
+combien d'hydrogènes chaque pic représente les
+
+Nuclei close to electronegative 
+atoms appear downfield on a spectrum
+noyaux proches des
+atomes électronégatifs apparaissent dans le champ inférieur sur un spectre
+
+And split peaks, or multiplicity, give clues 
+about how atoms are joined to other atoms.
+et se séparent  les pics, ou la multiplicité, donnent des indices
+sur la façon dont les atomes sont joints à d'autres atomes.
+
+In the next episode, we’ll work our way through 
+reactions of some other often-fragrant compounds:
+Dans le prochain épisode, nous allons nous frayer un chemin à travers les
+réactions de certains autres composés souvent parfumés : les
+
+aldehydes and ketones!
+aldéhydes et les cétones !
+
+Until then, thanks for watching this 
+episode of Crash Course Organic Chemistry.
+En attendant, merci d'avoir regardé cet
+épisode du cours intensif de chimie organique.
+
+If you want to help keep all Crash 
+Course free for everybody, forever,  
+Si vous souhaitez aider à garder tous les
+cours d'initiation gratuits pour tout le monde, pour toujours,
+
+you can join our community on Patreon.
+vous pouvez rejoindre notre communauté sur Patreon.
+

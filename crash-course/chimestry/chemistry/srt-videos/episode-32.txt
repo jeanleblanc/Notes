@@ -1,0 +1,626 @@
+Have you ever been to a demolition derby?
+Avez-vous déjà assisté à un derby de démolition ?
+
+Basically it's a bunch of people driving cars
+around a field,
+Fondamentalement, c'est un groupe de personnes conduisant des voitures
+autour d'un champ,
+
+doing their best to ram into each other while
+protecting themselves as much as possible.
+faisant de leur mieux pour se percuter tout en se
+protégeant autant que possible.
+
+The goal of course is to damage the other
+cars so badly that they can't be driven anymore.
+Le but est bien sûr d'endommager tellement les autres
+voitures qu'elles ne peuvent plus être conduites.
+
+The driver of the last operational car wins.
+Le conducteur de la dernière voiture opérationnelle gagne.
+
+You know Crash Course chemistry well enough
+to know that
+Vous connaissez assez bien la chimie du Crash Course
+pour savoir que
+
+I probably wouldn't have mentioned this if
+it have some relation to chemistry.
+je n'aurais probablement pas mentionné cela si
+cela avait un lien avec la chimie.
+
+So yeah it does, chemical reactions basically
+work just like this.
+Alors oui, les réactions chimiques
+fonctionnent essentiellement comme ça.
+
+Atoms and molecules move around their environment
+occasionally ramming into each other.
+Les atomes et les molécules se déplacent dans leur environnement et
+se heurtent parfois les uns aux autres.
+
+If they do it right, a reaction happens between
+them, and if enough of them do it,
+S'ils le font correctement, une réaction se produit entre
+eux, et s'ils sont suffisamment nombreux à le faire,
+
+the concentration of the reacting molecules will go down while the concentration of the products goes up. Win.
+la concentration des molécules réagissantes diminuera tandis que la concentration des produits augmentera.  Gagner. 
+
+But it's not as simple as it sounds, for demolition
+drivers, or for chemicals;
+Mais ce n'est pas aussi simple qu'il y paraît, pour les
+conducteurs de démolition ou pour les produits chimiques ;
+
+in both cases a lot of the collisions that
+occur have very little effect on the end result.
+dans les deux cas, un grand nombre des collisions qui
+se produisent ont très peu d'effet sur le résultat final.
+
+One molecule hitting another doesn't mean
+a reaction's going to take place.
+Une molécule en heurtant une autre ne signifie pas
+qu'une réaction va avoir lieu.
+
+In the same way that just randomly bumping into a guys car doesn't mean you're gonna ram him out of the derby.
+De la même manière que le simple fait de heurter au hasard la voiture d'un mec ne signifie pas que vous allez le faire sortir du derby.
+
+So, what makes a collision effective? The hit has to be hard enough and it has to be aligned just right.
+Alors, qu'est-ce qui rend une collision efficace ?  Le coup doit être assez fort et il doit être parfaitement aligné.
+
+The branch of chemistry that studies how these collisions effect the rate of reactions is Kinetics.
+La branche de la chimie qui étudie comment ces collisions affectent le taux de réactions est la cinétique.
+
+And if you ask me it's just as exciting and a heck of a lot more useful than demolition derbies.
+Et si vous me demandez, c'est tout aussi excitant et bien plus utile que les derbies de démolition.
+
+If only they sold funnel cakes in chemistry
+class.
+Si seulement ils vendaient des funnel cakes en cours de
+chimie.
+
+[Theme Music]
+[Thème musical]
+
+So if chemical reactions only work when particles
+bang into each other good and hard,
+Donc, si les réactions chimiques ne fonctionnent que lorsque les particules
+s'entrechoquent durement,
+
+just how hard do they have to bang into each
+other?
+à quel point doivent-elles
+s'entrechoquer ?
+
+Every reaction has a minimum amount of energy
+required to get it started.
+Chaque réaction a une quantité minimale d'énergie
+nécessaire pour la faire démarrer.
+
+This is known as the activation energy.
+C'est ce qu'on appelle l'énergie d'activation.
+
+Molecules require this much energy to hit other molecules hard enough to break them apart
+Les molécules ont besoin de cette énergie pour frapper d'autres molécules suffisamment fort pour les briser
+
+and reform them in different ways;
+without it nothing will happen.
+et les reformer de différentes manières ;
+sans cela rien ne se passera.
+
+It's like a hill that molecules have to get
+over before they can go any farther.
+C'est comme une colline que les molécules doivent
+franchir avant de pouvoir aller plus loin.
+
+So where do they get this energy? Well it's
+kinetic energy, the actual speed of the particles.
+Alors, où puisent-ils cette énergie ?  C'est de
+l'énergie cinétique, la vitesse réelle des particules.
+
+So just like the cars in a demolition derby,
+all else being equal,
+Donc, tout comme les voitures dans un derby de démolition,
+toutes choses étant égales par ailleurs
+
+the faster the particles move, the harder
+the collision will be.
+, plus les particules se déplacent rapidement, plus
+la collision sera dure.
+
+But still no matter how hard they hit it won't do any good if they're not hitting the right way, in the right places.
+Mais peu importe à quel point ils frappent, cela ne servira à rien s'ils ne frappent pas de la bonne manière, aux bons endroits.
+
+Like, if you keep smashing into the back of some guy's trunk it's not going to stop his car, there's no engine back there.
+Par exemple, si vous continuez à percuter l'arrière du coffre d'un type, cela n'arrêtera pas sa voiture, il n'y a pas de moteur là-bas.
+
+You can bang Velcro together all day and night and if it's not turned the right way it'll never stick together.
+Vous pouvez coller du velcro toute la journée et toute la nuit et s'il n'est pas tourné dans le bon sens, il ne collera jamais.
+
+Same thing with molecules.
+Même chose avec les molécules.
+
+As an example take nitric oxide, one of the
+byproducts of gasoline combustion,
+À titre d'exemple, prenons l'oxyde nitrique, l'un des
+sous-produits de la combustion de l'essence,
+
+and something that you can smell quite clearly
+at a demolition derby.
+et quelque chose que vous pouvez sentir très clairement
+lors d'un derby de démolition.
+
+Under the right conditions it reacts with
+hydrogen gas to produce nitrogen gas and water.
+Dans de bonnes conditions, il réagit avec l'
+hydrogène gazeux pour produire de l'azote gazeux et de l'eau.
+
+But the molecules have to hit each other just
+the right way.
+Mais les molécules doivent se heurter de
+la bonne manière.
+
+To make N2 two NO's have to collide in such
+a way that the nitrogens are together,
+Pour que N2 et deux NO doivent entrer en collision de
+telle sorte que les azotes soient ensemble,
+
+and to get H2O, a molecule of H2 has to collide
+with the oxygen side of an NO molecule.
+et pour obtenir H2O, une molécule de H2 doit entrer en collision
+avec le côté oxygène d'une molécule de NO.
+
+Just like Velcro being turned the wrong way,
+Tout comme le Velcro étant tourné dans le mauvais sens,
+
+you can smack the N side against the H2 all
+day and you'll never get any water from it.
+vous pouvez frapper le côté N contre le H2 toute la
+journée et vous n'en tirerez jamais d'eau.
+
+Now let's say we're having a lot of solid,
+effective collisions between the molecules.
+Supposons maintenant que nous ayons beaucoup de collisions solides et
+efficaces entre les molécules.
+
+The reaction should hum along with no further
+hindrances, right? Well yes and no.
+La réaction devrait bourdonner sans autre
+obstacle, n'est-ce pas ?  Ben oui et non.
+
+Once the energy requirements are met the reaction
+will proceed,
+Une fois que les besoins en énergie sont satisfaits, la réaction
+se poursuivra,
+
+but its speed, or reaction rate, will vary
+wildly from super fast to super slow.
+mais sa vitesse, ou vitesse de réaction, variera
+énormément de super rapide à super lente.
+
+So the reaction rate, that's the rate at which
+the concentrations of the reacts decrease
+Donc, la vitesse de réaction, c'est la vitesse à laquelle
+les concentrations des réactifs diminuent
+
+and this has to be determined experimentally.
+et cela doit être déterminé expérimentalement.
+
+It can't be calculated from the energy change
+or any other thermodynamic factor.
+Il ne peut pas être calculé à partir du changement d'énergie
+ou de tout autre facteur thermodynamique.
+
+One useful way to think about the rate is
+a quantity called the reaction's rate law.
+Une façon utile de penser à la vitesse est
+une quantité appelée loi de vitesse de réaction.
+
+It describes the relationship between the
+initial concentrations of the reactants
+Il décrit la relation entre les
+concentrations initiales des réactifs
+
+and the rate at which they react.
+et la vitesse à laquelle ils réagissent.
+
+The rate law for a reaction is written like
+this:
+La loi de vitesse d'une réaction s'écrit comme
+suit :
+
+The rate equals a constant, k, times the concentrations
+of each reactant, raised to some power.
+la vitesse est égale à une constante, k, multipliée par les concentrations
+de chaque réactif, élevées à une certaine puissance.
+
+Notice that only the reactants are used for
+this not the products.
+Notez que seuls les réactifs sont utilisés pour
+cela, pas les produits.
+
+The rate law for our nitric oxide reaction then ends up as k times the nitric oxide concentration raised to some power,
+La loi de vitesse pour notre réaction d'oxyde nitrique se termine alors par k fois la concentration d'oxyde nitrique élevée à une certaine puissance,
+
+times the hydrogen concentration also raised
+to some power.
+fois la concentration d'hydrogène également élevée
+à une certaine puissance.
+
+So you're probably wondering about all those
+raised to some power.
+Vous vous interrogez donc probablement sur tous ceux qui ont été
+élevés à un certain pouvoir.
+
+Like, what power? And you should be wondering
+that.
+Genre, quelle puissance ?  Et vous devriez vous poser la
+question.
+
+The exponents in rate laws are tricky even
+for professional chemists and engineers
+Les exposants des lois de taux sont délicats même
+pour les chimistes et ingénieurs professionnels
+
+because like I said they can only be determined
+experimentally.
+car, comme je l'ai dit, ils ne peuvent être déterminés
+qu'expérimentalement.
+
+It's kinda intense, but we can handle it,
+check it out.
+C'est un peu intense, mais nous pouvons le gérer,
+vérifiez-le.
+
+Suppose we did the reaction a few different
+ways and calculated the rate for each instance.
+Supposons que nous procédions à la réaction de différentes
+manières et que nous calculions le taux pour chaque instance.
+
+Let's say that with the first reaction we
+got a rate of 0.006 moles per liter per second.
+Disons qu'avec la première réaction, nous avons
+obtenu un taux de 0,006 mole par litre par seconde.
+
+Then we repeat the reaction with the same
+amount of nitric oxide
+Puis on répète la réaction avec la même
+quantité de monoxyde d'azote
+
+but this time with twice as much hydrogen
+as before.
+mais cette fois avec deux fois plus d'
+hydrogène qu'auparavant.
+
+And now we find that the rate of the reaction
+is 0.012 moles per liter per second.
+Et maintenant, nous constatons que la vitesse de la réaction
+est de 0,012 mole par litre par seconde.
+
+What does this tell us?
+Qu'est-ce que cela nous dit? 
+
+Well, doubling the hydrogen, doubled the rate;
+Eh bien, doubler l'hydrogène, doubler le taux ;
+
+meaning that the rate and the H2 concentration
+change in exactly the same way.
+ce qui signifie que le taux et la concentration en H2
+changent exactement de la même manière.
+
+So in the rate law this can be expressed be the concentration being raised to the power of 1.
+Ainsi, dans la loi de vitesse, cela peut être exprimé par la concentration élevée à la puissance 1.
+
+Finally we do it one last night with the original
+amount of hydrogen and twice as much NO.
+Enfin, nous le faisons une dernière nuit avec la
+quantité d'hydrogène d'origine et deux fois plus de NO.
+
+This time we find that we get a rate of 0.048
+moles per liter per second.
+Cette fois, nous constatons que nous obtenons un taux de 0,048
+mole par litre par seconde.
+
+Doubling the nitric oxide caused the rate
+to increase by 8 times,
+Doubler l'oxyde nitrique a fait augmenter le taux
+de 8 fois,
+
+and that can be expressed in mathematical
+terms by cubing the concentration term.
+et cela peut être exprimé en
+termes mathématiques en cubant le terme de concentration.
+
+This means that the final rate law for this
+reaction is:
+Cela signifie que la loi de vitesse finale pour cette
+réaction est :
+
+k times the concentration of hydrogen gas to the first power, you need to write out the 1 obviously,
+k fois la concentration d'hydrogène gazeux à la première puissance, vous devez évidemment écrire le 1,
+
+times the concentration of nitric oxide cubed.
+fois la concentration d'oxyde nitrique au cube.
+
+A rate law in this form is said to be of the
+fourth order.
+Une loi de taux sous cette forme est dite du
+quatrième ordre.
+
+We get that by adding the exponents together: 3+1 (there is some math that isn't hard here) that equals 4
+Nous obtenons cela en additionnant les exposants ensemble : 3 + 1 (il y a des calculs qui ne sont pas difficiles ici) qui équivaut à 4 Les
+
+Fourth order reactions are actually quite rare, most reactions are of the zero, first, or second order,
+réactions du quatrième ordre sont en fait assez rares, la plupart des réactions sont du zéro, du premier ou du deuxième ordre,
+
+but in all cases it's calculated exactly as
+we have done here.
+mais dans  dans tous les cas, il est calculé exactement comme
+nous l'avons fait ici.
+
+Now if you've watched our episode on equilibrium
+this formula should look familiar to you.
+Maintenant, si vous avez regardé notre épisode sur l'équilibre,
+cette formule devrait vous sembler familière.
+
+Equilibrium expressions also use bracketed concentrations with exponents, and that's no accident.
+Les expressions d'équilibre utilisent également des concentrations entre crochets avec des exposants, et ce n'est pas un hasard.
+
+Those formulas come from these ones.
+Ces formules viennent de celles-ci.
+
+A reaction is at equilibrium when its forward
+and reverse rates are equal, right?
+Une réaction est à l'équilibre lorsque ses
+vitesses directe et inverse sont égales, n'est-ce pas ?
+
+So if we were to find the reverse rate law for a reaction it would take the same form as the forward one,
+Donc, si nous devions trouver la loi de vitesse inverse pour une réaction, elle prendrait la même forme que la loi directe,
+
+but using the initial concentrations for the
+products rather than the reactants.
+mais en utilisant les concentrations initiales pour les
+produits plutôt que pour les réactifs.
+
+Think of like an imaginary reaction
+A plus B yields C plus D.
+Pensez à une réaction imaginaire
+A plus B donne C plus D.
+
+The lower case letters represent the coefficients
+of the reactants and products.
+Les lettres minuscules représentent les coefficients
+des réactifs et des produits.
+
+The forward rate law if k multiplied by the
+concentration of A raised to some power
+La loi de taux à terme si k multiplié par la
+concentration de A élevée à une certaine puissance
+
+times the initial concentration of B raised
+to some power.
+multipliée par la concentration initiale de B élevée
+à une certaine puissance.
+
+And the reverse is it the same, except with
+C and D in place of A and B.
+Et l'inverse est le même, sauf avec
+C et D à la place de A et B.
+
+Notice that these exponents are not however
+the coefficients of the balanced equation.
+Remarquez que ces exposants ne sont cependant pas
+les coefficients de l'équation équilibrée.
+
+If we write these two terms together to show that the forward and reverse rates are equal, like in equilibrium,
+Si nous écrivons ces deux termes ensemble pour montrer que les taux avant et arrière sont égaux, comme à l'équilibre,
+
+and solve for a single constant, we get something
+that looks very much like an equilibrium expression.
+et résolvons pour une seule constante, nous obtenons quelque chose
+qui ressemble beaucoup à une expression d'équilibre.
+
+For mathematical reasons the exponents don't
+translate,
+Pour des raisons mathématiques, les exposants ne se
+traduisent pas,
+
+but, yeah basically this is where the equilibrium
+equation's come from, pretty cool.
+mais, oui, en gros, c'est de là que vient l'
+équation d'équilibre, plutôt cool.
+
+But if it's that simple why don't all reactions
+just go to an equilibrium state and stay there?
+Mais si c'est aussi simple, pourquoi toutes les réactions n'atteignent-elles pas
+simplement un état d'équilibre et n'y restent-elles pas ?
+
+Well sometimes the reverse reaction isn't as thermodynamic spontaneous for one reason or another.
+Eh bien, parfois, la réaction inverse n'est pas aussi spontanée thermodynamique pour une raison ou une autre.
+
+Sometimes that forward reaction is so vigorous that any reactants that might reform are immediately pushed back into products.
+Parfois, cette réaction directe est si vigoureuse que tout réactif susceptible de se reformer est immédiatement repoussé dans les produits.
+
+Or the products might physically separate
+and have little chance of colliding at all,
+Ou les produits peuvent se séparer physiquement
+et avoir peu de chances d'entrer en collision,
+
+like when products separate into solids and
+gases.
+comme lorsque les produits se séparent en solides et en
+gaz.
+
+Often though it's just that the reverse reaction
+has such a high activation energy
+Souvent, c'est juste que la réaction inverse
+a une énergie d'activation si élevée
+
+that the collisions are almost always ineffective.
+que les collisions sont presque toujours inefficaces.
+
+Because, remember, most reactions don't happen instantly, boom, all at once; instead they happen in steps.
+Parce que, rappelez-vous, la plupart des réactions ne se produisent pas instantanément, boum, tout d'un coup ;  au lieu de cela, ils se produisent par étapes.
+
+And as with any multi-step process the reaction can only happen as fast as the slowest step takes.
+Et comme pour tout processus en plusieurs étapes, la réaction ne peut se produire qu'à la vitesse de l'étape la plus lente.
+
+And sometimes that step is very slow indeed.
+Et parfois, cette étape est vraiment très lente.
+
+Since its what controls how fast everything else can go, we call it the rate limiting or rate determining step.
+Puisque c'est ce qui contrôle la vitesse à laquelle tout le reste peut aller, nous l'appelons l'étape de limitation ou de détermination du débit.
+
+The slowest step, is the one that has the
+highest activation energy.
+Le pas le plus lent est celui qui a l'
+énergie d'activation la plus élevée.
+
+If the particles have trouble getting over
+that part of the energy hill,
+Si les particules ont du mal à franchir
+cette partie de la colline d'énergie
+
+then they'll have trouble making it to the finish line, not matter how fast the other steps are.
+, elles auront du mal à atteindre la ligne d'arrivée, quelle que soit la vitesse des autres étapes.
+
+So in the case of the nitric oxide reaction we've been discussing, there are actually three steps.
+Ainsi, dans le cas de la réaction de l'oxyde nitrique dont nous avons parlé, il y a en fait trois étapes.
+
+First the nitric oxide and the H2 form water
+and elemental nitrogen;
+D'abord l'oxyde nitrique et le H2 forment de l'eau
+et de l'azote élémentaire ;
+
+then the nitrogen combines with another molecule
+of NO to form N2 and elemental oxygen;
+puis l'azote se combine avec une autre molécule
+de NO pour former du N2 et de l'oxygène élémentaire ;
+
+finally that atom of oxygen combines with
+another molecule of H2 to form water.
+enfin cet atome d'oxygène se combine avec
+une autre molécule de H2 pour former de l'eau.
+
+Here step two is the slow one and no matter
+how fast you take the first step,
+Ici, la deuxième étape est la plus lente et quelle
+que soit la vitesse à laquelle vous franchissez la première étape,
+
+the water product can never be produced until
+the nitrogen gas is.
+l'eau ne peut jamais être produite tant que
+l'azote ne l'est pas.
+
+The problem is we can't always afford to wait
+around for reactions to happen on their own,
+Le problème est que nous ne pouvons pas toujours nous permettre d'
+attendre que les réactions se produisent d'elles-mêmes,
+
+sometimes they need to be forced along.
+And that's the job of catalysts.
+il faut parfois les forcer.
+Et c'est le travail des catalyseurs.
+
+A catalyst is a chemical that lowers the activation
+energy of a reaction,
+Un catalyseur est un produit chimique qui diminue l'
+énergie d'activation d'une réaction, l'
+
+thereby speeding it up without actually being
+changed by it.
+accélérant ainsi sans être réellement
+modifié par celle-ci.
+
+Catalysts take many different forms, they can be just another chemical added to the reaction vessel,
+Les catalyseurs prennent de nombreuses formes différentes, ils peuvent être juste un autre produit chimique ajouté au récipient de réaction,
+
+a piece of metal that's in contact with the reacting chemicals, or even a gas that's added to the environment.
+un morceau de métal qui est en contact avec les produits chimiques réactifs, ou même un gaz qui est ajouté à l'environnement.
+
+One of the most common and important classes
+of catalysts are the enzymes in living things.
+L'une des classes de catalyseurs les plus courantes et les plus importantes
+sont les enzymes des êtres vivants.
+
+Without them, many other chemical processes that our bodies must do every day to keep us alive
+Sans eux, de nombreux autres processus chimiques que notre corps doit effectuer chaque jour pour nous maintenir en
+
+would slow essentially to a stop, we literally
+could not survive without them.
+vie ralentiraient essentiellement jusqu'à s'arrêter, nous
+ne pourrions littéralement pas survivre sans eux.
+
+So there you go, in demolition derbies and in chemistry it all comes down to how hard you can hit,
+Alors voilà, dans les derbies de démolition et en chimie, tout dépend de la force avec laquelle vous pouvez frapper
+
+and how well you can aim your punches.
+et de la façon dont vous pouvez viser vos coups.
+
+Chemistry! Surprisingly exciting even without
+funnel-cakes.
+Chimie!  Étonnamment excitant même sans
+funnel-cakes.
+
+Thanks for hanging out for this episode of Crash Course chemistry, if you paid attention you learned that:
+Merci d'avoir participé à cet épisode de Crash Course chemistry, si vous y avez prêté attention, vous avez appris que :
+
+chemical reactions depend on collisions between
+molecules and atoms,
+les réactions chimiques dépendent des collisions entre les
+molécules et les atomes,
+
+that the particles have to be oriented correctly
+when they collide,
+que les particules doivent être orientées correctement
+lorsqu'elles entrent en collision,
+
+and that they have to collide with enough
+energy to meet the threshold for the reaction
+et qu'elles doivent entrer en collision avec suffisamment
+l'énergie nécessaire pour atteindre le seuil de la réaction
+
+known as the activation energy.
+connue sous le nom d'énergie d'activation.
+
+You also learned how to write rate laws and
+figure out their exponents
+Vous avez également appris à écrire des lois de taux et à
+déterminer leurs exposants
+
+and how to calculate the form or order of
+a rate law;
+et à calculer la forme ou l'ordre d'
+une loi de taux ;
+
+you learned how rate laws are related to equilibrium
+expressions,
+vous avez appris comment les lois de vitesse sont liées aux
+expressions d'équilibre,
+
+and finally you learned that chemical reactions
+actually happen in steps.
+et enfin vous avez appris que les réactions chimiques
+se produisent en fait par étapes.
+
+That the slowest step determines the overall
+rate of the reaction
+Que l'étape la plus lente détermine la
+vitesse globale de la réaction
+
+and that the reason for that come right back
+around the activation energy.
+et que la raison en
+revient à l'énergie d'activation.
+
+This episode was written by Edi González
+and edited by Blake de Pastino,
+Cet épisode a été écrit par Edi González
+et édité par Blake de Pastino,
+
+our chemistry consultant is Dr. Heiko Langner and was filmed, edited, and directed by Nicholas Jenkins.
+notre consultant en chimie est le Dr Heiko Langner et a été filmé, édité et réalisé par Nicholas Jenkins.
+
+The script supervisor was Michael Aranda, who is also our sound designer and our graphics team is Thought Café.
+Le superviseur du scénario était Michael Aranda, qui est également notre concepteur sonore et notre équipe graphique est Thought Café.
+

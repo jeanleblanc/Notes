@@ -1,0 +1,758 @@
+You can review content from Crash Course Organic Chemistry with the Crash Course App,
+Vous pouvez consulter le contenu de Crash Course Organic Chemistry avec l'application Crash Course,
+
+available now for Android and iOS devices.
+disponible dès maintenant pour les appareils Android et iOS.
+
+Hi! I’m Deboki Chakravarti and welcome to
+Crash Course Organic Chemistry!
+Salut!  Je suis Deboki Chakravarti et bienvenue au cours intensif de
+chimie organique !
+
+In April 1986, an accident occurred at the
+now-infamous Chernobyl Power Plant in the north of the Ukrainian SSR.
+En avril 1986, un accident s'est produit dans la
+désormais tristement célèbre centrale électrique de Tchernobyl, dans le nord de la RSS d'Ukraine.
+
+The explosion of one of its nuclear reactors
+threw out a lot of the radioactive isotope iodine-131,
+L'explosion de l'un de ses réacteurs nucléaires a
+rejeté une grande partie de l'isotope radioactif iode-131,
+
+which contaminated the nearby area –
+qui a contaminé la zone voisine -
+
+including anyone living or working there.
+y compris toute personne qui y vivait ou y travaillait.
+
+In humans, this radioactive iodine affects
+the hormones produced by the thyroid gland.
+Chez l'homme, cet iode radioactif affecte
+les hormones produites par la glande thyroïde.
+
+Thyroxine, for example, helps regulate the
+body’s metabolic rate, digestion,
+La thyroxine, par exemple, aide à réguler
+le taux métabolique, la digestion,
+
+muscle control, and brain development.
+le contrôle musculaire et le développement du cerveau.
+
+Iodine is incorporated into thyroid hormones
+in an electrophilic aromatic substitution, or EAS, reaction.
+L'iode est incorporé aux hormones thyroïdiennes
+dans une réaction de substitution aromatique électrophile, ou EAS.
+
+The thyroid cells use any iodine they come
+across –
+Les cellules thyroïdiennes utilisent tout l'iode qu'elles
+rencontrent,
+
+radioactive or not.
+radioactif ou non.
+
+But the radioactive form destroys cells in
+the thyroid gland, and, long term,
+Mais la forme radioactive détruit les cellules de
+la glande thyroïde et, à long terme,
+
+this leads to thyroid cancers.
+cela conduit à des cancers de la thyroïde.
+
+There are some medicines that doctors could
+prescribe after the Chernobyl disaster,
+Il existe certains médicaments que les médecins pourraient
+prescrire après la catastrophe de Tchernobyl,
+
+like iodine pills, which contain potassium
+iodide –
+comme les pilules d'iode, qui contiennent de l'
+iodure de potassium -
+
+with non-radioactive iodine-127.
+avec de l'iode-127 non radioactif.
+
+If taken quickly after exposure,
+S'il est pris rapidement après l'exposition,
+
+the iodine from these pills can temporarily
+satisfy the thyroid's need and prevent the incorporation of the harmful isotope.
+l'iode de ces pilules peut temporairement
+satisfaire les besoins de la thyroïde et empêcher l'incorporation de l'isotope nocif.
+
+If a chemist wanted to make thyroid hormones
+in the lab,
+Si un chimiste voulait fabriquer des hormones thyroïdiennes
+en laboratoire,
+
+they’d need to think really carefully about
+the reaction.
+il devrait réfléchir très attentivement à
+la réaction.
+
+The iodine atoms are added right next to the
+OH groups on the ring,
+Les atomes d'iode sont ajoutés juste à côté des
+groupes OH sur le cycle,
+
+and EAS reactions have specific regioselectivity
+when you add multiple groups.
+et les réactions EAS ont une régiosélectivité spécifique
+lorsque vous ajoutez plusieurs groupes.
+
+So let's learn how this regioselectivity works!
+Alors apprenons comment fonctionne cette régiosélectivité !
+
+[Theme music]
+[Thème musical]
+
+In episode 37, we looked at what happens when
+we add a group to a benzene ring through electrophilic aromatic substitution.
+Dans l'épisode 37, nous avons examiné ce qui se passe lorsque
+nous ajoutons un groupe à un cycle benzénique par substitution aromatique électrophile.
+
+But we only looked at adding one group.
+Mais nous n'avons envisagé d'ajouter qu'un seul groupe.
+
+When you add another group through EAS, things
+get interesting.
+Lorsque vous ajoutez un autre groupe via EAS, les choses
+deviennent intéressantes.
+
+We count around the ring from the first group
+we added, kind of like a clock –
+Nous comptons autour du ring à partir du premier groupe que
+nous avons ajouté, un peu comme une horloge -
+
+except a clock with only 6 hours on it.
+sauf une horloge avec seulement 6 heures dessus.
+
+For example, let’s say we have two bromines
+on a benzene ring.
+Par exemple, disons que nous avons deux bromes
+sur un cycle benzénique.
+
+If they’re right next to each other, we
+have 1,2-dibromobenzene,
+S'ils sont côte à côte, nous
+avons du 1,2-dibromobenzène
+
+which is commonly called ortho-dibromobenzene.
+, communément appelé ortho-dibromobenzène.
+
+If the second bromine is in the 3 position,
+that’s called meta-dibromobenzene,
+Si le deuxième brome est en position 3,
+cela s'appelle le méta-dibromobenzène,
+
+and on the 4 it's para-dibromobenzene.
+et sur le 4, c'est le para-dibromobenzène.
+
+After that, there's not really a 5 and 6 position.
+Après ça, il n'y a plus vraiment de position 5 et 6.
+
+Because benzene has a plane of symmetry, we’re
+just making the meta and ortho compound again.
+Parce que le benzène a un plan de symétrie, nous recréons
+simplement le composé méta et ortho.
+
+So there are basically three possible "parking
+spots" for that second compound.
+Il y a donc essentiellement trois "places de stationnement" possibles
+pour ce deuxième complexe.
+
+Now, to figure out which of these molecules
+we make in a reaction,
+Maintenant, pour déterminer laquelle de ces molécules
+nous fabriquons dans une réaction,
+
+we have to use our old friend: inductive effects.
+nous devons utiliser notre vieil ami : les effets inductifs.
+
+In episode 14, for example, we explored how
+alkyl groups are electron donating –
+Dans l'épisode 14, par exemple, nous avons exploré comment
+les groupes alkyle sont donneurs d'électrons -
+
+they push electrons toward another group.
+ils poussent les électrons vers un autre groupe.
+
+This is why tertiary carbocations are more
+stable than primary ones –
+C'est pourquoi les carbocations tertiaires sont plus
+stables que les primaires -
+
+the inductive effect stabilizes the positive
+charge on the carbon.
+l'effet inductif stabilise la
+charge positive sur le carbone.
+
+With benzene rings, chemists sort groups into
+electron donating groups and electron withdrawing groups.
+Avec les cycles benzéniques, les chimistes trient les groupes en
+groupes donneurs d'électrons et en groupes attracteurs d'électrons.
+
+And since that’s a lot to write out, you’ll
+usually see EDG and EWG.
+Et comme c'est beaucoup à écrire, vous
+verrez généralement EDG et EWG.
+
+Electron donating groups, as the name suggests,
+push electrons away from themselves.
+Les groupes donneurs d'électrons, comme leur nom l'indique,
+éloignent les électrons d'eux-mêmes.
+
+Electron withdrawing groups draw electrons
+towards themselves.
+Les groupes attracteurs d'électrons attirent les électrons
+vers eux-mêmes.
+
+The first group on a benzene ring is like
+a parking lot attendant,
+Le premier groupe sur un anneau de benzène est comme
+un préposé au stationnement,
+
+directing the following groups to one of three
+other “parking spots” around the ring.
+dirigeant les groupes suivants vers l'un des trois
+autres « places de stationnement » autour de l'anneau.
+
+Electron donating groups activate the ring,
+Les groupes donneurs d'électrons activent le cycle, le
+
+making it react faster than a plain, unsubstituted
+benzene would.
+faisant réagir plus rapidement qu'un benzène ordinaire non substitué
+.
+
+They push electrons into the ring, making
+it more nucleophilic,
+Ils poussent les électrons dans l'anneau, le
+rendant plus nucléophile,
+
+and therefore more likely to react with electrophiles
+in EAS reactions.
+et donc plus susceptible de réagir avec les électrophiles
+dans les réactions EAS.
+
+Also, electron donating groups direct the
+incoming group to “park” at the ortho and para positions.
+De plus, les groupes donneurs d'électrons ordonnent au
+groupe entrant de «se garer» aux positions ortho et para.
+
+Electron withdrawing groups, on the other
+hand, deactivate the ring,
+Les groupes attracteurs d'électrons, d'autre
+part, désactivent le cycle, le
+
+making it less susceptible to reaction than
+plain benzene.
+rendant moins sensible à la réaction que
+le benzène ordinaire.
+
+They pull electrons from the ring, making
+it less nucleophilic,
+Ils tirent les électrons de l'anneau, le
+rendant moins nucléophile
+
+and less likely to react with electrophiles,
+which makes reactions slower.
+et moins susceptible de réagir avec les électrophiles,
+ce qui ralentit les réactions.
+
+Also, electron withdrawing groups tell the
+incoming group to park at the meta position.
+De plus, les groupes attracteurs d'électrons indiquent au
+groupe entrant de se garer à la position méta.
+
+To tell whether something is an EDG or EWG,
+Pour dire si quelque chose est un EDG ou un EWG,
+
+we don't just look at the electronegativity
+of the atom directly attached to the ring.
+nous ne regardons pas seulement l'électronégativité
+de l'atome directement attaché à l'anneau.
+
+We need to think about resonance structures.
+Nous devons penser aux structures de résonance.
+
+Let’s take a look at an example: the nitrile
+or cyano group, C-triple-bond-N.
+Prenons un exemple : le groupe nitrile
+ou cyano, C-triple-bond-N.
+
+This compound is neutral charge-wise,
+Ce composé est neutre en termes de charge,
+
+so any resonance structure we draw will have
+to be neutral overall, with charges that cancel each other out.
+donc toute structure de résonance que nous dessinons
+devra être globalement neutre, avec des charges qui s'annulent.
+
+We can draw a resonance structure where a
+pair of electrons from the triple bond goes to the more electronegative nitrogen,
+Nous pouvons dessiner une structure de résonance où une
+paire d'électrons de la triple liaison va à l'azote le plus électronégatif,
+
+putting a negative charge on that and leaving
+a positive-charged carbon.
+mettant une charge négative dessus et laissant
+un carbone chargé positivement.
+
+To figure out other resonance structures,
+we can use a strategy from episode 10!
+Pour comprendre d'autres structures de résonance,
+on peut utiliser une stratégie de l'épisode 10 !
+
+Basically, we find groups of three atoms that
+share electrons in p-orbitals –
+Fondamentalement, nous trouvons des groupes de trois atomes qui
+partagent des électrons dans les orbitales p -
+
+so there has to be a pi bond and an adjacent
+p-orbital with 0, 1 or 2 electrons in it.
+il doit donc y avoir une liaison pi et une
+orbitale p adjacente contenant 0, 1 ou 2 électrons.
+
+In this case, we have an aromatic ring, so
+that's our pi bond.
+Dans ce cas, nous avons un cycle aromatique,
+c'est donc notre liaison pi.
+
+And because we pushed electrons onto the nitrile
+group's nitrogen,
+Et parce que nous avons poussé des électrons sur l'
+azote du groupe nitrile,
+
+there’s an empty p orbital on the carbon.
+il y a une orbitale p vide sur le carbone.
+
+So, we can mark these three atoms, number
+them,
+Ainsi, nous pouvons marquer ces trois atomes, les numéroter
+
+and swap around the electrons between carbons
+1 and 3.
+et échanger les électrons entre les carbones
+1 et 3.
+
+The electrons in the pi bond move to the carbon
+of the nitrile,
+Les électrons de la liaison pi se déplacent vers le carbone
+du nitrile,
+
+giving us a positive charge on the ring carbon!
+nous donnant une charge positive sur le carbone du cycle !
+
+The formal charges help us keep track of these
+resonance structures but, overall,
+Les charges formelles nous aident à garder une trace de ces
+structures de résonance mais, dans l'ensemble,
+
+the charges still cancel each other out and
+our molecule is neutral.
+les charges s'annulent toujours et
+notre molécule est neutre.
+
+Now, we can continue around the ring and mark
+other groups of three atoms that fit our pattern,
+Maintenant, nous pouvons continuer autour de l'anneau et marquer d'
+autres groupes de trois atomes qui correspondent à notre modèle,
+
+moving electrons from carbon 1s to carbon
+3s, and forming more resonance structures.
+déplaçant les électrons du carbone 1 au carbone
+3 et formant plus de structures de résonance.
+
+Eventually, we’re back to the original structure,
+with no formal charges.
+Finalement, nous sommes revenus à la structure d'origine
+, sans frais formels.
+
+If we draw out our resonance hybrid, our "parking
+lot" situation is a little clearer.
+Si nous sortons notre hybride de résonance, notre situation de "
+parking" est un peu plus claire.
+
+With partial positive charges, there's reduced
+electron density on the ortho and para positions.
+Avec des charges positives partielles, la
+densité électronique est réduite sur les positions ortho et para.
+
+No electron-seeking electrophile is going
+to want that!
+Aucun électrophile à la recherche d'électrons ne
+voudra cela !
+
+The meta position has the highest electron
+density across the resonance hybrid –
+La position méta a la densité d'électrons la plus
+élevée à travers l'hybride de résonance -
+
+it's the best parking spot here – plenty
+of room, no shopping cart blocking it, in the shade –
+c'est la meilleure place de stationnement ici - beaucoup
+d'espace, aucun panier ne le bloque, à l'ombre -
+
+you get the idea.
+vous voyez l'idée.
+
+So it looks like a nitrile is an electron
+withdrawing group.
+Il semble donc qu'un nitrile soit un
+groupe électroattracteur.
+
+We’d expect it to deactivate the ring, and
+direct an electrophile to the meta position.
+Nous nous attendrions à ce qu'il désactive l'anneau et
+dirige un électrophile vers la position méta.
+
+In a paper published in 1959, the chemists
+George Hammond and Katharine Douglas did this reaction and found this to be true!
+Dans un article publié en 1959, les chimistes
+George Hammond et Katharine Douglas ont fait cette réaction et ont trouvé que c'était vrai !
+
+The nitration of benzonitrile gives around
+80% meta-nitrobenzonitrile.
+La nitration du benzonitrile donne environ
+80% de méta-nitrobenzonitrile.
+
+Now that we've worked with an EWG, let's meet
+an EDG: phenol.
+Maintenant que nous avons travaillé avec un EWG, rencontrons
+un EDG : le phénol.
+
+It’s well-known that phenol activates the
+ring.
+Il est bien connu que le phénol active le
+cycle.
+
+We know that benzene doesn’t react with
+bromine without a catalyst,
+Nous savons que le benzène ne réagit pas avec le
+brome sans catalyseur,
+
+but phenol does react spontaneously.
+mais le phénol réagit spontanément.
+
+In fact, it’s so ready to react, the reaction
+keeps going until we make tribromophenol, or TBP.
+En fait, il est tellement prêt à réagir que la réaction
+continue jusqu'à ce que nous fassions du tribromophénol, ou TBP.
+
+TBP smells antiseptic and has several uses,
+including as a fungicide, wood preservative,
+Le TBP a une odeur antiseptique et a plusieurs utilisations,
+notamment comme fongicide, agent de préservation du bois
+
+and for making flame-retardant materials.
+et pour la fabrication de matériaux ignifuges.
+
+As we can see in the structure of TBP,
+Comme on peut le voir dans la structure du TBP, le
+
+phenol directs electrophiles to the ortho
+and para parking spots.
+phénol dirige les électrophiles vers les
+places de stationnement ortho et para.
+
+And, like the nitrile group, resonance structures
+can tell us why!
+Et, comme le groupe nitrile, les structures de résonance
+peuvent nous dire pourquoi !
+
+We can use the same strategy and push one
+of the lone pairs on the oxygen into the ring,
+Nous pouvons utiliser la même stratégie et pousser l'une
+des paires isolées sur l'oxygène dans l'anneau,
+
+leaving us with a negative charge at the ortho
+position but overall neutrality.
+nous laissant avec une charge négative en
+position ortho mais une neutralité globale.
+
+By marking groups of three atoms and pushing
+electrons,
+En marquant des groupes de trois atomes et en poussant des
+électrons,
+
+we can move the negative charge to the para
+position, back up again,
+nous pouvons déplacer la charge négative en
+position para, remonter à nouveau
+
+and we’re back to where we started.
+et nous revenons à notre point de départ.
+
+Now we've got our resonance hybrid,
+Maintenant, nous avons notre hybride de résonance,
+
+and any electrophile is going to really like the look of those extra-attractive partial negative charges and head straight for the ortho and para positions.
+et tout électrophile va vraiment aimer l'apparence de ces charges négatives partielles très attrayantes et se diriger directement vers les positions ortho et para.
+
+The meta position isn’t very interesting
+at all.
+La position méta n'est pas très intéressante
+du tout.
+
+It's like a tiny spot next to the dumpsters.
+C'est comme une petite tache à côté des bennes à ordures.
+
+Okay. So far, we’ve seen a strongly deactivating
+electron withdrawing group –
+D'accord.  Jusqu'à présent, nous avons vu un
+groupe attracteur d'électrons fortement désactivant
+
+that was the nitrile –
+- c'était le nitrile -
+
+and a strongly activating electron donating
+group –
+et un groupe donneur d'électrons fortement activateur
+-
+
+the phenol.
+le phénol.
+
+As parking lot attendants,
+En tant que préposés au stationnement,
+
+our deactivating group directed meta and our
+activating group directed to ortho and para spots.
+notre groupe de désactivation a dirigé la méta et notre
+groupe d'activation a dirigé les places ortho et para.
+
+What if we put an alkyl group on a benzene?
+Et si on mettait un groupe alkyle sur un benzène ?
+
+Another thing we saw in episode 14 was that
+alkyl groups can donate electron density by hyperconjugation,
+Une autre chose que nous avons vue dans l'épisode 14 était que
+les groupes alkyle peuvent donner une densité électronique par hyperconjugaison,
+
+which means the C-H bonds can stabilize charge
+on adjacent atoms.
+ce qui signifie que les liaisons C-H peuvent stabiliser la charge
+sur les atomes adjacents.
+
+It’s a little more challenging to see where
+to push electrons this time.
+Il est un peu plus difficile de voir
+où pousser les électrons cette fois.
+
+If we start near the alkyl group, we can make
+a secondary carbocation…
+Si nous commençons près du groupe alkyle, nous pouvons faire
+un carbocation secondaire…
+
+or a more stable, tertiary carbocation!
+ou un carbocation tertiaire plus stable !
+
+Let’s go with that, and push electrons around
+the ring to figure out our resonance structures.
+Allons-y et poussons les électrons autour de
+l'anneau pour comprendre nos structures de résonance.
+
+From the resonance hybrid, we can see the
+ortho and para positions have more electron density,
+À partir de l'hybride de résonance, nous pouvons voir que les
+positions ortho et para ont plus de densité électronique,
+
+which makes them good parking spots for electrophiles.
+ce qui en fait de bonnes places de stationnement pour les électrophiles.
+
+Alkyl groups are only weakly activating, since
+they don’t have the extra electrons like phenol,
+Les groupes alkyle ne s'activent que faiblement, car
+ils n'ont pas les électrons supplémentaires comme le phénol,
+
+so this isn't like the mansion of parking
+spots.
+donc ce n'est pas comme le manoir des places de stationnement
+.
+
+And in practice, we often see more of the
+para product because of steric hindrance –
+Et dans la pratique, nous voyons souvent plus de
+produit para à cause de l'encombrement stérique -
+
+especially if the alkyl group is bulky.
+surtout si le groupe alkyle est volumineux.
+
+Now, halogens with lone pairs are tricky.
+Maintenant, les halogènes avec des paires isolées sont délicats.
+
+They’re not bonded to anything else and
+they’re electronegative,
+Ils ne sont liés à rien d'autre et
+ils sont électronégatifs,
+
+so they're pulling electrons away.
+donc ils éloignent les électrons.
+
+That deactivates the ring.
+Cela désactive la sonnerie.
+
+That being said, we have to draw the resonance
+structures to see what kind of parking lot attendant they truly are.
+Cela étant dit, nous devons dessiner les
+structures de résonance pour voir quel genre de préposé au stationnement ils sont vraiment.
+
+When we do, we end up with negative charges
+at the ortho and para positions,
+Lorsque nous le faisons, nous nous retrouvons avec des charges négatives
+aux positions ortho et para, de
+
+so electrophiles reluctantly get directed
+to those spots.
+sorte que les électrophiles sont dirigés
+à contrecœur vers ces points.
+
+There's another way to look at these tricky
+problems:
+Il y a une autre façon d'aborder ces
+problèmes délicats :
+
+we can imagine our electrophile parking at
+each of the three positions and then draw resonance structures.
+nous pouvons imaginer notre stationnement électrophile à
+chacune des trois positions, puis dessiner des structures de résonance.
+
+Here, we're looking for differences in stability,
+Ici, nous recherchons des différences de stabilité,
+
+where the more stable structure means a more
+likely product.
+où la structure la plus stable signifie un
+produit plus probable.
+
+For example, here we can draw three resonance
+structures from the meta attack,
+Par exemple, ici, nous pouvons dessiner trois
+structures de résonance à partir de la méta-attaque,
+
+while we can draw four from both the ortho
+and para attacks.
+tandis que nous pouvons en tirer quatre à la fois des
+attaques ortho et para.
+
+The electrons on the halogen give these carbocations
+additional stability.
+Les électrons sur l'halogène confèrent à ces carbocations
+une stabilité supplémentaire.
+
+We can even see that the intermediates made
+from ortho and para attack have a whole extra resonance form!
+On peut même voir que les intermédiaires fabriqués à
+partir d'attaque ortho et para ont toute une forme de résonance supplémentaire !
+
+Overall, the halogens deactivate the ring
+due to inductive effects,
+Dans l'ensemble, les halogènes désactivent l'anneau en
+raison d'effets inductifs,
+
+but direct groups to the ortho and para positions
+anyway because of resonance.
+mais dirigent quand même les groupes vers les positions ortho et para à
+cause de la résonance.
+
+If all of these curved arrows are making your
+head spin,
+Si toutes ces flèches courbes vous font tourner la
+tête,
+
+there’s a little tool that our consultant
+Professor KP taught us at her channel Molecular Memory for EWGs and EDGs.
+il y a un petit outil que notre consultante, le
+professeur KP, nous a enseigné sur sa chaîne Molecular Memory for EWGs and EDGs.
+
+First off: if the group, or substituent, bonded
+to the ring has a formal positive charge,
+Tout d'abord: si le groupe, ou substituant, lié
+au cycle a une charge positive formelle,
+
+we have an electron withdrawing group, and
+a meta director.
+nous avons un groupe attracteur d'électrons et
+un méta-directeur.
+
+Positive charges pull electrons. Period.
+Les charges positives attirent les électrons.  Point final. 
+
+Now, for the tool!
+Maintenant, place à l'outil !
+
+If the atom directly bonded to the ring is
+connected to an atom less electronegative than itself,
+Si l'atome directement lié au cycle est
+connecté à un atome moins électronégatif que lui-même,
+
+the substituent is electron-donating, activating,
+and ortho-para directing.
+le substituant est donneur d'électrons, activateur
+et directeur ortho-para.
+
+On the other hand, if the atom directly bonded
+to the ring is connected to an atom more electronegative than itself,
+D'autre part, si l'atome directement lié
+au cycle est connecté à un atome plus électronégatif que lui-même,
+
+the substituent is electron-withdrawing, deactivating,
+and meta directing.
+le substituant est attracteur d'électrons, désactivant
+et méta-directeur.
+
+This pattern will get you through most groups
+on aromatic rings that you meet.
+Ce modèle vous permettra de traverser la plupart des groupes
+sur les anneaux aromatiques que vous rencontrez.
+
+There are two pesky exceptions: halogens,
+which aren’t bonded to another atom,
+Il y a deux exceptions embêtantes : les halogènes,
+qui ne sont pas liés à un autre atome,
+
+and one more that we'll put on screen.
+et un de plus que nous mettrons à l'écran.
+
+But in this episode, we talked about how:
+Mais dans cet épisode, nous avons expliqué comment :
+
+The first group on a benzene ring affects
+how incoming groups join the ring,
+le premier groupe sur un anneau de benzène affecte la
+façon dont les groupes entrants rejoignent l'anneau,
+
+Electron-donating groups are usually activating
+and ortho-para directing,
+les groupes donneurs d'électrons sont généralement activés
+et dirigés ortho-para,
+
+Electron-withdrawing groups are usually deactivating
+and meta directing,
+les groupes de retrait d'électrons sont généralement désactivés
+et métadirigés,
+
+and We can draw resonance structures that show
+us which positions will be favored.
+et  Nous pouvons dessiner des structures de résonance qui
+nous indiquent quelles positions seront privilégiées.
+
+Next time, we’ll talk even more about EAS
+reactions, and add benzylic reactions to our toolbox!
+La prochaine fois, nous parlerons encore plus des
+réactions EAS et ajouterons les réactions benzyliques à notre boîte à outils !
+
+Until then, thanks for watching this episode
+of Crash Course Organic Chemistry.
+En attendant, merci d'avoir regardé cet épisode
+de Crash Course Organic Chemistry.
+
+If you want to help keep all Crash Course
+free for everybody, forever,
+Si vous voulez aider à garder tous les cours intensifs
+gratuits pour tout le monde, pour toujours,
+
+you can join our community on Patreon.
+vous pouvez rejoindre notre communauté sur Patreon.
+

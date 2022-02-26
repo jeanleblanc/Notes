@@ -1,0 +1,353 @@
+You can review content from Crash Course Organic Chemistry with the Crash Course app, available now for Android and iOS devices.
+Vous pouvez consulter le contenu de Crash Course Organic Chemistry avec l'application Crash Course, disponible dès maintenant pour les appareils Android et iOS.
+
+Hi! I’m Deboki Chakravarti and welcome to Crash Course Organic Chemistry!
+Salut!  Je suis Deboki Chakravarti et bienvenue au cours intensif de chimie organique !
+
+A fun little detail in that sci-fi movie Alien
+-- you know, the one with Sigourney Weaver
+Un petit détail amusant dans ce film de science-fiction Alien
+– vous savez, celui avec Sigourney Weaver
+
+-- is how the xenomorph has acidic blood.
+– est la façon dont le xénomorphe a du sang acide.
+
+When the humans cut one open, its blood eats right through the metal floor and leaves a hole.
+Lorsque les humains en coupent un, son sang ronge le sol en métal et laisse un trou.
+
+It's creepy!
+Ça fait peur! 
+
+Xenomorph blood is way stronger than most acids produced by Earth creatures.
+Le sang xénomorphe est bien plus fort que la plupart des acides produits par les créatures terrestres.
+
+For example, Tawny ants produce formic acid to protect themselves from the basic venom of fire ants.
+Par exemple, les fourmis fauves produisent de l'acide formique pour se protéger du venin de base des fourmis de feu.
+
+But formic acid is relatively weak, kind of like vinegar or lemon juice -- which definitely won’t eat through a spaceship.
+Mais l'acide formique est relativement faible, un peu comme le vinaigre ou le jus de citron - qui ne mangera certainement pas à travers un vaisseau spatial.
+
+As organic chemists, we need to know how to predict the strength of weak acids and bases.
+En tant que chimistes organiques, nous devons savoir comment prédire la force des acides et des bases faibles.
+
+Not just to dream up cool (and scientifically accurate) aliens, but because acids and bases are molecular hot spots where reactions can take place.
+Pas seulement pour imaginer des extraterrestres sympas (et scientifiquement précis), mais parce que les acides et les bases sont des points chauds moléculaires où des réactions peuvent avoir lieu.
+
+So let's add acid-base chemistry to our toolkit for predicting chemical reactions.
+Ajoutons donc la chimie acido-basique à notre boîte à outils pour prédire les réactions chimiques.
+
+[Theme Music]
+[Thème musical]
+
+Part of what makes acid-base chemistry tricky is that there are different but overlapping definitions of acids and bases.
+Une partie de ce qui rend la chimie acide-base délicate est qu'il existe des définitions différentes mais qui se chevauchent des acides et des bases.
+
+Arrhenius, Brønsted, Lowry, and Lewis all had their opinions on how an acid and base should be defined.
+Arrhenius, Brønsted, Lowry et Lewis avaient tous leur opinion sur la définition d'un acide et d'une base.
+
+For this video, we’ll stick with the Brønsted-Lowry definition proposed in 1923.
+Pour cette vidéo, nous nous en tiendrons à la définition de Brønsted-Lowry proposée en 1923.
+
+And to help understand this definition, we’ll need to push some electrons around.
+Et pour aider à comprendre cette définition, nous devrons déplacer quelques électrons.
+
+Last episode, we learned how to use arrows to push electrons within a molecule to understand resonance structures.
+Dans le dernier épisode, nous avons appris à utiliser des flèches pour pousser des électrons dans une molécule afin de comprendre les structures de résonance.
+
+But we can also push electrons between molecules to show how bonds break and form using the same rules:
+Mais nous pouvons également pousser les électrons entre les molécules pour montrer comment les liaisons se rompent et se forment en utilisant les mêmes règles :
+
+we start on electrons and point to where a new bond is made.
+nous commençons sur les électrons et indiquons où une nouvelle liaison est créée.
+
+In the Brønsted-Lowry definition, an acid is anything that loses a proton (also known as a plus-one-charged hydrogen ion).
+Dans la définition de Brønsted-Lowry, un acide est tout ce qui perd un proton (également appelé ion hydrogène chargé plus un).
+
+And a base is anything that accepts a proton.
+Et une base est tout ce qui accepte un proton.
+
+Carboxylic acids, like acetic acid and propanoic acid, are Brønsted-Lowry acids.
+Les acides carboxyliques, comme l'acide acétique et l'acide propanoïque, sont des acides de Brønsted-Lowry.
+
+When we dissolve these acids in water, the water acts as a base and removes a proton to form a hydronium ion and the corresponding carboxylate ion.
+Lorsque nous dissolvons ces acides dans l'eau, l'eau agit comme une base et élimine un proton pour former un ion hydronium et l'ion carboxylate correspondant.
+
+We say that hydronium is the conjugate acid of water, and the carboxylate is the conjugate base of the carboxylic acid.
+On dit que l'hydronium est l'acide conjugué de l'eau, et le carboxylate est la base conjuguée de l'acide carboxylique.
+
+In organic chemistry, we want to know how readily a molecule will gain or lose a proton.
+En chimie organique, nous voulons savoir avec quelle facilité une molécule gagnera ou perdra un proton.
+
+This is a physical property, like boiling point or melting point, that we describe with Ka -- the acid dissociation constant.
+Il s'agit d'une propriété physique, comme le point d'ébullition ou le point de fusion, que nous décrivons avec Ka - la constante de dissociation acide.
+
+Hank talks more about Ka in episode 30 of Crash Course Chemistry if you want to start with the basics.
+Hank parle plus de Ka dans l'épisode 30 de Crash Course Chemistry si vous voulez commencer par les bases.
+
+But essentially, it describes the relationships between products and reactants when the rate of the forward reaction is equal to the reverse reaction -- in other words, when the reaction has reached equilibrium.
+Mais essentiellement, il décrit les relations entre les produits et les réactifs lorsque la vitesse de la réaction directe est égale à la réaction inverse - en d'autres termes, lorsque la réaction a atteint l'équilibre.
+
+The size of the Ka tells us if we have more products or reactants.
+La taille du Ka nous dit si nous avons plus de produits ou de réactifs.
+
+If the Ka is large, the equilibrium favors the product side, and the molecule is a strong acid -- one that's very willing to get rid of a proton.
+Si le Ka est grand, l'équilibre favorise le côté produit, et la molécule est un acide fort - qui est très disposé à se débarrasser d'un proton.
+
+If the Ka is small, then the equilibrium favors the reactants, so the molecule is a weak acid -- one that's a little less willing to get rid of a proton.
+Si le Ka est petit, alors l'équilibre favorise les réactifs, donc la molécule est un acide faible - un peu moins disposé à se débarrasser d'un proton.
+
+So that logic is all fine and good, but it can be a little hard to tell whether the Ka is small or large from looking at a number like 1.8x10-5 .
+Donc, cette logique est très bien, mais il peut être un peu difficile de dire si le Ka est petit ou grand en regardant un nombre comme 1,8x10-5 .
+
+We can get rid of the exponents and make these numbers more manageable by taking the negative log of a Ka to get pKa.
+Nous pouvons nous débarrasser des exposants et rendre ces nombres plus gérables en prenant le log négatif d'un Ka pour obtenir pKa.
+
+Just like the concentration of protons becomes pH with a little math, an acid’s equilibrium constant becomes pKa.
+Tout comme la concentration de protons devient pH avec un peu de calcul, la constante d'équilibre d'un acide devient pKa.
+
+We can use pKa to compare two acids.
+Nous pouvons utiliser le pKa pour comparer deux acides.
+
+A lower pKa means the equilibrium prefers the product side and a molecule is a stronger acid.
+Un pKa inférieur signifie que l'équilibre préfère le côté produit et qu'une molécule est un acide plus fort.
+
+And a higher pKa means the equilibrium prefers the reactant side and a molecule is a weaker acid.
+Et un pKa plus élevé signifie que l'équilibre préfère le côté réactif et qu'une molécule est un acide plus faible.
+
+Let's look at a couple examples.
+Regardons quelques exemples.
+
+We can see that hydrochloric acid has a negative pKa (which is REALLY low).
+On peut voir que l'acide chlorhydrique a un pKa négatif (ce qui est VRAIMENT bas).
+
+We consider it completely dissociated into products, so it's a strong acid.
+Nous le considérons complètement dissocié en produits, c'est donc un acide fort.
+
+Propanoic acid and acetic acid have similar pKa values, which makes sense because propanoic acid only has one extra CH2 group.
+L'acide propanoïque et l'acide acétique ont des valeurs de pKa similaires, ce qui est logique car l'acide propanoïque n'a qu'un seul groupe CH2 supplémentaire.
+
+They're both weak acids.
+Ce sont tous les deux des acides faibles.
+
+But the pKa of ethanol is dramatically different from acetic acid, even though they're both losing a proton from an OH group.
+Mais le pKa de l'éthanol est radicalement différent de celui de l'acide acétique, même s'ils perdent tous les deux un proton d'un groupe OH.
+
+That's the key though: they're similar, but not the same, when it comes to charge distribution.
+C'est la clé cependant : ils sont similaires, mais pas identiques, en ce qui concerne la répartition des charges.
+
+When acetic acid loses a proton, it forms its conjugate base, acetate.
+Lorsque l'acide acétique perd un proton, il forme sa base conjuguée, l'acétate.
+
+And remember last episode, we talked about the resonance structures of an acetate ion, and how the negative charge is spread out over its two oxygen atoms.
+Et souvenez-vous du dernier épisode, nous avons parlé des structures de résonance d'un ion acétate et de la façon dont la charge négative est répartie sur ses deux atomes d'oxygène.
+
+This is like going backpacking with a group of friends and splitting up gear.
+C'est comme partir en randonnée avec un groupe d'amis et diviser le matériel.
+
+Like, instead of carrying everything yourself, you take the tent, another friend takes the cooking gear, and another takes the food.
+Par exemple, au lieu de tout transporter vous-même, vous prenez la tente, un autre ami prend le matériel de cuisine et un autre prend la nourriture.
+
+Distributing the weight means you all carry some of the burden.
+Répartir le poids signifie que vous portez tous une partie du fardeau.
+
+The same is true here: distributing the negative charge over the two oxygen atoms makes it easier for the acetate ion to carry the burden of the negative charge.
+La même chose est vraie ici : la répartition de la charge négative sur les deux atomes d'oxygène permet à l'ion acétate de porter plus facilement la charge de la charge négative.
+
+Because of the resonance stabilization in the conjugate base, it’s not too tough for acetic acid to lose a proton.
+En raison de la stabilisation de la résonance dans la base conjuguée, il n'est pas trop difficile pour l'acide acétique de perdre un proton.
+
+On the other hand, when ethanol loses a proton, it forms the conjugate base ethoxide.
+D'autre part, lorsque l'éthanol perd un proton, il forme la base conjuguée éthoxyde.
+
+Ethoxide doesn't have any resonance structures, which means it doesn't have friends to share camping gear with.
+L'éthoxyde n'a pas de structures de résonance, ce qui signifie qu'il n'a pas d'amis avec qui partager du matériel de camping.
+
+So its oxygen atom is feeling the full burden of the negative charge.
+Ainsi, son atome d'oxygène ressent le plein fardeau de la charge négative.
+
+This makes ethanol a weaker acid than acetic acid.
+Cela fait de l'éthanol un acide plus faible que l'acide acétique.
+
+But, since it’s pretty tough to take the proton off of ethanol in the first place, if we do form the conjugate bases, ethoxide is a much stronger base than acetate.
+Mais, comme il est assez difficile de retirer le proton de l'éthanol en premier lieu, si nous formons les bases conjuguées, l'éthoxyde est une base beaucoup plus forte que l'acétate.
+
+Another great way to see how resonance stabilization can affect acidity is to consider two kinda similar ring compounds: phenol and cyclohexanol.
+Une autre excellente façon de voir comment la stabilisation de la résonance peut affecter l'acidité consiste à considérer deux composés cycliques similaires : le phénol et le cyclohexanol.
+
+Phenol’s pKa is about 10 and cyclohexanol’s pKa is 16.
+Le pKa du phénol est d'environ 10 et le pKa du cyclohexanol est de 16.
+
+In cyclohexanol's conjugate base, that negative charge is stuck on oxygen, because there are no double bonds or other oxygens to share the burden.
+Dans la base conjuguée du cyclohexanol, cette charge négative est collée sur l'oxygène, car il n'y a pas de doubles liaisons ou d'autres oxygènes pour partager la charge.
+
+So, like ethoxide, the conjugate base is less stable and really wants a proton back.
+Ainsi, comme l'éthoxyde, la base conjuguée est moins stable et veut vraiment un proton en retour.
+
+But in phenol's conjugate base, phenoxide, the negative charge can be pushed around the benzene ring to make four different resonance structures.
+Mais dans la base conjuguée du phénol, le phénoxyde, la charge négative peut être poussée autour du cycle benzénique pour créer quatre structures de résonance différentes.
+
+This stabilizes the conjugate base, so phenol is more acidic.
+Cela stabilise la base conjuguée, de sorte que le phénol est plus acide.
+
+Resonance stabilization is one of four major factors that help us understand the role of pKa in our reactions.
+La stabilisation de la résonance est l'un des quatre facteurs majeurs qui nous aident à comprendre le rôle du pKa dans nos réactions.
+
+Another key is the atom that loses the proton.
+Une autre clé est l'atome qui perd le proton.
+
+Within a row on the periodic table, more electronegative elements stabilize negative charge better, and within a group, larger elements form more stable conjugate bases.
+Dans une rangée du tableau périodique, plus d'éléments électronégatifs stabilisent mieux la charge négative, et au sein d'un groupe, des éléments plus gros forment des bases conjuguées plus stables.
+
+Bigger atoms have more electrons, which end up in orbitals that are pretty diffuse.
+Les atomes plus gros ont plus d'électrons, qui se retrouvent dans des orbitales assez diffuses.
+
+So with bigger atoms, the electron cloud is easily smeared out and distorted, a property we call polarizability.
+Ainsi, avec des atomes plus gros, le nuage d'électrons est facilement étalé et déformé, une propriété que nous appelons la polarisabilité.
+
+Imagine a cup of water as the electron density on a small atom.
+Imaginez une tasse d'eau comme la densité électronique sur un petit atome.
+
+If we pour the water into a frisbee, which is like a large atom, it has more space to move around and spread out.
+Si nous versons de l'eau dans un frisbee, qui est comme un gros atome, il a plus d'espace pour se déplacer et s'étaler.
+
+Atom polarizability affects acidity and pKa, because this smeared-out-ness stabilizes negative charges.
+La polarisabilité des atomes affecte l'acidité et le pKa, car ce maculage stabilise les charges négatives.
+
+It’s always useful to look at an example, so let's go back to phenol and compare it with its closely-related cousin thiophenol, which has a sulfur atom instead of an oxygen.
+Il est toujours utile de regarder un exemple, alors revenons au phénol et comparons-le avec son cousin le thiophénol, qui a un atome de soufre au lieu d'un oxygène.
+
+The only difference in structure is the size of the sulfur atom compared to the size of the oxygen atom.
+La seule différence de structure est la taille de l'atome de soufre par rapport à la taille de l'atome d'oxygène.
+
+To be precise, sulfur has 8 more electrons than oxygen.
+Pour être précis, le soufre a 8 électrons de plus que l'oxygène.
+
+So in thiophenol's conjugate base, electrons are more smeared out on the polarizable sulfur atom, stabilizing the conjugate base.
+Ainsi, dans la base conjuguée du thiophénol, les électrons sont davantage étalés sur l'atome de soufre polarisable, stabilisant la base conjuguée.
+
+And the more stable the conjugate base, the more acidic the acid, making thiophenol more acidic than phenol.
+Et plus la base conjuguée est stable, plus l'acide est acide, ce qui rend le thiophénol plus acide que le phénol.
+
+The third key to pKa is hidden in covalent bonds.
+La troisième clé du pKa est cachée dans les liaisons covalentes.
+
+The inductive effect has to do with electronegativity throughout a molecule, with more electronegative atoms pulling the negative charges toward them through bonds.
+L'effet inductif a à voir avec l'électronégativité dans toute une molécule, avec plus d'atomes électronégatifs tirant les charges négatives vers eux à travers des liaisons.
+
+As an example, let’s compare two other very similar compounds: acetic acid and trifluoroacetic acid.
+A titre d'exemple, comparons deux autres composés très similaires : l'acide acétique et l'acide trifluoroacétique.
+
+Both of their conjugate bases have resonance stabilization across the two oxygen atoms.
+Leurs deux bases conjuguées ont une stabilisation de la résonance entre les deux atomes d'oxygène.
+
+But the resonance stabilization is all that acetate has going for it, giving acetic acid its pKa of 4.76.
+Mais la stabilisation de la résonance est tout ce que l'acétate a pour lui, donnant à l'acide acétique son pKa de 4,76.
+
+Now, trifluoroacetate also contains fluorine, an electronegative atom.
+Or, le trifluoroacétate contient également du fluor, un atome électronégatif.
+
+Those three fluorines pull on the negative charge and stabilize the conjugate base even more.
+Ces trois fluors tirent sur la charge négative et stabilisent encore plus la base conjuguée.
+
+Sort of like having even more backpacking buddies who carry the poles and other pieces of the tent for you!
+Un peu comme avoir encore plus de copains de randonnée qui portent les poteaux et autres pièces de la tente pour vous !
+
+So the products side of the equilibrium is favored, and the pKa of trifluoroacetic acid is 0.23!
+Ainsi, le côté produits de l'équilibre est favorisé et le pKa de l'acide trifluoroacétique est de 0,23 !
+
+The last, and least powerful, key to understanding pKa also has to do with orbital shapes…..specifically the s character of hybrid orbitals.
+La dernière clé, et la moins puissante, pour comprendre le pKa a également à voir avec les formes orbitales…..spécifiquement le caractère s des orbitales hybrides.
+
+Remember in episode 4, we talked about orbitals, places where we’re most likely to find electrons around atoms.
+Rappelez-vous dans l'épisode 4, nous avons parlé des orbitales, des endroits où nous sommes le plus susceptibles de trouver des électrons autour des atomes.
+
+And we talked about orbitals combining when atoms bond to form hybrid orbitals.
+Et nous avons parlé d'orbitales se combinant lorsque les atomes se lient pour former des orbitales hybrides.
+
+The three most common hybrid orbitals for organic compounds are sp3, sp2, and sp, and this is approximately what they look like.
+Les trois orbitales hybrides les plus courantes pour les composés organiques sont sp3, sp2 et sp, et voici à peu près à quoi elles ressemblent.
+
+sp hybrid orbitals can be thought of as being 50% s-orbital and 50% p-orbital.
+Les orbitales hybrides sp peuvent être considérées comme étant à 50% orbitales s et 50% orbitales p.
+
+So we can say that they have more s character than sp2 and sp3 hybrid orbitals, which combine additional p orbitals into the mix.
+Nous pouvons donc dire qu'elles ont plus de caractère s que les orbitales hybrides sp2 et sp3, qui combinent des orbitales p supplémentaires dans le mélange.
+
+So, sp orbitals are more similar to a plain old s orbital.
+Ainsi, les orbitales sp ressemblent davantage à une orbitale s ordinaire.
+
+These shapes means their electrons are closer to the nucleus, and the atom can stabilize a negative charge better.
+Ces formes signifient que leurs électrons sont plus proches du noyau et que l'atome peut mieux stabiliser une charge négative.
+
+By contrast, sp2 and sp3 hybrid orbitals hold the electrons a little farther away from the nucleus and the atom doesn’t stabilize a negative charge as well.
+En revanche, les orbitales hybrides sp2 et sp3 maintiennent les électrons un peu plus loin du noyau et l'atome ne stabilise pas non plus une charge négative.
+
+To look at this in action, let's compare the pKa of ethane, ethene, and ethyne.
+Pour voir cela en action, comparons le pKa de l'éthane, de l'éthène et de l'éthyne.
+
+The carbons in ethyne have sp hybridized orbitals, which means the conjugate base has more s character and can stabilize the negative charge better.
+Les carbones de l'éthyne ont des orbitales hybrides sp, ce qui signifie que la base conjuguée a plus de caractère s et peut mieux stabiliser la charge négative.
+
+So ethyne is the most acidic of this trio -- but, to be totally realistic, a pKa of 25 is not very acidic at all in the grand scheme of things and will definitely not be eating through spaceships or anything like that.
+Ethyne est donc le plus acide de ce trio - mais, pour être totalement réaliste, un pKa de 25 n'est pas du tout très acide dans le grand schéma des choses et ne mangera certainement pas à travers les vaisseaux spatiaux ou quelque chose comme ça.
+
+We can see the importance of the s character of hybrid orbitals by looking at the acidity of different protons within a molecule.
+Nous pouvons voir l'importance du caractère s des orbitales hybrides en examinant l'acidité de différents protons au sein d'une molécule.
+
+For example, this molecule has an alkene at one end (with the protons highlighted in blue) and an alkyne at the other (with a proton highlighted in red).
+Par exemple, cette molécule a un alcène à une extrémité (avec les protons surlignés en bleu) et un alcyne à l'autre (avec un proton surligné en rouge).
+
+So which of these two protons is more acidic?
+Alors lequel de ces deux protons est le plus acide ?
+
+By pulling off a proton from each end of the molecule, we can create two different conjugate bases with a negative charge in different places.
+En retirant un proton de chaque extrémité de la molécule, nous pouvons créer deux bases conjuguées différentes avec une charge négative à des endroits différents.
+
+Using what we know about hybrid orbitals, the alkene end has an sp2 hybridized carbon, and the alkyne end has an sp hybridized carbon.
+En utilisant ce que nous savons sur les orbitales hybrides, l'extrémité alcène a un carbone hybride sp2 et l'extrémité alcyne a un carbone hybride sp.
+
+That means the alkyne end has more s character and can stabilize the negative charge better, so that conjugate base is more stable, and that proton is more acidic.
+Cela signifie que l'extrémité alcyne a plus de caractère s et peut mieux stabiliser la charge négative, de sorte que la base conjuguée est plus stable et que le proton est plus acide.
+
+So throughout this episode, we've learned four key things that we can use to predict relative acidity.
+Ainsi, tout au long de cet épisode, nous avons appris quatre éléments clés que nous pouvons utiliser pour prédire l'acidité relative.
+
+Each of these factors stabilizes negative charge in a conjugate base, which makes the corresponding acid more acidic.
+Chacun de ces facteurs stabilise la charge négative dans une base conjuguée, ce qui rend l'acide correspondant plus acide.
+
+Number 1: Atom identity -
+Numéro 1 : Identité des atomes -
+
+More electronegative and larger elements stabilize charge better
+Des éléments plus électronégatifs et plus gros stabilisent mieux la charge
+
+Number 2: Resonance stabilization -
+Numéro 2 : Stabilisation de la résonance -
+
+If we can draw multiple Lewis structures for conjugate bases, they are more stable
+Si nous pouvons dessiner plusieurs structures de Lewis pour les bases conjuguées, elles sont plus stables
+
+Number 3: The inductive effect -
+Numéro 3 : L'effet inductif -
+
+Electronegative atoms can pull negative charge toward themselves through covalent bonds
+Les atomes électronégatifs peuvent tirer une charge négative vers eux-mêmes  par des liaisons covalentes
+
+And Number 4: The s character of the orbital
+Et numéro 4 : Le caractère s de l'orbite
+
+More s character stabilizes negative charge better
+Plus le caractère s stabilise mieux la charge négative L'
+
+Acidity is definitely tricky, but it's an important part of organic compounds and will help us predict the products of chemical reactions.
+acidité est certainement délicate, mais c'est une partie importante des composés organiques et nous aidera à prédire les produits des réactions chimiques.
+
+In our next episode we’ll start to use all of the tools we’ve learned so far, and start forming covalent bonds at our molecular hotspots!
+Dans notre prochain épisode, nous commencerons à utiliser tous les outils que nous avons appris jusqu'à présent et à former des liaisons covalentes au niveau de nos points chauds moléculaires !
+
+Thanks for watching this episode of Crash Course Organic Chemistry.
+Merci d'avoir regardé cet épisode de Crash Course Organic Chemistry.
+
+If you want to help keep all Crash Course free for everybody, forever, you can join our community on Patreon.
+Si vous voulez aider à garder tous les cours intensifs gratuits pour tout le monde, pour toujours, vous pouvez rejoindre notre communauté sur Patreon.
+

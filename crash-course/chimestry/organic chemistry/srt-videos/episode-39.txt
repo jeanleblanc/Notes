@@ -1,0 +1,961 @@
+hi i'm daboki chukravarti and welcome to
+salut je suis daboki chukravarti et bienvenue au cours accéléré de
+
+crash course organic chemistry blue
+chimie organique les
+
+jeans are blue because of a few grams of
+jeans bleus sont bleus à cause de quelques grammes de
+
+indigo dye which has been used by many
+colorant indigo qui a été utilisé par de nombreuses
+
+human civilizations throughout history
+civilisations humaines à travers l'histoire
+
+in fact the oldest known fabric dyed
+en fait le plus ancien tissu connu teint
+
+with indigo is a staggering 6 000 years
+à l'indigo est un stupéfiant 6 000 ans
+
+old and is from peru back then we got
+vieux et vient du Pérou à l'époque, nous avons obtenu
+
+the dye from a variety of plants but
+le colorant à partir d'une variété de plantes, mais la
+
+demand is quite a bit higher these days
+demande est un peu plus élevée ces jours-ci
+
+and the amount of indigo we extract from
+et la quantité d'indigo que nous extrayons de
+
+natural sources can't keep up luckily
+sources naturelles ne peut pas suivre, heureusement, les
+
+chemists in the 19th century came up
+chimistes du 19ème siècle ont
+
+with the number of ways to make indigo
+trouvé le  nombre de façons de fabriquer un
+
+dye in the lab the main method used
+colorant indigo en laboratoire, la principale méthode utilisée
+
+today involves a compound called aniline
+aujourd'hui implique un composé appelé aniline
+
+as a starting point which can be
+comme point de départ qui peut être
+
+produced from nitrobenzene which we met
+produit à partir de nitrobenzène que nous avons
+
+back in episode 37. though it's useful
+rencontré dans l'épisode 37. bien qu'il soit utile
+
+for that blue jean color the synthesis
+pour cette couleur bleu jean la synthèse
+
+of indigo also involves formaldehyde and
+de l'indigo  implique également le formaldéhyde et
+
+hydrogen cyanide
+le cyanure d'hydrogène qui
+
+not exactly the nicest compounds to work
+ne sont pas exactement les meilleurs composés avec lesquels travailler,
+
+with so a challenge for chemists today
+donc un défi pour les chimistes aujourd'hui
+
+is coming up with a synthesis for indigo
+est de proposer une synthèse pour l'indigo
+
+that avoids these chemicals aniline can
+qui évite ces produits chimiques  L'aniline peut
+
+sometimes be too reactive and its
+parfois être trop réactive et son
+
+precursor nitrobenzene is sometimes not
+précurseur, le nitrobenzène, n'est parfois pas
+
+reactive enough when it comes to
+assez réactif lorsqu'il s'agit de
+
+electrophilic aromatic substitution
+
+reactions or eas for short
+réactions de substitution aromatique électrophile ou plus simplement,
+
+luckily we've got some chemical tricks
+heureusement, nous avons quelques astuces chimiques
+
+up our sleeves to work around this
+dans nos manches pour contourner ce
+
+[Music]
+problème [Musique]
+
+in episode 37 we met a specific kind of
+dans l'épisode 37, nous  rencontré un type spécifique d'
+
+eas called friedel crafts reactions and
+eas appelé réactions artisanales de friedel et
+
+we use them to add alkyl and acyl groups
+nous les utilisons pour ajouter des groupes alkyle et acyle
+
+onto a benzene ring both reactions use
+sur un cycle benzénique les deux réactions utilisent
+
+an aluminum halide as a catalyst
+un halogénure d'aluminium comme catalyseur
+
+commonly aluminum chloride in
+généralement du chlorure d'aluminium dans l'
+
+friedel-crafts alkylation an aromatic
+alkylation de friedel-craft un
+
+ring is reacted with an alkyl halide and
+cycle aromatique réagit avec un halogénure d'alkyle  et
+
+in friedel-crafts acylation we use an
+dans l'acylation friedel-crafts, nous utilisons un
+
+acyl halide like we've said before these
+halogénure d'acyle comme nous l'avons dit auparavant, ces
+
+reactions are an important part of an
+réactions sont une partie importante d'une
+
+organic chemist toolbox we can make
+boîte à outils de chimiste organique, nous pouvons créer
+
+carbon-carbon bonds with aromatic rings
+des liaisons carbone-carbone avec des anneaux aromatiques,
+
+but like many reactions there are times
+mais comme de nombreuses réactions, il y a des moments
+
+when they just don't work like we want
+où ils ne font que  ne fonctionne pas comme nous le
+
+them to specifically there are three key
+voulons spécifiquement, il y a trois
+
+problems we can run into problem one is
+problèmes clés que nous pouvons rencontrer, le premier problème est
+
+when we have a deactivated ring
+lorsque nous avons une sonnerie désactivée,
+
+remember from episode 38 electron
+rappelez-vous de l'épisode  de 38
+
+withdrawing groups can pull electron
+groupes attracteurs d'électrons peuvent éloigner la
+
+density away from our benzene ring
+densité électronique de notre cycle benzénique,
+
+making it less reactive in eas reactions
+ce qui le rend moins réactif dans les réactions faciles
+
+than plane benzene so what happens when
+que le benzène plan, alors que se passe-t-il lorsque
+
+we try and carry out a friedel-crafts
+nous essayons d'effectuer une réaction de friedel-craft
+
+reaction with a deactivated ring
+avec un cycle désactivé
+
+not a lot the benzene ring is too
+pas beaucoup le cycle benzénique l'est aussi
+
+electron deficient to react and there's
+l'électron déficient pour réagir et il n'y a
+
+usually no reaction with these
+généralement pas de réaction avec ces
+
+electrophiles in some cases
+électrophiles dans certains cas
+
+friedel-craft's isolation will work
+, l'isolement de friedel-craft fonctionnera
+
+where alkylation doesn't because the
+là où l'alkylation ne fonctionne pas car l'
+
+acelium ion is a slightly better
+ion acétium est un électrophile légèrement meilleur
+
+electrophile
+
+but with a strongly deactivating
+mais avec un substituant fortement désactivant
+
+substituent like nitrobenzene both
+comme le nitrobenzène, les deux
+
+reactions are tricky the way to get
+réactions sont délicates.
+
+around this problem is to counter the
+contourner ce problème est de contrer l'
+
+nitro group's deactivating effect by
+effet de désactivation du groupe nitro en
+
+having a strongly activating substituent
+ayant un substituant fortement activateur
+
+on the ring like an electron donating
+sur le cycle comme un groupe donneur d'électrons
+
+group which pushes electrons into the
+qui pousse les électrons dans le
+
+ring making it more susceptible to
+cycle, ce qui le rend plus sensible au
+
+reaction problem two is
+problème de réaction deux est la
+
+over-alkylation on the flip side to our
+sur-alkylation à l'envers de notre
+
+alkylation reactions not working at all
+les réactions d'alkylation ne fonctionnent pas du tout
+
+they can also work almost too well
+elles peuvent aussi fonctionner presque trop bien
+
+because the alkyl groups are electron
+parce que le  les groupes alkyle sont des
+
+donating the alkyl benzene we generate
+donneurs d'électrons l'alkylbenzène que nous générons
+
+is more reactive than the original
+est plus réactif que le
+
+benzene so we could accidentally cause a
+benzène d'origine, nous pourrions donc accidentellement provoquer un
+
+domino effect of adding more and more
+effet domino en ajoutant de plus en plus de
+
+alkyl groups to the ring for example
+groupes alkyle au cycle, par exemple,
+
+let's say we want to make ethyl benzene
+disons que nous voulons fabriquer de l'éthylbenzène à
+
+from benzene we can try reacting ethyl
+partir de benzène, nous pouvons essayer  faire réagir le
+
+chloride in a friedel-crafts alkylation
+chlorure d'éthyle dans une alkylation de friedel-craft
+
+and at first everything might go exactly
+et au début tout pourrait se passer exactement
+
+as expected with our eas reaction and we
+comme prévu avec notre réaction eas et nous
+
+produce ethyl benzene but then the
+produisons de l'éthylbenzène mais ensuite les
+
+reactions could go right off the rails
+réactions pourraient dérailler
+
+and before we know it another ethyl
+et avant que nous le sachions un autre
+
+group could add to the ring in fact we
+groupe éthyle pourrait ajouter à l'anneau  en fait, nous
+
+might end up with a whole mix of
+pourrions nous retrouver avec tout un mélange de
+
+over-alkylated products luckily for us
+produits sur-alkylés, heureusement pour nous,
+
+the solution to over-alkylation is
+la solution à la sur-alkylation est
+
+simple
+simple,
+
+use our other friedel-crafts reaction
+utilisez notre autre réaction friedel-crafts,
+
+we don't have the same issue with
+nous n'avons pas le même problème avec l'
+
+friedel-crafts isolation because the
+isolement friedel-crafts parce que le
+
+acyl group is electron withdrawing which
+groupe acyle  est un électroattracteur qui
+
+offers us a less chaotic route to the
+nous offre une voie moins chaotique vers
+
+ethyl benzene we wanted to make instead
+l'éthylbenzène que nous voulions fabriquer au lieu
+
+of carrying out a friedel-crafts
+d'effectuer une alkylation friedel-crafts
+
+alkylation with ethyl chloride we can
+avec du chlorure d'éthyle w  nous pouvons
+
+try a friedel-crafts acylation with
+essayer une acylation friedel-craft avec du
+
+ethanol chloride
+chlorure d'éthanol
+
+after adding an acyl group to our
+après avoir ajouté un groupe acyle à notre
+
+benzene ring we can reduce the carbonyl
+cycle benzénique nous pouvons réduire le
+
+group and get ethyl benzene we're not
+groupe carbonyle et obtenir de l'éthylbenzène nous ne réduisons pas
+
+reducing the carbonyl group down to an
+le groupe carbonyle à un
+
+alcohol like we've seen in previous
+alcool comme nous l'avons vu dans les
+
+episodes we're completely removing the
+épisodes précédents  nous supprimons complètement le
+
+group and we'll look at two possible
+groupe et nous examinerons deux
+
+reagents for this reaction the first
+réactifs possibles pour cette réaction la première
+
+option is hydrazine heated up to 200
+option est l'hydrazine chauffée jusqu'à 200
+
+degrees celsius and carried out under
+degrés Celsius et réalisée dans
+
+strongly basic aqueous conditions
+des conditions aqueuses fortement basiques c'est
+
+this is known as a wolf kitchener
+ce qu'on appelle une
+
+reduction remember that aldehydes and
+réduction de Wolf Kitchener rappelez-vous que les aldéhydes et
+
+ketones react easily with amines to form
+les cétones réagissent facilement avec les amines pour former des
+
+amines this reaction is similar our
+amines cette réaction est similaire notre
+
+ketone reacts with the hydrazine first
+cétone réagit avec l'hydrazine en
+
+forming a compound kind of like an amine
+formant d'abord un composé semblable à une amine
+
+with another nitrogen attached called a
+avec un autre azote attaché appelé
+
+hydrozone then a base catalyzed
+hydrozone puis une isomérisation catalysée par une base
+
+isomerization helps make a nitrogen
+aide à créer une
+
+nitrogen double bond and a final
+double liaison azote azote et une
+
+deprotonation makes a triple bond this
+déprotonation finale  fait une triple liaison cela
+
+produces nitrogen gas and leaves us with
+produit de l'azote gazeux et nous laisse avec
+
+a carbon ion and protonating this carbon
+un ion carbone et la protonation de cet
+
+ion gives us the alkyl benzene product
+ion carbone nous donne t  le produit alkylbenzène
+
+we're looking for we're done we have to
+que nous recherchons, nous avons terminé, nous devons
+
+be very careful when we form a gas in
+être très prudents lorsque nous formons un gaz dans
+
+the lab because it can build up pressure
+le laboratoire car il peut augmenter la pression
+
+and potentially explode
+et potentiellement exploser,
+
+but this can be helpful too a reaction
+mais cela peut également être utile une réaction
+
+that rapidly forms nitrogen gas is what
+qui forme rapidement de l'azote gazeux est  ce qui
+
+inflates airbags in a vehicle crash and
+gonfle les airbags lors d'un accident de véhicule et
+
+can save your life another option to
+peut vous sauver la vie une autre option pour
+
+completely remove a carbonyl group is a
+éliminer complètement un groupe carbonyle est une
+
+clemenson reduction which uses zinc
+réduction clemenson qui utilise
+
+amalgam a mixture of zinc and mercury to
+un amalgame de zinc un mélange de zinc et de mercure pour
+
+reduce the carbonyl group to an alkane
+réduire le groupe carbonyle en alcane
+
+this mechanism is a little more
+ce mécanisme est un peu plus
+
+complicated and involves radicals so we
+compliqué et  implique des radicaux donc nous
+
+won't get into it here getting back to
+n'entrerons pas dans le détail ici pour revenir à
+
+our friedel-crafts reactions the third
+nos réactions friedel-crafts le troisième
+
+and final problem we can run into is the
+et dernier problème que nous pouvons rencontrer est les
+
+carbocation rearrangements we saw in
+réarrangements de carbocation que nous avons vus dans l'
+
+episode 37. the major products we get
+épisode 37. les principaux produits que nous obtenons
+
+from our friedel-crafts alkylations
+de nos alkylations friedel-crafts
+
+usually involve the most stable
+généralement  impliquent le carbocation le plus stable,
+
+carbocation for example the reaction of
+par exemple la réaction d'
+
+one chlorobutane with benzene gives
+un chlorobutane avec le benzène donne
+
+mostly the rearranged product in our
+principalement le produit réarrangé dans notre
+
+mechanism we form an unstable primary
+mécanisme, nous formons un carbocati primaire instable
+
+carbocation and if the compound can
+et si le composé peut se
+
+rearrange to form a carbocation that's
+réorganiser pour former un carbocation
+
+more stable it'll go right ahead and do
+plus stable, il ira de l'avant
+
+that again this is a problem we can
+et recommencera c'est un problème que nous pouvons
+
+solve by leaning on the other
+résoudre en nous appuyant sur l'autre
+
+friedel-crafts reaction in our toolbox
+réaction de friedel-crafts dans notre boîte à outils l'
+
+isolation is usually a more convenient
+isolement est généralement un moyen plus
+
+way to add unbranched alkyl groups to a
+pratique  pour ajouter des groupes alkyle non ramifiés à un
+
+benzene ring because the acelium ions
+cycle benzénique car les ions acétium
+
+they form are more stable and they can't
+qu'ils forment sont plus stables et ils ne peuvent pas
+
+undergo rearrangement after we add an
+subir de réarrangement après avoir ajouté un
+
+unbranched alkyl group with
+groupe alkyle non ramifié avec
+
+friedel-crafts isolation we can just
+isolement de friedel-craft, nous pouvons simplement
+
+reduce the carbonyl group to remove it
+réduire le groupe carbonyle pour l'enlever
+
+and leave us with the alkyl group we
+et nous laisser  avec le groupe alkyle que nous
+
+wanted besides using reductions to solve
+voulions en plus d'utiliser des réductions pour résoudre
+
+two of the three main problems with
+deux des trois principaux problèmes avec
+
+these eas reactions we can also use
+ces réactions eas, nous pouvons également utiliser des
+
+reductions to change the directing
+réductions pour modifier les
+
+effects of substituents we already have
+effets directeurs des substituants que nous avons déjà
+
+attached to the benzene ring back at the
+attachés au cycle benzénique au
+
+start we mentioned that aniline one of
+début, nous avons mentionné que l'aniline un
+
+the reagents used to make synthetic
+des réactifs utilisés pour fabriquer l'
+
+indigo is formed from nitrobenzene the
+indigo synthétique est formé à partir de nitrobenzène le
+
+nitro group is a meta-director but the
+groupe nitro est un méta-directeur mais le
+
+amino group which just has two hydrogens
+groupe amino qui a juste deux hydrogènes
+
+instead of two oxygens is an ortho para
+ins  la tête de deux oxygènes est un directeur ortho para
+
+director so say we want to use
+, alors disons que nous voulons utiliser
+
+electrophilic aromatic substitution to
+une substitution aromatique électrophile pour
+
+make this ring with an amino group and a
+créer ce cycle avec un groupe amino et un
+
+bromine at the meta position
+brome en position méta
+
+like we just mentioned the amino group
+comme nous venons de le mentionner, le groupe amino
+
+is an ortho para director and the bromo
+est un directeur ortho para et le
+
+group is an ortho para director too so
+groupe bromo est  un ortho para directeur aussi, alors
+
+how do we get the meta pattern well we
+comment obtenir bien le méta-modèle, nous
+
+can start by adding the metadirecting
+pouvons commencer par ajouter le
+
+nitro group and then carry out the
+groupe nitro métadirecteur, puis effectuer la
+
+bromination reaction adding a bromine to
+réaction de bromation en ajoutant un brome à
+
+the meta position like we want and then
+la position méta comme nous le voulons, puis
+
+we can reduce the nitro group to get the
+nous pouvons réduire le groupe nitro pour obtenir  le
+
+amino group on our benzene ring
+groupe amino sur notre cycle benzénique est un
+
+kind of tricky but we used reduction to
+peu délicat, mais nous avons utilisé la réduction pour
+
+get the directing effects we wanted so
+obtenir les effets directeurs que nous voulions jusqu'à
+
+far in this series we've mostly
+présent dans cette série, nous avons principalement
+
+considered eas reactions with a single
+envisagé des réactions faciles avec un seul
+
+substituent on a benzene ring but we'll
+substituant sur un cycle benzénique, mais
+
+come across lots of cases where our
+nous rencontrerons de nombreux cas  où notre
+
+benzene ring has multiple substituents
+cycle benzénique a plusieurs substituants
+
+which can make it harder to work out
+qui peuvent rendre plus difficile de déterminer
+
+where substitution will happen in these
+où la substitution se produira dans ces
+
+cases we have to consider whether the
+cas, nous devons déterminer si les
+
+groups already attached to our benzene
+groupes déjà attachés à notre ben  le
+
+ring are ortho para or meta directing as
+cycle zene est ortho para ou méta directeur
+
+well as their relative strengths
+ainsi que leurs forces relatives
+
+if we have groups with effects that
+si nous avons des groupes avec des effets qui se
+
+reinforce each other that can make these
+renforcent mutuellement qui peuvent faciliter ces
+
+logic puzzles easier take this example
+énigmes logiques prenez cet exemple
+
+where we have a benzene ring with a
+où nous avons un cycle benzène avec un
+
+nitro group and a hydroxyl group
+groupe nitro et un groupe hydroxyle
+
+attached on opposite sides of the ring
+attaché sur  côtés opposés de l'anneau,
+
+the nitro group directs to the spot meta
+le groupe nitro se dirige vers le point méta
+
+to itself while the hydroxyl group
+vers lui-même tandis que le groupe hydroxyle se
+
+directs to its ortho or para position
+dirige vers sa position ortho ou para en
+
+based on these effects if we try to add
+fonction de ces effets si nous essayons d'ajouter
+
+a chlorine atom there's only one place
+un atome de chlore, il n'y a qu'un seul endroit où
+
+it can end up in the meta position to
+il peut se retrouver en position méta  au
+
+the nitro group and the ortho position
+groupe nitro et à la position ortho par rapport
+
+to the hydroxyl group nice and
+au groupe hydroxyle agréable et
+
+straightforward now if we have two
+simple maintenant si nous avons deux
+
+groups with contrasting effects the
+groupes avec des effets contrastés, le
+
+stronger activating group gets priority
+groupe d'activation le plus fort a la priorité,
+
+for instance let's look at the nitration
+par exemple, regardons la nitration
+
+of four 4-bromophenol both groups here
+de quatre 4-bromophénol, les deux groupes ici
+
+are ortho-para-directors but the
+sont ortho-para-  directeurs mais le
+
+hydroxyl group is activating while the
+groupe hydroxyle s'active tandis que le
+
+bromo group is deactivating so the
+groupe bromo se désactive donc le
+
+hydroxyl group is the strongest and only
+groupe hydroxyle est le groupe d'activation le plus fort et le seul
+
+activating group and it takes priority
+et il faut p  priorité
+
+if we try to add a nitro group the
+si nous essayons d'ajouter un groupe nitro, la
+
+reaction favors position ortho to the
+réaction favorise la position ortho par rapport à l'
+
+o-h and this is our major product now
+oh et c'est notre produit principal maintenant en
+
+depending on the difference in electron
+fonction de la différence de
+
+donating ability these competing
+capacité de don d'électrons ces
+
+directing effect reactions can produce
+réactions à effet directeur concurrentes peuvent produire des
+
+mixtures of products but now we know the
+mélanges de produits mais maintenant nous connaissons la
+
+best way to predict the major one the
+meilleure façon de  prédire la principale les
+
+reactions we have in our toolkit so far
+réactions que nous avons dans notre boîte à outils jusqu'à présent
+
+allow us to easily add halogen atoms to
+nous permettent d'ajouter facilement des atomes d'halogène à
+
+a plain old benzene ring a benzene ring
+un vieux cycle benzénique simple un cycle benzénique
+
+with an alkyl group contains a benzylic
+avec un groupe alkyle contient un
+
+carbon the one attached to the benzene
+carbone benzylique celui attaché au cycle
+
+ring and you know what we can halogenate
+benzénique et vous savez ce que nous pouvons  halogénate
+
+that easily too these reactions take
+que facilement aussi ces réactions
+
+advantage of the stability of the benzyl
+profitent de la stabilité du
+
+radical remember a radical is a molecule
+radical benzyle rappelez-vous qu'un radical est une molécule
+
+with an unpaired electron and usually
+avec un électron non apparié et généralement
+
+they're very reactive and unstable
+ils sont très réactifs et instables
+
+however in the benzeal radical the
+cependant dans le radical benzéal, le
+
+neighboring aromatic ring helps
+cycle aromatique voisin aide à
+
+stabilize the radical through resonance
+stabiliser le radical par résonance
+
+so we can carry out free radical
+donc  on peut effectuer des
+
+substitution reactions at the benzylic
+réactions de substitution radicalaire au niveau du
+
+carbon benzylic halogenation allows us
+carbone benzylique l'halogénation benzylique permet
+
+to replace a hydrogen atom on a benzylic
+de remplacer ah  atome d'hydrogène sur un
+
+carbon with a chlorine or bromine atom
+carbone benzylique avec un atome de chlore ou de brome
+
+for chlorination we simply heat our
+pour la chloration, nous chauffons simplement notre
+
+reagent in this case toluene with
+réactif dans ce cas du toluène avec du
+
+chlorine or expose it to uv light if we
+chlore ou l'exposons à la lumière UV si nous
+
+use an excess of chlorine we can
+utilisons un excès de chlore, nous pouvons
+
+continue to replace the hydrogens on the
+continuer à remplacer les hydrogènes sur le
+
+benzylic carbon with chlorine atoms we
+carbone benzylique avec  atomes de chlore, nous
+
+can do the same thing with bromine to
+pouvons faire la même chose avec le brome pour
+
+add bromine atoms to the benzylic carbon
+ajouter des atomes de brome au carbone benzylique
+
+too and this time we'll use
+également et cette fois nous utiliserons le
+
+n-bromocyccidamide or mbs as our reagent
+n-bromocyccidamide ou mbs car notre
+
+formation of a benzylic radical makes
+formation réactive d'un radical benzylique rend
+
+the reaction possible as we know bromine
+la réaction possible car nous savons que le brome
+
+is a good leaving group and having a
+est un bon  groupe partant et avoir un
+
+good leaving group on the benzylic
+bon groupe partant sur le
+
+carbon lets us add all sorts of fun
+carbone benzylique nous permet d'ajouter toutes sortes de
+
+groups onto the alkyl chain which would
+groupes amusants sur la chaîne alkyle qui
+
+be difficult to add directly to the
+seraient difficiles à ajouter directement au
+
+benzylic carbon the usefulness of
+carbone benzylique l'utilité des
+
+benzylic reactions doesn't stop there
+réactions benzyliques ne s'arrête pas là les
+
+benzylic oxidations are a handy way of
+oxydations benzyliques sont pratiques  façon de
+
+turning a benzene with an alkyl side
+transformer un benzène avec une chaîne latérale alkyle
+
+chain into benzoic acid
+en acide benzoïque
+
+to do this we can use chromic acid or
+pour ce faire, nous pouvons utiliser de l'acide chromique ou
+
+hot alkaline potassium permanganate as
+du permanganate de potassium alcalin chaud comme
+
+an oxidizing agent this reaction works
+agent oxydant ce r  L'action fonctionne
+
+regardless of the length of the side
+quelle que soit la longueur de la
+
+chain but you need to have at least one
+chaîne latérale, mais vous devez avoir au moins un
+
+benzylic hydrogen because oxidation
+hydrogène benzylique car l'oxydation
+
+begins at the benzylic carbon during the
+commence au niveau du carbone benzylique pendant la
+
+reaction the further carbons on the
+réaction, les autres carbones de la
+
+chain are lopped off giving us benzoic
+chaîne sont coupés, ce qui nous donne de l'
+
+acid every time these reactions are
+acide benzoïque à chaque fois que ces réactions sont
+
+pretty useful because we can't attach a
+assez utiles.  parce que nous ne pouvons pas attacher un
+
+carboxylic acid group directly to a
+groupe acide carboxylique directement à un
+
+benzene ring through friedel-crafts
+cycle benzénique par l'
+
+isolation so this gives a fairly simple
+isolement de friedel-crafts, cela donne donc une voie assez simple
+
+route not to mention benzoic acid has
+sans parler de l'acide benzoïque a des
+
+uses as a food preservative and as a
+utilisations comme conservateur alimentaire et comme
+
+precursor to various other products so
+précurseur de divers autres produits, donc
+
+whether you're wearing jeans or drinking
+si vous '  porter des jeans ou boire
+
+a can of soda eas reactions are all
+une canette de soda eas les réactions sont tout
+
+around us in this episode we identified
+autour de nous dans cet épisode, nous avons identifié
+
+three limitations of friedel-crafts
+trois limitations des réactions de friedel-crafts
+
+reactions and how we can work around
+et comment nous pouvons les
+
+them saw where substitution happens when
+contourner vu où la substitution se produit lorsque
+
+we have multiple directing groups on a
+nous avons plusieurs groupes de direction sur un
+
+benzene ring and introduce benzylic
+anneau de benzène et introduisons
+
+reactions in the next episode we'll be
+réactions benzyliques dans le prochain épisode, nous nous dirigerons
+
+heading to the lab to apply these
+vers le laboratoire pour appliquer ces
+
+reactions to some synthesis problems and
+réactions à certains problèmes de synthèse et
+
+we'll add additional purification
+nous ajouterons
+
+methods to our toolkit until then thanks
+méthodes de purification supplémentaires à notre boîte à outils jusque-là merci
+
+for watching this episode of crash
+d'avoir regardé cet épisode de
+
+course organic chemistry if you want to
+cours intensif de chimie organique si vous voulez
+
+help keep all crash course free for
+aider à garder tous les cours accélérés gratuits pour
+
+everybody forever you can join our
+tout le monde pour toujours vous pouvez rejoindre notre
+
+community on patreon
+communauté sur patreon
+

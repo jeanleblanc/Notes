@@ -1,0 +1,557 @@
+L’électron est à la chimie ce que l’argent est au
+capitalisme.
+
+Ce qui compte c'est qui en a, qui en veut, et ce
+qu'ils sont capables de faire pour en avoir.
+
+Les électrons sont ce qui permettent aux atomes
+
+de se lier à d’autres atomes pour former des
+molécules.
+
+Et quand ça se produit, une énorme quantité d’énergie
+peut être échangée dans ce procédé.
+
+Mais toutes les réactions chimiques n’impliquent
+pas que des électrons se déplacent.
+
+Les réactions acide-base sont centrées sur l’échange
+de protons.
+
+Mais comme les électrons sont la véritable monnaie
+en chimie,
+
+les réactions les plus importantes qui se produisent
+sur Terre consistent en un transfert d’un ou
+
+plusieurs électrons d’un atome à l’autre.
+
+Ce sont les réactions d’oxydoréduction, ou redox. 
+Redox est un mélange de « réduction » et
+« oxydation ».
+
+[Thème musical]
+
+Mais c’est quoi ces mots ? Vous savez ce qu’est la
+réduction, c’est diminuer quelque chose.
+
+Et l’oxydation a peut-être un rapport avec
+l’oxygène. Parfois oui, mais pas toujours.
+
+Ce sont des très mauvais choix pour
+
+décrire ce qui se passe dans les réactions redox,
+
+mais on est coincé avec ça.
+
+La réduction, c’est quand une substance gagne des
+électrons.
+
+Oui, il en gagne, ce qui est le contraire de ce que
+signifie le mot « réduction », génial.
+
+Et oui, parfois j’ai envie de punir les gens qui
+donnent des noms aussi mauvais,
+
+mais ils ne savaient pas et ils sont tous morts,
+donc on ne peut rien y faire.
+
+Les proto-chimistes fabriquaient des métaux purs en
+faisant chauffer ou fondre leur minerai.
+
+Et ils ont remarqué, pendant la fonte, que ces
+substances devenaient plus légères.
+
+Donc ce n’est pas si fou qu’ils aient pensé que ces
+substances étaient réduites.
+
+Notre vieil ami français, Antoine Lavoisier, a
+compris que c’était
+
+causé par le gaz d’oxygène qui quittait le composé,
+le rendant plus léger.
+
+Ce qu’il ne connaissait pas, c’était les procédés
+chimiques derrière ça.
+
+L’oxygène est, sans surprise, le meilleur oxydant.
+
+Il attire des électrons d’une molécule pour se rendre
+plus stable.
+
+Mais si vous le chauffez assez, il devient très
+énergétique.
+
+Aujourd’hui, on comprend que l’oxydation et la
+réduction sont des affaires de transfert
+d’électrons.
+
+Alors on pourrait penser qu’on aurait changé les
+noms.
+
+Et certains chimistes ont essayé, avec des termes
+comme electronation et dé-electronation.
+
+Mais une fois qu'un terme est accepté et utilisé
+pendant un
+
+moment, il est difficile de le changer, donc c’est
+resté.
+
+Donc voilà ce qu'il faut savoir :
+
+l’oxydation est la perte d’électrons, la réduction
+est le gain d’électrons.
+
+Il faut juste s’en souvenir, parce qu’on en trouve
+partout.
+
+Quand vos cellules convertissent du sucre en énergie
+pour
+
+vous permettre de bouger et de penser ? Réaction
+redox.
+
+Quand les plantes réalisent la photosynthèse pour
+transformer la lumière en nourriture ? Réaction
+redox.
+
+La batterie qui alimente votre ordinateur portable
+? Redox. Le feu ? Redox aussi !
+
+Comme l’échange d’électrons est l’activité principale
+ici, quand on étudie les réactions redox,
+
+il est important, crucial, absolument essentiel de
+surveiller ses électrons.
+
+Faites comme s’ils étaient des dollars, des pesos,
+des livres ou des euros.
+
+Dans chaque transaction, une personne va les gagner
+et une autre va les perdre.
+
+Et pour rester sur le coup, il faut noter qui est
+en tête et qui est derrière.
+
+Les atomes aiment partager des électrons, formant
+des liaisons covalentes,
+
+alors parfois il n’est pas si simple de suivre où
+ils sont
+
+et où ils vont finir.
+
+Voyons chaque composé covalent comme un mariage.
+
+Même si ça va être un mariage bizarre, parce qu’il
+peut y avoir six personnes dedans.
+
+Et parfois plusieurs fois la même personne.
+
+Sans engagement, et sans émotions. N’y réfléchissez
+pas trop.
+
+Comme dans un mariage, où de l’argent est partagé,
+les composés covalents partagent des électrons.
+
+Le but c’est de savoir qui va récolter l’argent
+après la rupture.
+
+Alors on a créé un petit système utile qui
+attribue
+
+les électrons à 100% aux atomes qui, en réalité,
+
+les partagent.
+
+Le nombre qu'on attribue aux atomes est « l’état
+d’oxydation » ou nombre d’oxydation.
+
+Même si nous connaissons bien sûr les liaisons
+covalentes et le partage d’électrons,
+
+les procédés sont plus simples à suivre si on imagine
+que
+
+les atomes sont déjà en train de départager leur
+argent,
+
+comme s’ils étaient dans une liaison ionique ou sans
+partage.
+
+Donc le nombre d’oxydation d’un atome correspond à
+ce que serait sa charge
+
+s’il possédait tous ses électrons exclusivement,
+
+comme le célibataire qu’il pourrait devenir.
+
+Alors pour trouver ces états d’oxydation, ou
+nombres
+
+d’oxydation, on a quelques règles simples pour
+certains atomes :
+
+d’abord, le nombre d’oxydation de n’importe quel
+élément seul,
+
+qu’il soit monoatomique, diatomique ou
+polyatomique,
+
+comme un atome de calcium, une molécule de H2 ou
+encore plus gros,
+
+une molécule de soufre (S8), le nombre d’oxydation
+est 0.
+
+Les atomes, par définition, n’ont pas de charge.
+S’ils avaient une charge, ils seraient des ions.
+
+Et s’ils partagent avec eux-mêmes, ils partagent
+équitablement.
+
+Ensuite, pour un ion monoatomique, un atome
+chargé,
+
+c’est simplement la taille ou le nombre de sa
+charge.
+
+Donc le fer (II) en Fe2+ a un état d’oxydation
+
+de plus deux, alors que l’ion de chlorure est moins
+un.
+
+Ensuite, l’oxygène, qui est sans surprise au centre
+de la chimie redox,
+
+a presque toujours une oxydation de moins deux,
+
+sauf s’il se trouve dans une molécule de peroxyde
+comme le peroxyde d’hydrogène.
+
+L’hydrogène est plus un. Et le fluor est moins un.
+
+Comme tous les autres halogènes la plupart du
+temps.
+
+Sauf s’ils sont liés à du fluor ou de l’oxygène,
+
+car le fluor et l’oxygène sont si mauvais qu’ils
+peuvent
+
+rendre le nombre d’oxydation de n’importe qui
+positif,
+
+vous voyez ce que je veux dire ?
+
+Et voilà les règles ! C’est tout ce qu’il faut
+savoir.
+
+Le total des nombres d’oxydation de tous
+
+les atomes d’un composé neutre sera de zéro.
+
+Comme l’eau : un oxygène avec un état
+
+d’oxydation de moins deux, deux hydrogène de plus
+un,
+
+et voilà, un composé neutre a un nombre d’oxydation
+de zéro.
+
+Un ion polyatomique, en revanche, doit faire en
+sorte
+
+que son état d’oxydation soit égal à sa charge.
+
+Donc SO4^2-, l’ion sulfate, a quatre oxygènes pour
+un total de moins huit,
+
+mais on n’a pas de règle pour le soufre donc
+j’imagine
+
+qu’on a plus qu’à abandonner et partir, qui ça
+intéresse de toute façon ?
+
+Non ! On utilise de l’algèbre élémentaire.
+
+Parce qu’on doit obtenir un nombre d’oxydation
+
+de moins deux pour ce composé en entier,
+
+on sait que le soufre, dans ce composé particulier,
+a un état d’oxydation de plus six.
+
+Mais l’état d’oxydation du soufre n’est pas toujours
+plus six,
+
+c’est pour ça qu’on n’a pas de règle pour le
+soufre
+
+ni pour beaucoup d’autres éléments d’ailleurs,
+
+car l’état d’oxydation de beaucoup d’éléments dépend
+de ce à quoi ils sont liés.
+
+On peut utiliser la même logique pour comprendre ce
+qui arrive
+
+lorsque ces composés interagissent dans une réaction
+redox.
+
+Divorce moléculaire des électrons : changement de
+camp, marchandage et échanges,
+
+certains empochent le pactole alors que d’autres
+
+perdent tout. C’est le jeu.
+
+Commençons avec un exemple simple :
+
+une réaction chimique qui, je pense, a sauvé plus
+
+de vies que n’importe quelle autre dans l’histoire
+de la chimie,
+
+créée par un criminel de guerre pour faire exploser
+des gens pendant la première Guerre Mondiale : le
+procédé Haber.
+
+Le procédé Haber extrait l’azote élémentaire
+ultra-stable de l’air
+
+et le combine à de l’hydrogène pour former NH3, de
+l’ammoniac utilisé dans des bombes mais aussi dans
+de l’engrais,
+
+augmentant la capacité de la Terre de milliards.
+
+L’azote dans l’air existe sous forme d’azote
+diatomique
+
+élémentaire, et l’hydrogène sous forme de H2
+diatomique.
+
+Donc on sait qu’au départ, tous les atomes ont un
+état d’oxydation de zéro.
+
+Le produit de la réaction, l’ammoniac, et un
+composé
+
+neutre avec un azote et deux hydrogènes.
+
+Les hydrogènes, chacun a un état d’oxydation de plus
+un,
+
+donc l’azote doit avoir un état d’oxydation de moins
+trois.
+
+L’azote a donc gagné des électrons, son état
+d’oxydation a diminué et donc il a été réduit.
+
+Donc au moins quand on parle de ce que font les
+états
+
+d’oxydation, le mot « réduire » a un sens.
+
+L’hydrogène a perdu des électrons, l’état d’oxydation
+a augmenté et il a été oxydé.
+
+C’est une équation assez simple à équilibrer, mais
+
+les équations redox peuvent être difficiles,
+
+à cause du nombre d’atomes individuels qui sont
+concernés,
+
+donc il faut souvent les équilibrer en
+demi-équations.
+
+Alors même si on n’a pas vraiment besoin de faire
+les
+
+demi-équations, parce que c’est une équation assez
+simple,
+
+on va les faire quand même, parce ce que c’est une
+exemple assez simple pour commencer.
+
+On commence avec l’azote réduit.
+
+On a du N2 avec un état d’oxydation de zéro qui
+devient
+
+du NH3 avec un état d’oxydation de moins trois.
+
+D’abord on équilibre le nombre d’azotes,
+
+puis on ajoute le nombre d’électrons qu’il faut pour
+qu’il
+
+y ait le même nombre d’électrons de chaque côté.
+
+On fait la même chose avec l’oxydation,
+
+puis on les combine pour avoir la réaction complète
+avec les électrons qui s’annulent.
+
+Oui, ça semble être une étape inutile,
+
+mais laissez-moi vous montrer un exemple plus
+
+compliqué qui prouve que ça peut être nécessaire.
+
+Dans cette fiole se trouve de la diamine d’argent.
+
+Nous allons utiliser de la chimie redox pour en
+extraire
+
+l’argent élémentaire, tout beau et propre,
+
+et ça ne va pas être aussi simple que le procédé
+Haber.
+
+La diamine d’argent va réagir avec un aldéhyde
+organique. Ou n’importe quel aldéhyde.
+
+La partie importante de l’aldéhyde est le CHO,
+
+le R en chimie organique est un symbole pour certains
+groupes d’atomes organiques,
+
+et dans cette réaction ils ne sont pas importants.
+
+La diamine d’argent réagit avec l’aldéhyde et
+l’hydroxyde
+
+pour former un acide carboxylique, de l’ammoniac et
+de l’eau.
+
+D’abord, attribuons quelques états d’oxydation.
+
+L’argent est avec deux atomes d’ammoniac neutres
+qui
+
+ne seront pas réactifs dans l’équation,
+
+donc on peut les traiter comme une espèce simple
+avec un état d’oxydation de zéro.
+
+Comme la diamine d’argent a une charge de plus un
+et que l’ammoniac n’a pas d’effet sur ça,
+
+l’état d’oxydation de l’argent doit être de plus un
+aussi.
+
+L’aldéhyde a un hydrogène de plus un et un oxygène
+de moins deux
+
+mais il est neutre, donc le carbone dois être de
+plus un aussi.
+
+L’ion hydroxyde est simple :
+
+moins deux pour l’oxygène et plus un pour l’hydrogène
+et
+
+une charge totale et état d’oxydation de moins un.
+
+Du côté des réactifs, l’argent est maintenant
+atomique, donc son état d’oxydation est de zéro.
+
+L’acide carboxylique a deux oxygènes et un hydrogène,
+donc
+
+le carbone a maintenant un état d’oxydation de plus
+trois.
+
+NH3 reste à zéro et l’hydrogène et l’oxygène
+
+de l’eau n’ont pas non plus changé d’état
+d’oxydation.
+
+Donc l’état d’oxydation de l’argent est diminué, ou
+réduit, de plus un à zéro,
+
+alors que le carbone a été oxydé de plus un à plus
+trois.
+
+On passe aux demi-réactions !
+
+L’argent a été réduit, gagnant un électron,
+formant
+
+de l’argent élémentaire et de l’ammoniac à partir
+de la diamine d’argent.
+
+L’aldéhyde a été oxydé, formant de l’acide carboxylique
+et nécessitant deux électrons.
+
+Avec l’aide de ces électrons,
+
+on sait qu’il faut au moins qu’on double
+
+la moitié réduite de l’équation
+
+pour obtenir le bon nombre d’électrons de chaque
+côté.
+
+On fait ça et, oh ça c’est beau !
+
+Ensuite on les combine, pour une équation redox
+parfaitement équilibrée.
+
+Et maintenant regardez-moi transformer ces électrons
+en argent.
+
+Et voilà les amis. C’est de l’argent pur qui recouvre
+l’intérieur de cette fiole.
+
+Merci d’avoir regardé cet épisode de Crash Course
+Chimie.
+
+Si vous avez bien suivi, vous avez appris que :
+
+chaque réaction durant laquelle des électrons passent
+d’atome en atome est une réaction redox,
+
+que l’oxydation est la perte d’électrons et la
+réduction est le gain d’électrons,
+
+et que des nombres d’oxydation sont attribués aux
+atomes qui participent à des réactions
+
+pour suivre ce que font leurs électrons.
+
+Vous avez aussi appris quelques astuces pour trouver
+l’état d’oxydation d’un atome
+
+et vous vous êtes entrainés à trouver comment
+attribuer
+
+les état d’oxydation et équilibrer les réactions
+d’oxydation,
+
+avec deux exemples : l’un assez simple et l’autre
+un peu moins.
+
+Cet épisode de Crash Course Chimie a été écrit par
+Kim Krieger et moi-même,
+
+le script a été révisé par Blake de Pastino, notre
+consultant en chimie est le Dr Heiko Langner,
+
+et une troupe de professeurs de chimie ont conseillé
+et
+
+révisé celui-là, merci beaucoup à eux.
+
+Cet épisode a été filmé, monté et réalisé par Nicholas
+Jenkins,
+
+notre concepteur sonore et superviseur de script
+est Michael Aranda,
+
+et notre équipe graphique est Thought Café.
+

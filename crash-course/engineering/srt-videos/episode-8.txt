@@ -1,0 +1,768 @@
+From the earliest steam machines to modern
+muscle cars, engines have long powered engineering.
+Des premières machines à vapeur aux
+muscle cars modernes, les moteurs ont longtemps alimenté l'ingénierie.
+
+I mean, the field is literally named after
+them.
+Je veux dire, le champ porte littéralement leur
+nom.
+
+Engines provide us with energy we can use for
+all kinds of things, and how to optimize them is
+one of engineering’s central problems.
+Les moteurs nous fournissent de l'énergie que nous pouvons utiliser pour
+toutes sortes de choses, et comment les optimiser est l'
+un des problèmes centraux de l'ingénierie.
+
+One of the keys to solving it is the concept of
+reversibility: the more reversible a system is, the
+less work it needs from its surroundings.
+L'une des clés pour le résoudre est le concept de
+réversibilité : plus un système est réversible,
+moins il demande de travail à son environnement.
+
+In other words, a more reversible system needs
+less fuel to keep going.
+En d'autres termes, un système plus réversible a besoin de
+moins de carburant pour fonctionner.
+
+So if you’re trying to build the best engine
+you can, reversibility is a good place to start.
+Donc, si vous essayez de construire le meilleur
+moteur possible, la réversibilité est un bon point de départ.
+
+[Theme Music]
+[Thème musical] Les
+
+Engines drive our society and many of the
+machines we use every day.
+moteurs animent notre société et bon nombre des
+machines que nous utilisons au quotidien.
+
+And what’s inside many of our engines, are
+pistons.
+Et ce qui se trouve à l'intérieur de bon nombre de nos moteurs, ce sont des
+pistons.
+
+Pistons are disks or cylindrical parts that
+move back and forth in a cylinder against
+a liquid or a gas.
+Les pistons sont des disques ou des pièces cylindriques qui vont
+et viennent dans un cylindre contre
+un liquide ou un gaz.
+
+In an internal combustion engine, like the
+one that’s under the hood of most cars,
+Dans un moteur à combustion interne, comme
+celui qui se trouve sous le capot de la plupart des voitures,
+
+the pistons are pushed by the expanding gases in
+the cylinder, which turns a type of shaft or wheel.
+les pistons sont poussés par les gaz en expansion dans
+le cylindre, qui fait tourner un type d'arbre ou de roue.
+
+This turns their repetitive, linear motion
+into a rotation that helps power the engine.
+Cela transforme leur mouvement linéaire répétitif
+en une rotation qui aide à alimenter le moteur.
+
+When you’re dealing with a simple machine or
+mechanism, like a piston, there are two main types
+of energy you can put into or take out of the system:
+heat and work.
+Lorsqu'il s'agit d'une machine ou d'un
+mécanisme simple, comme un piston, il existe deux principaux types
+d'énergie que vous pouvez introduire ou retirer du système : la
+chaleur et le travail.
+
+You probably have a pretty good idea of what heat is.
+Simply put, it’s thermal energy.
+Vous avez probablement une assez bonne idée de ce qu'est la chaleur.
+En termes simples, c'est de l'énergie thermique.
+
+It’s what you feel when you step out in
+the sun or stand by a warm fire.
+C'est ce que vous ressentez lorsque vous sortez au soleil ou que vous vous
+tenez près d'un feu chaud.
+
+In engineering, we define heat with the letter
+Q.
+En ingénierie, on définit la chaleur par la lettre
+Q. Le
+
+Work, represented by the letter W, is a little
+more complex.
+travail, représenté par la lettre W, est un peu
+plus complexe.
+
+It’s essentially any type of energy other
+than heat that crosses into a system.
+Il s'agit essentiellement de tout type d'énergie autre
+que la chaleur qui pénètre dans un système.
+
+One way to measure it is by how much force
+is being applied over a distance.
+Une façon de le mesurer est de mesurer la
+force appliquée sur une distance.
+
+There are a different types of work you’re likely
+to encounter as an engineer, but with all of them,
+Il existe différents types de travail que vous êtes susceptible
+de rencontrer en tant qu'ingénieur, mais avec chacun d'eux,
+
+the idea is that by putting work into a system,
+you can get some work out of it, usually in a more
+useful form.
+l'idée est qu'en mettant du travail dans un système,
+vous pouvez en tirer du travail, généralement sous une
+forme plus utile.
+
+One type is pressure-volume work.
+Un type est le travail pression-volume.
+
+This has to do with the expansion and compression
+of matter.
+Cela a à voir avec l'expansion et la compression
+de la matière.
+
+Squeezing a stress ball is a good example.
+Presser une balle anti-stress en est un bon exemple.
+
+Based on how much pressure you apply to the
+ball, the change in volume tells you how much
+work you were able to achieve.
+En fonction de la pression que vous appliquez sur le
+ballon, le changement de volume vous indique la quantité de
+travail que vous avez pu accomplir.
+
+When the stress ball is expanded, we’d say the
+work is negative, because it’s being done by the ball.
+Lorsque la balle anti-stress est agrandie, nous dirions que le
+travail est négatif, car il est effectué par la balle.
+
+When it’s compressed, the work is positive,
+because it’s being done on the ball.
+Lorsqu'il est compressé, le travail est positif,
+car il se fait sur le ballon.
+
+Pistons involve pressure-volume work, too.
+Les pistons impliquent également un travail pression-volume.
+
+In a car, for example, the work done on the
+system comes from the fuel, which heats up
+gas in the cylinder when it’s ignited.
+Dans une voiture, par exemple, le travail effectué sur le
+système provient du carburant, qui chauffe le
+gaz dans le cylindre lorsqu'il est allumé.
+
+As the gas expands, it does work, with the
+increased pressure pushing the piston up.
+Au fur et à mesure que le gaz se dilate, cela fonctionne, la
+pression accrue poussant le piston vers le haut.
+
+Then the gas cools again and the piston moves
+back down.
+Ensuite, le gaz se refroidit à nouveau et le piston
+redescend.
+
+This cycle produces work that turns the shaft
+or wheel.
+Ce cycle produit un travail qui fait tourner l'arbre
+ou la roue.
+
+Another type of work is shaft work, which
+is when a shaft or propeller rotates through
+a liquid or gas.
+Un autre type de travail est le travail sur arbre, c'est-à-
+dire lorsqu'un arbre ou une hélice tourne dans
+un liquide ou un gaz.
+
+There’s also electrical work, which is the work
+done on a charged particle by an electric field.
+Il y a aussi le travail électrique, qui est le travail
+effectué sur une particule chargée par un champ électrique.
+
+You can think of it like the discharge from
+a battery.
+Vous pouvez y penser comme la décharge d'
+une batterie.
+
+As you’re watching this video, there's electrical
+work going on in your phone or computer.
+Pendant que vous regardez cette vidéo, des
+travaux électriques sont en cours sur votre téléphone ou votre ordinateur.
+
+A lot of engineering is about optimizing your
+machines and processes to produce the most
+amount of work with as little input as possible.
+Une grande partie de l'ingénierie consiste à optimiser vos
+machines et vos processus pour produire le
+plus de travail avec le moins d'intrants possible.
+
+The more work a machine uses up, the more you
+need to get out of it, to have it be worth your while.
+Plus une machine utilise de travail, plus vous
+devez en tirer parti, pour que cela en vaille la peine.
+
+It’s like a job; the more time and effort you put in,
+the more you’ll want to get paid.
+C'est comme un travail;  plus vous investissez de temps et d'efforts
+, plus vous voudrez être payé.
+
+That’s why work is well...work.
+C'est pourquoi le travail, c'est bien... le travail.
+
+With machines, optimizing work is all about
+reversibility.
+Avec les machines, l'optimisation du travail passe avant tout par la
+réversibilité.
+
+You’ll never get more energy out of a system
+than what was put into it.
+Vous n'obtiendrez jamais plus d'énergie d'un système
+que ce qui y a été mis.
+
+That would violate conservation of energy.
+Cela violerait la conservation de l'énergie.
+
+But if a process is reversible, that means
+it can go back to its initial state and start
+over with no additional work input.
+Mais si un processus est réversible, cela signifie
+qu'il peut revenir à son état initial et
+recommencer sans apport de travail supplémentaire.
+
+In other words, when a process is reversible,
+you’re maximizing the amount of work you
+get for your input.
+En d'autres termes, lorsqu'un processus est réversible,
+vous maximisez la quantité de travail que vous
+obtenez pour votre contribution.
+
+But reversible processes are impossible in
+real life.
+Mais les processus réversibles sont impossibles dans la
+vraie vie.
+
+They require slow, steady, incredibly small changes
+Ils nécessitent des changements lents, réguliers et incroyablement petits
+
+to make sure you don’t permanently change the
+system in a way that you can’t reverse without
+putting some additional work in.
+pour s'assurer que vous ne modifiez pas le
+système de manière permanente d'une manière que vous ne pouvez pas inverser sans y
+mettre un peu de travail supplémentaire.
+
+Which...would require an infinite amount of
+time.
+Ce qui... nécessiterait un temps infini
+.
+
+So in the real world, all processes involving
+work are irreversible.
+Ainsi, dans le monde réel, tous les processus impliquant du
+travail sont irréversibles.
+
+They can be reset, to some extent, but you
+need to put in a bit of elbow grease to get
+them there.
+Ils peuvent être réinitialisés, dans une certaine mesure, mais vous
+devez mettre un peu d'huile de coude pour
+les y amener.
+
+A reversible process is more like the
+best-case scenario – one you can get close to,
+but never actually reach.
+Un processus réversible ressemble plus au
+scénario du meilleur des cas - un scénario que vous pouvez approcher,
+mais que vous n'atteignez jamais.
+
+In engineering, it’s not so much about whether
+a process is reversible, but how reversible it is.
+En ingénierie, il ne s'agit pas tant de savoir si
+un processus est réversible, mais à quel point il est réversible.
+
+The closer you can get to reversibility, the
+more efficient and optimal the process will be.
+Plus vous vous rapprocherez de la réversibilité,
+plus le processus sera efficace et optimal.
+
+To see what I mean, let’s go back to that
+piston.
+Pour voir ce que je veux dire, revenons à ce
+piston.
+
+You want the piston to move up and down in
+the cylinder, to turn a crank, and generate power.
+Vous voulez que le piston monte et descende dans
+le cylindre, tourne une manivelle et génère de la puissance.
+
+There’s also gas in the cylinder.
+Il y a aussi du gaz dans la bouteille.
+
+Bringing the piston up expands the gas and
+pushing it down compresses the gas.
+Amener le piston vers le haut dilate le gaz et le
+pousser vers le bas comprime le gaz.
+
+When the gas is under compression, it will
+expand on its own.
+Lorsque le gaz est sous compression, il se
+dilate tout seul.
+
+But it won’t compress again unless a force
+is applied to it.
+Mais il ne se compressera pas à moins qu'une force ne lui
+soit appliquée.
+
+It’s like the stress ball – after you squeeze it,
+it will expand back to its original size.
+C'est comme la balle anti-stress - après l'avoir pressée,
+elle reprendra sa taille d'origine.
+
+But the ball won’t randomly crumble back
+in on itself without an outside force.
+Mais la balle ne s'effondrera pas au hasard
+sur elle-même sans une force extérieure.
+
+Say this piston is designed so the force compressing
+the piston comes from a brick.
+Disons que ce piston est conçu pour que la force de compression
+du piston provienne d'une brique.
+
+When you remove the brick, the gas below
+the piston will expand will expand freely, and
+the piston will rise.
+Lorsque vous retirez la brique, le gaz sous
+le piston se dilatera librement et
+le piston montera.
+
+But to get the gas to compress again and the
+piston to go back down, you need to lift the brick
+to put it back on top of the piston.
+Mais pour que le gaz se comprime à nouveau et que le
+piston redescende, il faut soulever la brique
+pour la remettre sur le dessus du piston.
+
+Since the system needs outside work to get it
+back to where it was, with the gas compressed,
+this process is irreversible.
+Étant donné que le système a besoin d'un travail extérieur pour le
+remettre là où il était, avec le gaz comprimé,
+ce processus est irréversible.
+
+Next, let’s say you trying to break the
+brick in two.
+Ensuite, disons que vous essayez de casser la
+brique en deux.
+
+The system starts out like before, with the
+gas compressed by the weight of a full brick.
+Le système démarre comme avant, avec le
+gaz comprimé par le poids d'une brique pleine.
+
+Then you remove one half-brick, leaving it
+right where the piston was, near the bottom
+of the cylinder.
+Ensuite, vous enlevez une demi-brique, en la laissant
+là où se trouvait le piston, près du bas
+du cylindre.
+
+The gas still expands, but it doesn’t push the
+piston as far, since there’s still half a brick’s
+worth of weight holding it down.
+Le gaz se dilate toujours, mais il ne pousse pas le
+piston aussi loin, car il y a encore une demi-
+brique de poids qui le maintient enfoncé.
+
+Then you remove the other half-brick, and like the
+first one, you leave it at the same height, let’s say on
+a shelf right next to the piston or something.
+Ensuite tu enlèves l'autre demi-brique, et comme la
+première, tu la laisses à la même hauteur, disons sur
+une étagère juste à côté du piston ou autre.
+
+This allows the gas to expand as much as it
+did when you were using one brick, pushing
+the piston all the way up.
+Cela permet au gaz de se dilater autant qu'il le
+faisait lorsque vous utilisiez une brique, en poussant
+le piston tout en haut.
+
+But, think about the amount of work it will
+take to reverse this process and get the piston
+to go back down.
+Mais pensez à la quantité de travail qu'il
+faudra pour inverser ce processus et
+faire redescendre le piston.
+
+Before, you had to lift the entire brick all the way
+from where the piston started to where it stopped
+when the gas was done expanding.
+Auparavant, vous deviez soulever toute la brique
+depuis l'endroit où le piston a commencé jusqu'à l'endroit où il s'est arrêté
+lorsque le gaz a fini de se dilater.
+
+But this time, half the brick is already part
+of the way up the cylinder, because that’s
+where you removed it.
+Mais cette fois, la moitié de la brique fait déjà partie
+de la montée du cylindre, car c'est
+là que vous l'avez retirée.
+
+So you start by lifting that half-brick up to
+the top, which compresses the gas and pushes
+the piston part of the way down.
+Vous commencez donc par soulever cette demi-brique vers
+le haut, ce qui comprime le gaz et pousse
+le piston en partie vers le bas.
+
+Then, you lift the other half-brick to where
+the piston is now, pushing the piston down
+all the way back to where it started.
+Ensuite, vous soulevez l'autre demi-brique jusqu'à l'endroit où se trouve
+le piston, en poussant le piston
+jusqu'à son point de départ.
+
+So, instead of having to lift the whole brick all the
+way up the piston, now you effectively only have to
+lift half a brick all the way up the piston;
+Ainsi, au lieu d'avoir à soulever toute la brique tout le
+long du piston, vous n'avez plus qu'à
+soulever une demi-brique tout le long du piston ;
+
+it just took two steps instead of one.
+il a juste fallu deux étapes au lieu d'une.
+
+That’s a lot less work, which means the
+process is that much less irreversible than
+it was with one brick.
+C'est beaucoup moins de travail, ce qui signifie que le
+processus est beaucoup moins irréversible qu'il
+ne l'était avec une seule brique.
+
+And now you can start problem-solving as an
+engineer.
+Et maintenant, vous pouvez commencer à résoudre des problèmes en tant
+qu'ingénieur.
+
+If breaking the brick in two makes the process
+more reversible, how can you make it even better?
+Si casser la brique en deux rend le processus
+plus réversible, comment pouvez-vous le rendre encore meilleur ?
+
+A simple answer is to keep breaking the brick
+into smaller and smaller pieces.
+Une réponse simple est de continuer à briser la brique
+en morceaux de plus en plus petits.
+
+Eventually, you’d turn it into infinitely
+tiny grains of sand.
+Finalement, vous le transformeriez en
+grains de sable infiniment minuscules.
+
+This time, you start with a pile of sand with
+the same weight as the full brick, pushing
+the piston down.
+Cette fois, vous commencez avec un tas de sable
+du même poids que la brique pleine, en poussant
+le piston vers le bas.
+
+Then you remove one grain of sand at a time,
+leaving each grain at the same height that the
+piston was when you removed it.
+Ensuite, vous retirez un grain de sable à la fois, en
+laissant chaque grain à la même hauteur que le
+piston lorsque vous l'avez retiré.
+
+Gradually, the piston rises, producing work.
+Peu à peu, le piston monte, produisant du travail.
+
+But each movement is so small that to reverse
+the process and move the piston down, all you really
+have to do is shift each grain of sand sideways.
+Mais chaque mouvement est si petit que pour inverser
+le processus et déplacer le piston vers le bas, tout ce que vous avez vraiment
+à faire est de déplacer chaque grain de sable latéralement.
+
+Remember, we’re talking about increments
+that are infinitely small, so you effectively
+aren’t lifting anything.
+N'oubliez pas que nous parlons d'
+incréments infiniment petits, donc
+vous ne soulevez effectivement rien.
+
+You can keep the shifting grains of sand sideways,
+and slowly, the weight on the piston will increase,
+Vous pouvez garder les grains de sable qui se déplacent latéralement,
+et lentement, le poids sur le piston augmentera,
+
+compressing the gas and bringing you
+right back to where you started.
+comprimant le gaz et
+vous ramenant à votre point de départ.
+
+Which is definitely less work than lifting
+a whole brick, or even a half brick.
+Ce qui est certainement moins de travail que de soulever
+une brique entière, ou même une demi-brique.
+
+In fact, apart from that one grain you’ve
+lifted from the bottom to the top,
+En fait, à part ce grain que vous avez
+soulevé de bas en haut,
+
+the amount of work required to put each grain of
+sand back on the piston is exactly the same as the
+work ‘produced’ when you take it off.
+la quantité de travail nécessaire pour remettre chaque grain de
+sable sur le piston est exactement la même que le
+travail "produit" lorsque vous l'enlevez.
+
+Everything is happening so slowly and gradually that
+you aren’t losing energy as heat, which means you
+don’t need to ‘add’ work to replace that lost energy.
+Tout se passe si lentement et progressivement que
+vous ne perdez pas d'énergie sous forme de chaleur, ce qui signifie que vous
+n'avez pas besoin d'ajouter de travail pour remplacer cette énergie perdue.
+
+So you don’t need to put in any external
+work to push the piston back down,
+Vous n'avez donc pas besoin d'effectuer de
+travail externe pour repousser le piston,
+
+and you can use the same amount of work
+produced by the system to get it right back to
+where it started.
+et vous pouvez utiliser la même quantité de travail
+produite par le système pour le ramener
+à son point de départ.
+
+And there you have it: a reversible process.
+Et voilà : un processus réversible.
+
+Again, this would be pretty much impossible
+to accomplish in real life.
+Encore une fois, ce serait pratiquement impossible
+à accomplir dans la vraie vie.
+
+For one thing, you can’t actually have infinitely
+tiny grains of sand.
+D'une part, vous ne pouvez pas réellement avoir des
+grains de sable infiniment petits.
+
+Even a single molecule isn’t infinitely
+tiny.
+Même une seule molécule n'est pas infiniment
+petite.
+
+Plus, you’d need an infinite amount of time
+to get through all these infinitely small steps.
+De plus, vous auriez besoin d'un temps infini
+pour franchir toutes ces étapes infiniment petites.
+
+But as you break the brick into smaller pieces,
+you can get closer and closer.
+Mais au fur et à mesure que vous cassez la brique en petits morceaux,
+vous pouvez vous rapprocher de plus en plus.
+
+It’s also worth noting that the closer you
+get to the reversible version of this process,
+Il convient également de noter que plus vous vous rapprochez
+de la version réversible de ce processus
+
+the longer it will take, which would not be
+useful for most applications.
+, plus cela prendra du temps, ce qui ne serait pas
+utile pour la plupart des applications.
+
+If this type of piston was in the engine of
+your car, you’d be better off walking.
+Si ce type de piston était dans le moteur de
+votre voiture, vous feriez mieux de marcher.
+
+So reversibility sounds good, but you need
+to work with irreversible systems if you really
+want to achieve something.
+Donc, la réversibilité sonne bien, mais vous
+devez travailler avec des systèmes irréversibles si vous
+voulez vraiment réaliser quelque chose.
+
+As an engineer, the goal is to figure out how
+close you can get a system to being reversible,
+En tant qu'ingénieur, l'objectif est de déterminer jusqu'à quel
+point vous pouvez rendre un système réversible,
+
+while still keeping it time, effort, and cost
+effective.
+tout en gardant le temps, les efforts et la
+rentabilité.
+
+Which brings us to efficiency.
+Ce qui nous amène à l'efficacité.
+
+In general, the efficiency of any system is
+the ratio of what you get out of it, compared
+to what you have to put into it.
+En général, l'efficacité d'un système est
+le rapport entre ce que vous en retirez
+et ce que vous devez y mettre.
+
+It’ll have a value ranging from 0% to 100%,
+with 100% being maximum efficiency.
+Il aura une valeur allant de 0% à 100%
+, 100% étant une efficacité maximale.
+
+In this case, efficiency helps quantify how
+close a system is to perfectly reversible.
+Dans ce cas, l'efficacité permet de quantifier à quel
+point un système est parfaitement réversible.
+
+It’s the amount of work produced by
+the system you’re looking at,
+C'est la quantité de travail produite par
+le système que vous envisagez,
+
+as a percentage of the amount of work that
+would be produced by the ideal — but impossible
+— reversible system.
+en pourcentage de la quantité de travail qui
+serait produite par le système réversible idéal - mais impossible
+.
+
+The result is η, the efficiency.
+Le résultat est η, le rendement.
+
+If something is 100% efficient, that means
+it’s a completely reversible system.
+Si quelque chose est efficace à 100%, cela signifie que
+c'est un système complètement réversible.
+
+If it has 0 efficiency, it’s totally
+irreversible.
+S'il a une efficacité de 0, c'est totalement
+irréversible.
+
+You can see how important efficiency is by
+going back to cars and engines.
+Vous pouvez voir à quel point l'efficacité est importante
+en revenant aux voitures et aux moteurs.
+
+The more efficient your vehicle is, the more
+energy you can get out of your fuel, and the
+farther you can go on a tank of gas.
+Plus votre véhicule est efficace, plus
+vous pouvez tirer d'énergie de votre carburant et
+plus vous pouvez aller loin avec un réservoir d'essence.
+
+That’s why you’ll want to keep efficiency
+relatively high in most engineering systems.
+C'est pourquoi vous souhaiterez maintenir une efficacité
+relativement élevée dans la plupart des systèmes d'ingénierie.
+
+It’s especially important whenever you
+want to sustain a process for a long time,
+like a cross-country road trip.
+C'est particulièrement important chaque fois que vous
+souhaitez maintenir un processus pendant une longue période,
+comme un road trip à travers le pays.
+
+But sometimes you’ll need to sacrifice efficiency
+to accomplish your goals.
+Mais parfois, vous devrez sacrifier l'efficacité
+pour atteindre vos objectifs.
+
+You might need to put a lot of work into a
+system to do something quickly or get a big output.
+Vous devrez peut-être mettre beaucoup de travail dans un
+système pour faire quelque chose rapidement ou obtenir un résultat important.
+
+Think of a drag race.
+Pensez à une course de dragsters.
+
+Converting between types of energy might also be
+more important than getting a big output for your input,
+La conversion entre les types d'énergie peut également être
+plus importante que l'obtention d'une grande sortie pour votre entrée,
+
+like turning a hand crank to get a small amount
+of electricity when the power is out.
+comme tourner une manivelle pour obtenir une petite quantité
+d'électricité lorsque le courant est coupé.
+
+In these situations, converting energy might
+be worth the low efficiency.
+Dans ces situations, la conversion de l'énergie
+peut valoir la faible efficacité.
+
+Engineering is all about trade-offs.
+L'ingénierie est une question de compromis.
+
+It’s awesome when you can have great
+marks all around, but that’s probably not
+going to happen very often.
+C'est génial quand vous pouvez avoir de bonnes
+notes tout autour, mais cela n'arrivera probablement
+pas très souvent.
+
+In today’s lesson, we learned all about how to
+design the most efficient machines and processes.
+Dans la leçon d'aujourd'hui, nous avons tout appris sur la façon de
+concevoir les machines et les processus les plus efficaces.
+
+We began by going over heat and work: the
+two main types of energy.
+Nous avons commencé par aborder la chaleur et le travail : les
+deux principaux types d'énergie.
+
+We then moved on to reversibility and
+irreversibility and found that most processes
+are somewhat irreversible in nature.
+Nous sommes ensuite passés à la réversibilité et à l'
+irréversibilité et avons constaté que la plupart des processus
+sont de nature quelque peu irréversible.
+
+Putting all of this together, we worked through
+a problem with a piston and learned how to use
+efficiency to measure a system.
+En mettant tout cela ensemble, nous avons
+résolu un problème avec un piston et appris à utiliser l'
+efficacité pour mesurer un système.
+
+I’ll see you next time, when we’ll learn
+about the first law of thermodynamics and the
+conversation will really heat up.
+Je vous verrai la prochaine fois, quand nous
+apprendrons la première loi de la thermodynamique et la
+conversation s'enflammera vraiment.
+
+Crash Course Engineering is produced in association
+with PBS Digital Studios.
+Crash Course Engineering est produit en association
+avec PBS Digital Studios.
+
+You can head over to their channel to check
+out a playlist of their amazing shows, like
+Vous pouvez vous rendre sur leur chaîne pour
+consulter une liste de lecture de leurs émissions incroyables, comme
+
+PBS Space Time, Above the Noise, and Physics
+Girl.
+PBS Space Time, Above the Noise et Physics
+Girl.
+
+Crash Course is a Complexly production.
+Crash Course est une production complexe.
+
+And this episode was filmed in the
+Dr. Cheryl C. Kinney Studio with the help
+of these wonderful people.
+Et cet épisode a été filmé dans le
+studio du Dr Cheryl C. Kinney avec l'aide
+de ces personnes merveilleuses.
+
+And our amazing graphics team is Thought Cafe.
+Et notre incroyable équipe graphique est Thought Cafe.
+

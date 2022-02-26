@@ -1,0 +1,468 @@
+The shock you get from a doorknob.
+Le choc que vous recevez d'une poignée de porte.
+
+That trick you used to do with a balloon,
+to make your hair stick up.
+Ce truc que tu faisais avec un ballon,
+pour faire dresser tes cheveux.
+
+Or, of course, a lightning strike.
+Ou, bien sûr, un coup de foudre.
+
+They’re all governed by the same principle:
+static electricity.
+Ils sont tous régis par le même principe :
+l'électricité statique.
+
+Static electricity occurs when an object obtains a net amount of positive or negative electric charge, creating an imbalance that wants to be returned to equilibrium.
+L'électricité statique se produit lorsqu'un objet obtient une quantité nette de charge électrique positive ou négative, créant un déséquilibre qui veut être ramené à l'équilibre.  Cependant,
+
+Its effects aren’t always as dramatic as
+lightning, though.
+ses effets ne sont pas toujours aussi dramatiques que la
+foudre.
+
+Let’s take two pieces of tape that are both
+stuck to a table.
+Prenons deux morceaux de ruban adhésif qui sont tous les deux
+collés à une table.
+
+If you rip them both off the table and try to stick
+them together, that should be easy enough, right?
+Si vous les arrachez tous les deux de la table et essayez de les
+coller ensemble, cela devrait être assez facile, non ?
+
+But it turns out that they repel one another.
+Mais il s'avère qu'ils se repoussent.
+
+But try this: Stick one on top of the other, rip
+the pair off the table, and then separate the pieces.
+Mais essayez ceci : collez-les l'un sur l'autre, déchirez
+la paire de la table, puis séparez les morceaux.
+
+They’re no longer repelled – now they’re
+attracted to one another!
+Ils ne sont plus repoussés - maintenant ils sont
+attirés l'un vers l'autre !
+
+In the first scenario, both pieces of tape
+stole negative charges from the table.
+Dans le premier scénario, les deux morceaux de ruban ont
+volé des charges négatives à la table.
+
+And since like-charges repel, the pieces moved
+away from one another.
+Et comme les charges semblables se repoussent, les pièces se sont
+éloignées les unes des autres.
+
+In the second scenario, one piece of tape stole negative charges from the other, leaving the pieces with opposite overall charges, making them attract.
+Dans le deuxième scénario, un morceau de ruban a volé des charges négatives à l'autre, laissant les morceaux avec des charges globales opposées, les faisant s'attirer.
+
+Our study of electricity begins here:
+Notre étude de l'électricité commence ici :
+
+with basic observations about electric charges that, hundreds of years ago, sparked the imagination and innovation that changed our world forever.
+avec des observations de base sur les charges électriques qui, il y a des centaines d'années, ont suscité l'imagination et l'innovation qui ont changé notre monde à jamais.
+
+[Theme Music]
+[Thème musical]
+
+To understand electricity, you should
+start with an atom.
+Pour comprendre l'électricité, il faut
+commencer par un atome.
+
+Atoms contain charged particles – positive protons and negative electrons.
+Les atomes contiennent des particules chargées - des protons positifs et des électrons négatifs.
+
+And generally there’s an equal number of each,
+meaning the net electric charge of the atom is 0.
+Et généralement, il y a un nombre égal de chacun,
+ce qui signifie que la charge électrique nette de l'atome est de 0.
+
+It’s electrically neutral.
+Il est électriquement neutre.
+
+In solid materials, protons stay fixed, but
+some electrons are free to move around.
+Dans les matériaux solides, les protons restent fixes, mais
+certains électrons sont libres de se déplacer.
+
+These moving electrons are called free electrons.
+Ces électrons en mouvement sont appelés électrons libres.
+
+They reside in an atom’s outer shell as valence electrons and are easily plucked off and carried around, when acted upon by an outside force.
+Ils résident dans l'enveloppe externe d'un atome sous forme d'électrons de valence et sont facilement arrachés et transportés lorsqu'ils sont sollicités par une force extérieure.
+
+How easy it is for electrons to move around
+depends on the material.
+La facilité avec laquelle les électrons se déplacent
+dépend du matériau.
+
+And we describe the materials in the same manner we do for heat transfer, with conductors and insulators.
+Et nous décrivons les matériaux de la même manière que nous le faisons pour le transfert de chaleur, avec des conducteurs et des isolants.
+
+Materials that are conductors, like copper,
+let free electrons move freely throughout the solid,
+Les matériaux conducteurs, comme le cuivre,
+laissent les électrons libres se déplacer librement dans le solide,
+
+while insulators, like wood, hold on to
+them tightly, limiting their flow.
+tandis que les isolants, comme le bois, les
+retiennent étroitement, limitant leur flux.
+
+So we’ve got insulators and conductors with
+free electrons moving around in them.
+Nous avons donc des isolants et des conducteurs avec
+des électrons libres qui s'y déplacent.
+
+But what causes these charged particles to
+move in the first place?
+Mais qu'est-ce qui fait que ces particules chargées se
+déplacent en premier lieu ?
+
+The answer is an imbalance of electrical charge, when some part of an object has a different number of free electrons than another part.
+La réponse est un déséquilibre de la charge électrique, lorsqu'une partie d'un objet a un nombre d'électrons libres différent de celui d'une autre partie.
+
+When we talk about an object having an overall negative charge, we mean that it has too many electrons.
+Lorsque nous parlons d'un objet ayant une charge globale négative, nous voulons dire qu'il a trop d'électrons.
+
+And when we talk about an object having an overall positive charge, we mean it’s missing free electrons.
+Et quand nous parlons d'un objet ayant une charge globalement positive, nous voulons dire qu'il lui manque des électrons libres.
+
+This imbalance can be created and resolved
+in lots of different ways.
+Ce déséquilibre peut être créé et
+résolu de différentes manières.
+
+Say you have a glass rod that’s electrically
+neutral, and you rub it with a cloth.
+Disons que vous avez une tige de verre qui est électriquement
+neutre et que vous la frottez avec un chiffon.
+
+That physical interaction causes electrons to hop onto the cloth, leaving the rod with an overall positive charge.
+Cette interaction physique fait sauter les électrons sur le tissu, laissant la tige avec une charge globale positive.
+
+This is called charging by friction.
+C'est ce qu'on appelle la charge par friction.
+
+Both the cloth and rod began with a neutral charge, but after friction, the rod has a net positive charge.
+Le tissu et la tige ont commencé avec une charge neutre, mais après frottement, la tige a une charge positive nette.
+
+But whether the rod ends up with a net positive or negative charge depends on the materials that you use.
+Mais que la tige se retrouve avec une charge nette positive ou négative dépend des matériaux que vous utilisez.
+
+The ancient Greeks actually rubbed fur against amber, and discovered that the amber would then attract hair and feathers.
+Les Grecs de l'Antiquité ont en fait frotté la fourrure contre l'ambre et ont découvert que l'ambre attirait alors les cheveux et les plumes.
+
+Today, we understand that the fur stole electrons during the process, giving the amber an overall positive charge, just like the glass rod.
+Aujourd'hui, nous comprenons que la fourrure a volé des électrons au cours du processus, donnant à l'ambre une charge globalement positive, tout comme la tige de verre.
+
+Now, it’s important to note that no new
+charges were created during this process.
+Maintenant, il est important de noter qu'aucun nouveau
+frais n'a été créé au cours de ce processus.
+
+The overall charge between the two objects
+is still zero.
+La charge globale entre les deux objets
+est toujours nulle.
+
+This is known as the law of conservation of
+electric charge.
+C'est ce qu'on appelle la loi de conservation de
+la charge électrique.
+
+It says that you can never create
+a net electric charge.
+Il dit que vous ne pouvez jamais créer
+une charge électrique nette.
+
+Instead, charge can only move
+from one place to another.
+Au lieu de cela, la charge ne peut se déplacer que
+d'un endroit à un autre.
+
+Now, if we bring our positively charged glass
+rod in contact with another, neutral rod,
+Maintenant, si nous amenons notre tige de verre chargée positivement
+en contact avec une autre tige neutre, une
+
+some of the negative charge – that is, some electrons – will jump from the neutral rod to the positive one, until both objects have the same distribution of charge.
+partie de la charge négative - c'est-à-dire certains électrons - passera de la tige neutre à la tige positive, jusqu'à ce que les deux objets aient la même distribution de charge  .
+
+So now we have two rods that are both slightly
+positive.
+Nous avons donc maintenant deux tiges légèrement
+positives.
+
+This is called charging by contact.
+C'est ce qu'on appelle la recharge par contact.
+
+When the two objects touched, charges moved
+between them.
+Lorsque les deux objets se sont touchés, des charges se sont déplacées
+entre eux.
+
+OK, so, charges can move when different materials touch each other, either through friction or simple contact.
+OK, donc, les charges peuvent se déplacer lorsque différents matériaux se touchent, soit par frottement, soit par simple contact.
+
+But materials don’t actually have to touch
+in order for their electrons to get all rearranged.
+Mais les matériaux n'ont pas besoin de se
+toucher pour que leurs électrons soient tous réarrangés.
+
+Say you bring a positively charged rod close
+to a metal conductive rod.
+Disons que vous approchez une tige chargée positivement
+d'une tige métallique conductrice.
+
+Then, the electrons in part of the metal rod
+will be drawn towards the positive rod.
+Ensuite, les électrons d'une partie de la tige métallique
+seront attirés vers la tige positive.
+
+Now, the side with more electrons has a negative charge, leaving the other side of the rod with fewer electrons and a positive charge.
+Maintenant, le côté avec plus d'électrons a une charge négative, laissant l'autre côté de la tige avec moins d'électrons et une charge positive.
+
+You know what we’ve done here?
+Vous savez ce que nous avons fait ici ?
+
+We’ve polarized the metal rod.
+Nous avons polarisé la tige métallique.
+
+We’ve redistributed the charge in order to create an imbalance of charge within an object an object that’s still electrically neutral.
+Nous avons redistribué la charge afin de créer un déséquilibre de charge dans un objet un objet qui est encore électriquement neutre.
+
+Now, imagine that we slice the metal rod right
+down the center!
+Maintenant, imaginez que nous coupons la tige de métal en
+plein centre !
+
+It still hasn’t touched the positive rod, but since we split it while an imbalance was present, we’re left with one positive side and one negative side.
+Il n'a toujours pas touché la tige positive, mais comme nous l'avons divisé alors qu'un déséquilibre était présent, il nous reste un côté positif et un côté négatif.
+
+This process is known as charging by induction – creating a net charge without contacting another object.
+Ce processus est connu sous le nom de charge par induction - créant une charge nette sans entrer en contact avec un autre objet.
+
+Now, if a charged object is connected to a much larger neutral conducting object, then the net charge gets redistributed so that the smaller object loses most of its net charge.
+Maintenant, si un objet chargé est connecté à un objet conducteur neutre beaucoup plus grand, la charge nette est redistribuée de sorte que l'objet plus petit perd la majeure partie de sa charge nette.
+
+How large an object are we talking about,
+exactly?
+De quelle taille d'objet parlons-nous
+exactement ?
+
+Well, how about Earth?
+Eh bien, que diriez-vous de la Terre?
+
+The Earth’s surface is a fairly good conductor in most places, and, for our purposes, it can be considered neutral.
+La surface de la Terre est un assez bon conducteur dans la plupart des endroits et, pour nos besoins, elle peut être considérée comme neutre.
+
+So, connecting a charged object to the ground creates a way for the charge to leak into the Earth, rendering the object electrically neutral.
+Ainsi, connecter un objet chargé au sol crée un moyen pour la charge de fuir dans la Terre, rendant l'objet électriquement neutre.
+
+This is known as grounding.
+C'est ce qu'on appelle la mise à la terre.
+
+So, let’s say we repeat the previous experiment, but we bring a negatively charged rod close to our neutral one.
+Donc, disons que nous répétons l'expérience précédente, mais nous rapprochons une tige chargée négativement de notre tige neutre.
+
+The neutral rod becomes polarized, with a net positive charge close to the charged rod and a negative charge on the opposite side.
+La tige neutre devient polarisée, avec une charge positive nette à proximité de la tige chargée et une charge négative du côté opposé.
+
+But if we ground the metal rod, the negative charges repelled by the charged rod now have a place to go:
+the Earth!
+Mais si nous mettons à la terre la tige métallique, les charges négatives repoussées par la tige chargée ont maintenant un endroit où aller :
+la Terre !
+
+The negative charges scurry away, leaving
+the metal rod with an overall positive charge.
+Les charges négatives se précipitent, laissant
+la tige métallique avec une charge positive globale.
+
+Now, if we sever the connection to the ground,
+our rod remains positively charged!
+Maintenant, si nous coupons la connexion à la terre,
+notre tige reste chargée positivement !
+
+This process required no contact between the
+rods, only a connection to the ground.
+Ce processus ne nécessitait aucun contact entre les
+tiges, seulement une connexion au sol.
+
+OK, so we’ve talked about how opposite charges attract and like charges repel, but how do we quantify those interactions in terms of equations and units?
+OK, nous avons donc parlé de la façon dont les charges opposées s'attirent et se repoussent, mais comment quantifions-nous ces interactions en termes d'équations et d'unités ?
+
+Well, we’ll want to find the force on charged
+particles in Newtons.
+Eh bien, nous voudrons trouver la force sur les
+particules chargées en Newtons.
+
+But to calculate the number of Newtons, we’ll first need to measure the charge, denoted by “q”, in units called Coulombs.
+Mais pour calculer le nombre de Newtons, nous devons d'abord mesurer la charge, notée "q", en unités appelées Coulombs.
+
+Since objects can be positively or negatively charged, “q” can have both positive and negative values.
+Étant donné que les objets peuvent être chargés positivement ou négativement, "q" peut avoir des valeurs positives et négatives.
+
+For example, one electron has a charge of negative 1.6 times 10 to the negative 19th Coulombs.
+Par exemple, un électron a une charge de moins 1,6 fois 10 au moins 19e Coulombs.
+
+That means there are 6.24 times 10 to the
+18th electrons for every negative Coulomb!
+Cela signifie qu'il y a 6,24 fois 10 aux
+18 électrons pour chaque Coulomb négatif !
+
+This value – the charge of a single electron in Coulombs – is known as the elementary charge, and it’s denoted with a lowercase “e”.
+Cette valeur - la charge d'un seul électron dans Coulombs - est connue sous le nom de charge élémentaire, et elle est notée par un "e" minuscule.
+
+We’ll use this notation a lot when talking about protons and electrons, since protons have a charge of positive e and electrons of negative e.
+Nous utiliserons beaucoup cette notation lorsque nous parlerons de protons et d'électrons, car les protons ont une charge de e positif et les électrons de e négatif.
+
+Now that we have a way to measure the charge,
+we can calculate the force between particles.
+Maintenant que nous avons un moyen de mesurer la charge,
+nous pouvons calculer la force entre les particules.
+
+And the equation we use is very similar to the one we use with gravitation.
+Et l'équation que nous utilisons est très similaire à celle que nous utilisons avec la gravitation.
+
+It’s just that, instead of using kilograms to find Newtons,
+here we’re using Coulombs to find Newtons.
+C'est juste qu'au lieu d'utiliser des kilogrammes pour trouver des Newtons,
+nous utilisons ici des Coulombs pour trouver des Newtons.
+
+Our equation here states that the force between
+two charged particles is equal to the product
+Notre équation indique ici que la force entre
+deux particules chargées est égale au produit
+
+of the two charges, divided by the distance
+between them squared.
+des deux charges, divisé par la distance
+entre elles au carré.
+
+And the distance is squared because, just like gravitation, when the distance between objects doubles, the force between them reduces to a quarter of the original value.
+Et la distance est au carré car, tout comme la gravitation, lorsque la distance entre les objets double, la force entre eux se réduit au quart de la valeur d'origine.
+
+And, ALSO as with gravitation, this force
+has its own proportionality constant.
+Et, AUSSI comme pour la gravitation, cette force
+a sa propre constante de proportionnalité.
+
+It’s labeled lower-case k, and its value depends
+on the medium that surrounds the charges.
+Il est étiqueté k minuscule et sa valeur dépend
+du support qui entoure les charges.
+
+The vast majority of the time, the medium you’ll be working with will just be the air, or possibly a vacuum.
+La grande majorité du temps, le support avec lequel vous travaillerez sera simplement l'air, ou éventuellement un vide.
+
+And in both cases the constant is 9 times
+10 to the ninth Coulombs.
+Et dans les deux cas la constante est de 9 fois
+10 au neuvième Coulombs.
+
+So when you multiply the rest of the expression
+by k, that gives the result in terms of Newtons.
+Ainsi, lorsque vous multipliez le reste de l'expression
+par k, cela donne le résultat en termes de Newtons.
+
+This whole expression is known as Coulomb’s
+Law.
+Toute cette expression est connue sous le nom de loi de Coulomb
+.
+
+And k is often known as the Coulomb’s Law
+constant.
+Et k est souvent connu comme la
+constante de la loi de Coulomb.
+
+Now, gravitation and electrostatic forces work in totally different ways, of course, so we have to express them differently, too.
+Maintenant, la gravitation et les forces électrostatiques fonctionnent de manière totalement différente, bien sûr, donc nous devons aussi les exprimer différemment.
+
+The force of gravity, after all, is always
+attractive.
+La force de gravité, après tout, est toujours
+attractive.
+
+But the electrostatic forces can be either attractive or repulsive, depending on the signs of the charges.
+Mais les forces électrostatiques peuvent être attractives ou répulsives, selon les signes des charges.
+
+So the product of the two charges can be negative or positive, with the resulting sign of F being plus or minus, corresponding to either attraction or repulsion.
+Ainsi, le produit des deux charges peut être négatif ou positif, le signe résultant de F étant plus ou moins, correspondant à l'attraction ou à la répulsion.
+
+Now, let’s put Coulomb’s Law to the test!
+Maintenant, testons la loi de Coulomb !
+
+Let's say there are two electrons that are
+1 nanometer apart.
+Disons qu'il y a deux électrons
+distants de 1 nanomètre.
+
+That’s 1 times 10 to the -9 meters.
+Soit 1 fois 10 aux -9 mètres.
+
+You can calculate the force between them by multiplying their charges, which are both -1.6 times 10 to the -19 Coulombs divided by the distance between them squared.
+Vous pouvez calculer la force entre eux en multipliant leurs charges, qui sont toutes deux de -1,6 fois 10 aux -19 Coulombs divisé par la distance entre eux au carré.
+
+You then multiply that by k, and the resulting force is positive 2.3 times 10 to the -10 Newtons.
+Vous multipliez ensuite cela par k, et la force résultante est positive de 2,3 fois 10 aux -10 Newtons.
+
+Now, notice that the answer is positive – that
+means the electrons repel one another.
+Maintenant, notez que la réponse est positive - cela
+signifie que les électrons se repoussent.
+
+If we used a proton and an electron the same distance apart, we’d get -2.3 times 10 to the -10 Newtons, meaning they’d attract one another.
+Si nous utilisions un proton et un électron à la même distance, nous obtiendrions -2,3 fois 10 pour les -10 Newtons, ce qui signifie qu'ils s'attireraient.
+
+And just like other forces, vector addition
+also applies here, too.
+Et tout comme les autres forces, l'addition vectorielle
+s'applique également ici aussi.
+
+This means we can solve for the net force on a charge by using Coulomb’s law on each pair of charges in any situation.
+Cela signifie que nous pouvons résoudre la force nette sur une charge en utilisant la loi de Coulomb sur chaque paire de charges dans n'importe quelle situation.
+
+From Coulomb’s law, we can calculate the magnitude of the force and find the direction based on the sign of the result.
+À partir de la loi de Coulomb, nous pouvons calculer l'amplitude de la force et trouver la direction en fonction du signe du résultat.
+
+So, from a simple trick with tape, and the help of a couple of animated rods, we’ve already uncovered the basics of electrostatic forces!
+Ainsi, à partir d'un simple tour avec du ruban adhésif et à l'aide de quelques tiges animées, nous avons déjà découvert les bases des forces électrostatiques !
+
+Next time, we’ll learn about electric fields and
+how to visualize their effect on neighboring objects.
+La prochaine fois, nous en apprendrons davantage sur les champs électriques et sur la
+façon de visualiser leur effet sur les objets voisins.
+
+Today, we learned about electrostatic forces, and how electrical charge can be altered and rearranged.
+Aujourd'hui, nous avons découvert les forces électrostatiques et comment la charge électrique peut être modifiée et réarrangée.
+
+We also discussed Coulomb’s law and how the force between charged particles is calculated using vectors.
+Nous avons également discuté de la loi de Coulomb et de la façon dont la force entre les particules chargées est calculée à l'aide de vecteurs.
+
+Crash Course Physics is produced in association
+with PBS Digital Studios.
+Crash Course Physics est produit en association
+avec PBS Digital Studios.
+
+You can head over to their channel and check out a playlist of the latest episodes from shows like:
+Vous pouvez vous rendre sur leur chaîne et consulter une liste de lecture des derniers épisodes d'émissions telles que :
+
+PBS Idea Channel, Brain Craft, and Shank’s
+FX.
+PBS Idea Channel, Brain Craft et Shank's
+FX.
+
+This episode of Crash Course was filmed in
+the Doctor Cheryl C. Kinney Crash Course Studio
+Cet épisode de Crash Course a été filmé dans
+le studio Doctor Cheryl C. Kinney Crash Course
+
+with the help of these amazing people, and
+our equally amazing graphics team is Thought Cafe.
+avec l'aide de ces personnes incroyables, et
+notre équipe graphique tout aussi incroyable est Thought Cafe.
+

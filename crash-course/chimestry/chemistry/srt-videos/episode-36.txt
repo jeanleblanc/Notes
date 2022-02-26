@@ -1,0 +1,578 @@
+Aaah, the controlled flow of electrons, making
+possible laptops and phones and cars and pacemakers.
+Aaah, le flux contrôlé d'électrons, rendant
+possibles les ordinateurs portables, les téléphones, les voitures et les stimulateurs cardiaques.
+
+Batteries, just like everything else in life,
+is just chemistry raised to the power of awesome.
+Les batteries, comme tout le reste dans la vie, ne
+sont que de la chimie élevée au pouvoir de génial.
+
+The kind of chemistry that happens inside
+of a battery is called electrochemistry
+Le type de chimie qui se produit à l'intérieur
+d'une batterie est appelé électrochimie
+
+because it involves reactions that produce
+or consume free electrons.
+car il implique des réactions qui produisent
+ou consomment des électrons libres.
+
+Specifically, they are oxidation or redox
+reactions, the ones where electrons are exchanged.
+Plus précisément, ce sont des réactions d'oxydation ou redox
+, celles où les électrons sont échangés.
+
+I've told you about redox reactions before
+and if you haven't seen that episode yet,
+Je vous ai déjà parlé des réactions redox
+et si vous n'avez pas encore vu cet épisode,
+
+you should probably go watch that before you
+watch this.
+vous devriez probablement aller le regarder avant de
+regarder celui-ci.
+
+Don't worry, I will still be here when you
+get back.
+Ne t'inquiète pas, je serai toujours là quand
+tu reviendras.
+
+Now, when the flow of electrons in these kinds
+of reactions are sent through a conductor,
+Maintenant, lorsque le flux d'électrons dans ces types
+de réactions est envoyé à travers un conducteur,
+
+like a piece of metal,
+it can be used to do all sorts of work.
+comme un morceau de métal,
+il peut être utilisé pour faire toutes sortes de travaux.
+
+Like, for example, this kind of work.
+Comme, par exemple, ce genre de travail.
+
+The amount of work that can be done depends on how strong the push or pull on electrons is between the two reactants.
+La quantité de travail qui peut être effectuée dépend de la force de la poussée ou de la traction des électrons entre les deux réactifs.
+
+This is the reaction's electrical potential,
+but to its friends, it's known simply as voltage.
+C'est le potentiel électrique de la réaction,
+mais pour ses amis, c'est simplement connu sous le nom de tension.
+
+Basically, if the voltage is high, each electron can do a lot more work than if the voltage is low.
+Fondamentalement, si la tension est élevée, chaque électron peut faire beaucoup plus de travail que si la tension est basse.
+
+Many of the wonderful things in our modern
+lives are based on one simple premise:
+Beaucoup de choses merveilleuses dans nos
+vies modernes sont basées sur une simple prémisse :
+
+putting a device between the two halves of
+just such a reaction;
+mettre un appareil entre les deux moitiés
+d'une telle réaction ;
+
+the half that donates electrons,
+and the half that accepts them.
+la moitié qui donne des électrons
+et la moitié qui les accepte.
+
+By harnessing that energy, a lot of the coolest
+things you've done today,
+En exploitant cette énergie, beaucoup des choses les plus cool
+que vous ayez faites aujourd'hui,
+
+up to and including watching this episode
+of Crash Course Chemistry, has been made possible.
+jusqu'à regarder cet épisode
+de Crash Course Chemistry, ont été rendues possibles.
+
+[Theme Music]
+[Thème musical]
+
+Part of what makes redox reactions so powerful,
+and powerfully excellent, is that they are complicated.
+Une partie de ce qui rend les réactions redox si puissantes
+et puissamment excellentes, c'est qu'elles sont compliquées.
+
+Because in each reaction, there's at least
+two things going on:
+Parce que dans chaque réaction, il se passe au moins
+deux choses :
+
+there's the part of the reaction where the
+electrons are being released
+il y a la partie de la réaction où les
+électrons sont libérés
+
+and another part where they're being eagerly
+demanded.
+et une autre partie où ils sont avidement
+demandés.
+
+So when we deal with electrochemistry, we
+usually think of reactions in terms of half reactions.
+Ainsi, lorsque nous traitons d'électrochimie, nous
+pensons généralement aux réactions en termes de demi-réactions.
+
+Let's start with a typical redox reaction that happens in this alkaline battery as an example.
+Commençons par une réaction redox typique qui se produit dans cette pile alcaline à titre d'exemple.
+
+In here elemental zinc is going to react with
+manganese dioxide, also known as manganese
+Ici, le zinc élémentaire va réagir avec
+le dioxyde de manganèse, également connu sous le nom d'oxyde de manganèse
+
+four oxide, to produce manganese three oxide
+and zinc oxide.
+quatre, pour produire de l'oxyde de manganèse trois
+et de l'oxyde de zinc.
+
+When you break this down in to half reactions,
+Lorsque vous décomposez cela en demi-réactions
+
+first you have elemental zinc with an oxidation
+number of 0 being oxidized to zinc 2 ion.
+, vous avez d'abord du zinc élémentaire avec un
+nombre d'oxydation de 0 qui est oxydé en ion zinc 2.
+
+At the same time manganese 4 is being reduced
+to manganese 3.
+Dans le même temps, le manganèse 4 est réduit
+en manganèse 3.
+
+When we balance the half reactions,
+Lorsque nous équilibrons les demi-réactions,
+
+we see that two electrons are released during
+the oxidation of each zinc atom,
+nous voyons que deux électrons sont libérés lors de
+l'oxydation de chaque atome de zinc
+
+and one electron is consumed by each manganese
+4 atom.
+et qu'un électron est consommé par chaque
+atome de manganèse 4.
+
+The water and hydroxide ions, by the way,
+come from a solution of potassium hydroxide.
+L'eau et les ions hydroxyde, d'ailleurs,
+proviennent d'une solution d'hydroxyde de potassium.
+
+Which is a basic, or alkaline compound.
+Qui est un composé basique ou alcalin.
+
+Which is why we call these things alkaline
+batteries.
+C'est pourquoi nous appelons ces choses des
+piles alcalines.
+
+Now if each of these half reactions occurred
+in contact with the other one,
+Maintenant, si chacune de ces demi-réactions se produisait
+au contact de l'autre,
+
+they'd just spontaneously go to equilibrium releasing energy as a bunch of heat which wouldn't be very helpful.
+elles iraient spontanément à l'équilibre en libérant de l'énergie sous forme de chaleur, ce qui ne serait pas très utile.
+
+So batteries are designed to harness that energy by isolating the half reactions from each other.
+Les batteries sont donc conçues pour exploiter cette énergie en isolant les demi-réactions les unes des autres.
+
+This allows excess electrons to build up in
+the negative terminal, called the cathode,
+Cela permet aux électrons en excès de s'accumuler dans
+la borne négative, appelée cathode,
+
+while an electron vacuum of sorts occurs in
+the positive terminal, the anode.
+tandis qu'une sorte de vide électronique se produit dans
+la borne positive, l'anode.
+
+Electrons can then cross from one half reaction
+to the other,
+Les électrons peuvent alors passer d'une demi réaction
+à l'autre,
+
+only when we connect the cathode and the anode
+of the battery via conductors.
+uniquement lorsque l'on connecte la cathode et l'anode
+de la batterie via des conducteurs.
+
+So the current can be used to do work.
+Which I can do by licking this 9 volt battery.
+Ainsi, le courant peut être utilisé pour effectuer des travaux.
+Ce que je peux faire en léchant cette pile de 9 volts.
+
+Ahhh!
+[laughs]
+Ahhh !
+[rires]
+
+In these batteries, the zinc is in the center surrounded by a layer of cellulose that allows ions to pass through.
+Dans ces batteries, le zinc est au centre entouré d'une couche de cellulose qui laisse passer les ions.
+
+The manganese oxide is in the outer layer
+that surrounds the zinc core,
+L'oxyde de manganèse se trouve dans la couche externe
+qui entoure le noyau de zinc,
+
+but the cellulose barrier doesn't allow the
+zinc and the manganese to mix.
+mais la barrière cellulosique ne permet pas au
+zinc et au manganèse de se mélanger.
+
+Alkaline batteries are a type of galvanic
+cell.
+Les piles alcalines sont un type de
+cellule galvanique.
+
+Which is generally defined as an apparatus that generates electrical energy from a redox reaction.
+Qui est généralement défini comme un appareil qui génère de l'énergie électrique à partir d'une réaction redox.
+
+Here's another example of a galvanic cell,
+Voici un autre exemple de cellule galvanique,
+
+one where the interesting part is the flow
+of whole ions instead of the flow of electrons.
+celle où la partie intéressante est le flux
+d'ions entiers au lieu du flux d'électrons.
+
+In this case, wires connect metal rods that
+are suspended in the solution.
+Dans ce cas, des fils relient des tiges
+métalliques suspendues dans la solution.
+
+They're are the anode and cathode here.
+Ils sont l'anode et la cathode ici.
+
+What's noteworthy, is that the metal atoms
+are actually consumed.
+Ce qui est remarquable, c'est que les atomes de métal
+sont effectivement consommés.
+
+They're used up from the anode rod as they're
+oxidized, and the metal slowly wears away.
+Ils sont épuisés par la tige d'anode lorsqu'ils sont
+oxydés et le métal s'use lentement.
+
+Meanwhile, the opposite happens at the cathode rod, where metal ions from the solution gain electrons
+Pendant ce temps, l'inverse se produit au niveau de la tige cathodique, où les ions métalliques de la solution gagnent des électrons
+
+and precipitate on to the cathode as pure
+metal, gradually growing larger.
+et précipitent sur la cathode sous forme de
+métal pur, grossissant progressivement.
+
+The circuit is completed by the wire, but
+also by a salt bridge,
+Le circuit est complété par le fil, mais
+aussi par un pont de sel,
+
+which is also a U-shaped tube that contains
+a salt solution
+qui est aussi un tube en forme de U qui contient
+une solution saline
+
+that allows the metal ions to go from the
+anode to the cathode.
+qui permet aux ions métalliques de passer de l'
+anode à la cathode.
+
+So, now you know how batteries work: developing
+and transferring a charge using electrochemistry.
+Alors, maintenant vous savez comment fonctionnent les batteries : développer
+et transférer une charge par électrochimie.
+
+But before any redox reaction can be used
+to text your boyfriend or girlfriend or whatever,
+Mais avant que toute réaction redox puisse être utilisée
+pour envoyer un SMS à votre petit ami ou petite amie ou quoi que ce soit,
+
+we need to know how much voltage it can generate.
+nous devons savoir quelle tension elle peut générer.
+
+Fortunately all of those amazing chemists who have come before us have done a lot of the work once again.
+Heureusement, tous ces incroyables chimistes qui nous ont précédés ont encore fait beaucoup de travail.
+
+The voltage generated by many half reactions is already known and can be found in most textbooks or online.
+La tension générée par de nombreuses demi-réactions est déjà connue et peut être trouvée dans la plupart des manuels ou en ligne.
+
+And as I mentioned earlier, voltage is really just a way of expressing the electrical potential of each half reaction.
+Et comme je l'ai mentionné plus tôt, la tension n'est en réalité qu'un moyen d'exprimer le potentiel électrique de chaque demi-réaction.
+
+The difference between the chemical demand
+for the electrons in one half,
+La différence entre la demande chimique
+d'électrons dans une moitié
+
+versus the tendency to lose them in the other.
+et la tendance à les perdre dans l'autre.
+
+These measurements are done at standard conditions, which we discussed in the enthalpy and entropy episodes.
+Ces mesures sont effectuées dans des conditions standard, dont nous avons discuté dans les épisodes d'enthalpie et d'entropie.
+
+And by convention they are written as if the
+substance is being reduced, not oxidized.
+Et par convention, ils sont écrits comme si la
+substance était réduite et non oxydée.
+
+For this reason the value is known as the
+standard reduction potential of a substance.
+Pour cette raison, la valeur est connue sous le nom de
+potentiel de réduction standard d'une substance.
+
+To see how reduction potentials work in half
+reactions and combine in an overall reaction,
+Pour voir comment les potentiels de réduction fonctionnent dans des demi-
+réactions et se combinent dans une réaction globale,
+
+let's consider a galvanic cell where zinc
+is oxidized and copper ions are reduced.
+considérons une cellule galvanique où le zinc
+est oxydé et les ions cuivre sont réduits.
+
+Keep in mind that potentials are determined
+at standard state:
+Gardez à l'esprit que les potentiels sont déterminés
+à l'état standard :
+
+25 degrees Celsius and 1 molar solutions of
+the copper and zinc ions.
+25 degrés Celsius et 1 solution molaire des
+ions de cuivre et de zinc.
+
+Our cell needs to be set up under the same conditions or the voltage will be a bit different than expected.
+Notre cellule doit être configurée dans les mêmes conditions ou la tension sera un peu différente de celle prévue.
+
+The half reactions show more clearly what
+the electrons are doing.
+Les demi-réactions montrent plus clairement ce que
+font les électrons.
+
+We can see that the zinc is oxidized and the
+copper is reduced.
+On voit que le zinc est oxydé et le
+cuivre est réduit.
+
+Now all standard reduction potentials are measured relative to the reduction of hydrogen ions to hydrogen gas,
+Désormais, tous les potentiels de réduction standard sont mesurés par rapport à la réduction des ions hydrogène en hydrogène gazeux,
+
+which is set at zero, just as a baseline.
+qui est fixée à zéro, juste comme une ligne de base.
+
+When copper is reduced, for example, it generates
+0.34 volts more than hydrogen does,
+Lorsque le cuivre est réduit, par exemple, il génère
+0,34 volt de plus que l'hydrogène
+
+so we say its standard reduction potential
+is +0.34 volts.
+, nous disons donc que son potentiel de réduction standard
+est de +0,34 volt.
+
+The standard reduction potential for zinc
+is -0.76 volts,
+Le potentiel de réduction standard pour le zinc
+est de -0,76 volts,
+
+but because zinc is oxidized in this reaction,
+we can't use the reduction potential directly.
+mais comme le zinc est oxydé dans cette réaction,
+nous ne pouvons pas utiliser directement le potentiel de réduction.
+
+Instead, as a general rule, when you convert
+a reduction half reaction to oxidation,
+Au lieu de cela, en règle générale, lorsque vous convertissez
+une demi-réaction de réduction en oxydation,
+
+the sign of the voltage is simply reversed.
+le signe de la tension est simplement inversé.
+
+So, the -0.76 volts for the reduction potential
+of zinc
+Ainsi, le -0,76 volt pour le potentiel
+de réduction du zinc
+
+becomes +0.76 volts for the oxidation potential
+of zinc ions.
+devient +0,76 volt pour le potentiel d'oxydation
+des ions zinc.
+
+And the electrical potential for the whole
+reaction, called the standard cell potential,
+Et le potentiel électrique pour l'ensemble de la
+réaction, appelé potentiel de cellule standard,
+
+is just the sum of the standard potentials
+of both half reactions.
+n'est que la somme des potentiels standard
+des deux demi-réactions.
+
+In this case, that would be 1.1 volts.
+Dans ce cas, ce serait 1,1 volts.
+
+Now I gotta point out here that the electrical potential of a redox reaction is related to its equilibrium constant.
+Maintenant, je dois souligner ici que le potentiel électrique d'une réaction redox est lié à sa constante d'équilibre.
+
+There's actually a way to determine the equilibrium constant from a measured voltage, and vice versa.
+Il existe en fait un moyen de déterminer la constante d'équilibre à partir d'une tension mesurée, et vice versa.
+
+Both of these constants have a lot to do with the energy the reaction can release, or its Gibbs free energy.
+Ces deux constantes ont beaucoup à voir avec l'énergie que la réaction peut libérer, ou son énergie libre de Gibbs.
+
+But in brief, the higher the voltage, the
+more electrical energy can be produced.
+Mais en bref, plus la tension est élevée,
+plus l'énergie électrique peut être produite.
+
+So if the voltage is positive, it means that under standard state conditions, the reaction will spontaneously go forward.
+Donc, si la tension est positive, cela signifie que dans des conditions d'état standard, la réaction se poursuivra spontanément.
+
+If the sign is negative, the reaction will
+proceed backward.
+Si le signe est négatif, la réaction se
+poursuivra vers l'arrière.
+
+And it totally makes sense, when you think about it, that reactions like this are used to make battery cells.
+Et il est tout à fait logique, quand on y pense, que des réactions comme celle-ci soient utilisées pour fabriquer des cellules de batterie.
+
+The reactions in batteries need to be spontaneous
+Les réactions dans les batteries doivent être spontanées
+
+because their whole purpose is to release
+energy, not consume it.
+car leur but est de libérer de l'
+énergie, pas de la consommer.
+
+So what if we don't want to power a phone
+or a laptop or a toy shuttle.
+Alors que faire si nous ne voulons pas alimenter un téléphone
+ou un ordinateur portable ou une navette jouet.
+
+What if instead we want to plate an iron car
+bumper with chrome?
+Et si, à la place, nous voulions plaquer un
+pare-chocs de voiture en fer avec du chrome ?
+
+This cannot be done with a spontaneous reaction.
+Cela ne peut pas être fait avec une réaction spontanée.
+
+Instead, a different electrochemical process is needed, one that you've probably heard of: electroplating.
+Au lieu de cela, un processus électrochimique différent est nécessaire, dont vous avez probablement entendu parler : la galvanoplastie.
+
+This is done by immersing an object in a solution that contains an excess of ions of the coating metal.
+Cela se fait en immergeant un objet dans une solution qui contient un excès d'ions du métal de revêtement.
+
+A bar of the coating metal, in this case chromium,
+is used as the anode,
+Une barre du métal de revêtement, dans ce cas du chrome,
+est utilisée comme anode,
+
+and the item to be plated, the iron bumper,
+acts as the cathode
+et l'élément à plaquer, le pare-chocs en fer,
+agit comme cathode
+
+When an electric current is applied, a redox
+reaction occurs in the solution
+Lorsqu'un courant électrique est appliqué, une
+réaction redox se produit dans la solution
+
+and atoms of the coating metal are deposited
+on the cathode.
+et les atomes de  le métal de revêtement est déposé
+sur la cathode.
+
+This is essentially the opposite of a galvanic
+cell, known as an electrolytic cell,
+C'est essentiellement l'opposé d'une
+cellule galvanique, connue sous le nom de cellule électrolytique,
+
+and it performs electrolysis, which uses electricity,
+electro-, to do the breaking apart, -lysis.
+et elle effectue l'électrolyse, qui utilise l'électricité, l'
+électro-, pour faire la séparation, la -lyse.
+
+In this case molecules in the solution are being broken down so that the metal atoms can be deposited on the surface.
+Dans ce cas, les molécules de la solution sont décomposées afin que les atomes métalliques puissent se déposer sur la surface.
+
+Electrolysis is used for lots of other things too, like coating jewelry or flatware with gold or silver,
+L'électrolyse est également utilisée pour beaucoup d'autres choses, comme le revêtement de bijoux ou de couverts avec de l'or ou de l'argent, le
+
+refining metals or separating mixtures of
+metal ions.
+raffinage des métaux ou la séparation de mélanges d'
+ions métalliques.
+
+Also, converting water into hydrogen gas and
+oxygen.
+Aussi, convertir l'eau en hydrogène gazeux et en
+oxygène.
+
+So if you didn't already understand how much
+impact chemistry has in our daily lives,
+Donc, si vous ne comprenez pas déjà l'
+impact de la chimie sur notre vie quotidienne,
+
+you certainly should be able to see it now.
+vous devriez certainement pouvoir le voir maintenant.
+
+Not only are all the materials around you
+made of chemicals,
+Non seulement tous les matériaux qui vous entourent sont
+constitués de produits chimiques,
+
+but even the electrical devices that power
+our lives depend on the reactions of electrochemistry.
+mais même les appareils électriques qui alimentent
+nos vies dépendent des réactions de l'électrochimie.
+
+Thank you for watching this episode of Crash
+Course Chemistry.
+Merci d'avoir regardé cet épisode de Crash
+Course Chemistry.
+
+If you were listening, you learned that electrochemical
+reactions are redox reactions
+Si vous écoutiez, vous avez appris que les
+réactions électrochimiques sont des réactions redox
+
+that we describe in terms of half reactions.
+que nous décrivons en termes de demi-réactions.
+
+You learned how an alkaline battery works
+and what's inside of it,
+Vous avez appris comment fonctionne une pile
+alcaline et ce qu'elle
+
+what a galvanic cell is and how it can be
+set up
+contient, ce qu'est une cellule galvanique et comment elle peut être
+configurée
+
+and how to calculate the voltage that can be generated by a half reaction, the standard reduction potential,
+et comment calculer la tension qui peut être générée par une demi-réaction, le potentiel de réduction standard
+
+and by the overall reaction, the standard
+cell potential.
+et par la réaction globale  , le
+potentiel de cellule standard.
+
+You also learned how electrolysis and electroplating
+work.
+Vous avez également appris comment fonctionnent l'électrolyse et la
+galvanoplastie.
+
+This episode was written by Edi Gonzalez and
+edited by Blake de Pastino.
+Cet épisode a été écrit par Edi Gonzalez et
+édité par Blake de Pastino.
+
+Our chemistry consultant was Dr. Heiko Langner. It was filmed, edited and directed by Nicolas Jenkins.
+Notre consultant en chimie était le Dr Heiko Langner.  Il a été filmé, monté et réalisé par Nicolas Jenkins.
+
+Michael Aranda is our sound designer and Thought
+Cafe is our graphics team.
+Michael Aranda est notre concepteur sonore et Thought
+Cafe est notre équipe graphique.
+

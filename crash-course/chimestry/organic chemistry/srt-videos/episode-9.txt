@@ -1,0 +1,416 @@
+You can review content from Crash Course Organic Chemistry with the Crash Course app, available now for Android and iOS devices.
+Vous pouvez consulter le contenu de Crash Course Organic Chemistry avec l'application Crash Course, disponible dès maintenant pour les appareils Android et iOS.
+
+Hi! I’m Deboki Chakravarti and welcome back to Crash Course Organic Chemistry!
+Salut!  Je m'appelle Deboki Chakravarti et je vous souhaite la bienvenue au cours intensif de chimie organique !
+
+In episode 8, we discovered that some molecules had non-superimposable mirror images, called enantiomers.
+Dans l'épisode 8, nous avons découvert que certaines molécules possédaient des images miroir non superposables, appelées énantiomères.
+
+Enantiomers have almost all of the same chemical and physical properties, like the same melting and boiling points.
+Les énantiomères ont presque tous les mêmes propriétés chimiques et physiques, comme les mêmes points de fusion et d'ébullition.
+
+So it’s tough to separate them.
+Difficile donc de les séparer.
+
+But they interact differently in chiral environments, like how the receptors in our nose and on our tongues are pretty sensitive to chiral molecules.
+Mais ils interagissent différemment dans les environnements chiraux, comme la façon dont les récepteurs de notre nez et de notre langue sont assez sensibles aux molécules chirales.
+
+Two enantiomers might have very different smells and tastes.
+Deux énantiomères peuvent avoir des odeurs et des goûts très différents.
+
+For instance, there’s (R)-carvone and (S)-carvone, also known by the mouthful of an IUPAC name 2-methyl-5-(prop-1-en-2-yl)cyclohex-2-en-1-one.
+Par exemple, il y a (R)-carvone et (S)-carvone, également connu sous le nom IUPAC 2-methyl-5-(prop-1-en-2-yl)cyclohex-2-en-1-  une. 
+
+So… I’m gonna stick with carvone.
+Alors… je vais m'en tenir à la carvone.
+
+To most people, (R)-carvone smells and tastes like spearmint, while (S)-carvone smells and tastes like caraway --
+Pour la plupart des gens, la (R)-carvone sent et a le goût de la menthe verte, tandis que la (S)-carvone sent et a le goût du carvi,
+
+those earthy-tasting seeds that get sprinkled on top of rye bread.
+ces graines au goût terreux qui sont saupoudrées sur le pain de seigle.
+
+Now, I don’t know about you, but I don’t want to go around a chemistry lab tasting and smelling random chemicals to figure out what they are.
+Maintenant, je ne sais pas pour vous, mais je ne veux pas faire le tour d'un laboratoire de chimie pour goûter et sentir des produits chimiques au hasard pour comprendre ce qu'ils sont.
+
+It sounds kinda dangerous.
+Cela semble un peu dangereux.
+
+So organic chemists can tell enantiomers apart in other ways, like using light!
+Ainsi, les chimistes organiques peuvent différencier les énantiomères d'autres manières, comme en utilisant la lumière !
+
+[Theme music]
+[Thème musical]
+
+The light that surrounds us is generally moving (well, actually vibrating) in all directions.
+La lumière qui nous entoure se déplace généralement (en fait, vibre) dans toutes les directions.
+
+But a slitted disc or lens can filter out some of it to leave behind light that’s vibrating in one direction, called plane-polarized light.
+Mais un disque ou une lentille fendue peut en filtrer une partie pour laisser derrière elle une lumière qui vibre dans une direction, appelée lumière polarisée dans le plan.
+
+Polarized sunglasses, for example, are designed to filter out the sunlight reflected off of horizontal surfaces like lakes, roadways, or even the hood of a car.
+Les lunettes de soleil polarisées, par exemple, sont conçues pour filtrer la lumière du soleil réfléchie par les surfaces horizontales comme les lacs, les routes ou même le capot d'une voiture.
+
+These surfaces organize some of the scattered light that hits them, so it gets aligned with the flat surface when it bounces towards us.
+Ces surfaces organisent une partie de la lumière diffusée qui les frappe, de sorte qu'elle s'aligne avec la surface plane lorsqu'elle rebondit vers nous.
+
+Basically, some horizontal plane-polarized light gets reflected into our eyes.
+Fondamentalement, une certaine lumière polarisée dans le plan horizontal est réfléchie dans nos yeux.
+
+Polarized sunglass lenses have a special coating of molecules that line up to block a lot of this horizontal light.
+Les verres de lunettes de soleil polarisées ont un revêtement spécial de molécules qui s'alignent pour bloquer une grande partie de cette lumière horizontale.
+
+So there’s less glare from horizontal light reflecting off flat surfaces, but other light can pass through.
+Il y a donc moins d'éblouissement dû à la lumière horizontale se reflétant sur les surfaces planes, mais d'autres lumières peuvent passer à travers.
+
+And if we hold two polarized sunglass lenses perpendicular to each other, the lenses appear to get very dark, because we’re blocking both horizontal and vertical light.
+Et si nous tenons deux verres de lunettes de soleil polarisés perpendiculaires l'un à l'autre, les verres semblent devenir très sombres, car nous bloquons à la fois la lumière horizontale et verticale.
+
+By the way, this trick's not gonna work with any plain ol’ sunglasses you might have, because non-polarized lenses just generically filter out some light.
+Soit dit en passant, cette astuce ne fonctionnera pas avec les lunettes de soleil que vous pourriez avoir, car les verres non polarisés filtrent de manière générique un peu de lumière.
+
+But to bring all this back to enantiomers… chiral molecules also have cool interactions with plane-polarized light: a single enantiomer of the chiral molecule can rotate it left or right.
+Mais pour ramener tout cela aux énantiomères… les molécules chirales ont également des interactions intéressantes avec la lumière polarisée dans le plan : un seul énantiomère de la molécule chirale peut la faire pivoter vers la gauche ou vers la droite.
+
+And using an instrument called a polarimeter, we can measure a molecule’s ability to turn light.
+Et à l'aide d'un instrument appelé polarimètre, nous pouvons mesurer la capacité d'une molécule à transformer la lumière.
+
+A polarimeter has a light source and several plane-polarizing filters.
+Un polarimètre possède une source lumineuse et plusieurs filtres polarisants plans.
+
+There’s also a rotatable one called an analyzing filter, which is attached to a protractor to help us measure the angle of light.
+Il y a aussi un filtre rotatif appelé filtre d'analyse, qui est attaché à un rapporteur pour nous aider à mesurer l'angle de la lumière.
+
+A solution of an enantiomer is placed inside a sample chamber, which is sandwiched between the polarizing filters and the analyzing filter.
+Une solution d'un énantiomère est placée à l'intérieur d'une chambre d'échantillon, qui est prise en sandwich entre les filtres polarisants et le filtre d'analyse.
+
+We can turn the analyzing filter and observe how the light changes, until we reach a point where the most light possible is getting through (which will probably involve some twisting back-and-forth).
+Nous pouvons tourner le filtre d'analyse et observer comment la lumière change, jusqu'à ce que nous atteignions un point où le plus de lumière possible passe (ce qui impliquera probablement des va-et-vient).
+
+Then, we read the angle on the protractor to see how much and in what direction the molecule rotated the light from the source.
+Ensuite, nous lisons l'angle sur le rapporteur pour voir de combien et dans quelle direction la molécule a fait tourner la lumière de la source.
+
+Like I mentioned, enantiomers of chiral molecules can rotate the plane-polarized light either left or right.
+Comme je l'ai mentionné, les énantiomères des molécules chirales peuvent faire tourner la lumière polarisée dans le plan vers la gauche ou vers la droite.
+
+It’s a physical property of the molecule, like boiling point and melting point.
+C'est une propriété physique de la molécule, comme le point d'ébullition et le point de fusion.
+
+Molecules that turn the light toward the left are called levorotatory, and are given the symbol L or minus.
+Les molécules qui tournent la lumière vers la gauche sont appelées lévogyres et reçoivent le symbole L ou moins.
+
+Molecules that turn the light toward the right are called dextrorotatory, and are labeled D or plus.
+Les molécules qui tournent la lumière vers la droite sont appelées dextrogyres et sont étiquetées D ou plus.
+
+We saw this nomenclature with L- and D- glucose in episode 8!
+On a vu cette nomenclature avec L- et D- glucose dans l'épisode 8 !
+
+Because the amount that the light gets rotated depends on things like the amount of chiral molecules we have and properties of our polarimeter,
+Étant donné que la quantité de rotation de la lumière dépend de facteurs tels que la quantité de molécules chirales que nous avons et les propriétés de notre polarimètre,
+
+we can calculate the specific rotation of a molecule using a fairly simple equation.
+nous pouvons calculer la rotation spécifique d'une molécule à l'aide d'une équation assez simple.
+
+Alpha observed is the reading from the protractor on the analyzing filter, c is the sample concentration, and L is a property called the path length of the polarimeter.
+Alpha observé est la lecture du rapporteur sur le filtre d'analyse, c est la concentration de l'échantillon et L est une propriété appelée la longueur du trajet du polarimètre.
+
+This gives the specific rotation, which is dependent on the wavelength of the light and temperature at which the experiment was performed.
+Cela donne la rotation spécifique, qui dépend de la longueur d'onde de la lumière et de la température à laquelle l'expérience a été réalisée.
+
+The tricky part is… there’s no easy rule to guess whether an R-enantiomer or an S-enantiomer will be levorotatory or dextrorotatory.
+La partie délicate est… il n'y a pas de règle simple pour deviner si un énantiomère R ou un énantiomère S sera lévogyre ou dextrogyre.
+
+Polarimetry is an experimentally determined property, which means we have to stick enantiomers in a polarimeter to see how they rotate light.
+La polarimétrie est une propriété déterminée expérimentalement, ce qui signifie que nous devons coller des énantiomères dans un polarimètre pour voir comment ils font tourner la lumière.
+
+No shortcuts, sorry.
+Pas de raccourcis, désolé.
+
+For example, it was experimentally found that the (S)-enantiomer of carvone rotates plane-polarized light to the right.
+Par exemple, il a été découvert expérimentalement que l'énantiomère (S) de la carvone fait tourner la lumière polarisée dans le plan vers la droite.
+
+To indicate that in its name, we can add a plus: (S)-(+)-carvone.
+Pour l'indiquer dans son nom, on peut ajouter un plus : (S)-(+)-carvone.
+
+The (R)-enantiomer was found to rotate plane-polarized light to the left, so it’s (R)-(-)-carvone.
+L'énantiomère (R) s'est avéré faire tourner la lumière polarisée dans le plan vers la gauche, c'est donc la (R)-(-)-carvone.
+
+So I guess there’s one tiny shortcut here: opposite enantiomers will turn plane-polarized light the same amount in opposite directions.
+Donc je suppose qu'il y a un petit raccourci ici : les énantiomères opposés transformeront la lumière polarisée dans le plan de la même quantité dans des directions opposées.
+
+When we only have one enantiomer in the sample chamber of a polarimeter, it’s called an optically pure sample.
+Lorsque nous n'avons qu'un seul énantiomère dans la chambre d'échantillon d'un polarimètre, on parle d'échantillon optiquement pur.
+
+The light will rotate one way by a certain experimentally-determined amount.
+La lumière tournera dans un sens d'une certaine quantité déterminée expérimentalement.
+
+But if we mix an equal amount of (S)-(+)-carvone and (R)-(-)-carvone in the sample chamber, we have a racemic mixture.
+Mais si nous mélangeons une quantité égale de (S)-(+)-carvone et de (R)-(-)-carvone dans la chambre d'échantillon, nous obtenons un mélange racémique.
+
+The light rotations cancel each other out, so we’d observe no change in the angle of plane-polarized light.
+Les rotations de la lumière s'annulent, nous n'observons donc aucun changement dans l'angle de la lumière polarisée dans le plan.
+
+Sometimes chemical reactions make more of one enantiomer than another.
+Parfois, les réactions chimiques produisent plus d'un énantiomère qu'un autre.
+
+So when that happens, we can use the known rotation of an optically pure sample and the observed rotation of whatever mixture we have to find the enantiomeric excess.
+Ainsi, lorsque cela se produit, nous pouvons utiliser la rotation connue d'un échantillon optiquement pur et la rotation observée de tout mélange que nous avons pour trouver l'excès énantiomérique.
+
+This tells us the percentage of each enantiomer in the mixture.
+Cela nous indique le pourcentage de chaque énantiomère dans le mélange.
+
+Knowing what products we have is important because a set of enantiomers can have really different properties in chiral environments, like a chemical reaction, or as medicines in our bodies.
+Il est important de savoir quels produits nous avons, car un ensemble d'énantiomères peut avoir des propriétés très différentes dans des environnements chiraux, comme une réaction chimique, ou comme médicaments dans notre corps.
+
+One could be helpful, while another could be deadly.
+L'un pourrait être utile, tandis qu'un autre pourrait être mortel.
+
+Polarimetry can help keep us safe and informed.
+La polarimétrie peut nous aider à rester en sécurité et informés.
+
+Not only that, but polarimetry is actually how we discovered stereochemistry and enantiomers in the first place… with a little help from wine.
+Non seulement cela, mais la polarimétrie est en fait la façon dont nous avons découvert la stéréochimie et les énantiomères en premier lieu… avec un peu d'aide du vin.
+
+Let’s go to the Thought Bubble.
+Passons à la bulle de pensée.
+
+Sometimes, you might open a bottle of wine and find some crystals that grew on the cork or settled at the bottom.
+Parfois, vous pouvez ouvrir une bouteille de vin et trouver des cristaux qui ont poussé sur le bouchon ou se sont déposés au fond.
+
+These crystals are salts derived from tartaric acid, which is commonly found in grapes.
+Ces cristaux sont des sels dérivés de l'acide tartrique, que l'on trouve couramment dans le raisin.
+
+As early as 1832, we knew that tartaric acid salts could rotate plane-polarized light.
+Dès 1832, nous savions que les sels d'acide tartrique pouvaient faire tourner la lumière polarisée dans le plan.
+
+However in 1838, there were reports of a tartaric acid solution derived from the commercial production of the chemical that didn’t rotate plane-polarized light.
+Cependant, en 1838, des rapports ont fait état d'une solution d'acide tartrique dérivée de la production commerciale du produit chimique qui ne faisait pas tourner la lumière polarisée dans le plan.
+
+These reports reached the desk of a young French biologist named Louis Pasteur.
+Ces rapports ont atteint le bureau d'un jeune biologiste français nommé Louis Pasteur.
+
+Yes, that Louis Pasteur who became known for pasteurization, bacteria, and other pivotal scientific ideas.
+Oui, ce Louis Pasteur qui s'est fait connaître pour la pasteurisation, les bactéries et d'autres idées scientifiques essentielles.
+
+The idea that presumably similar solutions of tartaric acid salts both could and couldn’t rotate plane-polarized light was very bothersome to young Louis.
+L'idée que des solutions vraisemblablement similaires de sels d'acide tartrique pouvaient et ne pouvaient pas faire tourner la lumière polarisée dans le plan était très gênante pour le jeune Louis.
+
+So he got some of the powdered tartaric acid with no optical activity and he set about growing crystals by letting the solvent slowly evaporate,
+Il a donc obtenu une partie de l'acide tartrique en poudre sans activité optique et il s'est mis à faire pousser des cristaux en laissant le solvant s'évaporer lentement,
+
+like growing rock candy on a string from a super concentrated solution of sugar and water.
+comme faire pousser du sucre candi sur une ficelle à partir d'une solution super concentrée de sucre et d'eau.
+
+Then, using a microscope, Pasteur noticed that the salt crystals grew in two different shapes.
+Puis, à l'aide d'un microscope, Pasteur a remarqué que les cristaux de sel se développaient sous deux formes différentes.
+
+To be clear: a visible difference in enantiomer crystals is rare.
+Pour être clair : une différence visible dans les cristaux d'énantiomères est rare.
+
+It was mostly luck that he was studying tartaric acid!
+C'est surtout par chance qu'il étudiait l'acide tartrique !
+
+He separated the two different crystals using just a tweezer, made solutions out of both types, and found that the two solutions rotated plane-polarized light in equal, but opposite directions.
+Il a séparé les deux cristaux différents à l'aide d'une simple pince à épiler, a créé des solutions à partir des deux types et a découvert que les deux solutions faisaient tourner la lumière polarisée dans le plan dans des directions égales mais opposées.
+
+This was the first description of an isolated set of enantiomers!
+C'était la première description d'un ensemble isolé d'énantiomères !
+
+And this event is often considered the start of the study of stereochemistry.
+Et cet événement est souvent considéré comme le début de l'étude de la stéréochimie.
+
+Thanks, Thought Bubble!
+Merci, bulle de pensée !
+
+Fresh off our history lesson, it might be helpful to revisit all the isomers we’ve encountered so far.
+Tout juste sorti de notre leçon d'histoire, il pourrait être utile de revoir tous les isomères que nous avons rencontrés jusqu'à présent.
+
+The first thing to remember is that isomers all have the same molecular formula.
+La première chose à retenir est que les isomères ont tous la même formule moléculaire.
+
+In Episode 6, we met conformational isomers when we looked at Newman projections.
+Dans l'épisode 6, nous avons rencontré des isomères conformationnels lorsque nous avons examiné les projections de Newman.
+
+One molecule can have many of these isomers, because they only differ in how the groups are arranged as we rotate around sigma bonds.
+Une molécule peut avoir plusieurs de ces isomères, car ils ne diffèrent que par la façon dont les groupes sont disposés lorsque nous tournons autour des liaisons sigma.
+
+Constitutional isomers have different connections between the same number and type of atoms.
+Les isomères constitutionnels ont des connexions différentes entre le même nombre et le même type d'atomes.
+
+And stereoisomers have atoms connected in the same order but different spatial relationships between them.
+Et les stéréoisomères ont des atomes connectés dans le même ordre mais des relations spatiales différentes entre eux.
+
+Stereoisomers that have non-superimposable mirror images, like (S)-carvone and (R)-carvone, are enantiomers.
+Les stéréoisomères qui ont des images miroir non superposables, comme la (S)-carvone et la (R)-carvone, sont des énantiomères.
+
+We also have meso compounds, which are sort of in the same family of molecules.
+Nous avons également des composés méso, qui appartiennent en quelque sorte à la même famille de molécules.
+
+They have two or more chiral centers but aren’t chiral molecules because they have an internal plane of symmetry.
+Ils ont deux centres chiraux ou plus mais ne sont pas des molécules chirales car ils ont un plan de symétrie interne.
+
+We’ll talk more about these in a minute...
+Nous en parlerons plus en détail dans une minute...
+
+Finally, we have stereoisomers that are not mirror images at all, which are called diastereomers.
+Enfin, nous avons des stéréoisomères qui ne sont pas du tout des images miroir, appelés diastéréoisomères.
+
+We also know geometric isomers, like the cis- and trans- isomers around a double bond.
+Nous connaissons également des isomères géométriques, comme les isomères cis et trans autour d'une double liaison.
+
+These can technically be classified as diastereomers, but we organic chemists more commonly refer to them as geometric isomers.
+Ceux-ci peuvent techniquement être classés comme des diastéréoisomères, mais nous, les chimistes organiques, les appelons plus communément des isomères géométriques.
+
+Diastereomers can also be configurational diastereomers, which have the same atom layout but a different 3D space arrangement.
+Les diastéréoisomères peuvent également être des diastéréoisomères de configuration, qui ont la même disposition d'atomes mais une disposition d'espace 3D différente.
+
+In a pair of diastereomers, one or more of the chiral centers will be the same, but some chiral centers have to be different.
+Dans une paire de diastéréoisomères, un ou plusieurs des centres chiraux seront les mêmes, mais certains centres chiraux doivent être différents.
+
+For example, two configurational diastereomers are (2R,4S)-4-bromopentan-2-ol and (2S,4S)- 4-bromopentan-2-ol.
+Par exemple, deux diastéréomères de configuration sont (2R,4S)-4-bromopentan-2-ol et (2S,4S)-4-bromopentan-2-ol.
+
+With all these different kinds of isomers, it might seem almost impossible to look at a molecule and figure out the maximum number of isomers it can have.
+Avec tous ces différents types d'isomères, il peut sembler presque impossible de regarder une molécule et de déterminer le nombre maximum d'isomères qu'elle peut avoir.
+
+But, thankfully, organic chemists have done centuries of hard work so we can sit back and use a simple formula.
+Mais, heureusement, les chimistes organiques ont fait des siècles de travail acharné pour que nous puissions nous asseoir et utiliser une formule simple.
+
+And since we have wine on the mind, let’s use tartaric acid as our example.
+Et puisque nous avons du vin en tête, prenons l'acide tartrique comme exemple.
+
+First, we need to count the number of chiral centers in our compound, which I’ll just call n for now.
+Tout d'abord, nous devons compter le nombre de centres chiraux dans notre composé, que j'appellerai simplement n pour l'instant.
+
+Tartaric acid, or 2,3-dihydroxybutanedioic acid, has two stereocenters!
+L'acide tartrique, ou acide 2,3-dihydroxybutanedioïque, possède deux stéréocentres !
+
+So in tartaric acid, n equals 2.
+Donc dans l'acide tartrique, n est égal à 2.
+
+Then, we can use the formula 2 to the power of n to calculate the maximum number of stereoisomers.
+Ensuite, on peut utiliser la formule 2 à la puissance n pour calculer le nombre maximum de stéréoisomères.
+
+2 to the power of 2 is 4, so tartaric acid should have 4 isomers max.
+2 à la puissance 2 est 4, donc l'acide tartrique doit avoir 4 isomères max.
+
+Let’s draw them...
+Dessinons-les ...
+
+I think it’s easiest to start with the hydrogen atoms pointing away from me,
+Je pense qu'il est plus facile de commencer avec les atomes d'hydrogène pointant loin de moi,
+
+so I’m already following the convention that the lowest priority group is pointing away, and I don’t have to do too much extra work.
+donc je suis déjà la convention selon laquelle le groupe de priorité la plus basse pointe vers l'extérieur, et je n'ai pas à faire trop de travail supplémentaire  .
+
+So let’s start with this isomer and assign the stereochemistry of these two chiral centers.
+Commençons donc par cet isomère et attribuons la stéréochimie de ces deux centres chiraux.
+
+First of all, this carbon is directly bonded to the oxygen atom of this alcohol, which has an atomic number of 8.
+Tout d'abord, ce carbone est directement lié à l'atome d'oxygène de cet alcool, qui a un numéro atomique de 8.
+
+The other two groups are carbons with an atomic number of 6, so the alcohol is clearly the highest priority.
+Les deux autres groupes sont des carbones avec un numéro atomique de 6, donc l'alcool est clairement la plus haute priorité.
+
+Now, we need to choose the higher priority of the other two groups.
+Maintenant, nous devons choisir la priorité la plus élevée des deux autres groupes.
+
+Remember to think of the carboxylic acid carbon as being bonded to three oxygen atoms, which each have an atomic number of 8.
+N'oubliez pas de penser que le carbone de l'acide carboxylique est lié à trois atomes d'oxygène, qui ont chacun un numéro atomique de 8.
+
+So the carboxylic acid has higher priority over the other carbon that’s bonded to only one oxygen atom and a lowly hydrogen with an atomic number of 1.
+Ainsi, l'acide carboxylique a une priorité plus élevée sur l'autre carbone qui est lié à un seul atome d'oxygène et à un faible hydrogène avec un atome.  nombre de 1.
+
+When we draw our arc, it points counterclockwise.
+Lorsque nous dessinons notre arc, il pointe dans le sens antihoraire.
+
+So we know this chiral center is S.
+Nous savons donc que ce centre chiral est S.
+
+Now, let’s move over to the other chiral carbon.
+Passons maintenant à l'autre carbone chiral.
+
+From highest to lowest, we have the oxygen of the alcohol, the carboxylic acid, and then the carbon with the hydrogen and alcohol attached.
+Du plus élevé au plus bas, nous avons l'oxygène de l'alcool, l'acide carboxylique, puis le carbone avec l'hydrogène et l'alcool attachés.
+
+And of course the hydrogen atom that points into the screen is in dead last.
+Et bien sûr, l'atome d'hydrogène qui pointe vers l'écran est en dernier.
+
+We can draw our arc, and see this chiral center is also S.
+Nous pouvons dessiner notre arc et voir que ce centre chiral est également S.
+
+So we get a name of (2S,3S)-tartaric acid.
+Nous obtenons donc le nom d'acide (2S,3S)-tartrique.
+
+Next, let’s draw the mirror image of this compound.
+Ensuite, dessinons l'image miroir de ce composé.
+
+If we use the same priorities to assign the stereochemistry, we get a name of (2R,3R)-tartaric acid.
+Si nous utilisons les mêmes priorités pour attribuer la stéréochimie, nous obtenons un nom d'acide (2R,3R)-tartrique.
+
+Then, for the third isomer we can show one alcohol group coming toward us and the other pointing away from us.
+Ensuite, pour le troisième isomère, nous pouvons montrer un groupe d'alcool venant vers nous et l'autre pointant vers nous.
+
+And finally, the fourth isomer also has one alcohol group coming toward us and one pointing away from us -- just different ones.
+Et enfin, le quatrième isomère a aussi un groupe alcool qui vient vers nous et un qui s'éloigne de nous -- juste des groupes différents.
+
+But wait.
+Mais attendez. 
+
+If we look at those two isomers side by side… and then we rotate one around, we can overlap them.
+Si nous regardons ces deux isomères côte à côte… puis que nous en faisons tourner un, nous pouvons les chevaucher.
+
+So the third and fourth isomers of tartaric acid are actually just one molecule!
+Ainsi, les troisième et quatrième isomères de l'acide tartrique ne sont en fait qu'une seule molécule !
+
+This is because there’s an internal plane of symmetry that we can see if we rotate around this bond.
+C'est parce qu'il existe un plan de symétrie interne que nous pouvons voir si nous tournons autour de cette liaison.
+
+Now the internal plane of symmetry is clear to see.
+Maintenant, le plan de symétrie interne est clairement visible.
+
+It’s a meso compound!
+C'est un composé méso !
+
+And we can call it meso-tartaric acid.
+Et nous pouvons l'appeler acide méso-tartrique.
+
+After all that investigation, we know that tartaric acid has three isomers.
+Après toute cette enquête, nous savons que l'acide tartrique a trois isomères.
+
+So we always need to think critically about the molecules we draw in organic chemistry.
+Nous devons donc toujours avoir une réflexion critique sur les molécules que nous dessinons en chimie organique.
+
+Our 2 to the power of n formula helps us make sure we don’t miss any isomers, but we have to make sure that two aren’t actually the same thing!
+Notre formule 2 à la puissance n nous aide à nous assurer que nous ne manquons aucun isomère, mais nous devons nous assurer que deux ne sont pas réellement la même chose !
+
+Stereochemistry plays an important role in how molecules interact with one another, from smells to medicines.
+La stéréochimie joue un rôle important dans la façon dont les molécules interagissent entre elles, des odeurs aux médicaments.
+
+So let’s try to keep all this in mind for the puzzles to come!
+Essayons donc de garder tout cela à l'esprit pour les énigmes à venir !
+
+In this episode, we learned about:
+Dans cet épisode, nous avons découvert : La
+
+Polarimetry and how enantiomers of chiral molecules rotate plane-polarized light in opposite directions
+polarimétrie et la façon dont les énantiomères des molécules chirales font tourner la lumière polarisée dans le plan dans des directions
+
+Measuring enantiomeric excess in an unequal mixture of enantiomers with a polarimeter
+
+That racemic mixtures contain equal amounts of enantiomers and don’t rotate plane-polarized light
+opposées  lumière polarisée
+
+And we did a recap of constitutional isomers, stereoisomers, enantiomers, and diastereomers
+Et nous avons fait un récapitulatif des isomères constitutionnels, des stéréoisomères, des énantiomères et des diastéréoisomères
+
+Next week, we’ll dive into water (the molecule, not an actual pool) to talk about polarity and how to show electrons moving around a structure.
+La semaine prochaine, nous plongerons dans l'eau (la molécule, pas une piscine réelle) pour parler de polarité et comment montrer les électrons se déplaçant autour d'une structure.
+
+Thanks for watching this episode of Crash Course Organic Chemistry.
+Merci d'avoir regardé cet épisode de Crash Course Organic Chemistry.
+
+If you want to help keep all Crash Course free for everybody, forever, you can join our community on Patreon.
+Si vous voulez aider à garder tous les cours intensifs gratuits pour tout le monde, pour toujours, vous pouvez rejoindre notre communauté sur Patreon.
+

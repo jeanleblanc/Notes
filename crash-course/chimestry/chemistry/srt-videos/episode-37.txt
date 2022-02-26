@@ -1,0 +1,634 @@
+How do you picture an atom in your mind – like
+this, or like this, or maybe one of these?
+Comment imaginez-vous un atome dans votre esprit - comme
+ceci, ou comme cela, ou peut-être l'un d'entre eux ?
+
+If you understand enough about atoms to visualize
+any of those things,
+Si vous comprenez suffisamment les atomes pour visualiser l'
+une de ces choses,
+
+then you know more about atomic theory than
+scientists did just 100 years ago.
+alors vous en savez plus sur la théorie atomique que les
+scientifiques il y a à peine 100 ans.
+
+And, like, WAY more than they thought they
+knew 2500 years ago.
+Et, genre, BEAUCOUP plus qu'ils ne pensaient
+savoir il y a 2500 ans.
+
+That's when Greek philosopher Leucippus and
+his pupil Democritus
+C'est alors que le philosophe grec Leucippe et
+son élève Démocrite ont eu pour la
+
+first came up with the idea that matter is
+composed of tiny particles.
+première fois l'idée que la matière est
+composée de minuscules particules.
+
+No one knows how they developed this concept, but they didn't think the particles were particularly special –
+Personne ne sait comment ils ont développé ce concept, mais ils ne pensaient pas que les particules étaient particulièrement spéciales -
+
+they just thought that if you cut something
+in half enough times,
+ils pensaient simplement que si vous coupez quelque chose
+en deux fois suffisamment,
+
+eventually you'll reach a particle that can't
+be cut anymore.
+vous finirez par atteindre une particule qui ne peut
+plus être coupée.
+
+They gave these particles the name "atomos,"
+which means uncuttable or indivisible.
+Ils ont donné à ces particules le nom "atomos",
+qui signifie indécoupable ou indivisible.
+
+So basically, they thought that iron was made
+up of iron particles
+Donc, fondamentalement, ils pensaient que le fer était
+composé de particules de fer
+
+and clay was made up of clay particles and
+cheese was made up of cheese particles.
+et que l'argile était composée de particules d'argile et que le
+fromage était composé de particules de fromage.
+
+And they attributed properties of each substance
+to the forms of the atoms.
+Et ils attribuaient les propriétés de chaque substance
+aux formes des atomes.
+
+So, they thought that iron atoms were hard
+and stuck together with hooks,
+Ainsi, ils pensaient que les atomes de fer étaient durs
+et collés ensemble avec des crochets,
+
+clay atoms were softer and attached by ball
+and socket joints that made them flexible,
+les atomes d'argile étaient plus mous et attachés par des
+joints à rotule qui les rendaient flexibles,
+
+and cheese atoms were squishy and delicious.
+et les atomes de fromage étaient spongieux et délicieux.
+
+Now this makes a certain amount of sense if you don't happen to have access to electron microscopes
+Maintenant, cela a un certain sens si vous n'avez pas accès à des microscopes électroniques
+
+or cathode-ray tubes or the work of generations
+of previous scientists.
+ou à des tubes à rayons cathodiques ou au travail de générations
+de scientifiques précédents.
+
+Because the fact is atomic theory as we know
+it today is the product of hundreds,
+Parce que le fait est que la théorie atomique telle que nous la
+connaissons aujourd'hui est le produit de centaines,
+
+if not thousands,
+of different insights.
+voire de milliers,
+d'idées différentes.
+
+Some models, like that of Leucippus, were
+just blind guesses.
+Certains modèles, comme celui de Leucippus, n'étaient
+que des suppositions aveugles.
+
+As time went on, many more were the result
+of rigorous experimentation.
+Au fil du temps, beaucoup d'autres ont été le résultat
+d'une expérimentation rigoureuse.
+
+But, as has been the case in all science, each scientist built on what had been learned before.
+Mais, comme cela a été le cas dans toutes les sciences, chaque scientifique s'est appuyé sur ce qu'il avait appris auparavant.
+
+We've been talking a lot about the fine details
+of chemistry in recent weeks,
+Nous avons beaucoup parlé des petits détails
+de la chimie ces dernières semaines,
+
+and we're gonna keep doing that as we move on to nuclear chemistry and then to the basics of organic chemistry,
+et nous allons continuer à le faire à mesure que nous passerons à la chimie nucléaire, puis aux bases de la chimie organique,
+
+but we do, I wanted to set aside some time to explain how we know what we know about the atom today,
+mais nous le faisons, je voulais mettre de côté  un certain temps pour expliquer comment nous savons ce que nous savons de l'atome aujourd'hui,
+
+and how we know that we're not quite done
+figuring it out.
+et comment nous savons que nous n'avons pas tout à fait fini de le
+comprendre.
+
+[Theme Music]
+[Thème musical]
+
+Now you might think that once Leucippus and Democritus came up with the general idea of atoms,
+Maintenant, vous pourriez penser qu'une fois que Leucippe et Démocrite ont eu l'idée générale des atomes,
+
+it'd be pretty easy for someone else to take
+that little, indivisible ball and run with it.
+il serait assez facile pour quelqu'un d'autre de prendre
+cette petite balle indivisible et de courir avec.
+
+But you'd be wrong.
+Mais vous auriez tort.
+
+The next major developments in atomic theory
+didn't come along for nearly 2300 YEARS.
+Les prochains développements majeurs de la théorie atomique
+n'ont pas eu lieu pendant près de 2300 ANS.
+
+I've already told you,
+for instance,
+Je vous ai déjà parlé,
+par exemple
+
+about the French chemist Antoine Lavoisier,
+who proposed the law of conservation of mass,
+, du chimiste français Antoine Lavoisier,
+qui a proposé la loi de conservation de la masse,
+
+which states that even if matter changes shape
+or form, its mass stays the same.
+qui stipule que même si la matière change de forme
+ou de forme, sa masse reste la même.
+
+And you should remember the English teacher
+James Dalton
+Et vous devriez vous souvenir du professeur d'anglais
+James Dalton
+
+who determined that elements exist as discreet
+packets of matter.
+qui a déterminé que les éléments existent sous
+forme de paquets discrets de matière.
+
+Thanks to these, and other great minds, by the 1800s we had a better grip on the general behavior of atoms.
+Grâce à eux et à d'autres grands esprits, dans les années 1800, nous avions une meilleure compréhension du comportement général des atomes.
+
+The next logical question was "Why? Why do
+they behave the way they do?"
+La question logique suivante était "Pourquoi? Pourquoi
+se comportent-ils comme ils le font?"
+
+This led to the investigation of atomic structure.
+Cela a conduit à l'étude de la structure atomique.
+
+In the 1870s, scientists began probing what
+stuff was made of using discharge tubes,
+Dans les années 1870, les scientifiques ont commencé à sonder ce qui
+était fait en utilisant des tubes à décharge,
+
+basically gas-filled tubes with electrodes
+in each end,
+essentiellement des tubes remplis de gaz avec des électrodes
+à chaque extrémité,
+
+which emit light when an electrical current passes through them – basically, what a neon light is.
+qui émettent de la lumière lorsqu'un courant électrique les traverse - en gros, ce qu'est un néon.
+
+Because this light was originally produced
+by a negative electrode, or cathode,
+Parce que cette lumière était à l'origine produite
+par une électrode négative, ou cathode,
+
+it was called a cathode ray,
+and it had a negative charge.
+elle s'appelait un rayon cathodique
+et elle avait une charge négative.
+
+But in 1886, German physicist Eugen Goldstein found that the tubes also emitted light from the positive electrode,
+Mais en 1886, le physicien allemand Eugen Goldstein a découvert que les tubes émettaient également de la lumière à partir de l'électrode positive,
+
+basically, a ray headed in the opposite direction, which meant that there must also be a positive charge in matter.
+essentiellement un rayon dirigé dans la direction opposée, ce qui signifiait qu'il devait également y avoir une charge positive dans la matière.
+
+Goldstein didn't fully understand what he'd
+discovered here –
+Goldstein ne comprenait pas entièrement ce qu'il avait
+découvert ici –
+
+I mean, scientists still hadn't figured out what was responsible for the negative charge in the rays either.
+je veux dire, les scientifiques n'avaient toujours pas compris non plus ce qui était responsable de la charge négative dans les rayons.
+
+Then, English physicist J.J. Thompson took
+the discharge tube research further:
+Ensuite, le physicien anglais J.J.  Thompson a
+poussé plus loin la recherche sur les tubes à décharge :
+
+by measuring how much heat the cathode rays
+generated,
+en mesurant la quantité de chaleur
+générée par les rayons cathodiques,
+
+how much they could be bent by magnets and
+other things,
+combien ils pouvaient être courbés par des aimants et d'
+autres choses,
+
+he was able to estimate the mass of the rays.
+il a pu estimer la masse des rayons.
+
+And the mass was about 1000 times lighter than a hydrogen, the smallest bit of matter known at the time.
+Et la masse était environ 1000 fois plus légère qu'un hydrogène, le plus petit morceau de matière connu à l'époque.
+
+He concluded that the cathode "rays" weren't
+rays or waves at all, but were, in fact,
+Il a conclu que les "rayons" cathodiques n'étaient pas du tout des
+rayons ou des ondes, mais étaient en fait des particules
+
+very light, very small
+negatively-charged particles.
+très légères, très petites
+chargées négativement.
+
+He called them "corpuscles;" we call them
+"electrons."
+Il les appelait « corpuscules » ;  nous les appelons
+"électrons".
+
+So even though we didn't understand what shapes
+they took,
+Ainsi, même si nous ne comprenions pas quelles formes
+ils prenaient,
+
+we knew that there were both negative and
+positive components to matter.
+nous savions qu'il y avait à la fois
+des éléments négatifs et positifs pour compter.
+
+The next question was "How were they arranged
+in the atom?"
+La question suivante était "Comment étaient-ils disposés
+dans l'atome?"
+
+Thompson knew that the atom overall had a
+neutral charge,
+Thompson savait que l'atome avait globalement une
+charge neutre
+
+so he imagined that the negatively charged electrons must be distributed randomly in a positively charged matrix.
+, il a donc imaginé que les électrons chargés négativement devaient être répartis de manière aléatoire dans une matrice chargée positivement.
+
+And the very English Thompson visualized this
+model as a familiar English dessert:
+Et le très anglais Thompson a visualisé ce
+modèle comme un dessert anglais familier : le
+
+plum pudding, the positive matrix being the cake, and the electrons the random, floating bits of fruit within it.
+plum pudding, la matrice positive étant le gâteau, et les électrons les morceaux de fruits aléatoires et flottants à l'intérieur.
+
+Even today, Thompson's model of the atom continues
+to be called the "plum pudding model."
+Même aujourd'hui, le modèle de l'atome de Thompson continue
+d'être appelé le « modèle du plum pudding ».
+
+And while a single electron's motion is random,
+the overall distribution of them is not.
+Et tandis que le mouvement d'un seul électron est aléatoire
+, leur distribution globale ne l'est pas.
+
+The next big step was taken by New Zealander
+Ernest Rutherford in 1909.
+La prochaine grande étape a été franchie par le Néo-Zélandais
+Ernest Rutherford en 1909.
+
+He designed an experiment using an extremely thin sheet of gold foil and a screen coated with zinc sulfide.
+Il a conçu une expérience utilisant une feuille d'or extrêmement mince et un écran recouvert de sulfure de zinc.
+
+He bombarded the sheet with alpha particles,
+which he didn't really know what they were,
+Il a bombardé la feuille avec des particules alpha,
+dont il ne savait pas vraiment ce qu'elles étaient,
+
+just that they were produced by the decay of radium, they were positive charged, and they were really, really small.
+juste qu'elles étaient produites par la désintégration du radium, elles étaient chargées positivement, et elles étaient vraiment, vraiment petites.
+
+He expected them to just fly right through the foil, with no deflection, and many of them did just that.
+Il s'attendait à ce qu'ils volent juste à travers le foil, sans déviation, et beaucoup d'entre eux l'ont fait.
+
+But as it turned out, some of the particles were deflected at large angles and sometimes almost straight backward.
+Mais il s'est avéré que certaines des particules étaient déviées à de grands angles et parfois presque directement vers l'arrière.
+
+The only explanation for this was that the
+entire positive charge of an atom,
+La seule explication à cela était que
+toute la charge positive d'un atome,
+
+the charge that would repel an alpha particle,
+la charge qui repousserait une particule alpha,
+
+must be concentrated in a very small area,
+an area that he called "the nucleus."
+devait être concentrée dans une très petite zone,
+une zone qu'il appelait "le noyau".
+
+Because most of the alpha particles passed
+right through the atoms undeterred,
+Parce que la plupart des particules alpha
+ont traversé les atomes sans se laisser décourager,
+
+Rutherford concluded that most of the atom
+is empty space, and he was correct.
+Rutherford a conclu que la majeure partie de l'atome
+est un espace vide, et il avait raison.
+
+Rutherford would later discover that if he
+bombarded nitrogen with alpha particles,
+Rutherford découvrira plus tard que s'il
+bombardait de l'azote avec des particules alpha,
+
+it created a bunch of hydrogen ions.
+cela créait un tas d'ions hydrogène.
+
+Now he correctly surmised that these tiny positively charged ions were themselves fundamental particles:
+Maintenant, il supposait correctement que ces minuscules ions chargés positivement étaient eux-mêmes des particules fondamentales : les
+
+Protons.
+Now we're getting close to reality.
+protons.
+Maintenant, nous nous rapprochons de la réalité.
+
+So these chemists had a fairly good idea of
+the structure of the atom,
+Ces chimistes avaient donc une assez bonne idée de
+la structure de l'atome,
+
+they just needed to figure out what exactly
+the electrons were doing.
+ils avaient juste besoin de comprendre ce que
+faisaient exactement les électrons.
+
+Enter Niels Bohr.
+Entre Niels Bohr.
+
+In 1911, the same year the results of Rutherford's
+gold foil experiment were published,
+En 1911, la même année où les résultats de l'
+expérience de feuille d'or de Rutherford ont été publiés,
+
+Bohr traveled to England to study with Rutherford.
+Bohr s'est rendu en Angleterre pour étudier avec Rutherford.
+
+And as a physicist, he was also interested
+in the mathematical model set forth by
+Et en tant que physicien, il s'est également intéressé
+au modèle mathématique proposé par
+
+German physicists Max Planck and Albert Einstein to explain the behavior of electromagnetic energy.
+les physiciens allemands Max Planck et Albert Einstein pour expliquer le comportement de l'énergie électromagnétique.
+
+Over time, Bohr came to realize these mathematical principles could be applied to Rutherford's atomic model.
+Au fil du temps, Bohr a réalisé que ces principes mathématiques pouvaient être appliqués au modèle atomique de Rutherford.
+
+His analysis of the gold foil experiment and
+calculations
+Son analyse de l'expérience de la feuille d'or et des
+calculs
+
+based on the proportion of the alpha particles
+that went straight through,
+basés sur la proportion de particules alpha
+qui traversaient directement,
+
+those that were slightly deflected, and those
+that bounced almost completely backward,
+celles qui étaient légèrement déviées et celles
+qui rebondissaient presque complètement vers l'arrière,
+
+allowed him to predict the most likely positions
+of electrons within the atom.
+lui ont permis de prédire les positions les plus probables
+des électrons dans l'atome.
+
+Bohr's resulting model, sometimes called the planetary model, is still familiar to most people, probably including you.
+Le modèle résultant de Bohr, parfois appelé le modèle planétaire, est encore familier à la plupart des gens, y compris probablement à vous.
+
+It represents the electrons in orbits around
+a small central nucleus.
+Il représente les électrons en orbite autour d'
+un petit noyau central.
+
+Each orbit can have a specific number of electrons,
+Chaque orbite peut avoir un nombre spécifique d'électrons,
+
+which correlates to the energy levels and
+orbitals in the modern model of an atom.
+qui est en corrélation avec les niveaux d'énergie et les
+orbitales dans le modèle moderne d'un atome.
+
+And while it's definitely flawed, Bohr's model is very close to reality in some important ways.
+Et bien qu'il soit définitivement imparfait, le modèle de Bohr est très proche de la réalité à certains égards importants.
+
+But like everyone I've mentioned in the past couple of minutes, Bohr was at once fantastically right and way off.
+Mais comme tous ceux que j'ai mentionnés au cours des deux dernières minutes, Bohr avait à la fois fantastiquement raison et loin.
+
+The problem was those pesky electrons.
+Le problème était ces électrons embêtants.
+
+It was the German theoretical physicist Werner
+Heisenberg
+C'est le physicien théoricien allemand Werner
+Heisenberg
+
+who got everyone to understand just how huge
+and mind-blowing this electron problem was.
+qui a fait comprendre à tout le monde à quel point
+ce problème d'électrons était énorme et époustouflant.
+
+But he was also the one who helped tie the
+whole mess up into a neat little bundle.
+Mais c'est aussi lui qui a aidé à lier
+tout le gâchis en un petit paquet soigné.
+
+Using his wicked math chops, Heisenberg discovered
+that it is impossible to know with certainty
+Utilisant ses talents de maths, Heisenberg a découvert
+qu'il est impossible de connaître avec certitude
+
+both the momentum of an electron or any subatomic
+particle and its exact position.
+à la fois la quantité de mouvement d'un électron ou de toute
+particule subatomique et sa position exacte.
+
+And the more you know about one of those two variables, the harder it gets to measure the other one.
+Et plus vous en savez sur l'une de ces deux variables, plus il devient difficile de mesurer l'autre.
+
+So if you can't measure the position or momentum
+of an electron,
+Donc, si vous ne pouvez pas mesurer la position ou la quantité
+de mouvement d'un électron,
+
+you obviously can't say with certainty that the electrons in an atom are all neatly aligned in circular orbits.
+vous ne pouvez évidemment pas dire avec certitude que les électrons d'un atome sont tous parfaitement alignés sur des orbites circulaires.
+
+So he and a new wave of physicists and chemists
+proposed a new theory: a quantum theory,
+Ainsi, lui et une nouvelle vague de physiciens et de chimistes ont
+proposé une nouvelle théorie : une théorie quantique,
+
+which proposes that electrons weren't particles or waves, instead, they had properties of both and neither.
+qui propose que les électrons n'étaient pas des particules ou des ondes, au lieu de cela, ils avaient des propriétés des deux et ni l'un ni l'autre.
+
+By this thinking, the arrangement of electrons around a nucleus could only be described in terms of probability.
+Selon cette pensée, l'arrangement des électrons autour d'un noyau ne pouvait être décrit qu'en termes de probabilité.
+
+In other words, there are certain regions where an electron is much more likely to be found.
+En d'autres termes, il existe certaines régions où un électron est beaucoup plus susceptible d'être trouvé.
+
+We call these regions "orbitals."
+Nous appelons ces régions "orbitales".
+
+You know, the very same orbital that you and
+I have been talking about –
+Vous savez, la même orbitale dont vous et
+moi avons parlé
+
+the ones that go by the names "s and d and
+p and f" and that form sigma and pi bonds –
+- celles qui portent les noms "s et d et
+p et f" et qui forment des liaisons sigma et pi -
+
+those are the things that Heisenberg's theory
+predicts.
+ce sont les choses que la théorie de Heisenberg
+prédit.
+
+And that's the modern understanding of atoms.
+Et c'est la compréhension moderne des atomes.
+
+Because it's based on probability, quantum
+atoms are often drawn as
+Parce qu'il est basé sur la probabilité, les
+atomes quantiques sont souvent dessinés sous forme de
+
+clouds with the intensity of color representing
+not individual electrons
+nuages avec l'intensité de la couleur représentant non p
+s des électrons individuels mais 
+
+but the probability of finding an electron
+in any particular position.
+a probabilité de trouver un électron dans 
+ne position parti
+
+For this reason, the quantum model is often
+called the cloud model of the atom.
+ulière.  Pour cette raison, le modèle quantique est souvent
+appelé le modèle nuageux de l'atome.
+
+And now ya know!
+Et maintenant tu sais !
+
+All the people I've mentioned and many others put their heads together over time to build this current and
+Toutes les personnes que j'ai mentionnées et bien d'autres se sont réunies au fil du temps pour construire cette compréhension actuelle et
+
+– I might say – quite elegant understanding
+of atomic theory.
+– je dirais – assez élégante
+de la théorie atomique.
+
+Now, after 2500 years, even though we can't see them, we can know what they're like and how they work,
+Aujourd'hui, après 2500 ans, même si nous ne pouvons pas les voir, nous pouvons savoir à quoi ils ressemblent et comment ils fonctionnent,
+
+because a long succession of scientists contributed
+bits and pieces to the whole fantastic picture.
+car une longue succession de scientifiques a contribué par
+bribes à l'image fantastique.
+
+But it's also important to recognize that
+we still may not be quite all the way right.
+Mais il est également important de reconnaître que
+nous n'avons peut-être pas encore tout à fait raison.
+
+Thompson's contemporaries were sure that the
+plum pudding model was right;
+Les contemporains de Thompson étaient convaincus que le
+modèle du plum pudding était le bon ;
+
+scientists in Bohr's day fully believed that
+the planetary model was right,
+les scientifiques de l'époque de Bohr croyaient pleinement que
+le modèle planétaire était correct,
+
+and today we're extremely confident that the
+quantum model is correct.
+et aujourd'hui nous sommes extrêmement convaincus que le
+modèle quantique est correct.
+
+But it may not be all the way correct, and
+that's where you come in:
+Mais ce n'est peut-être pas tout à fait correct, et
+c'est là que vous intervenez :
+
+the only way we can go on being sure is to
+keep asking questions and conducting experiments.
+la seule façon de continuer à être sûrs est de
+continuer à poser des questions et à mener des expériences.
+
+And that's why you're taking chemistry
+and physics. Pay attention!
+Et c'est pourquoi vous prenez la chimie
+et la physique.  Faites attention! 
+
+Thank you for watching this episode of Crash
+Course Chemistry.
+Merci d'avoir regardé cet épisode de Crash
+Course Chemistry.
+
+If you paid attention, you learned that Leucippus
+and Democritus
+Si vous avez prêté attention, vous avez appris que Leucippe
+et Démocrite
+
+originated the idea of atoms nearly 2500 years
+ago,
+sont à l'origine de l'idée des atomes il y a près de 2500
+ans,
+
+but that the real work didn't really begin
+until
+mais que le vrai travail n'a pas vraiment commencé
+tant que
+
+both protons and electrons were discovered
+by experimenting with discharge tubes,
+les protons et les électrons n'ont pas été découverts
+en expérimentant avec des tubes à décharge,
+
+and how Ernest Rutherford figured out what
+and where the nucleus is.
+et comment Ernest Rutherford a compris  quoi
+et où se trouve le noyau.
+
+You also learned that chemistry can sometimes
+be done with just math,
+Vous avez également appris que la chimie peut parfois
+être faite uniquement avec des mathématiques,
+
+like how Bohr figured out his model
+comme la façon dont Bohr a découvert son modèle
+
+or the way that Heisenberg used math to usher
+in the quantum theory of the atom.
+ou la façon dont Heisenberg a utilisé les mathématiques pour
+inaugurer la théorie quantique de l'atome.
+
+This episode written by Edi Gonzales and edited
+by Blake de Pastino.
+Cet épisode écrit par Edi Gonzales et édité
+par Blake de Pastino.
+
+Our chemistry consultant is Dr. Heiko Langner, and it was filmed, edited and directed by Nicholas Jenkins.
+Notre consultant en chimie est le Dr Heiko Langner, et il a été filmé, monté et réalisé par Nicholas Jenkins.
+
+The script supervisor was Katherine Green,
+Michael Aranda is our sound designer,
+Le superviseur du scénario était Katherine Green,
+Michael Aranda est notre concepteur sonore
+
+and Thought Cafe is our graphics team.
+et Thought Cafe est notre équipe graphique.
+

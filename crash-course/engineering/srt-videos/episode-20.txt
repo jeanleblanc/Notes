@@ -1,0 +1,620 @@
+If there’s anything we’ve seen so far
+in this series, it’s that you need the right
+materials to solve your problems.
+S'il y a quelque chose que nous avons vu jusqu'à présent
+dans cette série, c'est que vous avez besoin des bons
+matériaux pour résoudre vos problèmes.
+
+Metals and ceramics will go a long way in
+this world, but they’re not always the best choice.
+Les métaux et la céramique iront loin dans
+ce monde, mais ils ne sont pas toujours le meilleur choix.
+
+Every time you bounce a ball or drive your
+car on a set of tires, you’re seeing a different
+kind of material in action –
+Chaque fois que vous faites rebondir une balle ou que vous conduisez votre
+voiture sur un ensemble de pneus, vous voyez un
+type de matériau différent en action -
+
+one that’s able to do things metals and
+ceramics just can’t.
+un matériau capable de faire des choses que les métaux et la
+céramique ne peuvent tout simplement pas faire.
+
+They’re called polymers, and the world as
+we know it depends on them.
+On les appelle des polymères, et le monde tel que
+nous le connaissons en dépend.
+
+[Theme Music]
+[Thème musical]
+
+Imagine there’s a 12 story building, and
+up on the top floor is a fire.
+Imaginez qu'il y ait un immeuble de 12 étages
+et qu'au dernier étage se trouve un incendie.
+
+Naturally, your first response would be to
+call the fire department.
+Naturellement, votre première réponse serait d'
+appeler les pompiers.
+
+They’d come in their big trucks, hook up
+their hoses, and put out the fire. Right?
+Ils venaient dans leurs gros camions, branchaient
+leurs tuyaux et éteignaient le feu.  Droit? 
+
+Well, unfortunately, it’s not always that
+simple.
+Eh bien, malheureusement, ce n'est pas toujours aussi
+simple.
+
+Many fire hoses, especially older ones, only
+have enough capacity and water pressure to
+reach about 30 meters straight up.
+De nombreux tuyaux d'incendie, en particulier les plus anciens,
+n'ont qu'une capacité et une pression d'eau suffisantes pour
+atteindre environ 30 mètres vers le haut.
+
+And in practice, firefighters on the ground
+rarely attempt to reach even half that distance
+with a hose – only around the 4th floor.
+Et dans la pratique, les pompiers au sol
+tentent rarement d'atteindre même la moitié de cette distance
+avec un tuyau - seulement autour du 4ème étage.
+
+Even with a ladder truck, firefighters can
+only reach up to about the 10th floor until
+it becomes difficult and unsafe.
+Même avec un camion à échelle, les pompiers ne
+peuvent atteindre que le 10e étage environ jusqu'à
+ce que cela devienne difficile et dangereux.
+
+But that’s still 2 stories short of where
+our fire is.
+Mais c'est encore 2 étages avant où se trouve
+notre feu.
+
+If we assume that we can’t just use a different
+water source or another hose, then we’re going to
+need to send the water up higher than it already is.
+Si nous supposons que nous ne pouvons pas simplement utiliser une
+source d'eau différente ou un autre tuyau, nous
+devrons envoyer l'eau plus haut qu'elle ne l'est déjà.
+
+How could we do that?
+Comment pourrions-nous faire cela?
+
+Well, one answer is by using polymers!
+Eh bien, une réponse est d'utiliser des polymères !
+
+They’re already everywhere in this situation,
+like in the trucks the firefighters drive and the
+gear they wear.
+Ils sont déjà partout dans cette situation,
+comme dans les camions que conduisent les pompiers et les
+tenues qu'ils portent.
+
+And they can cause a special phenomenon that
+might help with the water height problem, too.
+Et ils peuvent provoquer un phénomène spécial qui
+pourrait également aider à résoudre le problème de la hauteur de l'eau.
+
+Polymers are materials made up of long, repeating
+chains of tiny molecules known as monomers
+Les polymères sont des matériaux constitués de longues
+chaînes répétées de minuscules molécules appelées monomères
+
+– a class of molecules that can react with
+others to form much larger molecules.
+- une classe de molécules qui peuvent réagir avec d'
+autres pour former des molécules beaucoup plus grosses.
+
+In a polymer, monomers are repeated over and
+over again until there are hundreds, thousands,
+or even millions of them in a long line.
+Dans un polymère, les monomères sont répétés encore
+et encore jusqu'à ce qu'il y en ait des centaines, des milliers,
+voire des millions sur une longue ligne.
+
+Typically, polymers have lower densities
+compared to metals and ceramics, and they
+aren’t usually as stiff or strong.
+En règle générale, les polymères ont des densités
+inférieures à celles des métaux et des céramiques, et ils
+ne sont généralement pas aussi rigides ou solides.
+
+So you probably shouldn’t try to build a
+house out of them.
+Donc, vous ne devriez probablement pas essayer de construire une
+maison avec eux.
+
+Many polymers are also extremely ductile
+and pliable, so they’re easily formed into more
+complex shapes.
+De nombreux polymères sont également extrêmement ductiles
+et flexibles, de sorte qu'ils sont facilement façonnés dans
+des formes plus complexes.
+
+They also don’t generally react easily with other
+chemicals, making them a good material for volatile
+environments like a chemistry lab.
+De plus, ils ne réagissent généralement pas facilement avec d'autres
+produits chimiques, ce qui en fait un bon matériau pour les
+environnements volatils comme un laboratoire de chimie.
+
+But since polymers depend on the monomers that
+they’re made from, you can get a better sense of a
+polymer’s characteristics by looking at its composition.
+Mais comme les polymères dépendent des monomères à partir desquels
+ils sont fabriqués, vous pouvez avoir une meilleure idée des caractéristiques d'un
+polymère en examinant sa composition.
+
+Ones that have longer chains tend to show
+more elastic properties.
+Ceux qui ont des chaînes plus longues ont tendance à montrer
+des propriétés plus élastiques.
+
+These are often called elastomers, and are
+mainly found in rubber materials.
+Ceux-ci sont souvent appelés élastomères et se
+trouvent principalement dans les matériaux en caoutchouc.
+
+Take a rubber band, for example.
+Prenez un élastique, par exemple.
+
+The molecules in the polymer can be all
+clumped together, or stretched out, like when
+you pull on the rubber band.
+Les molécules du polymère peuvent être toutes
+agglutinées ou étirées, comme lorsque
+vous tirez sur l'élastique.
+
+On the other hand, polymers with larger and
+more complex monomers tend to be stiffer.
+D'autre part, les polymères avec
+des monomères plus gros et plus complexes ont tendance à être plus rigides.
+
+You can also stiffen polymers through a process
+called cross-linking.
+Vous pouvez également rigidifier les polymères grâce à un processus
+appelé réticulation.
+
+That’s when polymers are bonded with
+each other to form a 3D, net-like shape
+called a polymer network.
+C'est à ce moment que les polymères sont liés les
+uns aux autres pour former une forme 3D en forme de filet
+appelée réseau de polymères.
+
+Have you ever heard of vulcanized rubber?
+Avez-vous déjà entendu parler du caoutchouc vulcanisé ?
+
+It’s the stuff used to make things like tires,
+like the ones you might find on a fire truck.
+C'est le matériau utilisé pour fabriquer des choses comme des pneus,
+comme ceux que vous pourriez trouver sur un camion de pompiers.
+
+Well, vulcanization is the process of using
+sulfur to cross-link and strengthen rubber polymers!
+Eh bien, la vulcanisation est le processus d'utilisation du
+soufre pour réticuler et renforcer les polymères de caoutchouc !
+
+Tires probably aren’t the only polymers
+that you’re familiar with.
+Les pneus ne sont probablement pas les seuls polymères
+que vous connaissez.
+
+Chances are good that you use plenty of
+them every day, like the ones you’ll find in
+plastic bags and seat covers.
+Il y a de fortes chances que vous en utilisiez
+beaucoup chaque jour, comme ceux que vous trouverez dans
+les sacs en plastique et les housses de siège.
+
+And while it’s easy to take polymers for
+granted, they’ve only been widely used since
+about the 1940s.
+Et bien qu'il soit facile de tenir les polymères pour
+acquis, ils ne sont largement utilisés que depuis
+les années 1940 environ.
+
+But that doesn’t mean they don’t have
+a special place in history.
+Mais cela ne signifie pas qu'ils n'ont pas
+une place particulière dans l'histoire.
+
+Research suggests that the first time people really
+used polymers was back in pre-Columbian Mexico and
+Central America, around 3,000 years ago.
+Les recherches suggèrent que la première fois que les gens ont vraiment
+utilisé des polymères, c'était au Mexique précolombien et
+en Amérique centrale, il y a environ 3 000 ans.
+
+Back then, they took latex, a milky, sap-like
+fluid found in some plants, and mixed it with
+juice from the morning glory plant.
+À l'époque, ils prenaient du latex, un liquide laiteux ressemblant à de la sève que
+l'on trouve dans certaines plantes, et le mélangeaient avec du
+jus de la plante de la gloire du matin.
+
+This juice had sulfur in it, which effectively
+vulcanized the latex and made it less brittle.
+Ce jus contenait du soufre, ce qui
+vulcanisait efficacement le latex et le rendait moins cassant.
+
+And from there, they were able to make
+rubber goods like sandals, rubber bands,
+and even bouncing balls.
+Et à partir de là, ils ont pu fabriquer
+des articles en caoutchouc comme des sandales, des élastiques
+et même des balles rebondissantes.
+
+You can actually do a pretty similar and simple
+experiment if you want.
+Vous pouvez en fait faire une expérience assez similaire et simple
+si vous le souhaitez.
+
+All you have to do is mix some common glue
+you’d find at a school supply store, which contains
+a polymer chain known as polyvinyl acetate,
+Tout ce que vous avez à faire est de mélanger de la colle courante que
+vous trouverez dans un magasin de fournitures scolaires, qui contient
+une chaîne polymère connue sous le nom d'acétate de polyvinyle,
+
+with a borax solution, which will act as the
+cross-linker for our mixture.
+avec une solution de borax, qui agira comme
+agent de réticulation pour notre mélange.
+
+And then you just combine that with some cornstarch.
+Et puis vous venez de combiner cela avec de la fécule de maïs.
+
+Stir them together, roll it around in your
+hand, and poof!
+Mélangez-les, roulez-les dans votre
+main et pouf !
+
+You got yourself a rubber ball!
+Vous vous êtes procuré une balle en caoutchouc !
+
+You can also do similar experiments to make
+a cool slime if you change up the ingredients
+and measurements a bit.
+Vous pouvez également faire des expériences similaires pour faire
+un slime cool si vous changez un peu les ingrédients
+et les mesures.
+
+Now, even though we have evidence that polymers
+were used thousands of years ago, it still took a while
+for the modern world to find the right applications.
+Aujourd'hui, même si nous avons la preuve que les polymères
+étaient utilisés il y a des milliers d'années, il a encore fallu du temps
+au monde moderne pour trouver les bonnes applications.
+
+That’s because we don’t always get things
+right the first time.
+C'est parce que nous ne faisons pas toujours les choses
+correctement du premier coup.
+
+For example, if you’ve ever played a game
+of pool or billiards, you know that the balls
+don’t usually explode.
+Par exemple, si vous avez déjà joué
+au billard ou au billard, vous savez que les boules
+n'explosent généralement pas.
+
+But that wasn’t always the case.
+Mais ce n'était pas toujours le cas.
+
+Go back to the 1870s and celluloid, a hardened
+material made from the natural polymer cellulose,
+Retournez aux années 1870 et le celluloïd, un
+matériau durci fabriqué à partir de la cellulose polymère naturelle, a
+
+was used to make billiard balls instead of
+ivory, which was what they were made from
+before that.
+été utilisé pour fabriquer des boules de billard au lieu de l'
+ivoire, qui était ce dont elles étaient faites
+auparavant.
+
+Problem was, celluloid was highly flammable, and when
+the billiard balls hit each other just right, they would
+explode on the pool table, which happened quite often.
+Le problème était que le celluloïd était hautement inflammable, et lorsque
+les boules de billard se frappaient juste, elles
+explosaient sur la table de billard, ce qui arrivait assez souvent.
+
+Today billiard balls are still made of polymers,
+just ones that are far less explosive!
+Aujourd'hui, les boules de billard sont encore faites de polymères,
+juste ceux qui sont beaucoup moins explosifs !
+
+We also tried using cheaper, more flammable,
+substitutes for silk back in the day.
+Nous avons également essayé d'utiliser des substituts de soie moins chers et plus inflammables
+à l'époque.
+
+Of course, having more flammable fabrics,
+especially for clothing, is obviously a bad thing.
+Bien sûr, avoir plus de tissus inflammables,
+notamment pour les vêtements, est évidemment une mauvaise chose.
+
+This all happened because it wasn’t until
+about the early 20th century that we had a decent
+understanding of what a polymer was.
+Tout cela s'est produit parce que ce n'est que
+vers le début du 20e siècle que nous avons eu une
+compréhension décente de ce qu'était un polymère.
+
+That’s when Hermann Staudinger, a German
+chemist, entered the picture.
+C'est alors qu'Hermann Staudinger, un
+chimiste allemand, est entré en scène.
+
+At the time, most chemists thought polymers
+were made up of small molecules bundled together
+by unknown forces.
+À l'époque, la plupart des chimistes pensaient que les polymères
+étaient constitués de petites molécules liées
+par des forces inconnues.
+
+But in 1922, Staudinger suggested that these materials were made up of larger molecules arranged in the long molecular chains that we know them to be, all bonded in a line.
+Mais en 1922, Staudinger a suggéré que ces matériaux étaient constitués de molécules plus grosses disposées dans les longues chaînes moléculaires que nous connaissons, toutes liées en ligne.
+
+His work earned him the Nobel Prize for
+Chemistry and laid the foundation for the explosion
+of the plastics industry in the 20th century.
+Ses travaux lui ont valu le prix Nobel de
+chimie et ont jeté les bases de l'explosion
+de l'industrie du plastique au XXe siècle.
+
+Scientists then began using polymers as synthetic
+substitutes, like synthetic rubber and nylon.
+Les scientifiques ont alors commencé à utiliser des polymères comme
+substituts synthétiques, comme le caoutchouc synthétique et le nylon.
+
+World War II also had a big impact on the
+polymer world.
+La Seconde Guerre mondiale a également eu un impact important sur le
+monde des polymères.
+
+Wartime restrictions on natural materials
+helped drive the polymer industry into existence,
+especially the creation of synthetic polymers.
+Les restrictions du temps de guerre sur les matériaux naturels ont
+contribué à faire naître l'industrie des polymères, en
+particulier la création de polymères synthétiques.
+
+During the war, the Allies used polymer to create large
+inflatable tanks that served as decoys on the battlefield,
+part of what was known as the “Ghost Army.”
+Pendant la guerre, les Alliés ont utilisé du polymère pour créer de grands
+réservoirs gonflables qui servaient de leurres sur le champ de bataille,
+faisant partie de ce qu'on appelait «l'armée fantôme».
+
+These fake tanks tricked enemies into
+thinking Allied forces had far more strength
+than they actually did,
+Ces faux chars ont trompé les ennemis en leur faisant
+croire que les forces alliées avaient beaucoup plus de force
+qu'elles n'en avaient en réalité,
+
+or that there was a giant army in an area
+where there weren’t really any soldiers at all.
+ou qu'il y avait une armée géante dans une zone
+où il n'y avait pas vraiment de soldats du tout.
+
+The Ghost Army reportedly saved thousands
+of lives – I’d call that a win for polymers!
+L'armée fantôme aurait sauvé des milliers
+de vies - j'appellerais cela une victoire pour les polymères !
+
+And a win for us engineers, because they set
+us up for the world of polymers that we have today.
+Et une victoire pour nous, les ingénieurs, car ils
+nous ont préparés pour le monde des polymères que nous avons aujourd'hui.
+
+It’s this world that’s helped us keep
+firefighters safe, using polymers to design better
+gas masks and other parts of their gear.
+C'est ce monde qui nous a aidés à
+assurer la sécurité des pompiers, en utilisant des polymères pour concevoir de meilleurs
+masques à gaz et d'autres pièces de leur équipement.
+
+Just like with other materials, some kinds
+of polymers get used more than others.
+Tout comme avec d'autres matériaux, certains types
+de polymères sont plus utilisés que d'autres.
+
+The ones that you’ll most likely come across
+are polyethylene, or PE, polyvinyl chloride, or
+PVC, and polyethylene terephthalate, or PET.
+Ceux que vous rencontrerez très probablement
+sont le polyéthylène, ou PE, le polychlorure de vinyle, ou
+PVC, et le polyéthylène téréphtalate, ou PET.
+
+Polyethylene is the most common plastic in
+use today.
+Le polyéthylène est le plastique le plus couramment
+utilisé aujourd'hui.
+
+It’s primarily found in packaging materials,
+like plastic bags and bottles.
+On le trouve principalement dans les matériaux d'emballage,
+comme les sacs et les bouteilles en plastique.
+
+Polyvinyl chloride comes in two main forms:
+rigid and flexible.
+Le chlorure de polyvinyle se présente sous deux formes principales :
+rigide et flexible.
+
+Rigid forms of PVC are often used in buildings
+and construction for things like plastic pipes
+and the frames for windows and doors.
+Les formes rigides de PVC sont souvent utilisées dans les bâtiments
+et la construction pour des choses comme les tuyaux en plastique
+et les cadres de fenêtres et de portes.
+
+They need to be strong, not just for daily
+use, but to hold up for as long as possible
+in a disastrous event like a fire.
+Ils doivent être solides, non seulement pour un
+usage quotidien, mais aussi pour résister le plus longtemps possible
+à un événement désastreux comme un incendie.
+
+PVC can also be made softer and more bendable
+by adding in a plasticizer, which can help it be more
+flexible or make it less thick and viscous.
+Le PVC peut également être rendu plus souple et plus pliable
+en ajoutant un plastifiant, ce qui peut l'aider à être plus
+flexible ou le rendre moins épais et moins visqueux.
+
+You’ll find flexible PVC in imitation leather,
+flooring, and inflatable products.
+Vous trouverez du PVC souple dans les similicuirs, les
+revêtements de sol et les produits gonflables.
+
+Polyethylene terephthalate is a bit different.
+Le polyéthylène téréphtalate est un peu différent.
+
+It’s spun into fibers and used for clothing,
+as well as other things like photographic
+film and magnetic recording tape.
+Il est filé en fibres et utilisé pour les vêtements
+, ainsi que d'autres choses comme les
+films photographiques et les bandes d'enregistrement magnétiques.
+
+These are some of the more common ones, but
+there are a bunch of other unique polymers too!
+Ce sont quelques-uns des plus courants, mais
+il existe aussi un tas d'autres polymères uniques !
+
+There’s nylon, which is a tough, lightweight,
+and elastic polymer, and kevlar, a strong
+fiber with bullet-stopping power.
+Il y a le nylon, qui est un polymère résistant, léger
+et élastique, et le kevlar, une
+fibre solide avec un pouvoir pare-balles.
+
+We also have teflon, which is highly water
+resistant and one of the slipperiest solids.
+Nous avons également du téflon, qui est très
+résistant à l'eau et l'un des solides les plus glissants.
+
+And interestingly enough, if you add a very small
+concentration of a polymer to a moving fluid, the
+friction within the fluid can decrease by up to 80%.
+Et curieusement, si vous ajoutez une très petite
+concentration d'un polymère à un fluide en mouvement, la
+friction dans le fluide peut diminuer jusqu'à 80 %.
+
+That’s called polymeric drag reduction.
+C'est ce qu'on appelle la réduction de la traînée polymère.
+
+The end result is a fluid that can flow even
+faster with the same pressure behind it.
+Le résultat final est un fluide qui peut s'écouler encore
+plus rapidement avec la même pression derrière lui.
+
+Which is really important if your fire hose
+can only safely reach the 10th floor and you
+have a fire on the 12th.
+Ce qui est vraiment important si votre tuyau d'incendie
+ne peut atteindre en toute sécurité que le 10e étage et que vous
+avez un incendie au 12e.
+
+So now we have a way to solve our problem!
+Nous avons donc maintenant un moyen de résoudre notre problème !
+
+Add in a small concentration of polymeric
+material and voila, the water can now reach
+the 12th floor and put out the fire!
+Ajoutez une petite concentration de
+matériau polymère et le tour est joué, l'eau peut maintenant atteindre
+le 12e étage et éteindre le feu !
+
+Now, in reality, this probably wouldn’t
+be the way to go.
+Maintenant, en réalité, ce ne serait probablement
+pas la voie à suivre.
+
+It can be dangerous for firefighters to try
+and reach tall fires from the outside.
+Il peut être dangereux pour les pompiers d'essayer
+d'atteindre de grands feux de l'extérieur.
+
+And with one as high up as this, they’d likely
+try to find a different solution, like trying to
+attach a hose to an adjacent building.
+Et avec un aussi haut que celui-ci, ils essaieraient probablement
+de trouver une solution différente, comme essayer de
+fixer un tuyau à un bâtiment adjacent.
+
+But as a thought exercise, it’s a great
+way to see some of the more innovative uses
+of polymers and what they can do.
+Mais en tant qu'exercice de réflexion, c'est un excellent
+moyen de voir certaines des utilisations les plus innovantes
+des polymères et ce qu'ils peuvent faire.
+
+Today we learned all about the third main
+type of material that you’ll encounter as an
+engineer: polymers.
+Aujourd'hui, nous avons tout appris sur le troisième
+type de matériau principal que vous rencontrerez en tant
+qu'ingénieur : les polymères.
+
+We found out that they’re made of long,
+repeating chains of smaller molecules known
+as monomers.
+Nous avons découvert qu'ils sont constitués de longues
+chaînes répétées de molécules plus petites
+appelées monomères.
+
+Then we saw the strange history of polymers
+and what led to how we use them today.
+Ensuite, nous avons vu l'étrange histoire des polymères
+et ce qui a conduit à la façon dont nous les utilisons aujourd'hui.
+
+Finally, we went over some of the more common
+polymers and how the special properties of
+polymers could help us in a dangerous situation.
+Enfin, nous avons passé en revue certains des polymères les plus courants
+et comment les propriétés particulières des
+polymères pourraient nous aider dans une situation dangereuse.
+
+I’ll see you next time, when we’ll talk
+about electrical engineering materials.
+Je vous verrai la prochaine fois, quand nous parlerons
+de matériaux électrotechniques.
+
+Crash Course Engineering is produced in association
+with PBS Digital Studios.
+Crash Course Engineering est produit en association
+avec PBS Digital Studios.
+
+And, if you’re interested what's going on
+with our climate, check out Hot Mess,
+Et, si vous êtes intéressé par ce qui se passe
+avec notre climat, consultez Hot Mess,
+
+which explores climate science, the effects of
+climate change, and how we can create a better
+future for our planet and ourselves.
+qui explore la science du climat, les effets du
+changement climatique et comment nous pouvons créer un
+avenir meilleur pour notre planète et nous-mêmes.
+
+Crash Course is a Complexly production and this
+episode was filmed in the Doctor Cheryl C. Kinney
+Studio with the help of these wonderful people.
+Crash Course est une production de Complexly et cet
+épisode a été filmé dans le studio du docteur Cheryl C. Kinney
+avec l'aide de ces personnes merveilleuses.
+
+And our amazing graphics team is Thought Cafe.
+Et notre incroyable équipe graphique est Thought Cafe.
+

@@ -1,0 +1,617 @@
+There are some of you out there, taking chemistry,
+Certains d'entre vous étudient la chimie
+
+and feeling a little bit like there's an international body whose job is simply to make your life more difficult,
+et ont un peu l'impression qu'il existe un organisme international dont le travail consiste simplement à vous rendre la vie plus difficile,
+
+to force you to cram tons of information into
+your head,
+à vous forcer à vous fourrer des tonnes d'informations dans
+la tête,
+
+to suck all the wonder and excitement out
+of learning about how the world works
+à aspirer toutes les merveilles et  l'excitation
+d'apprendre comment le monde fonctionne
+
+at this beautiful, fundamental level of chemicals.
+à ce magnifique niveau fondamental de produits chimiques.
+
+You are not actually imagining this.
+That organization actually exists.
+Vous n'êtes pas en train d'imaginer cela.
+Cette organisation existe réellement.
+
+It's called the International Union of Pure
+and Applied Chemists or IUPAC,
+Cela s'appelle l'Union internationale de chimie pure
+et appliquée ou IUPAC,
+
+and really, they’re looking out for your
+best interests,
+et vraiment, ils veillent à vos
+meilleurs intérêts,
+
+in just the same way that my mom was looking
+out for my best interests
+de la même manière que ma mère veillait
+à mes meilleurs intérêts
+
+when she said that I couldn’t go to the
+“Violent Femmes” concert with Megan Cross.
+quand elle a dit que je ne pouvais pas y aller  au
+concert « Violent Femmes » avec Megan Cross.
+
+And yeah, I hated my mom for, like, a full year after that but she was right, that girl was trouble.
+Et oui, j'ai détesté ma mère pendant environ un an après ça, mais elle avait raison, cette fille était un problème.
+
+So yes, you are allowed to hate IUPAC for
+changing the name of ‘cinnamaldehyde’,
+Alors oui, vous avez le droit de détester l'IUPAC pour avoir
+changé le nom de "cinnamaldéhyde",
+
+the aldehyde that makes cinnamon smell like
+cinnamon to ‘trans-3-phenylprop-2-enal’.
+l'aldéhyde qui donne à la cannelle une odeur de
+cannelle en "trans-3-phénylprop-2-énal".
+
+Yes, they’re sucking all the fun out of the world, but trust me when I say, they’re doing it for your own good.
+Oui, ils aspirent tout le plaisir du monde, mais croyez-moi quand je dis, ils le font pour votre bien.
+
+[Theme Music]
+[Theme Music]
+
+‘Cinnamaldehyde’ is a lovely name for
+a lovely aldehyde,
+"Cinnamaldehyde" est un joli nom pour
+un bel aldéhyde,
+
+just like ‘cadaverine’ is a creative name
+for a rancid-smelling amine.
+tout comme "cadaverine" est un nom créatif
+pour une amine à l'odeur rance.
+
+‘Citronellol’, ‘angelic acid’, ‘vanillin’,
+they’re beautiful names,
+« Citronellol », « acide angélique », « vanilline »,
+ce sont de beaux noms,
+
+but there are tens of thousands of regularly
+used organic compounds,
+mais il existe des dizaines de milliers de
+composés organiques régulièrement utilisés,
+
+and we can’t come up with pretty names for
+all of them.
+et nous ne pouvons pas trouver de jolis noms pour
+tous.
+
+More important than that, though, there’s
+no way to
+Plus important que cela, cependant, il n'y a
+aucun moyen de
+
+translate those names into chemical formulas
+and IUPAC hates that.
+traduire ces noms en formules chimiques
+et l'IUPAC déteste cela.
+
+They’re like, “Cinnamaldehyde, yeah, sure,
+gives cinnamon its lovely smell,
+Ils sont comme, « Le cinnamaldéhyde, oui, bien sûr,
+donne à la cannelle son odeur agréable,
+
+but we think ‘trans-3-phenylprop-2-enal’
+is way better of a name!”
+mais nous pensons que « trans-3-phénylprop-2-énal »
+est bien mieux comme nom !
+
+And it actually is, because if I say ’trans-3-phenylprop-2-enal’
+to somebody properly educated,
+Et c'est effectivement le cas, parce que si je dis "trans-3-phénylprop-2-énal"
+à quelqu'un qui a reçu une bonne éducation,
+
+they can just write down the chemical structure
+without even thinking about it.
+il peut simplement écrire la structure chimique
+sans même y penser.
+
+And that’s, like, almost a kind of magic, where words go from relating to reality as we experience it
+Et c'est, comme, presque une sorte de magie, où les mots vont de la relation à la réalité telle que nous la vivons
+
+(this chemical comes from cinnamon so name
+it after cinnamon)
+(ce produit chimique vient de la cannelle, alors nommez-
+le d'après la cannelle)
+
+to relating to the actual physical reality of the universe, and that’s a magic worth knowing.
+à la relation à la réalité physique réelle de l'univers, et c'est une valeur magique  connaissance. 
+
+IUPAC created a language that could be understood
+by everyone with minimal,
+L'IUPAC a créé un langage qui peut être compris
+par tout le monde avec un minimum,
+
+even zero misinterpretation and that’s no
+easy feat.
+voire zéro erreur d'interprétation et ce n'est pas une
+mince affaire.
+
+That’s why, as we’ve discussed organic
+chemistry,
+C'est pourquoi, comme nous avons discuté de la
+chimie organique,
+
+when we start counting carbons, we make sure
+that the first thing named on the molecule
+lorsque nous commençons à compter les carbones, nous nous assurons
+que la première chose nommée sur la molécule
+
+is the lowest possible carbon,
+est le carbone le plus bas possible,
+
+not because there’s something special about lower numbers but because they had to make a rule,
+non pas parce qu'il y a quelque chose de spécial dans les nombres inférieurs, mais parce qu'ils ont dû établir une règle  ,
+
+otherwise one chemical could be named two
+different ways.
+sinon un produit chimique pourrait être nommé de deux
+manières différentes.
+
+Let’s go through the process of naming a
+chemical, it’s a multi-step process.
+Passons en revue le processus de dénomination d'un
+produit chimique, c'est un processus en plusieurs étapes.
+
+Step 1: how long is the carbon chain?
+Étape 1 : quelle est la longueur de la chaîne carbonée ?
+
+Five carbons will have ‘pent-’, seven
+‘sept-’, three ‘prop-’, one ‘meth-’
+Cinq carbones auront "pent-", sept
+"sept-", trois "prop-", un "meth-".
+
+Don’t feel weird if you have to look these
+up.
+Ne vous sentez pas bizarre si vous devez les
+rechercher.
+
+I, for example, had no idea that a twenty-three
+carbon atom chain had the prefix ‘tricosa-’,
+Moi, par exemple, je n'avais aucune idée qu'une chaîne de vingt-trois
+atomes de carbone avait le préfixe "tricosa-",
+
+until I looked it up just now.
+jusqu'à ce que je le regarde tout à l'heure.
+
+The only tricky thing here is to make sure
+you find the longest carbon chain.
+La seule chose délicate ici est de s'assurer que
+vous trouvez la plus longue chaîne de carbone.
+
+Sometimes, a hexane can look like a pentane
+with an ethane sticking off of it.
+Parfois, un hexane peut ressembler à un pentane
+avec un éthane qui en sort.
+
+So now that you know your longest carbon chain, you’ve got your prefix, time to figure out the suffix.
+Alors maintenant que vous connaissez votre chaîne de carbone la plus longue, vous avez votre préfixe, il est temps de trouver le suffixe.
+
+If there’s nothing but hydrogen and carbon,
+S'il n'y a rien d'autre que de l'hydrogène et du carbone,
+
+your suffix just depends on whether you have
+any double bonds or triple bonds;
+votre suffixe dépend simplement du fait que vous ayez
+des doubles ou des triples liaisons ;
+
+you know these, propane, propene, propyne.
+vous les connaissez, propane, propène, propyne.
+
+Then there are a ton of other groups that
+can change the suffix.
+Ensuite, il y a une tonne d'autres groupes qui
+peuvent changer le suffixe.
+
+Like last week we talked about alcohols and
+aldehydes and ketones,
+Comme la semaine dernière, nous avons parlé des alcools, des
+aldéhydes et des cétones,
+
+but we didn’t talk about how they affect
+nomenclature and boy do they.
+mais nous n'avons pas parlé de la façon dont ils affectent la
+nomenclature et ils le font.
+
+When working with functional groups, each one adds a particular suffix to the end of the name of a compound.
+Lorsque vous travaillez avec des groupes fonctionnels, chacun ajoute un suffixe particulier à la fin du nom d'un composé.
+
+Usually, these are pretty easy to remember because they come straight off the name of the functional group.
+Habituellement, ceux-ci sont assez faciles à retenir car ils viennent directement du nom du groupe fonctionnel.
+
+Alcohols add an ‘-ol’, so for methane
+you drop the ‘e’ and you get methanol;
+Les alcools ajoutent un "-ol", donc pour le méthane,
+vous laissez tomber le "e" et vous obtenez du méthanol ;
+
+ethane, you get ethanol.
+éthane, vous obtenez de l'éthanol.
+
+Aldehydes, instead of ‘-ol’ you add ‘-al’,
+so from ethane you get ethanal.
+Aldéhydes, au lieu de "-ol", vous ajoutez "-al",
+donc à partir de l'éthane, vous obtenez de l'éthanal.
+
+Ketones, add '-one', so a ketone of a hexane
+would be hexanone,
+Les cétones, ajoutez "-un", donc une cétone d'un hexane
+serait l'hexanone,
+
+and amines, you just add '-amine' to the end
+so methenamine or propanamine. Super easy.
+et les amines, vous ajoutez simplement "-amine" à la fin,
+donc la méthénamine ou la propanamine.  Super facile.
+
+For caboxylic acids, you have to identify
+it's an acid, so you end in acid, that's obvious,
+Pour les acides carboxyliques, vous devez identifier
+qu'il s'agit d'un acide, donc vous vous retrouvez en acide, c'est évident,
+
+but instead of adding '-ylic' you add '-oic'.
+mais au lieu d'ajouter '-ylic', vous ajoutez '-oic'.
+
+As far as I can tell, this is just because ethanoic acid is much more fun to say than ethanylic acid.
+Autant que je sache, c'est simplement parce que l'acide éthanoïque est beaucoup plus amusant à dire que l'acide éthanylique.
+
+Going over that again: alcohol, on an ethane,
+is ethanol, aldehydes add '-al' giving ethanal,
+Pour en revenir à cela : l'alcool, sur un éthane,
+est de l'éthanol, les aldéhydes ajoutent "-al" donnant de l'éthanal, les
+
+ketones add '-one' pronounced 'eth/an/own',
+amines, add amine for ethanamine,
+cétones ajoutent "-un" prononcé "eth/an/own", les
+amines, ajoutent une amine pour l'éthanamine,
+
+and carboxylic acid, on an ethane, is ethanoic
+acid.
+et l'acide carboxylique, sur  un éthane, est l'
+acide éthanoïque.
+
+And of course, there are literally dozens of other named functional groups that will change the suffix.
+Et bien sûr, il existe littéralement des dizaines d'autres groupes fonctionnels nommés qui modifieront le suffixe.
+
+It's terrible, that's why they're on Wikipedia.
+C'est terrible, c'est pourquoi ils sont sur Wikipédia.
+
+So if you got a functional group, there's
+a name that defines the suffix of the molecule,
+Donc, si vous avez un groupe fonctionnel, il y a
+un nom qui définit le suffixe de la molécule,
+
+and that is called the parent functional group.
+et qui s'appelle le groupe fonctionnel parent.
+
+Now it is perfectly possible that a molecule
+will have two different functional groups,
+Maintenant, il est parfaitement possible qu'une
+molécule ait deux groupes fonctionnels différents,
+
+so how do we know which one is the parent?
+Which one defines the suffix?
+alors comment savoir lequel est le parent ?
+Lequel définit le suffixe ?
+
+Well, different groups have different precedence.
+Eh bien, différents groupes ont une priorité différente.
+
+The most weighted of all is the carboxylic
+acid functional group,
+Le plus pondéré de tous est le
+groupe fonctionnel acide carboxylique,
+
+so no matter what else is on a six carbon chain, if there's a carboxylic acid, then it's a hexanoic acid.
+donc peu importe ce qui se trouve sur une chaîne à six carbones, s'il y a un acide carboxylique, alors c'est un acide hexanoïque.
+
+That precedence is decided by a list that
+was, you guessed it,
+Cette priorité est décidée par une liste qui a
+été, vous l'avez deviné,
+
+created by IUPAC to minimize confusion by
+creating yet more rules.
+créée par l'IUPAC pour minimiser la confusion en
+créant encore plus de règles.
+
+The list is linked in the description.
+La liste est liée dans la description.
+
+OK, so now we have created our base name for
+the molecule;
+OK, nous avons donc maintenant créé notre nom de base pour
+la molécule ;
+
+it's time to start looking at what else is
+attached to it.
+il est temps de commencer à regarder ce qui s'y
+rattache d'autre.
+
+Any side chains or functional groups sticking
+off the side have to be identified and named.
+Toutes les chaînes latérales ou groupes fonctionnels qui
+dépassent du côté doivent être identifiés et nommés.
+
+If it's a six carbon chain with a carboxylic acid on it and an alcohol on one of the other carbons,
+S'il s'agit d'une chaîne à six carbones avec un acide carboxylique dessus et un alcool sur l'un des autres carbones,
+
+our name has to do two things: identify that the hydroxyl group is there and identify where it is.
+notre nom doit faire deux choses : identifier que le groupe hydroxyle est là et identifier où il se trouve.
+
+If it's got a double bond, we likewise have to identify that it is there and where it is, all with our words.
+S'il y a une double liaison, nous devons également identifier qu'il est là et où il se trouve, le tout avec nos mots.
+
+Use your words! Also, use your numbers.
+Utilisez vos mots !  Utilisez également vos chiffres.
+
+Counting out carbons can be a little confusing
+but try it both ways, in both directions,
+Compter les carbones peut être un peu déroutant,
+mais essayez dans les deux sens, dans les deux sens,
+
+to make sure that you get the lowest possible
+number on the group that defines your suffix.
+pour vous assurer que vous obtenez le
+nombre le plus bas possible sur le groupe qui définit votre suffixe.
+
+All right, enough of the talking, let's try
+to do some actual examples here.
+Très bien, assez parlé, essayons
+de faire quelques exemples réels ici.
+
+I mentioned earlier angelic acid.
+J'ai mentionné plus tôt l'acide angélique.
+
+It's not actually particularly angelic, it was just named after a flower it was derived from.
+Ce n'est pas vraiment angélique, il a juste été nommé d'après une fleur dont il est dérivé.
+
+But it's actually found all over the place
+in nature,
+Mais on le trouve en fait partout dans la
+nature,
+
+so 'angelic acid' tells us pretty much nothing
+about the molecule, except that it's acidic.
+donc «l'acide angélique» ne nous dit à peu près rien
+sur la molécule, sauf qu'elle est acide.
+
+So in order to figure out the structure I
+have to look it up.
+Donc, pour comprendre la structure, je
+dois la rechercher.
+
+That's no fun, but here it is.
+Let's figure out a better name for it.
+Ce n'est pas drôle, mais voilà.
+Trouvons un meilleur nom pour cela.
+
+Count up the carbons, 1-2-3 if you count that chain, 1-2-3-4 if you count this one so it's a butane derivative.
+Comptez les carbones, 1-2-3 si vous comptez cette chaîne, 1-2-3-4 si vous comptez celle-ci donc c'est un dérivé du butane.
+
+Actually it's a butene derivative because
+it has that double bond.
+En fait, c'est un dérivé du butène car
+il possède cette double liaison.
+
+It's also got the carboxylic acid though,
+so let's go ahead and call it butenoic acid.
+Il contient également de l'acide carboxylique,
+alors allons-y et appelons-le acide buténoïque.
+
+Except that there's a methyl group sticking
+off so it's methylbutanoic acid.
+Sauf qu'il y a un groupe méthyle qui
+dépasse donc c'est de l'acide méthylbutanoïque.
+
+Of course, with that name, without any numbers, no one has any idea where anything is on the chain,
+Bien sûr, avec ce nom, sans aucun numéro, personne ne sait où se trouve quoi que ce soit sur la chaîne,
+
+so, time to number.
+donc, il est temps de numéroter.
+
+From this direction, 1-2-3-4
+we get 3-methylbut-2-en-4-oic acid,
+which is obviously wrong.
+De cette direction, 1-2-3-4,
+nous obtenons l'acide 3-méthylbut-2-ène-4-oïque,
+ce qui est évidemment faux.
+
+Mostly because that parent functional group, the one that defines the suffix, is supposed to be as low as possible
+Principalement parce que ce groupe fonctionnel parent, celui qui définit le suffixe, est censé être aussi bas que possible
+
+and in fact it is as high as possible, so
+that can't be right.
+et en fait il est aussi haut que possible, donc
+ça ne peut pas être vrai.
+
+Also it just sounds terrible.
+Aussi ça sonne juste terrible.
+
+Numbering the other way, 1-2-3-4, the carboxylic
+acid is on carbon 1 (that's pretty ideal).
+En numérotant dans l'autre sens, 1-2-3-4, l'
+acide carboxylique est sur le carbone 1 (c'est assez idéal).
+
+The double bond and the methyl group are both
+on the second carbon, much better,
+La double liaison et le groupe méthyle sont tous deux
+sur le deuxième carbone, bien mieux,
+
+and thus it is named 2-methylbut-2-enoic acid.
+et c'est ainsi qu'il est nommé acide 2-méthylbut-2-énoïque.
+
+Two important notes here, if the parent functional group is on carbon one we just leave the number off.
+Deux remarques importantes ici, si le groupe fonctionnel parent est sur le carbone un, nous laissons simplement le nombre de côté.
+
+And two, there's a double bond in this molecule and we haven't identified whether it's cis or trans,
+Et deuxièmement, il y a une double liaison dans cette molécule et nous n'avons pas identifié si c'est cis ou trans,
+
+and we can't do that so we haven't actually
+completely named it.
+et nous ne pouvons pas le faire donc nous ne l'avons pas
+complètement nommée.
+
+We should stick a cis in front of the name because the carbon chain continues on the same side,
+Nous devrions coller un cis devant le nom car la chaîne carbonée continue du même côté, et
+
+not the opposite side as it would be in the
+trans form.
+non du côté opposé comme elle le serait sous la
+forme trans.
+
+Of course, it works both ways, that's the
+beauty of it,
+Bien sûr, cela fonctionne dans les deux sens, c'est la
+beauté de la chose,
+
+you can build a name from a molecule and a
+molecule from a name.
+vous pouvez construire un nom à partir d'une molécule et une
+molécule à partir d'un nom.
+
+Earlier, I told you that cinnamaldehyde was
+trans 3-phenylprop-2-enal.
+Plus tôt, je vous ai dit que le cinnamaldéhyde était du
+trans 3-phénylprop-2-énal.
+
+Can you build it? Well, start with the three carbon chain, because of that prop, and count out the carbons, 1-2-3.
+Pouvez-vous le construire?  Eh bien, commencez par la chaîne à trois carbones, à cause de cet accessoire, et comptez les carbones, 1-2-3.
+
+We know, because it's prop-2-enal with that
+'e'
+Nous savons, parce que c'est prop-2-enal avec ce
+'e'
+
+there's a double bond from the second to third
+carbon and we know it's trans.
+qu'il y a une double liaison du deuxième au troisième
+carbone et nous savons que c'est trans.
+
+We also know that there's a phenyl group on
+the third carbon.
+Nous savons aussi qu'il y a un groupe phényle sur
+le troisième carbone.
+
+The word ends in a non-numbered '-al', so finally we can stick an aldehyde on carbon number one,
+Le mot se termine par un "-al" non numéroté, donc finalement nous pouvons coller un aldéhyde sur le carbone numéro un,
+
+and yeah, that was actually pretty easy!
+et oui, c'était en fait assez facile !
+
+Now look, IUPAC does it's best but past a
+certain point of complexity,
+Maintenant, regardez, l'IUPAC fait de son mieux, mais passé un
+certain point de complexité,
+
+no one expects anyone to know all this by heart unless you work for them and name compounds for a living.
+personne ne s'attend à ce que quelqu'un sache tout cela par cœur à moins que vous ne travailliez pour eux et que vous nommiez des composés pour gagner leur vie.
+
+That's why we have the internet and textbooks
+and libraries to go look things up.
+C'est pourquoi nous avons Internet, des manuels
+et des bibliothèques pour faire des recherches.
+
+Because I'm a dork, I actually find these things to be kinda delightful puzzles and they're often super fun for me,
+Parce que je suis un abruti, je trouve en fait que ces choses sont des énigmes plutôt délicieuses et elles sont souvent super amusantes pour moi,
+
+but taken one or two steps beyond the level
+of complexity we have here,
+mais en faisant un ou deux pas au-delà du niveau
+de complexité que nous avons ici,
+
+my personal viewpoint is that you're better off looking it up than memorizing the novel-sized list of
+mon point de vue personnel est que vous êtes  mieux vaut le rechercher que de mémoriser la liste de taille roman des
+
+functional groups, names, precedence lists,
+prefixes and suffixes.
+groupes fonctionnels, des noms, des listes de priorité, des
+préfixes et des suffixes.
+
+As long as you can recognize why trans 3-phenylprop-2-enal
+is in fact a superior name to cinnamaldehyde,
+Tant que vous pouvez reconnaître pourquoi le trans 3-phénylprop-2-énal
+est en fait un nom supérieur au cinnamaldéhyde,
+
+and no, I am not going to do the cinnamon
+challenge. Ever.
+et non, je ne vais pas
+relever le défi de la cannelle.  Jamais. 
+
+Thank you for watching this episode of Crash
+Course Chemistry,
+Merci d'avoir regardé cet épisode de Crash
+Course Chemistry,
+
+if you were paying attention you learned that
+IUPAC is
+si vous étiez attentif, vous avez appris que l'
+IUPAC est
+
+the international organization responsible
+for your unhappiness,
+l'organisation internationale responsable
+de votre malheur,
+
+and that their goal is to create a system
+where
+et que leur objectif est de créer un système
+où
+
+every organic compound has one and only one
+name to prevent confusion.
+chaque composé organique a un et un seul
+nom pour prévenir  confusion. 
+
+They do this by giving prefixes to compounds
+for the number of carbons in a chain,
+Ils le font en donnant des préfixes aux composés
+pour le nombre de carbones dans une chaîne, des
+
+suffixes based on parent functional groups, and ranking functional groups somewhat arbitrarily for precedence.
+suffixes basés sur les groupes fonctionnels parents et en classant les groupes fonctionnels de manière quelque peu arbitraire par ordre de priorité.
+
+You also learned that you have to number your
+carbon chains,
+Vous avez également appris que vous devez numéroter vos
+chaînes carbonées, de
+
+so that your parent functional group has the
+lowest possible number,
+sorte que votre groupe fonctionnel parent ait le
+plus petit nombre possible,
+
+and that double bonds require you to label
+the molecule as either cis or trans,
+et que les doubles liaisons vous obligent à étiqueter
+la molécule comme cis ou trans,
+
+and hopefully, you learned that this is a
+kind of word magic worth learning.
+et j'espère que vous avez appris qu'il s'agit d'une
+sorte  de la magie des mots vaut la peine d'être apprise.
+
+This episode was written by me, Hank Green,
+and edited by Blake de Pastino.
+Cet épisode a été écrit par moi, Hank Green,
+et édité par Blake de Pastino.
+
+Our Chemistry consultant is Dr Heiko Langner, it was filmed, edited, and directed by Nicholas Jenkins.
+Notre consultant en chimie est le Dr Heiko Langner, il a été filmé, monté et réalisé par Nicholas Jenkins.
+
+Our script supervisor was Caitlin Hofmeister,
+our sound designer is Michael Aranda,
+Notre superviseur du scénario était Caitlin Hofmeister,
+notre concepteur sonore est Michael Aranda
+
+and our graphics team was Thought Cafe.
+et notre équipe graphique était Thought Cafe.
+

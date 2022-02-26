@@ -1,0 +1,563 @@
+You can review content from Crash Course Organic Chemistry with the Crash Course app, available now for Android and iOS devices.
+Vous pouvez consulter le contenu de Crash Course Organic Chemistry avec l'application Crash Course, disponible dès maintenant pour les appareils Android et iOS.
+
+Hi!
+Salut! 
+
+I’m Deboki Chakravarti and welcome back to Crash Course Organic Chemistry!
+Je m'appelle Deboki Chakravarti et je vous souhaite la bienvenue au cours intensif de chimie organique !
+
+In 1990, while trying to detect life on Mars, the American Engineer Dr. Gilbert Levin wondered if Martian life would eat the same food as life on Earth.
+En 1990, alors qu'il tentait de détecter la vie sur Mars, l'ingénieur américain Dr. Gilbert Levin s'est demandé si la vie martienne mangerait la même nourriture que la vie sur Terre.
+
+So in the samples he sent to Mars on the Viking lander, he included some D-glucose, a “right-handed” sugar that most life on Earth uses for energy.
+Ainsi, dans les échantillons qu'il a envoyés sur Mars sur l'atterrisseur Viking, il a inclus du D-glucose, un sucre "droitier" que la plupart des êtres vivants sur Terre utilisent pour l'énergie.
+
+But he also sent some of the “left-handed” version of that compound, L-glucose, in case Martians preferred the opposite food.
+Mais il a également envoyé une partie de la version « gaucher » de ce composé, le L-glucose, au cas où les Martiens préféreraient la nourriture opposée.
+
+By the way, because the IUPAC nomenclature for right-handed and left-handed glucose is really a mouthful, we’re going to just use their common names here!
+Au fait, parce que la nomenclature IUPAC pour le glucose droitier et gaucher est vraiment une bouchée, nous allons juste utiliser leurs noms communs ici !
+
+When Dr. Levin was getting his samples ready, he found that the taste of L-glucose was the same as D-glucose.
+Lorsque le Dr Levin préparait ses échantillons, il a découvert que le goût du L-glucose était le même que celui du D-glucose.
+
+And he found that humans can’t digest L-glucose because our enzymes don’t recognize it.
+Et il a découvert que les humains ne peuvent pas digérer le L-glucose parce que nos enzymes ne le reconnaissent pas.
+
+If we can’t digest L-glucose, that means it won’t be converted into energy or stored as fat.
+Si nous ne pouvons pas digérer le L-glucose, cela signifie qu'il ne sera pas converti en énergie ou stocké sous forme de graisse.
+
+So, theoretically, we could eat as much of this sweet molecule as we wanted.
+Donc, théoriquement, nous pourrions manger autant de cette molécule sucrée que nous le voulions.
+
+Dr. Levin thought he stumbled upon a sweet surprise that was better than any sugar substitute that already existed, with a less artificial taste.
+Le Dr Levin pensait être tombé sur une surprise sucrée meilleure que n'importe quel substitut de sucre qui existait déjà, avec un goût moins artificiel.
+
+But it turns out that it’s just too dang expensive to make L-glucose, so this sugar substitute unfortunately never made it to market.
+Mais il s'avère qu'il est tout simplement trop cher de fabriquer du L-glucose, donc ce substitut de sucre n'a malheureusement jamais été commercialisé.
+
+This story reinforces what we’ve been saying about how structure affects what chemicals can do:
+Cette histoire renforce ce que nous avons dit sur la façon dont la structure affecte ce que les produits chimiques peuvent faire :
+
+the right-handed version of glucose provides energy while the left-handed version gets ignored by our bodies.
+la version droite du glucose fournit de l'énergie tandis que la version gauche est ignorée par notre corps.
+
+It’s all because of tiny geometric differences, and specifically stereochemistry.
+Tout cela à cause de minuscules différences géométriques, et plus particulièrement de la stéréochimie.
+
+[Theme Music]
+[Thème musical] La
+
+Biology, chemistry, and biochemistry have all established that the shape of molecules is important to life as we know it.
+biologie, la chimie et la biochimie ont toutes établi que la forme des molécules est importante pour la vie telle que nous la connaissons.
+
+And in this series, we’ve learned the term isomer to describe molecules that have the same parts as each other with small differences.
+Et dans cette série, nous avons appris le terme isomère pour décrire des molécules qui ont les mêmes parties les unes que les autres avec de petites différences.
+
+Two constitutional isomers have the same molecular formula, but the atoms are connected in different ways.
+Deux isomères constitutionnels ont la même formule moléculaire, mais les atomes sont connectés de différentes manières.
+
+And the geometric isomers we’ve talked about are in molecules with double bonds, because the attached groups can be arranged differently around the bond.
+Et les isomères géométriques dont nous avons parlé se trouvent dans des molécules avec des doubles liaisons, car les groupes attachés peuvent être disposés différemment autour de la liaison.
+
+If they’re on the same side, we call it the cis isomer.
+S'ils sont du même côté, nous l'appelons l'isomère cis.
+
+Or if they’re on the opposite sides, it’s the trans isomer.
+Ou s'ils sont sur les côtés opposés, c'est l'isomère trans.
+
+A geometric isomer is just one kind of stereoisomer.
+Un isomère géométrique n'est qu'un type de stéréoisomère.
+
+Stereoisomers have the same atoms connected in the same bond, but they differ in the spatial relationships between those atoms.
+Les stéréoisomères ont les mêmes atomes connectés dans la même liaison, mais ils diffèrent dans les relations spatiales entre ces atomes.
+
+Something that isn’t a stereoisomer is two identical pairs of sunglasses.
+Ce qui n'est pas un stéréoisomère, ce sont deux paires de lunettes de soleil identiques.
+
+I can set them across from each other so they’re mirror images.
+Je peux les placer l'un en face de l'autre pour qu'ils soient des images miroir.
+
+Then, I can pick up one pair and turn it around so they would melt into each other, if they could.
+Ensuite, je peux en prendre une paire et la retourner pour qu'elles se fondent l'une dans l'autre, si elles le pouvaient.
+
+That means they’re superimposable and have the same spatial relationship.
+Cela signifie qu'ils sont superposables et ont la même relation spatiale.
+
+If I took out one lens on each pair, they’re still mirror images.
+Si je retire un objectif sur chaque paire, ce sont toujours des images miroir.
+
+But no matter how I flip them around, the dark lenses won’t line up, so they’re non-superimposable mirror images.
+Mais peu importe comment je les retourne, les lentilles sombres ne s'alignent pas, ce sont donc des images miroir non superposables.
+
+You don’t even need cheap sunglasses to see this!
+Vous n'avez même pas besoin de lunettes de soleil bon marché pour voir ça !
+
+Let’s take a look at our hands.
+Jetons un coup d'œil à nos mains.
+
+If my palms are facing each other, I can line them up so the thumb and pinky meet, so they’re mirror images.
+Si mes paumes se font face, je peux les aligner pour que le pouce et l'auriculaire se rencontrent, ce sont donc des images en miroir.
+
+But if I place one on top of the other, they won’t perfectly line up, so they’re non-superimposable.
+Mais si je place l'un sur l'autre, ils ne s'alignent pas parfaitement, donc ils ne sont pas superposables.
+
+In chemistry, we say that anything with a non-superimposable mirror image has chirality.
+En chimie, on dit que tout ce qui a une image miroir non superposable a une chiralité.
+
+The simplest example of chirality is a carbon with four different groups attached to it.
+L'exemple le plus simple de chiralité est un carbone auquel sont attachés quatre groupes différents.
+
+This kind of central carbon goes by many names, but we’ll call it the chiral center or chirality center.
+Ce type de carbone central porte de nombreux noms, mais nous l'appellerons le centre chiral ou le centre de chiralité.
+
+We can check whether this whole molecule is chiral by building it and doing the same test we did with our hands or those half-sunglasses.
+Nous pouvons vérifier si toute cette molécule est chirale en la construisant et en faisant le même test que nous avons fait avec nos mains ou ces demi-lunettes de soleil.
+
+First, we’ll draw the molecule’s mirror image.
+Tout d'abord, nous allons dessiner l'image miroir de la molécule.
+
+We can see that the reflection can’t be superimposed on the original molecule.
+Nous pouvons voir que la réflexion ne peut pas être superposée à la molécule d'origine.
+
+No matter how you turn them, the four different groups will never line up.
+Peu importe comment vous les tournez, les quatre groupes différents ne s'aligneront jamais.
+
+These two molecules are a pair of non-superimposable mirror images.
+Ces deux molécules forment une paire d'images miroir non superposables.
+
+And because that phrase is kind of a mouthful, we call a pair of these chiral molecules enantiomers.
+Et parce que cette phrase est une sorte de bouchée, nous appelons une paire de ces molécules chirales des énantiomères.
+
+Enantio- is from the Greek for opposite, because they’re opposite images.
+Enantio- vient du grec pour opposé, car ce sont des images opposées.
+
+By now, you’ve probably noticed that we do a lot of drawing in organic chemistry.
+A présent, vous avez probablement remarqué que nous faisons beaucoup de dessin en chimie organique.
+
+So, surprise!
+Alors, surprise !
+
+We’ll need to draw pairs of enantiomers too.
+Nous devrons également dessiner des paires d'énantiomères.
+
+For example, in the molecule butan-2-ol, carbon 2 is a chiral center.
+Par exemple, dans la molécule butane-2-ol, le carbone 2 est un centre chiral.
+
+It has a methyl group, an ethyl group, an alcohol group, and a hydrogen atom.
+Il a un groupe méthyle, un groupe éthyle, un groupe alcool et un atome d'hydrogène.
+
+Four different groups attached to one carbon, like our model from a second ago.
+Quatre groupes différents attachés à un carbone, comme notre modèle d'il y a une seconde.
+
+To draw the enantiomer, we have to start by drawing a line to represent our mirror!
+Pour dessiner l'énantiomère, il faut commencer par tracer une ligne pour représenter notre miroir !
+
+Next, we’ll draw the reflection of the group that’s closest to the mirror.
+Ensuite, nous allons dessiner le reflet du groupe le plus proche du miroir.
+
+In this case, the hydrogen atom.
+Dans ce cas, l'atome d'hydrogène.
+
+Then, we’ll continue building the molecule and draw the methyl group, the alcohol group, and the ethyl group.
+Ensuite, nous continuerons à construire la molécule et à dessiner le groupe méthyle, le groupe alcool et le groupe éthyle.
+
+When all of the atoms are there, we’re done!
+Lorsque tous les atomes sont là, nous avons terminé !
+
+Another way to draw a mirror image is to place the mirror behind the molecule, so the solid wedges become dashed wedges, and the dashes become solid.
+Une autre façon de dessiner une image miroir consiste à placer le miroir derrière la molécule, de sorte que les coins solides deviennent des coins en pointillés et les tirets deviennent solides.
+
+Remember that solid wedges mean things are coming out towards us and dashes are pointing away from us.
+Rappelez-vous que les coins pleins signifient que les choses sortent vers nous et que les tirets pointent loin de nous.
+
+To practice this kind of drawing, let’s look at a common asthma medication, albuterol.
+Pour pratiquer ce genre de dessin, regardons un médicament courant contre l'asthme, l'albutérol.
+
+Even though it looks like a pretty complicated molecule, albuterol only has one carbon surrounded by four different groups.
+Même s'il ressemble à une molécule assez compliquée, l'albutérol n'a qu'un seul carbone entouré de quatre groupes différents.
+
+We’ll highlight this chiral center with a red dot just so we’re on the same page!
+Nous mettrons en évidence ce centre chiral avec un point rouge juste pour que nous soyons sur la même page !
+
+So if we place the mirror behind albuterol and draw its enantiomer, we only need to make one change: the solid wedge connecting to the alcohol group needs to become dashed.
+Donc, si nous plaçons le miroir derrière l'albutérol et dessinons son énantiomère, nous n'avons qu'à faire un changement : le coin solide se connectant au groupe alcool doit devenir pointillé.
+
+Now, when we draw enantiomers, it’s also important that we give each structure a name that communicates which one it is.
+Maintenant, lorsque nous dessinons des énantiomères, il est également important que nous donnions à chaque structure un nom qui communique de quoi il s'agit.
+
+After all, one enantiomer of albuterol is an asthma medication, but the other might have a different effect, or do nothing at all.
+Après tout, un énantiomère de l'albutérol est un médicament contre l'asthme, mais l'autre peut avoir un effet différent ou ne rien faire du tout.
+
+To name enantiomers, we adopt the Cahn-Ingold-Prelog convention, where the chiral centers of a molecule are labeled R for right-handed and S for left-handed.
+Pour nommer les énantiomères, nous adoptons la convention Cahn-Ingold-Prelog, où les centres chiraux d'une molécule sont étiquetés R pour droitier et S pour gaucher.
+
+Like all puzzles in organic chemistry, we have rules we can follow and a pattern we can learn.
+Comme toutes les énigmes de la chimie organique, nous avons des règles que nous pouvons suivre et un modèle que nous pouvons apprendre.
+
+This convention says that the first step is assigning priority to the four groups around a chiral carbon.
+Cette convention dit que la première étape consiste à attribuer la priorité aux quatre groupes autour d'un carbone chiral.
+
+And, just to make it fun... enantiomer priority is slightly different than functional group or substituent priority when we name molecules.
+Et, juste pour le rendre amusant... la priorité des énantiomères est légèrement différente de la priorité des groupes fonctionnels ou des substituants lorsque nous nommons des molécules.
+
+To figure out priority for enantiomers, we have to pay attention to the atomic number of different atoms.
+Pour déterminer la priorité des énantiomères, nous devons faire attention au numéro atomique des différents atomes.
+
+For example, let’s go back to butan-2-ol.
+Par exemple, revenons au butan-2-ol.
+
+The chiral center has a methyl group, an ethyl group, an alcohol group, and a hydrogen atom attached to it.
+Le centre chiral a un groupe méthyle, un groupe éthyle, un groupe alcool et un atome d'hydrogène qui lui est attaché.
+
+The lowest priority group has the lowest atomic number.
+Le groupe de priorité la plus basse a le numéro atomique le plus bas.
+
+It’s almost always a hydrogen atom, because their atomic number is 1.
+C'est presque toujours un atome d'hydrogène, car leur numéro atomique est 1.
+
+So here, the hydrogen atom has lowest priority, and we’ll label that as 4.
+Donc ici, l'atome d'hydrogène a la priorité la plus basse, et nous l'appellerons 4.
+
+When assigning the chiral center, we have to make sure the lowest priority group is pointing away from us because that’s the rule for consistency.
+Lors de l'attribution du centre chiral, nous devons nous assurer que le groupe de priorité la plus basse pointe  loin de nous parce que c'est la règle de la cohérence.
+
+Otherwise the naming will get messed up.
+Sinon, la dénomination sera faussée.
+
+The hydrogen is pointing away from us, because there’s a dashed wedge.
+L'hydrogène pointe loin de nous, car il y a un coin pointillé.
+
+Easy!
+Facile! 
+
+Next, the highest priority group has the element with the highest atomic number.
+Ensuite, le groupe de priorité la plus élevée contient l'élément avec le numéro atomique le plus élevé.
+
+In this case, the alcohol group has highest priority, because oxygen’s atomic number is 8.
+Dans ce cas, le groupe alcool a la priorité la plus élevée, car le numéro atomique de l'oxygène est 8.
+
+So let’s label that as 1.
+Alors étiquetons cela comme 1.
+
+Then, we have to prioritize the middle groups: the methyl and the ethyl.
+Ensuite, nous devons donner la priorité aux groupes intermédiaires : le méthyle et l'éthyle.
+
+To do this, we’ll look at the atoms attached to the first carbons away from the chiral center.
+Pour ce faire, nous allons regarder les atomes attachés aux premiers carbones éloignés du centre chiral.
+
+The methyl carbon has three hydrogens attached to it, so the highest atomic number is 1.
+Le carbone méthyle a trois hydrogènes qui lui sont attachés, donc le numéro atomique le plus élevé est 1.
+
+The ethyl carbon has two hydrogens and another methyl group attached, so it has a carbon, which has an atomic number of 6.
+Le carbone éthyle a deux hydrogènes et un autre groupe méthyle attaché, donc il a un carbone, qui a un numéro atomique de 6.
+
+So congratulations ethyl carbon, you’re higher priority!
+Alors félicitations éthyl carbone, vous  're priorité plus élevée !
+
+When it comes to priority, we’ll give the methyl group a 3 and the ethyl group a 2.
+En ce qui concerne la priorité, nous donnerons au groupe méthyle un 3 et au groupe éthyle un 2.
+
+For both enantiomers, the priority numbering will be the same.
+Pour les deux énantiomères, la numérotation des priorités sera la même.
+
+From highest to lowest, it’s: the alcohol group, the ethyl group, the methyl group, and the hydrogen atom.
+Du plus élevé au plus bas, c'est : le groupe alcool, le groupe éthyle, le groupe méthyle et l'atome d'hydrogène.
+
+Now we have to decide which one is R, or right-handed, and which one is S, or left-handed.
+Maintenant, nous devons décider lequel est R, ou droitier, et lequel est S, ou gaucher.
+
+To do that, let’s draw an arrow around both molecules from highest priority, 1, to lowest priority, or 4.
+Pour ce faire, dessinons une flèche autour des deux molécules de la priorité la plus élevée, 1, à la priorité la plus basse, ou 4.
+
+On one enantiomer, the arrow points in a clockwise arc, which means it’s the R-enantiomer.
+Sur un énantiomère, la flèche pointe dans un arc dans le sens des aiguilles d'une montre, ce qui signifie qu'il s'agit de l'énantiomère R.
+
+So the molecule is (2R)-butan-2-ol.
+La molécule est donc le (2R)-butan-2-ol.
+
+On the other, we have a counterclockwise arc.
+De l'autre, nous avons un arc dans le sens inverse des aiguilles d'une montre.
+
+So it’s the S-enantiomer and we call it (2S)-butan-2-ol.
+C'est donc l'énantiomère S et nous l'appelons (2S)-butan-2-ol.
+
+If you have a 3D molecule set on hand, you can figure out enantiomer names in 3D if you want!
+Si vous disposez d'un ensemble de molécules 3D, vous pouvez déterminer les noms d'énantiomères en 3D si vous le souhaitez !
+
+Just hold onto the lowest priority group, in this case, the hydrogen, like you’re admiring a sunflower and the hydrogen is the stem.
+Tenez-vous simplement au groupe de priorité le plus bas, dans ce cas, l'hydrogène, comme si vous admiriez un tournesol et que l'hydrogène est la tige.
+
+Then, you can twist the molecule from highest to lowest priority.
+Ensuite, vous pouvez tordre la molécule de la priorité la plus élevée à la plus basse.
+
+If you’re twisting it right, it’s the R-enantiomer, and if you’re twisting it left, it’s the S-enantiomer.
+Si vous le tordez à droite, c'est l'énantiomère R, et si vous le tordez à gauche, c'est l'énantiomère S.
+
+Like all things orgo, the only way to get better at assigning chirality is practice, so let’s assign R and S to the albuterol enantiomers too.
+Comme toutes les choses orgo, la seule façon de s'améliorer dans l'attribution de la chiralité est la pratique, alors attribuons également R et S aux énantiomères d'albutérol.
+
+One group bonded to the chiral center is an alcohol group with a solid wedge, so it’s coming out toward us.
+Un groupe lié au centre chiral est un groupe alcool avec un coin solide, donc il sort vers nous.
+
+The other two groups around the chiral center are in the same plane.
+Les deux autres groupes autour du centre chiral sont dans le même plan.
+
+So the fourth group is an implied hydrogen atom pointing away from us.
+Ainsi, le quatrième groupe est un atome d'hydrogène implicite pointant loin de nous.
+
+If it helps, we can always draw that hydrogen ourselves with a dashed wedge.
+Si cela aide, nous pouvons toujours dessiner cet hydrogène nous-mêmes avec un coin en pointillés.
+
+Now that we have our four groups, we can assign priority to them.
+Maintenant que nous avons nos quatre groupes, nous pouvons leur attribuer une priorité.
+
+The hydrogen is the lowest priority again, and it’s pointing away from us, so we’re good.
+L'hydrogène est à nouveau la priorité la plus basse, et il pointe loin de nous, donc tout va bien.
+
+We can label it with a 4.
+Nous pouvons l'étiqueter avec un 4.
+
+And, again, we have an alcohol group and oxygen’s atomic number is 8.
+Et, encore une fois, nous avons un groupe alcool et le numéro atomique de l'oxygène est 8.
+
+So that’s the highest priority and we can label it with a 1.
+C'est donc la priorité la plus élevée et nous pouvons l'étiqueter avec un 1.
+
+To assign the middle priorities, we’ll look one step away from the chiral center.
+Pour attribuer les priorités intermédiaires, nous allons regarder une étape  loin du centre chiral.
+
+The carbon to the left of the chiral center is bonded to two carbons.
+Le carbone à gauche du centre chiral est lié à deux carbones.
+
+And the carbon to the right of the chiral center is bonded to two hydrogens and a nitrogen.
+Et le carbone à droite du centre chiral est lié à deux hydrogènes et un azote.
+
+Because nitrogen has an atomic number of 7 compared to carbon’s 6, the right group wins priority.
+Parce que l'azote a un numéro atomique de 7 par rapport au carbone 6, le bon groupe gagne la priorité.
+
+Sorry, carbon.
+Désolé, carbone.
+
+So we’ll label the winner 2 and the loser 3.
+Nous allons donc étiqueter le gagnant 2 et le perdant 3.
+
+If we draw the arc again, or imagine spinning a 3D molecule, we can see that it goes clockwise.
+Si nous dessinons à nouveau l'arc, ou imaginons faire tourner une molécule 3D, nous pouvons voir qu'il va dans le sens des aiguilles d'une montre.
+
+So this molecule is the R-enantiomer or (R) albuterol.
+Cette molécule est donc l'énantiomère R ou (R)albutérol.
+
+So the other one is (S)-albuterol.
+L'autre est donc le (S)-albutérol.
+
+But if we label its groups with priority and draw the arc, it’s not counterclockwise like the S-enantiomer should be.
+Mais si nous étiquetons ses groupes avec priorité et dessinons l'arc, ce n'est pas dans le sens inverse des aiguilles d'une montre comme devrait l'être l'énantiomère S.
+
+You know how I keep saying that we want the lowest priority group pointing away from us?
+Vous savez comment je n'arrête pas de dire que nous voulons que le groupe le moins prioritaire pointe vers nous ?
+
+It’s for this exact situation.
+C'est pour cette situation exacte.
+
+Let’s draw in the fourth group again, which is the hydrogen with a solid wedge.
+Dessinons à nouveau le quatrième groupe, qui est l'hydrogène avec un coin solide.
+
+The hydrogen atom is coming out of the page at us, so we need to redraw the molecule with the hydrogen pointing away from us to make our enantiomer-naming rules work.
+L'atome d'hydrogène sort de la page vers nous, nous devons donc redessiner la molécule avec l'hydrogène pointant loin de nous pour que nos règles de dénomination des énantiomères fonctionnent.
+
+Imagine grabbing that hydrogen bond like a flower stem!
+Imaginez saisir cette liaison hydrogène comme une tige de fleur !
+
+The arc goes counterclockwise, and the naming makes sense!
+L'arc va dans le sens inverse des aiguilles d'une montre et la dénomination a du sens !
+
+Sometimes, we’re faced with an even more brain-bending molecule where the lowest-priority group is in the same plane as the chiral center.
+Parfois, nous sommes confrontés à une molécule encore plus complexe où le groupe le moins prioritaire se trouve dans le même plan que le centre chiral.
+
+So a quick trick is to invert the hydrogen with whatever is pointing back away from us and label it INVERTED to remember we did this flip.
+Donc, une astuce rapide consiste à inverser l'hydrogène avec tout ce qui pointe vers l'arrière et à l'étiqueter INVERSÉ pour se rappeler que nous avons fait ce retournement.
+
+Next, we can use our toolkit to assign R or S to the chiral center of the inverted structure.
+Ensuite, nous pouvons utiliser notre boîte à outils pour attribuer R ou S au centre chiral de la structure inversée.
+
+In this case, it’s an R.
+Dans ce cas, c'est un R.
+
+But then we need to switch the inverted structure back.
+Mais ensuite, nous devons revenir à la structure inversée.
+
+So the original chiral center is an S.
+Donc, le centre chiral d'origine est un S.
+
+So, I don’t know, but maybe you’re thinking,
+Donc, je ne sais pas, mais peut-être que vous pensez,
+
+“Deboki. This is too easy. Please, show me something a little MORE complicated.”
+"Deboki.  C'est trop facile.  S'il vous plaît, montrez-moi quelque chose d'un peu PLUS compliqué.
+
+Well, let me introduce you to cyclic compounds, and one more thing to think about when it comes to chirality.
+Eh bien, laissez-moi vous présenter les composés cycliques, et encore une chose à laquelle il faut penser en matière de chiralité.
+
+For example, methylcyclopentane has superimposable mirror images, so we say that it’s achiral.
+Par exemple, le méthylcyclopentane a des images miroir superposables, on dit donc qu'il est achiral.
+
+Even though one has a methyl group pointing away from us and one has a methyl group pointing toward us, we can overlap the mirror images and get the same arrangement of atoms.
+Même si l'un a un groupe méthyle pointant loin de nous et l'autre un groupe méthyle pointant vers nous, nous pouvons chevaucher les images miroir et obtenir le même arrangement d'atomes.
+
+This dotted blue line is like a mirror within the molecule, which we call an internal plane of symmetry.
+Cette ligne bleue pointillée est comme un miroir à l'intérieur de la molécule, que nous appelons un plan de symétrie interne.
+
+Any molecule with an internal plane of symmetry is achiral and doesn’t have enantiomers.
+Toute molécule avec un plan de symétrie interne est achirale et n'a pas d'énantiomères.
+
+But a molecule like 2-methylcyclopent-1-ene doesn’t have an internal plane of symmetry, so it is chiral.
+Mais une molécule comme le 2-méthylcyclopent-1-ène n'a pas de plan de symétrie interne, elle est donc chirale.
+
+The mirror image is different and we can’t overlap them to get the same arrangements of bonds and atoms.
+L'image miroir est différente et nous ne pouvons pas les superposer pour obtenir les mêmes arrangements de liaisons et d'atomes.
+
+To name these enantiomers, we just need to assign priority around the chiral center again.
+Pour nommer ces énantiomères, il suffit d'attribuer à nouveau la priorité autour du centre chiral.
+
+We’re basically pros at it now, so we got this!
+Nous sommes fondamentalement des pros maintenant, alors nous avons ça!
+
+The double-bonded carbon in the ring is highest priority because it’s like being bonded to two carbons.
+Le carbone à double liaison dans l'anneau est la priorité la plus élevée car c'est comme être lié à deux carbones.
+
+The CH2 in the ring is next, because it’s bonded to two hydrogens and one carbon.
+Le CH2 dans le cycle vient ensuite, car il est lié à deux hydrogènes et un carbone.
+
+The methyl group is third because it’s bonded to three low priority hydrogens.
+Le groupe méthyle est le troisième car il est lié à trois hydrogènes de faible priorité.
+
+And the invisible hydrogen is last, like always.
+Et l'hydrogène invisible est le dernier, comme toujours.
+
+That’s just the way it is, hydrogen.
+C'est comme ça, l'hydrogène.
+
+Using these priorities, we can name (3R)-3-methylcyclopent-1-ene and (3S)-3-methylcyclopent-1-ene.
+En utilisant ces priorités, nous pouvons nommer (3R)-3-méthylcyclopent-1-ène et (3S)-3-méthylcyclopent-1-ène.
+
+Okay, so up until this point, we’ve been dealing with molecules with one chiral center.
+D'accord, jusqu'à présent, nous avons eu affaire à des molécules avec un centre chiral.
+
+But there are some molecules with two chiral centers that have enantiomers too.
+Mais certaines molécules à deux centres chiraux possèdent également des énantiomères.
+
+For example, look at (3R,4S)-4 bromohexan-3-ol.
+Par exemple, regardez (3R,4S)-4 bromohexan-3-ol.
+
+We use numbered carbons to specify which chiral center is R and which chiral center is S, after doing the whole assigning-priority-to-groups thing.
+Nous utilisons des carbones numérotés pour spécifier quel centre chiral est R et quel centre chiral est S, après avoir fait tout le travail d'attribution de priorité aux groupes.
+
+But some molecules with two chiral centers are actually achiral, which we can tell with two checks:
+Mais certaines molécules avec deux centres chiraux sont en fait achirales, ce que nous pouvons dire avec deux vérifications :
+
+first, is there a superimposable mirror image, and second, is there an internal plane of symmetry.
+premièrement, y a-t-il une image miroir superposable, et deuxièmement, y a-t-il un plan de symétrie interne.
+
+Let’s consider cis- and trans-1,2 dibromocyclohexane.
+Considérons cis- et trans-1,2 dibromocyclohexane.
+
+Both molecules have two chiral centers, which we’ve marked with red dots!
+Les deux molécules ont deux centres chiraux, que nous avons marqués de points rouges !
+
+Just look at them.
+Regardez-les.
+
+Trans-1,2-dibromocyclohexane is chiral, with non-superimposable mirror images.
+Le trans-1,2-dibromocyclohexane est chiral, avec des images miroir non superposables.
+
+But cis-1,2-dibromocyclohexane is achiral.
+Mais le cis-1,2-dibromocyclohexane est achiral.
+
+And since we’ve covered so much so quickly, here’s a handy flow chart to help you with your chirality gut checks.
+Et puisque nous avons couvert tant de choses si rapidement, voici un organigramme pratique pour vous aider dans vos vérifications de la chiralité.
+
+By following these steps, it can help you tell whether a molecule has enantiomers or not.
+En suivant ces étapes, cela peut vous aider à déterminer si une molécule contient ou non des énantiomères.
+
+Okay.
+D'accord. 
+
+Time for some rapid fire problems!
+Il est temps pour des problèmes de tir rapide !
+
+Using that handy dandy flow chart if you want, decide if the following examples are chiral or achiral.
+En utilisant cet organigramme pratique si vous le souhaitez, décidez si les exemples suivants sont chiraux ou achiraux.
+
+We’re going to put four examples on screen and then tell you the answers, and you can pause this if you want to take a second to solve them yourself.
+Nous allons mettre quatre exemples à l'écran, puis vous donner les réponses, et vous pouvez mettre cela en pause si vous voulez prendre une seconde pour les résoudre vous-même.
+
+Ready?
+Prêt? 
+
+The first problem is…
+Le premier problème est…
+
+chiral.
+chiral.
+
+See, the red-marked carbon has four different groups.
+Vous voyez, le carbone marqué en rouge a quatre groupes différents.
+
+The second problem is…
+Le deuxième problème est…
+
+achiral.
+achiral.
+
+It has chiral centers, but it also has an internal plane of symmetry.
+Il a des centres chiraux, mais il a aussi un plan de symétrie interne.
+
+The third problem is…
+Le troisième problème est…
+
+chiral.
+chiral.
+
+It has two chiral centers but no internal plane of symmetry.
+Il a deux centres chiraux mais pas de plan de symétrie interne.
+
+And the last problem is…
+Et le dernier problème est…
+
+also chiral.
+également chiral.
+
+It just has one chiral center, which we marked with a red dot.
+Il n'a qu'un seul centre chiral, que nous avons marqué d'un point rouge.
+
+Stereochemistry is a really important part of our organic chemistry toolbox.
+La stéréochimie est une partie très importante de notre boîte à outils de chimie organique.
+
+And even just 8 episodes in, we’ve got a lot of tools for understanding all the exciting and weird and fascinating reactions to come.
+Et même seulement 8 épisodes, nous avons beaucoup d'outils pour comprendre toutes les réactions excitantes, étranges et fascinantes à venir.
+
+In this episode we learned about:
+Dans cet épisode, nous avons appris :
+
+How to name chiral centers R or S,
+Comment nommer les centres chiraux R ou S,
+
+And how to determine if a molecule is chiral or achiral.
+Et comment déterminer si une molécule est chirale ou achirale.
+
+Next time, we’ll look more closely at the properties of enantiomers, how they interact with light,
+La prochaine fois, nous examinerons de plus près les propriétés des énantiomères, comment ils interagissent avec la lumière
+
+and how to separate them so that drugs with Dr. Jekyll and Mr. Hyde personalities don’t harm us!
+et comment les séparer afin que les médicaments avec les personnalités du Dr Jekyll et de M. Hyde ne nous nuisent pas !
+
+Thanks for watching this episode of Crash
+Course Organic Chemistry.
+Merci d'avoir regardé cet épisode de Crash
+Course Organic Chemistry.
+
+If you want to help keep all Crash Course free for everybody, forever, you can join our community on Patreon.
+Si vous voulez aider à garder tous les cours intensifs gratuits pour tout le monde, pour toujours, vous pouvez rejoindre notre communauté sur Patreon.
+

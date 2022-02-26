@@ -1,0 +1,523 @@
+In June 2001, officials in London unveiled a striking new feat of engineering: the Millennium Bridge
+En juin 2001, des responsables à Londres ont dévoilé une nouvelle prouesse d'ingénierie : le Millennium Bridge
+
+-- a pedestrian bridge spanning the
+River Thames.
+, un pont piétonnier enjambant la
+Tamise.
+
+It promised to be very useful, and it was
+cool to look at, but it had to be close almost immediately.
+Ça promettait d'être très utile, et c'était
+cool à regarder, mais ça devait être fermé presque immédiatement.
+
+Because when people used the bridge, it swayed back and forth dramatically, due to the force of their footsteps.
+Parce que lorsque les gens utilisaient le pont, il se balançait d'avant en arrière de façon spectaculaire, en raison de la force de leurs pas.
+
+Undeterred, people kept using the bridge, but as they walked they began leaning into the swaying to keep themselves from falling over.
+Sans se décourager, les gens ont continué à utiliser le pont, mais en marchant, ils ont commencé à se pencher dans le balancement pour s'empêcher de tomber.
+
+And that only made things worse.
+Et cela n'a fait qu'empirer les choses.
+
+Eventually, the motion of the bridge became so severe, that the bridge took on the shape of a giant S.
+Finalement, le mouvement du pont est devenu si grave que le pont a pris la forme d'un S géant.
+
+Essentially, a horizontal wave.
+Essentiellement, une vague horizontale.
+
+The bridge had to be closed and the engineers took nearly two years to fix it the problem.
+Le pont a dû être fermé et les ingénieurs ont mis près de deux ans pour régler le problème.
+
+So, what was wrong with the Millennium Bridge?
+Alors, qu'est-ce qui n'allait pas avec le Millennium Bridge ?
+
+And why didn’t the engineers foresee the
+problem?
+Et pourquoi les ingénieurs n'ont-ils pas prévu le
+problème ?
+
+The answer lies in oscillations.
+La réponse réside dans les oscillations.
+
+[Theme Music]
+[Thème musical]
+
+The physics that caused the swaying of the Millennium Bridge has to do with oscillations, or back-and-forth motion.
+La physique qui a provoqué le balancement du Millennium Bridge est liée aux oscillations ou aux mouvements de va-et-vient.
+
+More specifically, it has to do with simple
+harmonic motion:
+Plus précisément, il s'agit d'
+un mouvement harmonique simple :
+
+where oscillations follow a particular, consistent pattern.
+où les oscillations suivent un schéma particulier et cohérent.
+
+But before we had the Millennium Bridge as
+a real-life example,
+Mais avant que nous ayons le Millennium Bridge
+comme exemple réel, les
+
+physicists often described simple harmonic motion in terms of a ball attached to a horizontal spring, lying on a table.
+physiciens décrivaient souvent un mouvement harmonique simple en termes d'une boule attachée à un ressort horizontal, posée sur une table.
+
+While it’s lying there, at rest, it’s
+in equilibrium.
+Tant qu'il est couché là, au repos, il est
+en équilibre.
+
+And when you move the ball so that it stretches
+the spring, then let go,
+Et lorsque vous déplacez la balle pour qu'elle étire
+le ressort, puis relâchez,
+
+the ball keeps moving back and forth forever...
+in a frictionless world.
+la balle continue d'aller et venir pour toujours...
+dans un monde sans friction.
+
+That back-and-forth motion caused by the force
+of the spring, is simple harmonic motion.
+Ce mouvement de va-et-vient causé par la force
+du ressort est un simple mouvement harmonique.
+
+Now, we want to know two things about this
+oscillating ball:
+Maintenant, nous voulons savoir deux choses sur cette
+boule oscillante :
+
+What kinds of energy does it have?
+Quels types d'énergie a-t-elle ?
+
+And, what’s its maximum velocity?
+Et quelle est sa vitesse maximale ?
+
+To better understand what’s happening to
+the ball, let’s start with its energy.
+Pour mieux comprendre ce qui arrive
+au ballon, commençons par son énergie.
+
+As the ball compresses and stretches the spring, both ‘kinetic energy’ and ‘potential energy’ come into play.
+Lorsque la balle comprime et étire le ressort, «l'énergie cinétique» et «l'énergie potentielle» entrent en jeu.
+
+Kinetic energy is the energy of motion, and
+as the ball moves, there are two points --
+L'énergie cinétique est l'énergie du mouvement, et au fur et à
+mesure que la balle se déplace, il y a deux points -
+
+the turning points -- where it’s NOT moving:
+les points de retournement - où elle ne bouge PAS :
+
+One point is where the spring is compressed all the way, and the other is where it’s stretched all the way.
+un point est l'endroit où le ressort est complètement compressé, et l'autre est l'endroit où il est étiré.  le chemin. 
+
+And the distance between either of these two points, and the equilibrium point, is called the ‘amplitude’.
+Et la distance entre l'un ou l'autre de ces deux points, et le point d'équilibre, s'appelle "l'amplitude".
+
+At those two turning points, the ball won’t
+have any kinetic energy, since it isn't moving.
+À ces deux points tournants, la balle
+n'aura aucune énergie cinétique, car elle ne bouge pas.
+
+Instead, all of the ball’s energy will be
+potential energy from the spring:
+Au lieu de cela, toute l'énergie de la balle sera l'
+énergie potentielle du ressort :
+
+(half of the spring constant), times the (amplitude
+squared).
+(la moitié de la constante du ressort), multipliée par (l'amplitude au
+carré).
+
+Now, as the ball moves toward the middle,
+its kinetic energy starts to increase,
+Maintenant, à mesure que la balle se déplace vers le milieu,
+son énergie cinétique commence à augmenter,
+
+because it’s moving faster and faster.
+car elle se déplace de plus en plus vite.
+
+And at the same time, its potential energy
+decreases, keeping its total energy the same.
+Et en même temps, son énergie potentielle
+diminue, gardant son énergie totale la même.
+
+And exactly in the middle of the ball’s motion -- at the equilibrium point -- its potential energy goes down to 0.
+Et exactement au milieu du mouvement de la balle - au point d'équilibre - son énergie potentielle tombe à 0.
+
+The ball is back where it started, so the spring isn’t pulling on it anymore.
+La balle est de retour là où elle a commencé, donc le ressort ne tire plus dessus.
+
+Its kinetic energy, on the other hand, has
+reached its maximum.
+Son énergie cinétique, en revanche, a
+atteint son maximum.
+
+Which means that at that point, the total
+energy of the ball will be equal to
+Ce qui signifie qu'à ce point, l'
+énergie totale de la balle sera égale à
+
+(half of its mass), times its (maximum velocity
+squared).
+(la moitié de sa masse), fois sa (vitesse maximale au
+carré).
+
+Now we have two equations for the total energy in this oscillating spring, which we can combine into one equation.
+Nous avons maintenant deux équations pour l'énergie totale de ce ressort oscillant, que nous pouvons combiner en une seule équation.
+
+And if we use algebra to move around its variables, we can start to answer the second question we had about the ball.
+Et si nous utilisons l'algèbre pour déplacer ses variables, nous pouvons commencer à répondre à la deuxième question que nous avions sur la balle.
+
+We wanted to know the ball’s maximum velocity,
+and this equation tells us, that it’s equal
+Nous voulions connaître la vitesse maximale de la balle,
+et cette équation nous dit qu'elle est égale
+
+to the (amplitude), times the (square root
+of the spring constant) (divided by its mass).
+à (l'amplitude), multipliée par la (racine carrée
+de la constante du ressort) (divisée par sa masse).
+
+So we’ve answered our two questions
+about the ball on the spring!
+Nous avons donc répondu à nos deux questions
+sur la balle sur le ressort !
+
+We know about its energy, and we have an equation for its maximum velocity.
+Nous connaissons son énergie et nous avons une équation pour sa vitesse maximale.
+
+But there’s a lot more going on with this
+ball than just its energy and velocity.
+Mais il se passe bien plus avec cette
+balle que son énergie et sa vitesse.
+
+It also has properties like a period,
+a frequency, and an angular velocity.
+Il a également des propriétés comme une période,
+une fréquence et une vitesse angulaire.
+
+Plus, its position changes with time.
+De plus, sa position change avec le temps.
+
+You might recognize those terms, because we’ve already talked about them in our episode on uniform circular motion.
+Vous reconnaîtrez peut-être ces termes, car nous en avons déjà parlé dans notre épisode sur le mouvement circulaire uniforme.
+
+And that’s no coincidence!
+Et ce n'est pas un hasard !
+
+Simple harmonic motion is actually a lot like uniform circular motion, mathematically speaking.
+Le mouvement harmonique simple ressemble en fait beaucoup à un mouvement circulaire uniforme, mathématiquement parlant.
+
+You can see this for yourself, if you compare the ball’s motion on the spring to an object in uniform circular motion --
+Vous pouvez le voir par vous-même, si vous comparez le mouvement de la balle sur le ressort à un objet en mouvement circulaire uniforme -
+
+say, a marble moving along a ring at a constant speed.
+disons, une bille se déplaçant le long d'un anneau à une vitesse constante.
+
+OK, I admit: It might seem like kind of a weird
+comparison at first.
+OK, je l'admets : cela peut sembler une
+comparaison étrange au début.
+
+For one thing, the ball on the spring is
+moving in one dimension,
+D'une part, la boule sur le ressort se
+déplace dans une dimension,
+
+while a marble moving along a circular path is in two dimensions.
+tandis qu'une bille se déplaçant le long d'une trajectoire circulaire est dans deux dimensions.
+
+But what if you take that ring, and look at
+it from the side?
+Mais que se passe-t-il si vous prenez cette bague et que vous la
+regardez de côté ?
+
+The marble keeps moving along its circular
+path.
+La bille continue de se déplacer le long de sa
+trajectoire circulaire.
+
+But to you, it looks like it’s just moving
+back and forth along a straight line.
+Mais pour vous, il semble qu'il se déplace simplement d'
+avant en arrière le long d'une ligne droite.
+
+Not only that, but it looks like this marble
+is stopping momentarily as it changes direction,
+Non seulement cela, mais il semble que cette
+bille s'arrête momentanément lorsqu'elle change de direction
+
+and moving faster as it gets closer to the
+middle.
+et se déplace plus rapidement lorsqu'elle se rapproche du
+milieu.
+
+Which is exactly the same way the ball was
+moving on the spring.
+C'est exactement de la même manière que la balle se
+déplaçait sur le ressort.
+
+Now, let’s take this comparison a step further.
+Maintenant, poussons cette comparaison un peu plus loin.
+
+Let’s assume that the radius of the ring is the same as the amplitude of the ball’s motion on the spring.
+Supposons que le rayon de l'anneau soit le même que l'amplitude du mouvement de la bille sur le ressort.
+
+And the marble’s constant speed along the ring is equal to the maximum speed of the ball on the spring.
+Et la vitesse constante de la bille le long de l'anneau est égale à la vitesse maximale de la bille sur le ressort.
+
+In that case, if you did the math, you’d find that the equation for the marble’s velocity
+Dans ce cas, si vous faisiez le calcul, vous constateriez que l'équation de la vitesse de la bille
+
+-- when you look at it edge-on -- is exactly the same as the equation that described
+-- quand vous la regardez par la tranche -- est exactement la même que l'équation qui décrivait
+
+the velocity of the ball on the spring.
+la vitesse de la balle sur le ressort  .
+
+So, let’s recall what we know about uniform circular motion, to see what it can tell us about simple harmonic motion.
+Alors, rappelons ce que nous savons sur le mouvement circulaire uniforme, pour voir ce qu'il peut nous dire sur le mouvement harmonique simple.
+
+We know that the time it takes for the marble
+to move around the ring once is called the period.
+Nous savons que le temps qu'il faut à la bille
+pour se déplacer une fois autour de l'anneau s'appelle la période.
+
+We also know that the period will be equal to the circumference of the ring, divided by the marble’s speed.
+On sait aussi que la période sera égale à la circonférence de l'anneau, divisée par la vitesse de la bille.
+
+And! The radius of the circle is the same
+as the ball’s amplitude on the spring.
+Et!  Le rayon du cercle est le même
+que l'amplitude de la balle sur le ressort.
+
+So its circumference will be equal to two times pi times the amplitude.
+Donc sa circonférence sera égale à deux fois pi fois l'amplitude.
+
+This means that the period will be equal to
+2 times pi times the amplitude,
+Cela signifie que la période sera égale à
+2 fois pi fois l'amplitude,
+
+divided by the marble’s speed -- which, again, is the same as the ball’s maximum speed as it moves on the spring.
+divisée par la vitesse de la bille - qui, encore une fois, est la même que la vitesse maximale de la balle lorsqu'elle se déplace sur le ressort.
+
+And we can simplify that equation, since we
+know that the maximum speed of the ball is
+Et nous pouvons simplifier cette équation, puisque nous
+savons que la vitesse maximale de la balle est
+
+equal to the (amplitude) times (the square
+root of the spring constant) divided by the (mass).
+égale au (amplitude) fois (la
+racine carrée de la constante du ressort) divisé par la (masse).
+
+So: the period of the marble’s motion around
+the ring is equal to (two pi) times (the root of m) over (k).
+Donc : la période du mouvement de la bille autour de
+l'anneau est égale à (deux pi) fois (la racine de m) sur (k).
+
+Now, we’ve also talked about the frequency
+of uniform circular motion:
+Maintenant, nous avons également parlé de la fréquence
+du mouvement circulaire uniforme :
+
+It’s the number of revolutions the marble makes around the ring every second, and it’s equal to 1, divided by the period.
+c'est le nombre de révolutions que la bille fait autour de l'anneau chaque seconde, et c'est égal à 1, divisé par la période.
+
+In this case, the frequency will also be equal
+to 1 over (2 pi) times (the square root of k) over (m).
+Dans ce cas, la fréquence sera également égale
+à 1 sur (2 pi) fois (la racine carrée de k) sur (m).
+
+And that’ll apply to the ball on the spring,
+too.
+Et cela s'appliquera également à la balle sur le
+ressort.
+
+Because the rules are the same!
+Parce que les règles sont les mêmes !
+
+Finally, there’s angular velocity to consider.
+Enfin, il y a la vitesse angulaire à considérer.
+
+In uniform circular motion, we’ve described
+it as the number of radians per second that
+En mouvement circulaire uniforme, nous l'avons
+décrit comme le nombre de radians par seconde que
+
+the marble covers as it moves around the ring.
+la bille couvre lorsqu'elle se déplace autour de l'anneau.
+
+And angular velocity is just equal to the
+frequency times 2 pi.
+Et la vitesse angulaire est juste égale à la
+fréquence multipliée par 2 pi.
+
+Which means that in the case of the ball on the spring, it’s equal to the square root of k over m.
+Ce qui signifie que dans le cas de la boule sur le ressort, elle est égale à la racine carrée de k sur m.
+
+So now, with the help of our knowledge about
+circular motion, we can understand the period,
+Alors maintenant, avec l'aide de nos connaissances sur le
+mouvement circulaire, nous pouvons comprendre la période, la
+
+frequency, and angular velocity of the ball’s simple harmonic motion as it oscillates on the spring.
+fréquence et la vitesse angulaire du mouvement harmonique simple de la balle lorsqu'elle oscille sur le ressort.
+
+But there’s one more question: How does
+the ball’s position change over time?
+Mais il y a une autre question : comment
+la position de la balle change-t-elle avec le temps ?
+
+To find out, we’ll have to analyze the
+marble’s motion along the ring again.
+Pour le savoir, nous devrons analyser à nouveau le
+mouvement de la bille le long de l'anneau.
+
+And the answer will involve some trigonometry.
+Et la réponse impliquera une certaine trigonométrie.
+
+But it’s not particularly complicated trig so, it'll be fine.
+Mais ce n'est pas un trig particulièrement compliqué donc ça ira.
+
+At any given point along the marble’s path, it’ll be at a certain angle to the right-hand side of the ring.
+À tout moment donné le long du chemin de la bille, ce sera à un certain angle par rapport au côté droit de l'anneau.
+
+And the cosine of that angle will be equal to its horizontal distance from the center of the ring, divided by the ring’s radius.
+Et le cosinus de cet angle sera égal à sa distance horizontale du centre de l'anneau, divisée par le rayon de l'anneau.
+
+We already know that the radius of the ring is the same as the amplitude of the ball’s motion along the spring.
+Nous savons déjà que le rayon de l'anneau est le même que l'amplitude du mouvement de la bille le long du ressort.
+
+And if you turn the ring so that it looks
+like a line again, you can see that the marble’s
+Et si vous tournez l'anneau pour qu'il ressemble
+à nouveau à une ligne, vous pouvez voir que la
+
+horizontal distance from the center of the ring is the same as the ball’s distance from the equilibrium point.
+distance horizontale entre la bille et le centre de l'anneau est la même que la distance entre la balle et le point d'équilibre.
+
+So, the cosine of theta is equal to the (ball’s
+position) divided by its (amplitude).
+Ainsi, le cosinus de thêta est égal à la (
+position de la boule) divisée par son (amplitude).
+
+In other words, the ball’s position is equal
+to (the amplitude), times (the cosine of the angle).
+En d'autres termes, la position de la balle est égale
+à (l'amplitude), fois (le cosinus de l'angle).
+
+And we can simplify this equation, too.
+Et nous pouvons aussi simplifier cette équation.
+
+In the same way that distance is equal to
+velocity multiplied by time,
+De la même manière que la distance est égale à la
+vitesse multipliée par le temps,
+
+the angle is equal to the angular velocity multiplied by time.
+l'angle est égal à la vitesse angulaire multipliée par le temps.
+
+So, we can write the equation for the position
+of the ball as x = A cos w t.
+Ainsi, nous pouvons écrire l'équation de la position
+de la balle sous la forme x = A cos w t.
+
+And when you graph this equation, something interesting happens: It looks like a wave!
+Et lorsque vous tracez cette équation, quelque chose d'intéressant se produit : cela ressemble à une vague !
+
+We’ll be talking a lot more about waves
+in our next three episodes.
+Nous parlerons beaucoup plus des vagues
+dans nos trois prochains épisodes.
+
+But for now, it’s helpful just to see the
+connection here:
+Mais pour l'instant, il est utile de voir la
+connexion ici :
+
+For an object in simple harmonic motion, the graph of its position versus time is a wave.
+pour un objet en mouvement harmonique simple, le graphique de sa position en fonction du temps est une onde.
+
+Which is why the swaying of the Millennium
+Bridge looked like a wave.
+C'est pourquoi le balancement du Millennium
+Bridge ressemblait à une vague.
+
+Speaking of the bridge: now we can better
+understand what happened to it.
+En parlant du pont : nous pouvons maintenant mieux
+comprendre ce qui lui est arrivé.
+
+The bridge’s shimmy was the result of oscillation, but it was made worse by another culprit: resonance.
+Le shimmy du pont était le résultat de l'oscillation, mais il a été aggravé par un autre coupable : la résonance.
+
+Resonance can increase the amplitude of an oscillation by applying force at just the right frequency --
+La résonance peut augmenter l'amplitude d'une oscillation en appliquant une force à la bonne fréquence - un
+
+kind of like how you can get a kid to swing higher by pushing at just the right moment.
+peu comme la façon dont vous pouvez amener un enfant à se balancer plus haut en poussant au bon moment.
+
+The engineers of the Millennium Bridge were
+reminded of that, the hard way.
+Les ingénieurs du Millennium Bridge s'en sont
+souvenus, à la dure.
+
+When pedestrians on the bridge started to
+lean into its swaying, they created resonance.
+Lorsque les piétons sur le pont ont commencé à se
+pencher sur son balancement, ils ont créé une résonance.
+
+They amplified the amplitude of the oscillation.
+Ils ont amplifié l'amplitude de l'oscillation.
+
+And the engineers of the bridge did account for oscillations caused by resonance when they designed it.
+Et les ingénieurs du pont ont tenu compte des oscillations causées par la résonance lorsqu'ils l'ont conçu.
+
+But they only considered vertical oscillations -- the kind that would have made the bridge bounce up and down.
+Mais ils n'ont considéré que les oscillations verticales - celles qui auraient fait rebondir le pont de haut en bas.
+
+They didn’t realize that they’d also have to factor in the horizontal swaying caused by people walking.
+Ils ne savaient pas qu'ils devraient également tenir compte du balancement horizontal causé par les personnes qui marchent.
+
+So, it was only a tiny bit of swaying at first, but it got a lot worse because people were leaning into their steps, causing resonance.
+Donc, ce n'était qu'un tout petit peu de balancement au début, mais cela s'est beaucoup aggravé parce que les gens se penchaient sur leurs pas, provoquant une résonance.
+
+In the end, engineers had to apply a series of changes to the bridge that applied force to counteract its oscillations.
+En fin de compte, les ingénieurs ont dû appliquer une série de modifications au pont qui appliquaient une force pour contrer ses oscillations.
+
+Because if there’s one thing you don’t
+want your bridge to be doing, it’s The Wave.
+Parce que s'il y a une chose que vous ne
+voulez pas que votre pont fasse, c'est The Wave.
+
+Today, you learned about simple harmonic motion -- the energy of that motion, and how we can use math
+Aujourd'hui, vous avez découvert le mouvement harmonique simple - l'énergie de ce mouvement et comment nous pouvons utiliser les mathématiques
+
+of uniform circular motion to find the period, frequency, and angular velocity of a mass on a spring.
+du mouvement circulaire uniforme pour trouver la période, la fréquence et la vitesse angulaire d'une masse sur un ressort.
+
+We also described how the position of an object in simple harmonic motion changes over time.
+Nous avons également décrit comment la position d'un objet en mouvement harmonique simple change avec le temps.
+
+Crash Course Physics is produced in association
+with PBS Digital Studios. You can head over
+Crash Course Physics est produit en association
+avec PBS Digital Studios.  Vous pouvez vous
+
+to their channel to check out amazing a playlist of the latest episodes from shows like First Person, PBS Game Show, and The Good Stuff.
+rendre sur leur chaîne pour découvrir une liste de lecture incroyable des derniers épisodes d'émissions telles que First Person, PBS Game Show et The Good Stuff.
+
+This episode of Crash Course was filmed in
+the Doctor Cheryl C. Kinney Crash Course Studio
+Cet épisode de Crash Course a été filmé dans
+le studio Doctor Cheryl C. Kinney Crash Course
+
+with the help of these amazing people and
+our equally amazing graphics team, is Thought Cafe.
+avec l'aide de ces personnes incroyables et de
+notre équipe graphique tout aussi incroyable, Thought Cafe.
+

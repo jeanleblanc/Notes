@@ -1,0 +1,1084 @@
+you can review content from crash course
+vous pouvez revoir le contenu du cours
+
+organic chemistry with the crash course
+accéléré de chimie organique avec l'
+
+app available now for android and ios
+application de cours accéléré disponible maintenant pour les appareils Android et ios
+
+devices
+
+hi i'm daboki chakravarti and welcome to
+salut je suis daboki chakravarti et bienvenue au cours intensif de
+
+crash course organic chemistry to
+chimie organique pour
+
+communicate with each other insects
+communiquer entre eux les insectes
+
+often use organic chemistry instead of
+utilisent souvent la chimie organique au lieu d'
+
+using words they secrete compounds that
+utiliser des mots qu'ils sécrètent  des composés qui
+
+can mean hey you're cute or follow this
+peuvent signifier hé que vous êtes mignon ou suivez ce
+
+path for food or even back off you're
+chemin pour vous nourrir ou même reculez, vous
+
+gonna get hurt if you come any closer
+allez vous blesser si vous vous rapprochez des
+
+soldier termites for example defend
+termites soldats, par exemple, défendez
+
+their nests by secreting a toxic
+leurs nids en sécrétant un produit chimique toxique
+
+chemical
+
+that wards off invaders just fine but
+qui éloigne très bien les envahisseurs mais
+
+when they use these chemical weapons
+quand  ils utilisent ces armes chimiques
+
+they have to make sure they don't also
+qu'ils doivent s'assurer qu'ils ne blessent pas aussi
+
+hurt their own nest mates turns out the
+leurs propres compagnons de nid s'avère que les
+
+worker termites in the nest have an
+termites ouvriers dans le nid ont une
+
+enzyme that allows them to reduce the
+enzyme qui leur permet de réduire le
+
+chemical from its toxic form to another
+produit chimique de sa forme toxique à une autre
+
+harmless form and in this reaction only
+forme inoffensive et dans cette réaction  seule
+
+the double bond that is conjugated with
+la double liaison qui est conjuguée avec
+
+the carbonyl is reduced specifically the
+le carbonyle est réduite spécifiquement la
+
+soldier termites toxin has a functional
+toxine des termites soldats a un
+
+group called an enone and the worker
+groupe fonctionnel appelé énone et le travail  er l'
+
+termites enzyme selectively removes the
+enzyme des termites élimine sélectivement l'
+
+alkene from that functional group enones
+alcène de ce groupe fonctionnel les énones
+
+can undergo a reaction called conjugate
+peuvent subir une réaction appelée
+
+addition that simple alkenes can't and
+addition conjuguée que les alcènes simples ne peuvent pas et
+
+this reaction makes the enone toxic to
+cette réaction rend l'énone toxique pour les
+
+invaders let's see why and explore some
+envahisseurs voyons pourquoi et explorons d'
+
+more reactions and properties of
+autres réactions et propriétés des
+
+enolates
+énolates
+
+[Music]
+[Musique]
+
+in the previous episode we learned about
+dans  l'épisode précédent, nous avons appris
+
+aldol reactions where two simple
+les réactions d'aldol où deux
+
+carbonyl compounds combine into a larger
+composés carbonyle simples se combinent en un plus grand,
+
+one specifically we explored what
+spécifiquement, nous avons exploré ce qui
+
+happened when the two reactant molecules
+s'est passé lorsque les deux molécules de réactifs
+
+were the same but if we join two
+étaient les mêmes, mais si nous joignons deux
+
+different carbonyl compounds like an
+composés carbonyle différents comme un
+
+enol or enolate and a different aldehyde
+énol ou un énolate et un aldéhyde
+
+or ketone it's called a crossed aldol
+ou cétone différent  c'est ce qu'on appelle une
+
+reaction with cross aldo reactions it's
+réaction d'aldol croisée avec des réactions d'aldo croisées il est
+
+very important to choose the carbonyls
+très important de choisir soigneusement les carbonyles
+
+carefully otherwise we end up with a
+sinon on se retrouve avec un
+
+horrible mess of different products
+horrible gâchis de différents produits
+
+generally it's a good idea to use an
+généralement c'est une bonne idée d'utiliser une
+
+enolizable ketone with alpha hydrogens
+cétone énolisable avec des hydrogènes alpha
+
+and a non-enolizable aldehyde this works
+et un aldéhyde non énolisable cela fonctionne
+
+well because first only the ketone can
+bien parce que d'abord seule la cétone peut
+
+form an enol or enolate and become the
+former un énol ou un énolate et devenir  le
+
+nucleophile in the reaction and second
+nucléophile dans la réaction et les seconds
+
+aldehydes are more reactive than ketones
+aldéhydes sont plus réactifs que les cétones
+
+because they're usually less hindered at
+car ils sont généralement moins gênés
+
+the carbonyl carbon and less stabilized
+au carbone carbonyle et moins stabilisés
+
+by inductive effects so we minimize the
+par des effets inductifs, nous minimisons donc les
+
+chances of a ketone reacting with itself
+chances qu'une cétone réagisse avec elle-même,
+
+it also helps to have the aldehyde in
+cela aide également à avoir l'aldéhyde en
+
+excess because that way there's much
+excès  parce que de cette façon, il y a beaucoup
+
+less chance of a ketone molecule bumping
+moins de chances qu'une molécule de cétone se
+
+into another ketone molecule at all the
+heurte à une autre molécule de cétone du tout, le
+
+mechanism for a cross-aldol reaction
+mécanisme d'une réaction croisée d'aldol
+
+looks like what we've been doing in the
+ressemble à ce que nous avons fait dans les
+
+last two episodes we start with
+deux derniers épisodes, nous commençons par la
+
+deprotonation of the enolyzable ketone
+déprotonation de la cétone énolysable en
+
+assuming we're working under basic
+supposant que nous '  re travaillant dans des conditions basiques
+
+conditions the next step is for the
+, l'étape suivante consiste pour l'
+
+enolate anion to do its nucleophile
+anion énolate à faire son travail
+
+thing and attack the carbonyl carbon of
+nucléophile et à attaquer le carbone carbonyle de
+
+the aldehyde then we pull a hydrogen off
+l'aldéhyde, puis nous retirons un hydrogène de l'
+
+some nearby water to form the hydroxyl
+eau à proximité pour former l'hydroxyle
+
+and we have the aldol product remember
+et nous avons le produit aldol rappelez-vous
+
+these protons in between the alcohol and
+ces protons entre les deux  l'alcool et
+
+the carbonyl are pretty acidic and we
+le carbonyle sont assez acides et nous
+
+still have basic conditions so off goes
+avons toujours des conditions basiques donc
+
+a proton and now we have the enolate of
+un proton s'en va et maintenant nous avons l'énolate de
+
+the aldol product finally the hydroxide
+le produit aldol enfin l'hydroxyde
+
+is eliminated through an e1cb
+est éliminé par une
+
+elimination and we're left with an
+élimination e1cb et il nous reste un
+
+unsaturated carbonyl compound honestly
+composé carbonyle insaturé honnêtement
+
+there's nothing really new here except
+il n'y a rien de vraiment nouveau ici sauf que
+
+we use two different reactants so let's
+nous utilisons deux réactifs différents alors
+
+throw something else into the mix
+jetons quelque chose d'autre dans le mélange en
+
+making an enolate from methyl isopropyl
+faisant un énolate à partir de méthyl isopropyl
+
+ketone it has more than one alpha
+cétone  a plus d'un
+
+hydrogen and when we mix it with base we
+hydrogène alpha et lorsque nous le mélangeons avec une base, nous
+
+could form two different enolates so
+pourrions former deux énolates différents, donc
+
+which one forms or is it both to figure
+lequel forme ou est-ce les deux pour le
+
+it out let's take a moment to review
+comprendre prenons un moment pour revoir
+
+zaitsev's rule in elimination reactions
+la règle de zaitsev dans les réactions d'élimination
+
+that form alkenes we tend to form the
+qui forment des alcènes nous avons tendance à former le
+
+alkene product that we get by removing a
+produit alcène que nous obtenons en retirant un
+
+hydrogen from the carbon with the fewest
+hydrogène du carbone avec le moins d'
+
+hydrogens or to put it another way we
+hydrogènes ou pour le dire autrement, nous
+
+mostly get the more substituted alkene
+obtenons principalement le produit alcène le plus substitué
+
+product we can use similar logic here to
+, nous pouvons utiliser une logique similaire ici pour
+
+figure out the enolate product if we
+comprendre le produit énolate si nous
+
+remove a proton from the more
+retirons un proton du plus
+
+substituted alpha carbon in the methyl
+carbone alpha substitué dans la méthyl
+
+isopropyl ketone we get an enolate with
+isopropyl cétone, nous obtenons un énolate avec
+
+a more substituted carbon-carbon double
+une double liaison carbone-carbone plus substituée
+
+bond this is a lower energy product and
+c'est un en inférieur  produit énergétique et
+
+therefore more thermodynamically stable
+donc plus stable thermodynamiquement
+
+so we call it the thermodynamic product
+donc nous l'appelons le produit thermodynamique
+
+if we remove a proton from the less
+si nous enlevons un proton du
+
+substituted alpha carbon in the methyl
+carbone alpha moins substitué dans la méthyl
+
+isopropyl ketone we get an enolate with
+isopropyl cétone nous obtenons un énolate avec
+
+a less substituted carbon-carbon double
+une double liaison carbone-carbone moins substituée
+
+bond this product forms more quickly
+ce produit se forme plus rapidement
+
+because the hydrogen being removed is
+car le  l'hydrogène étant éliminé est
+
+more sterically accessible there's less
+plus stériquement accessible, il y a moins de
+
+stuff around it so we call it the
+choses autour de lui, nous l'appelons donc le
+
+kinetic product so we have one enolate
+produit cinétique, nous avons donc un énolate
+
+that's lower in energy but form more
+qui a moins d'énergie mais se forme plus
+
+slowly and one that's higher in energy
+lentement et un qui a plus d'énergie
+
+but form more quickly
+mais se forme plus rapidement,
+
+which one we get depends on the reaction
+celui que nous obtenons dépend de la réaction
+
+conditions at low temperatures we don't
+conditions à basses températures, nous n'avons pas
+
+have enough energy to get over the
+assez d'énergie pour franchir la
+
+larger energy barrier but we can get
+plus grande barrière d'énergie, mais nous pouvons franchir
+
+over the smaller energy barrier for the
+la plus petite barrière d'énergie pour la
+
+quick forming less stable higher energy
+formation rapide moins stable énergie plus élevée
+
+enolate the kinetic product at higher
+énoler le produit cinétique à des
+
+temperatures there's enough energy to
+températures plus élevées il y a assez d'énergie pour
+
+get over both energy barriers and to
+franchir les deux énergies  barrières et d'
+
+reverse the reaction so over time the
+inverser la réaction de sorte qu'au fil du temps, l'
+
+slow forming more stable lower energy
+
+enolate forms the thermodynamic product
+énolate à faible énergie plus stable à formation lente se forme  le produit thermodynamique,
+
+we also need to take into account what
+nous devons également prendre en compte la
+
+base we're using to form the enolate say
+base que nous utilisons pour former l'énolate, disons que
+
+we have a bigger stronger sterically
+nous avons une
+
+hindered base such as lithium
+base à encombrement stérique plus forte, telle que le lithium
+
+diisopropyl amide or lda and the
+diisopropyl amide ou lda et l'
+
+deprotonation step is rapid and
+étape de déprotonation est rapide et
+
+irreversible in this case the kinetic
+irréversible dans ce cas le
+
+product will be favored however with
+produit cinétique  sera favorisé cependant avec
+
+weaker bases like alkoxides the pka of
+des bases plus faibles comme les alcoxydes le pka de
+
+the base and the enolate are close
+la base et l'énolate sont proches
+
+this means that the enolate can
+cela signifie que l'énolate peut
+
+interconvert between the two forms so
+s'interconvertir entre les deux formes donc au
+
+over time the more stable product wins
+fil du temps le produit le plus stable gagne
+
+and we end up with more of the
+et on se retrouve avec plus de
+
+thermodynamic product so to recap a
+produit thermodynamique afin de  récapituler une
+
+strong base and a low temperature gives
+base forte et une basse température
+
+us the kinetic enolate a weaker base and
+nous donne l'énolate cinétique une base plus faible et
+
+higher temperature gives us the
+une température plus élevée nous donne l'
+
+thermodynamic enolate okay now that we
+énolate thermodynamique d'accord maintenant que nous
+
+know how to puzzle through tricky
+savons comment
+
+enolate formation let's try a crossed
+résoudre la formation délicate d'énolate essayons une
+
+aldol condensation with enolizable
+condensation aldol croisée avec des
+
+hydrogens on both carbonyl substrates i
+hydrogènes énolisables sur les deux substrats carbonyle i
+
+know earlier i said this could be a
+Sachez plus tôt que j'ai dit que cela pourrait être un
+
+horrible mess of different products but
+gâchis horrible de différents produits, mais
+
+there are some tricks we can use to keep
+il y a quelques astuces que nous pouvons utiliser pour  Gardez les
+
+things simple let's take it step by step
+choses simples, allons-y étape par étape,
+
+we mentioned lda a moment ago and said
+nous avons mentionné lda il y a un instant et avons dit
+
+it forms the enolate completely we're
+qu'il forme complètement l'énolate, nous
+
+starting with methyl isopropyl ketone
+recommençons avec la méthyl isopropyl
+
+again and here's that lda nabbing one of
+cétone et voici que lda attrape l'un
+
+the alpha protons to form the kinetic
+des protons alpha pour former le
+
+product then we add in an aldehyde and
+produit cinétique, puis nous ajoutons  un aldéhyde et
+
+the enolate attacks the carbonyl carbon
+l'énolate attaquent le carbone carbonyle,
+
+we're still under basic conditions which
+nous sommes toujours dans des conditions basiques qui ne
+
+are non-aqueous so we can use a strong
+sont pas aqueuses, nous pouvons donc utiliser une
+
+base like lda
+base forte comme lda
+
+to finish up the reaction we toss some
+pour terminer la réaction, nous jetons un peu d'
+
+acid into the mix at the end to
+acide dans le mélange à la fin pour
+
+protonate the oxygen and cause
+protoner l'oxygène et  provoquer l'
+
+elimination now there's another way to
+élimination maintenant il y a une autre façon de
+
+look at these aldol reactions backwards
+regarder ces réactions d'aldol à l'envers
+
+like we learned in episode 34 using
+comme nous l'avons appris dans l'épisode 34 en utilisant la
+
+retrosynthesis to figure out how to make
+rétrosynthèse pour comprendre comment faire
+
+something is a lot of what we do in
+quelque chose c'est beaucoup de ce que nous faisons en
+
+organic chemistry retrosynthesis is a
+chimie organique la rétrosynthèse c'est un
+
+bit like cutting up a beautiful cake to
+peu comme couper un beau gâteau pour
+
+figure out the decorations filling and
+comprendre  sortez les décorations de la garniture et des
+
+ingredients so you can make the same
+ingrédients pour que vous puissiez faire le même
+
+cake yourself from scratch just
+gâteau vous-même à partir de rien, mais
+
+don't try to taste your reactions so for
+n'essayez pas de goûter vos réactions, par
+
+example here's a cool compound we notice
+exemple, voici un composé sympa que nous remarquons
+
+the structure contains an enone where an
+la structure contient une énone où un
+
+alkene is conjugated with a carbonyl
+alcène est conjugué avec un carbonyle
+
+like a ketone or aldehyde this is a
+comme une cétone ou un aldéhyde c'est un
+
+dehydrated product that can come from an
+produit déshydraté qui peut provenir d'une
+
+aldol condensation we can use
+condensation d'aldol nous pouvons utiliser la
+
+retrosynthesis to reverse engineer it
+rétrosynthèse pour l'inverser
+
+let's imagine cutting that carbon-carbon
+imaginons couper cette double liaison carbone-carbone
+
+double bond with magic chemical scissors
+avec un produit chimique magique  ciseaux
+
+the part containing the carbonyl is the
+la partie contenant le carbonyle est l'
+
+enolate we need to form and we just tack
+énolate que nous devons former et nous appliquons simplement
+
+an oxygen onto the other part to figure
+un oxygène sur l'autre partie pour
+
+out the carbonyl compound we need to
+déterminer le composé carbonyle que nous devons
+
+attack
+attaquer
+
+we know which starting materials we need
+nous savons de quels matériaux de départ nous avons besoin en
+
+besides being fun to make enones can
+plus d'être amusant à fabriquer des énones peuvent
+
+also be reagents and some interesting
+également être des réactifs  et quelques
+
+chemical reactions
+réactions chimiques intéressantes
+
+let's take a quick look at their
+jetons un coup d'œil à leur
+
+structure they're often numbered based
+structure, elles sont souvent numérotées en fonction
+
+on the atoms in their conjugated system
+des atomes de leur système conjugué en
+
+starting with the high priority oxygen
+commençant par l'atome d'oxygène hautement prioritaire en
+
+atom looking at some resonance
+regardant certaines
+
+structures we can see that the four
+structures de résonance, nous pouvons voir que la
+
+position is electrophilic which means it
+position quatre est électrophile, ce qui signifie qu'il
+
+can be attacked by nucleophiles of
+peut être attaqué par des nucléophiles
+
+course the carbonyl carbon is also
+bien sûr le carbone carbonyle est également
+
+electrophilic as they've been throughout
+électrophile comme ils l'ont traversé  ut
+
+this whole series and the known universe
+toute cette série et l'univers connu
+
+so there are two possibilities for an
+, il y a donc deux possibilités pour une
+
+enone reaction there's one two
+réaction énone il y a une
+
+nucleophilic addition where the
+addition de deux nucléophiles où le
+
+nucleophile adds to the carbonyl carbon
+nucléophile s'ajoute au carbone carbonyle
+
+alternatively we could get one for
+alternativement nous pourrions en obtenir une pour l'
+
+nucleophilic addition also known as
+addition nucléophile également connue sous le nom d'
+
+conjugate addition where it adds at the
+addition conjuguée où elle s'ajoute à la
+
+four position it's using the whole
+position quatre  il utilise l'ensemble du
+
+conjugated system to do the reaction and
+système conjugué pour faire la réaction et
+
+that's where it gets its name in one two
+c'est là qu'il tire son nom en un deux
+
+addition the nucleophile attacks the
+ajout le nucléophile attaque le
+
+carbonyl carbon the pi electrons in that
+carbone carbonyle les électrons pi dans cette
+
+bond are shunted up to the oxygen which
+liaison sont shuntés vers l'oxygène qui
+
+then picks up a proton to form a
+capte ensuite un proton pour former un
+
+hydroxyl group fairly simple and
+groupe hydroxyle  assez simple et
+
+familiar in the conjugate addition
+familier dans le
+
+mechanism the nucleophile attacks the
+mécanisme d'addition conjuguée, le nucléophile attaque la
+
+four position and the enolate that forms
+position quatre et l'énolate qui se forme
+
+is stabilized by resonance because of
+est stabilisé par résonance à cause de
+
+this one of two things can happen next
+cela, une des deux choses peut se produire ensuite
+
+but the product is the same either way
+mais le produit est le même dans les deux sens
+
+in one possible mechanism the oxygen is
+dans un mécanisme possible l'oxygène est
+
+protonated and tautomerization gives the
+protoné  et la tautomérisation donne la
+
+ketone in the other the alpha carbon
+cétone dans l'autre le carbone alpha
+
+picks up a proton to form the ketone
+capte un proton pour former le  cétone
+
+directly we have two possibilities again
+directement nous avons à nouveau deux possibilités
+
+this time the nucleophilic attack is
+cette fois l'attaque nucléophile est
+
+kinetically favored at the carbonyl
+cinétiquement favorisée au niveau du
+
+carbon meaning it's faster
+carbone carbonyle ce qui signifie qu'elle est plus rapide
+
+on the other hand the nucleophilic
+d'autre part l'
+
+attack is thermodynamically favored at
+attaque nucléophile est favorisée thermodynamiquement au niveau de
+
+the alkene meaning it's more stable it
+l'alcène ce qui signifie qu'elle est plus stable il
+
+turns out that conjugate addition
+s'avère que les
+
+reactions aren't unique to enones
+réactions d'addition conjuguées ne sont pas uniques  aux énones
+
+conjugated carboxylic acid derivatives
+les dérivés d'acides carboxyliques conjugués
+
+can undergo this kind of reaction under
+peuvent subir ce type de réaction dans
+
+the right conditions the substrate
+les bonnes conditions la structure du substrat
+
+structure plays a big role in what
+joue un grand rôle dans ce qui
+
+reaction happens for example a
+se passe par exemple un
+
+nucleophile attacking an acid chloride
+nucléophile attaquant un chlorure d'acide
+
+is more likely to attack the carbonyl
+est plus susceptible d'attaquer le
+
+carbon the strongly electron withdrawing
+carbone carbonyle le chlore fortement électroattracteur
+
+chlorine really polarizes the carbonyl
+polarise vraiment  le
+
+carbon making it super attractive to
+carbone carbonyle le rend super attractif pour les
+
+nucleophiles and favoring one to
+nucléophiles et en favorise un à l'
+
+addition but a nucleophile attacking an
+addition mais un nucléophile attaquant un
+
+amide is headed for the four position
+amide se dirige vers la position quatre
+
+the nitrogen has lone pairs that
+l'azote a des paires isolées qui
+
+stabilize the molecule by resonance
+stabilisent la molécule par résonance
+
+which makes the carbonyl less reactive
+ce qui rend le carbonyle moins réactif
+
+and favors conjugate addition the
+et favorise l'addition conjuguée le
+
+nucleophile is even more important
+nucléophile est  e  encore plus important,
+
+though at this point it's helpful to
+mais à ce stade, il est utile
+
+think of them in two categories hard
+de les considérer en deux catégories, les
+
+nucleophiles and soft nucleophiles
+nucléophiles durs et les nucléophiles mous, la
+
+hardness and softness is related to
+dureté et la douceur sont liées à la
+
+charge and polarizability which we
+charge et à la polarisabilité, ce que nous avons
+
+learned about in episode 11. think of
+appris dans l'épisode 11. pensez aux
+
+hard nucleophiles as kind of like sharp
+nucléophiles durs comme à des
+
+weapons they're aggressive they're very
+armes tranchantes.  re agressifs ils sont très
+
+electronegative relatively small and not
+électronégatifs relativement petits et pas
+
+very polarizable think fluorides
+très polarisables pensent fluorures
+
+alkoxides organolithiums and grignard
+alcoxydes organolithiums et
+
+reagents soft nucleophiles on the other
+réactifs grignards nucléophiles mous d'autre
+
+hand are cuddly they say hey let's not
+part sont câlins ils disent hey ne nous battons pas
+
+fight let's hug it out instead they have
+embrassons-nous plutôt ils ont
+
+lower electronegativity they're bigger
+une électronégativité plus faible ils sont plus gros
+
+more polarizable and sometimes neutrally
+plus polarisables et  parfois chargés de manière neutre,
+
+charged think that sulfur compounds
+pensez que les composés soufrés les
+
+iodide ions and resonance stabilized
+ions iodure et les énolates stabilisés par résonance
+
+enolates hard and soft nucleophiles do
+les
+
+have hard and soft electrophile
+nucléophiles durs et mous ont des homologues électrophiles durs et mous
+
+counterparts and we'll just touch on
+et nous aborderons
+
+this topic briefly with our enone
+brièvement ce sujet avec notre
+
+example all we need to know for now is
+exemple enone tout ce que nous devons savoir pour l'instant est
+
+that soft nucleophiles are more likely
+que les nucléophiles mous sont  plus susceptible
+
+to react with soft electrophiles and
+de réagir avec les électrophiles mous et
+
+hard nucleophiles are more likely to
+les nucléophiles durs  es sont plus susceptibles de
+
+react with hard electrophiles i guess
+réagir avec des électrophiles durs, je suppose que les
+
+colors like to cuddle and fighters like
+couleurs aiment se câliner et que les combattants aiment
+
+to fight so when we have an enone with
+se battre, donc quand nous avons une énone avec
+
+two electrophilic sites the carbonyl
+deux sites électrophiles, le
+
+carbon is a harder electrophile because
+carbone carbonyle est un électrophile plus dur car
+
+it's closer to the electron pulling
+il est plus proche de l'électron tirant l'
+
+oxygen while the carbon at the four
+oxygène tandis que le carbone au  la
+
+position is much softer and based on
+position quatre est beaucoup plus douce et basée sur
+
+that cuddling versus fighting pattern a
+ce modèle câlins contre combats, un
+
+hard nucleophile is more likely to give
+nucléophile dur est plus susceptible de
+
+us the one two addition product while a
+nous donner le produit d'addition un deux tandis qu'un
+
+soft nucleophile is more likely to give
+nucléophile doux est plus susceptible de
+
+us the conjugate addition product in
+nous donner le produit d'addition conjugué en
+
+fact remember our termites from the
+fait, rappelez-vous nos termites de l'
+
+intro the toxic chemical weapon of the
+intro le  l'arme chimique toxique des
+
+soldier termites is an enone and because
+termites soldats est une énone et parce que
+
+so many biological groups have thials
+tant de groupes biologiques ont des thials
+
+which are soft nucleophiles the toxin
+qui sont des nucléophiles mous, la toxine
+
+causes biological upset thanks to
+provoque des bouleversements biologiques grâce à
+
+conjugate addition reactions the
+des réactions d'addition conjuguées la
+
+inactivated toxin which forms after
+toxine inactivée qui se forme après
+
+exposure to the worker termites enzyme
+exposition à l'enzyme des termites ouvriers
+
+doesn't have a double bond conjugated
+n'a pas de double  liaison conjuguée
+
+with the carbonyl group it's unreactive
+avec le groupe carbonyle, il n'est pas réactif
+
+with soft nucleophiles like thials and
+avec les nucléophiles mous comme les thials et
+
+our worker termites live to build
+o  vos termites ouvriers vivent pour construire
+
+another day not only that but conjugate
+un autre jour non seulement cela, mais l'
+
+addition of thials are part of our
+ajout conjugué de thials fait également partie de notre
+
+penicillin v synthesis too this step of
+synthèse de pénicilline v cette étape de
+
+our mold medicine map starts off with
+notre carte de médecine des moisissures commence avec
+
+the ring compound we made in the last
+le composé en anneau que nous avons fabriqué dans le dernier
+
+episode first we mix methoxide with
+épisode, nous mélangeons d'abord le méthoxyde avec
+
+hydrogen sulfide gas and the methoxide
+du sulfure d'hydrogène  le gaz et le méthoxyde
+
+nabs a proton
+attrape un proton
+
+the newly formed bisulfide anion a soft
+l'anion bisulfure nouvellement formé un
+
+nucleophile attacks the enone of the
+nucléophile doux attaque l'énone de la
+
+beta position to form the conjugate
+position bêta pour former le
+
+addition product after that we have a
+produit d'addition conjugué après cela, nous avons une
+
+cleavage step methoxide which is a
+étape de clivage le méthoxyde qui est un
+
+harder nucleophile attacks the carbonyl
+nucléophile plus dur attaque le
+
+carbon when the electrons move down from
+carbone carbonyle lorsque les électrons descendent  à partir de
+
+the oxygen the ring cleaves to leave an
+l'oxygène, le cycle se clive pour laisser un
+
+ester group at one end of the molecule
+groupe ester à une extrémité de la molécule
+
+at the other end we have our leaving
+à l'autre extrémité, nous avons notre
+
+group and the protonation at nitrogen
+groupe partant et la protonation à l'azote
+
+leaves us with an amide so overall dr
+nous laisse avec un amide, donc dans l'ensemble, le dr
+
+chien used a conjugate addition reaction
+chien a utilisé une réaction d'addition conjuguée
+
+to add the sulfur atom needed for the
+pour ajouter l'atome de soufre  nécessaire pour l'
+
+penicillin ring
+anneau de pénicilline
+
+in episode 31 we saw that the next step
+dans l'épisode 31, nous avons vu que l'étape suivante
+
+was hydrolysis of both the ester and the
+était l'hydrolyse de l'ester et de l'
+
+amide comparing that to the
+amide en comparant cela à l'e  L'
+
+five-membered ring of penicillin we can
+anneau de pénicilline à cinq chaînons, nous pouvons
+
+see that this early step in the
+voir que cette première étape de la
+
+synthesis introduced all but one of
+synthèse a introduit tous
+
+these atoms but that was a real brain
+ces atomes sauf un, mais c'était un véritable casse-tête,
+
+bender so we'll end this episode here
+nous allons donc terminer cet épisode ici
+
+this time we learned that a cross aldo
+cette fois, nous avons appris qu'une réaction aldo croisée
+
+reaction involves joining an enolizable
+implique de se joindre  une
+
+ketone and an aldehyde
+cétone énolisable et un aldéhyde
+
+kinetic and thermodynamic enolates form
+des énolates cinétiques et thermodynamiques se forment
+
+under different conditions
+dans différentes conditions.
+
+soft nucleophiles are more likely to
+
+attack soft electrophiles and hard
+
+nucleophiles are more likely to attack
+
+hard electrophiles for now we're done
+
+with enols and enolates but not with
+
+penicillin next time we'll cover amines
+couvrira les amines
+
+and learn how dr shien closed up that
+et apprendra comment le dr shien a fermé cet
+
+five-membered ring until next time
+anneau à cinq membres jusqu'à la prochaine fois
+
+thanks for watching this episode of
+merci d'avoir regardé cet épisode de
+
+crash course organic chemistry if you
+cours intensif de chimie organique si vous
+
+want to help keep all crash course free
+voulez aider à garder tous les cours accélérés gratuits
+
+for everybody forever you can join our
+pour tout le monde pour toujours vous pouvez rejoindre notre
+
+community on patreon
+communauté sur patreon
+

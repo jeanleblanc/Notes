@@ -1,0 +1,427 @@
+When you say the word 'chemicals', most people think 'chemicals bad' or 'chemicals dangerous',
+Lorsque vous dites le mot "produits chimiques", la plupart des gens pensent que "les produits chimiques sont mauvais" ou "les produits chimiques dangereux",
+
+those people say things like 'I don't give my kids food with chemicals in it'
+ces gens disent des choses comme "je ne donne pas à mes enfants de la nourriture contenant des produits chimiques"
+
+or 'that factory puts chemicals in the water'.
+ou "cette usine met des produits chimiques dans l'eau".  '.
+
+Sometimes these people are thinking of liquid chemicals that are,
+Parfois, ces personnes pensent aux produits chimiques liquides qui sont,
+
+for example, sprayed on crops or gaseous chemicals that come out of
+par exemple, pulvérisés sur les cultures ou aux produits chimiques gazeux qui sortent des
+
+smokestacks or exhaust pipes, but those people probably
+cheminées ou des tuyaux d'échappement, mais ces personnes
+
+don't think of chemicals as solids.
+ne considèrent probablement pas les produits chimiques comme des solides.
+
+To them, solids like this table here or my computer or aardvarks, that's just stuff.
+Pour eux, des solides comme cette table ici ou mon ordinateur ou des oryctéropes, c'est juste des trucs.
+
+But it's vital to recognize that, as I've said before, almost everything you interact with
+Mais il est essentiel de reconnaître que, comme je l'ai déjà dit, presque tout ce avec quoi vous
+
+on a daily basis is chemicals, except for like, light.  And with the exception of air,
+interagissez quotidiennement est composé de produits chimiques, à l'exception de la lumière.  Et à l'exception de l'air,
+
+the vast majority of the matter that you interact with is in the form of solids,
+la grande majorité de la matière avec laquelle vous interagissez est sous forme de solides,
+
+like I'm interacting with my clothes right now, which is good,
+comme j'interagis avec mes vêtements en ce moment, ce qui est bien,
+
+otherwise this would be, this would be an inappropriate episode.
+sinon ce serait, ce serait un épisode inapproprié  .
+
+But solids are a lot more diverse than what we might think of as just
+Mais les solides sont beaucoup plus diversifiés que ce que nous pourrions considérer comme simplement
+
+hard or strong or stuffy.  Stuff-like.  Stuffish.  Stuffable.
+durs ou forts ou étouffants.  Choses comme.  Truc.  Rembourrable.
+
+Stuff the Magic Dragon.  Many metals, for example, are almost infinitely moldable under the
+Farcissez le dragon magique.  De nombreux métaux, par exemple, sont moulables presque à l'infini dans les
+
+right conditions. Meanwhile, rocks aren't moldable at all,
+bonnes conditions.  Pendant ce temps, les roches ne sont pas malléables du tout,
+
+their lack of flexibility causes them to shatter or crumble under sufficient force.
+leur manque de flexibilité les fait se briser ou s'effriter sous une force suffisante.
+
+Then there are solids that we think of as being softer, like rubber and clay and Styrofoam,
+Ensuite, il y a les solides que nous considérons comme étant plus mous, comme le caoutchouc, l'argile et le polystyrène,
+
+all of which are soft for different reasons, and behave in very different ways.  None of this is random.
+qui sont tous mous pour différentes raisons et se comportent de manières très différentes.  Rien de tout cela n'est aléatoire.
+
+Like all matter, solids get their characteristics from the arrangement of their electrons,
+Comme toute matière, les solides tirent leurs caractéristiques de l'arrangement de leurs électrons, de
+
+their chemical bonds, and their intermolecular forces.
+leurs liaisons chimiques et de leurs forces intermoléculaires.
+
+There are two main classes of solids, crystalline and amorphous.
+Il existe deux grandes classes de solides, cristallins et amorphes.
+
+The atoms in molecules in crystalline solids are arranged in an orderly, predictable way.
+Les atomes des molécules des solides cristallins sont disposés de manière ordonnée et prévisible.
+
+Amorphous literally means 'without shape', and amorphous solids, unsurprisingly, don't have a definite shape because
+Amorphe signifie littéralement "sans forme", et les solides amorphes, sans surprise, n'ont pas de forme définie car
+
+their atoms and molecules are arranged randomly.
+leurs atomes et molécules sont disposés de manière aléatoire.
+
+And just within these two classes, solids can exhibit a pretty amazing variety of characteristics and behaviors.
+Et juste au sein de ces deux classes, les solides peuvent présenter une variété assez étonnante de caractéristiques et de comportements.
+
+So you may just surprise yourself by learning something new about materials that you thought
+Vous pourriez donc vous surprendre en apprenant quelque chose de nouveau sur les matériaux que vous pensiez
+
+you knew inside and out, and even better than that, you can explain it to some of those people
+connaître de fond en comble, et mieux encore, vous pouvez l'expliquer à certaines de ces personnes
+
+who don't even know what chemicals really are.
+qui ne savent même pas ce que sont réellement les produits chimiques.
+
+(CrashCourse Intro plays)
+(CrashCourse Intro se joue)
+
+The category of amorphous solids includes things that you might expect, like foams and gels and colloids,
+La catégorie des solides amorphes comprend des choses auxquelles vous pourriez vous attendre, comme les mousses et les gels et les colloïdes,
+
+like mayonnaise, rubber, waxes, and some biological tissues such as fat.
+comme la mayonnaise, le caoutchouc, les cires et certains tissus biologiques comme la graisse.
+
+They also include some things that you might not expect, like coal,
+Ils incluent également certaines choses auxquelles vous ne vous attendez peut-être pas, comme le charbon,
+
+the things silicon panels use in semiconductors, and even glass.
+les choses que les panneaux de silicium utilisent dans les semi-conducteurs et même le verre.
+
+That's right, despite what you may have heard, glass is not a liquid,
+C'est vrai, malgré ce que vous avez pu entendre, le verre n'est pas un liquide,
+
+I don't know who made that up. In chemistry,
+je ne sais pas qui a inventé ça.  En chimie,
+
+amorphous doesn't mean soft or even flexible, although
+amorphe ne signifie pas mou ou même flexible, bien que de
+
+many amorphous solids are both of those things.  Instead,
+nombreux solides amorphes soient ces deux choses.  Au lieu de cela,
+
+the classification is all about the fact that their atomic structure is
+la classification repose sur le fait que leur structure atomique est
+
+disordered, or random.
+désordonnée ou aléatoire.
+
+Amorphous solids do however have a couple of macroscopic properties in common.
+Les solides amorphes ont cependant quelques propriétés macroscopiques en commun.
+
+First, it is important to understand that because the particles in an amorphous solid are arranged
+Tout d'abord, il est important de comprendre que parce que les particules d'un solide amorphe sont disposées de
+
+randomly, the strength of the bonds holding them together are also random.
+manière aléatoire, la force des liaisons qui les maintiennent ensemble est également aléatoire.
+
+That's what causes amorphous solids to melt gradually, like this glass tube.
+C'est ce qui fait fondre progressivement les solides amorphes, comme ce tube de verre.
+
+As the material is heated, the weaker intermolecular bonds break first,
+Lorsque le matériau est chauffé, les liaisons intermoléculaires les plus faibles se brisent en premier,
+
+then the stronger ones break as the energy threshold is broken by heat.
+puis les plus fortes se brisent lorsque le seuil d'énergie est brisé par la chaleur.
+
+So amorphous solids don't have the sharp discrete melting points of things like ice,
+Ainsi, les solides amorphes n'ont pas les points de fusion discrets et nets de choses comme la glace,
+
+which melts exactly at 0, instead, they melt over a range of temperatures,
+qui fond exactement à 0, au lieu de cela, ils fondent sur une plage de températures, à
+
+as the heat energy increases.
+mesure que l'énergie thermique augmente.
+
+Amorphous solids also respond to stress very differently than crystalline solids.
+Les solides amorphes réagissent également au stress très différemment des solides cristallins.
+
+Because the arrangement of crystalline solids is so orderly,
+Parce que l'arrangement des solides cristallins est si ordonné,
+
+they're often very easy to break along a plane that falls between adjacent molecules,
+ils sont souvent très faciles à casser le long d'un plan qui tombe entre des molécules adjacentes,
+
+and when they break, they tend to do it along straight lines,
+et quand ils se cassent, ils ont tendance à le faire le long de lignes droites,
+
+the way cutting a diamond creates perfectly smooth facets.  But with many amorphous solids,
+la façon dont la coupe d'un diamant crée des facettes parfaitement lisses  .  Mais avec de nombreux solides amorphes,
+
+it's hard to find a plane like that, no matter how you attack it,
+il est difficile de trouver un plan comme celui-là, peu importe comment vous l'attaquez,
+
+you'll usually run into molecules that are sitting right in the middle of that plane,
+vous rencontrerez généralement des molécules qui se trouvent en plein milieu de ce plan,
+
+resisting the break.  And even hard amorphous solids
+résistant à la rupture.  Et même les solides amorphes durs
+
+that do break under pressure rarely do it along straight lines, that's why broken glass
+qui se cassent sous la pression le font rarement le long de lignes droites, c'est pourquoi le verre brisé
+
+ends up in crazy random shapes. And why coal looks like a random rock,
+se retrouve dans des formes aléatoires folles.  Et pourquoi le charbon ressemble à une roche aléatoire,
+
+not like a nice orderly crystal.
+pas à un joli cristal ordonné.
+
+We have a name for this, amorphous solids are isotropic. Meaning that
+Nous avons un nom pour cela, les solides amorphes sont isotropes.  Cela signifie
+
+they respond to stress in the same way in every direction. No matter which direction you poke
+qu'ils réagissent au stress de la même manière dans toutes les directions.  Quelle que soit la direction dans laquelle vous poussez
+
+a piece of clay, or hit a piece of glass, it's resistance to breakage will always be similar.
+un morceau d'argile ou frappez un morceau de verre, sa résistance à la casse sera toujours similaire.
+
+But crystalline solids are anisotropic, they break differently depending on which plane you hit.
+Mais les solides cristallins sont anisotropes, ils se cassent différemment selon l'avion que vous frappez.
+
+Speaking of diamonds, you probably think of 'crystalline' as things that look sorta like that.
+En parlant de diamants, vous pensez probablement au «cristallin» comme à des choses qui ressemblent un peu à ça.
+
+But there are actually three different types of crystalline solids, and they cover a huge array of ,
+Mais il existe en fait trois types différents de solides cristallins, et ils couvrent une vaste gamme de
+
+materials, some of them pretty surprising. Those types are based on composition.
+matériaux, dont certains sont assez surprenants.  Ces types sont basés sur la composition.
+
+They can be molecular, ionic, or atomic.
+Ils peuvent être moléculaires, ioniques ou atomiques.
+
+Molecular solids are made up of covalent compounds that form an orderly crystalline structure
+Les solides moléculaires sont constitués de composés covalents qui forment une structure cristalline ordonnée à
+
+as they solidify, while their molecules remain unchanged.
+mesure qu'ils se solidifient, tandis que leurs molécules restent inchangées.
+
+Examples include things like water ice, dry ice - which is just frozen CO2, and sugar.
+Les exemples incluent des choses comme la glace d'eau, la neige carbonique - qui est juste du CO2 congelé et du sucre.
+
+Because the molecules are held together by weak Van de Waals forces, they break down pretty easily.
+Parce que les molécules sont maintenues ensemble par de faibles forces de Van de Waals, elles se décomposent assez facilement.
+
+For that reason, these solids generally tend to be soft with fairly low melting points.
+Pour cette raison, ces solides ont généralement tendance à être mous avec des points de fusion assez bas.
+
+Ionic solids are basically the solid forms of things we think of as ionic compounds like sodium chloride
+Les solides ioniques sont essentiellement les formes solides de choses que nous considérons comme des composés ioniques comme le chlorure de sodium
+
+- or table salt, calcium carbonate - which is chalk and limestone, and magnesium sulfate -
+- ou le sel de table, le carbonate de calcium - qui est de la craie et du calcaire, et le sulfate de magnésium -
+
+otherwise known as Epsom salt. Because they are made of ions,
+autrement connu sous le nom de sel d'Epsom.  Parce qu'ils sont constitués d'ions,
+
+they are often soluble in water and other polar solvents, but they have very high melting points.
+ils sont souvent solubles dans l'eau et d'autres solvants polaires, mais ils ont des points de fusion très élevés.
+
+So table salt would be gone in no time if I put it in water, but if I applied heat directly to it,
+Ainsi, le sel de table disparaîtrait en un rien de temps si je le mettais dans l'eau, mais si je lui appliquais de la chaleur directement,
+
+it wouldn't melt until the temperature reached 800 and 1 degree Celsius.
+il ne fondrait pas avant que la température n'atteigne 800 et 1 degré Celsius.
+
+Atomic solids, as the name suggests, are made up of individual atoms, not molecules at all.
+Les solides atomiques, comme leur nom l'indique, sont constitués d'atomes individuels, pas de molécules du tout.
+
+Sounds simple, well there are actually three types of atomic solids too: network solids, group 18 solids, and
+Cela semble simple, eh bien, il existe également trois types de solides atomiques : les solides de réseau, les solides du groupe 18 et les
+
+metals.
+métaux.
+
+Network solids are so interesting and important that we're going to cover them in a separate lesson.
+Les solides de réseau sont si intéressants et importants que nous allons les aborder dans une leçon séparée.
+
+I won't get in to it now except to say that the atoms basically form a rigid crystal structure.
+Je n'y reviendrai pas maintenant, sauf pour dire que les atomes forment fondamentalement une structure cristalline rigide.
+
+A diamond, for example, is just a big crystal made of carbon atoms.
+Un diamant, par exemple, n'est qu'un gros cristal composé d'atomes de carbone.
+
+So you can think of diamonds, and other network solids, as really giant molecules.
+Vous pouvez donc considérer les diamants et les autres solides du réseau comme de véritables molécules géantes.
+
+Group 18 solids meanwhile are the solid phase materials of the noble gases
+Les solides du groupe 18 sont quant à eux les matériaux en phase solide des gaz nobles du
+
+Group 18 on the periodic table. Since noble gases have little interest interacting, even among
+groupe 18 du tableau périodique.  Comme les gaz nobles ont peu d'intérêt à interagir, même entre
+
+themselves, it's very hard to cool and pressurize them enough to make them form a liquid
+eux, il est très difficile de les refroidir et de les pressuriser suffisamment pour les faire se liquéfier
+
+and even more so to make them solidify. So when they do crystallize,
+et encore plus pour les faire se solidifier.  Ainsi, lorsqu'ils cristallisent,
+
+the atoms are held together by weak little Van de Waals forces, not stable at all to say
+les atomes sont maintenus ensemble par de faibles petites forces de Van de Waals, pas du tout stables, c'est
+
+the least, so they don't tend to stick around for long. Because of this,
+le moins qu'on puisse dire, de sorte qu'ils n'ont pas tendance à rester longtemps.  Pour cette raison,
+
+they're really rare, and not something that you'll, like, ever encounter unless you go on to study them
+ils sont vraiment rares, et ce n'est pas quelque chose que vous rencontrerez jamais à moins que vous ne les étudiiez
+
+specifically.
+spécifiquement.
+
+
+But metals, you know metals they're everywhere. You're probably looking at me on a device
+Mais les métaux, vous savez les métaux, ils sont partout.  Vous me regardez probablement sur un appareil
+
+made of metal. You probably have metal in your pocket.
+en métal.  Vous avez probablement du métal dans votre poche.
+
+You might have metal in your teeth. And yeah, you probably don't think of metals as crystals,
+Vous pourriez avoir du métal dans vos dents.  Et oui, vous ne pensez probablement pas aux métaux comme à des cristaux,
+
+but remember the key is that their atoms are arranged in an orderly way.
+mais rappelez-vous que la clé est que leurs atomes sont disposés de manière ordonnée.
+
+The atoms, in fact, form several different arrangements in order to best take advantage of
+Les atomes, en effet, forment plusieurs arrangements différents afin de profiter au mieux de
+
+the space and the structure.
+l'espace et de la structure.
+
+These structures are called closest packing arrangements. To picture how it works,
+Ces structures sont appelées arrangements de garnissage les plus proches.  Pour imaginer comment cela fonctionne,
+
+think of metal atoms as spheres and consider how they can pack together in the most efficient ways
+pensez aux atomes métalliques comme des sphères et réfléchissez à la façon dont ils peuvent s'assembler de la manière la plus efficace
+
+possible.
+possible.
+
+Like imagine if you have to fill the box with as many ping pong as you can,
+Comme imaginez si vous devez remplir la boîte avec autant de ping-pong que vous le pouvez,
+
+the atoms stack just like the ping pong balls would.
+les atomes s'empilent comme le feraient les balles de ping-pong.
+
+In spite of their orderly arrangement though, most metals are quite malleable.
+Malgré leur disposition ordonnée, la plupart des métaux sont assez malléables.
+
+Meaning that they can be pounded in to various shapes, and ductile, meaning that they can be
+Cela signifie qu'ils peuvent être martelés en différentes formes et ductiles, ce qui signifie qu'ils peuvent être
+
+stretched out in to wires. Both of these characteristics result from the nature of their atoms
+étirés en fils.  Ces deux caractéristiques résultent de la nature de leurs atomes
+
+and the bonds between them.
+et des liens qui les unissent.
+
+The atoms in metals are large.
+Les atomes des métaux sont gros.
+
+So large, that the valence electrons aren't held very strongly by the nucleus.
+Si gros que les électrons de valence ne sont pas très fortement retenus par le noyau.
+
+This gives them much more freedom to move around than the electrons on most elements.
+Cela leur donne beaucoup plus de liberté de mouvement que les électrons de la plupart des éléments.
+
+So instead of belonging to a single atom, they form a kind of sea of electrons,
+Ainsi, au lieu d'appartenir à un seul atome, ils forment une sorte de mer d'électrons,
+
+wandering from one nucleus to another.
+errant d'un noyau à l'autre.
+
+These freely moving electrons are in fact the main reason that metals can conduct heat and electricity so easily.
+Ces électrons se déplaçant librement sont en fait la principale raison pour laquelle les métaux peuvent conduire si facilement la chaleur et l'électricité.
+
+It's actually more accurate to say that the electrons form large, somewhat unstable,
+Il est en fait plus exact de dire que les électrons forment de grandes orbitales quelque peu instables
+
+orbitals around collections of atoms.
+autour de collections d'atomes.
+
+The nuclei are tightly bonded together by the electrons that are all around them,
+Les noyaux sont étroitement liés par les électrons qui les entourent,
+
+making the metal structure extremely strong. But the bonds are uniquely flexible,
+ce qui rend la structure métallique extrêmement solide.  Mais les liaisons sont particulièrement flexibles,
+
+allowing the kinds of deformations that we're accustomed to from metals.
+permettant les types de déformations auxquelles nous sommes habitués avec les métaux.
+
+Despite the crazy array of solids that classify as crystalline, they do all have certain things in common.
+Malgré la gamme folle de solides classés comme cristallins, ils ont tous certaines choses en commun.
+
+And as usual, most of their common characteristics are related to their bonds.
+Et comme d'habitude, la plupart de leurs caractéristiques communes sont liées à leurs liens.
+
+Since all the bonds in a crystal are the same length, their all equally strong.
+Puisque toutes les liaisons d'un cristal ont la même longueur, elles sont toutes également fortes.
+
+Which means they can be broken by the same amount of energy, and their melting points are
+Ce qui signifie qu'ils peuvent être brisés par la même quantité d'énergie, et leurs points de fusion sont
+
+very specific temperatures, not broad ranges.
+des températures très spécifiques, pas de larges plages.
+
+Crystalline solids are also generally more brittle than amorphous ones,
+Les solides cristallins sont également généralement plus fragiles que les amorphes et,
+
+and as I mentioned, respond to force differently in different directions.
+comme je l'ai mentionné, réagissent différemment à la force dans différentes directions.
+
+It's kind of crazy to think that all of the different things that we think of as solids are actually
+C'est un peu fou de penser que toutes les différentes choses que nous considérons comme des solides sont en fait
+
+All of the Volvos, and reusable shopping bags, and kid's bicycle helmets,
+toutes les Volvo, les sacs à provisions réutilisables et les casques de vélo pour enfants
+
+are all from a diverse array of chemicals called solids.
+, tous issus d'un large éventail de produits chimiques appelés solides.
+
+Thank you for watching this episode of CrashCourse Chemistry. If you've paid attention,
+Merci d'avoir regardé cet épisode de CrashCourse Chemistry.  Si vous avez fait attention,
+
+you've learned the difference between amorphous and crystalline solids.
+vous avez appris la différence entre les solides amorphes et cristallins.
+
+You've learned that crystalline solids can be made up of molecules, ions, or atoms.
+Vous avez appris que les solides cristallins peuvent être constitués de molécules, d'ions ou d'atomes.
+
+And that the ones made of atoms, can be networks, noble gases, or metals.
+Et que ceux constitués d'atomes, peuvent être des réseaux, des gaz nobles ou des métaux.
+
+You also learned some of the properties of solids in each of those categories,
+Vous avez également appris certaines des propriétés des solides dans chacune de ces catégories,
+
+and you learned that in every case the properties of the solid are much more related to
+et vous avez appris que dans tous les cas, les propriétés du solide sont beaucoup plus liées
+
+the bonds between the particles than to the identity of the particles themselves.
+aux liaisons entre les particules qu'à l'identité des particules elles-mêmes.
+
+This episode was written by Edi González. It was edited by Blake de Pastino
+Cet épisode a été écrit par Edi González.  Il a été édité par Blake de Pastino
+
+and the chemistry consultant was Dr. Heiko Langner. It was filmed, edited, and directed by
+et le consultant en chimie était le Dr Heiko Langner.  Il a été filmé, monté et réalisé par
+
+Nicholas Jenkins. And the script supervisor was Michael Aranda,
+Nicholas Jenkins.  Et le superviseur du scénario était Michael Aranda,
+
+who is also our sound designer and our graphics team. As always is thought cafe.
+qui est aussi notre concepteur sonore et notre équipe graphique.  Comme toujours, c'est le café de la pensée.
+

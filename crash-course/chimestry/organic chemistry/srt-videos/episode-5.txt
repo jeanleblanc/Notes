@@ -1,0 +1,444 @@
+You can review content from Crash Course Organic Chemistry with the Crash Course app, available now for Android and iOS devices.
+Vous pouvez consulter le contenu de Crash Course Organic Chemistry avec l'application Crash Course, disponible dès maintenant pour les appareils Android et iOS.
+
+Hi! I’m Deboki Chakravarti and welcome back to Crash Course Organic Chemistry!
+Salut!  Je m'appelle Deboki Chakravarti et je vous souhaite la bienvenue au cours intensif de chimie organique !
+
+Movies and TV shows are full of instant science.
+Les films et les émissions de télévision regorgent de science instantanée.
+
+A TV cop brings back a mysterious white powder from some crime scene and lab techs run it through a machine.
+Un policier de la télévision ramène une mystérieuse poudre blanche d'une scène de crime et des techniciens de laboratoire la font passer dans une machine.
+
+Seconds later, the substance is identified with a sciencey-looking graph, and the tech says something like,
+Quelques secondes plus tard, la substance est identifiée par un graphique d'aspect scientifique, et le technicien dit quelque chose comme :
+
+“I thought so. It’s... powdered sugar.”
+« Je le pensais.  C'est... du sucre en poudre.
+
+Reality is not so clean or easy or fast.
+La réalité n'est pas si nette, ni facile, ni rapide.
+
+TV has it right on one level.
+La télévision a raison sur un seul niveau.
+
+We can use instruments to learn things about molecules, like their mass, different functional groups, or what geometric isomer they are.
+Nous pouvons utiliser des instruments pour apprendre des choses sur les molécules, comme leur masse, différents groupes fonctionnels ou quel isomère géométrique elles sont.
+
+But it’s not so easy to know what you’re looking at, and it usually takes a couple instruments to get a more conclusive answer.
+Mais il n'est pas si facile de savoir ce que vous regardez, et il faut généralement quelques instruments pour obtenir une réponse plus concluante.
+
+Today, we’ll look at two important tools that we can use to examine molecular compounds:
+Aujourd'hui, nous allons examiner deux outils importants que nous pouvons utiliser pour examiner les composés moléculaires :
+
+infrared spectroscopy, and mass spectrometry.
+la spectroscopie infrarouge et la spectrométrie de masse.
+
+And to make it fun, we’ll do it through the lens of a forensic investigation…
+Et pour faire plaisir, on le fera sous le prisme d'une enquête médico-légale…
+
+Let’s set the scene: firefighters and police are called to an explosion in a building.
+Plantons le décor : pompiers et policiers sont appelés pour une explosion dans un immeuble.
+
+After the fire is contained, evidence is collected.
+Une fois l'incendie maîtrisé, des preuves sont recueillies.
+
+Among lots of samples, investigators find what looks like chemistry lab equipment and some white powder in part of the building not affected by the explosion or the fire-fighting chemicals.
+Parmi de nombreux échantillons, les enquêteurs trouvent ce qui ressemble à du matériel de laboratoire de chimie et de la poudre blanche dans une partie du bâtiment non affectée par l'explosion ou les produits chimiques de lutte contre l'incendie.
+
+Now, let’s step into the shoes of the crime scene techs.
+Maintenant, entrons dans la peau des techniciens des scènes de crime.
+
+A sample of white powder has been delivered to us and it’s our job to identify it.
+Un échantillon de poudre blanche nous a été livré et c'est à nous de l'identifier.
+
+Time for molecular analysis.
+Temps d'analyse moléculaire.
+
+[Theme Music]
+[Thème musical]
+
+Before we get too deep into our mystery, we need to set something straight.
+Avant d'entrer trop profondément dans notre mystère, nous devons mettre quelque chose au clair.
+
+Spectroscopy and spectrometry are not interchangeable words.
+Spectroscopie et spectrométrie ne sont pas des mots interchangeables.
+
+Spectroscopy is the study of how matter interacts with visible light and other electromagnetic radiation, from gamma rays to microwaves and everything in between.
+La spectroscopie est l'étude de la façon dont la matière interagit avec la lumière visible et d'autres rayonnements électromagnétiques, des rayons gamma aux micro-ondes et tout le reste.
+
+These techniques are usually non-destructive, so the sample of our compound won’t be changed after the analysis.
+Ces techniques sont généralement non destructives, de sorte que l'échantillon de notre composé ne sera pas modifié après l'analyse.
+
+Spectrometry is the generation of interpretable data, or spectra, from a lot of different techniques, including spectroscopy.
+La spectrométrie est la génération de données interprétables, ou spectres, à partir de nombreuses techniques différentes, y compris la spectroscopie.
+
+Some of the techniques that generate spectra can be destructive, like mass spectrometry that we’re going to talk about today.
+Certaines des techniques qui génèrent des spectres peuvent être destructrices, comme la spectrométrie de masse dont nous allons parler aujourd'hui.
+
+Basically, the main difference is that spectroscopy is just observing how electromagnetic radiation interacts with molecules, while spectrometry provides data that we can use to interpret the structure.
+Fondamentalement, la principale différence est que la spectroscopie observe simplement comment le rayonnement électromagnétique interagit avec les molécules, tandis que la spectrométrie fournit des données que nous pouvons utiliser pour interpréter la structure.
+
+Both of them can be used for individual substances or mixtures, but mixtures are way more complicated, so we’ll stick to one substance at a time for now.
+Les deux peuvent être utilisés pour des substances individuelles ou des mélanges, mais les mélanges sont beaucoup plus compliqués, nous nous en tiendrons donc à une substance à la fois pour le moment.
+
+Okay.
+D'accord. 
+
+Now that we’ve cleared that up, let’s dive into the techniques.
+Maintenant que nous avons clarifié cela, plongeons dans les techniques.
+
+Using a very small amount of sample, mass spectrometry, or mass spec for short, gives us information about a molecule’s molecular mass, which is the added-up weights of all of its atoms.
+L'utilisation d'une très petite quantité d'échantillon, la spectrométrie de masse ou la spécification de masse en abrégé, nous donne des informations sur la masse moléculaire d'une molécule, qui correspond aux poids additionnés de tous ses atomes.
+
+Inside a mass spectrometer, there aren’t any air particles whizzing around, so it’s a vacuum, like outer space.
+À l'intérieur d'un spectromètre de masse, il n'y a pas de particules d'air qui tourbillonnent, c'est donc un vide, comme l'espace extra-atmosphérique.
+
+A sample molecule goes into a chamber and the ion source generates a stream of electrons with a high temperature electrical current.
+Une molécule échantillon entre dans une chambre et la source d'ions génère un flux d'électrons avec un courant électrique à haute température.
+
+In the ion source, a metal gets zapped, electrons get liberated, and that electron stream hits the sample molecule.
+Dans la source d'ions, un métal est zappé, des électrons sont libérés et ce flux d'électrons frappe la molécule de l'échantillon.
+
+This technique is called electron impact.
+Cette technique est appelée impact électronique.
+
+It’s a destructive approach, but also one of the most common in mass spec.
+C'est une approche destructrice, mais aussi l'une des plus courantes dans les spécifications de masse.
+
+When this stream of focused electrons strikes a molecule, an electron splits off from the molecule and it forms a radical cation.
+Lorsque ce flux d'électrons focalisés frappe une molécule, un électron se sépare de la molécule et forme un cation radicalaire.
+
+It leaves behind an unpaired electron -- a radical.
+Il laisse derrière lui un électron non apparié -- un radical.
+
+And it’s a cation, with a positive charge, because a neutral molecule loses an electron.
+Et c'est un cation, avec une charge positive, car une molécule neutre perd un électron.
+
+This radical cation is called the molecular ion.
+Ce cation radical est appelé l'ion moléculaire.
+
+In an ideal situation, it flies down the tube of the mass spectrometer to the detector as-is.
+Dans une situation idéale, il vole dans le tube du spectromètre de masse vers le détecteur tel quel.
+
+However, electron impact is sort of like a bullet hitting a glass bottle… so sometimes the sample molecule is broken apart into other ion fragments.
+Cependant, l'impact des électrons est un peu comme une balle frappant une bouteille en verre… donc parfois la molécule de l'échantillon est brisée en d'autres fragments d'ions.
+
+Any molecular ions and ion fragments are sent down a tube where a variable magnetic field sorts them by mass.
+Tous les ions moléculaires et fragments d'ions sont envoyés dans un tube où un champ magnétique variable les trie par masse.
+
+This way, only particles of a specific mass can hit the detector at one time.
+De cette façon, seules les particules d'une masse spécifique peuvent toucher le détecteur à la fois.
+
+Then, a mass spectrum is produced, with mass on the x-axis, and the relative number of ions on the y-axis.
+Ensuite, un spectre de masse est produit, avec la masse sur l'axe des x et le nombre relatif d'ions sur l'axe des y.
+
+Technically, the units of the x-axis are m over z, which is the mass to charge ratio.
+Techniquement, les unités de l'axe des x sont m sur z, qui est le rapport masse sur charge.
+
+This is related to how each ion traveled down the tube.
+Ceci est lié à la façon dont chaque ion a voyagé dans le tube.
+
+Since most ions created by a mass spectrometer have a positive one charge, that equation simplifies down to m over one, or just m: the mass of the particle.
+Étant donné que la plupart des ions créés par un spectromètre de masse ont une charge positive, cette équation se simplifie à m sur un, ou juste m : la masse de la particule.
+
+Now, the molecular fragments hitting the detector form a fragmentation pattern that’s unique to the molecule.
+Désormais, les fragments moléculaires frappant le détecteur forment un schéma de fragmentation unique à la molécule.
+
+For example, let’s look at mass spectra for octane and iso-octane, or 2,2,4-trimethylpentane if you wanna be IUPAC-official.
+Par exemple, regardons les spectres de masse pour l'octane et l'iso-octane, ou le 2,2,4-triméthylpentane si vous voulez être officiel de l'IUPAC.
+
+Both molecules have the same molecular formula and therefore the same molecular mass of 114 mass units.
+Les deux molécules ont la même formule moléculaire et donc la même masse moléculaire de 114 unités de masse.
+
+But mass spec can tell the two apart!
+Mais les spécifications de masse peuvent distinguer les deux !
+
+Starting with octane, we notice that the right-most peak on the mass spectrum shows up at 114 m/z.
+En commençant par l'octane, nous remarquons que le pic le plus à droite sur le spectre de masse apparaît à 114 m/z.
+
+Knowing the molecular mass of octane, 114 mass units, that peak is the molecular ion.
+Connaissant la masse moléculaire de l'octane, 114 unités de masse, ce pic est l'ion moléculaire.
+
+If we subtract the next highest peak, so 114 minus 85, the difference is 29 mass units.
+Si nous soustrayons le prochain pic le plus élevé, donc 114 moins 85, la différence est de 29 unités de masse.
+
+This means that the octane molecule split into two chunks here -- one of 85 mass units and one of 29 mass units.
+Cela signifie que la molécule d'octane se divise ici en deux morceaux - l'un des 85 unités de masse et l'autre des 29 unités de masse.
+
+It’s often easier to identify the smaller fragment that split off than the big one that got left behind and made the peak.
+Il est souvent plus facile d'identifier le plus petit fragment qui s'est séparé que le gros qui a été laissé pour compte et a atteint le sommet.
+
+To figure out what the 29 mass unit piece is, we know that one carbon has a mass of 12 and each hydrogen has a mass of 1.
+Pour comprendre ce qu'est la pièce de 29 unités de masse, nous savons qu'un carbone a une masse de 12 et que chaque hydrogène a une masse de 1.
+
+Then we can add more carbons and hydrogens until we get to 29.
+Ensuite, nous pouvons ajouter plus de carbones et d'hydrogènes jusqu'à ce que nous arrivions à 29.
+
+In this case, 2 carbons is 24 mass units, plus 5 hydrogens is 29 mass units.
+Dans ce cas, 2 carbones  est de 24 unités de masse, plus 5 hydrogènes est de 29 unités de masse.
+
+This gets us to CH3CH2-, an ethyl group fragment!
+Cela nous amène à CH3CH2-, un fragment du groupe éthyle !
+
+This means that the 85 m/z peak is whatever’s left of the octane when an ethyl group splits off.
+Cela signifie que le pic de 85 m/z est ce qui reste de l'octane lorsqu'un groupe éthyle se sépare.
+
+So it’s a hexyl group.
+C'est donc un groupe hexyle.
+
+There’s always a bit of trial and error, but that’s what we chemists do best!
+Il y a toujours un peu d'essais et d'erreurs, mais c'est ce que nous, les chimistes, faisons le mieux !
+
+All of the peaks in the mass spectrum represent different chunks of octane, and we can calculate them.
+Tous les pics du spectre de masse représentent différents morceaux d'octane, et nous pouvons les calculer.
+
+But here’s one peak that’s very important to organic chemists: the base peak.
+Mais voici un pic très important pour les chimistes organiques : le pic de base.
+
+This is the tallest peak at 43 m/z.
+C'est le pic le plus haut à 43 m/z.
+
+If we do the same math, we know that corresponds to a pentyl fragment splitting off and a propyl group left over, which is what’s causing the peak.
+Si nous faisons le même calcul, nous savons que cela correspond à un fragment de pentyle qui se sépare et à un groupe propyle restant, qui est à l'origine du pic.
+
+The propyl group having the tallest peak means that it has the highest relative intensity, and it’s the most stable ion that forms in the fragmentation.
+Le groupe propyle ayant le pic le plus haut signifie qu'il a l'intensité relative la plus élevée, et c'est l'ion le plus stable qui se forme dans la fragmentation.
+
+Sometimes the most stable fragment can tell us a lot about the structure of a compound.
+Parfois, le fragment le plus stable peut nous en dire long sur la structure d'un composé.
+
+Switching over to the spectrum for iso-octane, we can see that the pattern is very different.
+En passant au spectre de l'iso-octane, nous pouvons voir que le schéma est très différent.
+
+We know its molecular mass is also 114 mass units, so we can see that the molecular ion isn’t there.
+Nous savons que sa masse moléculaire est également de 114 unités de masse, nous pouvons donc voir que l'ion moléculaire n'est pas là.
+
+The highest recorded mass is that small blip at 99 m/z.
+La masse la plus élevée enregistrée est cette petite anomalie à 99 m/z.
+
+And 114 minus 99 is 15 mass units, which corresponds to the loss of a CH3, or methyl group.
+Et 114 moins 99 est 15 unités de masse, ce qui correspond à la perte d'un CH3, ou groupe méthyle.
+
+The base peak is 57 m/z.
+Le pic de base est de 57 m/z.
+
+And using the same math, we can figure out that this is a 4-carbon group with 9 hydrogens.
+Et en utilisant les mêmes calculs, nous pouvons comprendre qu'il s'agit d'un groupe à 4 carbones avec 9 hydrogènes.
+
+The branching of iso-octane leads to a very different base peak from octane.
+La ramification de l'iso-octane conduit à un pic de base très différent de l'octane.
+
+Over the years, we’ve developed databases called spectral libraries, which contain known spectra of different molecules.
+Au fil des ans, nous avons développé des bases de données appelées bibliothèques spectrales, qui contiennent des spectres connus de différentes molécules.
+
+Most operating programs can search through thousands of libraries to give us the most likely matches.
+La plupart des programmes d'exploitation peuvent rechercher dans des milliers de bibliothèques pour nous donner les correspondances les plus probables.
+
+But even with the help of computer programs, we still need to use our human brains to think critically and check whether the fragments make sense for our experiment!
+Mais même avec l'aide de programmes informatiques, nous devons toujours utiliser notre cerveau humain pour penser de manière critique et vérifier si les fragments ont un sens pour notre expérience !
+
+Now that we have one tool, let’s go back to the mystery white powder from that exploding building.
+Maintenant que nous avons un outil, revenons à la mystérieuse poudre blanche de ce bâtiment qui explose.
+
+If we run a mass spec experiment, in about 30 minutes, we’ll get a spectrum.
+Si nous exécutons une expérience de spécification de masse, dans environ 30 minutes, nous obtiendrons un spectre.
+
+Then, we can ask the program to run a comparison with a library of spectra to help us identify our molecule.
+Ensuite, nous pouvons demander au programme d'effectuer une comparaison avec une bibliothèque de spectres pour nous aider à identifier notre molécule.
+
+But the library spits out around 605 matches, which means there are 605 different spectra that could be the spectra for our mystery powder.
+Mais la bibliothèque crache environ 605 correspondances, ce qui signifie qu'il y a 605 spectres différents qui pourraient être les spectres de notre poudre mystérieuse.
+
+To narrow this down and get a better sense of the chemical formula it might have, we can use a slightly modified version of this tool.
+Pour réduire cela et avoir une meilleure idée de la formule chimique qu'il pourrait avoir, nous pouvons utiliser une version légèrement modifiée de cet outil.
+
+High resolution mass spectrometry is a more sensitive technique with a more focused electron beam that lets us determine the exact mass, which is the molecular mass to more decimal places and therefore more certainty.
+La spectrométrie de masse à haute résolution est une technique plus sensible avec un faisceau d'électrons plus focalisé qui nous permet de déterminer la masse exacte, qui est la masse moléculaire à plus de décimales et donc plus de certitude.
+
+We can use the exact mass along with the molecular mass databases to identify the molecular formula!
+Nous pouvons utiliser la masse exacte ainsi que les bases de données de masse moléculaire pour identifier la formule moléculaire !
+
+After doing this high-res mass spec on our substance, we learn that the molecular mass is 165.1154 g/mol, and the published tables of exact mass and molecular formula lead us to C10H15NO.
+Après avoir fait cette spécification de masse haute résolution sur notre substance, nous apprenons que la masse moléculaire est de 165,1154 g/mol, et les tableaux publiés de masse exacte et de formule moléculaire nous conduisent à C10H15NO.
+
+The top match for this fragmentation pattern and formula in the mass spec library is 2-methylamino-1-phenylpropan-1-ol.
+La meilleure correspondance pour ce modèle de fragmentation et cette formule dans la bibliothèque de spécifications de masse est le 2-méthylamino-1-phénylpropane-1-ol.
+
+And the program gave us the common name too, pseudoephedrine.
+Et le programme nous a aussi donné le nom commun, la pseudoéphédrine.
+
+So we’re getting closer…
+Nous nous rapprochons donc…
+
+But this white powder is coming from a crime scene and our crime lab training tells us that pseudoephedrine can be used to make methamphetamine.
+Mais cette poudre blanche provient d'une scène de crime et notre formation en laboratoire du crime nous dit que la pseudoéphédrine peut être utilisée pour fabriquer de la méthamphétamine.
+
+And the molecules are pretty similar.
+Et les molécules sont assez similaires.
+
+So it’s better to have more data to support our claim.
+Il est donc préférable d'avoir plus de données pour étayer notre affirmation.
+
+Mass spectrometry can tell us important things.
+La spectrométrie de masse peut nous dire des choses importantes.
+
+But, alone, it might not give us information about molecular structure or what functional groups are present.
+Mais, seul, il pourrait ne pas nous donner d'informations sur la structure moléculaire ou sur les groupes fonctionnels présents.
+
+This is where infrared spectroscopy can help!
+C'est là que la spectroscopie infrarouge peut vous aider !
+
+Infrared, or IR, spectroscopy is the study of how light in the infrared region of the electromagnetic spectrum interacts with stuff.
+La spectroscopie infrarouge ou IR est l'étude de la façon dont la lumière dans la région infrarouge du spectre électromagnétique interagit avec les choses.
+
+For us that basically means: molecules don’t stand still, so IR spectroscopy can measure these molecular vibrations by recording what wavelengths of IR radiation are absorbed.
+Pour nous, cela signifie essentiellement : les molécules ne restent pas immobiles, donc la spectroscopie IR peut mesurer ces vibrations moléculaires en enregistrant les longueurs d'onde du rayonnement IR qui sont absorbées.
+
+To think about molecular vibrations, we can think of molecular bonds as springs with atoms attached.
+Pour penser aux vibrations moléculaires, nous pouvons considérer les liaisons moléculaires comme des ressorts avec des atomes attachés.
+
+Stronger springs take more energy to move around, so molecules with stronger bonds need to absorb light with more energy to keep those vibrations going.
+Des ressorts plus forts nécessitent plus d'énergie pour se déplacer, de sorte que les molécules avec des liaisons plus fortes doivent absorber la lumière avec plus d'énergie pour maintenir ces vibrations.
+
+A triple bond will absorb light at a higher energy than a single bond.
+Une triple liaison absorbera la lumière à une énergie plus élevée qu'une simple liaison.
+
+Bonds within molecules can vibrate in different ways, like a stretch, a wag, and a bend.
+Les liaisons au sein des molécules peuvent vibrer de différentes manières, comme un étirement, un remue-ménage et une courbure.
+
+All these dancey-sounding motions need different wavelengths of IR radiation.
+Tous ces mouvements dansants nécessitent différentes longueurs d'onde de rayonnement infrarouge.
+
+So, basically, IR spectroscopy involves blasting a molecule with IR radiation and seeing what gets absorbed as the molecule’s bonds vibrate.
+Donc, fondamentalement, la spectroscopie IR consiste à faire exploser une molécule avec un rayonnement IR et à voir ce qui est absorbé lorsque les liaisons de la molécule vibrent.
+
+Then, an infrared spectrum is produced and we can use it to help figure out what molecule it is.
+Ensuite, un spectre infrarouge est produit et nous pouvons l'utiliser pour déterminer de quelle molécule il s'agit.
+
+The y-axis is the intensity of the absorption, which is related to the kind of molecular motion.
+L'axe y est l'intensité de l'absorption, qui est liée au type de mouvement moléculaire.
+
+Some vibrations are more intense than others.
+Certaines vibrations sont plus intenses que d'autres.
+
+And the x-axis uses wavenumbers as the units.
+Et l'axe des x utilise des nombres d'onde comme unités.
+
+It’s a complicated energy term, so for the sake of this already-tricky concept, we’re just going to say higher wavenumbers mean higher energy absorption.
+C'est un terme d'énergie compliqué, donc pour ce concept déjà délicat, nous allons simplement dire que des nombres d'onde plus élevés signifient une absorption d'énergie plus élevée.
+
+So let’s compare the IR spectra of octane, oct-1-ene and oct-1-yne.
+Comparons donc les spectres IR de l'octane, de l'oct-1-ène et de l'oct-1-yne.
+
+Carbon-hydrogen stretches occur around 3000 wavenumbers.
+Les tronçons carbone-hydrogène se produisent autour de 3000 nombres d'onde.
+
+Looking at the octane spectrum, we see a nicely defined set of peaks around 3000 wavenumbers.
+En regardant le spectre d'octane, nous voyons un ensemble bien défini de pics autour de 3000 nombres d'onde.
+
+In the oct-1-ene spectrum, the peak slightly to the left of those C-H stretches is the hydrogen next to the double bond.
+Dans le spectre oct-1-ène, le pic légèrement à gauche de ces tronçons C-H est l'hydrogène à côté de la double liaison.
+
+Because the double bond is a stronger bond, its C-H stretch has higher wavenumbers.
+Parce que la double liaison est une liaison plus forte, son tronçon C-H a des nombres d'onde plus élevés.
+
+Finally, in the IR spectrum of oct-1-yne, that sharp peak is even further to the left and at higher wavenumbers because it marks the C-H stretch of the triple bond.
+Enfin, dans le spectre IR d'oct-1-yne, ce pic pointu est encore plus à gauche et à des nombres d'onde plus élevés car il marque l'étirement C-H de la triple liaison.
+
+The region of an IR spectrum that’s most complex is called the fingerprint region.
+La région d'un spectre IR la plus complexe s'appelle la région des empreintes digitales.
+
+Kind of like our fingerprints, this region can give us a clue to more complicated molecules.
+Un peu comme nos empreintes digitales, cette région peut nous donner un indice sur des molécules plus complexes.
+
+For example, let’s compare our old friends octane and iso-octane.
+Par exemple, comparons nos vieux amis octane et iso-octane.
+
+Look at the region from 1400 to 600 wavenumbers.
+Regardez la région de 1400 à 600 nombres d'onde.
+
+Because iso-octane has more complicated connections between atoms, its fingerprint region is more complicated.
+Parce que l'iso-octane a des connexions plus compliquées entre les atomes, sa région d'empreinte digitale est plus compliquée.
+
+But aside from this kind of comparison, it’s pretty hard to interpret fingerprint regions.
+Mais en dehors de ce genre de comparaison, il est assez difficile d'interpréter les régions d'empreintes digitales.
+
+So we usually look for bigger structural clues around 3000 to 1000 wavenumbers, like functional groups.
+Nous recherchons donc généralement des indices structurels plus importants autour de 3000 à 1000 nombres d'onde, comme des groupes fonctionnels.
+
+Let’s look at IR spectra for the molecules butan-1-ol and butanal.
+Regardons les spectres IR des molécules butan-1-ol et butanal.
+
+The fingerprint regions are different, but there are other differences that let us quickly identify some functional groups.
+Les régions d'empreintes digitales sont différentes, mais il existe d'autres différences qui nous permettent d'identifier rapidement certains groupes fonctionnels.
+
+Looking at butanal, there’s a super sharp and strong peak at 1731 wavenumbers, which indicates the carbonyl group.
+En regardant le butanal, il y a un pic super net et fort à 1731 nombres d'onde, ce qui indique le groupe carbonyle.
+
+This peak is missing in butan-1-ol because it doesn’t have a carbonyl group.
+Ce pic manque dans le butan-1-ol car il n'a pas de groupe carbonyle.
+
+But there is a strong broad peak at 3300 wavenumbers, which indicates the alcohol group.
+Mais il y a un fort pic large à 3300 nombres d'onde, ce qui indique le groupe alcool.
+
+To double-check this, we can look at butanoic acid, because it has both a carbonyl group and an alcohol group.
+Pour vérifier cela, nous pouvons examiner l'acide butanoïque, car il possède à la fois un groupe carbonyle et un groupe alcool.
+
+So its IR spectrum has two strong peaks, this sharp one for the carbonyl and this broad one for the alcohol.
+Ainsi, son spectre IR a deux pics forts, celui-ci pointu pour le carbonyle et celui-ci large pour l'alcool.
+
+In fact, all the carbonyl-containing functional groups we met in the previous episode have a sharp peak at distinct wavenumbers.
+En fait, tous les groupes fonctionnels contenant du carbonyle que nous avons rencontrés dans l'épisode précédent ont un pic net à des nombres d'onde distincts.
+
+So this can be a really useful clue.
+Cela peut donc être un indice très utile.
+
+Like mass spectra, there are libraries of IR spectra to help with identification.
+Comme les spectres de masse, il existe des bibliothèques de spectres IR pour aider à l'identification.
+
+But, even though it can be a little tedious, we want to be able to recognize different regions on an IR spectrum to make sure our data makes sense when compared to a library spectrum.
+Mais, même si cela peut être un peu fastidieux, nous voulons pouvoir reconnaître différentes régions sur un spectre IR pour nous assurer que nos données ont un sens par rapport à un spectre de bibliothèque.
+
+And now that we’re ready, we’ll go back to our mystery substance.
+Et maintenant que nous sommes prêts, nous allons revenir à notre substance mystérieuse.
+
+IR spectroscopy will help us really decide between pseudoephedrine and methamphetamine, because the first one has an extra alcohol group.
+La spectroscopie IR nous aidera vraiment à décider entre la pseudoéphédrine et la méthamphétamine, car la première a un groupe alcool supplémentaire.
+
+In methamphetamine, the N-H stretch shows up as a characteristic sharp peak around 3300 wavenumbers.
+Dans la méthamphétamine, l'étirement N-H apparaît comme un pic caractéristique autour de 3300 nombres d'onde.
+
+But in the spectrum of pseudoephedrine, that peak is completely obscured by the broad alcohol peak at 3500 wavenumbers.
+Mais dans le spectre de la pseudoéphédrine, ce pic est complètement obscurci par le large pic d'alcool à 3500 nombres d'onde.
+
+With this extra information, it’s probably safe to identify the white powder as pseudoephedrine, the active ingredient in Sudafed-D.
+Avec ces informations supplémentaires, il est probablement sûr d'identifier la poudre blanche comme de la pseudoéphédrine, l'ingrédient actif de Sudafed-D.
+
+Good job, fictional lab tech.
+Bon travail, technicien de laboratoire fictif.
+
+You may not have solved the case, but you solved this one very small mystery!
+Vous n'avez peut-être pas résolu l'affaire, mais vous avez résolu ce tout petit mystère !
+
+In this episode, we learned about:
+Dans cet épisode, nous avons découvert :
+
+Mass spectrometry
+La spectrométrie de masse
+
+Infrared spectroscopy
+La spectroscopie infrarouge
+
+And pattern recognition to help identify different molecular structures and functional groups.
+Et la reconnaissance de formes pour aider à identifier différentes structures moléculaires et groupes fonctionnels.
+
+Next time, we’ll delve more deeply into our couch potato friends the alkanes, from where we get them to how they like to arrange themselves.
+La prochaine fois, nous approfondirons nos amis les patates de canapé, les alcanes, d'où nous les obtenons jusqu'à la façon dont ils aiment s'organiser.
+
+Thanks for watching this episode of Crash Course Organic Chemistry.
+Merci d'avoir regardé cet épisode de Crash Course Organic Chemistry.
+
+If you want to help keep all Crash Course free for everybody, forever, you can join our community on Patreon.
+Si vous voulez aider à garder tous les cours intensifs gratuits pour tout le monde, pour toujours, vous pouvez rejoindre notre communauté sur Patreon.
+

@@ -1,0 +1,720 @@
+There was physics before Einstein… in the
+same way that there was biology before Darwin.
+Il y avait de la physique avant Einstein… de la
+même manière qu'il y avait de la biologie avant Darwin.
+
+Einstein didn’t just add some new ideas
+to physics. And he didn’t just add a unifying
+Einstein n'a pas seulement ajouté de nouvelles idées
+à la physique.  Et il ne s'est pas contenté d'ajouter un
+
+framework for doing physics, like Newton.
+Einstein took what people thought was physics,
+cadre unificateur pour faire de la physique, comme Newton.
+Einstein a pris ce que les gens pensaient être de la physique, l'
+
+turned it upside down, then turned it inside
+out.
+a bouleversé, puis l'a
+retourné.
+
+In the same way Darwin’s work made people
+see life itself differently, Einstein’s
+De la même manière que le travail de Darwin a amené les gens à
+voir la vie elle-même différemment, le travail d'Einstein a
+
+work made humanity reexamine time and space.
+amené l'humanité à réexaminer le temps et l'espace.
+
+[Intro Music Plays]
+[Intro Music Plays]
+
+The classical worldview—associated with
+names you know, like Euclid, Aristotle, and
+La vision du monde classique - associée à des
+noms que vous connaissez, comme Euclide, Aristote et
+
+Newton—held that the rules governing space
+and time were absolute. One meter was always
+Newton - soutenait que les règles régissant l'espace
+et le temps étaient absolues.  Un mètre faisait toujours
+
+one meter long; one hour would always be one
+hour long…
+un mètre de long ;  une heure durerait toujours une
+heure… La
+
+Matter was made up of immutable and indivisible
+atoms.
+matière était composée d'atomes immuables et indivisibles
+.
+
+And energy moved through a medium called ether—because
+everything had to move through something,
+Et l'énergie se déplaçait à travers un médium appelé éther - parce que
+tout devait passer par quelque chose,
+
+right? God wouldn’t just make, I dunno,
+a howling void?
+n'est-ce pas ?  Dieu ne ferait pas juste, je sais pas,
+un vide hurlant ?
+
+And with new disciplines like thermodynamics
+and fun applications like steam power and
+Et avec de nouvelles disciplines comme la thermodynamique
+et des applications amusantes comme la vapeur et
+
+light bulbs, human understanding of the fundamental
+forces of nature seemed pretty solid.
+les ampoules électriques, la compréhension humaine des forces fondamentales
+de la nature semblait assez solide.
+
+To quote historian of science Milena Wazeck, by 1900, “physics
+Pour citer l'historienne des sciences Milena Wazeck, en 1900, "la physique
+
+was perceived by many to be an almost completed
+discipline.”
+était perçue par beaucoup comme une discipline presque achevée
+".
+
+But within this almost-completeness lurked
+many unanswered questions. One of the biggest
+Mais dans cette quasi-exhaustivité se cachaient de
+nombreuses questions sans réponse.  L'un des plus importants
+
+was the failure of the Michelson–Morley
+experiment in 1887. They’d attempted to
+fut l'échec de l'expérience Michelson-
+Morley en 1887. Ils avaient tenté de
+
+demonstrate that the speed of light changed
+just a little when measured from the earth,
+démontrer que la vitesse de la lumière changeait
+juste un peu lorsqu'elle était mesurée à partir de la terre,
+
+which is always moving, relative to the ether,
+which never moves.
+qui est toujours en mouvement, par rapport à l'éther,
+qui ne bouge jamais.  .
+
+But despite meticulous efforts, they couldn’t
+find any slowing-down. Light moved at a constant
+Mais malgré des efforts méticuleux, ils n'ont
+trouvé aucun ralentissement.  La lumière se déplaçait à une vitesse constante,
+
+speed—almost as if there was no ether.
+Then there was the electron and radioactivity.
+presque comme s'il n'y avait pas d'éther.
+Puis il y a eu l'électron et la radioactivité.
+
+In 1897, English physicist J. J. Thomson showed
+that cathode rays were made up of discrete
+En 1897, le physicien anglais J. J. Thomson a montré
+que les rayons cathodiques étaient constitués de
+
+particles, way smaller than whole atoms—electrons.
+And around the same time, Marie Curie proposed
+particules discrètes, bien plus petites que les atomes entiers : les électrons.
+Et à peu près au même moment, Marie Curie a proposé
+
+the theory of radioactivity, which classical
+physics didn’t predict.
+la théorie de la radioactivité, que la
+physique classique n'avait pas prédite.
+
+Then, in the early 1900s, Ernest Rutherford
+experimented on radioactive decay. He named
+Puis, au début des années 1900, Ernest Rutherford a
+expérimenté la désintégration radioactive.  Il a nommé les particules
+
+radioactive alpha, beta, and gamma particles,
+classifying them by their ability to penetrate
+radioactives alpha, bêta et gamma, les
+classant selon leur capacité à pénétrer
+
+different kinds of matter.
+And Henri Becquerel measured
+différents types de matière.
+Et Henri Becquerel a mesuré
+
+beta particles and realized they were actually
+electrons exiting the nuclei of atoms at high
+les particules bêta et s'est rendu compte qu'il s'agissait en fait d'
+électrons sortant des noyaux d'atomes à grande
+
+speeds.
+So by the early 1900s, radioactive decay was
+vitesse.
+Ainsi, au début des années 1900, la désintégration radioactive était
+
+understood, and the crisis of the immutable
+atom was as deep as the crisis of the ether.
+comprise et la crise de l'
+atome immuable était aussi profonde que la crise de l'éther.
+
+A bunch of folks were investigating Maxwell’s
+equations and looking at black-body radiation,
+Un groupe de personnes enquêtaient sur les équations de
+Maxwell et examinaient le rayonnement du corps noir,
+
+or the heat emitted by dark objects when they
+absorb light.
+ou la chaleur émise par les objets sombres lorsqu'ils
+absorbent la lumière.
+
+Then Heinrich Hertz, the original radio wave
+guy, discovered the photoelectric effect,
+Puis Heinrich Hertz, le gars original des ondes radio
+, a découvert l'effet photoélectrique,
+
+or the paradox that certain metals produce
+electrical currents when zapped with wavelengths
+ou le paradoxe selon lequel certains métaux produisent
+des courants électriques lorsqu'ils sont zappés avec des longueurs
+
+of light above a certain threshold.
+Things started to get messy. Energy was thought
+d'onde de lumière au-dessus d'un certain seuil.
+Les choses ont commencé à se gâter.  L'énergie était
+
+to be a continuous wave. But according to
+wave-based theory, there might be infinite
+considérée comme une onde continue.  Mais selon la
+théorie basée sur les ondes, il pourrait y avoir une
+
+energy radiated back by black bodies zapped
+with certain wavelengths. This seemingly violated
+énergie infinie renvoyée par des corps noirs zappés
+avec certaines longueurs d'onde.  Cela a apparemment violé
+
+the newly established laws of thermodynamics. Like, infinite energy doesn't seem right.
+So, in trying to explain the weird results
+les lois nouvellement établies de la thermodynamique.  Comme, l'énergie infinie ne semble pas juste.
+Ainsi, en essayant d'expliquer les résultats étranges
+
+about light and heat, German physicist Max
+Planck theorized that light
+sur la lumière et la chaleur, le physicien allemand Max
+Planck a émis l'hypothèse que la lumière
+
+may not be a wave after all, but a series
+of particles or quantum units. All very non-“classical.”
+n'était peut-être pas une onde après tout, mais une série
+de particules ou d'unités quantiques.  Tous très non "classiques".
+
+Sorry, Aristotle!
+Check out Crash Course: Physics for more about
+Désolé, Aristote !
+Consultez Crash Course: Physics pour en savoir plus sur
+
+quantum weirdness!
+Enter Albert.
+l'étrangeté quantique !
+Entre Albert.
+
+Einstein was born in 1879 and grew up in southern
+Germany, Italy, and Switzerland. He dropped
+Einstein est né en 1879 et a grandi dans le sud de l'
+Allemagne, en Italie et en Suisse.  Il a
+
+out of high school, then studied to teach
+physics and math and became a Swiss citizen.
+abandonné ses études secondaires, puis a étudié pour enseigner la
+physique et les mathématiques et est devenu citoyen suisse.
+
+But he couldn’t get a teaching job—because
+he was Jewish.
+Mais il n'a pas pu trouver un poste d'enseignant, car
+il était juif.
+
+So in 1901 he took a job at the patent office
+and started a Ph.D. at the University of Zurich,
+Ainsi, en 1901, il a pris un emploi au bureau des brevets
+et a commencé un doctorat.  à l'Université de Zurich,
+
+which he finished in 1905. You’re going
+to want to remember that year…. 1905.
+qu'il a terminé en 1905. Vous
+allez vouloir vous souvenir de cette année….  1905.
+
+Now, Al wasn’t an academic hotshot or self-funded
+amateur. He was a working-class nobody who
+Maintenant, Al n'était pas un champion universitaire ou un
+amateur autofinancé.  C'était une personne de la classe ouvrière qui
+
+did physics on the side. But he was also a
+patent officer who spent his days pouring
+faisait de la physique à côté.  Mais c'était aussi un
+agent de brevets qui passait ses journées à éplucher
+
+over technical documents.
+He was an outsider obsessed with math because
+des documents techniques.
+C'était un outsider obsédé par les mathématiques parce que les
+
+math is beautiful, and yet he was a deeply
+practical person who believed that good math
+mathématiques sont belles, et pourtant c'était une
+personne profondément pratique qui croyait que les bonnes mathématiques
+
+and science could be communicated plainly.
+Plus, he was young and bold. And he had a
+et la science pouvaient être communiquées clairement.
+De plus, il était jeune et audacieux.  Et il avait une
+
+super smart and supportive first wife, Serbian
+mathematician Mileva Marić.
+première femme super intelligente et solidaire, la
+mathématicienne serbe Mileva Marić.
+
+So, the year he finished his Ph.D., 1905,
+Ainsi, l'année où il a terminé son doctorat en 1905,
+
+Al published his dissertation and four papers
+that changed physics overnight. This was his
+Al a publié sa thèse et quatre articles
+qui ont changé la physique du jour au lendemain.  C'était son
+
+annus mirabilis or miracle year, like 1666 had been for Newton.
+annus mirabilis ou année miracle, comme 1666 l'avait été pour Newton.
+
+Help us out, ThoughtBubble.
+At age twenty six, Einstein published revolutionary
+Aidez-nous, ThoughtBubble.
+À l'âge de vingt-six ans, Einstein a publié des
+
+work on:
+travaux révolutionnaires sur :
+
+1. Brownian motion, or the random motion of particles
+in fluids;
+1. Le mouvement brownien, ou le mouvement aléatoire des particules
+dans les fluides ;
+
+2. the photoelectric effect, supporting the idea
+of energy as a series of particles, not a wave;
+2. l'effet photoélectrique, soutenant l'idée
+de l'énergie comme une série de particules, pas une onde ;
+
+3. the equivalence of mass and energy; and
+3. l'équivalence de la masse et de l'énergie ;  et
+
+4.special relativity.
+4. la relativité restreinte.
+
+Special relativity, especially made Einstein
+a scientific rock star. He proved that nothing
+La relativité restreinte a notamment fait d'Einstein
+une rock star scientifique.  Il a prouvé que rien ne
+
+can move faster than light. This explained
+why Michelson and Morley hadn’t observed
+peut aller plus vite que la lumière.  Cela expliquait
+pourquoi Michelson et Morley n'avaient pas observé de
+
+light slowing in ether. And a lot of other things.
+Einstein got rid of all reference frames for
+ralentissement de la lumière dans l'éther.  Et beaucoup d'autres choses.
+Einstein s'est débarrassé de tous les cadres de référence pour l'
+
+space and time. There was no longer some universal
+space in which physics happened. All measurements
+espace et le temps.  Il n'y avait plus d'
+espace universel dans lequel la physique se produisait.  Toutes les mesures sont
+
+became relative to the position and speed
+of the observer.
+devenues relatives à la position et à la vitesse
+de l'observateur.
+
+Space and time became one mathematically continuous
+spacetime. So an event at one time for observer
+L'espace et le temps sont devenus un espace-temps mathématiquement continu
+.  Ainsi, un événement à un moment donné pour l'observateur
+
+A could take place at a completely different
+time for observer B.
+A pourrait avoir lieu à un moment complètement
+différent pour l'observateur B.
+
+And the only constant in the entire system
+became the speed of light—which classical
+Et la seule constante dans tout le système
+est devenue la vitesse de la lumière - que la
+
+physics predicted could change!
+From special relativity followed the equivalence
+physique classique prédit pourrait changer !
+De la relativité restreinte a suivi l'équivalence
+
+of mass and energy proof. Which was also mind-blowing.
+It’s probably the most memorable physics
+de la preuve de masse et d'énergie.  Ce qui était aussi hallucinant.
+C'est probablement la formule de physique la plus mémorable de
+
+formula ever, since it’s printed on mugs
+and T-shirts the world over: E = mc2. Or,
+tous les temps, puisqu'elle est imprimée sur des tasses
+et des t-shirts dans le monde entier : E = mc2.  Ou, l'
+
+energy equals mass times the speed of light,
+squared. Or, mass and energy can be converted
+énergie est égale à la masse multipliée par la vitesse de la lumière, au
+carré.  Ou, la masse et l'énergie peuvent être converties l'une
+
+into each other!
+Or, as Einstein said: “…mass and energy
+dans l'autre !
+Ou, comme l'a dit Einstein : "... la masse et l'énergie
+
+are both but different manifestations of the
+same thing—a somewhat unfamiliar conception
+sont toutes deux des manifestations différentes de la
+même chose - une conception quelque peu inconnue
+
+for the average mind.”
+Now, it’s important to note that Einstein’s
+pour l'esprit moyen."
+Maintenant, il est important de noter que le
+
+new system of physics is simply a different
+system than Netwon’s. “Mass” and “energy”
+nouveau système de physique d'Einstein est simplement un
+système différent de celui de Netwon.  « Masse » et « énergie »
+
+mean something different in the two systems—because,
+to put it bluntly, Newton’s system turns
+signifient quelque chose de différent dans les deux systèmes, car,
+pour le dire franchement, le système de Newton
+
+out to be not so universal. It only seems
+to work on earth, because we aren’t particularly
+s'avère ne pas être si universel.  Cela ne
+semble fonctionner que sur Terre, car nous ne sommes pas particulièrement
+
+massive or fast-moving, compared to stars.
+massifs ou rapides, comparés aux étoiles.
+
+Thanks Thought Bubble. We don’t have time
+to explain all of the cool science that Einstein
+Merci Bulle de Pensée.  Nous n'avons pas le temps
+d'expliquer toute la science cool qu'Einstein
+
+and his generation of physicists did around
+World War One, but two things stand out:
+et sa génération de physiciens ont faite autour de
+la Première Guerre mondiale, mais deux choses ressortent :
+
+In 1915, Einstein published the theory of
+general relativity. Special relativity was
+En 1915, Einstein a publié la théorie de
+la relativité générale.  La relativité restreinte
+
+all about comparing physical effects from
+different observer positions in terms of velocity,
+consistait à comparer les effets physiques de
+différentes positions d'observateur en termes de vitesse
+
+or speed in a particular direction.
+General relativity provided all of the complicated
+ou de vitesse dans une direction particulière.
+La relativité générale a fourni toutes les
+
+math regarding relativity and acceleration,
+or speeding up or down.
+mathématiques compliquées concernant la relativité et l'accélération,
+ou l'accélération ou la décélération.
+
+General relativity explains the physics of
+all situations. Special relativity is one
+La relativité générale explique la physique de
+toutes les situations.  La relativité restreinte est un
+
+specific case of general relativity.
+General relativity nailed the coffin shut
+cas particulier de la relativité générale.
+La relativité générale a cloué le cercueil
+
+on the classical, Euclidean worldview: now gravity
+itself was shown not to be a force like light,
+de la vision du monde classique et euclidienne : il a maintenant
+été démontré que la gravité elle-même n'était pas une force comme la lumière,
+
+but an effect, a distortion in the shape of
+space due to mass…
+mais un effet, une distorsion de la forme de l'
+espace due à la masse...
+
+So the planets didn’t follow certain paths
+because of the attraction of the sun’s gravity,
+Ainsi, les planètes n'ont pas suivi certains chemins
+à cause de l'attraction de la gravité du soleil,
+
+but because the space before them was curved
+by the sun’s mass.
+mais parce que l'espace devant eux était courbé
+par la masse du soleil.
+
+Einstein’s universe wasn’t a series of
+perfect spheres in an ether, but a void whose
+L'univers d'Einstein n'était pas une série de
+sphères parfaites dans un éther, mais un vide dont les
+
+very dimensions—whose rules, basically,
+other than the speed of light—could change.
+dimensions mêmes - dont les règles, fondamentalement,
+autres que la vitesse de la lumière - pouvaient changer.
+
+Many of his colleagues initially objected
+to this, but Einstein was confident—and
+Beaucoup de ses collègues s'y sont d'abord
+opposés, mais Einstein était confiant et
+
+patient. Astronomers awaited a solar eclipse
+in 1919, that allowed them to experimentally
+patient.  Les astronomes attendaient une éclipse solaire
+en 1919, qui leur a permis de
+
+confirm Einstein’s theory.
+confirmer expérimentalement la théorie d'Einstein.
+
+The confirmation of gravitational lensing made
+Einstein a scientific hero and an icon of
+La confirmation de la lentille gravitationnelle a fait d'
+Einstein un héros scientifique et une icône de
+
+pop culture. As The Times of London reported,
+“Newtonian Ideas Overthrown.”
+la culture pop.  Comme l'a rapporté le Times de Londres,
+"Les idées newtoniennes renversées".
+
+The second major act of science Einstein did
+around World War One was contribute to the
+Le deuxième acte scientifique majeur d'Einstein
+autour de la Première Guerre mondiale a été de contribuer à la
+
+birth of modern particle physics. This story
+is about, in part, Einstein getting it wrong.
+naissance de la physique des particules moderne.  Cette
+histoire raconte, en partie, qu'Einstein s'est trompé.
+
+In 1911, Ernest Rutherford and Danish physicist
+Niels Bohr [“NEELS BOAR”] theorized a
+En 1911, Ernest Rutherford et le physicien danois
+Niels Bohr [« NEELS BOAR »] ont théorisé un
+
+model of the atom with electrons zipping around
+a heavy nucleus. Scientists began to study
+modèle de l'atome avec des électrons circulant autour d'
+un noyau lourd.  Les scientifiques ont commencé à étudier
+
+the physics of the very small, just as Einstein
+was working out the physics of the very large.
+la physique du très petit, tout comme
+Einstein travaillait sur la physique du très grand.
+
+But over the 1920s, these particle physicists
+saw a lot of weird quantum or particle-like
+Mais au cours des années 1920, ces physiciens des particules ont
+vu beaucoup d'effets quantiques étranges ou semblables à des particules
+
+effects.
+Basically, Bohr’s Copenhagen group showed
+.
+Fondamentalement, le groupe de Copenhague de Bohr a montré
+
+that very small particles tend to act like
+particles sometimes but like waves at other
+que les très petites particules ont tendance à agir parfois comme des
+particules, mais comme des ondes à d'autres
+
+times. Like waves, their behaviors have probabilities.
+But when measured, individual particles are,
+moments.  Comme les vagues, leurs comportements ont des probabilités.
+Mais lorsqu'elles sont mesurées, les particules individuelles sont
+
+well particles. They are or aren’t there.
+In 1926, two German physicists worked out
+bien des particules.  Ils sont ou ne sont pas là.
+En 1926, deux physiciens allemands ont élaboré
+
+the math behind these quantum mechanics: Werner
+Heisenberg invented matrix mechanics, which
+les mathématiques derrière cette mécanique quantique : Werner
+Heisenberg a inventé la mécanique matricielle, qui
+
+[large exhale] are complex and Erwin Schrödinger,
+wave mechanics. And lots of dead/not-dead
+[grande expiration] est complexe et Erwin Schrödinger,
+la mécanique ondulatoire.  Et plein de blagues sur les chats morts/non-morts
+
+cat jokes.
+Because, in 1927, Heisenberg proposed his
+.
+Car, en 1927, Heisenberg a proposé son
+
+uncertainty principle: any observer can detect
+the position or velocity of any quantum particle,
+principe d'incertitude : n'importe quel observateur peut détecter
+la position ou la vitesse de n'importe quelle particule quantique,
+
+at any given time interval, but not both at
+the same time.
+à n'importe quel intervalle de temps donné, mais pas les deux
+en même temps.
+
+Einstein haaated this. He believed in a universe
+ordered by an ultimate rationality, and he
+Einstein haïssait ça.  Il croyait en un univers
+ordonné par une rationalité ultime, et il
+
+famously quipped, “God doesn’t play dice
+with the world.” But Al, who had contributed
+a dit en plaisantant : « Dieu ne joue pas aux dés
+avec le monde ».  Mais Al, qui avait contribué
+
+in lots of ways to the emerging model of atoms
+and particles of energy, was wrong about uncertainty.
+de nombreuses façons au modèle émergent des atomes
+et des particules d'énergie, se trompait sur l'incertitude.
+
+By the 1930s, Einstein was easily the most
+famous scientist since Darwin. There was just
+Dans les années 1930, Einstein était de loin le scientifique le plus
+célèbre depuis Darwin.
+
+one problem. He was still Jewish. And living
+in Germany.
+Il y avait juste un problême.  Il était encore juif.  Et vivre
+en Allemagne.
+
+So in 1933, Einstein renounced his German
+citizenship and took a professorship at Princeton.
+Ainsi, en 1933, Einstein a renoncé à sa
+nationalité allemande et a pris un poste de professeur à Princeton.
+
+As a celebrity genius with intimate knowledge
+of the cutting-edge of German science—and
+En tant que génie célèbre avec une connaissance intime
+de la pointe de la science allemande - et
+
+perfect hair—Einstein had the ears of politicians
+anxiously planning for another great war in
+des cheveux parfaits - Einstein avait les oreilles des politiciens qui
+planifiaient anxieusement une autre grande guerre en
+
+Europe.
+And, after one of his physicist buddies demonstrated
+Europe.
+Et, après qu'un de ses copains physiciens ait démontré
+
+that an atom could be straight-up, stone-cold
+split open, Einstein felt that he had a moral
+qu'un atome pouvait être
+ouvert à froid, Einstein a estimé qu'il avait l'
+
+obligation to explain to the American establishment
+just how powerful atomic energy could be…
+obligation morale d'expliquer à l'establishment américain
+à quel point l'énergie atomique pouvait être puissante…
+
+We’ll pick up this thread next time.
+Suffice to say, World War Two eventually ended,
+Nous choisirons  up ce fil la prochaine fois.
+Qu'il suffise de dire que la Seconde Guerre mondiale a finalement pris fin
+
+and a new Cold War started—with scientific
+discovery, especially in the physics that
+et qu'une nouvelle guerre froide a commencé - avec des
+découvertes scientifiques, en particulier dans la physique
+
+Einstein had created, as the new measuring
+stick of imperial might.
+qu'Einstein avait créées, comme nouveau
+bâton de mesure de la puissance impériale.
+
+Israel offered Einstein the presidency, which
+he turned down. He lived the rest of his life
+Israël a offert à Einstein la présidence,
+qu'il a refusée.  Il a vécu le reste de sa vie
+
+in the home of technological innovation and
+“fat sandwiches”—New Jersey.
+dans la maison de l'innovation technologique et des
+«sandwichs gras» - le New Jersey.
+
+Einstein always regretted that his work was
+used for violent ends. In fact, he was generally
+Einstein a toujours regretté que son travail soit
+utilisé à des fins violentes.  En fait, il était généralement
+
+skeptical of modernity. Way back during World
+War One, he wrote: “Our entire much-praised
+sceptique à l'égard de la modernité.  Il y a longtemps, pendant la
+Première Guerre mondiale, il écrivait : « Tout notre
+
+technological progress, and civilization generally,
+could be compared to an axe in the hand of
+progrès technologique tant loué, et la civilisation en général,
+pourraient être comparés à une hache dans la main d'
+
+a pathological criminal.”
+And yet, in the end, even the horrors of two
+un criminel pathologique.
+Et pourtant, en fin de compte, même les horreurs des deux
+
+world wars never shook his faith that there
+was great meaning in the universe—a code
+guerres mondiales n'ont jamais ébranlé sa conviction que
+l'univers avait une grande signification - un code
+
+to be deciphered by science.
+He died never quite accepting quantum randomness,
+à déchiffrer par la science.
+Il est mort en n'acceptant jamais tout à fait le hasard quantique
+
+and believing that, one day, humans would
+crack the code.
+et en croyant qu'un jour, les humains
+déchiffreraient le code.
+
+Next time—the Americans use Einstein’s
+world-threatening Bomb, and warfare changes
+La prochaine fois, les Américains utiliseront la
+bombe menaçant le monde d'Einstein, et la guerre changera
+
+forever. It’s the birth of nuclear physics,
+the end of World War Two, and the beginning
+pour toujours.  C'est la naissance de la physique nucléaire,
+la fin de la Seconde Guerre mondiale et le début
+
+of  the Cold War.
+de la guerre froide.
+
+Crash Course History of Science is filmed in the Dr. Cheryl C. Kinney studio
+Crash Course History of Science est filmé dans le studio du Dr Cheryl C. Kinney
+
+in Missoula, MT and it's made possible with the help of all these nice people.
+à Missoula, MT et il est rendu possible grâce à l'aide de toutes ces personnes sympathiques.
+
+And our animation team is Thought Cafe.
+Et notre équipe d'animation est Thought Cafe.
+
+Crash Course is a Complexly production. If you wanna keep imagining the world complexly with us,
+Crash Course est une production complexe.  Si vous voulez continuer à imaginer le monde de manière complexe avec nous,
+
+you can check out some of our other channels like
+vous pouvez consulter certaines de nos autres chaînes comme
+
+Scishow, Eons, and Sexplanations.
+Scishow, Eons et Sexplanations.
+
+And, if you'd like to keep Crash Course free for everyone forever, you can support the series at Patreon,
+Et, si vous souhaitez garder Crash Course gratuit pour tout le monde pour toujours, vous pouvez soutenir la série sur Patreon,
+
+a crowd funding platform that allows you to support the content you love.
+une plateforme de financement participatif qui vous permet de soutenir le contenu que vous aimez.
+
+Thank you to all of our Patrons for making Crash Course possible with your continued support.
+Merci à tous nos mécènes d'avoir rendu le cours accéléré possible grâce à votre soutien continu.
+

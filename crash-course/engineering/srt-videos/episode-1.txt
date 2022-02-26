@@ -1,0 +1,620 @@
+You live in a world of creations.
+Vous vivez dans un monde de créations.
+
+All of the things you see around me were created
+by people.
+Toutes les choses que vous voyez autour de moi ont été créées
+par des gens.
+
+The technology that’s being used to record
+me, and watch me, were likewise created.
+La technologie qui est utilisée pour
+m'enregistrer et me regarder a également été créée.
+
+And not by lone geniuses, but by whole teams –
+sometimes entire generations – of clever designers.
+Et pas par des génies solitaires, mais par des équipes entières –
+parfois des générations entières – de designers intelligents.
+
+Those designers were engineers.
+Ces concepteurs étaient des ingénieurs.
+
+And engineers are, when it comes right down
+to it, creators.
+Et les ingénieurs sont,
+au fond, des créateurs.
+
+The word “engineering” itself comes from
+the Latin ingenium, meaning “cleverness”, and
+ingeniare, meaning “to design or devise”.
+Le mot « ingénierie » lui-même vient
+du latin ingenium, qui signifie « intelligence », et
+ingeniare, qui signifie « concevoir ou concevoir ».
+
+And that makes sense, since you have to be
+clever if you’re going to solve the problems
+that engineers face every day.
+Et cela a du sens, car vous devez être
+intelligent si vous voulez résoudre les problèmes
+auxquels les ingénieurs sont confrontés au quotidien.
+
+Now, you might think of engineering as a kind
+of science – and that’s not wrong.
+Maintenant, vous pourriez penser à l'ingénierie comme une sorte
+de science - et ce n'est pas faux.
+
+But it’s more useful to think of science as a tool, a
+tool that engineers use – along with mathematics –
+to perform their unique duties.
+Mais il est plus utile de considérer la science comme un outil, un
+outil que les ingénieurs utilisent - avec les mathématiques -
+pour accomplir leurs tâches uniques.
+
+Throughout this course, we’re going to show you
+just what you can accomplish through engineering.
+Tout au long de ce cours, nous allons vous montrer
+exactement ce que vous pouvez accomplir grâce à l'ingénierie.
+
+Math is at the core of engineering, but what’s
+more important are the ideas and the applications.
+Les mathématiques sont au cœur de l'ingénierie, mais ce qui est
+plus important, ce sont les idées et les applications.
+
+They help us understand how we use math to
+solve problems.
+Ils nous aident à comprendre comment nous utilisons les mathématiques pour
+résoudre des problèmes.
+
+So we’ll be teaching you some math, but
+also the concepts that those equations explain,
+in their own way.
+Nous allons donc vous apprendre quelques mathématiques, mais
+aussi les concepts que ces équations expliquent,
+à leur manière.
+
+We’ll survey what we’ve already achieved,
+explore what we’re still discovering, and dream
+about what we hope to make possible.
+Nous examinerons ce que nous avons déjà réalisé,
+explorerons ce que nous découvrons encore et rêverons
+de ce que nous espérons rendre possible.
+
+And we’ll show you the ideas you can use
+to engineer great things!
+Et nous vous montrerons les idées que vous pouvez utiliser
+pour concevoir de grandes choses !
+
+We want you to be inspired and as interested
+in engineering as we are.
+Nous voulons que vous soyez inspiré et aussi intéressé
+par l'ingénierie que nous le sommes.
+
+That’s what this course is all about.
+C'est tout l'objet de ce cours.
+
+I’m Dr. Shini Somara and this is Crash Course
+Engineering.
+Je suis le Dr Shini Somara et c'est Crash Course
+Engineering.
+
+[Theme Music]
+[Thème musical]
+
+Imagine you’re walking through town,
+maybe on your way to class, or to the gym, or
+to a meeting for work.
+Imaginez que vous vous promenez en ville,
+peut-être sur le chemin de la classe, de la salle de sport ou
+d'une réunion de travail.
+
+And right there on the pavement you come across...a
+blob. Of…something.
+Et là, sur le trottoir, vous tombez sur... une
+tache.  De quelque chose. 
+
+It’s fairly large, and blue, and jiggly.
+C'est assez grand, et bleu, et jiggly.
+
+Pretty strange, right?
+What do you do?
+Assez étrange, non ?
+Que fais-tu? 
+
+Well, you’re a curious person, and you know a little
+something about scientific inquiry, so you want to
+use science to study the blob.
+Eh bien, vous êtes une personne curieuse et vous connaissez un
+peu la recherche scientifique, vous voulez donc
+utiliser la science pour étudier le blob.
+
+Maybe your background is in chemistry.
+Peut-être que votre formation est en chimie.
+
+So you might analyze the blob’s molecular
+structure or the chemical components in it, to try
+and figure out what the blob is made of.
+Vous pouvez donc analyser la structure moléculaire de la goutte
+ou les composants chimiques qu'elle contient, pour essayer
+de comprendre de quoi la goutte est faite.
+
+Or maybe the blob is moving or making sounds,
+and you think it might be alive.
+Ou peut-être que la goutte bouge ou émet des sons,
+et vous pensez qu'elle pourrait être vivante.
+
+So you might try to see how it responds to,
+say, water or a poke with your pen.
+Vous pouvez donc essayer de voir comment il réagit, par
+exemple, à l'eau ou à un coup de stylo.
+
+Maybe you even decide to remove a sample of
+it to learn about the blob’s biology.
+Peut-être que vous décidez même d'en retirer un
+échantillon pour en savoir plus sur la biologie de la goutte.
+
+You could even look at it from the perspective
+of physics and see how it operates in motion.
+Vous pourriez même le regarder du point de vue
+de la physique et voir comment il fonctionne en mouvement.
+
+Maybe this goo has some special properties.
+Peut-être que ce goo a des propriétés spéciales.
+
+Any of these responses would be approaching
+the situation as a scientist.
+N'importe laquelle de ces réponses aborderait
+la situation en tant que scientifique.
+
+You’re curious about the blob and want to
+understand it.
+Vous êtes curieux de connaître le blob et vous voulez le
+comprendre.
+
+That’s science.
+C'est scientifique.
+
+Scientists ask questions about the nature of the
+universe, from our expanding knowledge of space, to
+the tiniest particles found in the tip of your pencil.
+Les scientifiques posent des questions sur la nature de l'
+univers, de notre connaissance croissante de l'espace aux
+particules les plus minuscules trouvées dans la pointe de votre crayon.
+
+But engineers want to take the answers to
+those questions and solve problems.
+Mais les ingénieurs veulent prendre les réponses à
+ces questions et résoudre les problèmes.
+
+Because, in the process of designing clever things,
+what engineering really does is solve problems.
+Parce que, dans le processus de conception de choses intelligentes,
+ce que l'ingénierie fait vraiment, c'est résoudre des problèmes.
+
+And the good news is, you already know how
+to think like an engineer.
+Et la bonne nouvelle, c'est que vous savez déjà
+comment penser comme un ingénieur.
+
+You’ve dabbled in engineering if you’ve
+ever wondered what you can do with something.
+Vous vous êtes essayé à l'ingénierie si vous vous êtes
+déjà demandé ce que vous pouviez faire avec quelque chose.
+
+You’ve used your engineer’s mind if you went
+outside on a snowy morning and built a snowman,
+after figuring out the packing properties of the snow.
+Vous avez utilisé l'esprit de votre ingénieur si vous êtes
+sorti un matin enneigé et avez construit un bonhomme de neige,
+après avoir déterminé les propriétés d'emballage de la neige.
+
+I’m not saying you should put that on your
+resume, but you do get a thumbs-up!
+Je ne dis pas que vous devriez mettre ça sur votre
+CV, mais vous obtenez un coup de pouce !
+
+So, from an engineering perspective, your
+response to the mysterious sidewalk blob
+would be a little different.
+Donc, d'un point de vue technique, votre
+réponse à la mystérieuse goutte de trottoir
+serait un peu différente.
+
+But it may depend on what kind of engineer
+you are.
+Mais cela peut dépendre du type d'ingénieur que
+vous êtes.
+
+Today, engineering is much broader and more
+varied than it used to be.
+Aujourd'hui, l'ingénierie est beaucoup plus large et plus
+variée qu'elle ne l'était.
+
+That’s because engineering originally referred
+specifically to military engineering.
+C'est parce que l'ingénierie se référait à l'origine
+spécifiquement à l'ingénierie militaire.
+
+Military engineering involves designing and building
+military works, along with ways of communicating and
+transporting people and things.
+Le génie militaire consiste à concevoir et à construire
+des ouvrages militaires, ainsi que des moyens de communication et de
+transport des personnes et des choses.
+
+Think of catapults, trebuchets, and siege
+towers.
+Pensez aux catapultes, aux trébuchets et aux
+tours de siège.
+
+These types of war machines and military structures
+have been found as far back as 11th century BCE,
+by the Babylonians and Assyrians.
+Ces types de machines de guerre et de structures militaires
+ont été découverts dès le 11ème siècle avant notre ère,
+par les Babyloniens et les Assyriens.
+
+You needed a good engineer if you want to
+storm a castle.
+Il fallait un bon ingénieur pour prendre d'
+assaut un château.
+
+So from the perspective of this field, the
+main problem that an engineer might want to
+solve is simply how to destroy the blob.
+Donc, du point de vue de ce domaine, le
+principal problème qu'un ingénieur pourrait vouloir
+résoudre est simplement de savoir comment détruire le blob.
+
+Or to protect yourself from it.
+Ou pour s'en protéger.
+
+Now, the first of the modern field of
+engineering to emerge after military engineering
+was civil engineering.
+Maintenant, le premier domaine de l'
+ingénierie moderne à émerger après l'ingénierie militaire
+était le génie civil.
+
+This branch had its official start around
+the 18th century.
+Cette branche a vu le jour officiellement vers
+le 18ème siècle.
+
+Like the name implies, civil engineering was used
+for civilian purposes, rather than military ones.
+Comme son nom l'indique, le génie civil était utilisé
+à des fins civiles plutôt que militaires.
+
+It focuses on building structures of all kinds,
+along with highways, sanitation systems, and
+even entire cities.
+Il se concentre sur la construction de structures de toutes sortes,
+ainsi que sur les autoroutes, les systèmes d'assainissement et
+même des villes entières.
+
+Under this branch of engineering, we might want to
+study the blob, to figure out what properties it has that
+can be used to solve problems of daily civilian life.
+Dans cette branche de l'ingénierie, nous pourrions vouloir
+étudier le blob, pour déterminer quelles propriétés il a qui
+peuvent être utilisées pour résoudre les problèmes de la vie civile quotidienne.
+
+Like maybe the blob’s goo is better insulating
+material than what’s currently in your house.
+Comme peut-être que la boue du blob est un meilleur
+matériau isolant que ce qui se trouve actuellement dans votre maison.
+
+Or maybe it turns out to be really elastic, or waterproof,
+or have some other property that could make it useful
+in construction, infrastructure, or urban planning.
+Ou peut-être qu'il s'avère vraiment élastique, ou imperméable,
+ou qu'il a une autre propriété qui pourrait le rendre utile
+dans la construction, les infrastructures ou l'urbanisme.
+
+The 19th century led to an increasing focus
+on the machinery industry, which gave rise to
+the branch of mechanical engineering.
+Le XIXe siècle a conduit à une concentration croissante
+sur l'industrie des machines, ce qui a donné naissance à
+la branche du génie mécanique.
+
+Which I must say, as a mechanical engineer
+myself, is a fine discipline!
+Ce qui, je dois le dire, étant
+moi-même ingénieur en mécanique, est une belle discipline !
+
+This branch focuses on machinery and mechanical
+systems, from robots to engines.
+Cette branche se concentre sur les machines et les
+systèmes mécaniques, des robots aux moteurs.
+
+Thomas Savery and Thomas Newcomen, two English inventors who are credited with creating the steam engine in the early 1700s, were both mechanical engineers.
+Thomas Savery et Thomas Newcomen, deux inventeurs anglais à qui l'on attribue la création de la machine à vapeur au début des années 1700, étaient tous deux ingénieurs en mécanique.
+
+And so was James Watt, the Scottish scientist
+who made their design much more efficient by
+recapturing the steam in the engine.
+Tout comme James Watt, le scientifique écossais
+qui a rendu leur conception beaucoup plus efficace en
+récupérant la vapeur dans le moteur.
+
+The industrial revolution was led by mechanical
+engineers like them.
+La révolution industrielle a été menée par des
+ingénieurs en mécanique comme eux.
+
+Then, electrical engineering was a natural
+progression, once we were able to generate
+electricity and create electronics.
+Ensuite, le génie électrique était une
+progression naturelle, une fois que nous avons été capables de produire de l'
+électricité et de créer de l'électronique.
+
+Dating back to the 19th century, electrical
+engineering deals with devices and systems
+Datant du 19ème siècle, le
+génie électrique traite des appareils et des systèmes
+
+that can range anywhere from microchips and
+cell phones to the giant power station generators
+that help supply energy to big cities.
+qui peuvent aller des micropuces et
+des téléphones portables aux générateurs de centrales électriques géantes
+qui aident à fournir de l'énergie aux grandes villes.
+
+Electrical and mechanical engineering
+often come together to create some pretty
+fantastic inventions.
+L'ingénierie électrique et mécanique se combinent
+souvent pour créer
+des inventions assez fantastiques.
+
+If you want a robot that can move about like we
+do, you’re going to need a mechanical engineer
+to set up the “skeleton” of the machine.
+Si vous voulez un robot capable de se déplacer comme
+nous, il va falloir un ingénieur en mécanique
+pour mettre en place le « squelette » de la machine.
+
+Then, to give it a “heart” of electricity,
+you’ll need an electrical engineer to provide
+power to the robot with electronics.
+Ensuite, pour lui donner un "cœur" d'électricité,
+vous aurez besoin d'un ingénieur électricien pour
+alimenter le robot avec l'électronique.
+
+And if you want it to act like us too, you’ll
+need someone skilled in computer science.
+Et si vous voulez qu'il agisse comme nous aussi, vous aurez
+besoin de quelqu'un de compétent en informatique.
+
+But engineering doesn’t stop there.
+Mais l'ingénierie ne s'arrête pas là.
+
+Another field was founded in the late 19th
+century: chemical engineering.
+Un autre domaine a été fondé à la fin du XIXe
+siècle : le génie chimique.
+
+These engineers have quite a wide focus, not
+only designing and operating chemical plants that
+do things like refine oil and distill alcohol.
+Ces ingénieurs ont un objectif assez large, pas
+seulement la conception et l'exploitation d'usines chimiques qui
+font des choses comme le raffinage du pétrole et la distillation de l'alcool.
+
+They also deal with food, medicine, the environment,
+and much more.
+Ils traitent également de la nourriture, de la médecine, de l'environnement
+et bien plus encore.
+
+They’re involved not only with the
+preservatives and artificial flavors found in
+the pizza pocket you ate last night,
+Ils sont impliqués non seulement dans les
+conservateurs et les arômes artificiels trouvés dans
+la poche de pizza que vous avez mangée la nuit dernière,
+
+but also with the medicine you took the
+next day to help your upset stomach.
+mais aussi dans les médicaments que vous avez pris le
+lendemain pour soulager vos maux d'estomac.
+
+Together, civil, mechanical, electrical, and
+chemical engineering are often seen as the four main
+branches of engineering in the modern world.
+Ensemble, les génies civil, mécanique, électrique et
+chimique sont souvent considérés comme les quatre principales
+branches de l'ingénierie dans le monde moderne.
+
+But there are many more fields that specialize
+even further.
+Mais il existe de nombreux autres domaines qui se spécialisent
+encore plus.
+
+We have aerospace engineers building machines
+that fly in the air and space;
+Nous avons des ingénieurs en aérospatiale qui construisent des machines
+qui volent dans les airs et dans l'espace ;
+
+nuclear engineers harnessing the energy
+released from nuclear reactions;
+les ingénieurs nucléaires exploitant l'énergie
+dégagée par les réactions nucléaires ;
+
+and biomedical engineers creating medical
+equipment and devices to solve clinical problems.
+et des ingénieurs biomédicaux créant des
+équipements et dispositifs médicaux pour résoudre des problèmes cliniques.
+
+The list goes on!
+La liste continue! 
+
+And one branch that supports all of them is
+industrial engineering.
+Et une branche qui les soutient tous est
+le génie industriel.
+
+Engineers in this field design and optimize
+the facilities, equipment, and systems that many
+other engineers use to create their products.
+Les ingénieurs de ce domaine conçoivent et optimisent
+les installations, les équipements et les systèmes que de nombreux
+autres ingénieurs utilisent pour créer leurs produits.
+
+Think of them as the support class of the
+engineering world.
+Considérez-les comme la classe de soutien du monde de l'
+ingénierie.
+
+They provide the all-important groundwork
+for many of our engineering advances.
+Ils fournissent la base essentielle
+pour bon nombre de nos avancées techniques.
+
+We’ll need some industrial engineers to help us with
+our factory when we start manufacturing our cool new
+products based on whatever this blob is made of.
+Nous aurons besoin d'ingénieurs industriels pour nous aider avec
+notre usine lorsque nous commencerons à fabriquer nos nouveaux
+produits sympas basés sur tout ce dont ce blob est fait.
+
+With the power of engineering at our fingertips, we’ve
+already been able to do some pretty amazing things.
+Avec la puissance de l'ingénierie à portée de main, nous avons
+déjà pu faire des choses assez étonnantes.
+
+We’ve built spaceships that have sent people
+to the moon and given Mars a few rovers, which are
+fantastic works of engineering themselves.
+Nous avons construit des vaisseaux spatiaux qui ont envoyé des gens
+sur la lune et donné à Mars quelques rovers, qui sont
+eux-mêmes des œuvres d'ingénierie fantastiques.
+
+We’ve made artificial hearts to pump blood
+through the human body and artificial limbs
+to replace the ones that were lost.
+Nous avons créé des cœurs artificiels pour pomper le sang
+dans le corps humain et des membres artificiels
+pour remplacer ceux qui ont été perdus.
+
+We’ve designed giant skyscrapers that wave
+at the clouds and show the world just how
+high we can reach.
+Nous avons conçu des gratte-ciel géants qui ondulent
+dans les nuages et montrent au monde à quelle haute
+r nous pouvons attei
+
+And we’ve only just begun!
+dre.  Et nous venons à peine de commencer !
+
+In the future, it’s very possible that we’ll
+see advances like an artificial pancreas that
+would effectively cure Type 1 Diabetes.
+À l'avenir, il est très possible que nous voyions des
+progrès comme un pancréas artificiel qui
+guérirait efficacement le diabète de type 1.
+
+And new nanotechnology that will show the
+might of being small, and rockets that will finally send
+people to Mars to hang out with those rovers.
+Et une nouvelle nanotechnologie qui montrera la
+puissance d'être petit, et des fusées qui enverront enfin des
+gens sur Mars pour traîner avec ces rovers.
+
+This and much more could all come from engineering.
+Tout cela et bien plus encore pourrait provenir de l'ingénierie.
+
+Maybe one day you’ll be the one to create
+something truly amazing!
+Peut-être qu'un jour vous serez celui qui créera
+quelque chose de vraiment incroyable !
+
+As for the blob you found on the pavement,
+I don’t know what that thing is.
+Quant à la tache que vous avez trouvée sur le trottoir,
+je ne sais pas ce que c'est.
+
+Maybe it’ll turn out to be a huge wad of
+used chewing gum.
+Peut-être que cela se révélera être une énorme liasse
+de chewing-gum usagé.
+
+Or maybe it’s a new lifeform.
+Ou peut-être que c'est une nouvelle forme de vie.
+
+No matter what, it won’t be the first, or
+last, mysterious object you’ll encounter
+as a student of engineering.
+Quoi qu'il en soit, ce ne sera ni le premier ni le
+dernier objet mystérieux que vous rencontrerez en
+tant qu'étudiant en ingénierie.
+
+The world is full of strange things with great
+potential for solving problems.
+Le monde est plein de choses étranges avec un grand
+potentiel pour résoudre les problèmes.
+
+When you use your engineering mind, everything
+suddenly seems both perplexing and exciting.
+Lorsque vous utilisez votre esprit d'ingénieur, tout
+semble soudainement à la fois déroutant et excitant.
+
+So, over the next forty-odd weeks, we’ll
+show you how to build things. Design things.
+Ainsi, au cours des quarante prochaines semaines, nous
+vous montrerons comment construire des choses.  Concevoir des choses.
+
+We’ll show you how to solve problems.
+Nous vous montrerons comment résoudre les problèmes.
+
+We want you to be able to make things better
+and figure out what’s next for the world.
+Nous voulons que vous soyez en mesure d'améliorer les choses
+et de déterminer quelle est la prochaine étape pour le monde.
+
+Because we all live in a world of creation,
+and we want you to be a creator.
+Parce que nous vivons tous dans un monde de création,
+et nous voulons que vous soyez un créateur.
+
+Next time, we’ll continue our journey by
+diving deeper into civil engineering.
+La prochaine fois, nous continuerons notre voyage en
+plongeant plus profondément dans le génie civil.
+
+We’ll learn more about its history and the types
+of work that civil engineers do, getting you one step
+closer to being an engineering master of the universe.
+Nous en apprendrons plus sur son histoire et les types
+de travail que font les ingénieurs civils, vous rapprochant un peu
+plus d'être un maître de l'ingénierie de l'univers.
+
+Thanks for watching and I’ll see you then!
+Merci d'avoir regardé et je vous verrai alors!
+
+Crash Course Engineering is produced in association
+with PBS Digital Studios.
+Crash Course Engineering est produit en association
+avec PBS Digital Studios.
+
+You can head over to their channel to check
+out a playlist of their latest amazing shows,
+Vous pouvez vous rendre sur leur chaîne pour
+consulter une liste de lecture de leurs dernières émissions étonnantes,
+
+like The Origin of Everything, Infinite Series,
+and Eons.
+telles que The Origin of Everything, Infinite Series
+et Eons.
+
+Crash Course is a Complexly production and
+this episode was filmed in the Doctor Cheryl C. Kinney
+Studio with the help of these wonderful people.
+Crash Course est une production de Complexly et
+cet épisode a été filmé dans le studio du docteur Cheryl C. Kinney
+avec l'aide de ces personnes merveilleuses.
+
+And our amazing graphics team is Thought Cafe.
+Et notre incroyable équipe graphique est Thought Cafe.
+

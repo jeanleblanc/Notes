@@ -1,0 +1,253 @@
+Avez-vous déjà penser à pourquoi nous portons des vêtements ?
+
+Il y a des gens qui ne portent pas de vêtements, bien sûr.
+
+Mais la plupart d'entre nous oui, et ce n'est pas simplement par pudeur, ou la peur d'être arrêté pour attentat à la pudeur
+
+Vous pouvez être parfaitement à l'aise avec juste un T-shirt et un short, mais enlevez les, et vous commencerez à avoir froid.
+
+Marchez nu dans votre maison pendant un moment -- dans l'intérêt de la physique hein -- et vous comprendrez ce que je veux dire.
+
+Cette fraîcheur que vous ressentirez est complètement dû au flux thermique.
+
+[Musique d'intro]
+
+En thermodynamique, il y a plusieurs façons de décrire l'énergie d'un système.
+
+Nous avons déjà discuté de l'une d'elles:
+
+la temperature -- la mesure de l'énergie cinétique moyenne de chaque molécule dans une substance.
+
+Une autre mesure de l'énergie cinétique d'un système est l'énergie interne, aussi connue comme l'énergie thermique, représentée par la lettre U.
+
+L'énergie thermique est l'énergie cinétique de toutes les molécules dans un système additionnées ensemble --
+
+contrairement à la température, qui une mesure de l'énergie cinétique moyenne de chaque molécule.
+
+Donc pour trouver l'énergie thermique d'un système, vous multipliez l'énergie cinétique moyenne par le nombre de molécules
+
+Et la dernière fois, nous avons appris que l'équation de l'énergie cinétique d'un gaz parfait était égale à 3/2 (k) x la temperature.
+
+Donc l'énergie thermique d'un gaz parfait est égale au nombre de molécules dans un système multiplié par 3/2 k x la température.
+
+Maintenant, la quantité d'énergie thermique qui est ajoutée, ou retirée, d'un système est ce que nous appelons chaleur.
+
+Si je vous demandais de décrire la chaleur à quelqu'un qui n'en a jamais entendu parler avant, vous auriez des difficultés.
+
+C'est dur de définir ce qu'est la chaleur, précisément, en se basant seulement sur nos sensations.
+
+Pendant longtemps, les scientifiques ont décrit la chaleur comme un genre de fluide, puisque qu'il se diffuse d'un système à un autre.
+
+Mais aujourd'hui, nous savons que la chaleur n'est pas vraiment un fluide.
+
+C'est ' l'énergie ' qui se transmet entre des systèmes, lorsqu'ils sont à différentes températures.
+
+Dans les équations, nous représentons la chaleur en utilisant la lettre majuscule Q.
+
+Et dans notre vie quotidienne, nous mesurons souvent la chaleur avec une unité appelée calories.
+
+Les unités que vous voyez sur des étiquettes alimentaires sont en fait en kilocalories, ou un millier de calories.
+
+Mais dans le Système International d'unités, nous utilisons les Joules.
+
+Une calorie est définie comme la quantité d'énergie nécessaire pour augmenter la température d'un gramme d'eau d'un degrée Celsius -- ou un Kelvin.
+
+Une calorie est égale à 4.186 Joules. Aussi simple que ça.
+
+Donc, le flux thermique change la température d'un système.
+
+Mais à quel point la température change ça cela dépend de deux choses:
+
+La première est la masse du système.
+
+Plus un système a de la masse, plus il faut de chaleur pour changer sa température.
+
+Les systèmes avec plus de masses ont plus de matières, après tout, donc il faut plus d'énergie pour changer l'énergie cinétique moyenne.
+
+Mais le changement de température dépend aussi de quelque chose appelée la chaleur spécifique.
+
+La chaleur spécifique est la mesure de la capacité d'un système à stocker la chaleur.
+
+Toutes les substances ont leur propre chaleur spécifique, et plus elle est haute, plus il faut transférer d'énergie
+
+-- sous forme de chaleur -- pour changer sa température.
+
+L'eau, par exemple, a une chaleur spécifique très haute comparée à, disons, l'aluminium.
+
+Ça veut dire qu'il faut bien plus de chaleur pour changer la température de l'eau par rapport à l'aluminium.
+
+En général, la quantité de chaleur transférée de ou vers une substance est égale à la masse
+
+x la chaleur spécifique (que nous noterons petit c) x le changement de température.
+
+Et si Q -- qui représente la chaleur -- est positif, ça veut dire que la chaleur est diffusée vers le système.
+
+Si Q est négatif, la chaleur est diffusé hors.
+
+Mais il y a un autre facteur qui influence la manière dont le transfert thermique est lié à la température.
+
+Et c'est le changement de phase.
+
+Soit un kilogramme de glace à -10 degrés Celsius et à la pression atmosphérique standard.
+
+Ensuite vous commencez à lui ajouter de la chaleur. Que se passe t-il ?
+
+Hé bien, nous savons que la température de la glace commencera à augmenter.
+
+Mais à un certain point -- lorsque la température atteindra 0 Celsius -- elle va arrêter d'augmenter.
+
+Parce que la glace fondra.
+
+Ensuite, au lieu d'augmenter la température de la glace, la chaleur que vous ajoutez va permettre de changer de phase de solide à liquide.
+
+Et après, une fois que tout aura fondu, la température de l'eau augmentera encore tant que vous ajouterez de la chaleur, jusqu'à atteindre 100 degrés.
+
+Et à ce moment, encore une fois -- la température arrêtera d'augmenter.
+
+Cette fois, parce que l'eau bouillit.
+
+Lorsque toutes l'eau aura été transformée en vapeur, ajouter plus de chaleur augmentera la température encore une fois.
+
+Donc, nous utilisons pas l'équation vue précédemment pour décrire le transfert thermique pendant un changement de phase.
+
+À la place, la quantité de chaleur qui est transférée pendant un changement de phase est égale à la masse fois ce qui est appelée la chaleur latente.
+
+La chaleur latente est la chaleur requise pour changer la phase d'une substance, et comme la chaleur spécifique, sa valeur dépend de la substance.
+
+La valeur dépend aussi du changement de phase.
+
+Pour un changement de solide vers liquide, par exemple, il est appelé la chaleur de fusion
+
+Et pour un changement de liquide vers gazeux il est appelé la chaleur de vaporisation.
+
+Voilà comment la chaleur influence le changement de phase.
+
+Mais comment la chaleur se diffuse t-elle?
+
+C'est essentiel pour comprendre pourquoi porter des vêtements est si génial.
+
+Il y a trois manières de diffusion pour la chaleur : conduction, convection, et rayonnement.
+
+Chacune d'elles apparaît selon les circonstances, la chaleur pouvant souvent se diffuser de deux, ou même trois manières en même temps.
+
+En conduction, le flux thermique dépend du contact physique entre molécules, qui transfèrent leur énergie cinétique parmi elles.
+
+C'est comme quand la cuillère que vous utilisez pour mélanger votre thé devient chaude.
+
+La chaleur se transmet de votre thé jusqu'à la cuillère de métal.
+
+Et qu'est-ce qui détermine la quantité de chaleur transmise au cours du temps ?
+
+Hé bien, plus la différence de températures est grande entre les molécules,
+
+et plus l'aire de la section transversale à travers laquelle se propage la chaleur est grande, plus la chaleur va se diffuser.
+
+Mais plus les molécules sont éloignées, plus elle se diffuse lentement.
+
+La conductivité dépend aussi sur matériau -- le métal, par exemple, conduit la chaleur plus vite que le bois.
+
+Dans les équations, nous représentons cette conductivité propre, connue comme la conductivité thermique, en utilisant la lettre k
+
+Plus la valeur de k est grande, plus la conductivité thermique du matériau est grande, et plus vite la chaleur se diffusera.
+
+Et il y a une équation pour la conduction de chaleur au cours du temps qui rassemble tous ces différents facteurs.
+
+Elle dit que le flux thermique par rapport au temps entre deux points -- c'est Q sur t -- est égale à
+
+k x l'aire de la section transversale x la différence de température entre ces deux points,
+
+le tout divisé par la distance entre eux.
+
+Une autre façon qu'a la chaleur pour se propager est la conduction, qui est un genre de convection
+
+dans le sens où elle dépend toujours du contact entre molécules.
+
+Sauf qu'en convection, les molécules ne se percutent pas juste parce qu'elles sont proches l'une de l'autre -- à la place, elle voyage bien plus vite.
+
+C'est comme si les molécules étaient mélangées.
+
+En convection, les molécules plus chaudes s'éloignent normalement de la source de chaleur et sont remplacées par des molécules plus froides qui chaufferont ensuite.
+
+Dans une bouilloire, par exemple, l'eau est chauffée par le bas, donc l'eau au fond chauffe d'abord.
+
+Cette eau plus chaude se propage et monte, et est remplacée par de l'eau plus froide, qui ensuite va chauffer.
+
+Mais la convection arrive seulement parce que la source de chaleur est positionnée de telle façon que l'eau plus chaude s'en éloigne -- elle est au fond de la bouilloire.
+
+Si la source de chaleur était en haut de la bouilloire, l'eau au dessus chaufferait d'abord,
+
+et en fait cela resterait comme ça, et l'eau plus froide ne prendrait pas sa place.
+
+Par conséquent, l'eau chaude et froide ne se mélangeraient pas, donc elle ne serait pas chauffée par convection.
+
+Finalement, il y a le rayonnement, qui ne dépend pas du mouvement de molécules.
+
+À la place, la chaleur est transférée par ondes électromagnétiques.
+
+Nous considérons normalement la partie infrarouge du spectre pour chauffer.
+
+Et nous pouvons décrire la façon dont la chaleur rayonne d'un objet au fil du temps avec une équation,
+
+comme nous l'avons fait pour la conduction, mais celle-ci marche un peu différemment.
+
+Plus l'aire d'un objet est grande, plus il va rayonner de la chaleur rapidement.
+
+Et c'est valable aussi pour la température.
+
+Plus précisément, la quantité de chaleur qu'un objet rayonne dans le temps est proportionnelle à sa température exposant quatre.
+
+À savoir que, si vous doublez la température d'un objet, vous multiplier la chaleur qu'il rayonne au cours du temps par seize.
+
+Donc la température est essentielle lorsque l'on parle de rayonnement.
+
+Mais le rayonnement dépend aussi de ce qu'on appelle la constante d'émissivité, qui se base sur la capacité d'un matériau à rayonner de la chaleur.
+
+Plus la constante d'émissivité est élevée, plus le matériau rayonne.
+
+L'équation qui combine toutes ces variables ensemble pour décrire la quantité de chaleur qu'un objet rayonne
+
+au cours du temps est appelé la loi de Stefan-Boltzmann.
+
+Et elle dit que la chaleur émise au cours du temps est égale à la constante d'émissivité x un nombre particulier appelé constante de Stefan-Boltzmann
+
+x l'aire de l'objet x la température exposant quatre.
+
+Maintenant que nous avons passé en revue toutes les manières dont la chaleur se transmet, nous pouvons répondre à
+
+Pourquoi portons-nous des vêtements.
+
+En fait, c'est simple : Sinon, nous perdrions beaucoup de chaleur.
+
+Votre corps perd de la chaleur de plusieurs manières.
+
+La principale est la convection -- si votre peau est plus chaude que l'air environnant, alors vous transférerez de la chaleur vers l'air.
+
+Et l'air se déplace énormément, donc très vite, l'air chaud est balayée et remplacée par un air plus froid, et vous perdez de la chaleur en chauffant l'air qui la remplace.
+
+Les vêtement aide à garder cette aire contre votre peau.
+
+Évidemment, vous perdez de la chaleur en chauffant l'air, mais ensuite l'air chaud reste proche de votre corps, donc vous n'en perdez pas trop.
+
+Vous pouvez aussi perdre de la chaleur par rayonnement.
+
+Si les murs, sol, et plafond de la pièce où vous êtes sont plus froids que vous, vous rayonnerez plus de chaleur qu'eux en rayonne vers vous.
+
+Les vêtements ne vous empêche pas de rayonner de la chaleur mais il vous garde assez au chaud pour que la chaleur que votre produit comble celle que vous perdez par rayonnement.
+
+Juste une autre bonne raison de rester habiller, autant que possible.
+
+Aujourd'hui, vous avez appris des choses sur l'énergie thermique aussi bien que de la chaleur, et la quantité nécessaire
+
+pour les changements de températures et de phase.
+
+Nous avons aussi discuté de transfert thermique par conduction, convection, et rayonnement.
+
+Crash Course Physique est produit en association avec PBS Digital Studios.
+
+Vous pouvez vous diriger vers leur chaîne pour voir des émissions géniales comme It's Okay to Be Smart, Blank on Blank, et Gross Science.
+
+Cet épisode de Crash Course a été filmé au Doctor Cheryl C. Kinney Crash Course Studio
+
+avec l'aide de toutes ces personnes géniales et
+notre équipe de graphiste est Thought Cafe.
+

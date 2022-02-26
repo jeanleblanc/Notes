@@ -1,0 +1,615 @@
+Last week, I told you about equilibrium, which
+is proof,
+La semaine dernière, je vous ai parlé d'équilibre, ce qui
+est la
+
+if you ever needed proof, that the universe
+is trying to mess with us,
+preuve, si jamais vous en aviez besoin, que l'
+univers essaie de jouer avec nous,
+
+because even though we think and talk about chemical reactions as being a straightforward process,
+parce que même si nous pensons et parlons des réactions chimiques comme étant un processus simple,
+
+often times they're also going backwards.
+souvent elles sont  également en marche arrière.
+
+At the same time, the reactants are combining to form products like nitrogen and hydrogen to make ammonia,
+Dans le même temps, les réactifs se combinent pour former des produits comme l'azote et l'hydrogène pour fabriquer de l'ammoniac,
+
+or hydrogen and fluorine to make hydrogen
+fluoride.
+ou de l'hydrogène et du fluor pour fabriquer du
+fluorure d'hydrogène.
+
+The products are also breaking back apart
+into the reactants.
+Les produits se décomposent également
+en réactifs.
+
+So there's a sweet spot.
+Il y a donc un endroit idéal.
+
+One particular ratio of reactants to products where the products form at the same rate that they break down.
+Un rapport particulier de réactifs aux produits où les produits se forment à la même vitesse qu'ils se décomposent.
+
+When a reaction hits that spot, it's said
+to be in its equilibrium state.
+Lorsqu'une réaction atteint cet endroit, on
+dit qu'elle est dans son état d'équilibre.
+
+A bit of a kick in the head.
+Un petit coup de pied dans la tête.
+
+But of course you're not totally at chemistry's
+mercy;
+Mais bien sûr, vous n'êtes pas totalement à la
+merci de la chimie ;
+
+you can tinker with chemical equilibrium by
+altering the concentration of the substances
+vous pouvez modifier l'équilibre chimique en
+modifiant la concentration des substances
+
+and their temperature and if they're gases,
+the pressure on them.
+et leur température et, s'il s'agit de gaz,
+la pression exercée sur eux.
+
+For example, adding pressure to the Haber
+Process that we use to create ammonia essentially
+Par exemple, l'ajout de pression au procédé Haber
+que nous utilisons pour créer de l'ammoniac
+
+shifts the position of equilibrium,
+modifie essentiellement la position d'équilibre, de
+
+so the result of the reaction is more ammonia
+being produced than nitrogen and hydrogen.
+sorte que le résultat de la réaction est la production de plus d'
+ammoniac que d'azote et d'hydrogène.
+
+But, wouldn't it be a lot more helpful if
+you knew
+Mais, ne serait-il pas beaucoup plus utile si
+vous saviez
+
+how much pressure you'd have to add to produce
+the exact amount of ammonia you needed,
+combien de pression vous auriez à ajouter pour produire
+la quantité exacte d'ammoniac dont vous avez besoin,
+
+or how much hydrogen fluoride it takes to
+refine a certain volume of gasoline.
+ou combien de fluorure d'hydrogène il faut pour
+raffiner un certain volume d'essence.
+
+Math, of course, is the way to answer questions like these, so today I'm going to show you some simple,
+Les mathématiques, bien sûr, sont le moyen de répondre à des questions comme celles-ci, alors aujourd'hui je vais vous montrer quelques calculs simples et
+
+totally non-scary calculations that will help
+you get a handle on chemical equilibrium.
+totalement non effrayants qui vous aideront
+à maîtriser l'équilibre chimique.
+
+[Theme Music]
+[Thème musical]
+
+The first and most important thing you need to do equilibrium calculations is the equilibrium constant.
+La première et la plus importante chose dont vous avez besoin pour faire des calculs d'équilibre est la constante d'équilibre.
+
+This number is unique for every reaction and
+represents
+Ce nombre est unique pour chaque réaction et
+représente
+
+a molar ratio of products over reactants when
+a reaction is at equilibrium.
+un rapport molaire des produits sur les réactifs
+lorsqu'une réaction est à l'équilibre.
+
+Equilibrium constants are easy to set up but
+hard to explain,
+Les constantes d'équilibre sont faciles à mettre en place mais
+difficiles à expliquer,
+
+so let's start with an example using this
+obviously fake chemical equation.
+alors commençons par un exemple utilisant cette
+équation chimique évidemment fausse.
+
+The capital letters stand for the reactants
+and the products
+Les lettres majuscules représentent les réactifs
+et les produits
+
+and the lowercase letters stand for their
+coefficients.
+et les lettres minuscules représentent leurs
+coefficients.
+
+The equilibrium constant, or Keq, is equal to the product of the molar concentration of the products
+La constante d'équilibre, ou Keq, est égale au produit de la concentration molaire des produits
+
+divided by the product of the molar concentration
+of the reactants.
+par le produit de la concentration molaire
+des réactifs.
+
+Each concentration is raised to the power
+of its coefficient in the balanced equation.
+Chaque concentration est élevée à la puissance
+de son coefficient dans l'équation équilibrée.
+
+Now this is important; we're using the coefficients
+as exponents here
+Maintenant c'est important;  nous utilisons les coefficients
+comme exposants ici
+
+because we're multiplying all the products
+and all the reactants,
+parce que nous multiplions tous les produits
+et tous les réactifs,
+
+not adding them like you would do in a balanced
+equation.
+sans les additionner comme vous le feriez dans une
+équation équilibrée.
+
+Generations of students have messed up test scores by getting this part wrong, but you will not do that.
+Des générations d'étudiants ont gâché les résultats des tests en se trompant sur cette partie, mais vous ne le ferez pas.
+
+So again, it's the product of the products of the product of the reactants and the coefficients become exponents.
+Donc encore une fois, c'est le produit des produits du produit des réactifs et les coefficients deviennent des exposants.
+
+Actually pretty simple.
+En fait assez simple.
+
+The square brackets in the formula are used
+by chemists to represent molar concentration,
+Les crochets dans la formule sont utilisés
+par les chimistes pour représenter la concentration molaire,
+
+or molarity: moles of solute per liter of
+solution.
+ou molarité : moles de soluté par litre de
+solution.
+
+These equilibrium constant equations and the
+constants themselves
+Ces équations constantes d'équilibre et les
+constantes elles
+
+are one of the few places where you don't
+need to write them with every number.
+-mêmes sont l'un des rares endroits où vous n'avez pas
+besoin de les écrire avec chaque nombre.
+
+Just remember to convert everything into molarities
+before plugging numbers into the equation.
+N'oubliez pas de tout convertir en molarités
+avant de brancher des nombres dans l'équation.
+
+One last thing before we do a calculation:
+as we learned in the last episode,
+Une dernière chose avant de faire un calcul :
+comme nous l'avons appris dans le dernier épisode,
+
+a change in temperature changes the position
+of equilibrium.
+un changement de température modifie la position
+d'équilibre.
+
+Therefore, the equilibrium constant is only
+true for a specific temperature.
+Par conséquent, la constante d'équilibre n'est
+vraie que pour une température spécifique.
+
+Constants are normally calculated at 25 degrees
+Celsius, which is close enough for most situations,
+Les constantes sont normalement calculées à 25 degrés
+Celsius, ce qui est assez proche pour la plupart des situations,
+
+but the temperature should always be mentioned
+along with the constant.
+mais la température doit toujours être
+mentionnée avec la constante.
+
+Fortunately for us, chemists have already figured out the equilibrium constants for most common reactions.
+Heureusement pour nous, les chimistes ont déjà trouvé les constantes d'équilibre pour les réactions les plus courantes.
+
+Carbonic acid, for instance, which is basically
+just carbon dioxide dissolved in water,
+L'acide carbonique, par exemple, qui n'est essentiellement
+que du dioxyde de carbone dissous dans l'eau, se
+
+dissociates to form carbonate ions and hydrogen
+ions.
+dissocie pour former des ions carbonate et des
+ions hydrogène.
+
+You'll see this reaction again later when we talk in depth about carbon and the planet's carbon cycles.
+Vous reverrez cette réaction plus tard lorsque nous parlerons en profondeur du carbone et des cycles du carbone de la planète.
+
+More importantly, right now, the reaction is perfectly reversible with an equilibrium constant of 1.66 x 10^-17.
+Plus important encore, à l'heure actuelle, la réaction est parfaitement réversible avec une constante d'équilibre de 1,66 x 10^-17.
+
+For this reaction, Keq equals the product of the molar concentration of the carbonate ion
+Pour cette réaction, Keq est égal au produit de la concentration molaire de l'ion carbonate
+
+and the molar concentration of the hydrogen
+ion,
+et de la concentration molaire de l'
+ion hydrogène,
+
+which is squared because hydrogen's coefficient
+in the balanced equation is 2,
+qui est au carré car le coefficient de l'hydrogène
+dans l'équation équilibrée est de 2, le
+
+all divided by the molar concentration of
+carbonic acid.
+tout divisé par la concentration molaire de
+l'acide carbonique.
+
+Now, let's not be boring and throw a bunch
+of numbers around.
+Maintenant, ne soyons pas ennuyeux et jetons un tas
+de chiffres.
+
+What you need to see is that the quotient on the right must always yield the same number because it's a constant.
+Ce que vous devez voir, c'est que le quotient de droite doit toujours donner le même nombre car c'est une constante.
+
+So, if the amount of CO2 in the atmosphere increases leading to more H2CO3 in the earth's water,
+Ainsi, si la quantité de CO2 dans l'atmosphère augmente, entraînant plus de H2CO3 dans l'eau terrestre,
+
+the concentration of carbonate ions and/or hydrogen ions must also increase so the total will match the Keq.
+la concentration d'ions carbonate et/ou d'ions hydrogène doit également augmenter pour que le total corresponde au Keq.
+
+You should also notice that any change to
+the concentration of hydrogen ions
+Vous devez également noter que toute modification de
+la concentration d'ions hydrogène
+
+will have a huge effect on the denominator
+because its square.
+aura un effet énorme sur le dénominateur
+car son carré.
+
+So an increase in hydrogen ions, like if the water were somehow acidified by an outside source,
+Ainsi, une augmentation des ions hydrogène, comme si l'eau était en quelque sorte acidifiée par une source extérieure
+
+would require a huge decrease in carbonate
+ions or a huge increase in carbonic acid —
+, nécessiterait une énorme diminution des
+ions carbonate ou une énorme augmentation de l'acide carbonique -
+
+carbon dioxide pulled in from the atmosphere
+to satisfy the equilibrium condition again.
+le dioxyde de carbone extrait de l'atmosphère
+pour satisfaire à nouveau la condition d'équilibre.
+
+We can attack this problem from another direction, too, depending on what information we have to begin with.
+Nous pouvons également attaquer ce problème dans une autre direction, en fonction des informations dont nous disposons pour commencer.
+
+Chemists often know not only the equilibrium
+constant for a reaction,
+Les chimistes connaissent souvent non seulement la
+constante d'équilibre d'une réaction,
+
+but also how much of each reactant is available.
+mais aussi la quantité de chaque réactif disponible.
+
+And all they need to figure out is exactly how much of each substance will be present at equilibrium.
+Et tout ce dont ils ont besoin, c'est de déterminer exactement la quantité de chaque substance qui sera présente à l'équilibre.
+
+This type of calculation is easiest using
+a format called a RICE table.
+Ce type de calcul est plus simple en utilisant
+un format appelé table RICE.
+
+RICE stands for Reaction, Initial, Change,
+and Equilibrium.
+RICE signifie Réaction, Initiale, Changement
+et Équilibre.
+
+On the R line at the top of the table, we
+write the chemical equation of reaction,
+Sur la ligne R en haut du tableau, nous
+écrivons l'équation chimique de la réaction, en
+
+leaving space between each part so we'll have
+room to add more information below.
+laissant de l'espace entre chaque partie afin que nous ayons de la
+place pour ajouter plus d'informations ci-dessous.
+
+On the I line we write the initial concentrations
+of each substance.
+Sur la ligne I, nous écrivons les concentrations initiales
+de chaque substance.
+
+Some of those will almost always be zero, since products generally aren't present until the reaction begins.
+Certains d'entre eux seront presque toujours nuls, car les produits ne sont généralement pas présents avant le début de la réaction.
+
+The C line is where we map out how much of
+each substance will change during the reaction.
+La ligne C est l'endroit où nous cartographions la quantité de
+chaque substance qui changera au cours de la réaction.
+
+We often don't know exactly how much this
+is until we do the math,
+Souvent, nous ne savons pas exactement combien cela
+représente jusqu'à ce que nous fassions le calcul,
+
+so we start out with x, where the amount is
+unknown.
+alors nous commençons par x, où le montant est
+inconnu.
+
+The E line is where we put the final result: how much of each substance will be present at equilibrium.
+La ligne E est l'endroit où nous mettons le résultat final : quelle quantité de chaque substance sera présente à l'équilibre.
+
+Since the final amount is just the initial
+amount plus any changes that have occurred,
+Étant donné que le montant final est simplement le
+montant initial plus les modifications qui se sont produites,
+
+this line is the sum of the initial line and
+the change line.
+cette ligne est la somme de la ligne initiale et de
+la ligne de modification.
+
+Let's do this for hydrogen fluoride, or HF, an integral part of the process of refining gasoline.
+Faisons cela pour le fluorure d'hydrogène, ou HF, partie intégrante du processus de raffinage de l'essence.
+
+It can be formed in the gaseous state by an equilibrium reaction between hydrogen gas and fluorine gas.
+Il peut être formé à l'état gazeux par une réaction d'équilibre entre l'hydrogène gazeux et le fluor gazeux.
+
+Start by writing the balanced equation.
+Commencez par écrire l'équation équilibrée.
+
+For our initial concentrations,
+Pour nos concentrations initiales,
+
+let's use 3.00 mol of H2 and 6.00 mol of F2
+in a 3.00 liter container at a certain temperature.
+utilisons 3,00 mol de H2 et 6,00 mol de F2
+dans un récipient de 3,00 litres à une certaine température.
+
+That makes the initial concentration of H2
+3 moles in 3 liters, or a 1.00 molar solution.
+Cela rend la concentration initiale de H2 de
+3 moles dans 3 litres, soit une solution 1,00 molaire.
+
+Similarly, the initial concentration of the
+F2 is 6 moles per 3 liters, or 2 molar.
+De même, la concentration initiale du
+F2 est de 6 moles pour 3 litres, soit 2 molaires.
+
+No HF has formed yet, so it's initial concentration
+is 0.
+Aucun HF ne s'est encore formé, donc sa concentration initiale
+est de 0.
+
+So what we're trying to figure out is how
+much of the hydrogen and the fluorine
+Nous essayons donc de déterminer quelle
+quantité d'hydrogène et de fluor
+
+will react to form hydrogen fluoride under
+these conditions.
+réagira pour former du fluorure d'hydrogène dans
+ces conditions.
+
+So we'll call the change 'x' for now.
+Nous appellerons donc le changement 'x' pour l'instant.
+
+Since 1 mole of H2 and 1 mole of F2, combine
+to form 2 moles of HF.
+Puisque 1 mole de H2 et 1 mole de F2, se combinent
+pour former 2 moles de HF.
+
+We can say that the H2 and F2 will each lose 'x' moles per liter while the HF gains 2x moles per liter.
+On peut dire que le H2 et le F2 perdent chacun 'x' moles par litre tandis que le HF gagne 2x moles par litre.
+
+That's on the change line of your table.
+C'est sur la ligne de changement de votre table.
+
+So that leaves the equilibrium line where
+you write your totals.
+Cela laisse donc la ligne d'équilibre où
+vous écrivez vos totaux.
+
+For H2 we have a total of 1.00 - x molar.
+For F2 the total is 2.00 - x.
+Pour H2, nous avons un total de 1,00 - x molaire.
+Pour F2, le total est de 2,00 - x.
+
+For the HF the total is 2x molar.
+Pour le HF, le total est 2x molaire.
+
+Now we apply these figures to our formula
+for the equilibrium constant.
+Maintenant, nous appliquons ces chiffres à notre formule
+pour la constante d'équilibre.
+
+Based on the table in the back of my textbook, the Keq for this reaction is 115 at the given temperature.
+D'après le tableau au dos de mon manuel, le Keq pour cette réaction est de 115 à la température donnée.
+
+We plug in the numbers from our RICE table
+and solve for x.
+Nous insérons les nombres de notre table RICE
+et résolvons pour x.
+
+And we end up with this. Which you probably
+recognize as a quadratic equation.
+Et on finit par ça.  Ce que vous
+reconnaissez probablement comme une équation quadratique.
+
+Just so you know that doesn't happen with every equilibrium calculation, but it's an extremely common result.
+Juste pour que vous sachiez que cela ne se produit pas avec tous les calculs d'équilibre, mais c'est un résultat extrêmement courant.
+
+To solve the quadratic equation we have to
+use the quadratic formula.
+Pour résoudre l'équation quadratique, nous devons
+utiliser la formule quadratique.
+
+And to do that we have to think of the coefficients
+of our equation as a, b, and c in that order.
+Et pour ce faire, nous devons penser aux coefficients
+de notre équation comme a, b et c dans cet ordre.
+
+Then we plug them in the corresponding positions
+in this formula:
+Ensuite on les branche aux positions correspondantes
+dans cette formule :
+
+-b +/- the square root of b2 - 4ac, all divided
+by 2a.
+-b +/- la racine carrée de b2 - 4ac, le tout divisé
+par 2a.
+
+Once we finally get all the numbers in the
+right places,
+Une fois que nous avons enfin obtenu tous les nombres aux
+bons endroits,
+
+it becomes a matter of grinding through some
+basic algebra.
+il s'agit de passer à travers une
+algèbre de base.
+
+And because of the way the quadratic formula
+works, we'll get 2 possible answers.
+Et à cause du fonctionnement de la formule quadratique
+, nous aurons 2 réponses possibles.
+
+To figure out which one is the right one,
+think back to the beginning of the problem.
+Pour savoir lequel est le bon,
+repensez au début du problème.
+
+I said the initial concentration of the H2 was 1 molar, and the initial concentration of the F2 was 2 molar.
+J'ai dit que la concentration initiale du H2 était de 1 molaire et que la concentration initiale du F2 était de 2 molaire.
+
+And x is the amount that each one lost, right?
+Et x est le montant que chacun a perdu, n'est-ce pas ?
+
+Well neither the H2 nor the F2 could possibly
+lose 2.13 moles per liter
+Eh bien, ni le H2 ni le F2 ne pourraient
+perdre 2,13 moles par litre
+
+when they both started with less than that
+already.
+quand ils ont déjà commencé avec moins que
+cela.
+
+So clearly, the correct answer has to be 0.968
+molar.
+Il est donc clair que la bonne réponse doit être 0,968
+molaire.
+
+Using that then, we can calculate the actual
+equilibrium amounts for each substance.
+En utilisant cela, nous pouvons calculer les
+quantités d'équilibre réelles pour chaque substance.
+
+At equilibrium, under these specific conditions
+the concentration of HF is 2x,
+A l'équilibre, dans ces conditions spécifiques,
+la concentration de HF est de 2x,
+
+or 2 x 0.968,
+which equals 1.94 molar.
+soit 2 x 0,968,
+ce qui équivaut à 1,94 molaire.
+
+The concentration of hydrogen will be 1 - 0.968
+or 0.032 molar.
+La concentration d'hydrogène sera de 1 - 0,968
+ou 0,032 molaire.
+
+And the concentration of fluorine will be
+2 - 0.968 or 1.03 molar.
+Et la concentration de fluor sera de
+2 - 0,968 ou 1,03 molaire.
+
+As we learned last week, those values can
+be shifted.
+Comme nous l'avons appris la semaine dernière, ces valeurs peuvent
+être modifiées.
+
+For instance, to maximize the hydrogen fluoride production by adding or removing some of the substances.
+Par exemple, pour maximiser la production de fluorure d'hydrogène en ajoutant ou en supprimant certaines des substances.
+
+Or by changing the pressure or temperature
+on the system.
+Ou en changeant la pression ou la température
+sur le système.
+
+That's why these calculations are so valuable
+to scientists.
+C'est pourquoi ces calculs sont si précieux
+pour les scientifiques.
+
+Just a little bit of algebra allows us to
+maximize the benefit that we receive from
+Juste un peu d'algèbre nous permet de
+maximiser le bénéfice que nous recevons
+
+the things that nature is already doing anyway.
+des choses que la nature fait déjà de toute façon.
+
+If the universe really is try to take advantage of us, we've certainly figured out how to take advantage right back.
+Si l'univers essaie vraiment de profiter de nous, nous avons certainement compris comment en profiter tout de suite.
+
+So the next time you're wondering why you
+learned this stuff in math class, now you know.
+Alors la prochaine fois que vous vous demanderez pourquoi vous avez
+appris ce genre de choses en cours de mathématiques, maintenant vous le saurez.
+
+Thanks for watching this episode of Crash
+Course Chemistry.
+Merci d'avoir regardé cet épisode de Crash
+Course Chemistry.
+
+Today you've learned some mathematical tools to help us make more efficient use of equilibrium reactions in real life.
+Aujourd'hui, vous avez appris quelques outils mathématiques pour nous aider à utiliser plus efficacement les réactions d'équilibre dans la vie réelle.
+
+You've learned how to calculate an equilibrium
+constant, Keq.
+Vous avez appris à calculer une
+constante d'équilibre, Keq.
+
+You've learned how to calculate the equilibrium conditions of reactions just from knowing their initial conditions.
+Vous avez appris à calculer les conditions d'équilibre des réactions simplement en connaissant leurs conditions initiales.
+
+And you've learned that a RICE table isn't
+just a place where you eat sushi.
+Et vous avez appris qu'une table RICE n'est pas
+seulement un endroit où vous mangez des sushis.
+
+And you may even have learned a little bit
+about the quadratic equation.
+Et vous avez peut-être même appris un
+peu l'équation quadratique.
+
+This episode was written by Edi González.
+The script was edited by Blake de Pastino.
+Cet épisode a été écrit par Edi González.
+Le script a été édité par Blake de Pastino.
+
+And our chemistry consultant was Dr. Heiko
+Langner.
+Et notre consultant en chimie était le Dr Heiko
+Langner.
+
+It was filmed, edited, and directed by Nicholas Jenkins. The script supervisor was Katherine Green.
+Il a été filmé, monté et réalisé par Nicholas Jenkins.  Le superviseur du scénario était Katherine Green.
+
+The sound designer is Michael Aranda. And
+our graphics team is Thought Café.
+Le concepteur sonore est Michael Aranda.  Et
+notre équipe graphique est Thought Café.
+

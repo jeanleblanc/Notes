@@ -1,0 +1,533 @@
+I want you to think, just for a second about
+breathing.
+Je veux que vous réfléchissiez, juste une seconde, à la
+respiration.
+
+But don't just think about the fact that you
+are breathing.
+Mais ne pensez pas seulement au fait que
+vous respirez.
+
+Think about all the variables that have to be just so in order to create the air -- and to make the air breathable.
+Pensez à toutes les variables qui doivent l'être pour créer l'air -- et pour rendre l'air respirable.
+
+So you need oxygen in the air but also if
+the air was just oxygen, you would die.
+Donc, vous avez besoin d'oxygène dans l'air, mais aussi si
+l'air n'était que de l'oxygène, vous mourriez.
+
+The oxygen has to be mixed with nitrogen and
+other gases,
+L'oxygène doit être mélangé avec de l'azote et d'
+autres gaz,
+
+and the whole concoction has to be at the right pressure and temperature in order to deliver
+et l'ensemble du mélange doit être à la bonne pression et à la bonne température afin de fournir
+
+the amount of O2 that you need.
+la quantité d'O2 dont vous avez besoin.
+
+The air that you are breathing is a solution.
+L'air que vous respirez est une solution.
+
+Also, not to belabor the point, but you are also kind of a solution as well, albeit a sentient one.
+Aussi, pour ne pas insister sur le point, mais vous êtes aussi une sorte de solution, bien que sensible.
+
+A solution, you'll recall back when we were
+doing my dirty laundry,
+Une solution, vous vous souviendrez quand nous
+faisions mon linge sale,
+
+is a mixture in which the particles of a solute
+are dissolved in the particles of a solvent.
+est un mélange dans lequel les particules d'un soluté
+sont dissoutes dans les particules d'un solvant.
+
+So, what's the solvent in air?
+Well, whatever there's more of.
+Alors, quel est le solvant dans l'air ?
+Eh bien, peu importe ce qu'il y a de plus.
+
+So, nitrogen is the solvent and oxygen, carbon dioxide, argon, and a bunch of other gases are dissolved in it.
+Ainsi, l'azote est le solvant et l'oxygène, le dioxyde de carbone, l'argon et un tas d'autres gaz y sont dissous.
+
+All solutions have the qualities that they
+do because of the same 3 properties;
+Toutes les solutions ont les qualités qu'elles ont en
+raison des 3 mêmes propriétés ;
+
+Molecular Structure, Pressure,
+and Temperature
+Structure moléculaire, pression
+et température
+
+These are the factors that effect a substances
+solubility,
+Ce sont les facteurs qui affectent la
+solubilité d'une substance,
+
+the amount of solute that will dissolve per
+volume of solvent.
+la quantité de soluté qui se dissoudra par
+volume de solvant.
+
+Whether we're talking about the air that we
+breathe, the water that fish breathe,
+Qu'il s'agisse de l'air que nous
+respirons, de l'eau que respirent les poissons,
+
+the bubbles in Coca-Cola, or the toxin in
+the tissues of the Japanese puffer fish,
+des bulles de Coca-Cola ou de la toxine dans
+les tissus du poisson-globe japonais,
+
+what usually matters most about a solution
+is how much solute is in it.
+ce qui compte généralement le plus dans une solution,
+c'est la quantité de soluté qu'elle contient.  ce. 
+
+[Theme Music]
+[Thème musical]
+
+Often, in the lab we use placeholders like 'dilute' and 'concentrated' when talking about solutions.
+Souvent, dans le laboratoire, nous utilisons des espaces réservés comme « dilué » et « concentré » lorsque nous parlons de solutions.
+
+But those are vague terms, and we should generally
+be as precise as possible.
+Mais ce sont des termes vagues, et nous devrions généralement
+être aussi précis que possible.
+
+Here are a few ways to do that.
+Voici quelques façons de le faire.
+
+We could describe a solution by its molarity -- the number of moles of solute per liter of solution;
+Nous pourrions décrire une solution par sa molarité -- le nombre de moles de soluté par litre de solution ;
+
+its molality -- the number of moles of solute
+per kilogram of solvent; or its mass percent.
+sa molalité -- le nombre de moles de soluté
+par kilogramme de solvant ;  ou son pourcentage de masse.
+
+The mass percent of a solution is the mass of the solute divided by the mass of the solution all multiplied by 100.
+Le pourcentage en masse d'une solution est la masse du soluté divisée par la masse de la solution, le tout multiplié par 100.
+
+So, when a can of your average soft drink has about 33 grams of sugar and a total mass of 355 grams:
+Ainsi, lorsqu'une canette de votre boisson gazeuse moyenne contient environ 33 grammes de sucre et une masse totale de 355 grammes :
+
+divide the mass of the solute by the mass
+of the whole thing times 100
+divisez le  masse du soluté par la masse
+du tout multipliée par 100
+
+and the mass percent of sugar in the solution
+is 9.2%.
+et le pourcentage en masse de sucre dans la solution
+est de 9,2 %.
+
+Easy-peasy there, but the more interesting
+question here is ‘why?’
+Facile, mais la question la plus intéressante
+ici est "pourquoi?"
+
+Why can you even dissolve so much sugar in a can of soda and what about all that carbon dioxide gas?
+Pourquoi pouvez-vous même dissoudre autant de sucre dans une canette de soda et qu'en est-il de tout ce gaz carbonique?
+
+What’s happening here?
+Qu'est-ce qu'il se passe ici? 
+
+How does the stuff go in the stuff and where does it go and what’s actually happening at the molecular level?
+Comment la matière va-t-elle dans la matière et où va-t-elle et que se passe-t-il réellement au niveau moléculaire ?
+
+Well, the first thing to keep in mind is that
+not every solvent can dissolve every solute.
+Eh bien, la première chose à garder à l'esprit est
+que tous les solvants ne peuvent pas dissoudre tous les solutés.
+
+Gas molecules don’t interact that strongly, so gases pretty much always dissolve in each other.
+Les molécules de gaz n'interagissent pas aussi fortement, donc les gaz se dissolvent presque toujours les uns dans les autres.
+
+But, liquid solvents have a ton of molecular
+interaction.
+Mais, les solvants liquides ont une tonne d'
+interaction moléculaire.
+
+So the structure of the individual molecules
+determines whether a substance will dissolve
+Ainsi, la structure des molécules individuelles
+détermine si une substance se dissout
+
+and how well it will dissolve.
+et dans quelle mesure elle se dissout.
+
+Polarity is, of course, the biggest bit of
+this.
+La polarité est, bien sûr, le plus gros morceau de
+cela.
+
+For a substance to dissolve, it needs to interact
+favorably with the solvent.
+Pour qu'une substance se dissolve, elle doit interagir
+favorablement avec le solvant.
+
+This only happens if they have similar polarities which allows them to form cool, in-solution structures,
+Cela ne se produit que s'ils ont des polarités similaires, ce qui leur permet de former des structures froides en solution, en
+
+spacing the solute particles out evenly.
+espaçant uniformément les particules de soluté.
+
+Topic change! Say you’re on a first date,
+at a sushi restaurant,
+Changement de sujet !  Disons que vous êtes à un premier rendez-vous,
+dans un restaurant de sushis,
+
+and you wanna be all cool and nonchalant and
+“I’ll tangle if death if death wants me to.”
+et que vous voulez être cool et nonchalant et
+"Je m'emmêlerai si la mort si la mort le veut."
+
+So you order the puffer fish, otherwise known
+as Fugu.
+Donc, vous commandez le poisson-globe, autrement connu
+sous le nom de Fugu.
+
+Fugu contains a poison called tetrodotoxin,
+Le fugu contient un poison appelé tétrodotoxine,
+
+and even in the hands of chefs who know what they’re doing, it makes your lips go numb just to taste a bit.
+et même entre les mains de chefs qui savent ce qu'ils font, il rend vos lèvres engourdies juste pour goûter un peu.
+
+If the chef makes a mistake and you eat the
+wrong part of the fish,
+Si le chef fait une erreur et que vous mangez la
+mauvaise partie du poisson,
+
+the tetrodotoxin will mess with your nervous system and cause paralysis, suffocation, maybe some death.
+la tétrodotoxine perturbera votre système nerveux et provoquera une paralysie, une suffocation, voire la mort.
+
+Why? Well, in part because of its polarity.
+And yours.
+Pourquoi?  Eh bien, en partie à cause de sa polarité.
+Et le vôtre. 
+
+Tetrodotoxin is covered on its surface with
+polar alcohol and Amin groups.
+La tétrodotoxine est recouverte à sa surface d'
+alcool polaire et de groupes Amin.
+
+So, it dissolves easily in polar solvents
+like water.
+Ainsi, il se dissout facilement dans les solvants polaires
+comme l'eau.
+
+And who’s made mostly of water?
+Et qui est fait principalement d'eau?
+
+So, if you watch Crash Course Biology, you
+know all about sodium channels,
+Donc, si vous regardez Crash Course Biology, vous
+savez tout sur les canaux sodiques,
+
+the tunnels on the outside of nerve cells
+that allow them to communicate with each other.
+les tunnels à l'extérieur des cellules nerveuses
+qui leur permettent de communiquer entre elles.
+
+Well, tetrodotoxin is really good at binding
+to those channels,
+Eh bien, la tétrodotoxine est vraiment bonne pour se lier
+à ces canaux,
+
+messing up your nervous system, and killing
+you.
+perturber votre système nerveux et
+vous tuer.
+
+Because it’s so polar, and your body’s
+just one big aqueous solution,
+Parce qu'elle est si polaire et que votre corps
+n'est qu'une grande solution aqueuse, la
+
+tetrodotoxin has free reign to just jump on
+every sodium pump you got.
+tétrodotoxine a le champ libre pour sauter sur
+chaque pompe à sodium que vous avez.
+
+Now, onto the next attribute that affects
+solubility.
+Passons maintenant à l'attribut suivant qui affecte la
+solubilité.
+
+Let’s assume you’ve survived your first
+course of your meal and you order a soda-pop.
+Supposons que vous ayez survécu à votre premier
+plat de votre repas et que vous commandiez un soda.
+
+To get all those bubbles that make carbonated
+beverages so refreshing and tingly,
+Pour obtenir toutes ces bulles qui rendent les
+boissons gazeuses si rafraîchissantes et pétillantes,
+
+carbon dioxide must be dissolved in the water.
+le dioxyde de carbone doit être dissous dans l'eau.
+
+But how do you shove a gas into a liquid?
+Mais comment pousse-t-on un gaz dans un liquide ?
+
+A gas gets dissolved into a solution the same
+way David Bowie and Freddy Mercury collaborate.
+Un gaz se dissout dans une solution de la même
+manière que David Bowie et Freddy Mercury collaborent.
+
+[sings] Under pressure.
+[chante] Sous pression.
+
+What? As previously noted, I am old!
+Quoi?  Comme indiqué précédemment, je suis vieux!
+
+It’s not just the pressure outside of the solvent, it’s the partial pressure of the solute.
+Ce n'est pas seulement la pression à l'extérieur du solvant, c'est la pression partielle du soluté.
+
+Quick review: partial pressure is the portion of pressure caused by the gas we’re interested in.
+Récapitulatif rapide : la pression partielle est la partie de la pression causée par le gaz qui nous intéresse.
+
+In this case, carbon dioxide.
+Dans ce cas, le dioxyde de carbone.
+
+Gas molecules, as long as they have kinetic
+energy, are going to want to escape the solution,
+Les molécules de gaz, tant qu'elles ont de l'
+énergie cinétique, voudront s'échapper de la solution
+
+so they will be creating an upward pressure
+on the surrounding gas.
+, elles créeront donc une pression ascendante
+sur le gaz environnant.
+
+In order to keep the CO2 dissolved,
+Afin de maintenir le CO2 dissous,
+
+the partial pressure of carbon dioxide and
+the gas outside the solution has to be equal to,
+la pression partielle du dioxyde de carbone et
+du gaz à l'extérieur de la solution doit être égale
+
+or higher than the pressure of the carbon dioxide molecules pushing their way out of the solution.
+ou supérieure à la pression des molécules de dioxyde de carbone qui sortent de la solution.
+
+That’s why soda bottles are nice and taut
+when you squeeze them.
+C'est pourquoi les bouteilles de soda sont bien tendues
+lorsque vous les pressez.
+
+That little bit of gas up there is pressurized
+carbon dioxide.
+Ce petit peu de gaz là-haut est
+du dioxyde de carbone sous pression.
+
+And, also why, when you open the can a huge rush of carbon dioxide molecules bubble out of the soda.
+Et aussi pourquoi, lorsque vous ouvrez la canette, une énorme ruée de molécules de dioxyde de carbone jaillit du soda.
+
+Because the normal partial pressure of CO2 in the atmosphere isn’t enough to keep it from escaping.
+Parce que la pression partielle normale de CO2 dans l'atmosphère n'est pas suffisante pour l'empêcher de s'échapper.
+
+So, to get the carbon dioxide in there,
+Donc, pour faire entrer le dioxyde de carbone,
+
+all you need to do is dramatically increase
+the pressure of CO2 outside the liquid.
+tout ce que vous avez à faire est d'augmenter considérablement
+la pression de CO2 à l'extérieur du liquide.
+
+And this is what’s done in soda manufacturing
+plants.
+Et c'est ce qui se fait dans les usines de fabrication de soda
+.
+
+In fact, if you have a SodaStream, you can
+do it right in your own home.
+En fait, si vous avez un SodaStream, vous pouvez le
+faire directement chez vous.
+
+Now it’s easy to calculate this change in
+pressure thanks to William Henry,
+Maintenant, il est facile de calculer ce changement de
+pression grâce à William Henry,
+
+a friend of John Dalton of Dalton’s Law
+of Partial Pressures.
+un ami de John Dalton de la loi
+des pressions partielles de Dalton.
+
+According to Henry’s Law, the concentration of a dissolved gas equals the partial pressure above the solution
+Selon la loi de Henry, la concentration d'un gaz dissous est égale à la pression partielle au-dessus de la solution
+
+multiplied by a constant that expresses the
+solubility of the gas in that solution.
+multipliée par une constante qui exprime la
+solubilité du gaz dans cette solution.
+
+And we can use Henry’s Law to figure out how much carbon dioxide is dissolved in our can of soda.
+Et nous pouvons utiliser la loi d'Henry pour déterminer la quantité de dioxyde de carbone dissoute dans notre canette de soda.
+
+The pressure of CO2 in a can is 5.0 atmospheres and you can look up the solubility of CO2 in an aqueous solution.
+La pression du CO2 dans une canette est de 5,0 atmosphères et vous pouvez rechercher la solubilité du CO2 dans une solution aqueuse.
+
+3.4 times 10 to the negative 2 moles per liter
+atmosphere.
+3,4 fois 10 à moins 2 moles par litre d'
+atmosphère.
+
+So the concentration of dissolved CO2 in 0.17
+moles per liter.
+Ainsi, la concentration de CO2 dissous dans 0,17
+moles par litre.
+
+Now, there are 355 milliliters or 0.355 liters
+of cola in a can.
+Maintenant, il y a 355 millilitres ou 0,355 litre
+de cola dans une canette.
+
+How much volume would that CO2 take up at
+normal atmospheric conditions?
+Quel volume ce CO2 occuperait-il dans
+des conditions atmosphériques normales ?
+
+Whip out your trusty ideal gas law and we
+find that atmospheric pressure and 298 kelvins,
+or room temperature,
+Sortez votre fidèle loi des gaz parfaits et nous
+constatons que la pression atmosphérique et 298 kelvins,
+ou température ambiante,
+
+0.060 moles of carbon dioxide will expand
+to about 1 and a half liters.
+0,060 mole de dioxyde de carbone augmenteront
+à environ 1 litre et demi.
+
+That’s a lot of burps, something else to
+keep in mind on date night.
+C'est beaucoup de rots, quelque chose d'autre à
+garder à l'esprit le soir du rendez-vous.
+
+Finally, in addition to polarity an pressure, it’s temperature that affects solubility in the most complicated,
+Enfin, en plus de la polarité et de la pression, c'est la température qui affecte la solubilité de la manière la plus compliquée,
+
+and therefore interesting ways.
+et donc la plus intéressante.
+
+When we’re dealing with solid solutes and
+liquid solvents,
+Lorsqu'il s'agit de solutés solides et
+de solvants liquides,
+
+their total solubility generally goes up as
+temperature increases.
+leur solubilité totale augmente généralement à mesure que la
+température augmente.
+
+This is a fact that you already know if you’ve tried to put a bunch of sugar into your iced coffee.
+C'est un fait que vous savez déjà si vous avez essayé de mettre beaucoup de sucre dans votre café glacé.
+
+The solubility of gases, on the other hand,
+is the exact opposite
+La solubilité des gaz, en revanche,
+est exactement le contraire
+
+because colder molecules have less kinetic energy and are less likely to escape the surface of the liquid.
+car les molécules plus froides ont moins d'énergie cinétique et sont moins susceptibles de s'échapper de la surface du liquide.
+
+So, the upward pressure they exert is lower
+than it would be in a hot liquid.
+Ainsi, la pression ascendante qu'ils exercent est inférieure
+à ce qu'elle serait dans un liquide chaud.
+
+That’s why it’s safer and cleaner to open a can of soda-pop when it’s cold rather than when it’s hot.
+C'est pourquoi il est plus sûr et plus propre d'ouvrir une canette de soda quand il fait froid plutôt que quand il fait chaud.
+
+While this phenomenon might result in a bit
+of mess in your house,
+Bien que ce phénomène puisse entraîner un peu
+de désordre dans votre maison,
+
+it’s a much bigger deal for fish, who need
+oxygen dissolved in water to, like, breathe.
+c'est beaucoup plus important pour les poissons, qui ont besoin d'
+oxygène dissous dans l'eau pour, par exemple, respirer.
+
+At 4 degrees Celsius the solubility of oxygen in water is about double that of what it is at 25 degrees Celsius.
+À 4 degrés Celsius, la solubilité de l'oxygène dans l'eau est environ le double de ce qu'elle est à 25 degrés Celsius.
+
+Trout, here in Montana, are highly evolved
+to that nice, oxygen rich water.
+La truite, ici dans le Montana, est très évoluée
+dans cette belle eau riche en oxygène.
+
+But summer heat waves can cause the amount
+of oxygen in the water to drop dramatically,
+Mais les vagues de chaleur estivales peuvent faire chuter considérablement la quantité
+d'oxygène dans l'eau,
+
+and cold-water fish can get pretty unhappy.
+Also, a little dead.
+et les poissons d'eau froide peuvent devenir assez mécontents.
+Aussi, un peu mort.
+
+Fortunately for Fugu, it’s a tropical fish,
+so it’s perfectly evolved for 25 degree water.
+Heureusement pour Fugu, c'est un poisson tropical,
+il a donc parfaitement évolué pour une eau à 25 degrés.
+
+And unfortunately for all of us, that brings us the end of this episode of Crash Course Chemistry.
+Et malheureusement pour nous tous, cela nous amène à la fin de cet épisode de Crash Course Chemistry.
+
+If you’ve been paying attention today you
+learned:
+Si vous avez fait attention aujourd'hui, vous avez
+appris :
+
+that solutions can be described in terms of
+molarity, molality, or mass percent;
+que les solutions peuvent être décrites en termes de
+molarité, de molalité ou de pourcentage de masse ;
+
+that polar solvents tend to dissolve polar solutes, and nonpolar solvents tend to dissolve nonpolar solutes;
+que les solvants polaires ont tendance à dissoudre les solutés polaires et que les solvants non polaires ont tendance à dissoudre les solutés non polaires ;
+
+you also learned about Henry’s Law which
+states that the concentration of dissolved gas
+vous avez également appris la loi de Henry qui
+stipule que la concentration de gaz dissous
+
+equals the partial pressure of that gas above
+the solution multiplied by a constant;
+est égale à la pression partielle de ce gaz au-dessus de
+la solution multipliée par une constante ;
+
+and that there are a lot of burps in every
+single can of coke.
+et qu'il y a beaucoup de rots dans
+chaque canette de coca.
+
+This episode of Crash Course Chemistry was
+written by Kim Krieger.
+Cet épisode de Crash Course Chemistry a été
+écrit par Kim Krieger.
+
+The script was edited by Blake de Pastino and myself, and our chemistry consultant was Edi Gonzalez.
+Le script a été édité par Blake de Pastino et moi-même, et notre consultant en chimie était Edi Gonzalez.
+
+It was filmed, edited, and directed by Nicholas
+Jenkins.
+Il a été filmé, monté et réalisé par Nicholas
+Jenkins.
+
+Our script supervisor was Katherine Green
+and our sound designer is Michael Aranda.
+Notre scénariste était Katherine Green
+et notre concepteur sonore est Michael Aranda.
+
+And, of course, our graphics team is Thought
+Café.
+Et, bien sûr, notre équipe graphique est Thought
+Café.
+

@@ -1,0 +1,683 @@
+The need to get from A to B is something we’re
+all familiar with.
+La nécessité d'aller de A à B est quelque chose que nous
+connaissons tous.
+
+In the US, most people spend about an hour
+traveling to and from work – not to mention
+all the other sorts of traveling we do.
+Aux États-Unis, la plupart des gens passent environ une heure à se
+rendre au travail et à en revenir, sans parler de
+tous les autres types de déplacements que nous effectuons.
+
+But despite all the work engineers put into making
+those journeys go smoothly, it seems like things go
+wrong more often than they should.
+Mais malgré tout le travail que les ingénieurs ont consacré au
+bon déroulement de ces voyages, il semble que les choses tournent
+mal plus souvent qu'elles ne le devraient.
+
+Maybe you’ve been delayed at the airport,
+encountered signaling issues on the subway,
+or got caught in a traffic jam.
+Peut-être avez-vous été retardé à l'aéroport,
+rencontré des problèmes de signalisation dans le métro
+ou pris dans un embouteillage.
+
+While the weather often plays a role, one of the biggest reasons that transportation systems run into issues is that they have to deal with another persistent, difficult, unavoidable element: us.
+Bien que la météo joue souvent un rôle, l'une des principales raisons pour lesquelles les systèmes de transport rencontrent des problèmes est qu'ils doivent faire face à un autre élément persistant, difficile et inévitable : nous.
+
+If you want to design a good transportation
+system, you have to understand the people
+who are going to use it.
+Si vous voulez concevoir un bon
+système de transport, vous devez comprendre les gens
+qui vont l'utiliser.
+
+[Theme Music]
+[Thème musical]
+
+Transportation engineering is one of the largest
+disciplines of civil engineering.
+L'ingénierie des transports est l'une des plus grandes
+disciplines du génie civil.
+
+Every highway, railroad, shipping lane, and
+airline route relies on transportation engineers
+to guide the way.
+Toutes les autoroutes, voies ferrées, voies de navigation et
+routes aériennes dépendent des ingénieurs des transports
+pour guider le chemin.
+
+Suppose you were tasked with setting up a
+subway system for a city.
+Supposons que vous ayez été chargé de mettre en place un
+système de métro pour une ville.
+
+You’ll need to plan, design and construct
+every last element before it can function.
+Vous devrez planifier, concevoir et construire
+chaque élément avant qu'il ne puisse fonctionner.
+
+What’s more, transportation systems are,
+almost by definition, heavily connected – every
+piece needs to support all the others.
+De plus, les systèmes de transport sont,
+presque par définition, fortement connectés - chaque
+pièce doit prendre en charge toutes les autres.
+
+It’s no use having state-of-the-art trains
+on brand new tracks if the stations aren’t
+built where people need them.
+Il ne sert à rien d'avoir des trains à la pointe de la technologie
+sur des voies toutes neuves si les gares ne sont pas
+construites là où les gens en ont besoin.
+
+And once a system is up and running, you’ll
+need to constantly monitor how it copes with
+demand.
+Et une fois qu'un système est opérationnel, vous
+devez constamment surveiller la façon dont il fait face à la
+demande.
+
+That will help you make decisions like how
+to improve access to stations and how often
+to run trains.
+Cela vous aidera à prendre des décisions telles que la manière
+d'améliorer l'accès aux gares et la fréquence
+de circulation des trains.
+
+The same kind of thinking applies to plane routes
+and shipping systems, although roads and highways
+have some extra considerations.
+Le même genre de réflexion s'applique aux routes aériennes
+et aux systèmes de navigation, bien que les routes et les autoroutes
+aient quelques considérations supplémentaires.
+
+The physical aspects of engineering we’ve
+learned about so far play a big part of the
+design work.
+Les aspects physiques de l'ingénierie que nous avons
+appris jusqu'à présent jouent un rôle important dans le
+travail de conception.
+
+You need to build components out of the right
+materials and put in the right safety features.
+Vous devez construire des composants à partir des bons
+matériaux et mettre en place les bonnes caractéristiques de sécurité.
+
+For example, you’ll want to build the subway’s
+tracks with enough mechanical strength to avoid
+buckling because of an overloaded train.
+Par exemple, vous voudrez construire les voies du métro
+avec une résistance mécanique suffisante pour éviter le
+flambage à cause d'un train surchargé.
+
+And the key element in transportation engineering
+is people.
+Et l'élément clé de l'ingénierie des transports, ce
+sont les gens.
+
+We’re a core part of the system.
+Nous sommes une partie essentielle du système.
+
+Unlike other disciplines we’ve looked at, this kind
+of engineering isn’t about processing inanimate
+materials into something that we use or consume.
+Contrairement à d'autres disciplines que nous avons examinées, ce type
+d'ingénierie ne consiste pas à transformer des
+matériaux inanimés en quelque chose que nous utilisons ou consommons.
+
+It’s about moving people in a way that’s
+safe, convenient, and comfortable.
+Il s'agit de déplacer les gens d'une manière
+sûre, pratique et confortable.
+
+That means considering social requirements
+in addition to physical ones.
+Cela signifie tenir compte des exigences sociales
+en plus des exigences physiques.
+
+For instance, how do you decide where to build
+tracks, and which locations they should connect?
+Par exemple, comment décidez-vous où construire des
+pistes et à quels endroits elles doivent se connecter ?
+
+Ideally, you’d build enough infrastructure
+to support every journey that anyone would
+want to take.
+Idéalement, vous construiriez suffisamment d'infrastructures
+pour prendre en charge chaque voyage que n'importe qui
+voudrait faire.
+
+But, like everything else in engineering,
+cost is one of the biggest constraints you
+have to work with.
+Mais, comme tout le reste en ingénierie, le
+coût est l'une des plus grandes contraintes avec lesquelles vous
+devez travailler.
+
+Since you probably have a fixed budget for
+setting up the system, you need to prioritize
+what what gets built and where.
+Étant donné que vous disposez probablement d'un budget fixe pour la
+configuration du système, vous devez
+hiérarchiser ce qui est construit et où.
+
+And to do that, you have to understand what
+kinds of journeys are going to be made.
+Et pour ce faire, vous devez comprendre quels
+types de trajets vont être effectués.
+
+So with a subway, some people will want
+to visit their friends or go shopping, while
+others are just trying to get to work.
+Ainsi, avec un métro, certaines personnes voudront
+rendre visite à leurs amis ou faire du shopping, tandis que d'
+autres essaieront simplement de se rendre au travail.
+
+The layout needs to support those different
+needs, while making enough from the passenger
+fares to keep the system up and running.
+L'agencement doit répondre à ces différents
+besoins, tout en tirant suffisamment parti des
+tarifs passagers pour maintenir le système opérationnel.
+
+So the social and economic goals of your city
+have a big role in the design of the network!
+Ainsi, les objectifs sociaux et économiques de votre ville
+ont un grand rôle dans la conception du réseau !
+
+In general, transportation engineering is often about
+taking a bunch of different priorities and combining
+them in the best – but rarely perfect – way.
+En général, l'ingénierie des transports consiste souvent à
+prendre un tas de priorités différentes et à les
+combiner de la meilleure manière, mais rarement parfaite.
+
+And that applies on every scale!
+Et cela s'applique à toutes les échelles !
+
+Your new subway system, for example, might have a
+point where two lines merge into one, taking passengers
+from different starting locations to the same stop.
+Votre nouveau système de métro, par exemple, peut avoir un
+point où deux lignes fusionnent en une seule, emmenant les passagers
+de différents points de départ au même arrêt.
+
+But if two trains approach at the same time,
+how do they both pass through?
+Mais si deux trains arrivent en même temps,
+comment passent-ils tous les deux ?
+
+Obviously, no one wants a collision.
+Évidemment, personne ne veut une collision.
+
+So your job as an engineer is to design a
+system where the odds of that happening are
+as small as possible.
+Votre travail en tant qu'ingénieur consiste donc à concevoir un
+système où les chances que cela se produise soient
+aussi faibles que possible.
+
+Since we’re dealing with heavy objects travelling
+at high velocities, the routes need to be designed to
+allow changes to those velocities well in advance.
+Étant donné que nous avons affaire à des objets lourds se déplaçant
+à des vitesses élevées, les itinéraires doivent être conçus pour
+permettre des modifications de ces vitesses bien à l'avance.
+
+While a car traveling at highway speeds can
+safely stop over a distance of a hundred meters
+by applying the brakes,
+Alors qu'une voiture roulant à vitesse d'autoroute peut
+s'arrêter en toute sécurité sur une distance d'une centaine de mètres
+en appliquant les freins,
+
+a passenger train travelling at the same rate
+needs over a kilometer before it comes to a halt.
+un train de voyageurs circulant à la même vitesse a
+besoin de plus d'un kilomètre avant de s'arrêter.
+
+That’s also why air traffic controllers have to
+constantly monitor and communicate with planes
+that are flying at similar altitudes.
+C'est aussi pourquoi les contrôleurs aériens doivent
+constamment surveiller et communiquer avec les avions
+qui volent à des altitudes similaires.
+
+Because a passenger plane can’t be maneuvered quickly, the flight paths need to be designed to ensure that flights from different locations overlap as little as possible.
+Parce qu'un avion de passagers ne peut pas être manœuvré rapidement, les trajectoires de vol doivent être conçues pour garantir que les vols en provenance de différents endroits se chevauchent le moins possible.
+
+Schedules need to keep them out of each other’s
+way, while also avoiding turbulent weather.
+Les horaires doivent les tenir à l'écart les uns des
+autres, tout en évitant les turbulences météorologiques.
+
+But to avoid collisions at your train junction,
+you’ll need signaling.
+Mais pour éviter les collisions à votre jonction de train,
+vous aurez besoin de signalisation.
+
+To give each train enough notice when it
+has to stop, you’ll need regular signals at
+intervals along the track.
+Pour donner à chaque train un préavis suffisant lorsqu'il
+doit s'arrêter, vous aurez besoin de signaux réguliers à
+intervalles réguliers le long de la voie.
+
+Those intervals are also known as block sections.
+Ces intervalles sont également connus sous le nom de sections de bloc.
+
+Signals give useful information about what’s happening
+on the tracks several sections ahead, like whether there’s
+another train or if it’s safe to travel at full speed.
+Les signaux donnent des informations utiles sur ce qui se passe
+sur les voies plusieurs sections à venir, comme s'il y a
+un autre train ou s'il est sûr de voyager à pleine vitesse.
+
+To allow enough time for the train to respond
+and stop, block sections tend to be no shorter
+than the necessary stopping distance.
+Pour laisser suffisamment de temps au train pour réagir
+et s'arrêter, les sections de bloc ont tendance à ne pas être plus courtes
+que la distance d'arrêt nécessaire.
+
+Older signaling systems rely on a set of lights
+above or beside the tracks that a driver can
+interpret and respond to.
+Les systèmes de signalisation plus anciens reposent sur un ensemble de feux
+au-dessus ou à côté des voies qu'un conducteur peut
+interpréter et répondre.
+
+For your brand-new subway, you’d probably build in wireless signaling capabilities to relay information straight to the train cabin, to the driver or an automated system.
+Pour votre tout nouveau métro, vous intégrerez probablement des capacités de signalisation sans fil pour transmettre les informations directement à la cabine du train, au conducteur ou à un système automatisé.
+
+If two trains are approaching the same junction, signaling would tell one of them to slow down several block sections ahead while allowing the other to pass through.
+Si deux trains approchent de la même jonction, la signalisation indiquerait à l'un d'eux de ralentir plusieurs sections de bloc devant tout en permettant à l'autre de passer.
+
+And that choice can be made in a few different
+ways.
+Et ce choix peut être fait de différentes
+manières.
+
+If one train is slightly closer to the junction,
+it might make sense to give it priority while
+the other is told to wait.
+Si un train est légèrement plus proche de la jonction,
+il peut être judicieux de lui donner la priorité tandis que
+l'autre doit attendre.
+
+But if the other train was delayed earlier on its route,
+you might want the signals to give it priority, even if it’s
+farther away, to help get it back on schedule.
+Mais si l'autre train a été retardé plus tôt sur son itinéraire,
+vous voudrez peut-être que les signaux lui donnent la priorité, même s'il est
+plus éloigné, pour l'aider à revenir dans les délais.
+
+Or, if you want to get as many people to their destinations as quickly as possible, you might let the train likeliest to be carrying more passengers through first.
+Ou, si vous souhaitez amener le plus de personnes possible à destination le plus rapidement possible, vous pouvez laisser le train le plus susceptible de transporter le plus de passagers en premier.
+
+The details will depend on the particulars
+of the routes and the needs of your system.
+Les détails dépendront des particularités
+des itinéraires et des besoins de votre système.
+
+Railway signaling involves managing a whole
+network!
+La signalisation ferroviaire, c'est gérer tout un
+réseau !
+
+Modern approaches are also sophisticated enough
+that safety mechanisms, like electronic sensors,
+Les approches modernes sont également suffisamment sophistiquées pour
+que les mécanismes de sécurité, comme les capteurs électroniques
+
+will automatically stop a train if the signals
+indicate danger ahead.
+, arrêtent automatiquement un train si les signaux
+indiquent un danger à venir.
+
+When they’re working, the combination of
+signals and tracks give trains a big advantage:
+Lorsqu'ils fonctionnent, la combinaison des
+signaux et des voies donne aux trains un gros avantage :
+
+they go where they’re supposed to, when
+they’re supposed to.
+ils vont là où ils sont censés aller, quand
+ils sont censés aller.
+
+But many people mainly get around with vehicles
+like cars, trucks and motorbikes.
+Mais beaucoup de gens se déplacent principalement avec des véhicules
+comme des voitures, des camions et des motos.
+
+In Britain, for example, about two thirds
+of all journeys are taken in an automobile.
+En Grande-Bretagne, par exemple, environ les deux tiers
+de tous les trajets sont effectués en automobile.
+
+With every driver free to move independently,
+roads lose much of the predictability that
+railroads enjoy.
+Avec chaque conducteur libre de se déplacer de manière indépendante, les
+routes perdent une grande partie de la prévisibilité dont
+bénéficient les chemins de fer.
+
+Potential collisions aren’t confined to
+known junctions – they could happen every
+time someone changes lanes!
+Les collisions potentielles ne se limitent pas aux
+carrefours connus - elles peuvent se produire chaque
+fois que quelqu'un change de voie !
+
+And even if accidents don’t happen, all
+that switching back and forth causes something
+we’re probably all familiar with: traffic jams.
+Et même si aucun accident ne se produit, tous
+ces allers-retours provoquent quelque chose que
+nous connaissons probablement tous : les embouteillages.
+
+To understand why, it actually helps to think
+back to fluid dynamics.
+Pour comprendre pourquoi, il est utile de
+repenser à la dynamique des fluides.
+
+In general, a highway system is well-designed
+if as many cars as possible are flowing through
+the system as fast as safely possible.
+En général, un réseau routier est bien conçu
+si autant de voitures que possible circulent à travers
+le réseau aussi rapidement que possible en toute sécurité.
+
+So, on a given stretch of highway, you can think of
+the “efficiency” of the system as the flow rate of cars.
+Ainsi, sur un tronçon d'autoroute donné, vous pouvez
+considérer « l'efficacité » du système comme le débit de voitures.
+
+The flow will be the product of the density
+of cars passing through and their average speed –
+much like the flow of water through a pipe.
+Le débit sera le produit de la densité
+des voitures passantes et de leur vitesse moyenne - un
+peu comme le débit d'eau dans un tuyau.
+
+Except the driving force here isn’t water
+pressure.
+Sauf que la force motrice ici n'est pas la
+pression de l'eau.
+
+Instead, it’s every driver’s individual
+desire to get to where they’re going.
+Au lieu de cela, c'est le désir individuel de chaque conducteur
+d'arriver là où il va.
+
+If there’s only a few vehicles on the road,
+it’s not a problem.
+S'il n'y a que quelques véhicules sur la route,
+ce n'est pas un problème.
+
+The cars don’t have to fight for lane space
+or slow down because of other drivers.
+Les voitures n'ont pas à se battre pour l'espace sur la voie
+ou à ralentir à cause des autres conducteurs.
+
+Everyone cruises along at roughly the speed
+limit.
+Tout le monde navigue à peu près à la
+limite de vitesse.
+
+That’s what engineers call “normal flow”.
+C'est ce que les ingénieurs appellent le "flux normal".
+
+In normal flow, you can increase the total
+flow rate just by adding additional cars.
+En débit normal, vous pouvez augmenter le
+débit total simplement en ajoutant des voitures supplémentaires.
+
+In other words, more people move through the
+system and the highway is doing its job.
+En d'autres termes, plus de personnes circulent dans le
+système et l'autoroute fait son travail.
+
+Add too many cars, though, and the problems
+start.
+Ajoutez trop de voitures, cependant, et les problèmes
+commencent.
+
+In normal flow, the extra cars don’t affect
+the average speed of each vehicle.
+En flux normal, les voitures supplémentaires n'affectent pas
+la vitesse moyenne de chaque véhicule.
+
+But once the density of cars reaches what’s
+called a critical point, the lack of space between
+cars starts causing restrictions.
+Mais une fois que la densité des voitures atteint ce qu'on
+appelle un point critique, le manque d'espace entre les
+voitures commence à provoquer des restrictions.
+
+Everyone drives a little slower to accommodate
+the other cars around them.
+Tout le monde roule un peu plus lentement pour accommoder
+les autres voitures autour d'eux.
+
+Add even more cars, and you start getting
+stoppages.
+Ajoutez encore plus de voitures et vous commencez à avoir des
+arrêts.
+
+When one car slows down or stops, the others
+behind it have to slow down too, and so on.
+Lorsqu'une voiture ralentit ou s'arrête, les autres
+derrière doivent également ralentir, et ainsi de suite.
+
+This brings down the average speed of all
+the cars on the road.
+Cela fait baisser la vitesse moyenne de toutes
+les voitures sur la route.
+
+Even though there are more cars, the flow rate
+actually decreases past the critical point because
+their average speed has dropped so low.
+Même s'il y a plus de voitures, le
+débit diminue en fait au-delà du point critique parce que
+leur vitesse moyenne a chuté si bas.
+
+That’s what engineers call forced flow.
+C'est ce que les ingénieurs appellent le flux forcé.
+
+Everyone’s desire to get ahead actually
+makes the problem worse.
+Le désir de chacun d’aller de l’avant
+aggrave en fait le problème.
+
+Each car trying to desperately squeeze through
+every opening makes it harder for the jam to ease
+up and for the cars to flow steadily again.
+Chaque voiture essayant désespérément de se faufiler à travers
+chaque ouverture rend plus difficile la diminution de l'
+embouteillage et le retour régulier des voitures.
+
+There might be other routes drivers can use
+to get to their location, but in general,
+Il peut y avoir d'autres itinéraires que les conducteurs peuvent emprunter
+pour se rendre à leur emplacement, mais en général,
+
+every driver wants to take the shortest route,
+which seems pretty sensible on the face of it.
+chaque conducteur souhaite emprunter l'itinéraire le plus court,
+ce qui semble assez raisonnable à première vue.
+
+But when everyone uses the same route, forced
+flow occurs.
+Mais lorsque tout le monde utilise le même itinéraire, un
+flux forcé se produit.
+
+You might think that building another road
+or adding more lanes would improve things.
+Vous pourriez penser que la construction d'une autre route
+ou l'ajout de voies améliorerait les choses.
+
+In practice, though, most people still take
+the route they think will be fastest, which
+only makes things worse!
+En pratique, cependant, la plupart des gens empruntent toujours
+l'itinéraire qu'ils pensent être le plus rapide, ce qui
+ne fait qu'empirer les choses !
+
+So highway engineers tackle problems like
+this in sometimes unusual-sounding ways.
+Les ingénieurs routiers s'attaquent donc à des problèmes comme
+celui-ci de manière parfois inhabituelle.
+
+One solution comes from German mathematician
+Dietrich Braess.
+Une solution vient du mathématicien allemand
+Dietrich Braess.
+
+Instead of adding more roads, you can actually
+improve traffic flow by taking them away.
+Au lieu d'ajouter plus de routes, vous pouvez réellement
+améliorer la circulation en les supprimant.
+
+That might seem counterintuitive, which is
+why it’s called Braess’ Paradox.
+Cela peut sembler contre-intuitif, c'est
+pourquoi on l'appelle le paradoxe de Braess.
+
+After all, how can the flow be improved by
+removing a highway?
+Après tout, comment améliorer le débit en
+supprimant une autoroute ?
+
+Braess’ Paradox works because when the
+seemingly-fastest route is taken away, drivers end
+up using several alternative routes instead.
+Le paradoxe de Braess fonctionne parce que lorsque l'
+itinéraire apparemment le plus rapide est supprimé, les conducteurs finissent
+par utiliser plusieurs itinéraires alternatifs à la place.
+
+Even if those alternate routes are longer,
+they only take a fraction of the cars each.
+Même si ces itinéraires alternatifs sont plus longs,
+ils ne prennent qu'une fraction des voitures chacun.
+
+That keeps speeds higher and the flow rate
+closer to normal.
+Cela maintient les vitesses plus élevées et le débit
+plus proche de la normale.
+
+On average, people will even get to where
+they’re going faster on the longer route.
+En moyenne, les gens arriveront même
+plus vite là où ils vont sur l'itinéraire le plus long.
+
+Of course, that’s just one solution that
+only works for some highways.
+Bien sûr, ce n'est qu'une solution qui
+ne fonctionne que pour certaines autoroutes.
+
+In general, you need to accurately model
+the flow of traffic and develop sophisticated
+ways to keep it flowing.
+En général, vous devez modéliser avec précision
+le flux de trafic et développer des
+moyens sophistiqués pour le maintenir fluide.
+
+Many of the the same principles used for signaling
+on railroads carry over to programming traffic lights
+and even the design of roads themselves.
+Bon nombre des mêmes principes utilisés pour la signalisation
+sur les chemins de fer s'appliquent à la programmation des feux de circulation
+et même à la conception des routes elles-mêmes.
+
+The way roads merge and connect has a big
+impact on how drivers act and the eventual
+flow patterns.
+La façon dont les routes fusionnent et se connectent a un
+impact important sur la façon dont les conducteurs agissent et les
+modèles de flux éventuels.
+
+In the future, if fleets of driverless cars take to the road,
+it could require whole new principles of highway design
+– much like automatic train networks did for railways.
+À l'avenir, si des flottes de voitures sans conducteur prennent la route,
+cela pourrait nécessiter de tout nouveaux principes de conception des autoroutes
+- un peu comme les réseaux de trains automatiques l'ont fait pour les chemins de fer.
+
+But even if humans won’t be behind the wheel,
+transportation engineers will still be there,
+Mais même si les humains ne seront pas au volant,
+les ingénieurs des transports seront toujours là,
+
+ensuring that those journeys are designed
+to be safe, fast, and convenient.
+s'assurant que ces trajets sont conçus
+pour être sûrs, rapides et pratiques.
+
+In this episode we looked at transportation
+engineering.
+Dans cet épisode, nous avons examiné l'
+ingénierie des transports.
+
+We saw how transport systems are designed
+from the outset, what decisions need to be made,
+and how to operate them with the help of signaling.
+Nous avons vu comment les systèmes de transport sont conçus
+dès le départ, quelles décisions doivent être prises
+et comment les exploiter à l'aide de la signalisation.
+
+We learned how systems like highways are built
+around the behaviors of their users,
+Nous avons appris comment des systèmes tels que les autoroutes sont construits
+autour des comportements de leurs utilisateurs,
+
+how considering traffic flow lets us assess
+a highway’s efficiency, and ideas transportation
+engineers can use to improve it.
+comment la prise en compte du flux de trafic nous permet d'évaluer
+l'efficacité d'une autoroute et les idées que les
+ingénieurs des transports peuvent utiliser pour l'améliorer.
+
+Next time we’ll explore how engineers create
+communication systems like the one you’re
+using right now.
+La prochaine fois, nous explorerons comment les ingénieurs créent
+des systèmes de communication comme celui que vous
+utilisez actuellement.
+
+Crash Course Engineering is produced in association
+with PBS Digital Studios.
+Crash Course Engineering est produit en association
+avec PBS Digital Studios.
+
+Wanna keep learning?
+Voulez-vous continuer à apprendre ?
+
+Check out Origin of Everything, which explores
+the history behind stuff in our everyday life,
+Découvrez Origin of Everything, qui explore
+l'histoire derrière les choses de notre vie quotidienne, à
+
+from the words we use, the pop culture we
+love, the technology that get us through the 
+day, or the identities we give ourselves.
+partir des mots que nous utilisons, de la culture pop que nous
+aimons, de la technologie qui nous permet de traverser la
+journée ou des identités que nous nous donnons.
+
+Subscribe at the link in the description.
+Abonnez-vous au lien dans la description.
+
+Crash Course is a Complexly production and this
+episode was filmed in the Doctor Cheryl C. Kinney
+Studio with the help of these wonderful people.
+Crash Course est une production de Complexly et cet
+épisode a été filmé dans le studio du docteur Cheryl C. Kinney
+avec l'aide de ces personnes merveilleuses.
+
+And our amazing graphics team is Thought Cafe.
+Et notre incroyable équipe graphique est Thought Cafe.
+

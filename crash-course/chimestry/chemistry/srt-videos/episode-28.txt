@@ -1,0 +1,705 @@
+Life is all about balance.
+La vie est une question d'équilibre.
+
+You want to have a balanced bank account,
+balanced diet, balance between work and play,
+Vous voulez avoir un compte bancaire équilibré,
+une alimentation équilibrée, un équilibre entre le travail et les loisirs
+
+and a healthy inner ear to keep you from falling
+down all the time.
+et une oreille interne en bonne santé pour vous empêcher de
+tomber tout le temps.
+
+And lots of things can mess up that balance.
+Et beaucoup de choses peuvent perturber cet équilibre.
+
+One bad night at the cheesecake factory and you might wake up with your finances, social life, and health out of whack.
+Une mauvaise nuit à l'usine de gâteaux au fromage et vous pourriez vous réveiller avec vos finances, votre vie sociale et votre santé détraquées.
+
+In science, our word for balance is equilibrium.
+You've heard of it.
+En science, notre mot pour équilibre est équilibre.
+Vous en avez entendu parler.
+
+When the balance of some natural system gets
+disrupted, we say that it's out of equilibrium,
+Lorsque l'équilibre d'un système naturel est
+perturbé, nous disons qu'il est déséquilibré,
+
+but that's not always a bad thing, because
+nature usually finds a way to restore the balance.
+mais ce n'est pas toujours une mauvaise chose, car la
+nature trouve généralement un moyen de rétablir l'équilibre.
+
+Like if a population of deer in a forest suddenly
+goes nuts
+Par exemple, si une population de cerfs dans une forêt
+devient soudainement folle
+
+and there's too many of them, they'll run
+out of food and space,
+et qu'il y en a trop, ils
+manqueront de nourriture et d'espace,
+
+and predators will move in and the population will usually fall back to where the habitat can sustain it.
+et les prédateurs s'installeront et la population retombera généralement là où l'habitat peut la soutenir.
+
+Likewise, there's no reason that I can't enjoy
+the occasional hot pocket
+De même, il n'y a aucune raison pour que je ne puisse pas profiter de
+la poche chaude occasionnelle
+
+without destroying my so-called balanced diet,
+sans détruire mon alimentation soi-disant équilibrée,
+
+I just have to be sure to eat something that wasn't prepared in a salty lard factory to balance it out.
+je dois juste être sûr de manger quelque chose qui n'a pas été préparé dans une usine de saindoux salé pour l'équilibrer.
+
+We tend to think of chemical reactions as
+having a beginning and an end:
+Nous avons tendance à penser que les réactions chimiques
+ont un début et une fin :
+
+you start with some reactants, some chemistry happens, and you end up with the products, and that's that.
+vous commencez avec certains réactifs, une certaine chimie se produit, et vous finissez avec les produits, et c'est tout.
+
+But that's not that, because you don't usually
+end up with pure products.
+Mais ce n'est pas cela, car vous ne vous retrouvez
+généralement pas avec des produits purs.
+
+Many chemical reactions seek balance too,
+and just like us, they have to work through
+the stress in order to find it.
+De nombreuses réactions chimiques recherchent également l'équilibre
+et, tout comme nous, elles doivent surmonter
+le stress pour le trouver.
+
+[Theme Music]
+[Thème musical]
+
+It's common, because it's usually helpful, to think of chemical reactions as simple straightforward processes,
+Il est courant, car il est généralement utile, de considérer les réactions chimiques comme des processus simples et directs,
+
+but in reality, many reactions never finish.
+Ever.
+mais en réalité, de nombreuses réactions ne se terminent jamais.
+Jamais. 
+
+When reactants react to form products, what we usually mean when we talk about chemical reactions,
+Lorsque les réactifs réagissent pour former des produits, ce que nous entendons généralement lorsque nous parlons de réactions chimiques,
+
+it's technically called the forward reaction.
+cela s'appelle techniquement la réaction directe.
+
+But sometimes, there's an opposite reaction that occurs with the products changing back into the reactants.
+Mais parfois, il y a une réaction opposée qui se produit lorsque les produits redeviennent les réactifs.
+
+We call this a reverse reaction.
+Nous appelons cela une réaction inverse.
+
+Now, exactly what kind of reactions do this,
+and why,
+Maintenant, exactement quel genre de réactions font cela,
+et pourquoi,
+
+is hard to describe without busting out some
+200 level chemistry kung fu,
+est difficile à décrire sans casser quelque
+200 niveaux de kung-fu de chimie,
+
+but it all goes back to our lesson about Gibb's
+free energy and reactions that occur spontaneously.
+mais tout revient à notre leçon sur l'
+énergie libre de Gibb et les réactions qui se produisent spontanément.
+
+Reactions are reversible when they can go forward or backward without any extra energy being used.
+Les réactions sont réversibles lorsqu'elles peuvent avancer ou reculer sans qu'aucune énergie supplémentaire ne soit utilisée.
+
+Remember, this isn't just one reaction happening
+once, it's billions and trillions of reactions,
+N'oubliez pas qu'il ne s'agit pas d'une seule réaction qui
+se produit une fois, ce sont des milliards et des billions de réactions,
+
+and some of them might be going one way while
+others are going another way.
+et certaines d'entre elles peuvent aller dans un sens tandis que d'
+autres vont dans un autre sens.
+
+And when the forward and reverse reactions occur at the same rate, that's called chemical equilibrium.
+Et lorsque les réactions directes et inverses se produisent au même rythme, cela s'appelle l'équilibre chimique.
+
+And even though we all like the idea of balance in our lives, in this case it's not always a desirable thing.
+Et même si nous aimons tous l'idée d'équilibre dans nos vies, dans ce cas, ce n'est pas toujours une chose souhaitable.
+
+In fact, most chemists make their living using
+tricks to prevent chemical equilibrium,
+En fait, la plupart des chimistes gagnent leur vie en utilisant des
+astuces pour empêcher l'équilibre chimique,
+
+to knock it out of whack, maximizing the concentrations
+of the chemicals they want to produce
+pour le détraquer, en maximisant les concentrations
+des produits chimiques qu'ils veulent produire
+
+at the expense of the balance that nature
+usually seeks.
+au détriment de l'équilibre que la nature
+recherche habituellement.
+
+For example, consider the Haber process for
+making ammonia from nitrogen in the air.
+Par exemple, considérons le procédé Haber pour
+fabriquer de l'ammoniac à partir d'azote dans l'air.
+
+When we discussed it as a redox reaction a
+few weeks ago,
+Lorsque nous en avons discuté comme une réaction redox il y a
+quelques semaines,
+
+we described it as a one way, complete reaction because that's all we needed to understand right then.
+nous l'avons décrite comme une réaction complète à sens unique, car c'est tout ce que nous avions besoin de comprendre à ce moment-là.
+
+But I was lying to you.
+Mais je te mentais.
+
+Sorry, I'd rather you hear it from me than
+out on the streets.
+Désolé, je préfère que tu l'entendes de moi
+que dans la rue.
+
+Turns out, the reaction really exists as an
+equilibrium.
+Il s'avère que la réaction existe réellement en tant
+qu'équilibre.
+
+As nitrogen and hydrogen react to form ammonia,
+the concentration of those gases drops,
+Lorsque l'azote et l'hydrogène réagissent pour former de l'ammoniac,
+la concentration de ces gaz diminue,
+
+making them less likely to collide and keep reacting, so the rate of the forward reaction slows down.
+ce qui les rend moins susceptibles d'entrer en collision et de continuer à réagir, de sorte que la vitesse de la réaction directe ralentit.
+
+At the same time, the concentration of ammonia
+rises.
+Dans le même temps, la concentration d'ammoniac
+augmente.
+
+More ammonia molecules are available to break
+up into the reactant gases.
+Plus de molécules d'ammoniac sont disponibles pour se
+décomposer en gaz réactifs.
+
+And surprise, the rate of the reverse reaction
+speeds up.
+Et surprise, le rythme de la réaction inverse
+s'accélère.
+
+Eventually, those processes reach a point
+where they happen at the same rate.
+Finalement, ces processus atteignent un point
+où ils se produisent au même rythme.
+
+At that point, there's no discernible change
+in the concentration of any gas.
+À ce stade, il n'y a aucun changement perceptible
+dans la concentration d'un gaz.
+
+Nitrogen and hydrogen keep combining to form
+ammonia,
+L'azote et l'hydrogène continuent de se combiner pour former de l'
+ammoniac,
+
+while ammonia keeps breaking down into nitrogen
+and hydrogen at the same time.
+tandis que l'ammoniac continue de se décomposer en azote
+et en hydrogène en même temps.
+
+Notice that I did not say that the reaction
+stops.
+Remarquez que je n'ai pas dit que la réaction
+s'arrête.
+
+The reaction basically never stops, it's just
+that we don't notice any changes at that point,
+La réaction ne s'arrête pratiquement jamais, c'est juste
+que nous ne remarquons aucun changement à ce moment-là,
+
+because everything that happens in one direction is perfectly balanced out by what happens in the other direction.
+car tout ce qui se passe dans un sens est parfaitement équilibré par ce qui se passe dans l'autre sens.
+
+That's why reactants like this are written with a double arrow, indicating that the process runs both directions.
+C'est pourquoi les réactifs comme celui-ci sont écrits avec une double flèche, indiquant que le processus se déroule dans les deux sens.
+
+Like if I stand on a balanced board, I never
+stop moving.
+Comme si je me tenais sur une planche équilibrée, je n'arrêtais jamais de
+bouger.
+
+I just shift my body back and forth to compensate
+for the motion of the board.
+Je me contente de déplacer mon corps d'avant en arrière pour compenser
+le mouvement de la planche.
+
+When it moves left, I move right and vice versa, and by doing that, I'm able to stay upright, hopefully.
+Quand il se déplace à gauche, je me déplace à droite et vice versa, et en faisant cela, je suis capable de rester debout, espérons-le.
+
+But sometimes there is, if you will, a disturbance
+in the force,
+Mais parfois, il y a, si vous voulez, une perturbation
+dans la force,
+
+and as any good Jedi knows, those things must
+be put right.
+et comme tout bon Jedi le sait, ces choses doivent
+être corrigées.
+
+Chemical equilibria can be disturbed by changes
+in the concentration of one or more substances
+Les équilibres chimiques peuvent être perturbés par des changements
+de concentration d'une ou plusieurs substances
+
+or by changes in temperature or pressure.
+ou par des changements de température ou de pression.
+
+We describe these changes based on which way
+they force the equilibrium.
+Nous décrivons ces changements en fonction de la manière dont
+ils forcent l'équilibre.
+
+We say a change shifts the reaction to the
+right if it tends to make more products form
+On dit qu'un changement déplace la réaction vers la
+droite si elle tend à faire se former plus de produits
+
+and to the left if it tends to make more reactants
+form.
+et vers la gauche si elle tend à faire se former plus de réactifs
+.
+
+This was all summarized nicely by a French chemist named Henry Louis Le Châtelier who was born in Paris in 1850.
+Tout cela a été bien résumé par un chimiste français nommé Henry Louis Le Châtelier, né à Paris en 1850.
+
+Today, we call call his summary Le Châtelier's
+Principle,
+Aujourd'hui, nous appelons son résumé le
+principe de Le Châtelier,
+
+and it says that if stress is placed on a
+system that is at equilibrium
+et il dit que si l'accent est mis sur un
+système qui est à l'équilibre,
+
+the system will proceed in a direction that
+minimizes the stress.
+le système  procédera dans une direction qui
+minimise le stress.
+
+That can happen in several ways.
+Cela peut se produire de plusieurs manières.
+
+For starters, changing the concentration of
+any substance in a reaction
+Pour commencer, la modification de la concentration de
+toute substance dans une réaction l'
+
+causes it to proceed in whatever direction
+restores the former balance.
+amène à se dérouler dans la direction qui
+rétablit l'ancien équilibre.
+
+For example, once the Haber reaction is at equilibrium if you were to add more nitrogen gas to the mix
+Par exemple, une fois que la réaction de Haber est à l'équilibre, si vous deviez ajouter plus d'azote gazeux au mélange,
+
+the existing hydrogen would have more nitrogen
+to react with.
+l'hydrogène existant aurait plus d'azote
+avec lequel réagir.
+
+Thus, it would begin forming more ammonia,
+Ainsi, il commencerait à former plus d'ammoniac,
+
+sending the reaction noticeably to the right
+until the reaction balances itself again.
+envoyant la réaction sensiblement vers la droite
+jusqu'à ce que la réaction s'équilibre à nouveau.
+
+Removing some of the ammonia would have the
+same effect.
+L'élimination d'une partie de l'ammoniac aurait le
+même effet.
+
+There would be less ammonia available to break
+down,
+Il y aurait moins d'ammoniac disponible pour se
+décomposer, de
+
+so the formation of the ammonia would temporarily
+exceed the formation of nitrogen and hydrogen,
+sorte que la formation d'ammoniac dépasserait temporairement
+la formation d'azote et d'hydrogène,
+
+and the reaction would again shift to the
+right until the balance is restored.
+et la réaction se déplacerait à nouveau vers la
+droite jusqu'à ce que l'équilibre soit rétabli.
+
+Now here's an ironic side of irony served
+up for you.
+Maintenant, voici un côté ironique de l'ironie qui vous est
+servi.
+
+In 1901, Le Châtelier tried to invent a process for fixing nitrogen to make ammonia from nitrogen and hydrogen.
+En 1901, Le Châtelier tente d'inventer un procédé de fixation de l'azote pour fabriquer de l'ammoniac à partir d'azote et d'hydrogène.
+
+But he gave up the effort after the experiment caused a huge explosion that killed one of his lab assistants.
+Mais il a abandonné l'effort après que l'expérience a provoqué une énorme explosion qui a tué l'un de ses assistants de laboratoire.
+
+8 years later, the German chemist, Fritz Haber,
+8 ans plus tard, le chimiste allemand Fritz Haber,
+
+probably the closest the world ever got to a literal evil genius, did just what Le Châtelier was trying to do.
+probablement le plus proche au monde d'un véritable génie du mal, a fait exactement ce que Le Châtelier essayait de faire.
+
+And in contrast to Le Châtelier's despair
+at the death of his assistant,
+Et contrairement au désespoir de Le Châtelier
+à la mort de son assistant,
+
+Haber had no problem at all with the fact that his procedure now known as the Haber Process
+Haber n'a eu aucun problème avec le fait que sa procédure maintenant connue sous le nom de processus Haber a
+
+was used to make chemical explosives which killed hundreds of thousands of people in World Wars I & II.
+été utilisée pour fabriquer des explosifs chimiques qui ont tué des centaines de milliers de personnes dans les guerres mondiales I &  II.
+
+But just to prove that there aren't clear
+winners or losers in science,
+Mais juste pour prouver qu'il n'y a pas de
+gagnants ou de perdants clairs en science,
+
+the Haber Process also saved uncounted millions
+of lives
+le processus Haber a également sauvé d'innombrables millions
+de vies
+
+because the ability to fix nitrogen has made
+chemical fertilizers possible,
+parce que la capacité de fixer l'azote a rendu
+les engrais chimiques possibles
+
+and basically revolutionized modern agriculture.
+et a fondamentalement révolutionné l'agriculture moderne.
+
+Haber was awarded the 1918 Nobel Prize for
+his discovery,
+Haber a reçu le prix Nobel de 1918 pour
+sa découverte,
+
+but 30 years later he was considered by many
+to be a war criminal
+mais 30 ans plus tard, il était considéré par
+beaucoup comme un criminel de guerre
+
+and spent his last years as an object of shame
+to his family and hatred for many others.
+et a passé ses dernières années comme un objet de honte
+pour sa famille et de haine pour beaucoup d'autres.
+
+Le Châtelier, meanwhile despite his great
+contributions to our understanding of equilibrium,
+Le Châtelier, malgré ses grandes
+contributions à notre compréhension de l'équilibre,
+
+considered his failure to find an efficient method for making ammonia to be the greatest blunder of his scientific career.
+considérait son incapacité à trouver une méthode efficace pour fabriquer de l'ammoniac comme la plus grande erreur de sa carrière scientifique.
+
+One of the key achievements that Haber made
+was
+L'une des principales réalisations de Haber a
+été de
+
+figuring out a way to continuously remove
+ammonia as it was being produced.
+trouver un moyen d'éliminer en continu l'
+ammoniac au fur et à mesure de sa production.
+
+This allowed the forward reaction to keep
+going faster than the reverse reaction.
+Cela a permis à la réaction directe de continuer à
+aller plus vite que la réaction inverse.
+
+Basically preventing the process from reaching
+a state of equilibrium.
+Essentiellement, empêcher le processus d'atteindre
+un état d'équilibre.
+
+But changing concentrations is only one part
+or actually one third of the story.
+Mais changer les concentrations n'est qu'une partie
+ou en fait un tiers de l'histoire.
+
+There's also pressure to consider.
+Il y a aussi la pression à prendre en compte.
+
+When you look at the equation for the Haber
+Process, for example,
+Lorsque vous regardez l'équation du processus Haber
+, par exemple,
+
+you can see that 4 moles of gas react to form
+2 moles of gas.
+vous pouvez voir que 4 moles de gaz réagissent pour former
+2 moles de gaz.
+
+So the forward reaction decreases the volume
+while the reverse reaction increases it.
+Ainsi, la réaction directe diminue le volume
+tandis que la réaction inverse l'augmente.
+
+This is important.
+C'est important. 
+
+Increasing the pressure will then put more stress on the high volume reactants than the low volume products,
+L'augmentation de la pression exercera alors plus de pression sur les réactifs à volume élevé que sur les produits à faible volume, de
+
+so the reaction shifts to the right, producing
+more ammonia than it does at low pressure.
+sorte que la réaction se déplace vers la droite, produisant
+plus d'ammoniac qu'à basse pression.
+
+And indeed, the industrial Haber Process is
+done at two hundred atmospheres of pressure.
+Et en effet, le procédé Haber industriel se
+fait à deux cents atmosphères de pression.
+
+Decreasing the pressure, meanwhile, has the
+opposite effect.
+La diminution de la pression, quant à elle, a l'
+effet inverse.
+
+The reaction precedes in the direction that
+raises the pressure back to where it was before.
+La réaction précède dans la direction qui
+fait remonter la pression là où elle était auparavant.
+
+In this case that's the break-down of ammonia.
+Dans ce cas, c'est la décomposition de l'ammoniac.
+
+Toward the left where there are 4 moles of
+gas.
+Vers la gauche où il y a 4 moles de
+gaz.
+
+Solids and liquids aren't affected by pressure
+as much,
+Les solides et les liquides ne sont pas autant affectés par la
+pression,
+
+so the more gasses that are present in the reaction, the greater effect any pressure change will have.
+donc plus il y a de gaz présents dans la réaction, plus tout changement de pression aura un effet important.
+
+The third and final way to affect the position
+of equilibrium is with temperature changes.
+La troisième et dernière façon d'affecter la position
+d'équilibre est avec les changements de température.
+
+It gets a bit complicated up in here,
+Cela devient un peu compliqué ici,
+
+but basically the thing to keep in mind is that endothermic reactions, which consume heat,
+mais fondamentalement, la chose à garder à l'esprit est que les réactions endothermiques, qui consomment de la chaleur,
+
+are favored if heat is added so higher temperatures
+tend to feed endothermic reactions.
+sont favorisées si de la chaleur est ajoutée, de sorte que des températures plus élevées
+ont tendance à alimenter les réactions endothermiques.
+
+And by the same token, exothermic reactions,
+which release heat fair better at low temperatures.
+Et du même coup, les réactions exothermiques,
+qui dégagent mieux la chaleur à basse température.
+
+And since exothermic reactions produce heat, that heat tends to favor the reverse endothermic reactions.
+Et puisque les réactions exothermiques produisent de la chaleur, cette chaleur tend à favoriser les réactions endothermiques inverses.
+
+So if heat is added to reaction, it forces
+the reaction back to the left.
+Donc, si de la chaleur est ajoutée à la réaction, elle force
+la réaction à revenir vers la gauche.
+
+But if heat is removed by cooling the reaction mixture, the reaction will proceed to the right.
+Mais si la chaleur est éliminée en refroidissant le mélange réactionnel, la réaction se déroulera vers la droite.
+
+Now, you may be wondering since battling equilibrium
+is what most chemists do for a living,
+Maintenant, vous vous demandez peut-être, puisque lutter contre l'équilibre
+est ce que la plupart des chimistes font dans la vie,
+
+how they work out the specifics of it.
+comment ils en élaborent les spécificités.
+
+How do they determine how much of each substance
+is present, or how much they need to add,
+Comment déterminent-ils la quantité de chaque
+substance présente, ou la quantité qu'ils doivent ajouter,
+
+or what the temperature or pressure should
+be when everything is constantly changing.
+ou quelle devrait être la température ou la pression
+lorsque tout change constamment.
+
+You probably won't be surprised to learn that
+there is math we can do to answer those questions.
+Vous ne serez probablement pas surpris d'apprendre que
+nous pouvons faire des calculs pour répondre à ces questions.
+
+We'll get into the numbers in our next lesson.
+Nous aborderons les chiffres dans notre prochaine leçon.
+
+But right now, let's have some fun.
+Mais maintenant, amusons-nous un peu.
+
+I've been talking about the Haber Process because it's a simple reaction, it's an important reaction.
+J'ai parlé du processus Haber parce que c'est une simple réaction, c'est une réaction importante.
+
+And because it's one of the main reactions
+that Le Châtelier studied.
+Et parce que c'est l'une des principales
+réactions étudiées par Le Châtelier.
+
+But it's not very interesting to watch.
+Mais ce n'est pas très intéressant à regarder.
+
+A much more interesting reaction involves 2 different ions of cobalt that reach equilibrium in an endothermic reaction.
+Une réaction beaucoup plus intéressante implique 2 ions différents de cobalt qui atteignent l'équilibre dans une réaction endothermique.
+
+As you can see, one of the ions is pink in
+aqueous solution and the other is blue.
+Comme vous pouvez le voir, l'un des ions est rose en
+solution aqueuse et l'autre est bleu.
+
+One stress I can put on this system is the
+addition of hydrochloric acid.
+Une contrainte que je peux mettre sur ce système est l'
+ajout d'acide chlorhydrique.
+
+This increases the chloride ion concentration and pushes the reaction to the right, the blue side.
+Cela augmente la concentration en ions chlorure et pousse la réaction vers la droite, du côté bleu.
+
+And if I add water, the reaction is pushed
+right back to the left, pink. Cool, right?
+Et si j'ajoute de l'eau, la réaction est repoussée de
+droite à gauche, rose.  Cool, non ?
+
+I can also stress the reaction by changing
+its temperature.
+Je peux également accentuer la réaction en modifiant
+sa température.
+
+If I raise the temperature, it's like adding a reactant so the reaction will proceed to the right.
+Si j'augmente la température, c'est comme ajouter un réactif pour que la réaction se déroule vers la droite.
+
+You use it up and turn blue again.
+Vous l'utilisez et redevenez bleu.
+
+You can probably guess by now that if I lower
+the temperature
+Vous pouvez probablement deviner maintenant que si j'abaisse
+la température,
+
+it's like taking away some reactants so the
+reaction proceeds to the left and turns pink.
+c'est comme si j'enlevais des réactifs, de sorte que la
+réaction se déroule vers la gauche et devient rose.
+
+We could make these colors go back and forth
+all day by making changes to the reaction,
+Nous pourrions faire aller et venir ces couleurs
+toute la journée en modifiant la réaction,
+
+but I think you're getting the idea.
+mais je pense que vous avez compris l'idée.
+
+Equilibrium isn't about staying the same all
+the time,
+L'équilibre ne consiste pas à rester le même tout
+le temps,
+
+it's just about keeping your balance as your
+circumstances change.
+il s'agit simplement de garder votre équilibre à mesure que votre
+situation change.
+
+And now it is time for me to go get a nice
+Greek salad to help balance out
+Et maintenant, il est temps pour moi d'aller chercher une bonne
+salade grecque pour aider à équilibrer
+
+the corn dogs that I may or may not have eaten
+this weekend.
+les chiens de maïs que j'ai peut-être mangés ou non
+ce week-end.
+
+But first thank you for watching this episode
+of Crash Course Chemistry.
+Mais d'abord merci d'avoir regardé cet épisode
+de Crash Course Chemistry.
+
+If you paid attention, you learned that equilibrium
+is just a fancy word for balance,
+Si vous avez fait attention, vous avez appris que l'équilibre
+n'est qu'un mot fantaisiste pour l'équilibre
+
+which is a thing that chemical reactions need
+just as much as we do.
+, une chose dont les réactions chimiques ont
+autant besoin que nous.
+
+And that the way they achieve balance is to
+compensate for change, not just to stop completely.
+Et que la façon dont ils parviennent à l'équilibre est de
+compenser le changement, pas seulement de s'arrêter complètement.
+
+You also learned and saw that chemical equilibrium
+can be affected by the concentration of substances
+Vous avez également appris et vu que l'équilibre chimique
+peut être affecté par la concentration des substances,
+
+their temperatures, and if they're gasses,
+their pressure.
+leur température et, s'il s'agit de gaz,
+leur pression.
+
+Finally, you learned about Le Châtelier's
+principle of chemical equilibrium
+Enfin, vous avez découvert le
+principe d'équilibre chimique de Le Châtelier
+
+and about his failed attempt to do what Fritz
+Haber eventually did.
+et sa tentative ratée de faire ce que Fritz
+Haber a finalement fait.
+
+Invent an efficient process to produce ammonia.
+Inventez un procédé efficace pour produire de l'ammoniac.
+
+This episode of Crash Course Chemistry was
+written by Edi Gonzales.
+Cet épisode de Crash Course Chemistry a été
+écrit par Edi Gonzales.
+
+This script was edited by Blake de Pastino. And our chemistry consultant was Dr. Heiko Langner.
+Ce script a été édité par Blake de Pastino.  Et notre consultant en chimie était le Dr Heiko Langner.
+
+It was filmed, edited, and directed by Nicholas
+Jenkins. Our script supervisor, Katherine Green.
+Il a été filmé, monté et réalisé par Nicholas
+Jenkins.  Notre scripte, Katherine Green.
+
+And our sound designer is Michael Aranda.
+And of course, our graphic team is Thought Cafe.
+Et notre concepteur sonore est Michael Aranda.
+Et bien sûr, notre équipe graphique est Thought Cafe.
+

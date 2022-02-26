@@ -1,0 +1,776 @@
+You can review content from Crash Course Organic Chemistry with the Crash Course App,
+Vous pouvez consulter le contenu de Crash Course Organic Chemistry avec l'application Crash Course,
+
+available now for Android and iOS devices.
+disponible dès maintenant pour les appareils Android et iOS.
+
+Hi! I’m Deboki Chakravarti and welcome to
+Crash Course Organic Chemistry!
+Salut!  Je suis Deboki Chakravarti et bienvenue au cours intensif de
+chimie organique !
+
+Going out on a sunny day can be a real mood
+booster.
+Sortir par une journée ensoleillée peut être un véritable
+booster d'humeur.
+
+But those lovely rays of ultraviolet light
+can cause some potentially harmful reactions with our DNA.
+Mais ces beaux rayons de lumière ultraviolette
+peuvent provoquer des réactions potentiellement nocives avec notre ADN.
+
+Of the four DNA bases, thymine and cytosine
+are classified as pyrimidines.
+Parmi les quatre bases d'ADN, la thymine et la cytosine
+sont classées comme pyrimidines.
+
+When they're hit by UV light, the double bonds
+in two adjacent pyrimidines can react to form a ring structure.
+Lorsqu'elles sont touchées par la lumière UV, les doubles liaisons
+de deux pyrimidines adjacentes peuvent réagir pour former une structure cyclique.
+
+This is one type of pericyclic reaction!
+C'est un type de réaction péricyclique !
+
+These now-covalently-bound bases – called
+pyrimidine dimers – can interfere with copying DNA
+Ces bases désormais liées de manière covalente - appelées
+dimères de pyrimidine - peuvent interférer avec la copie de l'ADN
+
+and reading the encoded genetic messages,
+which can make things go pretty haywire.
+et la lecture des messages génétiques codés,
+ce qui peut rendre les choses assez détraquées.
+
+Sometimes even causing cancer.
+Parfois même causant le cancer.
+
+Because pyrimidine dimers are quite dangerous,
+but also very common,
+Parce que les dimères de pyrimidine sont assez dangereux,
+mais aussi très courants,
+
+our bodies have developed ways to remove and replace the damaged section of DNA.
+notre corps a développé des moyens d'enlever et de remplacer la section endommagée de l'ADN.
+
+(And we also use sunscreens to protect us
+from UV light!)
+(Et nous utilisons également des écrans solaires pour nous
+protéger des rayons UV !)
+
+So in this episode we’ll explore pericyclic
+reactions –
+Ainsi, dans cet épisode, nous explorerons les
+réactions péricycliques -
+
+and how they relate to the Sun's dangers and life-giving properties.
+et leur lien avec les dangers du soleil et ses propriétés vitales.
+
+[Theme Music]
+[Musique à thème]
+
+There are quite a few pericyclic reactions
+across organic chemistry,
+Il existe de nombreuses réactions péricycliques
+dans la chimie organique,
+
+where overlap of molecular orbitals causes single and double
+bonds to break and form simultaneously in a concerted reaction.
+où le chevauchement des orbitales moléculaires provoque la
+rupture et la formation simultanées de liaisons simples et doubles dans une réaction concertée.
+
+There’s a cyclic transition state, but no
+distinct intermediates—it’s all one step!
+Il y a un état de transition cyclique, mais pas d'
+intermédiaires distincts - c'est une seule étape !
+
+A super important one is the Diels-Alder reaction,
+Une très importante est la réaction de Diels-Alder,
+
+where a conjugated compound with two adjacent double bonds reacts with an alkene.
+où un composé conjugué avec deux doubles liaisons adjacentes réagit avec un alcène.
+
+This transformation makes two carbon-carbon
+bonds at the same time and shows incredible stereoselectivity and regioselectivity.
+Cette transformation crée deux liaisons carbone-carbone
+en même temps et montre une stéréosélectivité et une régiosélectivité incroyables.
+
+This reaction bears the names of its discoverers,
+and is a tale of a joint Nobel Prize awarded in 1950.
+Cette réaction porte les noms de ses découvreurs
+et est l'histoire d'un prix Nobel conjoint décerné en 1950.
+
+Otto Diels was a professor that cared deeply
+about research and teaching.
+Otto Diels était un professeur qui se souciait profondément
+de la recherche et de l'enseignement.
+
+You’d find him demonstrating experiments at the front of lecture halls packed with hundreds of students at Kiel University in Germany.
+Vous le trouverez en train de faire des expériences devant des amphithéâtres remplis de centaines d'étudiants à l'Université de Kiel en Allemagne.
+
+Kurt Alder was a student of Diels and became
+a professor himself,
+Kurt Alder était un élève de Diels et
+devint lui-même professeur,
+
+after a stint in the rubber industry.
+après un passage dans l'industrie du caoutchouc.
+
+He’s also got a moon crater named in his
+honor, and the insecticide aldrin,
+Il a également un cratère lunaire nommé en son
+honneur et l'insecticide aldrine,
+
+which is formed by a Diels-Alder reaction.
+qui est formé par une réaction de Diels-Alder.
+
+In this reaction, our key players aren't just called "a conjugated compound with two adjacent double bonds" and "an alkene."
+Dans cette réaction, nos acteurs clés ne sont pas simplement appelés "un composé conjugué avec deux doubles liaisons adjacentes" et "un alcène".
+
+They have special names.
+Ils ont des noms spéciaux.
+
+The first reactant is a diene, and the other
+is called the dienophile:
+Le premier réactif est un diène, et l'autre
+est appelé le diénophile
+
+the “lover of the diene.”
+: "l'amant du diène".
+
+Like we just mentioned, this mechanism is
+concerted,
+Comme nous venons de le mentionner, ce mécanisme est
+concerté,
+
+and the bonds break and form at the same time.
+et les liens se rompent et se forment en même temps.
+
+To show an arrow pushing mechanism for the
+Diels-Alder reaction,
+Pour montrer un mécanisme de poussée de flèche pour la
+réaction de Diels-Alder,
+
+I like to draw dotted lines that connect each end of the conjugated system of our diene to each side of the pi bond in the dienophile.
+j'aime tracer des lignes pointillées qui relient chaque extrémité du système conjugué de notre diène à chaque côté de la liaison pi dans le diénophile.
+
+Now, we can add three arrows to show the pi
+electrons forming new sigma bonds and a rearranged pi bond.
+Maintenant, nous pouvons ajouter trois flèches pour montrer les
+électrons pi formant de nouvelles liaisons sigma et une liaison pi réarrangée.
+
+This helps me keep track of where to make
+the new bonds,
+Cela m'aide à savoir où créer
+les nouvelles liaisons,
+
+even in more complex molecules like the insecticide aldrin.
+même dans des molécules plus complexes comme l'insecticide aldrine.
+
+Again, we’re sacrificing two pi bonds to
+make two new sigma bonds.
+Encore une fois, nous sacrifions deux liaisons pi pour
+créer deux nouvelles liaisons sigma.
+
+Now, even though we’ve been using arrow
+pushing to help visualize how electrons move and form bonds,
+Maintenant, même si nous avons utilisé la
+poussée des flèches pour aider à visualiser comment les électrons se déplacent et forment des liaisons, ce sont
+
+really molecular orbitals
+are what combine during a chemical reaction.
+vraiment les orbitales moléculaires
+qui se combinent lors d'une réaction chimique.
+
+Last episode, we constructed the molecular
+orbitals of butadiene.
+Dernier épisode, nous avons construit les
+orbitales moléculaires du butadiène.
+
+And these orbitals can be used to represent
+the pi system of any conjugated diene!
+Et ces orbitales peuvent être utilisées pour représenter
+le système pi de n'importe quel diène conjugué !
+
+We can also construct the molecular orbitals
+of ethylene,
+Nous pouvons également construire les orbitales moléculaires
+de l'éthylène,
+
+which can be used to represent the pi system of any dienophile.
+qui peuvent être utilisées pour représenter le système pi de tout diénophile.
+
+Ethylene has two electrons in the pi system.
+L'éthylène a deux électrons dans le système pi.
+
+Those electrons pair up in the lower energy
+molecular orbital,
+Ces électrons s'apparient dans l'
+orbitale moléculaire d'énergie inférieure,
+
+where we combine two p orbitals in phase.
+où nous combinons deux orbitales p en phase.
+
+So this is the highest occupied molecular
+orbital or HOMO.
+Il s'agit donc de l'orbite moléculaire occupée la plus élevée
+ou HOMO.
+
+We can only construct one other molecular
+orbital by combining the two p orbitals out of phase.
+Nous ne pouvons construire qu'une autre
+orbitale moléculaire en combinant les deux orbitales p déphasées.
+
+And this is the lowest unoccupied molecular
+orbital, or LUMO.
+Et c'est la plus basse orbitale moléculaire inoccupée
+, ou LUMO.
+
+That’s it!
+C'est ça! 
+
+Now that we have the puzzle pieces,
+Maintenant que nous avons les pièces du puzzle,
+
+we can see how the molecular orbitals of a diene and dienophile interact during a chemical reaction.
+nous pouvons voir comment les orbitales moléculaires d'un diène et d'un diénophile interagissent lors d'une réaction chimique.
+
+In any chemical reaction, the HOMO of one reactant combines with the empty molecular orbital of the other reactant that is closest in energy.
+Dans toute réaction chimique, l'HOMO d'un réactif se combine avec l'orbitale moléculaire vide de l'autre réactif dont l'énergie est la plus proche.
+
+So, usually, the HOMO of the diene reacts
+with the LUMO of the dienophile.
+Ainsi, généralement, le HOMO du diène réagit
+avec le LUMO du diénophile.
+
+To be able to form new bonds, these orbitals
+need to be in phase.
+Pour pouvoir former de nouvelles liaisons, ces orbitales
+doivent être en phase.
+
+Look here: one shaded lobe of the HOMO lines
+up with a shaded lobe of the LUMO,
+Regardez ici : un lobe ombré de l'HOMO
+s'aligne avec un lobe ombré du LUMO,
+
+and on the other end, the unshaded orbitals align.
+et à l'autre extrémité, les orbitales non ombrées s'alignent.
+
+And when orbitals approach from the same face,
+like in the Diels-Alder, we call this suprafacial.
+Et lorsque les orbitales s'approchent de la même face,
+comme dans le Diels-Alder, nous appelons cela suprafacial.
+
+To be totally honest, the reaction of butadiene
+and ethylene to make cyclohexene is kinda terrible –
+Pour être tout à fait honnête, la réaction du butadiène
+et de l'éthylène pour faire du cyclohexène est un peu terrible -
+
+it happens under extreme conditions
+and in low yield.
+cela se produit dans des conditions extrêmes
+et avec un faible rendement.
+
+The HOMO of butadiene and the LUMO of ethylene
+are a bit too far away in energy.
+Le HOMO du butadiène et le LUMO de l'éthylène
+sont un peu trop éloignés en énergie.
+
+So, to help most Diels-Alder reactions along,
+we’ll put electron donating groups on our diene,
+Donc, pour aider la plupart des réactions de Diels-Alder,
+nous allons mettre des groupes donneurs d'électrons sur notre diène
+
+and electron withdrawing groups on
+our dienophile.
+et des groupes attracteurs d'électrons sur
+notre diénophile.
+
+(And for a refresher on how to recognize these
+groups, check out Episode 38.)
+(Et pour un rappel sur la façon de reconnaître ces
+groupes, consultez l'épisode 38.)
+
+Electron donating groups push electrons into
+the HOMO, raising its energy.
+Les groupes donneurs d'électrons poussent les électrons dans
+le HOMO, augmentant son énergie.
+
+So, putting these groups on the diene gets
+its HOMO closer to the energy of the dienophile’s LUMO.
+Ainsi, mettre ces groupes sur le diène
+rapproche son HOMO de l'énergie du LUMO du diénophile.
+
+Electron withdrawing groups on the dienophile
+lower the energy of its LUMO,
+Les groupes attracteurs d'électrons sur le diénophile
+abaissent l'énergie de son LUMO,
+
+which brings it even closer to the energy of the diene’s
+HOMO.
+ce qui le rapproche encore plus de l'énergie du HOMO du diène
+.
+
+Let’s look at a specific example, with weakly
+electron donating methyl groups on our diene
+Regardons un exemple spécifique, avec
+des groupes méthyle faiblement donneurs d'électrons sur notre diène
+
+and electron withdrawing esters on our dienophile.
+et des esters attracteurs d'électrons sur notre diénophile.
+
+With these groups, the HOMO of the diene is
+raised in energy, the LUMO of the dienophile is lowered,
+Avec ces groupes, le HOMO du diène est
+augmenté en énergie, le LUMO du diénophile est abaissé
+
+and the reaction occurs with gentle
+warming.
+et la réaction se produit avec un léger
+réchauffement.
+
+No extreme conditions here!
+Pas de conditions extrêmes ici !
+
+But we can't just stick electron donating
+groups anywhere and expect chemistry magic!
+Mais nous ne pouvons pas simplement coller des groupes donneurs d'électrons
+n'importe où et nous attendre à la magie de la chimie !
+
+For example, this placement of methyl groups
+on this diene creates steric hindrance,
+Par exemple, ce placement de groupes méthyle
+sur ce diène crée un encombrement stérique, de
+
+so it can’t adopt the reactive conformation,
+and the Diels-Alder reaction won’t happen.
+sorte qu'il ne peut pas adopter la conformation réactive,
+et la réaction de Diels-Alder ne se produira pas.
+
+The reactive conformation with the double
+bonds ready to react is called s-cis,
+La conformation réactive avec les doubles
+liaisons prêtes à réagir est appelée s-cis,
+
+and the unreactive conformation is called s-trans.
+et la conformation non réactive est appelée s-trans.
+
+The "s" at the beginning of these terms is
+really important,
+Le "s" au début de ces termes est
+vraiment important
+
+so we don't confuse them with cis and trans bonding arrangements –
+, nous ne les confondons donc pas avec les arrangements de liaison cis et trans -
+
+which, for double bonds, we've also been calling Z and E respectively.
+que, pour les doubles liaisons, nous avons également appelé respectivement Z et E.
+
+Compounds like cyclopentadiene that lock the
+double bonds in the s-cis configuration react well.
+Des composés comme le cyclopentadiène qui verrouillent les
+doubles liaisons dans la configuration s-cis réagissent bien.
+
+And because it’s a ring already, the product
+of this example reaction is this cool double-ring bicyclic structure!
+Et parce que c'est déjà un cycle, le produit
+de cet exemple de réaction est cette structure bicyclique cool à double cycle !
+
+Now that we know the basics of the Diels-Alder
+reaction, we can learn about its incredible stereoselectivity.
+Maintenant que nous connaissons les bases de la réaction de Diels-
+Alder, nous pouvons en apprendre davantage sur son incroyable stéréosélectivité.
+
+First we’ll focus on alkene dienophiles.
+Nous allons d'abord nous concentrer sur les alcènes diénophiles.
+
+If the groups are on “Z zame zide” in
+a Z-alkene, they end up cis on the cyclohexene ring.
+Si les groupes sont sur "Z zame zide" dans
+un Z-alcène, ils se retrouvent en cis sur le cycle cyclohexène.
+
+And if the groups are "E-cross" in an E-alkene,
+they end up trans on the ring.
+Et si les groupes sont "E-cross" dans un E-alcène,
+ils finissent trans sur le ring.
+
+Alkynes can be dienophiles too!
+Les alcynes peuvent aussi être diénophiles !
+
+In these Diels-Alder reactions, the alkyne
+dienophile groups end up on a double bond and so they aren’t cis or trans.
+Dans ces réactions de Diels-Alder, les
+groupes alcyne diénophiles se retrouvent sur une double liaison et ne sont donc ni cis ni trans.
+
+Let’s react an alkyne dienophile so we can
+look really carefully at where the groups on just our diene go.
+Faisons réagir un alcyne diénophile afin que nous puissions
+regarder très attentivement où vont les groupes sur notre diène uniquement.
+
+With our diene in the s-cis conformation,
+we can label its groups “out” and “in”,
+Avec notre diène dans la conformation s-cis,
+nous pouvons étiqueter ses groupes "out" et "in",
+
+depending where they're pointing.
+selon l'endroit où ils pointent.
+
+In the products, the “out” groups end
+up on the same side of the molecular plane,
+Dans les produits, les groupes "out" se
+retrouvent du même côté du plan moléculaire,
+
+and the “in” groups on the same side –
+et les groupes "in" du même côté -
+
+remember, look carefully at the solid or dashed triangles that represent these bonds.
+rappelez-vous, regardez attentivement les triangles pleins ou en pointillés qui représentent ces liaisons.
+
+But sometimes, we’re not only focusing on
+dienes or dienophiles to figure out stereoselectivity.
+Mais parfois, nous ne nous concentrons pas uniquement sur les
+diènes ou les diénophiles pour comprendre la stéréosélectivité.
+
+We may see situations where both the diene
+and dienophile have groups that wind up on chiral carbons in the product.
+Nous pouvons voir des situations où le diène
+et le diénophile ont des groupes qui se retrouvent sur des carbones chiraux dans le produit.
+
+With this Z-alkene dienophile, for example,
+we know our carboxylic acids will end up on the same side.
+Avec ce diénophile Z-alcène, par exemple,
+nous savons que nos acides carboxyliques se retrouveront du même côté.
+
+And we know this diene has two “out” groups
+that will end up on the same side.
+Et nous savons que ce diène a deux groupes "hors"
+qui se retrouveront du même côté.
+
+But... what will the stereochemistry of the
+final molecule look like?
+Mais... à quoi ressemblera la stéréochimie de la
+molécule finale ?
+
+The groups on the dienophile can have favorable
+interactions with the pi molecular orbitals on the diene.
+Les groupes sur le diénophile peuvent avoir des
+interactions favorables avec les orbitales moléculaires pi sur le diène.
+
+So the dienophile approaches in this orientation,
+lining up the pi bonds in these carboxylic acid groups with the pi bonds of the diene.
+Ainsi, le diénophile s'approche dans cette orientation,
+alignant les liaisons pi de ces groupes acide carboxylique avec les liaisons pi du diène.
+
+The bonds rearrange in our concerted Diels-Alder
+reaction.
+Les liens se réarrangent dans notre réaction concertée de Diels-
+Alder.
+
+And when we flatten out the molecule, we can
+see it’s this crowded product,
+Et lorsque nous aplatissons la molécule, nous pouvons
+voir que c'est ce produit encombré,
+
+with all groups on the same side of the molecular plane.
+avec tous les groupes du même côté du plan moléculaire.
+
+This elbow-bumping molecule is called the
+endo product, and the other potential diastereomer,
+Cette molécule de coude est appelée le
+produit endo, et l'autre diastéréoisomère potentiel,
+
+called the exo product, is disfavored.
+appelé le produit exo, est défavorisé.
+
+Bicyclic examples let us see the endo product
+pretty well.
+Des exemples bicycliques nous permettent de voir
+assez bien le produit endo.
+
+In this example, the ester points toward the
+more crowded side of the bicyclic ring in 3D space.
+Dans cet exemple, l'ester pointe vers le
+côté le plus encombré du cycle bicyclique dans l'espace 3D.
+
+And in our bicyclic insecticide aldrin, we
+see the carbon-chlorine bridge faces the more crowded side too!
+Et dans notre insecticide bicyclique aldrine, nous
+voyons que le pont carbone-chlore fait également face au côté le plus encombré !
+
+That’s all we’ll cover for stereochemistry,
+even though there’s so much more to learn.
+C'est tout ce que nous couvrirons pour la stéréochimie,
+même s'il y a tellement plus à apprendre.
+
+If you’re curious, the stereochemistry of
+all pericyclic reactions can be described with the Woodward-Hoffman rules.
+Si vous êtes curieux, la stéréochimie de
+toutes les réactions péricycliques peut être décrite avec les règles de Woodward-Hoffman.
+
+A chain smoker with a propensity for blue
+neckties,
+Fumeur à la chaîne avec une propension aux
+cravates bleues,
+
+Robert Burns Woodward won the Nobel Prize in 1965 for the synthesis of complex natural products.
+Robert Burns Woodward a remporté le prix Nobel en 1965 pour la synthèse de produits naturels complexes.
+
+He collaborated with Roald Hoffmann, chemistry
+professor at Cornell University,
+Il a collaboré avec Roald Hoffmann,
+professeur de chimie à l'Université Cornell,
+
+to describe molecular orbital symmetry and predict the
+stereochemistry and regiochemistry of pericyclic reactions.
+pour décrire la symétrie orbitale moléculaire et prédire la
+stéréochimie et la régiochimie des réactions péricycliques.
+
+And in 1981, Hoffman shared the Nobel Prize
+with Kenichi Fukui,
+Et en 1981, Hoffman a partagé le prix Nobel
+avec Kenichi Fukui,
+
+the first Asian person to win the award in chemistry.
+la première personne asiatique à remporter le prix en chimie.
+
+Their understanding of the influence of molecular
+orbitals on chemical reactions was a huge contribution to the field!
+Leur compréhension de l'influence des
+orbitales moléculaires sur les réactions chimiques a été une énorme contribution au domaine !
+
+Now, we still have to talk about Diels-Alder
+reaction regiochemistry.
+Maintenant, nous devons encore parler de la
+régiochimie de la réaction de Diels-Alder.
+
+If we have one group on each reactant, we
+need to know how to predict where they end up relative to each other in the products.
+Si nous avons un groupe sur chaque réactif, nous
+devons savoir comment prédire où ils se retrouvent les uns par rapport aux autres dans les produits.
+
+The groups in the products are actually kinda
+similar to the ortho and para positions on a benzene ring.
+Les groupes dans les produits sont en fait un peu
+similaires aux positions ortho et para sur un cycle benzénique.
+
+This is a cyclohexene – not a benzene – so
+this isn't official terminology,
+Il s'agit d'un cyclohexène - pas d'un benzène - donc
+ce n'est pas une terminologie officielle,
+
+but it's a little trick that can help us remember where
+these groups end up.
+mais c'est une petite astuce qui peut nous aider à nous rappeler où
+finissent ces groupes.
+
+The position of these groups is actually dictated
+by the sizes of molecular orbitals,
+La position de ces groupes est en fait dictée
+par la taille des orbitales moléculaires,
+
+also called the orbital coefficients.
+également appelées coefficients orbitaux.
+
+We don’t have time for that deep of a dive
+in this episode,
+Nous n'avons pas le temps de plonger aussi profondément
+dans cet épisode,
+
+but we’ve put extra references in the video description.
+mais nous avons ajouté des références supplémentaires dans la description de la vidéo.
+
+We've been talking about the Diels-Alder reaction
+this whole time,
+Nous avons parlé de la réaction de Diels-Alder
+tout ce temps,
+
+but it's just one example of a cycloaddition, a type of ring-forming reaction where two new bonds form simultaneously.
+mais ce n'est qu'un exemple de cycloaddition, un type de réaction de formation d'anneau où deux nouvelles liaisons se forment simultanément.
+
+Cycloadditions are classified by counting
+the number of carbons in the pi system in each reactant,
+Les cycloadditions sont classées en comptant
+le nombre de carbones dans le système pi de chaque réactif, de
+
+so the Diels Alder is a [4+2] cycloaddition.
+sorte que le Diels Alder est une cycloaddition [4 + 2].
+
+The pyrimidine dimers we saw at the beginning
+of the episode are a [2+2] cycloaddition,
+Les dimères de pyrimidine que nous avons vus au début
+de l'épisode sont une cycloaddition [2+2],
+
+and we can draw arrows for the mechanism like
+this.
+et nous pouvons dessiner des flèches pour le mécanisme comme
+celui-ci.
+
+But looking at the molecular orbitals… wait
+a second,
+Mais en regardant les orbitales moléculaires… attendez
+une seconde,
+
+the HOMO of one ethylene molecule doesn’t line up with the LUMO of the other!
+le HOMO d'une molécule d'éthylène ne s'aligne pas avec le LUMO de l'autre !
+
+This isn't suprafacial like the Diels-Alder
+reaction,
+Ce n'est pas suprafacial comme la réaction de Diels-
+Alder,
+
+because one of the two pairs of orbitals doesn't line up.
+car l'une des deux paires d'orbitales ne s'aligne pas.
+
+In fact, the antarafacial, or opposite face,
+En fait, l'approche antarafaciale, ou face opposée
+
+approach that would be required because of the not-in-phaseness won't let us form new bonds.
+, qui serait nécessaire en raison de la non-phase ne nous permettra pas de former de nouveaux liens.
+
+The rigid double bonds don’t let our ethylene
+molecule reach the opposite face.
+Les doubles liaisons rigides ne laissent pas notre
+molécule d'éthylène atteindre la face opposée.
+
+So what do we do?
+Alors que faisons-nous? 
+
+Don’t forget, we have another key ingredient:
+sunlight!
+N'oubliez pas, nous avons un autre ingrédient clé : la
+lumière du soleil !
+
+Just like with UV/vis spectroscopy, the UV
+light excites an electron in one reactant to the next energy level,
+Tout comme avec la spectroscopie UV/vis, la
+lumière UV excite un électron dans un réactif au niveau d'énergie suivant
+
+so it has a new HOMO!
+, il a donc un nouvel HOMO !
+
+You can review this in episode 41.
+Vous pouvez revoir cela dans l'épisode 41.
+
+Let’s try lining up our orbitals for the
+[2+2] cycloaddition again.
+Essayons à nouveau d'aligner nos orbitales pour la
+cycloaddition [2+2].
+
+They're in phase and suprafacial now!
+Ils sont en phase et suprafaciaux maintenant !
+
+So with UV light, [2+2] cycloaddition can
+occur –
+Ainsi, avec la lumière UV, une cycloaddition [2+2] peut
+se produire
+
+so we say that the photochemical reaction is allowed.
+- nous disons donc que la réaction photochimique est autorisée.
+
+However, if we add a different special ingredient:
+heat, the reaction doesn’t happen.
+Cependant, si nous ajoutons un ingrédient spécial différent : la
+chaleur, la réaction ne se produit pas.
+
+So we say the thermal reaction is forbidden
+in the cycloaddition world.
+On dit donc que la réaction thermique est interdite
+dans le monde de la cycloaddition.
+
+There are four major types of pericyclic reactions.
+Il existe quatre grands types de réactions péricycliques.
+
+And, besides the cycloaddition we just learned,
+two more happen thanks to the Sun interacting with our bodies.
+Et, outre la cycloaddition que nous venons d'apprendre,
+deux autres se produisent grâce à l'interaction du Soleil avec notre corps.
+
+One of the many reasons we need sunlight to survive is because a pericyclic reaction occurs in our skin during the synthesis of Vitamin D3.
+L'une des nombreuses raisons pour lesquelles nous avons besoin de la lumière du soleil pour survivre est qu'une réaction péricyclique se produit dans notre peau lors de la synthèse de la vitamine D3.
+
+In the first step, a pericyclic reaction called
+an electrocyclic ring opening causes the bond in a cholesterol derivative to break.
+Dans la première étape, une réaction péricyclique
+appelée ouverture de cycle électrocyclique provoque la rupture de la liaison dans un dérivé du cholestérol.
+
+Then, without the help of sunlight (so no
+new HOMO is needed),
+Ensuite, sans l'aide de la lumière du soleil (donc aucun
+nouvel HOMO n'est nécessaire),
+
+we get another pericyclic reaction called a sigmatropic rearrangement, where pi and sigma bonds both rearrange.
+nous obtenons une autre réaction péricyclique appelée réarrangement sigmatropique, où les liaisons pi et sigma se réarrangent toutes les deux.
+
+In this reaction, a hydrogen atom also gets
+moved to another part of the chain.
+Dans cette réaction, un atome d'hydrogène est également
+déplacé vers une autre partie de la chaîne.
+
+Just looking at these reactions, we can see
+that they're… complicated.
+Rien qu'en regardant ces réactions, on peut
+voir qu'elles sont… compliquées.
+
+And that's ok!
+Et ça va!
+
+These two and the Alder-ene pericyclic reactions
+are taught in advanced organic chemistry courses.
+Ces deux réactions et les réactions péricycliques d'Alderène
+sont enseignées dans les cours avancés de chimie organique.
+
+Even though this series is trying to cover
+the basics,
+Même si cette série essaie de couvrir
+les bases,
+
+there's always more chemistry (involving sunlight or not) to learn!
+il y a toujours plus de chimie (impliquant la lumière du soleil ou non) à apprendre !
+
+In this episode, we saw:
+Dans cet épisode, nous avons vu :
+
+The Diels-Alder reaction is a [4+2] cycloaddition
+that gives very specific stereochemistry and
+la réaction de Diels-Alder est une cycloaddition [4+2]
+qui donne une stéréochimie et une régiochimie très spécifiques en
+
+regiochemistry because of molecular orbital
+interactions,
+raison des
+interactions
+
+Molecular orbitals need to be in phase to
+react, and
+orbitales moléculaires, les orbitales moléculaires doivent être en phase pour
+réagir, et la
+
+Sunlight can cause damage to our DNA, but
+is also essential for other human biological processes –
+lumière du soleil peut endommager notre  ADN, mais
+est également essentiel pour d'autres processus biologiques humains -
+
+all because of pericyclic reactions.
+tout cela à cause des réactions péricycliques.
+
+Next episode, we'll learn about the chemistry
+of carbon nucleophiles made from carbonyl compounds,
+Dans le prochain épisode, nous découvrirons la chimie
+des nucléophiles carbonés fabriqués à partir de composés carbonylés, alors
+
+as we begin to explore enols and enolates.
+que nous commençons à explorer les énols et les énolates.
+
+Until then, thanks for watching this episode
+of Crash Course Organic Chemistry.
+En attendant, merci d'avoir regardé cet épisode
+de Crash Course Organic Chemistry.
+
+If you want to help keep all Crash Course
+free for everybody, forever,
+Si vous voulez aider à garder tous les cours intensifs
+gratuits pour tout le monde, pour toujours,
+
+you can join our community on Patreon.
+vous pouvez rejoindre notre communauté sur Patreon.
+

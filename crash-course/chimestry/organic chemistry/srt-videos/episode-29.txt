@@ -1,0 +1,849 @@
+You can review content from Crash Course Organic Chemistry with the Crash Course App,
+Vous pouvez consulter le contenu de Crash Course Organic Chemistry avec l'application Crash Course,
+
+available now for Android and iOS devices.
+disponible dès maintenant pour les appareils Android et iOS.
+
+Hi! I’m Deboki Chakravarti and welcome to
+Crash Course Organic Chemistry!
+Salut!  Je suis Deboki Chakravarti et bienvenue au cours intensif de
+chimie organique !
+
+Back in episode 27, we talked a lot about
+the synthesis of aldehydes and ketones.
+De retour dans l'épisode 27, on parlait beaucoup de
+la synthèse des aldéhydes et des cétones.
+
+And now that we know the basics, we can build up to some more familiar chemical reactions involving the carbonyl group,
+Et maintenant que nous connaissons les bases, nous pouvons développer des réactions chimiques plus familières impliquant le groupe carbonyle,
+
+a carbon attached to an oxygen with a double bond.
+un carbone attaché à un oxygène avec une double liaison.
+
+Stick with me for a second, I'm a huge fan
+of reality TV.
+Restez avec moi une seconde, je suis un grand fan
+de télé-réalité.
+
+I can't stop watching everything in the Bravo
+Cinematic Universe.
+Je ne peux pas m'empêcher de tout regarder dans l'
+univers cinématographique Bravo.
+
+And a common character trope –
+Et un trope de caractère commun –
+
+though it's definitely unhealthy and we should probably question why it's become so normalized –
+même si c'est définitivement malsain et nous devrions probablement nous demander pourquoi c'est devenu si normalisé –
+
+is the overstressed mom who takes anti-anxiety
+pills to make it through the day.
+est la mère surmenée qui prend des pilules anti-anxiété
+pour passer la journée.
+
+This stereotype has been around since the
+1960s,
+Ce stéréotype existe depuis les
+années 1960
+
+and was even immortalized in the Rolling Stones song "Mother's Little Helper."
+et a même été immortalisé dans la chanson des Rolling Stones "Mother's Little Helper".
+
+It's complicated, because sedatives like Xanax or Valium can be prescribed as anti-anxiety medication and really help people!
+C'est compliqué, car les sédatifs comme le Xanax ou le Valium peuvent être prescrits comme anxiolytiques et vraiment aider les gens !
+
+But they have also been abused.
+Mais ils ont aussi été maltraités.
+
+Because our focus here is organic chemistry,
+Parce que nous nous concentrons ici sur la chimie organique,
+
+in this episode we'll learn what these sedatives all have in common: carbonyl chemistry.
+dans cet épisode, nous apprendrons ce que ces sédatifs ont tous en commun : la chimie du carbonyle.
+
+[Theme Music]
+[Thème musical]
+
+Thanks to the polar C=O bond in a carbonyl
+group,
+Grâce à la liaison polaire C=O dans un
+groupe carbonyle,
+
+the carbonyl carbon has a partially positive charge.
+le carbone carbonyle a une charge partiellement positive.
+
+In episode 27, we talked about cyanide, acetylide
+anions,
+Dans l'épisode 27, nous avons parlé du cyanure, des anions acétylures
+
+and the phosphonium ylides used in the Wittig reaction attacking this partially positive carbon.
+et des ylures de phosphonium utilisés dans la réaction de Wittig attaquant ce carbone partiellement positif.
+
+These reactions extend the carbon chain, allowing
+us to make bigger, more complicated molecules.
+Ces réactions étendent la chaîne carbonée,
+nous permettant de fabriquer des molécules plus grosses et plus compliquées.
+
+And other nucleophiles can also attack the
+carbonyl group!
+Et d'autres nucléophiles peuvent également attaquer le
+groupe carbonyle !
+
+In this episode, we’ll focus on addition
+reactions of oxygen- and nitrogen-based nucleophiles.
+Dans cet épisode, nous nous concentrerons sur les
+réactions d'addition des nucléophiles à base d'oxygène et d'azote.
+
+A simple oxygen-based nucleophile that we're
+already quite familiar with is water.
+Un nucléophile simple à base d'oxygène que nous
+connaissons déjà bien est l'eau.
+
+If you mix water with an aldehyde or ketone,
+an equilibrium forms with a hydrate form,
+Si vous mélangez de l'eau avec un aldéhyde ou une cétone,
+un équilibre se forme avec une forme hydratée,
+
+called geminal-diols or gem-diols.
+appelée geminal-diols ou gem-diols.
+
+The word geminal is similar to geminus, one
+of several Latin words describing twins.
+Le mot geminal est similaire à geminus, l'un
+des nombreux mots latins décrivant les jumeaux.
+
+And in chemistry, "geminal" is used when we’re talking about a molecule with two or more of the same functional group attached to a single atom.
+Et en chimie, "géminal" est utilisé lorsque nous parlons d'une molécule avec deux ou plusieurs du même groupe fonctionnel attaché à un seul atome.
+
+Usually, this equilibrium favors the aldehyde
+or ketone because of inductive effects.
+Habituellement, cet équilibre favorise l'aldéhyde
+ou la cétone en raison d'effets inductifs.
+
+Groups like methyls or ethyls are electron
+releasing,
+Des groupes comme les méthyles ou les éthyles
+libèrent des électrons,
+
+meaning they push electrons towards the partially
+positive carbon in a carbonyl and stabilize it.
+ce qui signifie qu'ils poussent les électrons vers le
+carbone partiellement positif dans un carbonyle et le stabilisent.
+
+There are examples that break this pattern,
+though, like the smallest aldehyde: formaldehyde.
+Il existe cependant des exemples qui brisent ce schéma
+, comme le plus petit aldéhyde : le formaldéhyde.
+
+Mixing water with formaldehyde produces a
+solution called formalin.
+Mélanger de l'eau avec du formaldéhyde produit une
+solution appelée formol.
+
+Formalin helps preserve tissues from decay,
+so it's what scientists use to preserve tissue specimens in jars.
+Le formol aide à préserver les tissus de la décomposition,
+c'est donc ce que les scientifiques utilisent pour conserver les échantillons de tissus dans des bocaux.
+
+And not just scientists, artists too –
+Et pas seulement des scientifiques, des artistes aussi –
+
+Damien Hirst exhibited a whole preserved tiger shark.
+Damien Hirst a exposé un requin tigre entier préservé.
+
+Thinking about inductive effects, the hydrogen atoms on formaldehyde don’t do much to stabilize the partial positive charge on the carbon.
+En pensant aux effets inductifs, les atomes d'hydrogène sur le formaldéhyde ne font pas grand-chose pour stabiliser la charge positive partielle sur le carbone.
+
+So the equilibrium in a formalin solution
+very much favors the gem-diol –
+Ainsi, l'équilibre dans une solution de formol
+favorise beaucoup le gem-diol -
+
+not the aldehyde.
+pas l'aldéhyde.
+
+We can also make stable gem-diols by substituting
+aldehydes with strong electron-withdrawing groups, like chlorine,
+Nous pouvons également fabriquer des gem-diols stables en remplaçant les
+aldéhydes par de puissants groupes attracteurs d'électrons, comme le chlore,
+
+which destabilize the partial positive charge
+on the carbonyl carbon.
+qui déstabilisent la charge positive partielle
+sur le carbone carbonyle.
+
+For example, if we mix 2,2,2-trichloroacetaldehyde
+with water it forms chloral hydrate,
+Par exemple, si nous mélangeons du 2,2,2-trichloroacétaldéhyde
+avec de l'eau, il se forme de l'hydrate de chloral,
+
+which was given as a sedative in asylums and
+much abused in the late 19th century.
+qui était donné comme sédatif dans les asiles et dont on a
+beaucoup abusé à la fin du 19e siècle.
+
+Chloral hydrate in ethanol is colloquially
+known as “knockout drops” or a Mickey Finn,
+L'hydrate de chloral dans l'éthanol est familièrement
+connu sous le nom de "gouttes KO" ou Mickey Finn,
+
+which is probably named after a Chicago bartender who gained infamy after using this mixture to incapacitate and steal from some of his customers.
+qui porte probablement le nom d'un barman de Chicago qui a acquis une infamie après avoir utilisé ce mélange pour neutraliser et voler certains de ses clients.
+
+Big yikes.
+Gros bisous.
+
+Now, we can also react carbonyl compounds
+with other oxygen-based nucleophiles,
+Désormais, nous pouvons également faire réagir des composés carbonylés
+avec d'autres nucléophiles à base d'oxygène,
+
+like alcohol groups.
+comme les groupes alcool.
+
+When a single alcohol group adds to an aldehyde,
+we get a hemiacetal.
+Lorsqu'un seul groupe alcool s'ajoute à un aldéhyde,
+nous obtenons un hémiacétal.
+
+The name comes from the Greek word hèmi,
+meaning half,
+Le nom vient du mot grec hèmi, qui
+signifie moitié,
+
+because only one alcohol is added.
+car un seul alcool est ajouté.
+
+There are also full-blown acetals that we'll
+talk about in a bit, which have two alcohol groups added!
+Il existe également des acétals à part entière dont nous
+parlerons dans un instant, auxquels deux groupes d'alcool ont été ajoutés !
+
+Hemiacetals are generally less stable than
+their aldehyde equivalents,
+Les hémiacétals sont généralement moins stables que
+leurs équivalents aldéhydes, de
+
+so the equilibrium favors the aldehyde –
+sorte que l'équilibre favorise l'aldéhyde -
+
+as it does with many gem-diols.
+comme c'est le cas avec de nombreux gem-diols.
+
+Sugars (and other molecules that can form
+intramolecular and cyclic hemiacetals) can be exceptions.
+Les sucres (et d'autres molécules pouvant former
+des hémiacétals intramoléculaires et cycliques) peuvent être des exceptions.
+
+In aqueous solution, glucose rapidly interconverts
+between its straight-chain and cyclic forms
+En solution aqueuse, le glucose s'interconvertit rapidement
+entre ses formes à chaîne droite et cyclique
+
+when one of its alcohol groups attacks its
+carbonyl carbon.
+lorsque l'un de ses groupes alcool attaque son
+carbone carbonyle.
+
+Since the carbonyl group in glucose has a trigonal planar geometry
+Étant donné que le groupe carbonyle du glucose a une géométrie plane trigonale
+
+and our intramolecular hydroxy nucleophile can attack from either side,
+et que notre nucléophile hydroxy intramoléculaire peut attaquer de chaque côté,
+
+our hemiacetal products are two diastereomers.
+nos produits hémiacétals sont deux diastéréoisomères.
+
+But we can get even more specific in what
+we call them!
+Mais nous pouvons être encore plus précis dans ce que
+nous les appelons !
+
+The sugar world actually has lots of special
+vocabulary:
+Le monde du sucre a en fait beaucoup de
+vocabulaire spécial :
+
+the hemiacetal carbon of a sugar is called
+the anomeric carbon.
+le carbone hémiacétal d'un sucre est appelé
+le carbone anomérique.
+
+So these two products are more precisely called anomers,
+Ces deux produits sont donc plus précisément appelés anomères, l'
+
+one labeled alpha and one labeled beta.
+un marqué alpha et l'autre marqué bêta.
+
+In the beta anomer, these groups end up on
+the same side, and in the alpha anomer,
+Dans l'anomère bêta, ces groupes se retrouvent
+du même côté, et dans l'anomère alpha,
+
+these groups are opposite.
+ces groupes sont opposés.
+
+The beta anomer of glucose is actually favored
+in water because (similar to cyclohexane)
+L'anomère bêta du glucose est en fait favorisé
+dans l'eau car (similaire au cyclohexane)
+
+it can adopt a comfy, stable chair conformation.
+il peut adopter une conformation de chaise confortable et stable.
+
+And all the groups are equatorial, which also
+helps reduce steric hindrance and increase stability.
+Et tous les groupes sont équatoriaux, ce qui
+contribue également à réduire l'encombrement stérique et à augmenter la stabilité.
+
+That covers the basics of hemiacetals, so
+now let's take off that "hemi" prefix and make acetals,
+Cela couvre les bases des hémiacétals, alors
+enlevons maintenant ce préfixe "hémi" et fabriquons des acétals,
+
+which form when two alcohol
+groups add to an aldehyde or a ketone.
+qui se forment lorsque deux
+groupes alcool s'ajoutent à un aldéhyde ou à une cétone.
+
+These reactions are acid-catalyzed, so the
+three players are a carbonyl group, an alcohol, and acid.
+Ces réactions sont catalysées par un acide, de sorte que les
+trois joueurs sont un groupe carbonyle, un alcool et un acide.
+
+Looking at the summary reaction, we can see
+that we need to add two molecules of methanol
+En regardant la réaction sommaire, nous pouvons voir
+que nous devons ajouter deux molécules de méthanol
+
+to the carbonyl carbon to form the product.
+au carbone carbonyle pour former le produit.
+
+So let’s puzzle through the mechanism.
+Examinons donc le mécanisme.
+
+If we added methanol as a first step, that
+would give us a negative charge –
+Si nous ajoutions du méthanol dans un premier temps, cela
+nous donnerait une charge négative -
+
+which we can’t have in an acid!
+ce que nous ne pouvons pas avoir dans un acide !
+
+Okay, so we've gotta try something else to
+start.
+OK, donc on doit essayer autre chose pour
+commencer.
+
+In acidic conditions, we have protons.
+Dans des conditions acides, nous avons des protons.
+
+And there’s a lone pair on the carbonyl
+oxygen.
+Et il y a une seule paire sur l'
+oxygène carbonyle.
+
+So... what if that lone pair grabbed a proton
+from an oxonium ion?
+Alors... et si cette seule paire attrapait un proton
+d'un ion oxonium ?
+
+We'd have a positive charge, which is totally
+fine in our acid!
+Nous aurions une charge positive, ce qui est tout à fait
+correct dans notre acide !
+
+Even though this works as a first step, the
+oxygen isn’t happy about this whole positive-charge situation.
+Même si cela fonctionne comme une première étape, l'
+oxygène n'est pas satisfait de toute cette situation de charge positive.
+
+It draws a pair of electrons in the carbon-oxygen
+double bond towards itself,
+Il attire une paire d'électrons dans la double liaison carbone-oxygène
+vers lui-même,
+
+making the carbonyl carbon very electropositive
+and prone to nucleophilic attack.
+rendant le carbone carbonyle très électropositif
+et sujet aux attaques nucléophiles.
+
+Looking at our product, we want to add methoxy
+groups to that carbon.
+En regardant notre produit, nous voulons ajouter des
+groupes méthoxy à ce carbone.
+
+So that means the nucleophile we choose for
+this attack is our alcohol.
+Cela signifie donc que le nucléophile que nous choisissons pour
+cette attaque est notre alcool.
+
+Specifically, a lone pair on the oxygen of
+one of the alcohol molecules attacks the carbonyl carbon,
+Plus précisément, une paire isolée sur l'oxygène de l'
+une des molécules d'alcool attaque le carbone carbonyle
+
+and adds a methanol.
+et ajoute un méthanol.
+
+We've still got a positive charge on the molecule,
+though,
+Nous avons toujours une charge positive sur la molécule,
+
+so this isn't stable enough to be an end product.
+donc ce n'est pas assez stable pour être un produit final.
+
+We've got to make our way to a neutral molecule
+somehow.
+Nous devons nous frayer un chemin vers une molécule neutre d'une manière ou d'une
+autre.
+
+Remember we’ve got plenty of alcohol molecules
+floating around,
+Rappelez-vous que nous avons beaucoup de molécules d'alcool qui
+flottent,
+
+with two lone pairs on their oxygen atoms.
+avec deux paires isolées sur leurs atomes d'oxygène.
+
+So one of those alcohols can grab the spare
+proton on our molecule,
+Ainsi, l'un de ces alcools peut saisir le
+proton de réserve de notre molécule,
+
+leaving us with an -OH and an -OR group attached
+to the what-was-a-carbonyl carbon.
+nous laissant avec un groupe -OH et un groupe -OR attachés
+au carbone de ce qui était un carbonyle.
+
+Now we have a hemiacetal, so we're getting
+closer!
+Maintenant, nous avons un hémiacétal, alors nous nous
+rapprochons !
+
+But to have a full-blown acetal, we need another
+methoxy group instead of that OH.
+Mais pour avoir un acétal à part entière, nous avons besoin d'un autre
+groupe méthoxy au lieu de cet OH.
+
+In our acidic conditions, we can get rid of
+the OH by making it a good leaving group.
+Dans nos conditions acides, nous pouvons nous débarrasser de
+l'OH en en faisant un bon groupe partant.
+
+That OH grabs a proton from a protonated molecule
+of methanol.
+Cet OH attrape un proton d'une molécule protonée
+de méthanol.
+
+We might be tempted to have another molecule
+of methanol attack and kick off water at this point…
+Nous pourrions être tentés d'avoir une autre molécule
+d'attaque de méthanol et de lancer de l'eau à ce stade…
+
+but that would be like SN2 at a tertiary carbon,
+which doesn't work because, remember,
+mais ce serait comme SN2 sur un carbone tertiaire,
+ce qui ne fonctionne pas car, rappelez-vous,
+
+there's not enough room for the backside attack!
+il n'y a pas assez de place pour l'attaque arrière !
+
+Instead, we get a little help from the adjacent
+oxygen.
+Au lieu de cela, nous recevons un peu d'aide de l'
+oxygène adjacent.
+
+A lone pair of electrons on the oxygen of
+the newly-attached alcohol group help push out water,
+Une seule paire d'électrons sur l'oxygène du
+groupe alcool nouvellement attaché aide à expulser l'eau,
+
+forming an oxonium ion and a molecule that's…
+formant un ion oxonium et une molécule qui n'est…
+
+not that different from where we started!
+pas si différente de là où nous avons commencé !
+
+Except now, instead of a protonated carbonyl,
+Sauf que maintenant, au lieu d'un carbonyle protoné,
+
+we have a carbonyl attached to a methyl group
+on oxygen.
+nous avons un carbonyle attaché à un groupe méthyle
+sur l'oxygène.
+
+The similarity is important to notice because
+we can basically do the same set of moves again:
+Il est important de noter la similitude car
+nous pouvons essentiellement refaire le même ensemble de mouvements :
+
+a nucleophilic attack from another alcohol
+molecule, followed by deprotonation,
+une attaque nucléophile d'une autre
+molécule d'alcool, suivie d'une déprotonation,
+
+and we get our acetal with two methoxy groups.
+et nous obtenons notre acétal avec deux groupes méthoxy.
+
+We're done!
+Avaient fini! 
+
+That was a lot, so let’s review all the
+steps of our reaction mechanism with the arrow pushing.
+C'était beaucoup, alors passons en revue toutes les
+étapes de notre mécanisme de réaction avec la flèche poussée.
+
+In these acidic conditions, this process is
+reversible.
+Dans ces conditions acides, ce processus est
+réversible.
+
+Heat an acetal with water and acid, and, boom!
+Chauffer un acétal avec de l'eau et de l'acide, et boum !
+
+Back to the ketone or aldehyde.
+Revenons à la cétone ou à l'aldéhyde.
+
+But if acid isn’t present, acetals are really
+stable once they’re formed.
+Mais si l'acide n'est pas présent, les acétals sont vraiment
+stables une fois qu'ils sont formés.
+
+In fact, they won’t even react with really
+strong nucleophiles like carbanions.
+En fait, ils ne réagiront même pas avec
+des nucléophiles vraiment puissants comme les carbanions.
+
+Acetal formation is an important strategy for controlling the reactivity of aldehydes and ketones in multistep reactions,
+La formation d'acétal est une stratégie importante pour contrôler la réactivité des aldéhydes et des cétones dans les réactions en plusieurs étapes
+
+so we’ll come back to this when we talk
+about protecting groups in a later episode.
+, nous y reviendrons donc lorsque nous parlerons
+des groupes protecteurs dans un épisode ultérieur.
+
+For now, we'll move onto another similar reaction,
+involving the formations of imines and enamines.
+Pour l'instant, nous allons passer à une autre réaction similaire,
+impliquant les formations d'imines et d'énamines.
+
+Imines are molecules with carbon-nitrogen double bonds, and enamines contain a carbon-carbon double bond next to an amine…
+Les imines sont des molécules avec des doubles liaisons carbone-azote, et les énamines contiennent une double liaison carbone-carbone à côté d'une amine…
+
+an alkENE plus an AMINE!
+un alcène plus une AMINE !
+
+Imines come from a carbonyl and a primary
+amine, while enamines come from secondary amines.
+Les imines proviennent d'un carbonyle et d'une
+amine primaire, tandis que les énamines proviennent d'amines secondaires.
+
+One way to remember the difference is to notice that the words “imine” and “amine” are the same except for one letter –
+Une façon de se souvenir de la différence est de remarquer que les mots "imine" et "amine" sont les mêmes à l'exception d'une lettre
+
+so imines come from primary amines.
+- les imines proviennent donc d'amines primaires.
+
+“Enamine” on the other hand, has two extra
+letters, so enamines come from secondary amines.
+"Enamine", d'autre part, a deux
+lettres supplémentaires, donc les énamines proviennent d'amines secondaires.
+
+The mechanism for imine formation is similar
+to acetal formation, with three main players:
+Le mécanisme de formation d'imine est similaire
+à la formation d'acétal, avec trois acteurs principaux :
+
+a carbonyl group, a primary amine, and acidic
+conditions.
+un groupe carbonyle, une amine primaire et des
+conditions acides.
+
+Once again, there's a lone pair on the carbonyl
+oxygen that can grab a proton.
+Encore une fois, il y a une paire isolée sur l'oxygène du carbonyle
+qui peut saisir un proton.
+
+Then the nucleophile –
+Ensuite, le nucléophile -
+
+which is the nitrogen in the amine this time –
+qui est l'azote de l'amine cette fois -
+
+can attack the carbon atom of the protonated
+carbonyl group.
+peut attaquer l'atome de carbone du
+groupe carbonyle protoné.
+
+The pi electrons in the carbon-oxygen double
+bond neutralize the oxonium ion,
+Les électrons pi dans la double liaison carbone-oxygène
+neutralisent l'ion oxonium,
+
+and our intermediate molecule has an amine
+and OH on the what-was-a-carbonyl carbon.
+et notre molécule intermédiaire a une amine
+et OH sur le carbone de ce qui était un carbonyle.
+
+As in acetal formation, oxygen gets protonated,
+Comme dans la formation d'acétal, l'oxygène est protoné,
+
+the nitrogen lone pair forms a carbon-nitrogen double bond, and water is eliminated.
+la paire d'azote isolée forme une double liaison carbone-azote et l'eau est éliminée.
+
+That leaves us with an iminium ion,
+Cela nous laisse avec un ion iminium,
+
+which is any molecule with a positive charge on the double bonded nitrogen.
+qui est toute molécule avec une charge positive sur l'azote à double liaison.
+
+After a deprotonation, we get an imine.
+Après une déprotonation, on obtient une imine.
+
+However, if we're making an enamine and start
+with a carbonyl group, a secondary amine,
+Cependant, si nous fabriquons une énamine et que nous commençons
+avec un groupe carbonyle, une amine secondaire
+
+and acidic conditions, we can’t do this
+final deprotonation step.
+et des conditions acides, nous ne pouvons pas effectuer cette
+dernière étape de déprotonation.
+
+The nitrogen has two R groups instead of a
+hydrogen we can just kick out.
+L'azote a deux groupes R au lieu d'un
+hydrogène que nous pouvons simplement expulser.
+
+So, instead, the final step of the mechanism
+is deprotonating the carbon adjacent to our iminium ion,
+Ainsi, au lieu de cela, la dernière étape du mécanisme
+consiste à déprotoner le carbone adjacent à notre ion iminium,
+
+giving us an enamine.
+nous donnant une énamine.
+
+This is a great moment to mention a compound
+called ninhydrin,
+C'est le moment idéal pour mentionner un composé
+appelé ninhydrine,
+
+which is used in chromatography to identify
+amino acids and forensics to view fingerprints.
+qui est utilisé en chromatographie pour identifier les
+acides aminés et en médecine légale pour visualiser les empreintes digitales.
+
+Specifically, ninhydrin detects the amines present in the amino acids and proteins left behind by our fingerprints.
+Plus précisément, la ninhydrine détecte les amines présentes dans les acides aminés et les protéines laissées par nos empreintes digitales.
+
+When it reacts with amino acids, a deep blue-purple
+color appears, called Ruhemann’s purple.
+Lorsqu'il réagit avec les acides aminés, une couleur bleu-violet
+foncé apparaît, appelée violet de Ruhemann.
+
+This is actually an imine-forming reaction
+that occurs on the keto form of ninhydrin!
+Il s'agit en fait d'une réaction de formation d'imine
+qui se produit sur la forme céto de la ninhydrine !
+
+And the mechanism is fairly straightforward.
+Et le mécanisme est assez simple.
+
+That central carbonyl carbon in the five-membered ring –
+Ce carbone carbonyle central dans le cycle à cinq chaînons -
+
+smooshed between all those carbonyl groups –
+écrasé entre tous ces groupes carbonyle -
+
+has a big partially positive charge.
+a une grande charge partiellement positive.
+
+So it's really attractive to nucleophiles.
+C'est donc très attractif pour les nucléophiles.
+
+As a result, when an amine turns up, say from
+the oily residue left by a finger,
+En conséquence, lorsqu'une amine apparaît, disons à partir
+du résidu huileux laissé par un doigt,
+
+the lone pair on the nitrogen attacks the central carbon.
+la paire isolée sur l'azote attaque le carbone central.
+
+Then, the ninhydrin is dehydrated, and we
+form an imine!
+Ensuite, la ninhydrine est déshydratée, et on
+forme une imine !
+
+The next few steps of this mechanism are beyond
+the scope of this episode,
+Les prochaines étapes de ce mécanisme sortent
+du cadre de cet épisode,
+
+but basically, another molecule of ninhydrin
+reacts,
+mais fondamentalement, une autre molécule de ninhydrine
+réagit
+
+and the two molecules link up through the nitrogen atom.
+et les deux molécules se lient par l'atome d'azote.
+
+This compound is responsible for that pretty purple color –
+Ce composé est responsable de cette jolie couleur violette -
+
+and successful fingerprint sleuthing!
+et de la recherche réussie des empreintes digitales !
+
+To continue linking our carbonyl chemistry
+to real-world applications,
+Pour continuer à lier notre chimie du carbonyle
+à des applications dans le monde réel,
+
+we can also look at the anti-anxiety medicine –
+nous pouvons également examiner le médicament anti-anxiété -
+
+that stereotype of dramatic TV.
+ce stéréotype de la télévision dramatique.
+
+We talked about Valium to start, which is
+a brand name for diazepam.
+Nous avons parlé de Valium pour commencer, qui est
+un nom de marque pour le diazépam.
+
+The chemist Leo Sternbach, and his gifted
+technician, Beryl Kappell,
+Le chimiste Leo Sternbach et son
+technicien doué, Beryl Kapell, ont
+
+discovered the first of this family of compounds by accident
+in the mid 1950s –
+découvert le premier de cette famille de composés par accident
+au milieu des années 1950 -
+
+called chlordiazepoxide.
+appelé chlordiazépoxide.
+
+Kappell had been screening potential muscle
+relaxants for seven years
+Kapell avait recherché des relaxants musculaires potentiels
+pendant sept ans
+
+when she found that this compound had anxiety-reducing effects.
+lorsqu'elle a découvert que ce composé avait des effets anxiolytiques.
+
+A few years later, the discovery of diazepam
+followed.
+Quelques années plus tard, la découverte du diazépam a
+suivi.
+
+These drugs quickly became popular because
+they reduce anxiety and tension
+Ces médicaments sont rapidement devenus populaires car
+ils réduisent l'anxiété et la tension
+
+without the “knock-out” effect of something like chloral
+hydrate.
+sans l'effet « knock-out » de quelque chose comme l'
+hydrate de chloral.
+
+These days doctors are increasingly cautious
+about prescribing them,
+De nos jours, les médecins sont de plus en plus prudents
+quant à leur prescription,
+
+because they’re habit-forming, cause respiratory
+depression,
+car ils créent une accoutumance, provoquent une
+dépression respiratoire
+
+and long-term use is associated with cognitive impairment.
+et une utilisation à long terme est associée à des troubles cognitifs.
+
+However, despite its complicated medical history,
+diazepam is a useful example for carbonyl chemistry.
+Cependant, malgré ses antécédents médicaux compliqués, le
+diazépam est un exemple utile pour la chimie du carbonyle.
+
+Let’s focus on one part of its synthesis,
+involving the top bit of the molecule with the chloroacetate.
+Concentrons-nous sur une partie de sa synthèse,
+impliquant la partie supérieure de la molécule avec le chloroacétate.
+
+A likely mechanism starts with the carbon
+attached to the chlorine being attacked by nucleophilic ammonia,
+Un mécanisme probable commence par l'attaque du carbone
+attaché au chlore par l'ammoniac nucléophile,
+
+replacing the chlorine with NH2 in an SN2
+reaction.
+remplaçant le chlore par NH2 dans une
+réaction SN2.
+
+After that, you’ll notice, we have an amine
+nice and close to a carbonyl group!
+Après cela, vous remarquerez que nous avons une amine
+agréable et proche d'un groupe carbonyle !
+
+That carbonyl group is irresistible to the
+nucleophilic nitrogen, and it attacks,
+Ce groupe carbonyle est irrésistible à l'
+azote nucléophile, et il attaque,
+
+forming the imine that is part of diazepam.
+formant l'imine qui fait partie du diazépam.
+
+This intramolecular reaction closes the seven-membered
+ring that's a signature part of this family of medicines.
+Cette réaction intramoléculaire ferme l'
+anneau à sept chaînons qui fait partie de la signature de cette famille de médicaments.
+
+Overall, in this episode we’ve learned that:
+Dans l'ensemble, dans cet épisode, nous avons appris que :
+
+Aldehydes can form hydrates in water, and
+formalin is a particularly important example
+Les aldéhydes peuvent former des hydrates dans l'eau, et le
+formol en est un exemple particulièrement important
+
+The two anomers of the hemiacetal form of glucose are connected by a reversible reaction between aldehyde and alcohol groups
+Les deux anomères de la forme hémiacétale du glucose sont liés par une réaction réversible entre les groupes aldéhyde et alcool Les
+
+Acetals can be a useful way to protect carbonyl
+groups in longer syntheses
+acétals peuvent être utiles  moyen de protéger les
+groupes carbonyle dans des synthèses plus longues
+
+And imines and enamines can be formed from
+aldehydes and ketones
+Et les imines et les énamines peuvent être formées à partir d'
+aldéhydes et de cétones
+
+That’s it for aldehydes and ketones for
+now,
+C'est tout pour les aldéhydes et les cétones pour le
+moment,
+
+but we definitely haven’t seen the end of these important functional groups –
+mais nous n'avons certainement pas vu la fin de ces groupes fonctionnels importants -
+
+they’ll pop back up here and there!
+ils réapparaîtront ici  et là! 
+
+Next episode we’ll explore another kind
+of carbonyl-containing chemical: the carboxylic acid.
+Dans le prochain épisode, nous explorerons un autre type
+de produit chimique contenant du carbonyle : l'acide carboxylique.
+
+Until then, thanks for watching this episode
+of Crash Course Organic Chemistry.
+En attendant, merci d'avoir regardé cet épisode
+de Crash Course Organic Chemistry.
+
+If you want to help keep all Crash Course
+free for everybody, forever,
+Si vous voulez aider à garder tous les cours intensifs
+gratuits pour tout le monde, pour toujours,
+
+you can join our community on Patreon.
+vous pouvez rejoindre notre communauté sur Patreon.
+

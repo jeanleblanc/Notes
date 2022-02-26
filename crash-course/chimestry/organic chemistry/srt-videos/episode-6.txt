@@ -1,0 +1,288 @@
+You can review content from Crash Course Organic Chemistry with the Crash Course app, available now for Android and iOS devices.
+
+Hi!
+
+I’m Deboki Chakravarti and welcome back to Crash Course Organic Chemistry!
+
+People light candles for lots of reasons, for holidays, soft lighting, a relaxing scent…
+
+but have you ever wondered what’s in the smoke of a candle when you blow it out?
+
+To be honest, I didn’t really think about it until I saw this trick.
+
+These jumping flames are called Faraday’s candle tricks after the British physicist Michael Faraday.
+
+He studied electrochemistry and electromagnetism, and was a huge fan of candle science.
+
+Seriously.
+
+In 1860, he wrote and delivered a series of six lectures about the candle.
+
+All candles work the same way: a wick runs through the center of some wax.
+
+When the wick is lit, it warms the wax until it melts.
+
+And then the liquid wax moves up the wick by a process called capillary action.
+
+By the time the liquid wax reaches the flame, it’s hot enough to become a gas and burn.
+
+This wax vapor lets us do Faraday’s jumping candle trick, because we can reignite it mid-air!
+
+All this wouldn’t be possible without alkanes, the organic compounds full of single-bonded carbons that make up candle wax.
+
+Besides that, alkanes also help heat our houses, move our cars, and even drive our economy.
+
+So let’s take a closer look at where we get them and how we think about them structurally.
+
+[Theme Music]
+
+Alkanes are hydrogen atoms bonded to chains or rings of sp3 hybridized carbons.
+
+If you remember from episode 4, that means a tetrahedral carbon with four single bonds.
+
+But even though I was just playing with fire, alkanes are kind of the wallflower of the organic molecules.
+
+They aren’t very reactive, they’re not acidic or basic, and they don’t contain any functional groups.
+
+They’re nonpolar and hydrophobic, which means they won’t mix with water and float on top instead.
+
+Like oil!
+
+In fact, the main source of alkanes is fossil fuels, especially petroleum or crude oil.
+
+Crude oil is mostly alkanes, with some aromatic compounds, and a few other compounds with heteroatoms like oxygen, nitrogen, and sulfur.
+
+The price of crude oil is a serious indicator of the health of our economy.
+
+Who would have thought that the wallflowers of organic chemistry would have such a worldwide  impact!
+
+To extract different chemical compounds from crude oil, we gradually warm it to drive off molecules with lower boiling points.
+
+The process of separating these compounds is called distillation, and the liquid mixtures collected at each temperature are called fractions.
+
+From crude oil, the lightest fraction is called petroleum gas and boils under 30 degrees Celsius.
+
+It has molecules with 2 to 4 carbons in their chains.
+
+Some of us heat our homes with petroleum gas, and it’s where we get propane gas for gas grills.
+
+The middle fractions include the octane and iso-octane that we use to power cars, trucks,
+
+motorcycles, lawnmowers, go-karts, and pretty much any motorized thing that uses gasoline.
+
+The highest boiling fraction, with a boiling point above 450 degrees Celsius, is the paraffin waxes.
+
+They usually have 25 to 75 carbons in their chains, and make up candles.
+
+And the residue that doesn’t boil off is what we use to pave our roads.
+
+Asphalt!
+
+The simplicity and abundance of alkanes makes them a great starting place to learn more about the structure of organic molecules.
+
+Especially when it comes to free rotation.
+
+The molecule ethane is basically two methyl groups, and they can rotate almost freely around the single bond.
+
+As the adjacent carbons spin, the attached groups can have different arrangements in relation to each other, called conformations.
+
+A specific conformation is called a conformer, which is derived from the words conformation and isomer.
+
+It’s easiest to think about conformers in 3D space.
+
+So if we look down the carbon-to-carbon bond of ethane, we can see the hydrogens sticking out.
+
+As the bond rotates, they can line up or not.
+
+To visualize this on paper, we can use a Newman projection.
+
+It’s a 2D drawing that lets us look straight down the bond that connects two atoms and visualize how the attached groups line up.
+
+So with ethane, the carbon closest to us is represented by the black dot at the center of the three black lines 120 degrees apart, which represent bonds to hydrogens.
+
+The carbon furthest from us and its hydrogens are represented by the blue circle and the blue lines.
+
+The angle between the hydrogens on the adjacent carbons is called the dihedral angle.
+
+In our drawing, it’s the angle between H1 and H2.
+
+If the angle between H1 and H2 is 0 degrees, so they’re perfectly lined up, it’s called an eclipsed conformer.
+
+It’s kind of like a solar eclipse, when the sun is completely blocked by the moon.
+
+The back hydrogens are blocked by the front hydrogens.
+
+If the angle between H1 and H2 is 60 degrees, that’s the furthest they can get from each other, and it’s called a staggered conformer.
+
+Any other angle between 0 and 60 degrees is a skew conformer.
+
+We care about dihedral angles because some conformers have higher energy than others.
+
+And higher energy means it’s less stable.
+
+Specifically, the energy we’re talking about is torsional energy, the resistance to twisting, also known as torsional strain.
+
+Torsional energy is associated with interactions of electrons in the bonds.
+
+A good way to understand how conformations relate to torsional energy is imagining the hydrogens like seats in a theater.
+
+I’m short.
+
+I don’t want someone tall to sit directly in front of me, because that causes stress for me.
+
+An eclipsed conformation of seats, with one seat directly behind the other, feels more crowded and uncomfortable.
+
+So the people (or hydrogens) sitting there are at a higher energy level.
+
+On the other hand, if the seats are in a staggered conformation, I get to peek out between the two people in front of me.
+
+My view is clearer, so I (or the hydrogens) have lower stress and am at a lower energy level.
+
+Overall, as the conformation changes from staggered to eclipsed, there’s a resistance to going to the higher-energy state and increasing torsional strain.
+
+Kind of like being forced to move over a seat so you’re stuck behind someone and you can’t see well anymore.
+
+Now, ethane is pretty simple because it’s just two carbons and six hydrogens.
+
+But every alkane and their groups can move into different conformations.
+
+Let’s look at butane, for example.
+
+We often call butane a straight carbon chain because there are no branches.
+
+But really the carbon atoms make a sort of zig-zag shape with 109.5 degree angles between every other one.
+
+We have a couple tricks to imply 3D structure in a 2D drawing.
+
+The solid wedges mean that the group is coming out of the screen at us, the dashes mean that the group is pointing into the screen, and the regular lines are in the plane of the screen.
+
+When we look straight down the bond that connects the middle two atoms in butane, a Newman projection can help us visualize how the rest of the molecule lines up.
+
+In this case, each carbon has two hydrogens but also one methyl group, because butane is a four-carbon chain.
+
+Because we have a chunky methyl group on the front and back carbons, as the groups spin around into different conformations, there’s more crowding.
+
+Imagine a tall person wearing a huge fancy hat in a theater.
+
+Rude.
+
+So there’s more stress, higher energy, and more steric hindrance between the groups, which just means they’re crowded so it’s harder to move.
+
+Now that we’ve moved beyond just hydrogens, we need to communicate how those methyls are positioned.
+
+So we’ll need more names for our conformers.
+
+When the two methyl groups are perfectly lined up, we call that the totally eclipsed conformer.
+
+Using the same analogy, it’s like one tall person with a hat sitting behind another tall person with a hat.
+
+That’s really stressful!
+
+So this is the highest energy conformer of butane and has the most torsional strain.
+
+To learn the rest of the conformer names, we’ll rotate the front carbon groups 30 degrees at a time, skipping over the skew conformations.
+
+Sorry, skew conformations.
+
+We already know what you’re called.
+
+When the methyl groups are separated by 60 degrees from each other, this staggered conformation is called the gauche conformer.
+
+It’s like one tall person with a hat sitting staggered behind another.
+
+It’s not very stressful, but the hat of the front person can still kind of block the other.
+
+It doesn’t have as much torsional strain though and is relatively low energy.
+
+When there’s an eclipsed conformation with a methyl group overlapping with a hydrogen, it’s called an eclipsed conformer.
+
+It isn’t quite as crowded as a totally eclipsed conformer, sort of like a shorter person, me, sitting directly in front of a tall person with a hat, blocking some of their view.
+
+It’s still higher stress and therefore higher energy than any staggered conformation.
+
+Finally, the anti conformer is when the two methyl groups are 180 degrees from each other in a staggered conformation.
+
+This is like two tall people with hats giving each other plenty of space in a theater, so it’s the lowest stress and lowest energy conformer.
+
+Any alkane that’s a chain of single-bonded carbons, from ethane to dodecane and beyond, can rotate around any single bond created by two carbons.
+
+But that’s not true for all alkanes.
+
+Cycloalkanes are single-bonded carbons that form rings.
+
+So when we name these compounds, we stick a cyclo- prefix in front.
+
+Everything else about nomenclature stays the same, though, like counting the longest chain of carbons and giving it a root name.
+
+Cycloalkanes come in many sizes.
+
+For example, the smallest is cyclopropane, which has three single-bonded carbons and looks like a triangle.
+
+But the most common are cyclopentane, which looks like a pentagon, and cyclohexane, which looks like --
+
+you’ll never guess -- a hexagon.
+
+Cycloalkanes have some special energy and strain considerations that Newman projections help us to see.
+
+They have torsional strain, just like we’ve been talking about.
+
+But they also have angular strain, caused by anything that strays from the ideal 109.5 degrees for sp3 hybridized carbons.
+
+For example, cyclobutane basically looks like a square, which would give it 90 degree carbon-to-carbon angles.
+
+And when we look at its Newman projection, all the hydrogens are overlapping in an eclipsed conformation.
+
+So lots of torsional strain and lots of angular strain.
+
+The combination of angular strain and torsional strain is called ring strain.
+
+We’ll discover that smaller cycloalkanes have more ring strain than larger ones, which makes them much less stable and much more reactive.
+
+But there’s one more thing: cyclobutane isn’t actually completely flat.
+
+It has ring puckering.
+
+Two carbons sort of lean in toward the center of the molecule, like folding a piece of bread diagonally.
+
+This butterfly conformation lowers the torsional strain a bit.
+
+Many cycloalkanes relieve stress with ring pucker.
+
+In fact, in cyclohexane, the puckering is so effective that it’s considered strain-free.
+
+But we’ll get to that next time.
+
+Conformations are really important to molecule stability, but also the speed, efficiency, and products of chemical reactions.
+
+Some reactions can only happen if a molecule is in a certain conformation, like a drug fitting into the active site of an enzyme.
+
+Think of it this way:
+
+If a molecule is stuck in the wrong conformer, it can be like sticking your hand into a cookie jar
+
+and realizing you can’t grab five cookies at once and still get your hand out.
+
+You’ll need to drop some and change the hand-cookie shape to get unstuck.
+
+Molecules are the same way, they need to have the right shape to react!
+
+So alkanes are more than just couch potatoes and candle tricks.
+
+They can teach us about things like conformations and will help us understand their more complicated molecular cousins later!
+
+In this episode, we learned about:
+
+How alkanes are separated from crude oil,
+
+How to draw a Newman projection and use it to predict torsional strain and steric hindrance,
+
+The names of common conformers,
+
+And an introduction to cycloalkanes.
+
+Next time, we’ll spend more time with cycloalkanes, and especially cyclohexane.
+
+Thanks for watching this episode of Crash Course Organic Chemistry.
+
+If you want to help keep all Crash Course free for everybody, forever, you can join our community on Patreon.
+

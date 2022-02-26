@@ -1,0 +1,671 @@
+You can review content from Crash Course Organic
+Chemistry with the Crash Course app,
+Vous pouvez consulter le contenu de Crash Course Organic
+Chemistry avec l'application Crash Course,
+
+available now for Android and iOS devices.
+disponible dès maintenant pour les appareils Android et iOS.
+
+Hi!
+Salut! 
+
+I’m Deboki Chakravarti and welcome to Crash
+Course Organic Chemistry!
+Je suis Deboki Chakravarti et bienvenue au cours intensif de
+chimie organique !
+
+And to my home.
+Et chez moi.
+
+Where we’re filming now because of the pandemic.
+Où nous tournons maintenant à cause de la pandémie.
+
+When your fancy clothes say "DRY CLEAN ONLY,"
+maybe you just… never wash them.
+Lorsque vos vêtements chics disent « NETTOYAGE À SEC UNIQUEMENT »,
+peut-être que vous… ne les lavez jamais.
+
+When I was little, I thought dry cleaners dusted laundry detergent on clothes and then just ran them through a machine to get rid of the powder.
+Quand j'étais petite, je pensais que les nettoyeurs à sec saupoudraient du détergent à lessive sur les vêtements, puis les faisaient simplement passer dans une machine pour se débarrasser de la poudre.
+
+Dry cleaning isn’t actually dry though,
+it’s just using a liquid other than water to wash dirt away.
+Cependant, le nettoyage à sec n'est pas réellement sec,
+il utilise simplement un liquide autre que l'eau pour éliminer la saleté.
+
+The most common liquid is tetrachloroethylene,
+also called perchloroethylene or perc for short.
+Le liquide le plus courant est le tétrachloroéthylène,
+également appelé perchloroéthylène ou perc en abrégé.
+
+But dry cleaning, like everything, comes with
+accidents.
+Mais le nettoyage à sec, comme tout, vient avec des
+accidents.
+
+And unlike a water spillage, a perc spillage
+can be harmful to the environment.
+Et contrairement à un déversement d'eau, un déversement de perc
+peut être nocif pour l'environnement.
+
+We don't have a great way to clean up perc
+chemical spills right now,
+Nous n'avons pas un excellent moyen de nettoyer
+les déversements de produits chimiques perc en ce moment
+
+so we may need to get creative.
+, nous devrons donc peut-être faire preuve de créativité.
+
+Industrial plants use some species of soil
+bacteria to clean up waste products like 1,2-dichloroethane.
+Les usines industrielles utilisent certaines espèces de bactéries du sol
+pour nettoyer les déchets comme le 1,2-dichloroéthane.
+
+These bacteria have an enzyme that removes
+the halogens through SN2 reactions,
+Ces bactéries ont une enzyme qui élimine
+les halogènes par des réactions SN2, les
+
+replacing them with more palatable alcohols.
+remplaçant par des alcools plus agréables au goût.
+
+So the waste chemicals can be eaten by bacteria, processed, and even reused in things like plastic manufacturing.
+Ainsi, les déchets chimiques peuvent être mangés par des bactéries, transformés et même réutilisés dans des choses comme la fabrication de plastique.
+
+Perc’s double bond makes it unable to do
+an SN2 reaction, so it’s a challenging compound for bioremediation.
+La double liaison de Perc le rend incapable de faire
+une réaction SN2, c'est donc un composé difficile pour la bioremédiation.
+
+But maybe someday, chemists, and hungry bacteria,
+could help with this pollution.
+Mais peut-être qu'un jour, les chimistes et les bactéries affamées
+pourraient contribuer à cette pollution.
+
+For now, let’s dive deeper into SN1 and SN2 reactions to find out how substrate structure and other reaction conditions can help us pick a likely mechanism.
+Pour l'instant, approfondissons les réactions SN1 et SN2 pour découvrir comment la structure du substrat et d'autres conditions de réaction peuvent nous aider à choisir un mécanisme probable.
+
+[Theme Music]
+[Thème musical]
+
+In episode 20, we learned about SN1 and SN2
+pathways for substitution reactions.
+Dans l'épisode 20, nous avons découvert les voies SN1 et SN2
+pour les réactions de substitution.
+
+Being able to figure out which one takes place
+will let us predict the correct reaction products.
+Être capable de déterminer lequel a lieu
+nous permettra de prédire les bons produits de réaction.
+
+Remember, SN1 has a carbocation intermediate and results in a mixture of stereoisomers if a chiral center is reacting.
+Rappelez-vous que SN1 a un carbocation intermédiaire et donne un mélange de stéréoisomères si un centre chiral réagit.
+
+The SN2 mechanism is a concerted process and
+gives inverted stereochemistry at a reacting chiral center.
+Le mécanisme SN2 est un processus concerté et
+donne une stéréochimie inversée au niveau d'un centre chiral réactif.
+
+There are three key players in our substitution
+reaction dance or merry-go-round or whatever visual you like:
+Il y a trois acteurs clés dans notre
+danse de réaction de substitution ou manège ou tout autre visuel que vous aimez :
+
+An sp3 hybridized carbon substrate, a leaving group that can accept electrons as it departs from the molecule, and a nucleophile:
+un substrat de carbone hybride sp3, un groupe partant qui peut accepter des électrons lorsqu'il s'écarte de la molécule, et un nucléophile :
+
+something with a lone pair or pi bond.
+quelque chose avec un seul  paire ou liaison pi.
+
+Recognizing good leaving groups can help us
+determine if a substitution reaction can take place.
+Reconnaître les bons groupes partants peut nous aider à
+déterminer si une réaction de substitution peut avoir lieu.
+
+For example, weak bases with strong conjugate
+acids are good leaving groups.
+Par exemple, les bases faibles avec des
+acides conjugués forts sont de bons groupes partants.
+
+Weak bases are happy to float around by themselves
+in solution as anions.
+Les bases faibles sont heureuses de flotter d'elles-mêmes
+en solution sous forme d'anions.
+
+Most halides fall into this category, because
+the pKas for HCl, HI, and HBr are big negative numbers.
+La plupart des halogénures entrent dans cette catégorie, car
+les pKa pour HCl, HI et HBr sont de grands nombres négatifs.
+
+Other good leaving groups are sulfonates,
+compounds that come from acids with negative pKa values.
+D'autres bons groupes partants sont les sulfonates, des
+composés qui proviennent d'acides avec des valeurs de pKa négatives.
+
+They're big molecules, their electrons are
+spread out and stabilized by multiple resonance structures, 
+Ce sont de grosses molécules, leurs électrons sont
+répartis et stabilisés par de multiples structures de résonance,
+
+and they have special non-IUPAC
+names like tosylate, mesylate, and triflate.
+et ils ont des noms spéciaux non IUPAC
+comme tosylate, mésylate et triflate.
+
+If the group we want to leave doesn’t want
+to let go of the carbon chain, substitution does not happen.
+Si le groupe que nous voulons quitter ne veut
+pas lâcher la chaîne carbonée, la substitution ne se produit pas.
+
+We call these poor leaving groups.
+Nous appelons ces pauvres groupes de départ.
+
+Poor leaving groups tend to be strong bases,
+which are less stable than weak bases out on their own in solution.
+Les groupes partants pauvres ont tendance à être des bases fortes,
+qui sont moins stables que les bases faibles isolées en solution.
+
+Examples of poor leaving groups include hydroxide,
+N-H-2-minus, C-H-3-minus, and hydride,
+Des exemples de mauvais groupes partants comprennent l'hydroxyde, le
+NH-2-moins, le CH-3-moins et l'hydrure,
+
+all with weak conjugate acids that have pKas above 12.
+tous avec des acides conjugués faibles qui ont un pKa supérieur à 12.
+
+However, sometimes we can turn a poor leaving
+group into a good one and entice it to leave by protonating it.
+Cependant, nous pouvons parfois transformer un mauvais
+groupe partant en un bon et attirer  de le quitter en le protonant.
+
+Sort of like offering your friend candy to
+give you their spot on the SN1 merry-go-round.
+Un peu comme offrir à votre ami des bonbons pour
+vous donner sa place sur le manège SN1.
+
+So, like I just said, hydroxide is a poor
+leaving group.
+Donc, comme je viens de le dire, l'hydroxyde est un mauvais
+groupe partant.
+
+But if we add a proton to it, the leaving
+group changes to water,
+Mais si nous y ajoutons un proton, le
+groupe partant se transforme en eau,
+
+which is happy to swim away in solution, leave behind a carbocation, and get substituted by a nucleophilic bromide.
+qui est heureuse de nager dans la solution, de laisser un carbocation et d'être remplacé par un bromure nucléophile.
+
+We need a good leaving group for both SN1
+and SN2 to happen.
+Nous avons besoin d'un bon groupe de départ pour que SN1
+et SN2 se produisent.
+
+But in organic chemistry, we’ll often be asked to choose which mechanism is more likely for a given substitution reaction.
+Mais en chimie organique, on nous demandera souvent de choisir quel mécanisme est le plus probable pour une réaction de substitution donnée.
+
+So, let’s look at three key factors that
+can help us decide whether to do SN1 or SN2.
+Examinons donc trois facteurs clés qui
+peuvent nous aider à décider de faire SN1 ou SN2.
+
+The first, and most important, factor is the
+structure of the substrate.
+Le premier facteur, et le plus important, est la
+structure du substrat.
+
+Substrates with leaving groups on primary
+carbons use SN2.
+Les substrats avec des groupes partants sur les
+carbones primaires utilisent SN2.
+
+Substrates with leaving groups on secondary
+carbons can use SN1 or SN2.
+Les substrats avec des groupes partants sur des
+carbones secondaires peuvent utiliser SN1 ou SN2.
+
+And substrates with leaving groups on tertiary
+carbons use exclusively SN1.
+Et les substrats avec des groupes partants sur des
+carbones tertiaires utilisent exclusivement SN1.
+
+These guidelines will work for most molecules
+you'll come across in organic chemistry,
+Ces directives fonctionneront pour la plupart des molécules
+que vous rencontrerez en chimie organique,
+
+but there are important exceptions.
+mais il existe des exceptions importantes.
+
+For one, this neopentyl primary substrate
+won’t do an SN2 mechanism very smoothly.
+D'une part, ce substrat primaire de néopentyle
+ne fera pas un mécanisme SN2 très facilement.
+
+Our leaving group is one carbon away from
+a sterically hindered tertiary carbon,
+Notre groupe partant est à un carbone d'
+un carbone tertiaire à encombrement stérique,
+
+so backside attack is really tough and the reaction
+is too slow to be practical.
+donc l'attaque arrière est vraiment difficile et la réaction
+est trop lente pour être pratique.
+
+We also have substrates like perc, chloroethene,
+or chlorobenzene,
+Nous avons également des substrats comme le perc, le chloroéthène
+ou le chlorobenzène,
+
+where the leaving group is directly attached to a double bond.
+où le groupe partant est directement attaché à une double liaison.
+
+Substitution by SN1 or SN2 doesn’t happen
+at all.
+La substitution par SN1 ou SN2 ne se produit pas
+du tout.
+
+The sp2 geometry is all wrong for SN2 backside
+attack, and SN1 is pretty unfavorable too,
+La géométrie sp2 est totalement erronée pour l'attaque arrière SN2
+, et SN1 est également assez défavorable,
+
+because the vinyl or phenyl carbocations that
+would have to form are high-energy.
+car les carbocations de vinyle ou de phényle qui
+devraient se former sont à haute énergie.
+
+And then, we have substrates with allylic
+and benzylic leaving groups:
+Et puis, nous avons des substrats avec des
+groupes partants allyliques et benzyliques :
+
+a leaving group that's one sp3 carbon atom away from a double bond.
+un groupe partant qui est à un atome de carbone sp3 d'une double liaison.
+
+They use both SN1 and SN2 reaction mechanisms.
+Ils utilisent à la fois les mécanismes de réaction SN1 et SN2.
+
+Looking at one of these compounds, we might say, "oh, there's a leaving group on a primary carbon, so it’s gotta be an SN2 mechanism."
+En regardant l'un de ces composés, nous pourrions dire, "oh, il y a un groupe partant sur un carbone primaire, donc ça doit être un mécanisme SN2."
+
+But depending on reaction conditions, like
+if there's an excellent leaving group,
+Mais selon les conditions de réaction, comme
+s'il existe un excellent groupe partant,
+
+a carbocation can form because it's resonance-stabilized.
+un carbocation peut se former car il est stabilisé par résonance.
+
+That's the first step of an SN1 mechanism!
+C'est la première étape d'un mécanisme SN1 !
+
+This resonance-stabilization of an intermediate
+cation is what makes allylic and benzylic substrates special.
+Cette stabilisation de la résonance d'un
+cation intermédiaire est ce qui rend les substrats allyliques et benzyliques spéciaux.
+
+It also makes things even more complicated
+for allylic substrates.
+Cela rend également les choses encore plus compliquées
+pour les substrats allyliques.
+
+If a reaction proceeds by an SN1 mechanism, the two resonance forms of the carbocation intermediate can lead to a mixture of constitutional isomers as products.
+Si une réaction se déroule selon un mécanisme SN1, les deux formes de résonance de l'intermédiaire carbocation peuvent conduire à un mélange d'isomères constitutionnels en tant que produits.
+
+On the other hand, benzylic substrates only
+give one substitution product because they don’t react on the benzene ring.
+En revanche, les substrats benzyliques ne
+donnent qu'un seul produit de substitution car ils ne réagissent pas sur le cycle benzénique.
+
+After the structure of the substrate, the second key to picking a path is the role of the nucleophile.
+Après la structure du substrat, la deuxième clé pour choisir un chemin est le rôle du nucléophile.
+
+The nucleophile in an SN2 reaction is an active
+participant in the rate-determining step.
+Le nucléophile dans une réaction SN2 est un
+participant actif dans l'étape de détermination de la vitesse.
+
+In our merry-go-round analogy, they were the
+playground bully who pushed someone off rather than waiting for them to leave.
+Dans notre analogie avec le manège, ils étaient l'
+intimidateur du terrain de jeu qui repoussait quelqu'un plutôt que d'attendre qu'il parte.
+
+Nucleophilicity is a term to describe just
+how pushy the nucleophile’s behavior is.
+La nucléophilie est un terme pour décrire à
+quel point le comportement du nucléophile est agressif.
+
+Atom size plays a key role in nucleophile
+strength.
+La taille des atomes joue un rôle clé dans la
+force nucléophile.
+
+The more polarizable the atom, the easier
+it is to get those electrons to attack and make a new bond.
+Plus l'atome est polarisable, plus
+il est facile d'amener ces électrons à attaquer et à créer une nouvelle liaison.
+
+So nucleophilicity increases moving down a
+group on the periodic table.
+Ainsi, la nucléophilie augmente en descendant d'un
+groupe sur le tableau périodique.
+
+Halogens, which we talked about as good leaving
+groups, are also good nucleophiles.
+Les halogènes, dont nous avons parlé comme de bons
+groupes partants, sont également de bons nucléophiles.
+
+And really strong nucleophiles are often charged, so thiolates, hydroxide, and alkoxides are all examples of strong bullies…
+Et les nucléophiles très puissants sont souvent chargés, de sorte que les thiolates, les hydroxydes et les alcoxydes sont tous des exemples de puissants intimidateurs…
+
+or nucleophiles… that use SN2 mechanisms.
+ou nucléophiles… qui utilisent les mécanismes SN2.
+
+However, compounds like methanol, acetic acid,
+water, and other alcohols are relatively weak nucleophiles.
+Cependant, des composés comme le méthanol, l'acide acétique, l'
+eau et d'autres alcools sont des nucléophiles relativement faibles.
+
+Even with lone pairs on an oxygen atom, these molecules are uncharged and are less nucleophilic than their deprotonated cousins.
+Même avec des paires isolées sur un atome d'oxygène, ces molécules ne sont pas chargées et sont moins nucléophiles que leurs cousines déprotonées.
+
+They patiently wait to hop on the merry-go-round,
+and are more likely to promote an SN1 reaction.
+Ils attendent patiemment de sauter sur le manège
+et sont plus susceptibles de favoriser une réaction SN1.
+
+And chunky sulfonates, which are good leaving
+groups, are very poor nucleophiles.
+Et les gros sulfonates, qui sont de bons
+groupes partants, sont de très mauvais nucléophiles.
+
+Their electrons are tied up in resonance,
+not available to attack and make new bonds to a substrate.
+Leurs électrons sont liés en résonance,
+non disponibles pour attaquer et créer de nouvelles liaisons avec un substrat.
+
+Our third and final key to help us decide
+between an SN1 and SN2 mechanism is the solvent.
+Notre troisième et dernière clé pour nous aider à choisir
+entre un mécanisme SN1 et SN2 est le solvant.
+
+Solvents are usually liquids that are able
+to dissolve other things,
+Les solvants sont généralement des liquides capables
+de dissoudre d'autres choses,
+
+like how perc dissolves clothing grime in dry cleaning and water dissolves table salt.
+comme la façon dont le perc dissout la saleté des vêtements lors du nettoyage à sec et l'eau dissout le sel de table.
+
+There are two classes of solvents we need
+to consider in substitution reactions:
+Il existe deux classes de solvants
+à prendre en compte dans les réactions de substitution :
+
+polar protic and polar aprotic.
+polaire protique et polaire aprotique.
+
+Polar protic solvents, like water and ethanol,
+both have a proton on an electronegative atom.
+Les solvants protiques polaires, comme l'eau et l'éthanol,
+ont tous deux un proton sur un atome électronégatif.
+
+This type of polar bond with a proton lets
+them hydrogen bond to both cations and anions.
+Ce type de liaison polaire avec un proton
+leur permet une liaison hydrogène à la fois avec des cations et des anions.
+
+This is good for SN1 mechanisms because the
+rate-determining step is the substrate breaking up into ions.
+Ceci est bon pour les mécanismes SN1 car l'
+étape déterminant la vitesse est la décomposition du substrat en ions.
+
+So polar protic solvents favor the SN1 mechanism.
+Les solvants protiques polaires favorisent donc le mécanisme SN1.
+
+On the other hand, in an SN2 reaction, we need the nucleophile to be really available to push out the leaving group in the rate-determining step.
+D'autre part, dans une réaction SN2, nous avons besoin que le nucléophile soit vraiment disponible pour expulser le groupe partant dans l'étape déterminant la vitesse.
+
+If our nucleophile is tied up by the solvent,
+it loses its pushing power and becomes weaker.
+Si notre nucléophile est lié par le solvant,
+il perd son pouvoir de poussée et s'affaiblit.
+
+So a polar aprotic solvent, which has no available
+hydrogens, can't hydrogen bond to our nucleophile.
+Ainsi, un solvant aprotique polaire, qui n'a pas d'
+hydrogènes disponibles, ne peut pas se lier d'hydrogène à notre nucléophile.
+
+And an SN2 reaction is favored.
+Et une réaction SN2 est favorisée.
+
+Polar aprotic solvents have atoms like oxygen or nitrogen with a partial negative charge, and a polar bond, just not to a hydrogen atom.
+Les solvants aprotiques polaires ont des atomes comme l'oxygène ou l'azote avec une charge négative partielle et une liaison polaire, mais pas avec un atome d'hydrogène.
+
+The polar bonds help these solvents dissolve
+organic compounds and the ionic nucleophiles often used in SN2 reactions.
+Les liaisons polaires aident ces solvants à dissoudre
+les composés organiques et les nucléophiles ioniques souvent utilisés dans les réactions SN2.
+
+Some examples of polar aprotic solvents are
+acetone, dimethylformamide, and dimethylsulfoxide, or DMSO.
+Quelques exemples de solvants aprotiques polaires sont l'
+acétone, le diméthylformamide et le diméthylsulfoxyde ou DMSO.
+
+I'm gonna be honest, evaluating these key reaction conditions can feel complicated, but here's a trick we can use:
+Je vais être honnête, évaluer ces conditions de réaction clés peut sembler compliqué, mais voici une astuce que nous pouvons utiliser : les
+
+Weak nucleophiles are often polar protic solvents
+and favor SN1.
+nucléophiles faibles sont souvent des solvants protiques polaires
+et favorisent SN1.
+
+Since they're protic, the reaction is carried
+out under acidic conditions or generates a molecule of acid as a byproduct.
+Comme ils sont protiques, la réaction s'effectue
+dans des conditions acides ou génère une molécule d'acide comme sous-produit.
+
+So, when we see acid as a reactant or product,
+think SN1.
+Ainsi, lorsque nous considérons l'acide comme un réactif ou un produit,
+pensez SN1.
+
+And on the flip side, reactions that take
+place under neutral or basic conditions tend to favor SN2!
+Et d'un autre côté, les réactions qui se
+déroulent dans des conditions neutres ou basiques ont tendance à favoriser SN2 !
+
+We can summarize all we’ve learned by adding
+different types of nucleophiles to the table we started in episode 20:
+Nous pouvons résumer tout ce que nous avons appris en ajoutant
+différents types de nucléophiles au tableau que nous avons commencé dans l'épisode 20 :
+
+Like I've mentioned over and over again, the best way to learn reaction mechanisms in organic chemistry is to practice.
+Comme je l'ai mentionné à maintes reprises, la meilleure façon d'apprendre les mécanismes de réaction en chimie organique est de pratiquer.
+
+So let's do some rapid fire problems.
+Faisons donc quelques problèmes de tir rapide.
+
+We’re going to put four substitution problems
+on screen and predict the likely mechanism and the products.
+Nous allons mettre
+à l'écran quatre problèmes de substitution et prédire le mécanisme probable et les produits.
+
+Then, we'll work through the answers, so pause
+right after the question if you want to solve them yourself.
+Ensuite, nous travaillerons sur les réponses, alors
+faites une pause juste après la question si vous voulez les résoudre vous-même.
+
+Ready?
+Prêt? 
+
+Here's the first problem, a reaction between
+a tosylate and sodium benzenethiolate, carried out in the solvent DMF:
+Voici le premier problème, une réaction entre
+un tosylate et du benzènethiolate de sodium, réalisée dans le solvant DMF :
+
+We have a secondary substrate with an excellent
+leaving group, so there's no definitive answer there.
+Nous avons un substrat secondaire avec un excellent
+groupe partant, il n'y a donc pas de réponse définitive.
+
+Our nucleophile is the real deciding factor:
+Notre nucléophile est le véritable facteur décisif :
+
+we have sulfur, with a negative charge on
+a large atom.
+nous avons du soufre, avec une charge négative sur
+un gros atome.
+
+So it's a strong nucleophile – a playground
+bully.
+C'est donc un puissant nucléophile - un tyran de terrain de jeu
+.
+
+This reaction is SN2, which gives us the inversion
+of stereochemistry in our product.
+Cette réaction est SN2, ce qui nous donne l'inversion
+de la stéréochimie dans notre produit.
+
+Here's the second problem, a reaction between
+an alcohol and hydrochloric acid:
+Voici le deuxième problème, une réaction entre
+un alcool et de l'acide chlorhydrique :
+
+First of all, hydroxide is a poor leaving
+group… but remember!
+Tout d'abord, l'hydroxyde est un mauvais
+groupe partant… mais rappelez-vous !
+
+HCl is a strong acid that dissociates into
+H-plus and Cl-minus,
+HCl est un acide fort qui se dissocie en
+H-plus et Cl-moins,
+
+so there are protons floating around that can protonate the alcohol and make it an excellent leaving group: water.
+il y a donc des protons flottants qui peuvent protoner l'alcool et en faire un excellent groupe partant : l'eau.
+
+We have two keys here:
+Nous avons ici deux clés :
+
+a good leaving group, and a tertiary substrate
+that blocks backside attacks.
+un bon groupe partant et un substrat tertiaire
+qui bloque les attaques par derrière.
+
+We get an SN1 reaction!
+Nous obtenons une réaction SN1 !
+
+This is reinforced by our little trick: there's
+acid in the reaction, so think SN1.
+Ceci est renforcé par notre petite astuce : il y a de l'
+acide dans la réaction, alors pensez SN1.
+
+The products are a mixture of the same and
+inverted stereochemistry at the reacting chiral carbon.
+Les produits sont un mélange de la même stéréochimie et d'
+une stéréochimie inversée au niveau du carbone chiral en réaction.
+
+For our third problem, how about this iodide
+reacting with acetic acid?
+Pour notre troisième problème, qu'en est-il de la réaction de cet iodure
+avec l'acide acétique ?
+
+Let’s assume acetic acid is also our solvent
+here.
+Supposons que l'acide acétique soit également notre solvant
+ici.
+
+We have a secondary substrate:
+Nous avons un substrat secondaire :
+
+a benzene ring with the leaving group separated
+from it by one sp3 carbon.
+un cycle benzénique dont le groupe partant est
+séparé par un carbone sp3.
+
+So actually, this is a benzylic substrate
+that can make a resonance-stabilized secondary carbocation.
+Donc en fait, c'est un substrat benzylique
+qui peut faire un carbocation secondaire stabilisé par résonance.
+
+That means it could do SN1 or SN2, and we
+have to look at another factor to make the final call.
+Cela signifie qu'il pourrait faire SN1 ou SN2, et nous
+devons examiner un autre facteur pour prendre la décision finale.
+
+Acetic acid is our weak nucleophile and our
+polar protic solvent.
+L'acide acétique est notre nucléophile faible et notre
+solvant protique polaire.
+
+And we clearly have acidic conditions.
+Et nous avons clairement des conditions acides.
+
+All signs point to SN1!
+Tous les signes pointent vers SN1 !
+
+Finally, our last problem, a reaction between
+a bromide and an acetylide anion:
+Enfin, notre dernier problème, une réaction entre
+un bromure et un anion acétylure :
+
+Our substrate here is a primary alkyl bromide, which rules out SN1 right away because SN1 reactions can only happen with secondary or tertiary substrates.
+Notre substrat ici est un bromure d'alkyle primaire, ce qui exclut d'emblée SN1 car les réactions SN1 ne peuvent se produire qu'avec des substrats secondaires ou tertiaires.
+
+To double-check, our nucleophile is the strongly
+basic acetylide anion and our solvent is polar aprotic.
+Pour vérifier, notre nucléophile est l'
+anion acétylure fortement basique et notre solvant est aprotique polaire.
+
+That ticks all of the boxes for an SN2 reaction!
+Cela coche toutes les cases pour une réaction SN2 !
+
+That's all we have for now, but keep practicing!
+C'est tout ce que nous avons pour l'instant, mais continuez à vous entraîner !
+
+Nucleophilic substitution reactions are some of the most common reactions in organic chemistry so we’ll see them again and again.
+Les réactions de substitution nucléophile sont parmi les réactions les plus courantes en chimie organique, nous les verrons donc encore et encore.
+
+In this episode we learned that:
+Dans cet épisode, nous avons appris que :
+
+The main determining factor of SN1 or SN2
+mechanism is the structure of the substrate
+Le principal facteur déterminant du mécanisme SN1 ou SN2
+est la structure du substrat Les
+
+Weaker nucleophiles favor SN1 while stronger
+nucleophiles favor SN2
+nucléophiles les plus faibles favorisent le SN1 tandis que les
+nucléophiles les plus forts favorisent le SN2
+
+Polar protic solvents favor SN1 while polar
+aprotic solvents favor SN2
+Les solvants protiques polaires favorisent le SN1 tandis que les
+solvants aprotiques polaires favorisent le SN2
+
+And acidic conditions characterize SN1 mechanisms,
+while neutral or basic conditions are typical of SN2
+Et les conditions acides caractérisent les mécanismes du SN1,
+tandis que  les conditions neutres ou basiques sont typiques de SN2
+
+In the next episode, we’ll add to our table
+even more as we learn about elimination reactions,
+Dans le prochain épisode, nous ajouterons encore plus à notre tableau au
+fur et à mesure que nous en apprendrons sur les réactions d'élimination,
+
+where groups are lost from the substrate.
+où des groupes sont perdus du substrat.
+
+Until then, thanks for watching this episode
+of Crash Course Organic Chemistry.
+En attendant, merci d'avoir regardé cet épisode
+de Crash Course Organic Chemistry.
+
+If you want to help keep all Crash Course
+free for everybody, forever, you can join our community on Patreon.
+Si vous voulez aider à garder tous les cours intensifs
+gratuits pour tout le monde, pour toujours, vous pouvez rejoindre notre communauté sur Patreon.
+

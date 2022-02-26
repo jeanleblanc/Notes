@@ -1,0 +1,589 @@
+Gas! It's all around you.
+It's in space. It's on Mars.
+Gaz!  C'est tout autour de vous.
+C'est dans l'espace.  C'est sur Mars.
+
+It's dissolved in your blood, and in your
+soda.
+Il est dissous dans votre sang et dans votre
+soda.
+
+It's everywhere.
+Il y en a partout. 
+
+And it's easy to forget that we're submerged in an ocean of gas, but it's there all the time.
+Et il est facile d'oublier que nous sommes submergés dans un océan de gaz, mais il est là tout le temps.
+
+You can feel it if you wave your arms around.
+Vous pouvez le sentir si vous agitez vos bras.
+
+Can't look cool while you're feeling it but
+you can feel it. It's there.
+Vous ne pouvez pas avoir l'air cool pendant que vous le ressentez, mais
+vous pouvez le sentir.  C'est là. 
+
+Those little molecules and atoms bumping around
+against your hands as you wave them around.
+Ces petites molécules et atomes se cognent
+contre vos mains lorsque vous les agitez.
+
+Feel it? Are you doing this?
+Sens le?  Faites-vous cela?
+
+I've got good news and bad news about gases.
+J'ai une bonne et une mauvaise nouvelle concernant les gaz.
+
+First the good news, when they're behaving
+themselves
+Tout d'abord, la bonne nouvelle, lorsqu'ils se comportent bien
+,
+
+it is extremely easy to describe their behavior
+theoretically, experimentally and mathematically.
+il est extrêmement facile de décrire leur comportement
+théoriquement, expérimentalement et mathématiquement.
+
+The bad news is, they almost never behave
+themselves.
+La mauvaise nouvelle, c'est qu'ils ne se comportent presque jamais
+.
+
+[Theme Music]
+[Thème musical]
+
+The first mathematical description of a behavior
+of a gas was a link between pressure and volume.
+La première description mathématique du comportement
+d'un gaz était un lien entre la pression et le volume.
+
+In a closed system like the inside of this
+balloon,
+Dans un système fermé comme l'intérieur de ce
+ballon,
+
+when we decrease the volume of the balloon
+the pressure inside goes up.
+lorsque nous diminuons le volume du ballon,
+la pression à l'intérieur augmente.
+
+And if we could somehow expand the balloon,
+then the pressure inside the balloon would go down.
+Et si nous pouvions d'une manière ou d'une autre agrandir le ballon,
+alors la pression à l'intérieur du ballon diminuerait.
+
+If I keep pushing on it the pressure inside
+might go so high that it'll break.
+Si je continue d'appuyer dessus, la pression à l'intérieur
+peut monter si haut qu'elle va casser.
+
+I hope...I can't do it.
+It's a very strong balloon!
+J'espère... je ne peux pas le faire.
+C'est un ballon très solide !
+
+The relationship here is a simple one.
+La relation ici est simple.
+
+When you multiply the pressure and volume
+together, you get a constant.
+Lorsque vous multipliez la pression et le volume
+ensemble, vous obtenez une constante.
+
+As long as the temperature and amount of gas
+stays the same, so does that constant.
+Tant que la température et la quantité de gaz
+restent les mêmes, elles restent constantes.
+
+It's called Boyle's Law, and it was a pretty
+big deal back in the 1600s.
+C'est ce qu'on appelle la loi de Boyle, et c'était assez
+important dans les années 1600.
+
+It's also, one of the greatest scientific
+mis-attributions of all time.
+C'est aussi l'une des plus grandes
+erreurs d'attribution scientifique de tous les temps.
+
+Robert Boyle was a super rich Englishman,
+raised in Ireland.
+Robert Boyle était un Anglais super riche,
+élevé en Irlande.
+
+His father was so rich that he paid another
+family to raise his children.
+Son père était si riche qu'il a payé une autre
+famille pour élever ses enfants.
+
+I guess because he was too busy administering
+lands or something.
+Je suppose qu'il était trop occupé à administrer des
+terres ou quelque chose comme ça.
+
+Boyle had lots of great ideas about science
+and chemistry.
+Boyle avait beaucoup de bonnes idées sur la science
+et la chimie.
+
+His most important one, and this is arguably
+even more important than Boyle's Law,
+Son plus important, et c'est sans doute
+encore plus important que la loi de Boyle,
+
+being that chemists should publish papers
+not on what they feel is correct,
+étant que les chimistes devraient publier des articles
+non pas sur ce qu'ils pensent être correct,
+
+but rather on theories that have been backed
+up by experimentation.
+mais plutôt sur des théories qui ont été
+soutenues par l'expérimentation.
+
+Richard Towneley a wealthy, but considerably less wealthy, Englishman struck up a relationship with Boyle.
+Richard Towneley, un Anglais riche, mais considérablement moins riche, a noué une relation avec Boyle.
+
+Telling him about some of his work that would disprove one of those "But it feels right" kind of chemists.
+Lui parler de certains de ses travaux qui réfuteraient l'un de ces chimistes du genre "Mais ça se sent bien".
+
+Boyle published the paper mentioning that
+work, which he called Towneley's Hypothesis.
+Boyle a publié l'article mentionnant ce
+travail, qu'il a appelé l'hypothèse de Towneley.
+
+But which ended up, because of Boyle's superior scientific standing and possibly his wealth, being called Boyle's Law.
+Mais qui a fini, en raison de la position scientifique supérieure de Boyle et peut-être de sa richesse, par s'appeler la loi de Boyle.
+
+But here's the really messed up thing:
+Mais voici la chose vraiment foirée:
+
+the experiments that led to the creation of
+this theory were actually done largely by
+les expériences qui ont conduit à la création de
+cette théorie ont en fait été réalisées en grande partie par
+
+Towneley's family friend and physician, Henry Power, who's not a member of the aristocracy at all.
+l'ami de la famille et médecin de Towneley, Henry Power, qui n'est pas du tout membre de l'aristocratie.
+
+He was just a working class scientist.
+Il n'était qu'un scientifique de la classe ouvrière.
+
+Power was working on a publication that would
+have snared him the position as discover of
+Power travaillait sur une publication qui lui
+aurait valu le poste de découvreur de
+
+the relationship between the pressure and
+volume of a gas.
+la relation entre la pression et le
+volume d'un gaz.
+
+But Boyle, having discussed the ideas with
+Towneley privately, published his first,
+Mais Boyle, après avoir discuté des idées avec
+Towneley en privé, a publié son premier,
+
+attributing Towneley as the sole researcher, ensuring that Power's contributions were all but lost to history.
+attribuant Towneley comme le seul chercheur, garantissant que les contributions de Power étaient pratiquement perdues pour l'histoire.
+
+Henry Power's Wikipedia page didn't even mention
+Boyle's Law until a few weeks ago,
+La page Wikipedia d'Henry Power n'a même pas mentionné
+la loi de Boyle jusqu'à il y a quelques semaines,
+
+when I personally added a paragraph about
+it, with proper citations of course.
+lorsque j'ai personnellement ajouté un paragraphe à
+ce sujet, avec des citations appropriées bien sûr.
+
+But no matter who thought it up or who it
+got named after, Boyle's Law is pretty cool.
+Mais peu importe qui l'a imaginé ou qui lui
+a donné son nom, la loi de Boyle est plutôt cool.
+
+For a given amount of gas at a constant temperature, pressure times volume always equals the same number.
+Pour une quantité donnée de gaz à température constante, la pression multipliée par le volume est toujours égale au même nombre.
+
+But where is that constant coming from,
+Mais d'où vient cette constante,
+
+and why is it different for different amounts
+of gas at different temperatures?
+et pourquoi est-elle différente pour différentes quantités
+de gaz à différentes températures ?
+
+Well it was more than a hundred years before
+we'd figure out the answer to those questions,
+Eh bien, il a fallu plus de cent ans avant que
+nous trouvions la réponse à ces questions,
+
+with the help of a Frenchman Jacques Charles and our old, Italian house-elf friend Amedeo Avogadro.
+avec l'aide d'un Français Jacques Charles et de notre vieil ami italien Amedeo Avogadro.
+
+Charles and Avogadro created equations much
+like Boyle's law
+Charles et Avogadro ont créé des équations un peu
+comme la loi de Boyle
+
+with two features of a gas being linked directly
+together by constants.
+avec deux caractéristiques d'un gaz directement liées
+par des constantes.
+
+Charles discovered that volume divided by
+temperature equals a constant,
+Charles a découvert que le volume divisé par la
+température est égal à une constante,
+
+as long as the pressure remains the same.
+tant que la pression reste la même.
+
+And then Avogadro figured out that volume
+divided by the number of moles in the container
+Et puis Avogadro a compris que le volume
+divisé par le nombre de moles dans le récipient
+
+at a constant pressure and temperature gave
+yet another constant.
+à une pression et une température constantes donnait
+encore une autre constante.
+
+But here's the crazy cool thing:
+Mais voici le truc fou et cool :
+
+all of these scientists were basically dealing
+with a different form of the same equation.
+tous ces scientifiques avaient essentiellement affaire
+à une forme différente de la même équation.
+
+An equation that we must never forget, and is gonna be stuck in my head until I die, and here's how it works:
+Une équation que nous ne devons jamais oublier, et qui restera gravée dans ma tête jusqu'à ma mort, et voici comment cela fonctionne : la
+
+Pressure times volume is equal to the number of moles of substances times a constant times temperature.
+pression multipliée par le volume est égale au nombre de moles de substances multiplié par une constante multipliée par la température.
+
+P V equals n R T: The Ideal Gas Law, which works for all gases as long as they behave themselves.
+P V est égal à n R T : La loi des gaz parfaits, qui fonctionne pour tous les gaz tant qu'ils se comportent eux-mêmes.
+
+Now here's the cool part,
+Maintenant, voici la partie intéressante, en
+
+using this equation we can show how all of these chemists were dealing with the same relationship.
+utilisant cette équation, nous pouvons montrer comment tous ces chimistes traitaient la même relation.
+
+They were just clumping various variables
+together in different orders.
+Ils regroupaient simplement diverses
+variables dans des ordres différents.
+
+All of the chemists we just mentioned: Charles, Avogadro and Boyle (or more properly Towneley and Power),
+Tous les chimistes que nous venons de mentionner : Charles, Avogadro et Boyle (ou plus exactement Towneley et Power), ont
+
+figured out their contribution to the Ideal
+Gas Law experimentally.
+compris expérimentalement leur contribution à la
+loi des gaz parfaits.
+
+But more interesting to me, is that it can
+be understood theoretically.
+Mais le plus intéressant pour moi, c'est qu'il peut
+être compris théoriquement.
+
+First, we have to understand what each of
+these variables actually mean.
+Premièrement, nous devons comprendre ce que chacune de
+ces variables signifie réellement.
+
+In that same way the atoms and molecules that
+make up gases
+De la même manière, les atomes et les molécules qui
+composent les
+
+are bouncing against things, applying pressure
+to them.
+gaz rebondissent contre les objets, leur appliquant une
+pression.
+
+This balloon is inflated because the molecules
+are bouncing around inside of it,
+Ce ballon est gonflé parce que les
+molécules rebondissent à l'intérieur de celui-ci,
+
+bumping into the inside of the balloon harder than the molecules bouncing off the outside of the balloon.
+heurtant l'intérieur du ballon plus fort que les molécules rebondissant sur l'extérieur du ballon.
+
+Scientists generally measure pressure with
+the S.I. unit of force:
+Les scientifiques mesurent généralement la pression avec
+l'unité de force S.I. :
+
+Newtons per area, meters squared, which is
+shortened to pascals.
+Newtons par surface, mètres carrés, qui est
+raccourcie en pascals.
+
+But since pascals are so tiny we either use
+kilopascals
+Mais comme les pascals sont si petits, nous utilisons soit des
+kilopascals,
+
+or we use the pressure here on earth at sea
+level, that we call one atmosphere or one atm.
+soit la pression ici sur terre au
+niveau de la mer, que nous appelons une atmosphère ou un atm.
+
+Completely by chance, one atmosphere is equal
+to 101325 pascals,
+Complètement par hasard, une atmosphère équivaut
+à 101325 pascals,
+
+but that's so close that we often just say that one atmosphere is 100,000 pascals or 100 kilopascals.
+mais c'est tellement proche qu'on dit souvent qu'une atmosphère vaut 100 000 pascals ou 100 kilopascals.
+
+Volume is the amount of space particles have
+to exist inside of.
+Le volume est la quantité d'espace que les particules
+doivent exister à l'intérieur.
+
+So yeah, that makes sense, when the volume
+goes down, the pressure goes up,
+Alors oui, c'est logique, quand le volume
+diminue, la pression augmente,
+
+because there are more particles in a smaller
+space, and they'll each hit the walls more often.
+car il y a plus de particules dans un espace plus petit
+, et elles heurteront chacune les murs plus souvent.
+
+N is simply the amount of gas, the number
+of moles in the system.
+N est simplement la quantité de gaz, le nombre
+de moles dans le système.
+
+Here I am decreasing the amount of gas in the system and in response the volume is decreasing. Obviously.
+Ici, je diminue la quantité de gaz dans le système et en réponse, le volume diminue.  De toute évidence. 
+
+But so is the pressure inside the balloon.
+Mais la pression à l'intérieur du ballon l'est aussi.
+
+R in the Ideal Gas Law is called the Universal
+Gas Constant.
+R dans la loi des gaz parfaits s'appelle la constante universelle des
+gaz.
+
+Even though, as we will see in a coming episode,
+it is neither universal or constant.
+Même si, comme nous le verrons dans un prochain épisode,
+ce n'est ni universel ni constant.
+
+It's 8.3145 liters kilopascal per kelvin mole.
+C'est 8,3145 litres de kilopascal par kelvin mole.
+
+Temperature, is experienced by you and me as hot or cold but at the atomic level it's kinetic energy.
+La température est vécue par vous et moi comme étant chaude ou froide, mais au niveau atomique, c'est de l'énergie cinétique.
+
+Literally, how fast or slow the average particle
+is moving.
+Littéralement, à quelle vitesse ou lenteur la particule moyenne
+se déplace.
+
+So if temperature goes up, so will the pressure
+as the particles are moving faster
+Ainsi, si la température augmente, la pression augmentera également
+car les particules se déplacent plus rapidement
+
+and thus will run into the sides of the container
+more often.
+et se heurteront donc plus souvent aux parois du récipient
+.
+
+So now we know about all of the little bits of the Ideal Gas Law, so let's take a look at it in action.
+Alors maintenant, nous connaissons tous les petits détails de la loi des gaz parfaits, alors regardons-la en action.
+
+We here at Crash Course generally like to be very safe. This is a little bit of overkill here.
+Chez Crash Course, nous aimons généralement être très en sécurité.  C'est un peu exagéré ici.
+
+I put a little bit of water into this soda
+can and now I'm boiling it.
+J'ai mis un peu d'eau dans cette
+canette de soda et maintenant je la fais bouillir.
+
+So instead of atmosphere gas in this can right
+now there's water vapor,
+Donc, au lieu de gaz d'atmosphère dans cette boîte en ce
+moment, il y a de la vapeur d'eau,
+
+and it's hot and all the molecules are zipping
+around like crazy.
+et il fait chaud et toutes les molécules se
+promènent comme des folles.
+
+We pick it up and we plop it down inside of
+that -- ooh! -- and it crushes itself.
+On le ramasse et on le dépose à l'intérieur de
+ça -- ooh !  -- et il s'écrase.
+
+So what just happened there?
+Alors que s'est-il passé là-bas ?
+
+Well, let's see what the gas law can tell
+us.
+Eh bien, voyons ce que la loi sur le gaz peut
+nous dire.
+
+So which of these things are changing?
+Alors, lesquelles de ces choses changent ?
+
+Starting on the right hand side: R, is constant,
+so that can't change.
+En partant du côté droit : R, est constant,
+donc cela ne peut pas changer.
+
+The temperature of the gas though, that definitely
+changed;
+La température du gaz, cependant, a définitivement
+changé;
+
+it drops like mad when it's exposed to the
+ice water.
+il tombe comme un fou quand il est exposé à l'
+eau glacée.
+
+N is decreasing too as water vapor is condensing into liquid water, it thus disappears from the gas phase.
+N diminue également au fur et à mesure que la vapeur d'eau se condense en eau liquide, elle disparaît ainsi de la phase gazeuse.
+
+So the next result on the right hand side
+is a decrease,
+Ainsi, le résultat suivant sur le côté droit
+est une diminution, ce
+
+and that means that the left hand side has
+to have a decrease too.
+qui signifie que le côté gauche doit
+également avoir une diminution.
+
+So on to the left hand side.
+Donc sur le côté gauche.
+
+The pressure does indeed drop because the lower temperature makes the molecules move more slowly,
+La pression chute en effet car la température plus basse fait que les molécules se déplacent plus lentement,
+
+thus bumping into the sides of the can a lot
+less than before.
+se cognant ainsi beaucoup moins qu'auparavant contre les parois de la boîte
+.
+
+And volume drops too, but not quite for the
+reason you might think.
+Et le volume baisse aussi, mais pas tout à fait pour la
+raison que vous pourriez penser.
+
+It's really that the pressure inside the can
+goes so low, that the pressure outside the can,
+C'est vraiment que la pression à l'intérieur de la canette
+descend si bas, que la pression à l'extérieur de la canette,
+
+the atmospheric pressure, literally crushes
+the can.
+la pression atmosphérique, écrase littéralement
+la canette.
+
+Now I understand that you probably don't think
+this is as cool as I do,
+Maintenant, je comprends que vous ne pensez probablement pas
+que c'est aussi cool que moi,
+
+but understanding the physical reality of
+atoms and molecules smacking into things is
+mais comprendre la réalité physique des
+atomes et des molécules qui frappent les choses est
+
+a special kind of beautiful for me.
+une beauté particulière pour moi.
+
+It's also pretty cool that if you know any 3 things about a gas, you can figure out the fourth using the ideal gas law.
+C'est aussi plutôt cool que si vous savez 3 choses sur un gaz, vous pouvez trouver la quatrième en utilisant la loi des gaz parfaits.
+
+Of course, not all gases behave ideally,
+Bien sûr, tous les gaz ne se comportent pas de manière idéale
+
+and all gases deviate from the law at low
+temperatures or high pressures.
+et tous les gaz s'écartent de la loi à basse
+température ou à haute pression.
+
+But we'll save that discussion for a later
+episode.
+Mais nous garderons cette discussion pour un
+épisode ultérieur.
+
+Jargon fun time.
+Temps d'amusement de jargon.
+
+STP means standard temperature and pressure,
+STP signifie température et pression standard,
+
+which according to the lords of chemistry is 0 degrees Celsius and 100,000 pascals or 100 kilopascals.
+qui, selon les seigneurs de la chimie, sont de 0 degré Celsius et 100 000 pascals ou 100 kilopascals.
+
+One mole of any ideal gas takes up 22.4 liters of space at STP, which is a fact that can simplify a lot of calculations.
+Une mole de n'importe quel gaz parfait occupe 22,4 litres d'espace à STP, ce qui peut simplifier de nombreux calculs.
+
+Absolute zero is the temperature at which
+all movement of all particles stops.
+Le zéro absolu est la température à laquelle
+s'arrête tout mouvement de toutes les particules.
+
+It is zero kelvins or -273.15 degrees Celsius.
+Il fait zéro kelvin ou -273,15 degrés Celsius.
+
+And that's all for this episode. Thank you
+for watching Crash Course Chemistry.
+Et c'est tout pour cet épisode.  Merci
+d'avoir regardé Crash Course Chemistry.
+
+If you were paying attention you learned about
+Si vous étiez attentif, vous avez appris
+
+how the work of some amazing thinkers combined
+to produce the Ideal Gas Law;
+comment le travail de certains penseurs étonnants s'est combiné
+pour produire la loi sur les gaz parfaits ;
+
+how none of those people were Robert Boyle,
+comment aucune de ces personnes n'était Robert Boyle,
+
+and how the Ideal Gas Equation allows you to find out pressure, volume, temperature or number of moles,
+et comment l'équation des gaz parfaits vous permet de connaître la pression, le volume, la température ou le nombre de moles,
+
+as long as you know three of those four things.
+tant que vous connaissez trois de ces quatre choses.
+
+And you learned a few jargon-y phrases to help you sound like you know what you're talking about.
+Et vous avez appris quelques expressions de jargon pour donner l'impression que vous savez de quoi vous parlez.
+
+This episode of Crash Course Chemistry was
+written by me.
+Cet épisode de Crash Course Chemistry a été
+écrit par moi.
+
+The script was edited by Blake de Pastino
+Le script a été édité par Blake de Pastino
+
+and our chemistry consultants were Dr. Heiko
+Langner and Edi Gonzalez.
+et nos consultants en chimie étaient le Dr Heiko
+Langner et Edi Gonzalez.
+
+It was filmed, edited and directed by Nicholas
+Jenkins.
+Il a été filmé, monté et réalisé par Nicholas
+Jenkins.
+
+Our script supervisor was Caitlin Hofmeister
+and our sound designer is Michael Aranda.
+Notre scénariste était Caitlin Hofmeister
+et notre concepteur sonore est Michael Aranda.
+
+Our graphics team is Thought Cafe.
+Notre équipe graphique est Thought Cafe.
+

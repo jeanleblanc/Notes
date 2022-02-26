@@ -1,0 +1,802 @@
+You can review content from Crash Course Organic Chemistry with the 
+Crash Course App,
+Vous pouvez consulter le contenu de Crash Course Organic Chemistry avec l'
+application Crash Course,
+
+available now for Android and iOS devices.
+disponible dès maintenant pour les appareils Android et iOS.
+
+Hi! I’m Deboki Chakravarti and welcome to
+Crash Course Organic Chemistry!
+Salut!  Je suis Deboki Chakravarti et bienvenue au cours intensif de
+chimie organique !
+
+When you think of alcohol, you probably think
+of alcoholic drinks like beer, wine, or spirits.
+Lorsque vous pensez à l'alcool, vous pensez probablement
+aux boissons alcoolisées comme la bière, le vin ou les spiritueux.
+
+As we touched on in episode 22 when we talked
+about elimination reactions,
+Comme nous l'évoquions dans l'épisode 22 où nous parlions des
+réactions d'élimination,
+
+the alcohol in all of these drinks is ethanol, produced during
+fermentation.
+l'alcool de toutes ces boissons est de l'éthanol, produit lors de la
+fermentation.
+
+And while ethanol is toxic in larger quantities,
+the amount in a few drinks just leaves you feeling a bit tipsy.
+Et bien que l'éthanol soit toxique en plus grande quantité,
+la quantité contenue dans quelques verres vous laisse juste un peu ivre.
+
+Ethanol is only one member of the alcohol
+family, though.
+L'éthanol n'est cependant qu'un membre de la
+famille des alcools.
+
+The alcohol with one fewer carbon, methanol,
+can cause bigger problems if you drink it.
+L'alcool avec un carbone en moins, le méthanol,
+peut causer de plus gros problèmes si vous en buvez.
+
+In our body, it’s oxidized into formic acid,
+which can damage the optic nerve,
+Dans notre corps, il est oxydé en acide formique,
+qui peut endommager le nerf optique,
+
+causing blindness and even death.
+provoquant la cécité et même la mort.
+
+But alcohols aren't all toxicity and death.
+Mais les alcools ne sont pas tous synonymes de toxicité et de mort.
+
+They can also serve a protective role in hand
+sanitizers,
+Ils peuvent également jouer un rôle protecteur dans les
+désinfectants pour les mains,
+
+which usually contain ethanol, propanol, or isopropanol.
+qui contiennent généralement de l'éthanol, du propanol ou de l'isopropanol.
+
+Hand sanitizers affect the structure of proteins,
+causing them to become misshapen or ‘denatured.'
+Les désinfectants pour les mains affectent la structure des protéines, les
+rendant déformées ou « dénaturées ».
+
+They destroy the proteins that make up the
+outer shells of viruses and bacteria,
+Ils détruisent les protéines qui composent les
+enveloppes externes des virus et des bactéries, les
+
+killing them and preventing infections.
+tuent et préviennent les infections.
+
+And in organic chemistry, alcohols are useful
+building blocks.
+Et en chimie organique, les alcools sont des éléments de base
+utiles.
+
+In this episode, we’ll look at how we can use them as a starting point to get to other oxygen-containing organic compounds:
+Dans cet épisode, nous verrons comment nous pouvons les utiliser comme point de départ pour accéder à d'autres composés organiques contenant de l'oxygène :
+
+ethers, epoxides, and more!
+éthers, époxydes, et plus encore !
+
+[Theme Music]
+[Theme Music]
+
+We’ve already seen a few ways to make alcohols.
+Nous avons déjà vu quelques façons de faire des alcools.
+
+Back in episode 16, we saw how acid-catalyzed
+hydration of alkenes can add water across the double bond.
+De retour dans l'épisode 16, nous avons vu comment l'hydratation catalysée par l'acide
+des alcènes peut ajouter de l'eau à travers la double liaison.
+
+Markovnikov’s rule tells us that the proton
+adds to the carbon in the double bond with the most hydrogens attached.
+La règle de Markovnikov nous dit que le proton
+s'ajoute au carbone dans la double liaison avec le plus d'hydrogènes attachés.
+
+We also saw that, with certain special reagents,
+the opposite happens:
+Nous avons également vu qu'avec certains réactifs spéciaux,
+l'inverse se produit :
+
+the hydrogen ends up on the carbon in the
+double bond with the fewest hydrogens attached,
+l'hydrogène se retrouve sur le carbone dans la
+double liaison avec le moins d'hydrogènes attachés,
+
+and we get what’s known as the anti-Markovnikov
+product.
+et nous obtenons ce qu'on appelle le produit anti-
+Markovnikov.
+
+Another way of making alcohols that we saw
+back in episode 20 is using substitution reactions.
+Une autre façon de fabriquer des alcools que nous avons
+vue dans l'épisode 20 consiste à utiliser des réactions de substitution.
+
+For example, mixing a haloalkane with sodium
+hydroxide will cause the hydroxyl group to displace the halide ion.
+Par exemple, le mélange d'un haloalcane avec de l'
+hydroxyde de sodium entraînera le déplacement du groupe hydroxyle de l'ion halogénure.
+
+We can also create a diol
+Nous pouvons également créer un diol
+
+(basically a double-alcohol)
+(essentiellement un double-alcool)
+
+by using an alkene, like we saw in episode 17.
+en utilisant un alcène, comme nous l'avons vu dans l'épisode 17. La
+
+Reacting an alkene with the oxidizing agent
+osmium tetroxide initially produces an osmate ester,
+réaction d'un alcène avec l'oxydant
+tétroxyde d'osmium produit initialement un ester d'osmate,
+
+which can then be hydrolyzed by water
+to produce the diol.
+qui peut ensuite être hydrolysé par l'eau
+pour produire le  diol.
+
+The hydroxyl groups are added to the same
+side of the double bond,
+Les groupes hydroxyle sont ajoutés du même
+côté de la double liaison, de
+
+so the product is what’s known as a syn diol.
+sorte que le produit est ce qu'on appelle un syn diol.
+
+So, okay, we've clearly seen lots of different
+ways to make alcohols.
+Donc, d'accord, nous avons clairement vu de nombreuses façons différentes
+de fabriquer des alcools.
+
+But what about if we use alcohols in chemical
+reactions?
+Mais qu'en est-il si nous utilisons des alcools dans des
+réactions chimiques ?
+
+What happens then?
+Que se passe-t-il alors ?
+
+Well, we’ve seen that hydroxide ions are
+excellent nucleophiles,
+Eh bien, nous avons vu que les ions hydroxyde sont d'
+excellents nucléophiles,
+
+but alcohols aren't so nucleophilic.
+mais les alcools ne sont pas si nucléophiles.
+
+Their charge is neutral and the oxygen in
+the hydroxyl group holds tightly onto its electron pair.
+Leur charge est neutre et l'oxygène
+du groupe hydroxyle tient fermement sur sa paire d'électrons.
+
+However, alcohols are weakly acidic compounds
+with a pKa around 16.
+Cependant, les alcools sont des composés faiblement acides
+avec un pKa d'environ 16.
+
+So if we deprotonate an alcohol, we make an
+alkoxide, the negatively charged conjugate base, 
+Donc, si nous déprotonons un alcool, nous fabriquons un
+alcoxyde, la base conjuguée chargée négativement,
+
+which is an excellent nucleophile.
+qui est un excellent nucléophile.
+
+Alkoxides can help us make a different oxygen-containing
+organic compound:
+Les alcoxydes peuvent nous aider à fabriquer un autre
+composé organique contenant de l'oxygène : les
+
+ethers, which have an oxygen connected to
+two alkyl or aromatic carbons.
+éthers, qui ont un oxygène relié à
+deux carbones alkyles ou aromatiques.
+
+Let’s start by looking at a general model
+of the reaction, which proceeds by an SN2 mechanism.
+Commençons par regarder un modèle général
+de la réaction, qui procède par un mécanisme SN2.
+
+The alkoxide displaces the halide ion, leaving
+us with an ether.
+L'alcoolate déplace l'ion halogénure,
+nous laissant avec un éther.
+
+To get more specific, here's the synthesis
+of diethyl ether, which was used as a general anesthetic in the 1800s,
+Pour être plus précis, voici la synthèse
+de l'éther diéthylique, qui était utilisé comme anesthésique général dans les années 1800,
+
+before we figured out anesthetics that didn't make patients vomit quite so much.
+avant que nous ne découvrions des anesthésiques qui ne faisaient pas autant vomir les patients.
+
+We start with ethanol as our alcohol and another
+reagent:
+Nous commençons avec l'éthanol comme alcool et un autre
+réactif :
+
+plain old sodium metal or sodium hydride,
+le sodium métallique ordinaire ou l'hydrure de sodium,
+
+which is a negatively charged hydrogen with a pair of electrons that can act as a base.
+qui est un hydrogène chargé négativement avec une paire d'électrons qui peut agir comme une base.
+
+The sodium hydride can deprotonate ethanol,
+generating an ethoxide ion.
+L'hydrure de sodium peut déprotoner l'éthanol,
+générant un ion éthylate.
+
+Then, we add the alkyl halide to the mix.
+Ensuite, nous ajoutons l'halogénure d'alkyle au mélange.
+
+And the lone pair of electrons on the oxygen
+attacks the carbon atom in bromoethane,
+Et la seule paire d'électrons sur l'oxygène
+attaque l'atome de carbone dans le bromoéthane,
+
+booting out a bromide ion and forming diethyl ether.
+éliminant un ion bromure et formant de l'éther diéthylique.
+
+Great! We’ve made an ether – so, now what?
+Génial!  Nous avons créé un éther - alors, et maintenant ?
+
+Well, actually, not a lot.
+Eh bien, en fait, pas beaucoup.
+
+Ethers are incredibly stable compounds,
+Les éthers sont des composés incroyablement stables,
+
+so it’s difficult to get them to do much in terms of chemical reactions.
+il est donc difficile de leur faire faire grand-chose en termes de réactions chimiques.
+
+The one thing we can do
+La seule chose que nous pouvons faire
+
+(besides using them as old-timey anesthetic)
+(en plus de les utiliser comme anesthésique à l'ancienne)
+
+is break an ether back down using a strong
+acid and a substitution reaction.
+est de décomposer un éther en utilisant un
+acide fort et une réaction de substitution.
+
+Here, the strong acid protonates our diethyl
+ether.
+Ici, l'acide fort protone notre éther
+diéthylique.
+
+Then, the lone pair of electrons on the bromide
+ion attacks the electropositive carbon atom attached to the oxygen, 
+Ensuite, la seule paire d'électrons sur l'
+ion bromure attaque l'atome de carbone électropositif attaché à l'oxygène,
+
+breaking the C-O bond.
+rompant la liaison C-O.
+
+So we have our starting compounds again:
+Nous avons donc à nouveau nos composés de départ :
+
+an alkyl halide and an alcohol.
+un halogénure d'alkyle et un alcool.
+
+If we've got a lot of extra strong acid,
+Si nous avons beaucoup d'acide extra-fort,
+
+our alcohol can also be converted to an alkyl halide through another substitution reaction with the bromide ion.
+notre alcool peut également être converti en halogénure d'alkyle par une autre réaction de substitution avec l'ion bromure.
+
+So we're left with two alkyl halides at the
+end of this ether breakdown.
+Il nous reste donc deux halogénures d'alkyle à la
+fin de cette décomposition de l'éther.
+
+Converting alcohols to alkyl halides is actually
+a really useful tool for chemists.
+La conversion des alcools en halogénures d'alkyle est en fait
+un outil très utile pour les chimistes.
+
+Remember that hydroxyl groups in alcohols
+are poor leaving groups because the hydroxide ion is a strong base.
+Rappelez-vous que les groupes hydroxyle dans les alcools
+sont de mauvais groupes partants car l'ion hydroxyde est une base forte.
+
+So if we can turn the hydroxyl group into
+a good leaving group, like a halide,
+Donc, si nous pouvons transformer le groupe hydroxyle en
+un bon groupe partant, comme un halogénure,
+
+we can make it more useful for other reactions.
+nous pouvons le rendre plus utile pour d'autres réactions.
+
+There are three reagents we can easily use
+to convert alcohols into alkyl halides:
+Il existe trois réactifs que nous pouvons facilement utiliser
+pour convertir les alcools en halogénures d'alkyle :
+
+hydrogen halides, phosphorus tribromide, and
+thionyl chloride.
+les halogénures d'hydrogène, le tribromure de phosphore et
+le chlorure de thionyle.
+
+We just saw an example of a hydrogen halide,
+specifically, hydrobromic acid,
+Nous venons de voir un exemple d'halogénure d'hydrogène, en
+particulier l'acide bromhydrique,
+
+protonating hydroxyl groups to break down a diethyl ether.
+protonant des groupes hydroxyle pour décomposer un éther diéthylique.
+
+And here's the basic model of this reaction
+with an alcohol.
+Et voici le modèle de base de cette réaction
+avec un alcool.
+
+The second option is using phosphorus tribromide.
+La deuxième option consiste à utiliser du tribromure de phosphore.
+
+Here, the electron pair on the oxygen of our
+alcohol attacks the phosphorus atom,
+Ici, la paire d'électrons sur l'oxygène de notre
+alcool attaque l'atome de phosphore,
+
+kicking out a bromide ion.
+expulsant un ion bromure.
+
+The bromide ion can then act as a nucleophile
+and get a little bit of revenge:
+L'ion bromure peut alors agir comme un nucléophile
+et se venger un peu :
+
+it swoops around and kicks out the oxygen
+that just bonded to phosphorus,
+il se précipite et expulse l'oxygène
+qui vient de se lier au phosphore,
+
+which is a good leaving group.
+qui est un bon groupe partant.
+
+That leaving group can then go on to react
+with two other alcohol molecules,
+Ce groupe partant peut ensuite réagir
+avec deux autres molécules d'alcool, en
+
+going through the same steps!
+passant par les mêmes étapes !
+
+So, overall, one mole of phosphorus tribromide
+can convert three moles of an alcohol into three moles of an alkyl bromide.
+Ainsi, dans l'ensemble, une mole de tribromure de phosphore
+peut convertir trois moles d'un alcool en trois moles d'un bromure d'alkyle.
+
+The final option for making an alkyl halide
+from an alcohol uses thionyl chloride,
+La dernière option pour fabriquer un halogénure d'alkyle à
+partir d'un alcool utilise du chlorure de thionyle
+
+and only works for primary and secondary alcohols.
+et ne fonctionne que pour les alcools primaires et secondaires.
+
+First, the alcohol and thionyl chloride react
+to form an oxonium ion intermediate.
+Tout d'abord, l'alcool et le chlorure de thionyle réagissent
+pour former un intermédiaire d'ion oxonium.
+
+The chloride ion then attacks the carbon next
+to the oxygen,
+L'ion chlorure attaque alors le carbone à côté
+de l'oxygène,
+
+giving the electrons back to oxygen and neutralizing it.
+redonnant les électrons à l'oxygène et le neutralisant.
+
+And there we have it, the alkyl chloride.
+Et voilà, le chlorure d'alkyle.
+
+Most of the alcohol-to-alkyl-halide stuff
+we just did involved SN2 mechanisms,
+La plupart des trucs alcool-halogénure d'alkyle que
+nous venons de faire impliquaient des mécanismes SN2,
+
+which flips the stereochemistry at chiral carbons.
+qui inversent la stéréochimie au niveau des carbones chiraux.
+
+So if we add a nucleophile in an SN2 reaction
+later, we’ll get double inversion of stereochemistry.
+Donc, si nous ajoutons un nucléophile dans une réaction SN2
+plus tard, nous obtiendrons une double inversion de la stéréochimie.
+
+And we're back to the stereochemistry of our
+starting alcohol!
+Et on revient à la stéréochimie de notre
+alcool de départ !
+
+Now, if you're stuck with an alcohol, want
+to make it more reactive,
+Maintenant, si vous êtes coincé avec un alcool, que
+vous voulez le rendre plus réactif
+
+and don't want to go with a halide leaving group… there are
+other options.
+et que vous ne voulez pas partir avec un groupe partant halogénure… il y a d'
+autres options.
+
+For instance, you could use tosyl chloride
+or mesyl chloride to turn alcohols into tosylates or mesylates.
+Par exemple, vous pouvez utiliser du chlorure de tosyle
+ou du chlorure de mésyle pour transformer des alcools en tosylates ou mésylates.
+
+In these reactions, the stereochemistry at
+the carbon attached to the hydroxyl group stays the same.
+Dans ces réactions, la stéréochimie au
+niveau du carbone attaché au groupe hydroxyle reste la même.
+
+So, later, if we add a nucleophile and do
+an SN2 reaction on our mesylate,
+Ainsi, plus tard, si nous ajoutons un nucléophile et faisons
+une réaction SN2 sur notre mésylate,
+
+the stereochemistry of the starting alcohol is inverted.
+la stéréochimie de l'alcool de départ est inversée.
+
+This isn't to say that making an alkyl halide
+is "better" than making a mesylate, or vice versa.
+Cela ne veut pas dire que la fabrication d'un halogénure d'alkyle
+est "meilleure" que la fabrication d'un mésylate, ou vice versa.
+
+A lot of organic chemistry involves multi-step
+reactions and carefully controlling products,
+Une grande partie de la chimie organique implique des
+réactions en plusieurs étapes et un contrôle minutieux des produits
+
+so it's useful to know reactions that can
+do subtly different things.
+. Il est donc utile de connaître les réactions qui peuvent
+faire des choses subtilement différentes.
+
+Remember, the stereochemistry can have huge
+differences on the function of molecules,
+N'oubliez pas que la stéréochimie peut avoir d'énormes
+différences sur la fonction des molécules,
+
+from smell to toxicity!
+de l'odeur à la toxicité !
+
+We can also just tweak the structure of alcohols
+a bit to make epoxides,
+Nous pouvons également modifier un peu la structure des alcools
+pour fabriquer des époxydes,
+
+which are essentially cyclic ethers, where the oxygen forms a three-atom ring with two carbon atoms.
+qui sont essentiellement des éthers cycliques, où l'oxygène forme un cycle à trois atomes avec deux atomes de carbone.
+
+If "epoxides" sound familiar, that's because
+we've seen how to make them from alkenes already.
+Si les "époxydes" vous semblent familiers, c'est parce que
+nous avons déjà vu comment les fabriquer à partir d'alcènes.
+
+But we can also make them from halohydrins:
+Mais on peut aussi les fabriquer à partir d'halohydrines : des
+
+compounds containing a halide and a hydroxyl
+group on adjacent carbon atoms,
+composés contenant un halogénure et un groupement hydroxyle
+sur des atomes de carbone adjacents,
+
+which we learned to make in Episode 16.
+que nous avons appris à fabriquer dans l'épisode 16.
+
+We come across epoxides in epoxy glues, where
+they react with amines to form an adhesive polymer.
+On retrouve des époxydes dans les colles époxy, où
+ils réagissent avec des amines pour former un polymère adhésif.
+
+Epoxides are also important when it comes
+to organic synthesis,
+Les époxydes sont également importants en matière
+de synthèse organique,
+
+because they’re much more reactive than the very stable ethers
+that we could only break down with a strong acid.
+car ils sont beaucoup plus réactifs que les éthers très stables
+que nous ne pouvons décomposer qu'avec un acide fort.
+
+Epoxides have a lot of ring strain, so they
+open up pretty easily.
+Les époxydes ont beaucoup de déformation annulaire, ils
+s'ouvrent donc assez facilement.
+
+We can actually break open the ring in two
+ways, to form two different products,
+Nous pouvons en fait ouvrir le cycle de deux
+manières, pour former deux produits différents,
+
+through an acid-catalyzed reaction or a base-catalyzed
+reaction.
+par une réaction catalysée par un acide ou une réaction catalysée par une base
+.
+
+The acid-catalyzed reaction, which we also
+met in Episode 16, is an SN1-like reaction,
+La réaction catalysée par un acide, que nous avons également
+rencontrée dans l'épisode 16, est une réaction de type SN1,
+
+involving our epoxide, an acid, and a nucleophile.
+impliquant notre époxyde, un acide et un nucléophile.
+
+Having an acid means we have a bunch of protons
+floating around,
+Avoir un acide signifie que nous avons un tas de protons qui
+flottent,
+
+so first the oxygen in the epoxide gets protonated.
+donc d'abord l'oxygène dans l'époxyde est protoné.
+
+Then, we have an oxonium ion with a positive
+charge, which has resonance with two carbocations.
+Ensuite, nous avons un ion oxonium avec une
+charge positive, qui a une résonance avec deux carbocations.
+
+So the nucleophile attacks the more substituted
+carbon,
+Ainsi, le nucléophile attaque le carbone le plus substitué
+
+the one with better stabilized carbocation character, breaking open the ring.
+, celui avec le meilleur caractère de carbocation stabilisé, brisant le cycle.
+
+And finally, there's one more deprotonation
+to give the final product.
+Et enfin, il y a encore une déprotonation
+pour donner le produit final.
+
+On the other hand, in the base-catalyzed reaction,
+there’s nothing to protonate the epoxide.
+D'autre part, dans la réaction catalysée par une base,
+il n'y a rien pour protoner l'époxyde.
+
+We've just got our epoxide, and our basic
+nucleophile.
+Nous avons juste notre époxyde et notre
+nucléophile de base.
+
+So the nucleophilic attack comes first.
+Ainsi, l'attaque nucléophile vient en premier.
+
+The nucleophile will attack the least substituted
+carbon –
+Le nucléophile attaquera le carbone le moins substitué
+-
+
+triggering an SN2 reaction and breaking open the ring.
+déclenchant une réaction SN2 et brisant l'anneau.
+
+Then, we can add in some acid in a second step, and the negatively-charged oxygen grabs a proton, forming the final product.
+Ensuite, nous pouvons ajouter de l'acide dans une deuxième étape, et l'oxygène chargé négativement saisit un proton, formant le produit final.
+
+Like I mentioned, the products of acid-catalyzed
+and base-catalyzed reactions are different,
+Comme je l'ai mentionné, les produits des
+réactions catalysées par un acide et catalysées par une base sont différents,
+
+because these two reactions can have different
+regioselectivity.
+car ces deux réactions peuvent avoir une
+régiosélectivité différente.
+
+We don't have to think about it too much now,
+but this will be useful for multi-step reactions too!
+Nous n'avons pas besoin d'y penser trop maintenant,
+mais cela sera également utile pour les réactions en plusieurs étapes !
+
+Okay! We’ve just got one final set of alcohol
+reactions to cover: oxidations.
+D'accord!  Nous n'avons qu'une dernière série de
+réactions alcooliques à couvrir : les oxydations.
+
+Remember from episode 17, we can define oxidation
+as the loss of electrons–
+Rappelez-vous de l'épisode 17, nous pouvons définir l'oxydation
+comme la perte d'électrons -
+
+remember LEO the lion says GER?
+rappelez-vous LEO le lion dit GER ?
+
+And we can also define oxidation in organic
+chemistry as the loss of carbon-hydrogen bonds
+Et on peut aussi définir l'oxydation en
+chimie organique comme la perte de liaisons carbone-hydrogène
+
+or gain of carbon-oxygen bonds.
+ou le gain de liaisons carbone-oxygène.
+
+Alcohols can be oxidized using chromic acid,
+Les alcools peuvent être oxydés à l'aide d'acide chromique,
+
+and the products we get are determined by the type of alcohol we’re starting with.
+et les produits que nous obtenons sont déterminés par le type d'alcool avec lequel nous commençons.
+
+Primary alcohols initially oxidize to form
+an aldehyde.
+Les alcools primaires s'oxydent initialement pour former
+un aldéhyde.
+
+But because chromic acid is a strong oxidizing
+agent, it will keep on going,
+Mais parce que l'acide chromique est un agent oxydant puissant
+, il continuera à
+
+oxidizing the aldehyde to a carboxylic acid.
+oxyder l'aldéhyde en acide carboxylique.
+
+If you’re starting with a secondary alcohol,
+you’ll end up with a ketone after the oxidation reaction.
+Si vous commencez avec un alcool secondaire,
+vous vous retrouverez avec une cétone après la réaction d'oxydation.
+
+But if you’ve got a tertiary alcohol, you’re
+out of luck.
+Mais si vous avez un alcool tertiaire, vous
+n'avez pas de chance.
+
+Even a strong oxidizing agent won’t do the
+job.
+Même un agent oxydant puissant ne fera pas
+l'affaire.
+
+Let’s look at part of the mechanism of alcohol oxidations to see why.
+Examinons une partie du mécanisme des oxydations d'alcool pour voir pourquoi.
+
+As our example, let’s use benzyl alcohol,
+which we can see from the structure is a primary alcohol.
+Comme exemple, utilisons l'alcool benzylique,
+que nous pouvons voir à partir de la structure est un alcool primaire.
+
+This can be oxidized to benzaldehyde, the
+molecule that gives almonds their characteristic smell.
+Celui-ci peut être oxydé en benzaldéhyde, la
+molécule qui donne aux amandes leur odeur caractéristique.
+
+And benzaldehyde can be oxidized to benzoic
+acid, which is used as a food preservative.
+Et le benzaldéhyde peut être oxydé en
+acide benzoïque, qui est utilisé comme conservateur alimentaire.
+
+In the mechanism here, you can see that the
+oxidation reaction removes hydrogen atoms from the benzyl alcohol molecule,
+Dans le mécanisme ici, vous pouvez voir que la
+réaction d'oxydation élimine les atomes d'hydrogène de la molécule d'alcool benzylique,
+
+which lines up with our definition of oxidation for organic molecules!
+ce qui correspond à notre définition de l'oxydation pour les molécules organiques !
+
+Specifically, our starting molecule loses
+two hydrogen atoms to make the aldehyde –
+Plus précisément, notre molécule de départ perd
+deux atomes d'hydrogène pour former l'aldéhyde - l'
+
+one from the hydroxyl group, and the other from
+the adjacent carbon.
+un du groupe hydroxyle et l'autre
+du carbone adjacent.
+
+So we can see why tertiary alcohols just won't
+oxidize!
+Nous pouvons donc comprendre pourquoi les alcools tertiaires ne s'oxydent tout simplement pas
+!
+
+They don’t have any hydrogens attached to
+the carbon with the hydroxyl group,
+Ils n'ont aucun hydrogène attaché
+au carbone avec le groupe hydroxyle
+
+so they certainly can't lose two of them.
+, ils ne peuvent donc certainement pas en perdre deux.
+
+Meanwhile, the chromium is reduced from chromium
+six, which is orange in solution,
+Pendant ce temps, le chrome est réduit du chrome
+six, qui est orange en solution,
+
+to chromium three, which is green.
+au chrome trois, qui est vert.
+
+This gives us a handy color change to indicate
+that oxidation of our alcohol has taken place.
+Cela nous donne un changement de couleur pratique pour indiquer
+que l'oxydation de notre alcool a eu lieu.
+
+If oxidation hasn’t taken place, we won’t
+see a color change – easy as that.
+Si l'oxydation n'a pas eu lieu, nous ne verrons pas de
+changement de couleur - aussi simple que cela.
+
+Okay, but what if you’ve got a primary alcohol
+you don’t want to oxidize all the way to a carboxylic acid?
+D'accord, mais que se passe-t-il si vous avez un alcool primaire que
+vous ne voulez pas oxyder jusqu'à un acide carboxylique ?
+
+This is where weaker oxidizing agents come
+in.
+C'est là qu'interviennent les agents oxydants plus faibles
+.
+
+Instead of the very strong chromic acid,
+Au lieu de l'acide chromique très fort,
+
+we can use something milder like pyridinium chlorochromate and pyridinium dichromate to stop at an aldehyde.
+nous pouvons utiliser quelque chose de plus doux comme le chlorochromate de pyridinium et le dichromate de pyridinium pour s'arrêter à un aldéhyde.
+
+The downside of all of these oxidizing reagents
+we've looked at is that they contain chromium.
+L'inconvénient de tous ces réactifs oxydants que
+nous avons examinés est qu'ils contiennent du chrome.
+
+It's good for that handy color change I mentioned,
+C'est bon pour ce changement de couleur pratique que j'ai mentionné,
+
+but chromium compounds like chromic acid and dichromate salts are toxic, carcinogenic, and corrosive –
+mais les composés de chrome comme l'acide chromique et les sels de dichromate sont toxiques, cancérigènes et corrosifs -
+
+in other words, not great to be using regularly.
+en d'autres termes, ils ne sont pas bons à utiliser régulièrement.
+
+But there are some safer mild oxidants that
+can be used instead, such as Dess-Martin Periodinane (or DMP).
+Mais il existe des oxydants doux plus sûrs qui
+peuvent être utilisés à la place, comme le Dess-Martin Periodinane (ou DMP).
+
+So it's safe to say that alcohols are way
+more than just beer and wine,
+Il est donc prudent de dire que les alcools sont bien
+plus que de la bière et du vin,
+
+they're involved in lots of important reactions and make compounds with specific reactivity, stereochemistry, and regiochemistry.
+ils sont impliqués dans de nombreuses réactions importantes et forment des composés avec une réactivité, une stéréochimie et une régiochimie spécifiques.
+
+We'll be seeing plenty more of them in future
+episodes.
+Nous en verrons beaucoup plus dans les prochains
+épisodes.
+
+In this episode, we:
+Dans cet épisode, nous avons :
+
+Reviewed the reactions we know to form alcohols
+passé en revue les réactions que nous connaissons pour former des alcools,
+
+Looked at substitution reactions that can
+make alcohols into better leaving groups
+examiné les réactions de substitution qui peuvent
+transformer les alcools en meilleurs groupes partants,
+
+Learned how to open epoxides regioselectively,
+and
+appris à ouvrir les époxydes de manière régiosélective
+et
+
+Oxidized alcohols to aldehydes or carboxylic
+acids with different reagents
+oxydé les alcools en aldéhydes ou en
+acides carboxyliques avec différents réactifs.
+
+In the next episode, we’ll take a break from adding more reactions to our toolkit and apply some of what we’ve learned to a lab experiment!
+Dans le prochain épisode, nous  allons faire une pause avant d'ajouter plus de réactions à notre boîte à outils et appliquer une partie de ce que nous avons appris à une expérience en laboratoire !
+
+Until then, thanks for watching this episode
+of Crash Course Organic Chemistry.
+En attendant, merci d'avoir regardé cet épisode
+de Crash Course Organic Chemistry.
+
+If you want to help keep all Crash Course
+free for everybody, forever, you can join our community on Patreon.
+Si vous voulez aider à garder tous les cours intensifs
+gratuits pour tout le monde, pour toujours, vous pouvez rejoindre notre communauté sur Patreon.
+

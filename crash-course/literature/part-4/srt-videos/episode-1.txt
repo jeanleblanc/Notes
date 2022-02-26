@@ -1,0 +1,975 @@
+Hi I’m John Green and welcome to season
+4 of CrashCourse literature.
+Salut, je suis John Green et bienvenue dans la saison
+4 de la littérature CrashCourse.
+
+Today, we’re transporting you to one of
+my favorite (slash least favorite) dystopias,
+Aujourd'hui, nous vous transportons dans l'une de
+mes dystopies préférées (slash moins préférées),
+
+George Orwell’s 1984.
+1984 de George Orwell.
+
+I feel like that eye is looking at me.
+J'ai l'impression que cet œil me regarde.
+
+The book starts like this:
+It was a bright cold day in April and the
+Le livre commence ainsi :
+C'était une journée froide et lumineuse d'avril et les
+
+clocks were striking thirteen.
+horloges sonnaient treize heures.
+
+Winston Smith, his chin nuzzled into his breast
+in an effort to escape the vile wind, slipped
+Winston Smith, son menton enfoncé dans sa poitrine
+dans un effort pour échapper au vent ignoble, se glissa
+
+quickly through the glass doors of Victory
+Mansions, though not quickly enough to prevent
+rapidement à travers les portes vitrées des Victory
+Mansions, mais pas assez rapidement pour empêcher
+
+a swirl of gritty dust from entering along
+with him.
+un tourbillon de poussière granuleuse d'entrer
+avec lui.
+
+(1)
+Of course it’s not just a swirl of gritty
+(1)
+Bien sûr, ce n'est pas seulement un tourbillon de
+
+dust traveling with Winston; like everyone
+in 1984, he’s never really alone.
+poussière granuleuse voyageant avec Winston;  comme tout le monde
+en 1984, il n'est jamais vraiment seul.
+
+In Orwell’s dystopian future 1984, which
+was published in 1949, the world is vile and
+Dans l'avenir dystopique d'Orwell 1984, qui a
+été publié en 1949, le monde est vil et
+
+gritty and the clock strikes 13 and citizens
+are under near constant government surveillance.
+graveleux et l'horloge sonne 13 et les citoyens
+sont sous la surveillance quasi constante du gouvernement.
+
+But you know what?
+Mais tu sais quoi? 
+
+Orwell did not correctly predict the future;
+our clocks still stop at 12.
+Orwell n'a pas correctement prédit l'avenir ;
+nos horloges s'arrêtent toujours à 12
+
+Also, in the novel 1984, people routinely
+disappear and evidence of their existence
+heures. De plus, dans le roman 1984, les gens
+disparaissent régulièrement et les preuves de leur existence
+
+is erased from public records, and that doesn’t
+happen much.
+sont effacées des archives publiques, et cela n'arrive pas
+beaucoup.
+
+Yet.
+Encore. 
+
+1984 is an indictment of specific governments.
+1984 est une mise en accusation de gouvernements spécifiques.
+
+But it’s also a warning about the importance
+of free thought and speech, and in today’s
+Mais c'est aussi un avertissement sur l'importance
+de la liberté de pensée et d'expression, et dans l'épisode d'aujourd'hui
+
+episode, we’re gonna discuss the historical
+context in which 1984 was written and also
+, nous allons discuter du
+contexte historique dans lequel 1984 a été écrit et aussi de
+
+its use of oppressive language.
+son utilisation d'un langage oppressif.
+
+I want to think about whether Orwell suggests,
+within the logic of this novel, that the written
+Je veux me demander si Orwell suggère,
+dans la logique de ce roman, que le
+
+word can significantly alter the society in
+which it is produced.
+mot écrit puisse modifier de manière significative la société dans
+laquelle il est produit.
+
+And I mean that on at least two levels: Can
+the novel 1984 change the actual world in
+Et je veux dire cela à au moins deux niveaux :
+le roman 1984 peut-il changer le monde réel dans
+
+which we live, and are characters in the novel
+ultimately controlled by the language they,
+lequel nous vivons, et les personnages du roman sont-ils
+finalement contrôlés par la langue qu'eux-mêmes
+
+and their government, use?
+et leur gouvernement utilisent ?
+
+Spoiler alert: We’re all doomed.
+Alerte spoiler : Nous sommes tous condamnés.
+
+I’m just kidding.
+C'est juste une plaisanterie. 
+
+I mean, I hope I’m kidding.
+Je veux dire, j'espère que je plaisante.
+
+The truth is, as usual, it’s complicated.
+La vérité est que, comme d'habitude, c'est compliqué.
+
+INTRO
+George Orwell’s protagonist, the wind-blown
+INTRO
+Le protagoniste de George Orwell, le soufflé par le vent
+
+Winston Smith, shares a first name with Winston
+Churchill, the Prime Minister of the United
+Winston Smith, partage un prénom avec Winston
+Churchill, Premier ministre du Royaume-
+
+Kingdom from 1940-1945 and again from 1951-1955.
+Uni de 1940 à 1945 puis de 1951 à 1955.
+
+And by replacing a lofty, aristocratic surname
+(that evokes Churches.
+Et en remplaçant un patronyme hautain et aristocratique
+(qui évoque Churches.
+
+And Hills) with a common one (a Smith is a
+metal worker), Orwell puts the fate of England
+And Hills) par un commun (un Smith est un
+ouvrier métallurgiste), Orwell remet le sort de l'Angleterre
+
+in the hands of a working man, although this
+one bends words, not metal, since he is a
+entre les mains d'un ouvrier, bien que celui-
+ci plie les mots, non  métal, puisqu'il est
+
+writer.
+écrivain.
+
+As for whether Orwell’s Winston will prevail
+as Winston Churchill did in World War II ...of
+Quant à savoir si le Winston d'Orwell prévaudra
+comme Winston Churchill l'a fait pendant la Seconde Guerre mondiale...
+
+course not!
+bien sûr que non !
+
+Now, some dystopias end with the overthrow
+of the horrible government, but Orwell’s
+Maintenant, certaines dystopies se terminent par le renversement
+de l'horrible gouvernement, mais celles d'Orwell ont
+
+tend to end with the bad guys and/or pigs
+winning.
+tendance à se terminer par la victoire des méchants et/ou des cochons
+.
+
+And 1984 is very much a dystopia -- a dehumanizing
+society in which “there seemed to be no
+Et 1984 est vraiment une dystopie - une
+société déshumanisante dans laquelle "il ne semblait y avoir aucune
+
+color in anything” and posters of a “black-mustachio’d
+face gazing down from every commanding corner”
+couleur dans quoi que ce soit" et des affiches d'un "
+visage à moustache noire regardant de chaque coin dominant"
+
+bearing the now-famous caption, “BIG BROTHER
+IS WATCHING YOU” (2).
+portant la légende désormais célèbre, "  BIG BROTHER
+TE REGARDE” (2).
+
+In this world, the government endorses something
+called “doublethink,” which links contradictory
+Dans ce monde, le gouvernement approuve quelque chose
+appelé «double pensée», qui relie des
+
+beliefs.
+croyances contradictoires.
+
+So you see slogans like: “WAR IS PEACE,”
+“FREEDOM IS SLAVERY,” and “IGNORANCE
+Ainsi, vous voyez des slogans comme : "LA GUERRE C'EST LA PAIX",
+"LA LIBERTÉ C'EST L'ESCLAVAGE" et "L'IGNORANCE
+
+IS STRENGTH” are commonplace.
+C'EST LA FORCE" sont monnaie courante.
+
+The problem isn’t that citizens are told
+the opposite of what is true.
+Le problème n'est pas qu'on dit
+aux citoyens le contraire de ce qui est vrai.
+
+The real issue is that their experiences have
+become so limited that they lack the perspective
+Le vrai problème est que leurs expériences sont
+devenues si limitées qu'ils manquent de perspective
+
+and the language to differentiate between
+major concepts.
+et de langage pour différencier les
+principaux concepts.
+
+But, let’s back up for a second and talk
+about George Orwell.
+Mais revenons en arrière une seconde et parlons
+de George Orwell.
+
+Here’s some “doublespeak” for you: George
+Orwell is not George Orwell.
+Voici un "double langage" pour vous : George
+Orwell n'est pas George Orwell.
+
+He was born Eric Arthur Blair in 1903 to English
+parents in Bengal, near the border with Nepal.
+Il est né Eric Arthur Blair en 1903 de
+parents anglais au Bengale, près de la frontière avec le Népal.
+
+His father worked in “quality control”
+for opium, which is used to make morphine,
+Son père travaillait dans le «contrôle de la qualité»
+de l'opium, qui est utilisé pour fabriquer de la morphine, de la
+
+codeine, and heroin, and the British held
+a monopoly on the trade of opium for years
+codéine et de l'héroïne, et les Britanniques ont détenu le
+monopole du commerce de l'opium pendant des années
+
+and exported it to China, both for financial
+gain and to subdue Chinese citizens.
+et l'ont exporté vers la Chine, à la fois pour un
+gain financier et pour soumettre les Chinois.  citoyens. 
+
+Although the Chinese government tried to get
+the British to dismantle the India-China opium
+Bien que le gouvernement chinois ait tenté d'amener
+les Britanniques à démanteler le commerce de l'opium entre l'Inde et la Chine
+
+trade for 150 years, and there were wars fought
+about it, they weren’t successful until
+pendant 150 ans, et qu'il y ait eu des guerres
+à ce sujet, ils n'ont réussi qu'en
+
+1910.
+1910.
+
+Basically, this was one of the largest (legal)
+international drug cartels in history.
+
+Ah, Colonialism: The Original Dystopia.
+Ah, le colonialisme : la dystopie originelle.
+
+I guess the original dystopia was actually
+hunting and gathering.
+Je suppose que la dystopie originale était en fait la
+chasse et la cueillette.
+
+I mean, at least for those of us who hate
+the paleo diet.
+Je veux dire, du moins pour ceux d'entre nous qui détestent
+le régime paléo.
+
+God, I love processed carbohydrates.
+Dieu, j'aime les glucides transformés.
+
+What were we talking about?
+De quoi parlions-nous? 
+
+Oh, right!
+Ah, c'est vrai !
+
+Eric Arthur Blair, soon to be George Orwell!
+Eric Arthur Blair, bientôt George Orwell !
+
+So as a kid, Blair moved to England and was
+eventually sent to Eton, a prestigious boarding
+Alors enfant, Blair a déménagé en Angleterre et a
+finalement été envoyé à Eton, un pensionnat prestigieux
+
+school.
+.
+
+In 1922, he joined the imperial police in
+Burma.
+En 1922, il rejoint la police impériale en
+Birmanie.
+
+In “Why I Write,” he explains that he
+rejected imperialism after spending five years
+Dans "Pourquoi j'écris", il explique qu'il a
+rejeté l'impérialisme après avoir passé cinq ans
+
+in the “unsuitable profession” of working
+in the imperial police force and experienced
+dans la "profession inadaptée" de travailler
+dans la police impériale et qu'il a
+
+poverty himself when he returned to England.
+lui-même connu la pauvreté à son retour en Angleterre.
+
+Sensitized to the evils of colonialism, and
+now “fully aware of the existence of the
+Sensibilisé aux maux du colonialisme, et
+désormais «pleinement conscient de l'existence des
+
+working classes,” Blair was on his way to
+forming what he called a “political orientation.”
+classes ouvrières», Blair était en passe de
+former ce qu'il appelait une «orientation politique».
+
+He changed his name to George Orwell when
+he published Down and Out in Paris and London
+Il a changé son nom pour George Orwell lorsqu'il
+a publié Down and Out à Paris et à Londres
+
+in 1933.
+en 1933.
+
+But he still hadn’t identified where he
+“stood” politically.
+Mais il n'avait toujours pas identifié sa
+« position » politique.
+
+Then in 1936, he declared that he was
+“against totalitarianism and for democratic
+Puis en 1936, il se déclare
+« contre le totalitarisme et pour le
+
+socialism, as I understand it.”
+socialisme démocratique, tel que je le comprends ».
+
+Democratic socialism basically uses democratic
+means to create a political and economic structure
+Le socialisme démocratique utilise essentiellement des
+moyens démocratiques pour créer une structure politique et économique
+
+that supports socialist goals.
+qui soutient les objectifs socialistes.
+
+You might think of it as being a rejection
+of unfettered capitalism.
+Vous pourriez y voir un rejet
+du capitalisme sans entraves.
+
+Orwell found the “real nature of capitalist
+society” abhorrent because:
+Orwell trouvait la « vraie nature de la
+société capitaliste » odieuse parce que :
+
+“I have seen British imperialism at work
+in Burma, and I have seen something of the
+« J'ai vu l'impérialisme britannique à l'œuvre
+en Birmanie, et j'ai vu quelque chose des
+
+effects of poverty and unemployment in Britain….
+effets de la pauvreté et du chômage en Grande-Bretagne….
+
+One has got to be actively a Socialist, not
+merely sympathetic to Socialism, or one plays
+Il faut être activement socialiste, pas
+simplement sympathisant avec le socialisme, sinon on
+
+into the hands of our always-active enemies.”
+fait le jeu de nos ennemis toujours actifs.
+
+Orwell was against Stalin and totalitarian
+strains of Communism as well.
+Orwell était également contre Staline et les
+souches totalitaires du communisme.
+
+For instance, in 1936, when he went to Spain
+to fight the Fascist leader, Francisco Franco,
+Par exemple, en 1936, lorsqu'il se rendit en Espagne
+pour combattre le leader fasciste Francisco Franco,
+
+he joined the Marxist group, POUM (Partido
+Obrero de Unificación Marxista).
+il rejoignit le groupe marxiste POUM (Partido
+Obrero de Unificación Marxista).
+
+He didn’t join the main communist party.
+Il n'a pas rejoint le principal parti communiste.
+
+In Homage to Catalonia, he explains:
+“the Communists stood not upon the extreme
+Dans Hommage à la Catalogne, il explique :
+« les communistes ne s'appuyaient pas sur l'extrême
+
+Left, but upon the extreme right.
+gauche, mais sur l'extrême droite.
+
+In reality this should come as no surprise,
+because of the tactics of the Communist parties
+En réalité, cela ne devrait pas surprendre, à
+cause des tactiques des partis communistes
+
+elsewhere.”
+ailleurs.
+
+These tactics, as seen in the USSR, include
+the conscious use of propaganda, the repression
+Ces tactiques, comme on le voit en URSS, incluent
+l'utilisation consciente de la propagande, la répression
+
+of individual freedoms, and also state-sponsored
+murder.
+des libertés individuelles, ainsi que le meurtre parrainé par l'État
+.
+
+But the point I want to make here is that
+it’s not quite accurate for either the contemporary
+Mais le point que je veux souligner ici est
+qu'il n'est pas tout à fait exact pour la
+
+left or right to “claim” Orwell--his most
+famous novels are anti-communist; but they’re
+gauche ou la droite contemporaine de "revendiquer" Orwell - ses
+romans les plus célèbres sont anticommunistes ;  mais ils sont
+
+also anti-capitalist.
+aussi anticapitalistes.
+
+Mostly, they seek to show the ways that many
+government structures are prone to totalitarianism,
+Surtout, ils cherchent à montrer les façons dont de nombreuses
+structures gouvernementales sont sujettes au totalitarisme,
+
+and they chart the slow, almost unnoticeable
+descent into that totalitarianism.
+et ils tracent la lente, presque imperceptible
+descente dans ce totalitarisme.
+
+But in 1984 specifically, Orwell explores
+the difficulty of retaining individual freedom
+Mais en 1984 précisément, Orwell explore
+la difficulté de conserver la liberté individuelle
+
+within the confines of an oppressive society.
+dans les limites d'une société oppressive.
+
+In the book, the earth is divided into three
+zones--Oceania, Eurasia, and Eastasia--which
+Dans le livre, la terre est divisée en trois
+zones - Océanie, Eurasie et Estasie - qui
+
+are constantly at war with one another.
+sont constamment en guerre les unes contre les autres.
+
+And Winston lives in London, the main city
+of Airstrip One, which is a province of Oceania.
+Et Winston vit à Londres, la ville principale
+d'Airstrip One, qui est une province d'Océanie.
+
+He’s legally married to the stiff, brainwashed,
+and desireless Katherine.
+Il est légalement marié à Katherine, raide, soumise au lavage de cerveau
+et sans désir.
+
+Unable to produce children, they live separately
+and are forbidden from remarrying.
+Incapables d'avoir des enfants, ils vivent séparés
+et n'ont pas le droit de se remarier.
+
+Winson’s primary pleasures include itching
+a varicose ulcer above his right ankle, drinking
+Les principaux plaisirs de Winson incluent les démangeaisons d'
+un ulcère variqueux au-dessus de sa cheville droite, boire des
+
+shots of a “sickly, oily” Victory Gin
+(which provides “the sensation of being
+shots d'un Victory Gin "maladif et gras"
+(qui procure "la sensation d'être
+
+hit on the back of the head with a rubber
+club”) and writing in a “thick, quarto-sized
+frappé à l'arrière de la tête avec un
+club en caoutchouc") et écrire dans un "  livre blanc épais de format in-quarto
+
+blank book with a red back and a marbled cover”
+(1, 5, 5).
+avec un dos rouge et une couverture marbrée »
+(1, 5, 5).
+
+So you know, his pleasures are scant.
+Alors vous savez, ses plaisirs sont rares.
+
+Any life where one of the chief pleasures
+is scratching an actual, literal itch, is
+Toute vie où l'un des principaux plaisirs
+est de gratter une démangeaison réelle et littérale n'est
+
+not, like, a great life.
+pas, comme, une grande vie.
+
+I mean, it’s a good life for a dog, but
+not a great life for a person.
+Je veux dire, c'est une belle vie pour un chien, mais
+pas une belle vie pour une personne.
+
+Then Winston’s pleasures, and anxieties,
+experience a significant uptick when he begins
+Ensuite, les plaisirs et les angoisses de Winston
+connaissent une augmentation significative lorsqu'il entame
+
+an affair with the young, vital and beautiful
+Julia.
+une liaison avec la jeune, vitale et belle
+Julia.
+
+Despite being “ten or fifteen years younger,”
+Julia boldly declares her love for Winston.
+Bien qu'elle ait "dix ou quinze ans de moins",
+Julia déclare avec audace son amour pour Winston.
+
+Winston is incredulous: “I’m thirty-nine
+years old.
+Winston est incrédule : « J'ai trente-neuf
+ans.
+
+I’ve got a wife that I can’t get rid of.
+J'ai une femme dont je ne peux pas me débarrasser.
+
+I’ve got varicose veins.
+J'ai des varices.
+
+I’ve got five false teeth.”
+J'ai cinq fausses dents.
+
+And the reader may have doubts as well.
+Et le lecteur peut aussi avoir des doutes.
+
+I mean, when Julia replies, “I couldn’t
+care less,” Orwell seems to acknowledge
+Je veux dire, quand Julia répond: "Je m'en
+fous", Orwell semble reconnaître
+
+(but not apologize for) this particular breed
+of middle-aged male fantasy.
+(mais sans s'excuser) cette race particulière
+de fantasme masculin d'âge moyen.
+
+(122).
+(122).
+
+But you know, it’s also a romance that serves
+a plot.
+Mais vous savez, c'est aussi une romance qui sert
+une intrigue.
+
+So, Winston and Julia meet secretly for months.
+Ainsi, Winston et Julia se rencontrent secrètement pendant des mois.
+
+They rent rooms from an antiques dealer named
+Mr. Charrington in the plebian quarter of
+Ils louent des chambres à un antiquaire nommé
+M. Charrington dans le quartier plébéien de
+
+London.
+Londres.
+
+They confess their affair and anti-party beliefs
+to O’Brien, a member of the Inner Party
+Ils confessent leur liaison et leurs convictions anti-parti
+à O'Brien, un membre de l'Inner Party
+
+who seems to be sympathetic to their cause.
+qui semble sympathiser avec leur cause.
+
+And they begin reading a book that is allegedly
+written by the underground resistance leader,
+Et ils commencent à lire un livre qui aurait été
+écrit par le chef de la résistance clandestine,
+
+Emmanuel Goldstein.
+Emmanuel Goldstein.
+
+They know that they’ll be discovered, tortured,
+and (very probably) executed.
+Ils savent qu'ils seront découverts, torturés
+et (très probablement) exécutés.
+
+Their victories--and yes they have some--come
+from small moments of consciousness, human
+Leurs victoires - et oui, elles en ont - viennent
+de petits moments de conscience, de
+
+connection, and personal freedom.
+connexion humaine et de liberté personnelle.
+
+And these moments are tiny.
+Et ces instants sont minuscules.
+
+For Winston, some of these moments include:
+procuring a pen with a real nib “simply
+Pour Winston, certains de ces moments incluent : se
+procurer un stylo avec une vraie plume « simplement
+
+because of a feeling that the beautiful creamy
+paper deserved to be written on” (7); succumbing
+parce que le sentiment que le beau
+papier crémeux méritait d'être écrit » (7) ;  succomber
+
+to the ”balminess of the April air” to
+stroll through the “labyrinth of London”
+à la « douceur de l'air d'avril » pour
+flâner dans le « labyrinthe de Londres »
+
+(84);
+Winston also purchases a glass paperweight
+(84) ;
+Winston achète également un presse-papier en verre
+
+containing coral, and all of this leads to
+a cool point:
+contenant du corail, et tout cela amène à
+un point intéressant :
+
+despite the authoritarian nature of Ingsoc
+(the perversion of socialism that dominates
+malgré la nature autoritaire d'Ingsoc
+(la perversion du socialisme qui domine l'
+
+Oceania), moments of personal freedom like
+these are commonplace.
+Océanie), des moments de liberté personnelle comme
+ceux-ci sont monnaie courante.
+
+There’s even a word for them in Newspeak,
+the new language that the government is developing:
+Il y a même un mot pour eux en novlangue,
+la nouvelle langue que le gouvernement est en
+
+“ownlife, it was called, meaning individualism
+and eccentricity” (84).
+train de développer : « propre vie, on l'appelait, signifiant individualisme
+et excentricité » (84).
+
+But of course, the line between experiencing
+an “ownlife” and engaging in political
+Mais bien sûr, la frontière entre vivre
+une « propre vie » et s'engager dans la
+
+subversion is really thin.
+subversion politique est vraiment mince.
+
+I mean, when Winston gives in to his “animal
+instinct, the simple undifferentiated desire”
+Je veux dire, quand Winston cède à son «
+instinct animal, le simple désir indifférencié»
+
+to have sex with Julia: “Their embrace had
+been a battle, the climax a victory.
+d'avoir des relations sexuelles avec Julia: «Leur étreinte avait
+été une bataille, le point culminant une victoire.
+
+It was a blow struck against the Party.
+C'était un coup porté au Parti.
+
+It was a political act” (128-9).
+C'était un acte politique » (128-9).
+
+There’s no ambiguity there.
+Il n'y a là aucune ambiguïté.
+
+Making your life yours, making your choices
+yours, is political.
+S'approprier sa vie, s'approprier ses choix
+, c'est politique.
+
+And also, having your own thoughts is political.
+Et aussi, avoir ses propres pensées est politique.
+
+I mean, The Party doesn’t just suppress
+subversion through surveillance, and arrest,
+Je veux dire, le Parti ne se contente pas de réprimer la
+subversion par la surveillance, l'arrestation, la
+
+and torture, and execution, those oldies but
+goodies from Totalitarianism for Dummies.
+torture et l'exécution, ces anciens, mais les
+goodies du totalitarisme pour les nuls.
+
+In 1984, the government also suppresses individualism
+by limiting language.
+En 1984, le gouvernement supprime également l'individualisme
+en limitant la langue.
+
+Just four pages into the book, an asterisk
+appears after the first mention of “Newspeak”:
+À peine quatre pages dans le livre, un astérisque
+apparaît après la première mention de "Newspeak":
+
+This asterisk interrupts the narrative flow,
+breaking any bond that the reader may be (or,
+Cet astérisque interrompt le flux narratif,
+rompant tout lien que le lecteur peut (ou,
+
+let’s be honest, may not be) forming with
+Winston.
+soyons honnêtes, peut ne pas former) avec
+Winston.
+
+And it entices the reader towards an appendix,
+narrated by a scholar living long after Winston.
+Et il attire le lecteur vers une annexe,
+racontée par un érudit vivant longtemps après Winston.
+
+The appendix explains that Newspeak had been
+“devised to meet the ideological needs of
+L'annexe explique que la novlangue avait été
+« conçue pour répondre aux besoins idéologiques de l'
+
+Ingsoc” (309) and that its vocabulary has
+been designed: “to make speech, and especially
+ingsoc » (309) et que son vocabulaire a
+été conçu : « pour faire de la parole, et en particulier de la
+
+speech on any subject not ideologically neutral,
+as nearly as possible independent of consciousness”
+parole sur tout sujet non idéologiquement neutre,
+le plus possible indépendamment de la conscience.  »
+
+(319).
+(319).
+
+In other words, it’s meant newspeak seeks
+to make it nearly impossible to express, and
+En d'autres termes, cela signifie que la novlangue cherche
+à rendre presque impossible d'exprimer, et
+
+maybe in turn maybe even to THINK, revolutionary
+thoughts.
+peut-être même de PENSER, des
+pensées révolutionnaires.
+
+Let’s go to the Thought-bubble:
+Newspeak has three main categories of vocabulary:
+Passons à la bulle de pensée :
+Newspeak a trois catégories principales de vocabulaire :
+
+The A vocabulary contains blunt words for
+daily functions, like eating, working, and
+Le vocabulaire A contient des mots directs pour
+les fonctions quotidiennes, comme manger, travailler et
+
+sleeping.
+dormir.
+
+These words don’t have multiple meanings.
+Ces mots n'ont pas plusieurs sens.
+
+(The examples listed include “hit, run,
+dog, tree, sugar, house, field”)
+(Les exemples cités incluent « hit, run,
+dog, tree, sugar, house, field »)
+
+The B vocabulary contains compound words that
+blend a noun and verb to express a limited
+Le vocabulaire B contient des mots composés qui
+mélangent un nom et un verbe pour exprimer un
+
+number of political or ideological concepts.
+nombre limité de concepts politiques ou idéologiques.
+
+Like, “Goodthink” means orthodoxy to party
+policy.
+Comme, "Goodthink" signifie l'orthodoxie à la
+politique du parti.
+
+“Crimethink” is its opposite.
+"Crimethink" est son contraire.
+
+And the C vocabulary is scientific and technical.
+Et le vocabulaire C est scientifique et technique.
+
+It contains jargon accessible only to workers
+in a particular field.
+Il contient un jargon accessible uniquement aux travailleurs
+d'un domaine particulier.
+
+The idea is that no individual will be able
+to synthesize knowledge from multiple fields.
+L'idée est qu'aucun individu ne sera capable
+de synthétiser les connaissances de plusieurs domaines.
+
+So people will be able to do their work, but
+not be able to understand the context in which
+Ainsi, les gens pourront faire leur travail, mais ils
+ne pourront pas comprendre le contexte dans lequel
+
+that work is happening.
+ce travail se déroule.
+
+And that’s one example of how, by trying
+to limit what people can say, the government
+Et c'est un exemple de la façon dont, en essayant
+de limiter ce que les gens peuvent dire, le
+
+is hoping to constrain what they can think.
+gouvernement espère restreindre ce qu'ils peuvent penser.
+
+And an interesting feature of the Appendix
+is that it explains th contained many superfluous
+Et une caractéristique intéressante de l'annexe
+est qu'elle explique qu'elle contenait de nombreux
+
+words and archaic formulations which were
+due to be suppressed later” (309).
+mots superflus et des formulations archaïques qui
+devaient être supprimées plus tard » (309).
+
+This foreshadows that language will become
+increasingly oppressive…
+Cela laisse présager que le langage deviendra de
+plus en plus oppressant…
+
+Which, of course, is bad news for Winston
+and his peers.
+Ce qui, bien sûr, est une mauvaise nouvelle pour Winston
+et ses pairs.
+
+But there is some good news for the rest of
+humanity.
+Mais il y a de bonnes nouvelles pour le reste de l'
+humanité.
+
+Because you will notice that the appendix
+is written in Standard English.
+Parce que vous remarquerez que l'annexe
+est rédigée en anglais standard.
+
+As many readers (including Thomas Pynchon
+and Margaret Atwood) have pointed out, this
+Comme de nombreux lecteurs (dont Thomas Pynchon
+et Margaret Atwood) l'ont souligné, cela
+
+suggests that free thought and its expression
+will ultimately prevail, and that language
+suggère que la libre pensée et son expression
+finiront par prévaloir, et que le langage
+
+will once again be rich and complex and free.
+sera à nouveau riche, complexe et libre.
+
+Thanks Thought Bubble.
+Merci Bulle de Pensée.
+
+So how do we get back to free language?
+Alors comment revenir au langage libre ?
+
+Well I’m a writer, and as such I’m almost
+professionally obligated to believe in the
+Eh bien, je suis un écrivain, et en tant que tel, je suis presque
+professionnellement obligé de croire au
+
+power of language--and next week we’ll go
+into more detail about the complicated relationship
+pouvoir du langage - et la semaine prochaine, nous aborderons
+plus en détail la relation compliquée
+
+between thoughts and language, but I think
+it’s worth mentioning now that while we
+entre les pensées et le langage, mais je pense que
+cela vaut la peine d'être mentionné  maintenant que même si nous
+
+don’t think entirely in words, language
+does help give form and expression to complex
+ne pensons pas entièrement avec des mots, le
+langage aide à donner forme et expression à des
+
+ideas within us.
+idées complexes en nous.
+
+I mean, that’s part of what books attempt
+to do, but it’s also something we’re all
+Je veux dire, cela fait partie de ce que les livres tentent
+de faire, mais c'est aussi quelque chose que nous
+
+doing all day, because we think in language.
+faisons tous toute la journée, parce que nous pensons en langage.
+
+It’s one of the primary ways we communicate
+our feelings and experiences to other people,
+C'est l'un des principaux moyens par lesquels nous communiquons
+nos sentiments et nos expériences aux autres,
+
+but it’s also one of the primary ways we
+communicate that stuff within us.
+mais c'est aussi l'un des principaux moyens par
+lesquels nous communiquons ces choses en nous.
+
+And I think in 1984 Orwell argues that the
+restriction of language is ultimately a form
+Et je pense qu'en 1984, Orwell soutient que la
+restriction du langage est finalement une forme
+
+of restricting thought itself.
+de restriction de la pensée elle-même.
+
+It’s encouraging that Newspeak may ultimately
+fail, but it does make me wonder: what thoughts
+Il est encourageant que la novlangue puisse finalement
+échouer, mais cela me fait me demander : quelles pensées
+
+can’t I think because of the language that
+I’ve inherited?
+ne puis-je pas penser à cause de la langue dont
+j'ai hérité ?
+
+Next time we’ll also address a question
+that should be on your mind (since you’re
+La prochaine fois, nous aborderons également une question
+qui devrait vous préoccuper (puisque vous
+
+watching this video on something very like
+a telescreen, possibly while in a government-funded
+regardez cette vidéo sur quelque chose qui ressemble beaucoup à
+un téléécran, peut-être dans une école financée par
+
+school where the government is deciding at
+least in part what you learn about):
+le gouvernement où le gouvernement décide au
+moins en partie de ce que vous apprenez  à propos) :
+
+What can 1984 teach us about our current political
+context and our relationship to what many
+Que peut nous apprendre 1984 sur notre
+contexte politique actuel et notre rapport à ce que beaucoup
+
+have called “surveillance” society?
+ont appelé la société de « surveillance » ?
+
+And in a world where so many of us volunteer
+so much of ourselves to the public sphere,
+Et dans un monde où tant d'entre nous se portent volontaires
+pour la sphère publique
+
+is there value in private life?
+, y a-t-il une valeur dans la vie privée ?
+
+Spoiler alert: I think so.
+Alerte spoiler : Je pense que oui.
+
+But we’ll talk more about that next week.
+Mais nous en reparlerons la semaine prochaine.
+
+Thanks for watching.
+Merci d'avoir regardé. 
+
+I’ll see you then.
+À plus.
+

@@ -1,0 +1,591 @@
+There’s more than one way to change the
+world.
+Il y a plus d'une façon de changer le
+monde.
+
+Throughout this series, we’ve seen how
+different fields in engineering tackle some
+of society’s biggest problems.
+Tout au long de cette série, nous avons vu comment
+différents domaines de l'ingénierie s'attaquent à certains
+des plus grands problèmes de la société.
+
+From medicine to space travel, wherever there’s
+a challenge, engineers are at hand.
+De la médecine aux voyages dans l'espace, partout où il y a
+un défi, les ingénieurs sont à portée de main.
+
+By learning about these disciplines, you’re
+already doing your part.
+En vous renseignant sur ces disciplines, vous
+faites déjà votre part.
+
+Whether or not you choose to be an engineer,
+knowing how they work will help you understand
+and engage with everything around you.
+Que vous choisissiez ou non d'être ingénieur,
+savoir comment ils fonctionnent vous aidera à comprendre
+et à vous engager avec tout ce qui vous entoure.
+
+After all, thinking about the world more
+complexly makes us more informed and
+considerate about our place in it.
+Après tout, penser au monde de
+manière plus complexe nous rend plus informés et
+attentifs à notre place dans celui-ci.
+
+But if you think you might want to become
+an engineer, we can help point the way.
+Mais si vous pensez que vous pourriez vouloir
+devenir ingénieur, nous pouvons vous aider à vous montrer la voie.
+
+[Theme Music]
+[Thème musical]
+
+We’ve covered a lot of ground here on Crash
+Course.
+Nous avons couvert beaucoup de terrain ici sur Crash
+Course.
+
+We’ve seen engineers in action in the fields
+of Civil, Mechanical, Electrical, and Chemical
+Engineering, to name a few.
+Nous avons vu des ingénieurs en action dans les domaines
+du génie civil, mécanique, électrique et chimique
+, pour n'en nommer que quelques-uns.
+
+The main thing distinguishing those fields
+from one another is the problems they focus on
+and the outcomes they’re trying to achieve.
+La principale chose qui distingue ces domaines
+les uns des autres est les problèmes sur lesquels ils se concentrent
+et les résultats qu'ils essaient d'atteindre.
+
+But even within a particular field, different
+engineers will have distinct approaches to
+tackling the problem at hand.
+Mais même dans un domaine particulier, différents
+ingénieurs auront des approches distinctes pour
+résoudre le problème à résoudre.
+
+Some come at things from a theoretical perspective,
+considering the implications of a design or an idea.
+Certains abordent les choses d'un point de vue théorique, en
+considérant les implications d'un design ou d'une idée.
+
+Others take a more hands-on role, experimenting
+with prototypes and physical parts to determine
+their behavior and collect information.
+D'autres jouent un rôle plus pratique, expérimentant
+des prototypes et des pièces physiques pour déterminer
+leur comportement et collecter des informations.
+
+Which is not to say engineers are restricted
+to one or the other.
+Ce qui ne veut pas dire que les ingénieurs sont limités
+à l'un ou à l'autre.
+
+But it’s worth bearing in mind that engineering
+can be done in lots of different ways within fields too.
+Mais il convient de garder à l'esprit que l'ingénierie
+peut également être réalisée de différentes manières dans les domaines.
+
+The process of becoming an engineer can be
+hard work, so whether you’re more comfortable
+at a blackboard or a lab bench,
+Le processus pour devenir ingénieur peut être
+un travail difficile, donc que vous soyez plus à l'aise
+devant un tableau noir ou une paillasse de laboratoire,
+
+it’s still important to pick a field whose
+problems interest and inspire you.
+il est toujours important de choisir un domaine dont les
+problèmes vous intéressent et vous inspirent.
+
+Professional engineers are continually
+learning to keep up with the latest techniques
+and technology in their field.
+Les ingénieurs professionnels apprennent continuellement
+à se tenir au courant des dernières techniques
+et technologies dans leur domaine.
+
+But there are some useful fundamentals that
+apply to all kinds of engineering.
+Mais il existe des principes fondamentaux utiles qui
+s'appliquent à tous les types d'ingénierie.
+
+Many topics from physics, like thermodynamics,
+energy, electromagnetism, and mechanics will
+come in handy.
+De nombreux sujets de physique, tels que la thermodynamique, l'
+énergie, l'électromagnétisme et la mécanique, vous
+seront utiles.
+
+Mathematics will be the foundation of nearly
+everything you do, and computer programming is
+becoming an increasingly vital tool as well.
+Les mathématiques seront à la base de presque
+tout ce que vous faites, et la programmation informatique
+devient également un outil de plus en plus vital.
+
+Even if you prefer a hands-on approach, a
+bit of theoretical knowledge goes a long way
+in finding practical solutions!
+Même si vous préférez une approche pratique,
+un peu de connaissances théoriques vous permettront
+de trouver des solutions pratiques !
+
+Now, to get an idea of the sorts of jobs you
+might have as an engineer, it’s helpful to run
+through some examples.
+Maintenant, pour avoir une idée des types d'emplois que vous
+pourriez avoir en tant qu'ingénieur, il est utile de
+parcourir quelques exemples.
+
+For instance, consider aerospace engineering.
+Par exemple, considérons l'ingénierie aérospatiale.
+
+Maybe you’re part of a team creating wings
+for a new airplane.
+Peut-être faites-vous partie d'une équipe qui crée des ailes
+pour un nouvel avion.
+
+At every stage of the process, different engineers
+– both inside and outside the company – will
+have an impact.
+À chaque étape du processus, différents ingénieurs
+– tant à l'intérieur qu'à l'extérieur de l'entreprise –
+auront un impact.
+
+Early on, a lot of the work will focus on
+designing and modeling the wings.
+Au début, une grande partie du travail se concentrera sur la
+conception et la modélisation des ailes.
+
+As we saw when looking at engineering design,
+before you set out to build anything,
+Comme nous l'avons vu lors de l'examen de la conception technique,
+avant de commencer à construire quoi que ce soit,
+
+you need to know what you want to achieve and
+then develop a plan that allows you to get there.
+vous devez savoir ce que vous voulez réaliser,
+puis élaborer un plan qui vous permette d'y arriver.
+
+That’s the task for design engineers.
+C'est la tâche des ingénieurs de conception.
+
+Although they’re involved at every stage, they have
+an especially big impact at the beginning, since they
+oversee the core ideas and details behind the product.
+Bien qu'ils soient impliqués à chaque étape, ils ont
+un impact particulièrement important au début, car ils
+supervisent les idées de base et les détails derrière le produit.
+
+As a design engineer, you’d be working alongside
+others to determine the exact details of the wings
+needed to support the rest of the plane.
+En tant qu'ingénieur concepteur, vous travaillerez aux côtés d'
+autres personnes pour déterminer les détails exacts des ailes
+nécessaires pour supporter le reste de l'avion.
+
+A commercial airliner has different weight
+and speed requirements than that of a fighter jet.
+Un avion de ligne commercial a des
+exigences de poids et de vitesse différentes de celles d'un avion de chasse.
+
+So you might gather inspiration from existing
+designs for the shape and materials of the wing,
+and where the engines will go.
+Vous pouvez donc vous inspirer des
+conceptions existantes pour la forme et les matériaux de l'aile,
+et où les moteurs iront.
+
+A key part of being a design engineer is knowing
+how to balance competing needs and how those
+needs trickle down into the little details!
+Un élément clé du métier d'ingénieur de conception est de savoir
+comment équilibrer des besoins concurrents et comment ces
+besoins se répercutent dans les moindres détails !
+
+Throughout the process, you have to consider
+the cost, energy use, and construction difficulty
+of each part.
+Tout au long du processus, vous devez tenir compte
+du coût, de la consommation d'énergie et de la difficulté
+de construction de chaque pièce.
+
+Moving a bolt by a few millimeters might seem
+tedious, but it can have a huge impact on how
+safe or easy-to-build the plane is.
+Déplacer un boulon de quelques millimètres peut sembler
+fastidieux, mais cela peut avoir un impact énorme sur la
+sécurité ou la facilité de construction de l'avion.
+
+Of course, to make those decisions, you’ll
+often need to model your design so you can
+iterate and improve things.
+Bien sûr, pour prendre ces décisions, vous
+devrez souvent modéliser votre conception afin de pouvoir
+itérer et améliorer les choses.
+
+And for that, analytical engineers are essential.
+Et pour cela, les ingénieurs analytiques sont indispensables.
+
+Analytical engineers mathematically model
+and analyze the behavior of designs and concepts.
+Les ingénieurs analytiques modélisent
+et analysent mathématiquement le comportement des conceptions et des concepts.
+
+Rather than build an entire airplane wing
+from scratch every time you want to test
+some of its features,
+Plutôt que de construire une aile d'avion entière à
+partir de zéro chaque fois que vous souhaitez tester
+certaines de ses caractéristiques,
+
+an analytical engineer would use the toolkit of
+mathematics and physics to test its performance
+under hypothetical conditions.
+un ingénieur analytique utiliserait la boîte à outils des
+mathématiques et de la physique pour tester ses performances
+dans des conditions hypothétiques.
+
+For example, you might want to know something as
+simple as whether the wing can support its own weight.
+Par exemple, vous voudrez peut-être savoir quelque chose d'aussi
+simple que si l'aile peut supporter son propre poids.
+
+To answer this, an analytical engineer could run
+what’s called a finite element analysis to simulate
+how gravity affects every part of the wing.
+Pour répondre à cela, un ingénieur analytique pourrait exécuter
+ce qu'on appelle une analyse par éléments finis pour simuler
+comment la gravité affecte chaque partie de l'aile.
+
+Of course, the main purpose of a wing is to
+generate enough lift to keep the plane airborne!
+Bien sûr, le but principal d'une aile est de
+générer suffisamment de portance pour maintenir l'avion en vol !
+
+For that, they might use computer simulations
+of airflow to estimate the force of lift generated
+at different speeds and wing angles.
+Pour cela, ils pourraient utiliser des simulations informatiques
+de flux d'air pour estimer la force de portance générée
+à différentes vitesses et angles d'aile.
+
+The results an analytical engineer generates
+would then help the designers to improve the
+wing’s performance.
+Les résultats générés par un ingénieur analytique
+aideraient ensuite les concepteurs à améliorer les
+performances de l'aile.
+
+But sometimes, hypothetical models
+aren’t enough, which is where experimental
+engineers come in.
+Mais parfois, les modèles hypothétiques
+ne suffisent pas, et c'est là que les
+ingénieurs expérimentaux entrent en jeu.
+
+Fluid flows are extremely tricky to simulate
+and predict.
+Les écoulements de fluides sont extrêmement difficiles à simuler
+et à prévoir.
+
+Behavior like turbulence is hard to describe
+mathematically, even with the help of a computer!
+Un comportement comme la turbulence est difficile à décrire
+mathématiquement, même avec l'aide d'un ordinateur !
+
+Experimental engineers are tasked with
+designing small-scale prototypes to test in
+real, physical environments.
+Les ingénieurs expérimentaux sont chargés de
+concevoir des prototypes à petite échelle à tester dans
+des environnements physiques réels.
+
+If you were an experimental engineer, you’d take the
+improved design and find a way to recreate the wing
+– or even the entire plane – as a scale replica.
+Si vous étiez un ingénieur expérimental, vous prendriez la
+conception améliorée et trouveriez un moyen de recréer l'aile
+- ou même l'avion entier - comme une réplique à l'échelle.
+
+Putting the model in a wind tunnel would then
+provide a real flow of air around the wing to test
+how its shape generates lift.
+Mettre le modèle dans une soufflerie fournirait alors
+un véritable flux d'air autour de l'aile pour tester
+comment sa forme génère de la portance.
+
+This gives the designers a pretty good idea about
+the true lift the wing will generate, and any turbulence
+the plane might experience because of its shape.
+Cela donne aux concepteurs une assez bonne idée de
+la portance réelle que l'aile générera et de toute turbulence que
+l'avion pourrait subir en raison de sa forme.
+
+It also serves as a cross-check of the results
+that analytical engineers produce.
+Il sert également de contre-vérification des
+résultats produits par les ingénieurs analytiques.
+
+Once a design is put together and the design
+engineers have laid out a way of manufacturing
+it, it’s time to build the real thing.
+Une fois qu'une conception est assemblée et que les
+ingénieurs concepteurs ont défini un moyen de la
+fabriquer, il est temps de construire la vraie chose.
+
+Manufacturing engineers work out the practical
+questions of how to bring the design into existence
+and what specific techniques to use.
+Les ingénieurs de fabrication résolvent les questions pratiques sur la
+manière de concrétiser la conception
+et sur les techniques spécifiques à utiliser.
+
+This has a huge impact on the safety and quality
+of the final product.
+Cela a un impact énorme sur la sécurité et la qualité
+du produit final.
+
+For example, the rivets that attach parts of
+the wing together need to be firmly installed to
+maintain the structural integrity of the plane.
+Par exemple, les rivets qui fixent les parties de
+l'aile ensemble doivent être fermement installés pour
+maintenir l'intégrité structurelle de l'avion.
+
+A manufacturing engineer would determine
+the best technique for drilling the rivet holes to
+precisely the right diameter and depth.
+Un ingénieur de fabrication déterminerait
+la meilleure technique pour percer les trous de rivet avec
+précision au bon diamètre et à la bonne profondeur.
+
+That’s essential for installing them in a way that efficiently transfers forces from one part of the wing to another, and keeps them from disrupting airflow during the flight.
+C'est essentiel pour les installer de manière à transférer efficacement les forces d'une partie de l'aile à une autre et à les empêcher de perturber le flux d'air pendant le vol.
+
+Even once you know how to make one, you wouldn’t
+just go out and make hundreds of planes all at once.
+Même une fois que vous savez comment en fabriquer un, vous ne vous
+contenterez pas de sortir et de fabriquer des centaines d'avions en même temps.
+
+The first one needs to be scrutinised by test
+engineers.
+Le premier doit être examiné par des
+ingénieurs de test.
+
+They’re tasked with checking that the final
+product meets all the specifications laid out in the
+design and meets quality control expectations.
+Ils sont chargés de vérifier que le
+produit final répond à toutes les spécifications énoncées dans la
+conception et répond aux attentes en matière de contrôle de la qualité.
+
+For your wing, that might be everything from finding
+its breaking point to seeing how it reacts to extreme
+temperatures, simulated rain, or even hail.
+Pour votre aile, cela peut aller de la recherche de
+son point de rupture à la façon dont elle réagit aux
+températures extrêmes, à la pluie simulée ou même à la grêle.
+
+Test engineers are a bit like the experimental
+kind.
+Les ingénieurs de test sont un peu comme le
+genre expérimental.
+
+But rather than testing prototypes, they work
+with the final product.
+Mais plutôt que de tester des prototypes, ils travaillent
+avec le produit final.
+
+Faults they find can be a big deal, because
+so much has already been decided by the time
+a product is produced.
+Les défauts qu'ils trouvent peuvent être un gros problème, car
+tant de choses ont déjà été décidées au moment où
+un produit est fabriqué.
+
+These steps might seem kind of like a checklist,
+but it actually takes a lot of ingenuity and creative
+thinking to make progress on complex projects.
+Ces étapes peuvent ressembler à une liste de contrôle,
+mais il faut en fait beaucoup d'ingéniosité et de
+créativité pour progresser sur des projets complexes.
+
+At every step along the way, research engineers
+play a key support role to make sure that happens.
+À chaque étape du processus, les ingénieurs de recherche
+jouent un rôle de soutien clé pour s'assurer que cela se produise.
+
+They spend time finding new ways to solve problems,
+Ils passent du temps à trouver de nouvelles façons de résoudre les problèmes,
+
+like using an innovative new metal alloy or a
+totally different wing shape to improve lift and
+reduce turbulence.
+comme l'utilisation d'un nouvel alliage métallique innovant ou une
+forme d'aile totalement différente pour améliorer la portance et
+réduire les turbulences.
+
+Outside of industry, research engineers
+share a bit in common with university
+researchers and professors.
+En dehors de l'industrie, les ingénieurs de recherche
+ont des points communs avec les
+chercheurs et professeurs universitaires.
+
+Academic engineers do research across entire
+fields.
+Les ingénieurs universitaires font des recherches dans des
+domaines entiers.
+
+They might study everything from new uses of
+polymers to battery chemicals or even robotic limbs.
+Ils pourraient tout étudier, des nouvelles utilisations des
+polymères aux produits chimiques des batteries ou même aux membres robotiques.
+
+In general, there’s a lot of overlap with
+the role of a scientist.
+En général, il y a beaucoup de chevauchement avec
+le rôle d'un scientifique.
+
+A professor of aerospace engineering might
+lead a team to investigate computer techniques for
+modeling airflow around different objects.
+Un professeur d'ingénierie aérospatiale pourrait
+diriger une équipe pour étudier des techniques informatiques permettant de
+modéliser le flux d'air autour de différents objets.
+
+Those methods could then help develop new
+software that’s used by analytical or research
+engineers to model plane wings.
+Ces méthodes pourraient ensuite aider à développer de nouveaux
+logiciels utilisés par les ingénieurs analytiques ou de recherche
+pour modéliser les ailes des avions.
+
+In fact, modeling the flow of fluids using
+computers is precisely what I worked on while
+undertaking my doctorate in engineering!
+En fait, modéliser l'écoulement des fluides à l'aide d'
+ordinateurs, c'est précisément ce sur quoi j'ai travaillé tout en
+entreprenant mon doctorat en ingénierie !
+
+A doctorate, or PhD, is a specialized degree
+engineers often need to work at a university, and
+usually involves research into a new technique or idea.
+Un doctorat, ou PhD, est un diplôme spécialisé dont les
+ingénieurs ont souvent besoin pour travailler dans une université et
+implique généralement la recherche d'une nouvelle technique ou idée.
+
+If you work your way up to professor, you’ll
+also be involved in teaching students.
+Si vous progressez jusqu'au rang de professeur, vous serez
+également impliqué dans l'enseignement aux étudiants.
+
+Which brings us to the first stage of every
+engineer’s career: education!
+Ce qui nous amène à la première étape de
+la carrière de tout ingénieur : l'éducation !
+
+Crash Course Engineering is an educational video series,
+so we hope you’ve learned a lot with us and have a
+newfound appreciation for the basics of engineering.
+Crash Course Engineering est une série de vidéos éducatives
+, nous espérons donc que vous avez beaucoup appris avec nous et que vous avez une
+nouvelle appréciation des bases de l'ingénierie.
+
+But to become a professional engineer, it’s
+important to do well in school, especially
+learning math and science concepts.
+Mais pour devenir ingénieur professionnel, il est
+important de bien réussir à l'école, en particulier en
+apprenant les concepts mathématiques et scientifiques.
+
+The next step could then be taking a training course like an electrical engineering apprenticeship, where you could pick up relevant skills by learning from experienced engineers.
+La prochaine étape pourrait alors consister à suivre une formation comme un apprentissage en génie électrique, où vous pourriez acquérir des compétences pertinentes en apprenant auprès d'ingénieurs expérimentés.
+
+More common is attending a university to get
+a degree in engineering.
+Il est plus courant de fréquenter une université pour obtenir
+un diplôme d'ingénieur.
+
+A typical degree program will expose you to different
+fields and ideas, so you can work out what field you
+might want to enter and the kinds of work you could do.
+Un programme d'études typique vous exposera à différents
+domaines et idées, afin que vous puissiez déterminer dans quel domaine vous
+pourriez vouloir entrer et les types de travail que vous pourriez faire.
+
+But you don’t need to decide everything
+right away.
+Mais vous n'avez pas besoin de tout décider tout de
+suite.
+
+Even if you’re not sure what sort, pursuing
+a career in engineering won’t close many doors.
+Même si vous n'êtes pas sûr du type, poursuivre
+une carrière en ingénierie ne vous fermera pas beaucoup de portes.
+
+The problem-solving skills you develop will
+serve you even if you decide to switch fields later on.
+Les compétences en résolution de problèmes que vous développez
+vous serviront même si vous décidez de changer de domaine plus tard.
+
+Engineers have even been known to go into
+law, finance, and politics!
+Les ingénieurs sont même connus pour se lancer dans le
+droit, la finance et la politique !
+
+So however it is you choose to change the
+world, we hope this course has inspired you
+towards that goal.
+Quelle que soit la manière dont vous choisissez de changer le
+monde, nous espérons que ce cours vous a inspiré
+vers cet objectif.
+
+In this episode, we looked at how to become
+an engineer and the different sorts of career
+paths you might choose to follow.
+Dans cet épisode, nous avons examiné comment
+devenir ingénieur et les différents types de cheminements de carrière que
+vous pourriez choisir de suivre.
+
+I’ll see you next time for our final episode,
+where we explore the greatest challenges facing
+the world in the twenty-first century.
+Je vous verrai la prochaine fois pour notre dernier épisode,
+où nous explorons les plus grands défis auxquels
+le monde est confronté au XXIe siècle.
+
+Crash Course Engineering is produced in association
+with PBS Digital Studios.
+Crash Course Engineering est produit en association
+avec PBS Digital Studios.
+
+As you plan your next steps as an engineer,
+why not learn more about your brain with Braincraft,
+Alors que vous planifiez vos prochaines étapes en tant qu'ingénieur,
+pourquoi ne pas en savoir plus sur votre cerveau avec Braincraft,
+
+a show about psychology, neuroscience and
+why we act the way we do.
+une émission sur la psychologie, les neurosciences et
+pourquoi nous agissons comme nous le faisons.
+
+Check it out at the link in the description
+Découvrez-le sur le lien dans la description
+
+Crash Course is a Complexly production and this
+episode was filmed in the Doctor Cheryl C. Kinney
+Studio with the help of these wonderful people.
+Crash Course est une production complexe et cet
+épisode a été filmé dans le studio du docteur Cheryl C. Kinney
+avec l'aide de ces personnes merveilleuses.
+
+And our amazing graphics team is Thought Cafe.
+Et notre incroyable équipe graphique est Thought Cafe.
+

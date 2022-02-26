@@ -1,0 +1,664 @@
+It happens to all of us eventually.
+Cela nous arrive à tous finalement.
+
+You pull out your phone, maybe to show your
+friend that awesome new video.
+Vous sortez votre téléphone, peut-être pour montrer à votre
+ami cette nouvelle vidéo géniale.
+
+But as you’re about to start watching it all those
+warning messages from your phone that you’ve
+been ignoring finally come back to haunt you.
+Mais alors que vous êtes sur le point de commencer à le regarder, tous ces
+messages d'avertissement de votre téléphone que vous
+avez ignorés reviennent enfin vous hanter.
+
+The screen fades to black and your phone goes
+dead.
+L'écran devient noir et votre téléphone
+s'éteint.
+
+You might slap your forehead and wish you’d
+charged your phone earlier,
+Vous pourriez vous gifler le front et souhaiter avoir
+chargé votre téléphone plus tôt,
+
+but as an engineer, you might also be wondering why
+we can’t simply design batteries that last longer.
+mais en tant qu'ingénieur, vous vous demandez peut-être aussi pourquoi
+nous ne pouvons pas simplement concevoir des batteries qui durent plus longtemps.
+
+Well, it turns out that it’s much harder
+than it sounds.
+Eh bien, il s'avère que c'est beaucoup plus difficile
+qu'il n'y paraît.
+
+[Theme Music]
+[Thème musical]
+
+A battery’s job is to provide a voltage, or energy
+supply, to push a current through a circuit in the
+form of negatively charged electrons.
+Le travail d'une batterie est de fournir une tension, ou une
+alimentation en énergie, pour pousser un courant à travers un circuit sous la
+forme d'électrons chargés négativement.
+
+When it can’t provide enough voltage to
+power the circuit anymore, the battery’s dead.
+Lorsqu'il ne peut plus fournir suffisamment de tension pour
+alimenter le circuit, la batterie est morte.
+
+And the length of its life mostly depends
+on the battery’s three main parts:
+Et la durée de sa durée de vie dépend
+principalement des trois parties principales de la batterie :
+
+a negative terminal, called an anode; a positive
+terminal, called a cathode; and the electrolyte that
+lets charges flow between them.
+une borne négative, appelée anode ;  une
+borne positive, appelée cathode ;  et l'électrolyte qui
+laisse passer les charges entre eux.
+
+An anode and cathode are both electrodes,
+the bits that make contact between the chemistry
+of the battery and the circuit.
+Une anode et une cathode sont toutes deux des électrodes,
+les bits qui établissent le contact entre la chimie
+de la batterie et le circuit.
+
+They drive the electrochemical reactions that
+provide power to the circuit.
+Ils pilotent les réactions électrochimiques
+qui alimentent le circuit.
+
+It all starts with a process called oxidation,
+which causes electrons to build up in the anode
+when the battery is connected to a circuit.
+Tout commence par un processus appelé oxydation,
+qui provoque l'accumulation d'électrons dans l'anode
+lorsque la batterie est connectée à un circuit.
+
+Electrons tend to repel one another because
+they have the same charge, so the anode is
+essentially pushing all those electrons away.
+Les électrons ont tendance à se repousser parce
+qu'ils ont la même charge, donc l'anode
+repousse essentiellement tous ces électrons.
+
+At first, it might seem like the obvious place
+for them to go is straight to the cathode at the
+other end of the battery.
+Au début, il peut sembler que l'endroit évident où
+aller est directement à la cathode à l'
+autre extrémité de la batterie.
+
+But that’s exactly what the electrolyte is there
+to prevent – electrons can’t flow through it.
+Mais c'est exactement ce que l'électrolyte est là
+pour empêcher - les électrons ne peuvent pas le traverser.
+
+So instead, the anode’s electrons flow through the
+circuit, delivering power to anything connected to it
+Ainsi, à la place, les électrons de l'anode traversent le
+circuit, fournissant de l'énergie à tout ce qui y est
+
+as they move toward the cathode, where another
+chemical reaction draws them in: reduction.
+connecté lorsqu'ils se déplacent vers la cathode, où une autre
+réaction chimique les attire : la réduction.
+
+In reduction, the cathode absorbs the electrons,
+which is what makes it the positive terminal
+in the power supply.
+En réduction, la cathode absorbe les électrons,
+ce qui en fait la borne positive
+de l'alimentation.
+
+Meanwhile, inside the battery, other charges
+are moving.
+Pendant ce temps, à l'intérieur de la batterie, d'autres
+charges bougent.
+
+As all those electrons are released from the anode during oxidation, they leave positively charged ions behind, which can travel through the electrolyte to the cathode.
+Comme tous ces électrons sont libérés de l'anode lors de l'oxydation, ils laissent derrière eux des ions chargés positivement, qui peuvent traverser l'électrolyte jusqu'à la cathode.
+
+Something similar happens at the cathode too.
+Quelque chose de similaire se produit également à la cathode.
+
+As it gains electrons, it creates negative
+ions that travel to the anode.
+Au fur et à mesure qu'il gagne des électrons, il crée des
+ions négatifs qui se rendent à l'anode.
+
+The chemical exchange releases energy, which
+sustains the oxidation and reduction reactions
+to keep the battery going.
+L'échange chimique libère de l'énergie, qui
+soutient les réactions d'oxydation et de réduction
+pour maintenir la batterie en marche.
+
+Eventually, the rate of oxidation and reduction
+decreases, which in turn decreases the voltage,
+Finalement, le taux d'oxydation et de réduction
+diminue, ce qui à son tour diminue la tension,
+
+until it finally gets to the point where it can
+no longer power the current through the circuit.
+jusqu'à ce qu'il arrive finalement au point où il
+ne peut plus alimenter le courant à travers le circuit.
+
+In other words, the battery is out of power.
+En d'autres termes, la batterie est déchargée.
+
+The amount of power you can cram into one
+battery mostly depends on its type.
+La quantité d'énergie que vous pouvez entasser dans une
+batterie dépend principalement de son type.
+
+And there are lots of different types of batteries,
+because depending on what you’re using them
+for, you’ll probably want different qualities.
+Et il existe de nombreux types de piles différents,
+car selon l'utilisation que vous en
+faites, vous voudrez probablement des qualités différentes.
+
+Obviously you’re not going to want to to
+swap out the battery in your car every time
+it discharges, for example.
+Évidemment, vous ne voudrez pas
+remplacer la batterie de votre voiture à chaque fois
+qu'elle se décharge, par exemple.
+
+So you’ll want a rechargeable battery for
+that, even if a disposable one would last
+longer on a single charge.
+Vous aurez donc besoin d'une batterie rechargeable pour
+cela, même si une batterie jetable durerait
+plus longtemps avec une seule charge.
+
+But there are less obvious examples, too.
+Mais il y a aussi des exemples moins évidents.
+
+Mechanical engineers have to consider a battery’s design, including its weight and shape, when incorporating it into a moving device like an automated drone or robot.
+Les ingénieurs en mécanique doivent tenir compte de la conception d'une batterie, y compris son poids et sa forme, lorsqu'ils l'intègrent dans un appareil en mouvement comme un drone ou un robot automatisé.
+
+Bioengineers, meanwhile, need to consider
+what chemicals go into their batteries.
+Les bioingénieurs, quant à eux, doivent réfléchir aux
+produits chimiques qui entrent dans leurs batteries.
+
+When you’re implanting a battery-powered medical device into someone’s body, the chemicals in the battery often come into close contact with the person’s bloodstream.
+Lorsque vous implantez un dispositif médical alimenté par batterie dans le corps de quelqu'un, les produits chimiques contenus dans la batterie entrent souvent en contact étroit avec la circulation sanguine de la personne.
+
+So it’s important to make sure they won’t
+cause harm if the casing breaks.
+Il est donc important de s'assurer qu'ils ne causeront pas de
+dommages si le boîtier se casse.
+
+Some engineers are actually working on
+bio-sensing capsules that would use stomach
+acid as an electrolyte to generate power.
+Certains ingénieurs travaillent actuellement sur
+des capsules de biodétection qui utiliseraient l'
+acide gastrique comme électrolyte pour générer de l'énergie.
+
+And those would definitely need to be safe
+for the human body.
+Et ceux-ci devraient certainement être sans danger
+pour le corps humain.
+
+But if your main priority is maximizing the
+amount of energy you can cram into a given space,
+Mais si votre principale priorité est de maximiser la
+quantité d'énergie que vous pouvez entasser dans un espace donné,
+
+you’ll probably want a primary battery
+– another name for disposables.
+vous voudrez probablement une batterie principale
+- un autre nom pour les produits jetables.
+
+Primary batteries give up their chemical energy
+as electrical power, and once they’re done,
+you won’t get much more out of them.
+Les batteries primaires cèdent leur énergie chimique
+sous forme d'énergie électrique, et une fois qu'elles sont terminées,
+vous n'en tirerez plus grand-chose.
+
+These sorts of batteries tend to be fairly
+cheap and lightweight because, well,
+they’re simple.
+Ces types de batteries ont tendance à être assez
+bon marché et légers car, eh bien,
+ils sont simples.
+
+And when they run out, you can just grab a
+new one and you’re ready to go.
+Et quand ils sont épuisés, vous pouvez simplement en prendre un
+nouveau et vous êtes prêt à partir.
+
+That makes them a convenient source of power
+for things like toys or remote controls.
+Cela en fait une source d'alimentation pratique
+pour des choses comme les jouets ou les télécommandes.
+
+Plus, they have a high energy density, meaning
+they can store lots of energy for their size.
+De plus, ils ont une densité énergétique élevée, ce
+qui signifie qu'ils peuvent stocker beaucoup d'énergie pour leur taille.
+
+The power you can get from a battery, and
+therefore how long it lasts,
+La puissance que vous pouvez obtenir d'une batterie, et
+donc sa durée de vie,
+
+depends on the voltage and current being
+delivered by the battery as it undergoes oxidation
+and reduction at its terminals.
+dépend de la tension et du courant
+fournis par la batterie lorsqu'elle subit une oxydation
+et une réduction à ses bornes.
+
+In an electrical circuit, the power, or the
+energy delivered per unit time, is the product
+of the voltage and the current.
+Dans un circuit électrique, la puissance, ou l'
+énergie délivrée par unité de temps, est le produit
+de la tension et du courant.
+
+So to get the total energy, you just add up
+all the power delivered to the circuit over
+the time the battery operates.
+Donc, pour obtenir l'énergie totale, il vous suffit d'additionner
+toute la puissance fournie au circuit pendant
+la durée de fonctionnement de la batterie.
+
+Primary batteries are also extremely consistent,
+which matters more than you might expect.
+Les batteries primaires sont également extrêmement cohérentes,
+ce qui compte plus que vous ne le pensez.
+
+Most circuits require a certain voltage to operate,
+so providing a roughly constant amount is pretty
+important over the course of a battery’s life.
+La plupart des circuits nécessitent une certaine tension pour fonctionner,
+il est donc assez important de fournir une quantité à peu près constante
+tout au long de la durée de vie d'une batterie.
+
+In an ideal world, all batteries would deliver
+a perfect, constant voltage for their entire
+life before dropping to zero.
+Dans un monde idéal, toutes les batteries fourniraient
+une tension parfaite et constante pendant toute leur durée de
+vie avant de tomber à zéro.
+
+Unfortunately, real batteries don’t have
+perfect chemical processes going on.
+Malheureusement, les vraies batteries n'ont pas de
+processus chimiques parfaits.
+
+Instead you end up with what are called discharge
+curves.
+Au lieu de cela, vous vous retrouvez avec ce qu'on appelle des
+courbes de décharge.
+
+Initially, the battery will provide more power
+than average, and then it will drop off a little.
+Au début, la batterie fournira plus de puissance
+que la moyenne, puis elle baissera un peu.
+
+After that, as the charge capacity of the
+battery is used, the voltage being supplied
+begins to drop off even more.
+Après cela, à mesure que la capacité de charge de la
+batterie est utilisée, la tension fournie
+commence à baisser encore plus.
+
+That’s because batteries themselves have
+what’s called internal resistance,
+C'est parce que les batteries elles-mêmes ont
+ce qu'on appelle une résistance interne,
+
+a measure of how much of the chemical
+potential energy is lost to heat and other
+processes in the electrolyte,
+une mesure de la quantité d'
+énergie potentielle chimique perdue par la chaleur et d'autres
+processus dans l'électrolyte,
+
+rather than providing a voltage
+to the circuit.
+plutôt que de fournir une tension
+au circuit.
+
+As ions are exchanged inside the battery, the
+internal resistance increases, preventing a perfect,
+constant voltage from being delivered.
+Au fur et à mesure que les ions sont échangés à l'intérieur de la batterie, la
+résistance interne augmente, empêchant la fourniture d'
+une tension parfaite et constante.
+
+The rate at which the voltage begins to drop
+over the course of the battery’s life depends
+on its chemistry.
+La vitesse à laquelle la tension commence à baisser
+au cours de la durée de vie de la batterie dépend
+de sa chimie.
+
+And the combination of chemicals in primary
+batteries tend to deliver pretty consistent voltage.
+Et la combinaison de produits chimiques dans les batteries primaires a
+tendance à fournir une tension assez constante.
+
+For example, zinc and manganese dioxide do a good
+job as the anode and cathode in a primary battery, with
+potassium hydroxide in water as the electrolyte.
+Par exemple, le zinc et le dioxyde de manganèse font un bon
+travail comme anode et cathode dans une batterie primaire, avec de
+l'hydroxyde de potassium dans l'eau comme électrolyte.
+
+That combination is what we call an alkaline
+battery.
+Cette combinaison est ce que nous appelons une
+pile alcaline.
+
+It’s what’s in those double AAs you probably
+have sitting in a drawer somewhere.
+C'est ce qu'il y a dans ces doubles AA que vous avez probablement
+assis dans un tiroir quelque part.
+
+Problem is, you can’t recharge primary batteries
+– once they’re dead, they’re dead.
+Le problème est que vous ne pouvez pas recharger les batteries primaires
+- une fois qu'elles sont mortes, elles sont mortes.
+
+And that’s a big tradeoff.
+Et c'est un gros compromis.
+
+That’s why we also have secondary batteries
+– the technical term for the kind that can be recharged.
+C'est pourquoi nous avons également des batteries secondaires
+- le terme technique pour le type qui peut être rechargé.
+
+When you use a secondary type battery, it
+discharges like a primary type battery with
+one important difference.
+Lorsque vous utilisez une batterie de type secondaire, elle se
+décharge comme une batterie de type primaire avec
+une différence importante.
+
+The anode, cathode, and electrolyte are all chosen so that the oxidation and reduction reactions at the terminals can be reversed to restore the ions back to the their original electrodes.
+L'anode, la cathode et l'électrolyte sont tous choisis de manière à ce que les réactions d'oxydation et de réduction aux bornes puissent être inversées pour restaurer les ions vers leurs électrodes d'origine.
+
+That won’t happen on its own, but if you connect a
+separate power supply, like from an electrical outlet,
+you can recharge the batteries.
+Cela ne se fera pas tout seul, mais si vous connectez une
+alimentation séparée, comme une prise électrique,
+vous pouvez recharger les batteries.
+
+The external power source applies the reverse of the current the battery would deliver, which sends the ions in the electrolyte back to the electrodes they originally came from.
+La source d'alimentation externe applique l'inverse du courant que la batterie fournirait, ce qui renvoie les ions de l'électrolyte aux électrodes d'où ils proviennent.
+
+Once the chemicals are back where they started,
+the battery is ready to discharge again.
+Une fois que les produits chimiques sont de retour là où ils ont commencé,
+la batterie est prête à se décharger à nouveau.
+
+Being able to recharge a battery has enormous
+advantages.
+Pouvoir recharger une batterie présente d'énormes
+avantages.
+
+For one thing, you don’t need to buy a new
+battery for your phone every day, which is nice.
+D'une part, vous n'avez pas besoin d'acheter une nouvelle
+batterie pour votre téléphone tous les jours, ce qui est bien.
+
+But it also means you can store power from
+different sources.
+Mais cela signifie également que vous pouvez stocker de l'énergie à partir de
+différentes sources.
+
+That’s useful for things like cars, where you can store
+energy from something like gasoline to provide electrical
+power wherever else it’s needed, like in your headlights.
+C'est utile pour des choses comme les voitures, où vous pouvez stocker de l'
+énergie à partir de quelque chose comme l'essence pour fournir de l'
+énergie électrique partout où c'est nécessaire, comme dans vos phares.
+
+On a broader scale, being able to store energy
+when you have a surplus is incredibly important for
+making renewable sources of energy practical.
+À plus grande échelle, être capable de stocker de l'énergie
+lorsque vous avez un surplus est extrêmement important pour
+rendre pratiques les sources d'énergie renouvelables.
+
+A rechargeable battery that needs to deliver a
+high voltage, like in a car, might use a combination
+of lead electrodes and sulfuric acid electrolyte.
+Une batterie rechargeable qui doit fournir une
+haute tension, comme dans une voiture, peut utiliser une combinaison
+d'électrodes de plomb et d'électrolyte d'acide sulfurique.
+
+Those batteries are somewhat expensive, but
+they have a good energy density.
+Ces batteries sont un peu chères, mais
+elles ont une bonne densité énergétique.
+
+But your phone or laptop almost certainly
+use a different type of rechargeable battery:
+lithium-ion.
+Mais votre téléphone ou votre ordinateur portable
+utilise presque certainement un autre type de batterie rechargeable : le
+lithium-ion.
+
+Lithium-ion actually describes a whole class of
+batteries, but they all tend to have a cathode or
+anode based on a lithium compound.
+Le lithium-ion décrit en fait toute une classe de
+batteries, mais elles ont toutes tendance à avoir une cathode ou une
+anode à base d'un composé de lithium.
+
+When the battery discharges, lithium ions are
+exchanged in the electrolyte, hence the name.
+Lorsque la batterie se décharge, des ions lithium sont
+échangés dans l'électrolyte, d'où son nom.
+
+These types of batteries have become popular
+for a couple of reasons.
+Ces types de batteries sont devenus populaires
+pour plusieurs raisons.
+
+Even though they’re very expensive, they’re
+rechargeable and have a high energy density.
+Même s'ils sont très chers, ils sont
+rechargeables et ont une haute densité d'énergie.
+
+That makes them great for supplying high
+voltages and lots of power with a relatively
+small amount of space.
+Cela les rend parfaits pour fournir des
+tensions élevées et beaucoup de puissance avec un
+espace relativement restreint.
+
+Still, it’s pretty easy to end up in a situation
+where your phone runs out of battery in the
+middle of the day.
+Pourtant, il est assez facile de se retrouver dans une situation
+où votre téléphone est à court de batterie au
+milieu de la journée.
+
+Because as we’ve found ways to make more
+powerful components smaller and smaller, battery
+tech hasn’t really been able to keep up.
+Parce que nous avons trouvé des moyens de rendre
+les composants plus puissants de plus en plus petits, la
+technologie des batteries n'a pas vraiment été en mesure de suivre.
+
+Don’t get me wrong: people are trying.
+Ne vous méprenez pas : les gens essaient.
+
+Companies have put tons of effort into making
+lithium-ion batteries as energy-dense and
+-efficient as they possibly can.
+Les entreprises ont déployé des efforts considérables pour rendre les
+batteries lithium-ion aussi denses en énergie et
+efficaces que possible.
+
+It’s just been difficult to do much more
+than we already have.
+Il a juste été difficile de faire beaucoup plus
+que ce que nous avons déjà.
+
+Engineers also have to take safety into account,
+because when lithium-ion batteries break,
+they can pose a real safety hazard.
+Les ingénieurs doivent également tenir compte de la sécurité,
+car lorsque les batteries lithium-ion se cassent,
+elles peuvent poser un réel danger pour la sécurité.
+
+People who bought the Galaxy Note 7 learned
+that one the hard way.
+Les personnes qui ont acheté le Galaxy Note 7 l'ont appris à leurs
+dépens.
+
+Certain chemicals called carbonates found in
+lithium ion batteries tend to be quite flammable.
+Certains produits chimiques appelés carbonates présents dans les
+batteries lithium-ion ont tendance à être assez inflammables.
+
+Just as troubling is the fact that thin strands
+of lithium can build up in the electrolyte as the
+batteries are repeatedly used.
+Tout aussi troublant est le fait que de minces brins
+de lithium peuvent s'accumuler dans l'électrolyte lorsque les
+batteries sont utilisées à plusieurs reprises.
+
+Those strands are called dendrites, and if
+they build up too much and connect the anode
+and cathode,
+Ces brins sont appelés dendrites, et
+s'ils s'accumulent trop et connectent l'anode
+et la cathode,
+
+they can short-circuit the battery
+and even set it on fire.
+ils peuvent court-circuiter la batterie
+et même y mettre le feu.
+
+So, apart from little tweaks here and there,
+lithium-ion batteries seem to have basically
+hit their limit.
+Ainsi, à part quelques petits ajustements ici et là, les
+batteries lithium-ion semblent avoir essentiellement
+atteint leur limite.
+
+These days, when phone or laptop companies
+promise better battery life,
+De nos jours, lorsque les fabricants de téléphones ou d'ordinateurs portables
+promettent une meilleure autonomie de la batterie,
+
+that’s often because they’ve designed the rest
+of the hardware to draw less energy, and not found
+a way to get the battery to provide more.
+c'est souvent parce qu'ils ont conçu le reste
+du matériel pour consommer moins d'énergie et qu'ils n'ont pas trouvé le
+moyen d'obtenir plus de batterie.
+
+If we’re going to surmount all these problems with
+lithium-ion batteries, we’re going to have to explore
+the chemical landscape a little.
+Si nous voulons surmonter tous ces problèmes avec les
+batteries lithium-ion, nous allons devoir explorer
+un peu le paysage chimique.
+
+At the cutting edge of battery engineering,
+researchers are experimenting with new chemical
+combinations.
+A la pointe de l'ingénierie des batteries, les
+chercheurs expérimentent de nouvelles
+combinaisons chimiques.
+
+For example, swapping out the carbon-based anode
+used in most lithium-ion batteries for a silicon-based
+anode could store much more energy in a given volume.
+Par exemple, remplacer l'anode à base de carbone
+utilisée dans la plupart des batteries lithium-ion par une anode à base de silicium
+pourrait stocker beaucoup plus d'énergie dans un volume donné.
+
+That could mean a longer battery life!
+Cela pourrait signifier une durée de vie de la batterie plus longue!
+
+And introducing tiny particles of silicon dioxide into the electrolyte could stop dendrites from growing so quickly by making them travel further within the battery, making them safer for long term use.
+Et l'introduction de minuscules particules de dioxyde de silicium dans l'électrolyte pourrait empêcher les dendrites de se développer si rapidement en les faisant voyager plus loin dans la batterie, ce qui les rend plus sûres pour une utilisation à long terme.
+
+So far, though, no one’s been able to make
+these changes work on a commercial scale.
+Jusqu'à présent, cependant, personne n'a été en mesure de faire fonctionner
+ces changements à l'échelle commerciale.
+
+But those are only a couple of the ideas being
+put to the test right now.
+Mais ce ne sont là que quelques-unes des idées
+mises à l'épreuve en ce moment.
+
+There are plenty more in the works, and someday,
+maybe fighting over the power outlets in coffee
+shops will be a thing of the past.
+Il y en a beaucoup d'autres en préparation, et un jour,
+peut-être que se disputer les prises de courant dans les
+cafés appartiendra au passé.
+
+In this episode we looked at batteries.
+Dans cet épisode, nous avons examiné les batteries.
+
+We saw how they provide power by discharging ions
+between a cathode and an anode, and how reversing
+that process gives us a way of charging them.
+Nous avons vu comment ils fournissent de l'énergie en déchargeant des ions
+entre une cathode et une anode, et comment inverser
+ce processus nous donne un moyen de les charger.
+
+We saw that batteries deliver voltage differently
+over time, leading to discharge curves,
+Nous avons vu que les batteries délivrent une tension différente
+dans le temps, ce qui entraîne des courbes de décharge,
+
+and some of the work being done to improve the
+properties of batteries for portable electronics.
+et certains travaux sont en cours pour améliorer les
+propriétés des batteries pour l'électronique portable.
+
+Next time, we’ll see how batteries and other
+fields of engineering come together when we
+look at robotics.
+La prochaine fois, nous verrons comment les batteries et d'autres
+domaines de l'ingénierie se rejoignent lorsque nous
+examinons la robotique.
+
+Check out our Augmented Reality Poster at DFTBA.com!
+Découvrez notre affiche de réalité augmentée sur DFTBA.com!
+
+Crash Course Engineering is produced in association
+with PBS Digital Studios, which also produces Reactions,
+Crash Course Engineering est produit en association
+avec PBS Digital Studios, qui produit également Reactions,
+
+a show that uncovers the chemistry all around us, and answers the burning questions you always wanted to ask, like: why does bacon smell so good?
+une émission qui dévoile la chimie qui nous entoure et répond aux questions brûlantes que vous avez toujours voulu poser, comme : pourquoi le bacon sent-il si bon ?
+
+And how can I get my smartphone battery to
+last longer?
+Et comment
+prolonger la durée de vie de la batterie de mon smartphone ?
+
+Check it out in the link in the description.
+Vérifiez-le dans le lien dans la description.
+
+Crash Course is a Complexly production and this episode was filmed in the Doctor Cheryl C. Kinney Studio with the help of these wonderful people.
+Crash Course est une production de Complexly et cet épisode a été filmé dans le studio du docteur Cheryl C. Kinney avec l'aide de ces personnes merveilleuses.
+
+And our amazing graphics team is Thought Cafe.
+Et notre incroyable équipe graphique est Thought Cafe.
+

@@ -1,0 +1,654 @@
+When I say “work,” what’s the first
+thing that comes to mind?
+Quand je dis « travail », quelle est la première
+chose qui vous vient à l'esprit ?
+
+Maybe a cubicle? Or a briefcase?
+Or that history exam that’s coming up soon?
+Peut-être une cabine ?  Ou une mallette ?
+Ou cet examen d'histoire qui arrive bientôt ?
+
+But if you’re a physicist, work has a very specific meaning -- one that has very little to do
+Mais si vous êtes physicien, le travail a une signification très spécifique, qui n'a que très peu à voir
+
+with spreadsheets or the fall of the Roman
+Empire.
+avec les feuilles de calcul ou la chute de l'
+Empire romain.
+
+Today, we’re going to explore that definition
+-- and how it connects to one of the most
+Aujourd'hui, nous allons explorer cette définition
+- et comment elle se connecte à l'un des principes les plus
+
+important principles in physics: conservation
+of energy.
+importants de la physique : la conservation
+de l'énergie.
+
+We’ll also learn what physicists mean when
+they talk about another concept that comes
+Nous apprendrons également ce que veulent dire les physiciens
+lorsqu'ils parlent d'un autre concept qui
+
+up a lot in daily life: power.
+revient souvent dans la vie quotidienne : la puissance.
+
+So let’s get to…work.
+Alors allons-y… au travail.
+
+[Theme Music]
+[Thème musical]
+
+So far in this course, we’ve spent most of our time talking about forces, and the way they make things move.
+Jusqu'à présent dans ce cours, nous avons passé la plupart de notre temps à parler des forces et de la façon dont elles font bouger les choses.
+
+And you need to understand forces before you
+can understand work.
+Et vous devez comprendre les forces avant de
+pouvoir comprendre le travail.
+
+Because work is what happens when you apply
+a force over a certain distance, to a system --
+Parce que le travail est ce qui se passe quand vous appliquez
+une force sur une certaine distance, à un système --
+
+a system just being whatever section of the universe you h appen to be talking about at the time.
+un système étant simplement n'importe quelle partie de l'univers dont vous parlez à ce moment-là.
+
+For example, if you’re using a rope to drag
+a box across the floor, we might say that
+Par exemple, si vous utilisez une corde pour faire glisser
+une boîte sur le sol, nous pourrions dire que
+
+the box is your system, and the force you’re
+using to pull on it is an external force.
+la boîte est votre système et que la force que vous
+utilisez pour tirer dessus est une force externe.
+
+So, let’s say you’re pulling on this box-system by dragging it straight behind you, so the rope is parallel to the ground.
+Donc, disons que vous tirez sur ce système de boîte en le faisant glisser directement derrière vous, de sorte que la corde soit parallèle au sol.
+
+If you use the rope to pull the box for one
+meter, we’d say that you’re doing work on the box.
+Si vous utilisez la corde pour tirer la boîte sur un
+mètre, nous dirions que vous travaillez sur la boîte.
+
+And the amount of work you’re doing is equal
+to the force you’re using to pull the box,
+Et la quantité de travail que vous faites est égale
+à la force que vous utilisez pour tirer la boîte,
+
+times the distance you moved it.
+multipliée par la distance sur laquelle vous l'avez déplacée.
+
+For example, if you pulled the rope -- and
+therefore the box -- with a force of 50 Newtons,
+Par exemple, si vous tirez la corde -- et
+donc la boîte -- avec une force de 50 Newtons,
+
+while you moved it 5 meters, then we’d say
+that you did 250 Newton-meters of work on the box.
+alors que vous la déplacez de 5 mètres, alors nous dirions
+que vous avez fait 250 Newton-mètres de travail sur la boîte.
+
+More commonly, however, work is expressed
+in units known as Joules.
+Plus communément, cependant, le travail est exprimé
+en unités appelées Joules.
+
+Now, sometimes, the force you apply to an
+object won’t be in exactly the same direction
+Maintenant, parfois, la force que vous appliquez à un
+objet ne sera pas exactement dans la même direction
+
+as the direction in which the object is moving.
+que la direction dans laquelle l'objet se déplace.
+
+Like, if you tried to drag the box with your hand higher than the box, so that the rope was at an angle to the floor.
+Par exemple, si vous essayez de faire glisser la boîte avec votre main plus haut que la boîte, de sorte que la corde forme un angle avec le sol.
+
+In that case, the box would move parallel to the floor, but the force would be at an angle to it.
+Dans ce cas, la boîte se déplacerait parallèlement au sol, mais la force serait à un angle avec celui-ci.
+
+And in such an instance, you’d have to use one the tricks we learned back when we first talked about vectors.
+Et dans un tel cas, vous devrez utiliser l'une des astuces que nous avons apprises lorsque nous avons parlé pour la première fois des vecteurs.
+
+Specifically, you must separate the force you’re using on the rope into its component parts:
+Plus précisément, vous devez séparer la force que vous utilisez sur la corde en ses composants :
+
+one that’s parallel to the floor,
+and one that’s perpendicular to it.
+un qui est parallèle au sol
+et un qui lui est perpendiculaire.
+
+To find the part of the force that’s parallel to the floor -- that is, the one that’s actually pulling the box forward --
+Pour trouver la partie de la force qui est parallèle au sol, c'est-à-dire celle qui tire réellement la boîte vers l'avant, il
+
+you just have to multiply the magnitude of the force by the cosine of the rope’s angle to the ground.
+vous suffit de multiplier l'amplitude de la force par le cosinus de l'angle de la corde par rapport au sol.
+
+You’ll remember that we typically designate
+an angle in a system as theta.
+Vous vous souviendrez que nous désignons généralement
+un angle dans un système comme thêta.
+
+So, to calculate the work you did on the box,
+you just multiply the horizontal component
+Donc, pour calculer le travail que vous avez fait sur la boîte, il
+vous suffit de multiplier la composante horizontale
+
+-- or F times the cosine of theta -- by the
+distance you moved the box.
+- ou F fois le cosinus de thêta - par la
+distance sur laquelle vous avez déplacé la boîte.
+
+That’s one way physicists often write the
+equation for work -- they’ll set it equal
+C'est une façon dont les physiciens écrivent souvent l'
+équation du travail -- ils la fixent égale
+
+to force, times distance, times the cosine
+of theta.
+à la force, multipliée par la distance, multipliée par le cosinus
+de thêta.
+
+And that equation will fit any scenario that involves a constant force being applied over a certain distance.
+Et cette équation s'adaptera à tout scénario impliquant l'application d'une force constante sur une certaine distance.
+
+But what if the force isn’t constant?
+Mais que se passe-t-il si la force n'est pas constante ?
+
+What if, say, you started out pulling hard
+on the box, but then you started to get tired,
+Et si, par exemple, vous commenciez à tirer fort
+sur la boîte, mais que vous commenciez à vous fatiguer, de
+
+so the amount of force you exerted on the
+box got smaller and smaller the farther you dragged it.
+sorte que la force que vous exerciez sur la
+boîte devenait de plus en plus petite au fur et à mesure que vous la traîniez.
+
+To calculate the work you did in that case,
+you’d have to count up the amount of force
+Pour calculer le travail que vous avez effectué dans ce cas,
+vous devez compter la quantité de force que
+
+you applied over each tiny little bit of distance.
+vous avez appliquée sur chaque petite distance.
+
+And if you’ve watched our episodes on calculus,
+then you know that there’s a faster way
+Et si vous avez regardé nos épisodes sur le calcul
+, vous savez qu'il existe un moyen plus rapide
+
+to add together infinitely tiny increments:
+integration.
+d'additionner des incréments infiniment petits : l'
+intégration.
+
+So, to find the work done by a varying force,
+you just have to integrate that force relative
+Ainsi, pour trouver le travail effectué par une force variable, il
+vous suffit d'intégrer cette force par rapport
+
+to the distance the object moved. Which would
+look like this.
+à la distance parcourue par l'objet.  Qui
+ressemblerait à ça.
+
+But force-times-distance is only one of the
+ways that physicists measure work.
+Mais force-distance n'est qu'une des
+façons dont les physiciens mesurent le travail.
+
+Because, you know how we just said that Joules are
+the units of work?
+Parce que, vous savez comment nous venons de dire que les Joules sont
+les unités de travail ?
+
+Well, Joules are often used as the units for
+something else: energy.
+Eh bien, les joules sont souvent utilisés comme unités pour
+autre chose : l'énergie.
+
+And work uses the same units as energy,
+because work is just a change in energy.
+Et le travail utilise les mêmes unités que l'énergie,
+car le travail n'est qu'un changement d'énergie.
+
+It's what happens when an external force is applied
+to a system and changes the energy of that system.
+C'est ce qui se passe lorsqu'une force externe est appliquée
+à un système et modifie l'énergie de ce système.
+
+In fact, that’s one of the ways to define
+energy -- it’s the ability to do work.
+En fait, c'est l'une des façons de définir l'
+énergie - c'est la capacité de faire un travail.
+
+There are all different kinds of energy, but in this episode, we’ll mainly be talking about two of them:
+Il existe toutes sortes d'énergies, mais dans cet épisode, nous parlerons principalement de deux d'entre elles :
+
+kinetic energy and potential energy.
+Kinetic energy is the energy of motion.
+l'énergie cinétique et l'énergie potentielle.
+L'énergie cinétique est l'énergie du mouvement.
+
+When the box was resting on the ground, we’d
+say that it had no kinetic energy.
+Lorsque la boîte reposait sur le sol, nous
+dirions qu'elle n'avait pas d'énergie cinétique.
+
+But once you applied a force and it started
+moving, it did have kinetic energy.
+Mais une fois que vous avez appliqué une force et qu'elle a commencé à
+bouger, elle avait de l'énergie cinétique.
+
+And the energy of the box changed, which means
+that you did work on it.
+Et l'énergie de la boîte a changé, ce qui signifie
+que vous avez travaillé dessus.
+
+More specifically, the kinetic energy of an object is equal to half of its mass, times its velocity squared.
+Plus précisément, l'énergie cinétique d'un objet est égale à la moitié de sa masse multipliée par sa vitesse au carré.
+
+If this looks familiar, that’s because it
+comes from applying both Newton’s second
+Si cela vous semble familier, c'est parce que cela
+vient de l'application à la fois de la deuxième
+
+law and the kinematic equations to the idea
+that work is equal to force times distance.
+loi de Newton et des équations cinématiques à l'idée
+que le travail est égal à la force multipliée par la distance.
+
+So, if the box had a mass of 20 kilograms,
+and at some point while you were dragging
+Donc, si la boîte avait une masse de 20 kilogrammes
+et qu'à un moment donné pendant que vous la
+
+it, it reached a velocity of 4 meters per
+second, we’d say that its kinetic energy
+traîniez, elle atteignait une vitesse de 4 mètres par
+seconde, nous dirions que son énergie cinétique
+
+at that moment was 160 Joules.
+à ce moment était de 160 Joules.
+
+Then there’s potential energy, which actually
+isn’t what it sounds like.
+Ensuite, il y a l'énergie potentielle, qui
+n'est en fait pas ce que cela ressemble.
+
+Potential energy isn’t potentially energy
+-- it’s potentially work.
+L'énergie potentielle n'est pas potentiellement de l'énergie
+, c'est potentiellement du travail.
+
+In other words, potential energy is energy
+that could be used to do work.
+En d'autres termes, l'énergie potentielle est l'énergie
+qui pourrait être utilisée pour effectuer un travail.
+
+One common type of potential energy is gravitational
+potential energy -
+Un type courant d'énergie potentielle est l'
+énergie potentielle gravitationnelle -
+
+- basically, the potential energy that comes
+from the fact that gravity exists.
+- essentiellement, l'énergie potentielle qui provient
+du fait que la gravité existe.
+
+If I hold this book a meter above the ground,
+we’d say that it has gravitational potential energy.
+Si je tiens ce livre à un mètre du sol,
+nous dirions qu'il a une énergie potentielle gravitationnelle.
+
+Because if you let it go, then gravity is
+going to do work on the book.
+Parce que si vous le laissez aller, alors la gravité
+va travailler sur le livre.
+
+Gravity exerted a force that moves it to the ground.
+La gravité exerce une force qui la déplace vers le sol.
+
+Once the book hits the ground, though, we’d
+say that its gravitational potential energy
+Une fois que le livre touche le sol, cependant, nous
+dirions que son énergie potentielle gravitationnelle
+
+is zero, because gravity can’t do work on
+it anymore.
+est nulle, car la gravité ne peut plus fonctionner
+dessus.
+
+Calculating gravitational potential energy
+is easy enough:
+Le calcul de l'énergie potentielle gravitationnelle
+est assez simple :
+
+it’s just the force of gravity on the object
+-- so, the object’s mass times small g --
+c'est juste la force de gravité sur l'objet
+-- donc, la masse
+
+multiplied by the object’s height.
+Or mgh for short.
+de l'objet multipliée par un petit g -- multipliée par la hauteur de l'objet.
+Ou mgh pour faire court.
+
+Which means that, just by knowing that this
+book’s mass is about a kilogram, and that
+Ce qui veut dire que rien qu'en sachant que
+la masse de ce livre est d'environ un kilogramme, et
+
+it’s a meter above the ground, we can calculate
+its potential energy: which is 9.8 Joules.
+qu'il se trouve à un mètre au-dessus du sol, on peut calculer
+son énergie potentielle : qui est de 9,8 Joules.
+
+Another type of potential energy that shows
+up a lot is spring potential energy.
+Un autre type d'énergie potentielle qui
+apparaît beaucoup est l'énergie potentielle du printemps.
+
+Despite its name, this is not a seasonal thing --
+and yes, I really made that joke.
+Malgré son nom, ce n'est pas une chose saisonnière -
+et oui, j'ai vraiment fait cette blague.
+
+Rather, it’s the type of potential energy that’s
+specific to springs!
+C'est plutôt le type d'énergie potentielle qui est
+propre aux sources !
+
+The force of a spring is equal to the distance
+by which it’s either compressed or stretched,
+La force d'un ressort est égale à la distance
+sur laquelle il est comprimé ou étiré,
+
+times a constant that we write as k.
+multipliée par une constante que nous écrivons k.
+
+This equation is known as Hooke’s law, after British physicist Robert Hooke, who came up with it in 1660.
+Cette équation est connue sous le nom de loi de Hooke, d'après le physicien britannique Robert Hooke, qui l'a inventée en 1660.
+
+Now, the constant, k -- also called the spring
+constant -- is different for each spring,
+Maintenant, la constante, k -- aussi appelée la constante du ressort
+-- est différente pour chaque ressort,
+
+and it’s a measure of the spring’s stiffness.
+et c'est une mesure de la  raideur. 
+
+And the equation makes total sense, if you
+think about it:
+Et l'équation prend tout son sens, si vous y
+réfléchissez
+
+The further you push on the spring, and the
+stiffer it is, the harder it will resist.
+: plus vous poussez sur le ressort, et
+plus il est rigide, plus il résistera.
+
+You even can test this out for yourself by taking apart a clicky pen and playing with the spring inside.
+Vous pouvez même le tester par vous-même en démontant un stylo cliquable et en jouant avec le ressort à l'intérieur.
+
+By combining Hooke’s law, with the idea
+that work equals force times distance,
+En combinant la loi de Hooke, avec l'idée
+que le travail est égal à la force multipliée par la distance,
+
+we can find the potential energy from a spring:
+nous pouvons trouver l'énergie potentielle d'un ressort :
+
+it’s half times k times the distance squared.
+c'est la moitié de k fois la distance au carré.
+
+For example: if you have a spring with a spring
+constant of 200 Newtons per meter, and a block
+Par exemple : si vous avez un ressort avec une
+constante de ressort de 200 Newtons par mètre et qu'un bloc le
+
+is compressing it by half a meter, then the
+potential energy of the block would be 25 Joules.
+comprime d'un demi-mètre, l'
+énergie potentielle du bloc serait de 25 joules.
+
+So, when something does work on a system,
+its energy changes.
+Ainsi, lorsque quelque chose fonctionne sur un système,
+son énergie change.
+
+But how that energy changes depends on the
+system.
+Mais comment cette énergie change dépend du
+système.
+
+Some systems can lose energy. These are known
+as a non-conservative systems.
+Certains systèmes peuvent perdre de l'énergie.  Ceux-ci sont connus
+comme des systèmes non conservateurs.
+
+Now, that doesn’t mean that the energy that’s
+lost is literally disappearing from the universe...
+Maintenant, cela ne signifie pas que l'énergie
+perdue disparaît littéralement de l'univers...
+
+And it doesn’t have anything to do with
+the system’s personal politics, either.
+Et cela n'a rien à voir non plus avec
+la politique personnelle du système.
+
+It just relates to one of the most
+fundamental principles of science:
+Cela se rapporte simplement à l'un des principes les plus
+fondamentaux de la science :
+
+that energy can neither be created or destroyed.
+que l'énergie ne peut être ni créée ni détruite.
+
+But systems can lose energy, like when friction
+from the box dragging on the floor generates heat.
+Mais les systèmes peuvent perdre de l'énergie, comme lorsque le frottement
+de la boîte traînant sur le sol génère de la chaleur.
+
+For non-conservative systems, you can still talk about their kinetic energy or potential energy at any given moment.
+Pour les systèmes non conservateurs, vous pouvez toujours parler de leur énergie cinétique ou de leur énergie potentielle à tout moment.
+
+But conservative systems let you do much more
+than that.
+Mais les systèmes conservateurs vous permettent de faire bien plus
+que cela.
+
+A conservative system is one that doesn’t
+lose energy through work.
+Un système conservateur est un système qui ne perd pas d'
+énergie par le travail.
+
+Say, a simple pendulum.
+Dites, un simple pendule.
+
+When the pendulum is at the top of its swing,
+it stops moving for a brief moment as it changes direction --
+Lorsque le pendule est au sommet de son oscillation,
+il s'arrête de bouger pendant un bref instant lorsqu'il change de direction,
+
+meaning that its kinetic energy, at that point, is zero.
+ce qui signifie que son énergie cinétique, à ce point, est nulle.
+
+But it has lots of potential energy, because
+the gravitational force can do work on the
+Mais il a beaucoup d'énergie potentielle, car
+la force gravitationnelle peut travailler sur le
+
+pendulum, pulling it down until it reaches
+the bottom of its swing.
+pendule, le tirant vers le bas jusqu'à ce qu'il atteigne
+le bas de son oscillation.
+
+At the bottom of the swing, that potential
+energy becomes zero,
+Au bas de la balançoire, cette
+énergie potentielle devient nulle,
+
+because gravity can’t pull the pendulum down anymore.
+car la gravité ne peut plus tirer le pendule vers le bas.
+
+But now the pendulum has lots of kinetic energy,
+because it’s moving through the swing.
+Mais maintenant, le pendule a beaucoup d'énergie cinétique,
+car il se déplace tout au long de la balançoire.
+
+And it turns out that, at any given point
+in the pendulum’s motion, its kinetic energy
+Et il s'avère qu'à tout moment
+du mouvement du pendule, son énergie cinétique
+
+and its potential energy will add up to the
+same number.
+et son énergie potentielle totaliseront le
+même nombre.
+
+If its potential energy increases? Its kinetic energy will decrease by the exact same amount, and vice versa.
+Si son énergie potentielle augmente ?  Son énergie cinétique diminuera exactement de la même quantité, et vice versa.
+
+So, now that we know how to define work, we
+can use that definition to help explain another
+Donc, maintenant que nous savons comment définir le travail, nous
+pouvons utiliser cette définition pour aider à expliquer un autre
+
+common term that physicists have a very specific meaning for: power.
+terme courant pour lequel les physiciens ont une signification très spécifique : la puissance.
+
+Or, more specifically, average power.
+Ou, plus précisément, la puissance moyenne.
+
+Average power is defined as work over
+time, and it’s measured in Watts,
+La puissance moyenne est définie comme le travail au fil du
+temps, et elle est mesurée en watts,
+
+which is just another way of saying Joules per second.
+ce qui n'est qu'une autre façon de dire Joules par seconde.
+
+Basically, it’s used to measure how much energy is converted from one type to another over time.
+Fondamentalement, il est utilisé pour mesurer la quantité d'énergie convertie d'un type à un autre au fil du temps.
+
+So, remember that box you were pulling?
+Alors, tu te souviens de cette boîte que tu tirais ?
+
+We figured out that you did 250 Joules of
+work on the box when you moved it 5 meters.
+Nous avons compris que vous avez fait 250 Joules de
+travail sur la boîte lorsque vous l'avez déplacée de 5 mètres.
+
+If it took you 2 seconds to move the box,
+then your average power output was 125 Watts.
+S'il vous a fallu 2 secondes pour déplacer la boîte
+, votre puissance de sortie moyenne était de 125 watts.
+
+You’re basically a lightbulb!
+Vous êtes fondamentalement une ampoule !
+
+Now, we can also describe power in another
+way, by putting two different facts together:
+Maintenant, nous pouvons aussi décrire la puissance d'une autre
+manière, en mettant ensemble deux faits différents
+
+One, that work is equal to force times distance.
+: premièrement, le travail est égal à la force multipliée par la distance.
+
+And two, that average velocity is equal to
+distance over time
+Et deuxièmement, cette vitesse moyenne est égale à la
+distance dans le temps
+
+Knowing this, we can say that power is the net force applied to something with a particular average velocity.
+Sachant cela, nous pouvons dire que la puissance est la force nette appliquée à quelque chose avec une vitesse moyenne particulière.
+
+If you moved the box 5 meters in 2 seconds,
+then its average velocity was 2.5 meters per second.
+Si vous avez déplacé la boîte de 5 mètres en 2 secondes
+, sa vitesse moyenne était de 2,5 mètres par seconde.
+
+And we already said that you were pulling
+the box along with a force of 50 Newtons.
+Et nous avons déjà dit que vous tiriez
+la boîte avec une force de 50 Newtons.
+
+So, the force you were using to pull the box,
+times the box’s average velocity, would
+Ainsi, la force que vous utilisiez pour tirer la boîte,
+multipliée par la vitesse moyenne de la boîte,
+
+also give you an average power output of 125
+Watts.
+vous donnerait également une puissance de sortie moyenne de 125
+watts.
+
+The two equations for average power are
+really describing the same relationship;
+Les deux équations pour la puissance moyenne
+décrivent en réalité la même relation ;
+
+they’re just using different qualities to do it.
+ils utilisent simplement des qualités différentes pour le faire.
+
+We’re going to be talking about power a
+lot when we discuss electricity in later episodes.
+Nous allons beaucoup parler de puissance
+lorsque nous discuterons d'électricité dans les épisodes ultérieurs.
+
+It’s the best way to calculate how
+energy moves around in a circuit.
+C'est la meilleure façon de calculer comment l'
+énergie se déplace dans un circuit.
+
+But that’s a story for another day. For
+now, our work is done.
+Mais c'est une histoire pour un autre jour.  Pour l'
+instant, notre travail est terminé.
+
+Today, you learned the two equations we can use to describe work, and that energy is the ability to do work.
+Aujourd'hui, vous avez appris les deux équations que nous pouvons utiliser pour décrire le travail, et que l'énergie est la capacité de faire un travail.
+
+We also talked about kinetic and potential
+energy,
+Nous avons également parlé de l'énergie cinétique et potentielle
+
+and how they play into non-conservative and
+conservative systems.
+et de leur rôle dans les systèmes non conservateurs et
+conservateurs.
+
+Finally, we found two different equations
+for power.
+Enfin, nous avons trouvé deux équations différentes
+pour la puissance.
+
+Crash Course Physics is produced in association
+with PBS Digital Studios.
+Crash Course Physics est produit en association
+avec PBS Digital Studios.
+
+You can head over to their channel to check
+out amazing shows like The Art Assignment,
+Vous pouvez vous rendre sur leur chaîne pour
+découvrir des émissions incroyables comme The Art Assignment,
+
+PBS Idea Channel, and PBS Game Show.
+PBS Idea Channel et PBS Game Show.
+
+This episode of Crash Course was filmed in
+the Doctor Cheryl C. Kinney Crash Course Studio
+Cet épisode de Crash Course a été filmé dans
+le studio Doctor Cheryl C. Kinney Crash Course
+
+with the help of these amazing people and
+our equally amazing graphics team is Thought Cafe.
+avec l'aide de ces personnes incroyables et de
+notre équipe graphique tout aussi incroyable, Thought Cafe.
+

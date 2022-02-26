@@ -1,0 +1,676 @@
+We all make mistakes.
+Nous faisons tous des erreurs. 
+
+In life and engineering, you’re not always
+going to succeed.
+Dans la vie et l'ingénierie, vous ne
+réussirez pas toujours.
+
+What’s important is that you learn from
+your screw-ups and incorporate those lessons
+into what you do next.
+Ce qui est important, c'est que vous appreniez de
+vos erreurs et que vous intégriez ces leçons
+dans ce que vous ferez ensuite.
+
+Because when you don’t, the consequences
+can be bad. Even deadly.
+Parce que si vous ne le faites pas, les conséquences
+peuvent être mauvaises.  Voire mortel.
+
+To help keep us on track, we need something
+that will provide a sense of morality and a set of
+best practices for doing good in the world.
+Pour nous aider à rester sur la bonne voie, nous avons besoin de quelque chose
+qui fournira un sens de la moralité et un ensemble de
+meilleures pratiques pour faire le bien dans le monde.
+
+We need ethics.
+Specifically, we need engineering ethics.
+Nous avons besoin d'éthique.
+Plus précisément, nous avons besoin d'une éthique de l'ingénierie.
+
+[Theme Music]
+[Thème Musique] L'
+
+Engineering is a broad, ever-changing field.
+ingénierie est un vaste domaine en constante évolution.
+
+With so many different branches, it’s good
+to have some common ground –
+Avec autant de branches différentes, il est bon
+d'avoir un terrain d'entente -
+
+a general set of guidelines or ideas for how
+the engineers of the world should go about
+solving problems.
+un ensemble général de lignes directrices ou d'idées sur la façon dont
+les ingénieurs du monde devraient s'y prendre pour
+résoudre les problèmes.
+
+One of these is safety, which we’ll talk
+about more next time.
+L'un d'eux est la sécurité, dont nous
+parlerons plus en détail la prochaine fois.
+
+The other is ethics.
+L'autre est l'éthique.
+
+In general, ethics is a moral philosophy that tries
+to deal with what’s right, what’s wrong, and what
+your duty is to do good – and not do bad.
+En général, l'éthique est une philosophie morale qui essaie
+de traiter de ce qui est bien, de ce qui ne va pas et de
+votre devoir de faire le bien - et non de faire le mal.
+
+Engineering ethics is essentially this same
+mindset, just applied to the field of engineering.
+L'éthique de l'ingénierie est essentiellement ce même
+état d'esprit, juste appliqué au domaine de l'ingénierie.
+
+It’s the study of values, issues, and decisions
+that are involved with the work of engineers.
+C'est l'étude des valeurs, des problèmes et des décisions
+qui sont impliqués dans le travail des ingénieurs.
+
+Ethics has a particular importance for
+engineers because people’s lives are so
+often going to be in your hands.
+L'éthique a une importance particulière pour les
+ingénieurs, car la vie des gens
+va souvent être entre vos mains.
+
+It’s not just about remembering your manners
+or being nice to your neighbor.
+Il ne s'agit pas seulement de se souvenir de ses manières
+ou d'être gentil avec son voisin.
+
+What you create as an engineer could save
+a person’s life or take it away.
+Ce que vous créez en tant qu'ingénieur peut sauver
+la vie d'une personne ou la lui enlever.
+
+When you swallow a pill at the hospital, you
+need to be able to trust that the people that came
+up with it had your best interests in mind.
+Lorsque vous avalez une pilule à l'hôpital, vous
+devez être sûr que les personnes qui l'
+ont inventée ont votre intérêt à cœur.
+
+When you drive over a bridge, you need to
+know that the civil engineers who designed it took
+the time to make it as sturdy as possible.
+Lorsque vous roulez sur un pont, vous devez
+savoir que les ingénieurs civils qui l'ont conçu ont pris
+le temps de le rendre le plus solide possible.
+
+The foods you eat – the cars you drive – the
+wires in your home they all need to be designed
+with ethics in mind.
+Les aliments que vous mangez - les voitures que vous conduisez - les
+fils de votre maison doivent tous être conçus
+dans un souci d'éthique.
+
+If you want to see how bad an engineering
+failure can be, look no further than the Kansas
+City Hyatt-Regency Collapse.
+Si vous voulez voir à quel point une
+défaillance technique peut être grave, ne cherchez pas plus loin que l'effondrement du Kansas
+City Hyatt-Regency.
+
+In July of 1980, the Hyatt Regency Hotel in Kansas City,
+Missouri was showing off its new multi-story atrium,
+decked out with two levels of suspended walkways.
+En juillet 1980, l'hôtel Hyatt Regency de Kansas City,
+dans le Missouri, présentait son nouvel atrium à plusieurs étages,
+agrémenté de deux niveaux de passerelles suspendues.
+
+These walkways were supported by beams, which
+were supposed to be held up by long rods hanging
+from the ceiling.
+Ces passerelles étaient soutenues par des
+poutres censées être soutenues par de longues tiges suspendues
+au plafond.
+
+To even the load and reduce the stress on
+each beam, the walkways were supposed to have
+a single rod extending all the way through them.
+Pour égaliser la charge et réduire la contrainte sur
+chaque poutre, les passerelles étaient censées avoir
+une seule tige les traversant.
+
+But something happened between the initial
+design stage and the actual building of the atrium.
+Mais quelque chose s'est passé entre la phase de
+conception initiale et la construction proprement dite de l'atrium.
+
+When the builders had some difficulty putting it
+together, the system was modified to have 2 separate,
+shorter rods instead of a single longer one.
+Lorsque les constructeurs ont eu du mal à l'
+assembler, le système a été modifié pour avoir 2 tiges séparées et
+plus courtes au lieu d'une seule plus longue.
+
+This design change meant that the upper rod had to not
+only support the weight of the walkway that it held up,
+but also the one below it – essentially doubling the load.
+Ce changement de conception signifiait que la tige supérieure devait non
+seulement supporter le poids de la passerelle qu'elle soutenait,
+mais aussi celle en dessous, ce qui doublait essentiellement la charge.
+
+During a party about a year after the atrium opened,
+these beams failed and the two walkways collapsed,
+killing 114 people and injuring 216 others.
+Au cours d'une fête environ un an après l'ouverture de l'atrium,
+ces poutres se sont rompues et les deux passerelles se sont effondrées,
+tuant 114 personnes et en blessant 216 autres.
+
+In terms of lost lives, it was one of the most
+devastating structural failures in U.S. history.
+En termes de vies perdues, ce fut l'un des
+échecs structurels les plus dévastateurs de l'histoire des États-Unis.
+
+A lot went wrong, much of it caused by poor
+oversight and bad communication.
+Beaucoup de choses se sont mal passées, en grande partie à cause d'une mauvaise
+surveillance et d'une mauvaise communication.
+
+A formal review of the changed design never
+happened, strength calculations were never
+performed, work was subcontracted out,
+Un examen formel de la conception modifiée n'a jamais
+eu lieu, les calculs de résistance n'ont jamais été
+effectués, le travail a été sous-traité
+
+and the engineer on record put their seal on the
+design without personally checking everything.
+et l'ingénieur au dossier a apposé son sceau sur la
+conception sans tout vérifier personnellement.
+
+It all could’ve been prevented, if only
+they’d followed the engineer’s Code of Ethics.
+Tout cela aurait pu être évité, si seulement
+ils avaient suivi le code de déontologie de l'ingénieur.
+
+There are a couple of different ones out there,
+but today we’ll use the Code of Ethics from the
+American Society of Civil Engineers, or ASCE.
+Il en existe plusieurs,
+mais aujourd'hui, nous utiliserons le code de déontologie de l'
+American Society of Civil Engineers, ou ASCE.
+
+Their Code of Ethics has eight distinct principles,
+the first being: “Hold Safety Paramount”.
+Leur code d'éthique comporte huit principes distincts,
+le premier étant : « La sécurité doit être primordiale ».
+
+This means that your chief concern as an engineer
+needs to be the health and welfare of the public.
+Cela signifie que votre principale préoccupation en tant qu'ingénieur
+doit être la santé et le bien-être du public.
+
+The rule goes on to say that you should only
+approve designs that are determined to be safe and
+that conform with accepted engineering standards.
+La règle précise ensuite que vous ne devez
+approuver que les conceptions jugées sûres
+et conformes aux normes d'ingénierie acceptées.
+
+The fact that there weren’t any calculations
+done on the design changes to the walkway,
+Le fait qu'aucun calcul n'ait été
+effectué sur les modifications de conception de la passerelle
+
+and that the engineer on duty approved the
+designs without properly checking them clearly
+goes against this principle.
+et que l'ingénieur de service ait approuvé les
+conceptions sans les vérifier correctement va clairement à l'
+encontre de ce principe.
+
+That’s why the Committee of Professional Conduct that reviewed the case ruled that the engineer had violated their code and suspended them from the Society for three years.
+C'est pourquoi le comité de déontologie qui a examiné le cas a jugé que l'ingénieur avait violé son code et l'a suspendu de la Société pour trois ans.
+
+If you take a look at the rest of the Code,
+you can see some other useful rules about how
+engineers should approach a problem.
+Si vous jetez un coup d'œil au reste du Code,
+vous pouvez voir d'autres règles utiles sur la façon dont les
+ingénieurs doivent aborder un problème.
+
+The second rule is to “Service With Competence”,
+which means that you should only work in areas
+that you’re skilled in.
+La deuxième règle est de "Service With Competence",
+ce qui signifie que vous ne devez travailler que dans des domaines dans
+lesquels vous êtes compétent.
+
+If you’re not an electrical engineer, you
+shouldn’t be messing with the wires in a
+building.
+Si vous n'êtes pas un ingénieur électricien, vous
+ne devriez pas jouer avec les fils d'un
+bâtiment.
+
+The third states that you should always “Issue
+True Statements”.
+Le troisième stipule que vous devez toujours « émettre des
+déclarations vraies ».
+
+Basically, don’t lie.
+En gros, ne mentez pas.
+
+Then comes the need to “Act As A Faithful
+Agent” for each of your employers or clients
+and avoid conflicts of interest.
+Vient ensuite la nécessité « d'agir en
+agent fidèle » pour chacun de vos employeurs ou clients
+et d'éviter les conflits d'intérêts.
+
+One of your jobs shouldn’t cause you to
+sabotage another.
+Un de vos travaux ne devrait pas vous amener à en
+saboter un autre.
+
+There’s also the rule of “Reputation By Merit”,
+which means your reputation is built up by the work
+that you do and not by unfair means.
+Il y a aussi la règle de la «réputation par le mérite»,
+ce qui signifie que votre réputation se construit par le travail
+que vous faites et non par des moyens déloyaux.
+
+That goes hand-in-hand with the requirement
+to “Uphold Professional Honor”,
+Cela va de pair avec l'exigence
+de « maintenir l'honneur professionnel »,
+
+where you act with integrity and have a zero tolerance
+policy for bribery, fraud, or any sort of corruption.
+où vous agissez avec intégrité et
+appliquez une politique de tolérance zéro pour les pots-de-vin, la fraude ou toute forme de corruption.
+
+The 7th rule is to “Continue Professional Development,”
+and it’s one of the most important for the long-term
+growth of society and the engineering field.
+La 7ème règle est de "continuer le développement professionnel",
+et c'est l'une des plus importantes pour la
+croissance à long terme de la société et du domaine de l'ingénierie.
+
+You need to not only foster your own development
+as an engineer, but that of other engineers as well.
+Vous devez non seulement favoriser votre propre développement
+en tant qu'ingénieur, mais aussi celui des autres ingénieurs.
+
+You always need to report what happens, no
+matter the consequences.
+Vous devez toujours signaler ce qui se passe,
+quelles que soient les conséquences.
+
+And finally, the eighth rule is to “Treat
+All Persons Fairly”, which is really just
+a good mantra for life.
+Et enfin, la huitième règle est de « traiter
+toutes les personnes équitablement », ce qui n'est en réalité
+qu'un bon mantra pour la vie.
+
+Now, codes are great, but they’re not perfect.
+Maintenant, les codes sont super, mais ils ne sont pas parfaits.
+
+People can, and do, break the rules.
+Les gens peuvent, et le font, enfreindre les règles.
+
+And codes can’t always address every situation.
+Et les codes ne peuvent pas toujours répondre à toutes les situations.
+
+They may need to be updated as society and
+technology advance.
+Il peut être nécessaire de les mettre à jour à mesure que la société et la
+technologie progressent.
+
+So it all comes down to this: what are the
+highest priorities?
+Donc tout se résume à ceci : quelles sont les
+priorités les plus élevées ?
+
+If engineers are trying to create good for
+the public, you need to ask “what is good”
+|and “how can we prioritize good’?
+Si les ingénieurs essaient de créer du bien pour
+le public, vous devez vous demander « qu'est-ce qui est bien »
+| et « comment pouvons-nous donner la priorité au bien » ?
+
+It can’t just be consequentialism – having
+the end justify the means – or you leave the door
+open for some pretty big ethical gray areas.
+Il ne peut pas s'agir simplement de conséquentialisme - faire en sorte que
+la fin justifie les moyens - ou vous laissez la porte
+ouverte à d'assez grandes zones grises éthiques.
+
+No, we need better ethics than that.
+Non, nous avons besoin d'une meilleure éthique que cela.
+
+One of the most influential ethical theories
+to engineering has been utilitarianism.
+L'utilitarisme est l'une des théories éthiques les plus influentes
+de l'ingénierie.
+
+This is the belief that actions are right if
+they are useful or beneficial to the majority
+of people.
+C'est la croyance que les actions sont justes si
+elles sont utiles ou bénéfiques pour la majorité
+des gens.
+
+You should try and maximize the overall good
+that you can do, taking into account all of those
+that will be affected by your actions.
+Vous devez essayer de maximiser le bien global
+que vous pouvez faire, en tenant compte de tous ceux
+qui seront affectés par vos actions.
+
+Rights ethics is also very important.
+L'éthique des droits est également très importante.
+
+Simply put, you should do your best to respect
+the rights of others.
+En termes simples, vous devez faire de votre mieux pour respecter
+les droits des autres.
+
+Acts of respect aren’t just ideal, but
+necessary, regardless of whether or not they
+always maximize the overall good.
+Les actes de respect ne sont pas seulement idéaux, mais
+nécessaires, qu'ils maximisent ou non
+toujours le bien général.
+
+In that way, you can see how ethical theories
+can stack on each other.
+De cette façon, vous pouvez voir comment les théories éthiques
+peuvent s'empiler les unes sur les autres.
+
+There’s also duty ethics, which is all about
+respecting another person’s autonomy.
+Il y a aussi l'éthique du devoir, qui consiste à
+respecter l'autonomie d'autrui.
+
+This builds on rights ethics, but puts the
+spotlight on your duties, rather than another
+person’s rights.
+Cela s'appuie sur l'éthique des droits, mais met l'
+accent sur vos devoirs, plutôt que sur les droits d'une autre
+personne.
+
+If you have a right to live, then I have a
+duty to not market a misleading product
+that could kill you.
+Si vous avez le droit de vivre, alors j'ai le
+devoir de ne pas commercialiser un produit trompeur
+qui pourrait vous tuer.
+
+Or sign off on a new walkway design that I
+haven’t checked.
+Ou signer une nouvelle conception de passerelle que je
+n'ai pas vérifiée.
+
+Applying engineering ethics is all about trying
+to balance these ethical theories with whatever
+situation you’re put in.
+L'application de l'éthique de l'ingénierie consiste à essayer
+d'équilibrer ces théories éthiques avec la
+situation dans laquelle vous vous trouvez.
+
+It’s not always easy – or simple – but as
+an engineer, you have a duty to try your best.
+Ce n'est pas toujours facile - ou simple - mais en
+tant qu'ingénieur, vous avez le devoir de faire de votre mieux.
+
+We improve, individually and as a community,
+with practice and learning from the past.
+Nous nous améliorons, individuellement et en tant que communauté,
+avec la pratique et l'apprentissage du passé.
+
+Remember that Citicorp building we talked
+about last episode?
+Vous vous souvenez du bâtiment Citicorp dont nous avons
+parlé dans le dernier épisode ?
+
+The one whose pillars were in the middle of
+its sides rather than at the corners?
+Celui dont les piliers étaient au milieu de
+ses côtés plutôt qu'aux angles ?
+
+Wind from the wrong angle could cause the entire
+structure to fall, and no one realized until a student
+pointed out the problem after it was already built.
+Le vent du mauvais angle pourrait faire tomber toute la
+structure, et personne ne s'en est rendu compte jusqu'à ce qu'un étudiant
+signale le problème après sa construction.
+
+After those discoveries were made and they started
+immediate repairs, did they have an obligation to
+inform everyone in the building?
+Après que ces découvertes ont été faites et qu'ils ont commencé les
+réparations immédiates, avaient-ils l'obligation d'
+informer tout le monde dans le bâtiment ?
+
+How about the church that was underneath it?
+Et l'église qui était en dessous ?
+
+What about the people in the surrounding area?
+Qu'en est-il des gens des environs ?
+
+Or the media?
+Or the local government?
+Ou les médias ?
+Ou le gouvernement local?
+
+What was the proper protocol that they should
+have followed?
+Quel était le protocole approprié qu'ils auraient
+dû suivre ?
+
+If you pick apart this incident, you can zero in
+on the ethics surrounding several of these points.
+Si vous séparez cet incident, vous pouvez vous concentrer
+sur l'éthique entourant plusieurs de ces points.
+
+To start, you need to analyze those wind loads.
+Pour commencer, vous devez analyser ces charges de vent.
+
+You need to check all of your calculations
+and not simply rely on building codes,
+Vous devez vérifier tous vos calculs
+et ne pas simplement vous fier aux codes du bâtiment,
+
+which only set minimum requirements and aren't always
+what a specific project needs.
+qui ne fixent que des exigences minimales et ne correspondent pas
+toujours aux besoins d'un projet spécifique.
+
+Then you should address the design changes,
+which in this case was a switch from welded
+connections to bolted ones.
+Ensuite, vous devez aborder les modifications de conception,
+qui dans ce cas étaient un passage des
+assemblages soudés aux assemblages boulonnés.
+
+Those changes need to be considered in the
+overall design and checked by everyone involved.
+Ces changements doivent être pris en compte dans la
+conception globale et vérifiés par toutes les personnes impliquées.
+
+It can’t just be a hasty decision.
+Cela ne peut pas être une décision hâtive.
+
+You also have your professional responsibility
+to follow the codes of conduct for every chartered
+institution that applies to what you’re doing.
+Vous avez également la responsabilité professionnelle
+de suivre les codes de conduite de chaque
+institution à charte qui s'applique à ce que vous faites.
+
+Public statements are absolutely necessary
+in a situation like this.
+Les déclarations publiques sont absolument nécessaires
+dans une situation comme celle-ci.
+
+The public has a right to know what’s going
+on so they can plan accordingly.
+Le public a le droit de savoir ce qui se
+passe afin de pouvoir planifier en conséquence.
+
+If you don’t release a public statement or,
+like Citicorp, put out one that’s misleading,
+Si vous ne publiez pas de déclaration publique ou,
+comme Citicorp, si vous en publiez une qui est trompeuse,
+
+you’re denying people their right to ensure
+their own safety and make their own educated
+decisions.
+vous privez les gens de leur droit d'assurer
+leur propre sécurité et de prendre leurs propres
+décisions éclairées.
+
+Finally, no matter what happens, you need
+to share and contribute to the advancement
+of professional knowledge.
+Enfin, quoi qu'il arrive, vous
+devez partager et contribuer à l'avancement
+des connaissances professionnelles.
+
+Concealing the Citicorp problem for over 20
+years robbed everyone of decades of ethical
+and engineering learning.
+Cacher le problème de Citicorp pendant plus de 20
+ans a privé tout le monde de décennies d'
+apprentissage éthique et technique.
+
+That’s why even when tragedies happen, it’s
+important to treat them as case-studies
+C'est pourquoi même lorsque des tragédies se produisent, il est
+important de les traiter comme des études de cas
+
+on what you might learn to do differently in
+the future when approaching other problems.
+sur ce que vous pourriez apprendre à faire différemment à
+l'avenir lorsque vous aborderez d'autres problèmes.
+
+Like if you’re going to try and go into space,
+you need to know about the Space Shuttle
+Challenger disaster.
+Par exemple, si vous essayez d'aller dans l'espace,
+vous devez être au courant de la catastrophe de la navette spatiale
+Challenger.
+
+In 1986, a leak in one of its solid rocket
+boosters ignited the main liquid fuel tank,
+En 1986, une fuite dans l'un de ses propulseurs à fusée
+solide a enflammé le réservoir principal de carburant liquide,
+
+resulting in the loss of the vehicle and the
+death of the crew.
+entraînant la perte du véhicule et la
+mort de l'équipage.
+
+NASA found the cause of the disaster to be the
+failure of an "O-ring" seal in the solid-fuel rocket,
+La NASA a découvert que la cause de la catastrophe était la
+défaillance d'un joint "O-ring" dans la fusée à combustible solide,
+
+and while there were many factors that contributed
+to this disaster, it was fundamentally an ethics problem.
+et bien que de nombreux facteurs aient contribué
+à cette catastrophe, il s'agissait fondamentalement d'un problème d'éthique.
+
+Sufficient testing hadn’t been done on the O-rings and NASA management didn’t listen to the concerns of some engineers, all so they could stay on their launch schedule.
+Des tests suffisants n'avaient pas été effectués sur les joints toriques et la direction de la NASA n'a pas écouté les préoccupations de certains ingénieurs, tout cela pour qu'ils puissent respecter leur calendrier de lancement.
+
+Who knows what would’ve happened if a better
+ethical code was followed?
+Qui sait ce qui se serait passé si un meilleur
+code d'éthique avait été suivi ?
+
+It could’ve still gone wrong, but maybe
+it wouldn’t have.
+Cela aurait pu encore mal tourner, mais peut-être que
+ce ne serait pas le cas.
+
+All we can do is try.
+Tout ce que nous pouvons faire, c'est essayer.
+
+And with a strong code of ethics at our side,
+and the knowledge of the past at our backs,
+Et avec un code d'éthique solide à nos côtés
+et la connaissance du passé à nos côtés,
+
+we can make the best, most informed decisions
+to ensure our designs have the best possible impact.
+nous pouvons prendre les décisions les meilleures et les plus éclairées
+pour garantir que nos conceptions ont le meilleur impact possible.
+
+There’s no better way to do it.
+Il n'y a pas de meilleure façon de le faire.
+
+Today we talked about ethics and how it can
+be applied to engineering.
+Aujourd'hui, nous avons parlé d'éthique et de la façon dont elle peut
+être appliquée à l'ingénierie.
+
+We learned what a Code of Ethics is and how
+it can apply to a situation like the Kansas City
+Hyatt-Regency collapse.
+Nous avons appris ce qu'est un code d'éthique et comment
+il peut s'appliquer à une situation comme l'effondrement du Kansas City
+Hyatt-Regency.
+
+Then we learned about engineering ethics and
+the ethical theories of utilitarianism, rights
+ethics, and duty ethics.
+Ensuite, nous avons appris l'éthique de l'ingénierie et
+les théories éthiques de l'utilitarisme, l'
+éthique des droits et l'éthique du devoir.
+
+Finally, we brought it all together by going
+back to the situation with Citicorp and analyzing
+it from an ethical perspective.
+Enfin, nous avons rassemblé le tout en
+revenant sur la situation de Citicorp et en l'
+analysant d'un point de vue éthique.
+
+I’ll see you next time, when we’ll talk
+all about safety.
+Je vous verrai la prochaine fois, quand nous
+parlerons de sécurité.
+
+Crash Course Engineering is produced in association
+with PBS Digital Studios,
+Crash Course Engineering est produit en association
+avec PBS Digital Studios,
+
+which also produces Origin of Everything,
+a show that explores the history behind stuff
+in our everyday life,
+qui produit également Origin of Everything,
+une émission qui explore l'histoire derrière les choses
+de notre vie quotidienne,
+
+from the words we use, the pop culture we
+love, the technology that get us through the day,
+or the identities we give ourselves.
+des mots que nous utilisons, la culture pop que nous
+aimons, la technologie qui nous aide à traverser  le jour,
+ou les identités que nous nous donnons.
+
+Check it out at the link in the description.
+Découvrez-le sur le lien dans la description.
+
+Crash Course is a Complexly production and this
+episode was filmed in the Doctor Cheryl C. Kinney
+Studio with the help of these wonderful people.
+Crash Course est une production de Complexly et cet
+épisode a été filmé dans le studio du docteur Cheryl C. Kinney
+avec l'aide de ces personnes merveilleuses.
+
+And our amazing graphics team is Thought Cafe.
+Et notre incroyable équipe graphique est Thought Cafe.
+

@@ -1,0 +1,810 @@
+Like thermodynamics, the history of electrical
+physics has its roots in pre-industrial questions
+Comme la thermodynamique, l'histoire de la
+physique électrique plonge ses racines dans des questions préindustrielles
+
+that converged in the nineteenth century.
+These questions became a research paradigm,
+qui ont convergé au XIXe siècle.
+Ces questions sont devenues un paradigme de recherche,
+
+driven by a whole crew of researchers… And
+they led to a power system that reshaped the
+porté par toute une équipe de chercheurs… Et
+elles ont conduit à un système de pouvoir qui a remodelé le
+
+world. Time to get tingly!
+monde.  Il est temps d'avoir des picotements !
+
+[Intro Music Plays]
+[Intro Music Plays]
+
+The study of electricity goes all the way
+back to antiquity. Like, for a long time,
+L'étude de l'électricité
+remonte à l'Antiquité.  Par exemple, depuis longtemps, les
+
+people knew that lightning is the powerful
+release of energy caused when two clouds are
+gens savaient que la foudre est la puissante
+libération d'énergie provoquée lorsque deux
+
+in love and make a baby cloud.
+nuages s'aiment et forment un bébé nuag
+
+But that's hard to study.
+.  Mais c'est difficile à étudier.
+
+Much easier to study, however, was static
+electricity, or the electrical charge produced
+Cependant, l'
+électricité statique, ou la charge électrique produite
+
+by stationary friction: it waits for you to
+pet your cat, and then shocks you!
+par le frottement stationnaire, était beaucoup plus facile à étudier : elle attend que vous
+caressiez votre chat, puis vous choque !
+
+But for centuries, natural historians didn’t
+really have any good ideas about how to more
+Mais pendant des siècles, les historiens de la nature
+n'avaient pas vraiment de bonnes idées sur la façon de
+
+deeply understand this phenomenon.
+comprendre plus profondément ce phénomène.
+
+For one, they had no concept of current, or
+electricity as a flow of electrical charge.
+D'une part, ils n'avaient aucun concept de courant ou d'
+électricité en tant que flux de charge électrique.
+
+Current can happen either by the movement
+of negatively charged subatomic particles
+Le courant peut se produire soit par le mouvement
+de particules subatomiques chargées négativement
+
+called electrons through wires, or by the
+movement of charged molecules called ions.
+appelées électrons à travers des fils, soit par le
+mouvement de molécules chargées appelées ions.
+
+And these people didn't know either of those things existed.
+Et ces gens ne savaient pas qu'aucune de ces choses n'existait.
+
+Secondly, the relationship between electricity
+and magnetism, which are intimately linked,
+Deuxièmement, la relation entre l'électricité
+et le magnétisme, qui sont intimement liés,
+
+was a mystery.
+était un mystère.
+
+And, third, a lot of experimentation into
+these phenomenon basically amounted to weird
+Et, troisièmement, de nombreuses expérimentations sur
+ces phénomènes se résumaient essentiellement à des
+
+parlor tricks that had no obvious uses.
+trucs de salon étranges qui n'avaient aucune utilité évidente.
+
+English natural philosopher Francis Hauksbee,
+for example, found out in the early 1700s
+Le philosophe naturel anglais Francis Hauksbee,
+par exemple, a découvert au début des années 1700
+
+that spinning a glass globe produced electricity—thus
+creating one of the first electrical generators.
+que la rotation d'un globe de verre produisait de l'électricité, créant ainsi l'
+un des premiers générateurs électriques.
+
+Then, in 1729, two amateur scholars named
+Stephen Gray and Granville Wheler discovered
+Puis, en 1729, deux savants amateurs nommés
+Stephen Gray et Granville Wheler ont découvert
+
+that electricity could be communicated over
+long distances by contact.
+que l'électricité pouvait être communiquée sur de
+longues distances par contact.
+
+This was an important first step toward researching
+currents. But mostly it was an excuse to conduct
+Ce fut une première étape importante vers la recherche des
+courants.  Mais c'était surtout une excuse pour mener
+
+totally ethical scientific demonstrations…
+des démonstrations scientifiques totalement éthiques…
+
+like suspending a young boy from the ceiling,
+charging him up, and then watching him attract
+comme suspendre un jeune garçon au plafond, le
+charger, puis le regarder attirer des
+
+objects with different body parts.
+objets avec différentes parties du corps.
+
+And we can’t forget statesman, encyclopedist,
+and infamous knowitall Ben Franklin.
+Et nous ne pouvons pas oublier l'homme d'État, l'encyclopédiste
+et l'infâme connaisseur Ben Franklin.
+
+He witnessed one of these flying-boy demonstrations
+in Boston, then went home to Philadelphia
+Il assista à l'une de ces démonstrations
+de voleurs à Boston, puis rentra chez lui à Philadelphie
+
+and waited for a thunderstorm.
+et attendit un orage.
+
+As the story goes, in 1752, he flew his kite
+in a storm and succeeded in “drawing off”
+Selon l'histoire, en 1752, il a fait voler son cerf-volant
+dans une tempête et a réussi à « éteindre »
+
+electrical fire.
+le feu électrique.
+
+Inspired by this incident, he developed the
+lightning rod. But no real epistemic knowledge.
+Inspiré par cet incident, il a développé le
+paratonnerre.  Mais pas de vraie connaissance épistémique.
+
+One of the first modern electrical physicists
+was Italian physician Luigi Galvani.
+L'un des premiers physiciens électriques modernes
+était le médecin italien Luigi Galvani.
+
+In the late 1700s, his assistant accidentally
+caused a frog’s leg to twitch with a spark
+À la fin des années 1700, son assistant a accidentellement
+provoqué la contraction d'une cuisse de grenouille avec une étincelle
+
+from a nearby electrostatic generator.
+provenant d'un générateur électrostatique à proximité.
+
+Inspired by this chance observation, he conducted
+many freaky experiments with frogs.
+Inspiré par cette observation fortuite, il a mené de
+nombreuses expériences bizarres avec des grenouilles.
+
+After much frog-shocking, he theorized the
+existence of animal electricity, or the electrical
+Après avoir beaucoup choqué les grenouilles, il a théorisé l'
+existence de l'électricité animale, ou la
+
+basis of nerve impulses.
+base électrique des impulsions nerveuses.
+
+That inspired one young woman who was remarkably
+well informed about contemporary science:
+Cela a inspiré une jeune femme remarquablement
+bien informée sur la science contemporaine :
+
+in 1818, Mary Shelley published what would
+become a very famous book about a man zapped
+en 1818, Mary Shelley a publié ce qui allait
+devenir un livre très célèbre sur un homme zappé
+
+to life by a Galvani-esque Doctor Frankenstein.
+à la vie par un docteur Galvani-esque Frankenstein.
+
+Galvani also inspired his colleague, Italian
+physicist and chemist Alessandro Volta, to
+Galvani a également inspiré son collègue, le
+physicien et chimiste italien Alessandro Volta, à
+
+push his work on nerves further.
+pousser plus loin ses travaux sur les nerfs.
+
+And Volta became a rockstar of electrical
+physics when he created the first practical
+Et Volta est devenu une star de la
+physique électrique lorsqu'il a créé la première
+
+method of generating electricity—the first
+battery, known as the voltaic pile
+méthode pratique de production d'électricité - la première
+batterie, connue sous le nom de pile voltaïque
+
+So ThoughtBubble, let's make some sparks fly!
+Alors ThoughtBubble, faisons voler des étincelles !
+
+Volta’s battery evolved from humble origins.
+The first iterations were made of two different
+La batterie de Volta a évolué à partir d'origines modestes.
+Les premières itérations étaient faites de deux
+
+metals separated by a brine-soaked cloth or
+piece of cardboard.
+métaux différents séparés par un tissu imbibé de saumure ou un
+morceau de carton.
+
+But Volta kept improving the pile. In 1800,
+he stacked pairs of copper and zinc discs,
+Mais Volta a continué à améliorer la pile.  En 1800,
+il empile des paires de disques de cuivre et de zinc, à
+
+again separated by briny cloth or cardboard.
+nouveau séparés par du tissu saumâtre ou du carton.
+
+When he connected the top and bottom of the
+pile, it generated a steady electric current
+Lorsqu'il connectait le haut et le bas de la
+pile, cela générait un courant électrique constant
+
+that could be carried by a wire.
+qui pouvait être transporté par un fil.
+
+Volta had created the first stable source of electrical
+current!
+Volta avait créé la première source stable de
+courant électrique !
+
+This type of two-metal battery fulfilled the
+world’s scant electrical needs throughout
+Ce type de batterie à deux métaux a répondu
+aux faibles besoins électriques du monde pendant une
+
+much of the First Industrial Revolution, until
+around 1870.
+grande partie de la première révolution industrielle, jusque
+vers 1870.
+
+But no one could really explain how it worked,
+in part because no one had brought electricity
+Mais personne ne pouvait vraiment expliquer comment cela fonctionnait,
+en partie parce que personne n'avait réuni l'électricité
+
+and magnetism together.
+et le magnétisme.
+
+One of the first steps in this direction was
+taken in 1820 by Danish physicist and chemist
+L'un des premiers pas dans cette direction a été
+franchi en 1820 par le physicien et chimiste danois
+
+Hans Christian Ørsted.
+Hans Christian Ørsted.
+
+While demonstrating to his students how to
+heat up a wire by running an electrical current
+Tout en démontrant à ses élèves comment
+chauffer un fil en y faisant passer un courant électrique
+
+through it, Ørsted noticed that his compass’
+needle kept jumping to a ninety-degree angle.
+, Ørsted a remarqué que l'
+aiguille de sa boussole continuait de sauter à un angle de quatre-vingt-dix degrés.
+
+Somehow, he realized, the electrical charge
+and the magnetic attraction of the compass
+D'une manière ou d'une autre, réalisa-t-il, la charge électrique
+et l'attraction magnétique de la boussole
+
+were linked.
+étaient liées.
+
+Ørsted conducted further experiments and
+showed that electric currents actually produce
+Ørsted a mené d'autres expériences et a
+montré que les courants électriques produisent en fait
+
+neatly circular magnetic fields when they
+flow through wires.
+des champs magnétiques parfaitement circulaires lorsqu'ils
+traversent des fils.
+
+This became known as Ørsted’s law.
+C'est ce qu'on appelle la loi d'Ørsted.
+
+Later in 1820, at the Academy of Science
+in Paris, physicist André-Marie Ampère watched
+Plus tard en 1820, à l'Académie des sciences
+de Paris, le physicien André-Marie Ampère
+
+as a friend reproduced Ørsted’s electrically-messing-with-a-compass
+trick.
+regarda un ami reproduire le tour électrique d'Ørsted avec une boussole
+.
+
+Amazed, Ampère went to work figuring out
+the math behind this special relationship.
+Stupéfait, Ampère s'est mis au travail pour comprendre
+les mathématiques derrière cette relation spéciale.
+
+He showed that two parallel, electrified wires
+attract each other if the currents flow in
+Il a montré que deux fils électrifiés parallèles
+s'attirent si les courants circulent dans
+
+the same direction, and repel if the currents
+flow in opposite directions.
+le même sens et se repoussent si les courants
+circulent dans des directions opposées.
+
+Thanks Thoughtbubble. Ampère also showed
+that the force between the currents was inversely
+Merci Bulle de Pensée.  Ampère a également montré
+que la force entre les courants était inversement
+
+proportional to the distance between them,
+and proportional to the intensity of the current
+proportionnelle à la distance qui les séparait,
+et proportionnelle à l'intensité du courant
+
+flowing in each.
+circulant dans chacun.
+
+This became known as Ampère's law. You can
+watch a whole episode about that over at Crash
+C'est ce qu'on appelle la loi d'Ampère.  Vous pouvez
+regarder tout un épisode à ce sujet sur Crash
+
+Course: Physics!
+Course: Physics !
+
+And he even theorized that there must be some
+“electrodynamic molecule” that carried
+Et il a même émis l'hypothèse qu'il devait y avoir une
+"molécule électrodynamique" qui transportait
+
+the currents of electricity and magnetism.
+les courants d'électricité et de magnétisme.
+
+This became the basis for the electron.
+C'est devenu la base de l'électron.
+
+Ampère’s insights became the foundation
+of the quantitative science of electromagnetism,
+Les idées d'Ampère sont devenues le fondement
+de la science quantitative de l'électromagnétisme,
+
+or “electrodynamics.”
+ou «électrodynamique».
+
+In 1827, Germany physicist Georg Ohm —who’d
+been conducting research using Volta’s battery—published
+En 1827, le physicien allemand Georg Ohm, qui avait
+mené des recherches à l'aide de la batterie de Volta, a publié
+
+his discovery that an electrical current
+sa découverte selon laquelle un courant électrique
+
+between two points is directly proportional
+to the voltage, or potential difference, between
+entre deux points est directement proportionnel
+à la tension, ou différence de potentiel, entre
+
+them.
+eux.
+
+This became known as Ohm’s law.
+C'est ce qu'on appelle la loi d'Ohm.
+
+This can be expressed using the concept of
+resistance, or the difficulty of passing an
+Cela peut être exprimé en utilisant le concept de
+résistance, ou la difficulté de faire passer un
+
+electric current through that conductor, in
+a really simple equation:
+courant électrique à travers ce conducteur, dans
+une équation très simple :
+
+“I = V/R.” Current, measured in amperes,
+is equal to voltage, measured in volts, divided
+"I = V/R".  Le courant, mesuré en ampères,
+est égal à la tension, mesurée en volts, divisée
+
+by resistance, measured in ohms.
+par la résistance, mesurée en ohms.
+
+Yep: all three scientists became standard
+units.
+Oui : les trois scientifiques sont devenus des
+unités standard.
+
+Congrats, scientists!
+Félicitations, scientifiques!
+
+They say, in Physics the greatest honor is when your name starts to be spelled with a lower case letter.
+On dit qu'en physique, le plus grand honneur est lorsque votre nom commence à être épelé avec une lettre minuscule.
+
+With practical batteries and basic scientific
+laws, the stage was set for electricity to
+Avec des batteries pratiques et des lois scientifiques de base
+, le décor était planté pour que l'électricité
+
+become an industry—enter motors and lights.
+devienne une industrie - entre les moteurs et les lumières.
+
+Born to a poor family in Newington Butts,
+London, Michael Faraday became obsessed with
+Né dans une famille pauvre de Newington Butts, à
+Londres, Michael Faraday est devenu obsédé par l'
+
+electricity and chemistry at a young age.
+électricité et la chimie dès son plus jeune âge.
+
+Eventually, he became as important to the
+sciences of stuff as Darwin was to those of
+Finalement, il est devenu aussi important pour les
+sciences des choses que Darwin l'était pour celles de la
+
+life.
+vie.
+
+In 1821—a year after Ørsted characterized
+electromagnetism and Ampère began experimenting
+En 1821, un an après qu'Ørsted ait caractérisé l'
+électromagnétisme et qu'Ampère ait commencé à
+
+with the math behind it—Faraday got to work
+inventing electromagnetic motors.
+expérimenter les mathématiques sous-jacentes, Faraday s'est mis au travail pour
+inventer des moteurs électromagnétiques.
+
+His motors worked due to “electromagnetic
+rotation,” a motion made by the circular
+Ses moteurs fonctionnaient grâce à la "
+rotation électromagnétique", un mouvement créé par la
+
+magnetic force around an electrified wire.
+force magnétique circulaire autour d'un fil électrifié.
+
+In 1831, he had his big breakthrough—electromagnetic
+induction, meaning the generation of electricity
+En 1831, il a eu sa grande percée - l'
+induction électromagnétique, c'est-à-dire la génération d'électricité
+
+in one wire via the changing magnetic field
+created by the current in another wire.
+dans un fil via le champ magnétique changeant
+créé par le courant dans un autre fil.
+
+This became the basis of the electromagnetic
+technologies that we use today.
+Cela est devenu la base des
+technologies électromagnétiques que nous utilisons aujourd'hui.
+
+So… thanks, Mike!
+Alors… merci, Mike !
+
+In the same year, Faraday also discovered
+magneto-electric induction, which is the generation
+La même année, Faraday a également découvert
+l'induction magnéto-électrique, qui est la génération
+
+of a steady, direct electrical current in
+a wire by attaching it to a copper disc,
+d'un courant électrique continu et constant dans
+un fil en le fixant à un disque de cuivre,
+
+and then rotating the disc between the poles
+of a magnet. This was the first modern electrical
+puis en faisant tourner le disque entre les pôles
+d'un aimant.  C'était le premier générateur électrique moderne
+
+generator!
+!
+
+And he proved that the electricity created
+by magnetic induction, the electricity produced
+Et il a prouvé que l'électricité créée
+par induction magnétique, l'électricité produite
+
+by a voltaic battery, and good ole static
+electricity were all the same phenomenon.
+par une pile voltaïque et la bonne vieille
+électricité statique étaient toutes le même phénomène.
+
+Faraday’s experiments led to the invention
+of modern electrical motors, generators, and
+Les expériences de Faraday ont conduit à l'invention
+de moteurs électriques, de générateurs et de
+
+transformers.
+transformateurs modernes.
+
+He figured out how to make electricity do
+work on magnetism and vice versa.
+Il a compris comment faire fonctionner l'électricité
+sur le magnétisme et vice versa.
+
+And his young buddy, Scottish physicist James
+Clerk Maxwell, played the Ampère to his Volta,
+Et son jeune copain, le physicien écossais James
+Clerk Maxwell, a joué de l'Ampère à sa Volta,
+
+figuring out the math involved in induction.
+découvrant les mathématiques impliquées dans l'induction.
+
+In 1855, Maxwell dropped “On Faraday’s
+lines of force,” showing Faraday’s discoveries
+En 1855, Maxwell laissa tomber "Sur les
+lignes de force de Faraday", montrant les découvertes de Faraday
+
+about electricity and magnetism in the forms
+of differential equations.
+sur l'électricité et le magnétisme sous la forme
+d'équations différentielles.
+
+Maxwell’s long paper, “On Physical Lines
+of Force,” introduced his full theory of
+Le long article de Maxwell, "On Physical Lines
+of Force", a présenté sa théorie complète de l'
+
+electromagnetism in parts over 1861 and ‘62.
+électromagnétisme dans des parties de 1861 et 1862.
+
+Here, he theorized that electromagnetic waves
+travel at the speed of light, and that light
+Ici, il a théorisé que les ondes électromagnétiques se
+déplacent à la vitesse de la lumière et que la lumière
+
+must exist in the same medium as electrical
+and magnetic energy.
+doit exister dans le même milieu que l'énergie électrique
+et magnétique.
+
+By connecting light, electricity, and magnetism,
+Maxwell laid the groundwork for modern physics.
+En reliant la lumière, l'électricité et le magnétisme,
+Maxwell a jeté les bases de la physique moderne.
+
+And his work was a major influence on Einstein.
+Et son travail a eu une influence majeure sur Einstein.
+
+But the average person in the 1870s didn’t
+know who Faraday and Maxwell were, much less
+Mais la personne moyenne dans les années 1870 ne
+savait pas qui étaient Faraday et Maxwell, et encore
+
+that they had revolutionized energy and work.
+moins qu'ils avaient révolutionné l'énergie et le travail.
+
+There was still no system for using electricity
+industrially.
+Il n'existait pas encore de système d'utilisation
+industrielle de l'électricité.
+
+For that useful system, we have to hop across
+the Atlantic to the first home of corporate
+Pour ce système utile, nous devons sauter de l'autre côté de
+l'Atlantique jusqu'au premier foyer de la
+
+research and development in science—Menlo
+Park, New Jersey.
+recherche et du développement des entreprises dans le domaine scientifique : Menlo
+Park, New Jersey.
+
+Here, a mix of brilliant engineers, scarcely
+trained boys, and one pet bear (yes!) worked
+Ici, un mélange d'ingénieurs brillants, de
+garçons à peine formés et d'un ours de compagnie (oui !) travaillait
+
+under the direction of a controversial inventor—
+sous la direction d'un inventeur controversé -
+
+who was or was decidedly not much of a scientist
+himself, depending on which historian you
+qui était ou n'était décidément pas un scientifique
+lui-même, selon l'historien que vous
+
+prefer.
+préférez.
+
+His name was Thomas Edison.
+Il s'appelait Thomas Edison.
+
+Edison, or the “Wizard of Menlo Park,”
+or the “Napoleon of Science,” started
+Edison, ou le "magicien de Menlo Park",
+ou le "Napoléon de la science", a commencé
+
+his career as a lowly telegraph operator at
+the age of sixteen.
+sa carrière comme modeste télégraphiste à
+l'âge de seize ans.
+
+He worked his way up, improving telegraph
+systems, until he could open his own contract-based-lab-slash-workshop
+Il a gravi les échelons, améliorant les
+systèmes télégraphiques, jusqu'à ce qu'il puisse ouvrir son propre atelier de laboratoire sous contrat
+
+in 1876.
+en 1876. La
+
+Mostly, people remember Edison for his work
+on making practical incandescent light bulbs,
+plupart du temps, les gens se souviennent d'Edison pour son travail
+sur la fabrication d'ampoules à incandescence pratiques,
+
+but he should really be thought of as the
+person who first saw the potential for an
+mais il faut vraiment penser à lui.  comme la
+personne qui a vu pour la première fois le potentiel d'un
+
+entire electrical grid.
+réseau électrique entier.
+
+This included the generation of power, its
+distribution to homes and businesses, and
+Cela comprenait la production d'électricité, sa
+distribution aux foyers et aux entreprises, et
+
+the invention of useful products that required
+electricity to work.
+l'invention de produits utiles qui nécessitaient de l'
+électricité pour fonctionner.
+
+In the late 1870s, people didn’t understand
+or see the need for electricity. Customers
+À la fin des années 1870, les gens ne comprenaient pas ou ne voyaient pas
+le besoin d'électricité.  Il
+
+had to be created. So what did Edison do?
+fallait créer des clients.  Alors qu'a fait Edison ?
+
+Befriended the richest guy in New York, who
+was also the richest guy in the world—J.
+Se lie d'amitié avec l'homme le plus riche de New York, qui
+était aussi l'homme le plus riche du monde, J.
+
+P. Morgan.
+P.Morgan.
+
+With Morgan’s money, Edison had the resources
+to work out the longest-lasting filament,
+Avec l'argent de Morgan, Edison avait les ressources nécessaires
+pour élaborer le filament le plus durable,
+
+or slender, heated-up-until-visibly-lighted
+bit, for his bulbs.
+ou le morceau mince, chauffé jusqu'à ce qu'il soit visiblement allumé
+, pour ses ampoules.
+
+This ended up being made of carbon, after
+thousands of experiments on different materials.
+Cela a fini par être fait de carbone, après des
+milliers d'expériences sur différents matériaux.
+
+But he also had the resources to show off
+his lights in Paris and London. And, most
+Mais il avait aussi les moyens de montrer
+ses lumières à Paris et à Londres.  Et,
+
+importantly, to electrify downtown Manhattan.
+surtout, d'électrifier le centre-ville de Manhattan.
+
+Think about it for a second: the night before
+1880 was dark.
+Pensez-y une seconde : la nuit avant
+1880 était sombre.
+
+Yes, gas lamps existed, but they were weak,
+smelly, and dangerous.
+Oui, les lampes à gaz existaient, mais elles étaient faibles,
+malodorantes et dangereuses.
+
+Edison’s electrification of the cultural
+and financial capital of an ascendent American
+L'électrification par Edison de la
+capitale culturelle et financière d'un empire américain ascendant
+
+empire was… blindingly amazing.
+était… aveuglément incroyable.
+
+People stayed up longer. More work got done.
+Les gens sont restés éveillés plus longtemps.  Plus de travail a été fait.
+
+The feedback loop of just pushing off bedtime
+by a few hours was enormous—and this was
+La boucle de rétroaction consistant à repousser l'heure du coucher
+de quelques heures était énorme - et c'était
+
+before anyone had devised a good mass-scale
+electrical motor or vehicle.
+avant que quiconque n'ait conçu un bon
+moteur ou véhicule électrique à grande échelle.
+
+It’s true that Edison didn’t invent the
+components of his electrical power system,
+Il est vrai qu'Edison n'a pas inventé les
+composants de son système d'alimentation électrique, mais les a
+
+only improved upon them,
+seulement améliorés,
+
+thanks to his team-based, finance-backed approach
+to science and technology.
+grâce à son approche
+de la science et de la technologie en équipe et financée.
+
+And it’s true that he became embroiled in
+an intense public battle called the Current War,
+Et il est vrai qu'il s'est retrouvé impliqué dans
+une bataille publique intense appelée la guerre actuelle,
+
+over the safety and efficiency of his direct
+current, or DC, versus his rival Westinghouse’s
+sur la sécurité et l'efficacité de son
+courant continu, ou CC, par rapport au
+
+much more practical alternating current, or
+AC.
+courant alternatif, ou CA, beaucoup plus pratique de son rival Westinghouse
+.
+
+Aaaaand it’s true that Edison promoted capital
+punishment in New York, using an electric
+Aaaaand c'est vrai qu'Edison a promu la
+peine capitale à New York, en utilisant une
+
+chair powered by Westinghouse’s AC.
+chaise électrique alimentée par le courant alternatif de Westinghouse.
+
+But—beginning with incandescent light—Edison
+and other inventors used the discoveries of
+Mais, en commençant par la lumière incandescente, Edison
+et d'autres inventeurs ont utilisé les découvertes
+
+the early electrical physicists to utterly
+transform the world.
+des premiers physiciens électriques pour
+transformer complètement le monde.
+
+Next time—we’ll follow Edison, tracing
+the effects of corporate research and mega-scale
+La prochaine fois, nous suivrons Edison, retraçant
+les effets de la recherche d'entreprise et de l'ingénierie à grande échelle
+
+engineering through many fields during the
+Second Industrial Revolution. It’s time
+dans de nombreux domaines au cours de la
+deuxième révolution industrielle.  Il est temps
+
+to go big or go bigger!
+d'aller grand ou de grandir !
+
+Crash Course History of Science is filmed
+in the Dr. Cheryl C. Kinney studio in Missoula,
+Crash Course History of Science est filmé
+dans le studio du Dr Cheryl C. Kinney à Missoula,
+
+Montana and it’s made with the help of all
+this nice people and our animation team is
+Montana et il est réalisé avec l'aide de toutes
+ces personnes sympathiques et notre équipe d'animation est
+
+Thought Cafe.
+Thought Cafe.
+
+Crash Course is a Complexly production. If
+you wanna keep imagining the world complexly
+Crash Course est une production complexe.  Si
+vous voulez continuer à imaginer le monde de manière complexe
+
+with us, you can check out some of our other
+channels like Animal Wonders, The Art Assignment, and Scishow Psych.
+avec nous, vous pouvez consulter certaines de nos autres
+chaînes comme Animal Wonders, The Art Assignment et Scishow Psych.
+
+And, if you’d like to keep Crash Course
+free for everybody, forever, you can support
+Et, si vous souhaitez que Crash Course reste
+gratuit pour tout le monde, pour toujours, vous pouvez soutenir
+
+the series at Patreon; a crowdfunding platform
+that allows you to support the content you
+la série sur Patreon ;  une plateforme de financement participatif
+qui vous permet de soutenir le contenu que vous
+
+love. Thank you to all of our patrons for
+making Crash Course possible with their continued
+aimez.  Merci à tous nos mécènes d'
+avoir rendu Crash Course possible grâce à leur
+
+support.
+soutien continu.
+

@@ -1,0 +1,930 @@
+You can review content from Crash Course Organic Chemistry with the Crash Course App,
+Vous pouvez consulter le contenu de Crash Course Organic Chemistry avec l'application Crash Course,
+
+available now for Android and iOS devices.
+disponible dès maintenant pour les appareils Android et iOS.
+
+Hi! I’m Deboki Chakravarti and welcome to
+Crash Course Organic Chemistry!
+Salut!  Je suis Deboki Chakravarti et bienvenue au cours intensif de
+chimie organique !
+
+In the late 1920s in Germany, the Nazi military
+used Enigma machines –
+À la fin des années 1920 en Allemagne, l'armée nazie
+utilisait des machines Enigma -
+
+basically typewriters with exchangeable gears–
+essentiellement des machines à écrire à engrenages interchangeables -
+
+to send and recieve secret messages.
+pour envoyer et recevoir des messages secrets.
+
+They encrypted messages by varying the gears
+used, their starting position,
+Ils ont crypté les messages en faisant varier les engrenages
+utilisés, leur position de départ
+
+and the location of wires on an attached plugboard.
+et l'emplacement des fils sur un plugboard attaché.
+
+With trillions of possible encryptions, the
+Nazis believed they had a truly unbreakable code.
+Avec des milliards de cryptages possibles, les
+nazis pensaient qu'ils avaient un code vraiment incassable.
+
+However, flaws in the encryption led Polish
+cryptologists to reverse engineer the components
+Cependant, des failles dans le cryptage ont conduit les
+cryptologues polonais à rétro-concevoir les composants
+
+and construct their own Enigma machines.
+et à construire leurs propres machines Enigma.
+
+Building on this work,
+S'appuyant sur ce travail,
+
+the British fully decrypted Nazi messages
+by 1940 and likely shortened World War II by several years.
+les Britanniques ont entièrement déchiffré les messages nazis
+en 1940 et ont probablement raccourci la Seconde Guerre mondiale de plusieurs années.
+
+We can borrow some cryptological techniques too and use reverse engineering
+Nous pouvons également emprunter certaines techniques cryptologiques et utiliser l'ingénierie inverse
+
+to figure out the steps to make a complicated organic molecule!
+pour comprendre les étapes de fabrication d'une molécule organique compliquée !
+
+[Theme Music]
+[Thème musical]
+
+Organic synthesis is the construction of more
+complex carbon-based structures
+La synthèse organique est la construction de
+structures à base de carbone plus complexes
+
+(like medicines)
+(comme des médicaments)
+
+from simpler, easy-to-get starting materials.
+à partir de matériaux de départ plus simples et faciles à obtenir.
+
+In synthesis practice problems,
+Dans les problèmes de pratique de synthèse,
+
+we’re typically given a starting material
+and a target compound to make in the fewest steps possible.
+on nous donne généralement un matériau de départ
+et un composé cible à fabriquer en le moins d'étapes possible.
+
+From there, we have to puzzle out what reagents,
+reaction conditions,
+À partir de là, nous devons déterminer quels réactifs
+, conditions de réaction
+
+and intermediate compounds will get us from
+one to the other.
+et composés intermédiaires nous feront passer de l'
+un à l'autre.
+
+We don’t usually show all the mechanism
+arrow pushing,
+Nous ne montrons généralement pas tous les mécanismes de
+poussée de flèche,
+
+but it's important to keep in mind because
+it determines the stereochemistry and regiochemistry of reactions.
+mais il est important de garder à l'esprit car
+cela détermine la stéréochimie et la régiochimie des réactions.
+
+The best way to practice is by working through
+examples,
+La meilleure façon de s'entraîner est de travailler sur des
+exemples,
+
+so let's try a synthesis problem!
+alors essayons un problème de synthèse !
+
+The first thing I do is compare the starting
+material and target compound,
+La première chose que je fais est de comparer le
+matériau de départ et le composé cible,
+
+like those "spot the difference" pictures.
+comme ces images "repérez la différence".
+
+I start by numbering carbon atoms,
+Je commence par numéroter les atomes de carbone,
+
+because it’s really easy to miss a change
+in the number of carbons.
+car il est très facile de rater un changement
+dans le nombre de carbones.
+
+Here, I can see that we’re introducing one
+extra carbon on the sulfur atom,
+Ici, je peux voir que nous introduisons un
+carbone supplémentaire sur l'atome de soufre,
+
+but the main chain stays the same with eight
+carbons.
+mais la chaîne principale reste la même avec huit
+carbones.
+
+It's also really important to look at the
+stereochemistry of our starting material and product.
+Il est également très important d'examiner la
+stéréochimie de notre matériau de départ et de notre produit.
+
+Both molecules have one chiral carbon, and
+they're both S-enantiomers,
+Les deux molécules ont un carbone chiral, et
+ce sont toutes deux des énantiomères S,
+
+which we know by ranking priority of the surrounding
+groups like we did in episode 8.
+que nous connaissons en classant la priorité des groupes environnants
+comme nous l'avons fait dans l'épisode 8.
+
+But one group on the chiral carbon does change
+from a hydroxyl group to a sulfur.
+Mais un groupe sur le carbone chiral passe
+d'un groupe hydroxyle à un soufre.
+
+By noticing that change
+En remarquant ce changement
+
+(and what was unchanged, like the carbon chain
+number and stereochemistry),
+(et ce qui était inchangé, comme le
+numéro de chaîne carbonée et la stéréochimie),
+
+we have all the puzzle pieces.
+nous avons toutes les pièces du puzzle.
+
+For this synthesis problem, we need to think
+about reactions of alcohols,
+Pour ce problème de synthèse, nous devons réfléchir
+aux réactions des alcools
+
+and how we might replace a hydroxyl group
+with sulfur.
+et à la manière dont nous pourrions remplacer un groupe hydroxyle
+par du soufre.
+
+Sulfur is a good nucleophile,
+Le soufre est un bon nucléophile, l'
+
+one of the key ingredients in substitution
+reactions.
+un des ingrédients clés des
+réactions de substitution.
+
+But hydroxide is a poor leaving group,
+Mais l'hydroxyde est un mauvais groupe partant
+
+so we need to make it a good one.
+, nous devons donc en faire un bon.
+
+In episode 24, we talked about a couple ways
+to form good leaving groups from alcohols:
+Dans l'épisode 24, nous avons parlé de quelques façons
+de former de bons groupes partants à partir d'alcools : les
+
+turning them into sulfonates or halides.
+transformer en sulfonates ou en halogénures.
+
+So let’s try turning our alcohol into a
+tosylate.
+Alors essayons de transformer notre alcool en
+tosylate.
+
+Now, with a good leaving group,
+Maintenant, avec un bon groupe partant,
+
+we can add in a sulfur nucleophile and do
+an SN2 reaction.
+nous pouvons ajouter un nucléophile soufré et faire
+une réaction SN2.
+
+And... oops, we’ve inverted our stereochemistry,
+making the R-enantiomer.
+Et... oups, nous avons inversé notre stéréochimie,
+créant l'énantiomère R.
+
+So let’s try something else:
+Essayons donc autre chose :
+
+if we perform two sequential SN2 reactions,
+si nous effectuons deux réactions SN2 séquentielles,
+
+we’ll invert the stereochemistry twice,
+nous inverserons la stéréochimie deux fois
+
+and end up with the S-enantiomer product we want.
+et nous nous retrouverons avec le produit énantiomère S que nous voulons.
+
+We still need to make the alcohol a better
+leaving group
+Nous devons encore faire de l'alcool un meilleur
+groupe partant
+
+and we've learned a couple halide-forming
+reactions that invert the stereochemistry of an alcohol!
+et nous avons appris quelques réactions de formation d'halogénure
+qui inversent la stéréochimie d'un alcool !
+
+Like bromide formation using phosphorus tribromide.
+Comme la formation de bromure à l'aide de tribromure de phosphore.
+
+Now we’ve got a good leaving group and inverted
+stereochemistry,
+Maintenant, nous avons un bon groupe partant et une
+stéréochimie inversée,
+
+so our second SN2 reaction with the sulfur
+nucleophile inverts it again and gives us the S-enantiomer product.
+donc notre deuxième réaction SN2 avec le nucléophile soufré l'
+inverse à nouveau et nous donne le produit S-énantiomère.
+
+We've solved this puzzle!
+Nous avons résolu ce casse-tête !
+
+With longer puzzles, it’s often easier to
+reverse engineer the target compound with retrosynthesis –
+Avec des puzzles plus longs, il est souvent plus facile de
+rétroconcevoir le composé cible avec la rétrosynthèse -
+
+we start with the product and think about
+bonds we can break to give simpler starting fragments.
+nous commençons par le produit et pensons aux
+liens que nous pouvons rompre pour donner des fragments de départ plus simples.
+
+And we use a new kind of arrow.
+Et nous utilisons un nouveau type de flèche.
+
+This retrosynthesis arrow tells us that our
+product is the more complex molecule on the left,
+Cette flèche de rétrosynthèse nous indique que notre
+produit est la molécule la plus complexe à gauche,
+
+and we’ll make it by forming a bond between
+the two simpler chemicals on the right.
+et nous le fabriquerons en formant une liaison entre
+les deux produits chimiques plus simples à droite.
+
+We have one chiral carbon in our molecule,
+Nous avons un carbone chiral dans notre molécule,
+
+but the stereochemistry isn't specifically
+shown as R or S.
+mais la stéréochimie n'est pas spécifiquement
+représentée par R ou S.
+
+So we can assume we'll have a racemic mixture
+of enantiomers as our product.
+Nous pouvons donc supposer que nous aurons un mélange racémique
+d'énantiomères comme produit.
+
+We can start retrosynthesis problems like
+synthesis problems,
+On peut commencer des problèmes de rétrosynthèse comme
+des problèmes de synthèse,
+
+by numbering our carbon atoms.
+en numérotant nos atomes de carbone.
+
+In this case, our target compound has 11,
+Dans ce cas, notre composé cible en a 11,
+
+while our starting materials only have 10,
+alors que nos matières premières n'en ont que 10
+
+so we’ll have to add one carbon during our
+synthesis.
+, nous devrons donc ajouter un carbone lors de notre
+synthèse.
+
+We’ve got to start somewhere,
+Nous devons commencer quelque part,
+
+and thinking about carbon atoms we need to
+add can help.
+et penser aux atomes de carbone que nous devons
+ajouter peut aider.
+
+Our target molecule also has an amide on the
+added carbon…
+Notre molécule cible a également un amide sur le
+carbone ajouté…
+
+but we haven’t learned a reaction in this
+series that adds an amide plus a carbon atom to a molecule.
+mais nous n'avons pas appris de réaction dans cette
+série qui ajoute un amide plus un atome de carbone à une molécule.
+
+But we know this is a carboxylic acid derivative,
+Mais nous savons qu'il s'agit d'un dérivé d'acide carboxylique
+
+so we may get some clues thinking about reactions
+of these related carboxylic acids.
+, nous pouvons donc obtenir des indices sur les réactions
+de ces acides carboxyliques apparentés.
+
+When we change a functional group in retrosynthesis,
+Lorsque nous changeons un groupe fonctionnel en rétrosynthèse,
+
+we call that a functional group interconversion.
+nous appelons cela une interconversion de groupe fonctionnel.
+
+We can just write FGI over the retrosynthesis
+arrow as a placeholder for this step,
+Nous pouvons simplement écrire FGI sur la
+flèche de rétrosynthèse comme espace réservé pour cette étape,
+
+and come back after we've reverse-engineered
+the whole reaction.
+et revenir après avoir rétro-
+conçu toute la réaction.
+
+Now, we can remember some reactions that form
+carboxylic acids.
+Maintenant, nous pouvons nous souvenir de certaines réactions qui forment
+des acides carboxyliques.
+
+One way we've made them is by oxidizing primary
+alcohols or aldehydes.
+L'une des façons dont nous les avons fabriqués consiste à oxyder des
+alcools primaires ou des aldéhydes.
+
+Another way involves an organometallic reagent
+reacting with carbon dioxide,
+Une autre voie implique un réactif organométallique
+réagissant avec le dioxyde de carbone,
+
+which also adds a carbon atom.
+qui ajoute également un atome de carbone.
+
+We need one of those because the carbon chain
+got longer!
+Nous en avons besoin car la chaîne du carbone
+s'est allongée !
+
+So, let’s plan to form our carboxylic acid
+from a halide.
+Prévoyons donc de former notre acide carboxylique à
+partir d'un halogénure.
+
+A disconnection is a retrosynthetic step that
+forms a new bond and isn't just changing a functional group.
+Une déconnexion est une étape rétrosynthétique qui
+forme un nouveau lien et ne change pas seulement un groupe fonctionnel.
+
+We show this by putting a squiggly line over
+that bond!
+Nous montrons cela en mettant une ligne ondulée sur
+ce lien !
+
+We’re adding a carbon atom in this step,
+so this will be our first disconnection.
+Nous ajoutons un atome de carbone dans cette étape
+, ce sera donc notre première déconnexion.
+
+And we'll put the halide that our organometallic
+reagent is made from,
+Et nous mettrons l'halogénure dont
+est fait notre réactif organométallique,
+
+plus carbon dioxide, on the other side of
+the retrosynthesis arrow.
+plus le dioxyde de carbone, de l'autre côté de
+la flèche de rétrosynthèse.
+
+Remember, our goal is to work back to the
+two starting compounds,
+N'oubliez pas que notre objectif est de revenir aux
+deux composés de départ,
+
+and the molecule we have right now is getting
+closer.
+et la molécule que nous avons en ce moment se
+rapproche.
+
+We need to eventually break a bond to show
+the simpler pieces we need,
+Nous devons éventuellement rompre un lien pour montrer
+les pièces les plus simples dont nous avons besoin,
+
+and it might help to think about the forward
+reaction a bit so we don't get way off track.
+et cela pourrait aider à réfléchir un peu à la
+réaction en avant afin de ne pas nous écarter du chemin.
+
+So let’s leave a little gap in our retrosynthesis
+while we consider how the two starting materials could react.
+Laissons donc un petit vide dans notre rétrosynthèse
+en examinant comment les deux matières premières pourraient réagir.
+
+Thinking back to Episode 27,
+En repensant à l'épisode 27,
+
+carbonyl groups contain a dipole, where carbon
+is electrophilic.
+les groupes carbonyle contiennent un dipôle, où le carbone
+est électrophile.
+
+And if we want to form carbon-carbon bonds
+with aldehydes or ketones,
+Et si nous voulons former des liaisons carbone-carbone
+avec des aldéhydes ou des cétones,
+
+we can use another organometallic reagent,
+nous pouvons utiliser un autre réactif organométallique
+
+and turn our bromide into a nucleophile.
+et transformer notre bromure en nucléophile.
+
+Organometallic reagents react with aldehydes
+and ketones to produce alcohols,
+Les réactifs organométalliques réagissent avec les aldéhydes
+et les cétones pour produire des alcools,
+
+so let’s add that last structure to our
+retrosynthetic analysis –
+alors ajoutons cette dernière structure à notre
+analyse rétrosynthétique -
+
+labeling a second FGI and a second disconnection
+to finish it up.
+étiquetant un deuxième FGI et une deuxième déconnexion
+pour le terminer.
+
+Now, we can use this retrosynthesis to fill
+in the reaction details going forward!
+Maintenant, nous pouvons utiliser cette rétrosynthèse pour compléter
+les détails de la réaction à l'avenir !
+
+One of our starting materials, bromobenzene,
+L'un de nos matériaux de départ, le bromobenzène,
+
+can react with magnesium metal to form a Grignard
+reagent.
+peut réagir avec le magnésium métallique pour former un
+réactif de Grignard.
+
+That nucleophilically attacks our other starting
+material,
+Cela attaque nucléophilement notre autre
+matériau de départ,
+
+the aldehyde, making an alkoxide.
+l'aldéhyde, en faisant un alcoxyde.
+
+And an aqueous solution of hydrochloric acid
+protonates the alkoxide, forming our alcohol.
+Et une solution aqueuse d'acide chlorhydrique
+protone l'alcoolate, formant notre alcool.
+
+To make our alcohol into a bromide we can
+use P-Br-3,
+Pour transformer notre alcool en bromure, nous pouvons
+utiliser P-Br-3,
+
+like we did in the first short synthesis problem.
+comme nous l'avons fait dans le premier petit problème de synthèse.
+
+Now, it’s time to make another Grignard
+reagent and react it with carbon dioxide,
+Maintenant, il est temps de fabriquer un autre
+réactif de Grignard et de le faire réagir avec du dioxyde de carbone, en
+
+adding our carbon atom.
+ajoutant notre atome de carbone.
+
+Once we add some aqueous hydrochloric acid,
+we form our carboxylic acid.
+Une fois que nous ajoutons de l'acide chlorhydrique aqueux,
+nous formons notre acide carboxylique.
+
+Finally, we need to make the carboxylic acid
+into something more reactive to form the amide–
+Enfin, nous devons transformer l'acide carboxylique
+en quelque chose de plus réactif pour former l'amide -
+
+an acid chloride or ester will work.
+un chlorure d'acide ou un ester fonctionnera.
+
+So let’s use the Fisher esterification reaction,
+Utilisons donc la réaction d'estérification de Fisher,
+
+and then react that ester with dimethylamine
+to make our amide.
+puis faisons réagir cet ester avec de la diméthylamine
+pour fabriquer notre amide.
+
+And we’ve done it! Phew!
+Et nous l'avons fait !  Phew! 
+
+We don’t always show solvents in these reaction
+schemes,
+Nous ne montrons pas toujours les solvants dans ces
+schémas de réaction,
+
+but they're really important.
+mais ils sont vraiment importants.
+
+Say we put an inorganic salt, like table salt,
+Disons que nous mettons un sel inorganique, comme le sel de table,
+
+into a fairly nonpolar organic solvent, like oil.
+dans un solvant organique assez non polaire, comme l'huile.
+
+The salt won't dissolve,
+Le sel ne se dissoudra pas,
+
+because an organic phase will only dissolve
+organic chemicals.
+car une phase organique ne dissoudra que
+les produits chimiques organiques.
+
+But an inorganic table salt will dissolve
+in an aqueous phase,
+Mais un sel de table inorganique se dissout
+dans une phase aqueuse,
+
+which is just water.
+qui n'est que de l'eau.
+
+Let's focus on solvents in one part of the
+synthesis we just did –
+Concentrons-nous sur les solvants dans une partie de la
+synthèse que nous venons de faire -
+
+where we made a carboxylic acid from a bromide.
+où nous avons fabriqué un acide carboxylique à partir d'un bromure.
+
+Diethyl ether is an organic phase,
+L'éther diéthylique est une phase organique qui
+
+dissolving organic reagents like the bromide
+so the reaction can happen.
+dissout les réactifs organiques comme le bromure
+pour que la réaction puisse se produire.
+
+And the hydrochloric acid solution is an aqueous
+phase,
+Et la solution d'acide chlorhydrique est une
+phase aqueuse,
+
+dissolving inorganic magnesium salts hanging
+around
+dissolvant les sels de magnésium inorganiques qui traînent
+
+(and protonating our carboxylic acid).
+(et protonant notre acide carboxylique).
+
+Many organic solvents are immiscible with
+an aqueous solvent.
+De nombreux solvants organiques ne sont pas miscibles avec
+un solvant aqueux.
+
+They form separate layers, like the oil and
+vinegar in salad dressing,
+Ils forment des couches séparées, comme l'huile et le
+vinaigre dans la vinaigrette,
+
+or this mixture of oil and water.
+ou ce mélange d'huile et d'eau.
+
+After I shake it up, it'll eventually separate
+into two layers again,
+Après l'avoir secoué, il finira par se séparer
+à nouveau en deux couches,
+
+with the oil floating on top.
+avec l'huile flottant sur le dessus.
+
+So if we did this carboxylic acid synthesis
+in a lab,
+Donc, si nous faisions cette synthèse d'acide carboxylique
+dans un laboratoire,
+
+we could separate our two immiscible solvents
+through liquid-liquid extraction.
+nous pourrions séparer nos deux solvants non miscibles
+par extraction liquide-liquide.
+
+The carboxylic acid, an organic compound,
+is dissolved in the diethyl ether,
+L'acide carboxylique, un composé organique,
+est dissous dans l'éther diéthylique,
+
+while inorganic stuff is dissolved in the
+aqueous phase.
+tandis que la substance inorganique est dissoute dans la
+phase aqueuse.
+
+But that's just a start –
+Mais ce n'est qu'un début -
+
+we have to remove any side products too!
+nous devons également supprimer tous les produits secondaires !
+
+We didn't show this earlier,
+Nous ne l'avons pas montré plus tôt,
+
+but any Grignard reagent that didn’t react
+with carbon dioxide can also react with water
+mais tout réactif de Grignard qui n'a pas réagi
+avec le dioxyde de carbone peut également réagir avec l'eau
+
+to form butylbenzene as a side product.
+pour former du butylbenzène comme produit secondaire.
+
+And we can remove this with extraction.
+Et nous pouvons supprimer cela avec l'extraction.
+
+To find out how, let’s put on our safety
+glasses and head to the thought bubble lab:
+Pour savoir comment faire, enfilons nos
+lunettes de sécurité et dirigeons-nous vers le laboratoire à bulles :
+
+To separate the aqueous and organic phases
+through liquid-liquid extraction,
+pour séparer les phases aqueuse et organique
+par extraction liquide-liquide,
+
+we’ll use a separatory funnel.
+nous utiliserons une ampoule à décanter.
+
+It has an opening at the top to pour in liquid,
+Il a une ouverture en haut pour verser du liquide
+
+and a valve or stopcock at the bottom that
+lets us open and close the funnel.
+et une valve ou un robinet en bas qui
+nous permet d'ouvrir et de fermer l'entonnoir.
+
+When we’re done running our reaction, we
+can transfer our mixture of organic phase,
+Lorsque nous avons terminé d'exécuter notre réaction, nous
+pouvons transférer notre mélange de phase organique, de
+
+aqueous phase, and various wanted and unwanted
+compounds into a separatory funnel suspended by a ring stand.
+phase aqueuse et de divers composés souhaités et indésirables
+dans une ampoule à décanter suspendue par un support annulaire.
+
+Next, we pop a stopper in the top, pick up
+the funnel, and flip it upside-down.
+Ensuite, nous mettons un bouchon dans le haut, prenons
+l'entonnoir et le retournons à l'envers.
+
+Sometimes the mixing liquids builds up some
+pressure, so –
+Parfois, les liquides de mélange accumulent une certaine
+pression, donc -
+
+with the funnel still inverted –
+avec l'entonnoir toujours inversé -
+
+we’ll open the stopcock briefly to let gas
+out, or vent the funnel.
+nous allons ouvrir brièvement le robinet d'arrêt pour laisser
+sortir le gaz, ou ventiler l'entonnoir.
+
+Then, we’ll shake the funnel to make sure
+everything gets dissolved in the correct phase,
+Ensuite, nous secouerons l'entonnoir pour nous assurer que
+tout se dissout dans la bonne phase, en
+
+venting frequently for safety.
+ventilant fréquemment pour plus de sécurité.
+
+And we'll put it back in the ring stand and
+wait.
+Et nous le remettrons dans le support de l'anneau et
+attendrons.
+
+Once there's a clear separation between the
+organic and aqueous phases,
+Une fois qu'il y a une séparation claire entre les
+phases organiques et aqueuses,
+
+we can drain off the more dense,
+nous pouvons drainer la
+
+bottom aqueous layer to remove the magnesium
+salts with the HCl solution.
+couche aqueuse inférieure plus dense pour éliminer les
+sels de magnésium avec la solution de HCl.
+
+We're left with two organic compounds in the
+ether solution,
+Il nous reste deux composés organiques dans la
+solution éthérée,
+
+but we only want the carboxylic acid.
+mais nous ne voulons que l'acide carboxylique.
+
+To separate them, we can add a sodium hydroxide
+solution to the funnel,
+Pour les séparer, nous pouvons ajouter une
+solution d'hydroxyde de sodium dans l'entonnoir,
+
+which deprotonates the carboxylic acid, making
+a polar salt.
+qui déprotone l'acide carboxylique, en faisant
+un sel polaire.
+
+As long as this salt doesn't contain too many
+carbon atoms it’ll be water-soluble,
+Tant que ce sel ne contient pas trop d'
+atomes de carbone, il sera soluble dans l'eau,
+
+so by shaking the funnel again, we can force
+it into the aqueous phase.
+donc en secouant à nouveau l'entonnoir, nous pouvons le
+forcer dans la phase aqueuse.
+
+And the butylbenzene just sits around in the
+organic layer,
+Et le butylbenzène se trouve juste dans la
+couche organique,
+
+since it’s a neutral compound.
+car c'est un composé neutre.
+
+So, finally, we can drain off the aqueous
+layer with our precious carboxylic acid salts,
+Ainsi, enfin, nous pouvons drainer la
+couche aqueuse avec nos précieux sels d'acide carboxylique
+
+and protonate them.
+et les protoner.
+
+If they're solid, we can just filter them
+out of the water.
+S'ils sont solides, nous pouvons simplement les filtrer
+hors de l'eau.
+
+Otherwise, we can re-extract our hard earned
+carboxylic acid into the ether again.
+Sinon, nous pouvons réextraire notre
+acide carboxylique durement gagné dans l'éther.
+
+Then, we’ll dry and evaporate off our organic
+solvent.
+Ensuite, nous sécherons et évaporerons notre
+solvant organique.
+
+Thanks, lab bubble!
+Merci, bulle de laboratoire !
+
+With our purified carboxylic acid in hand,
+Avec notre acide carboxylique purifié en main,
+
+we can move onto the next step of our synthesis
+reaction.
+nous pouvons passer à l'étape suivante de notre
+réaction de synthèse.
+
+Synthesis and retrosynthesis road maps on
+paper show key landmarks,
+Les feuilles de route de synthèse et de rétrosynthèse sur
+papier montrent les points de repère clés,
+
+but not the extra purification steps we do
+in the lab.
+mais pas les étapes de purification supplémentaires que nous effectuons
+en laboratoire.
+
+That's true for our Mold Medicine Map, too.
+C'est également vrai pour notre Mold Medicine Map.
+
+So far, we've been filling in pieces of Dr.
+Sheehan’s forward synthesis of penicillin V,
+Jusqu'à présent, nous avons rempli des éléments de
+la synthèse directe de la pénicilline V du Dr Sheehan,
+
+but we can look at the whole process with
+the retrosynthesis skills we learned today.
+mais nous pouvons examiner l'ensemble du processus avec
+les compétences de rétrosynthèse que nous avons apprises aujourd'hui.
+
+When we’re building a molecule from nature,
+Lorsque nous construisons une molécule à partir de la nature,
+
+we’re not given the starting materials,
+nous ne recevons pas les matériaux de départ,
+
+which makes reverse engineering so useful.
+ce qui rend la rétro-ingénierie si utile.
+
+Whether we’re building an Enigma machine
+or making complex natural products,
+Que nous construisions une machine Enigma
+ou fabriquions des produits naturels complexes,
+
+the last part we install should be the most
+sensitive.
+la dernière pièce que nous installons devrait être la plus
+sensible.
+
+You don’t want to be hammering together the sides of the Enigma machine with the delicate wiring of the plugboard already in place!
+Vous ne voulez pas marteler les côtés de la machine Enigma avec le câblage délicat du tableau de connexion déjà en place !
+
+Penicillin was so difficult to isolate because
+the strained,
+La pénicilline était si difficile à isoler parce que
+l'
+
+four-membered beta lactam ring is super sensitive
+to hydrolysis –
+anneau bêta-lactame à quatre chaînons tendu est super sensible
+à l'hydrolyse -
+
+it broke open when chemists tried to purify
+it from the fungus.
+il s'est ouvert lorsque les chimistes ont essayé de le
+purifier du champignon.
+
+So, in our retrosynthesis map,
+Donc, dans notre carte de rétrosynthèse,
+
+that's the first disconnection and the last
+bond we’ll make in our synthesis!
+c'est la première déconnexion et le dernier
+lien que nous ferons dans notre synthèse !
+
+The other amide in the structure is next.
+L'autre amide de la structure est le suivant.
+
+Splitting a carboxylic acid derivative down
+the middle into two fragments is a common disconnection.
+Le fractionnement d'un dérivé d'acide carboxylique
+au milieu en deux fragments est une déconnexion courante.
+
+A complex, but very clever disconnection comes
+next.
+Une déconnexion complexe, mais très intelligente vient
+ensuite.
+
+This reaction uses an iminium ion to form
+two bonds in one synthetic step from this aldehyde and this amine.
+Cette réaction utilise un ion iminium pour former
+deux liaisons en une seule étape de synthèse à partir de cet aldéhyde et de cette amine.
+
+And finally, we trace our synthesis back to
+a compound that we can easily purchase from a company,
+Et enfin, nous retraçons notre synthèse à
+un composé que nous pouvons facilement acheter auprès d'une entreprise,
+
+the amino acid valine.
+l'acide aminé valine.
+
+We’ll look at more detailed forward reactions
+of this penicillin synthesis in future episodes,
+Nous examinerons plus en détail les réactions directes
+de cette synthèse de pénicilline dans les prochains épisodes,
+
+but retrosynthesis is a good way to picture
+where Dr. Sheehan started and where he ended up.
+mais la rétrosynthèse est un bon moyen d'imaginer
+où le Dr Sheehan a commencé et où il s'est retrouvé.
+
+In this episode, we:
+Dans cet épisode, nous avons :
+
+Practiced multistep synthesis problems
+pratiqué des problèmes de synthèse en plusieurs étapes
+
+Applied retrosynthesis to make more complex
+molecules and
+appliqué la rétrosynthèse pour fabriquer des molécules plus complexes
+et
+
+Applied liquid-liquid extraction to a purification
+step
+appliqué l'extraction liquide-liquide à une
+étape de purification
+
+In the next episode,
+Dans le prochain épisode,
+
+we’ll take a break from products made by nature to explore some of the most important synthetic polymers humans have created.
+nous ferons une pause dans les produits fabriqués par la nature pour explorer certains des plus importants  polymères synthétiques que les humains ont créés.
+
+Until then, thanks for watching this episode
+of Crash Course Organic Chemistry.
+En attendant, merci d'avoir regardé cet épisode
+de Crash Course Organic Chemistry.
+
+If you want to help keep all Crash Course
+free for everybody, forever,
+Si vous voulez aider à garder tous les cours intensifs
+gratuits pour tout le monde, pour toujours,
+
+you can join our community on Patreon.
+vous pouvez rejoindre notre communauté sur Patreon.
+

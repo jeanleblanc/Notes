@@ -1,0 +1,638 @@
+The world isn’t perfect.
+Le monde n'est pas parfait.
+
+No matter how hard you try to solve a problem, or
+prevent one from happening, things still go wrong.
+Peu importe à quel point vous essayez de résoudre un problème ou d'
+empêcher qu'il se produise, les choses tournent toujours mal.
+
+That’s just how life is.
+C'est comme ça la vie.
+
+And sometimes, that means your basement gets
+flooded.
+Et parfois, cela signifie que votre sous-sol est
+inondé.
+
+So, what do you do?
+Donc que fais-tu? 
+
+You need to get the water out, but how?
+Il faut évacuer l'eau, mais comment ?
+
+Well, you’re going to need some equipment.
+Some pipes. A pump.
+Eh bien, vous allez avoir besoin de matériel.
+Quelques tuyaux.  Une pompe.
+
+And to choose the right pump for the job,
+you’ll need Bernoulli’s Principle.
+Et pour choisir la bonne pompe pour le travail,
+vous aurez besoin du principe de Bernoulli.
+
+[Theme Music]
+[Thème Musique]
+
+If you’ve seen our last episode, you already
+know all about fluid mechanics and the energy
+transfers involved.
+Si vous avez vu notre dernier épisode, vous
+savez déjà tout sur la mécanique des fluides et les
+transferts d'énergie impliqués.
+
+But engineering is about more than just learning
+– it’s also about using your knowledge to build
+things and solve problems.
+Mais l'ingénierie ne se limite pas à l'apprentissage
+, il s'agit également d'utiliser vos connaissances pour construire des
+choses et résoudre des problèmes.
+
+Like your flooded basement.
+Comme votre sous-sol inondé.
+
+To get the water out, you’ll need a pump –
+a device that’s used to move liquids, compress
+gases, or force air into things like tires.
+Pour évacuer l'eau, vous aurez besoin d'une pompe -
+un appareil utilisé pour déplacer des liquides, comprimer des
+gaz ou forcer de l'air dans des éléments tels que des pneus.
+
+In this case, obviously, you’ll want a pump 
+that’s designed to move liquid,
+Dans ce cas, évidemment, vous aurez besoin d'une
+pompe conçue pour déplacer le liquide
+
+and powerful enough to push all that water in
+the basement somewhere else, like outside.
+et suffisamment puissante pour pousser toute cette eau dans
+le sous-sol ailleurs, comme à l'extérieur.
+
+Preferably far away.
+De loin de préférence.
+
+You could just pick a random pump and hope
+it works, but that’s not the engineering way.
+Vous pouvez simplement choisir une pompe au hasard et espérer que
+cela fonctionne, mais ce n'est pas la méthode d'ingénierie.
+
+To do this properly, you can calculate how powerful
+your pump needs to be with the help of 18th-century
+Swiss mathematician Daniel Bernoulli.
+Pour le faire correctement, vous pouvez calculer la puissance de
+votre pompe avec l'aide du mathématicien suisse du XVIIIe siècle
+Daniel Bernoulli.
+
+There were actually eight mathematicians in the
+Bernoulli family in the 17th and 18th centuries,
+including Daniel’s father and two brothers.
+Il y avait en fait huit mathématiciens dans la
+famille Bernoulli aux XVIIe et XVIIIe siècles,
+dont le père de Daniel et ses deux frères.
+
+His father was especially jealous of his success.
+Son père était particulièrement jaloux de son succès.
+
+Their rivalry was so bad that when the two of
+them jointly won a scientific prize, his father
+banned him from the house.
+Leur rivalité était si mauvaise que lorsque les
+deux ont remporté ensemble un prix scientifique, son père l'a
+banni de la maison.
+
+He also went on to plagiarize Daniel’s later
+work, changing the date so it seemed like he’d
+actually published it before his son.
+Il a également plagié le travail ultérieur de Daniel
+, en changeant la date de sorte qu'il semblait qu'il l'avait
+réellement publié avant son fils.
+
+As competitive as their relationship was, it’s possible
+that the challenge pushed the younger Bernoulli
+to become a better innovator and mathematician.
+Aussi compétitif que leur relation ait été, il est possible
+que le défi ait poussé le jeune Bernoulli
+à devenir un meilleur innovateur et mathématicien.
+
+But either way, he discovered a good deal
+about fluid flow in his life.
+Mais de toute façon, il a découvert beaucoup
+de choses sur l'écoulement des fluides dans sa vie.
+
+He specifically wanted to understand the relationship
+between the speed at which blood flows and its pressure.
+Il souhaitait notamment comprendre la relation
+entre la vitesse à laquelle le sang s'écoule et sa pression.
+
+So to learn more, he conducted an experiment
+on a pipe filled with fluid.
+Alors pour en savoir plus, il a mené une expérience
+sur un tuyau rempli de fluide.
+
+Bernoulli noticed that when he punctured the
+wall of the pipe with an open-ended straw,
+Bernoulli a remarqué que lorsqu'il perforait la
+paroi du tuyau avec une paille à extrémité ouverte,
+
+the height to which the fluid rose in the straw
+was related to the pressure of the fluid in the pipe.
+la hauteur à laquelle le fluide montait dans la paille
+était liée à la pression du fluide dans le tuyau.
+
+Soon, physicians all over Europe were measuring
+their patients’ blood pressure by sticking sharp
+glass tubes directly into their arteries.
+Bientôt, les médecins de toute l'Europe mesuraient
+la tension artérielle de leurs patients en collant des
+tubes de verre tranchants directement dans leurs artères.
+
+Luckily for us, they’ve developed more gentle
+methods since.
+Heureusement pour nous, ils ont développé des méthodes plus douces
+depuis.
+
+But while the physicians of his day were being
+quite the pain in the arm, Bernoulli was on to
+something very important.
+Mais alors que les médecins de son époque se faisaient
+vraiment mal au bras, Bernoulli était sur
+quelque chose de très important.
+
+He realized that energy was conserved in a
+moving fluid.
+Il s'est rendu compte que l'énergie était conservée dans un
+fluide en mouvement.
+
+It could be converted between different forms,
+like kinetic energy – the energy of motion –
+Elle pourrait être convertie entre différentes formes,
+comme l'énergie cinétique - l'énergie du mouvement -
+
+and potential energy, but the total energy
+within the fluid would stay the same.
+et l'énergie potentielle, mais l'énergie totale
+dans le fluide resterait la même.
+
+So if one form of energy decreases, for example,
+like if the fluid slows down,
+Donc, si une forme d'énergie diminue, par exemple,
+comme si le fluide ralentit,
+
+there has to be a corresponding increase in anotherform of energy so the total remains constant.
+il doit y avoir une augmentation correspondante d'une autre forme d'énergie pour que le total reste constant.
+
+Bernoulli’s insight was that energy could also
+be converted between kinetic and potential
+energy and pressure.
+L'idée de Bernoulli était que l'énergie pouvait également
+être convertie entre l'énergie cinétique et potentielle
+et la pression.
+
+Today, this is known as Bernoulli’s Principle, and it says
+that as the speed of fluid flowing horizontally increases,
+the pressure drop will decrease, and vice versa.
+Aujourd'hui, c'est ce qu'on appelle le principe de Bernoulli, et il dit
+que lorsque la vitesse du fluide s'écoulant horizontalement augmente,
+la chute de pression diminue, et vice versa.
+
+This means that the fluid’s speed will have
+an inverse relationship with its pressure, or
+that as one rises, the other falls.
+Cela signifie que la vitesse du fluide aura
+une relation inverse avec sa pression, ou
+que lorsque l'un monte, l'autre descend.
+
+Now, this principle only really applies to
+what’s known as an isentropic flow,
+Maintenant, ce principe ne s'applique vraiment qu'à
+ce qu'on appelle un flux isentropique,
+
+meaning it doesn’t involve any heat transfer,
+and it’s reversible, so it can go back to its initial
+state with no outside work.
+c'est-à-dire qu'il n'implique aucun transfert de chaleur,
+et qu'il est réversible, de sorte qu'il peut revenir à son
+état initial sans travail extérieur.
+
+Or at least, close enough that you can neglect
+the effects of heat transfer or irreversibility.
+Ou du moins, suffisamment proche pour que vous puissiez négliger
+les effets de transfert de chaleur ou d'irréversibilité.
+
+To keep things simple, we’ll assume this
+applies to our system.
+Pour simplifier les choses, nous supposerons que cela
+s'applique à notre système.
+
+For Bernoulli’s Principle, the fluid also needs to flow
+horizontally, or not have a drastic change in height,
+because it doesn’t consider the effects of gravity.
+Pour le principe de Bernoulli, le fluide doit également s'écouler
+horizontalement, ou ne pas subir de changement radical de hauteur,
+car il ne tient pas compte des effets de la gravité.
+
+So to account for height and gravity, and apply
+Bernoulli’s Principle to the design of our pump system,
+we’re going to need a more general equation.
+Donc, pour tenir compte de la hauteur et de la gravité, et appliquer
+le principe de Bernoulli à la conception de notre système de pompe,
+nous allons avoir besoin d'une équation plus générale.
+
+Bernoulli’s Equation.
+L'équation de Bernoulli.
+
+There are many forms of Bernoulli’s Equation,
+Il existe de nombreuses formes d'équation de Bernoulli,
+
+but the one we’ll look at today relates the
+pressure, speed, and height of any two points
+in a steadily flowing fluid with a density ρ.
+mais celle que nous examinerons aujourd'hui concerne la
+pression, la vitesse et la hauteur de deux points quelconques
+dans un fluide en écoulement constant avec une densité ρ.
+
+Since something’s density is just its mass
+divided by its volume, this equation actually
+works out really neatly:
+Étant donné que la densité de quelque chose est juste sa masse
+divisée par son volume, cette équation
+fonctionne en fait très bien : des
+
+On both sides of the equation, you’ll see that
+we’re defining a point’s total energy per unit volume
+by its pressure,
+deux côtés de l'équation, vous verrez que
+nous définissons l'énergie totale d'un point par unité de volume
+par sa pression,
+
+plus its kinetic energy per unit volume, and then
+finally adding in its potential energy per unit volume.
+plus sa cinétique  énergie par unité de volume, puis
+enfin en ajoutant son énergie potentielle par unité de volume.
+
+Basically, this equation says that the total
+energy of the first point is equal to the total
+energy of the second point.
+Fondamentalement, cette équation dit que l'
+énergie totale du premier point est égale à l'
+énergie totale du deuxième point.
+
+So if, say, the two points have different speeds,
+it makes sense that they’d have different pressures
+or potential energy to balance out the equation.
+Donc, si, par exemple, les deux points ont des vitesses différentes,
+il est logique qu'ils aient des pressions
+ou une énergie potentielle différentes pour équilibrer l'équation.
+
+Since the total energy will be the same at
+every point in the fluid, you can also write
+the equation like this.
+Puisque l'énergie totale sera la même à
+chaque point du fluide, vous pouvez également écrire
+l'équation comme ceci.
+
+It’s very similar to what we had before, but since
+the total energy will always be the same,
+C'est très similaire à ce que nous avions auparavant, mais comme
+l'énergie totale sera toujours la même,
+
+you can replace the right side of the equation
+– which represents the total energy at a second
+point along the pipe – with a constant.
+vous pouvez remplacer le côté droit de l'équation
+- qui représente l'énergie totale à un deuxième
+point le long du tuyau - par une constante.
+
+Much simpler.
+Beaucoup plus simple.
+
+And it gets even simpler if the fluid only flows
+horizontally – in other words, if there’s no change
+in height between the points we’re comparing.
+Et cela devient encore plus simple si le fluide ne s'écoule
+qu'horizontalement - en d'autres termes, s'il n'y a pas de changement
+de hauteur entre les points que nous comparons.
+
+That means we can cancel out the term with potential
+energy, leaving us with only the pressure and the kinetic
+energy per unit volume equal to a constant.
+Cela signifie que nous pouvons annuler le terme avec l'
+énergie potentielle, nous laissant uniquement la pression et l'
+énergie cinétique par unité de volume égales à une constante.
+
+By now, you’re probably wondering how we
+can find out the actual value of this constant
+we keep talking about.
+À présent, vous vous demandez probablement comment nous
+pouvons connaître la valeur réelle de cette constante dont
+nous parlons sans cesse.
+
+Well, we know it’s the total energy per unit volume, and
+that one way to find it is to add up the pressure, kinetic
+energy over volume, and potential energy over volume.
+Eh bien, nous savons que c'est l'énergie totale par unité de volume,
+et qu'une façon de la trouver est d'additionner la pression, l'
+énergie cinétique sur le volume et l'énergie potentielle sur le volume.
+
+But when we’re talking about a real-life
+scenario with a pump involved,
+Mais lorsque nous parlons d'un
+scénario réel avec une pompe impliquée,
+
+we have to take into account the energy
+that’s being put into and lost from the system
+to move the fluid.
+nous devons prendre en compte l'énergie
+qui est investie et perdue par le système
+pour déplacer le fluide.
+
+We’ve said this energy can take two forms:
+work and heat.
+Nous avons dit que cette énergie peut prendre deux formes : le
+travail et la chaleur.
+
+Work is what’s driving the pump.
+Le travail est ce qui fait tourner la pompe.
+
+That work is what’s moving the water along,
+and contributing to the total energy.
+Ce travail est ce qui fait avancer l'eau
+et contribue à l'énergie totale.
+
+But it’s not the only factor.
+Mais ce n'est pas le seul facteur.
+
+There’s something else that we need to take
+into account: friction.
+Il y a autre chose dont nous devons
+tenir compte : la friction.
+
+As water flows through the pipe, the movement
+will induce stress in the fluid, which causes friction –
+Au fur et à mesure que l'eau s'écoule dans le tuyau, le mouvement
+induira une contrainte dans le fluide, ce qui provoque une friction -
+
+the resistance you get when two
+things slide against each other.
+la résistance que vous obtenez lorsque deux
+choses glissent l'une contre l'autre.
+
+Friction makes a system lose energy to heat,
+and there’s going to be a lot of it as the water
+rubs against the inside of the pipe.
+La friction fait qu'un système perd de l'énergie en chaleur,
+et il y en aura beaucoup lorsque l'eau
+frotte contre l'intérieur du tuyau.
+
+Now, even with the pump, the total energy
+of the fluid will still be constant throughout
+the pipe.
+Maintenant, même avec la pompe, l'énergie
+totale du fluide sera toujours constante tout
+au long du tuyau.
+
+Which means the changes in energy from work
+and friction will need to balance out with changes
+to the three forms of internal energy –
+Ce qui signifie que les changements d'énergie dus au travail
+et au frottement devront s'équilibrer avec les
+changements des trois formes d'énergie interne -
+
+so, pressure, kinetic energy, and potential energy.
+donc, la pression, l'énergie cinétique et l'énergie potentielle.
+
+That’s the only way the total energy will
+remain the same.
+C'est la seule façon dont l'énergie totale
+restera la même.
+
+Going back to Bernoulli’s Equation, we can
+now modify it slightly.
+Pour en revenir à l'équation de Bernoulli, nous pouvons
+maintenant la modifier légèrement.
+
+The first thing we’ll do is rewrite it in
+terms of changes in energy:
+La première chose que nous allons faire est de le réécrire en
+termes de changements d'énergie :
+
+On the left side, there are the changes to
+the internal forms of energy:
+sur le côté gauche, il y a les changements
+des formes internes d'énergie :
+
+the change in pressure, plus the change in kinetic
+energy per unit volume, plus the change in potential
+energy per unit volume.
+le changement de pression, plus le changement d'
+énergie cinétique par unité de volume, plus le  variation de l'
+énergie potentielle par unité de volume.
+
+That’s all equal to a constant.
+Tout cela est égal à une constante.
+
+Then, we’ll divide the whole thing by density,
+which remember, is really the same as multiplying
+by volume and dividing by mass.
+Ensuite, nous diviserons le tout par la densité,
+ce qui, rappelez-vous, revient vraiment à multiplier
+par le volume et diviser par la masse.
+
+So now we’re talking about overall changes
+per unit mass throughout the flow, instead
+of changes per unit volume.
+Nous parlons donc maintenant de changements globaux
+par unité de masse tout au long du flux, au lieu
+de changements par unité de volume.
+
+This is what needs to balance out with the
+energy added by the pump and lost to friction.
+C'est ce qui doit s'équilibrer avec l'
+énergie ajoutée par la pompe et perdue par frottement.
+
+So, instead of a constant, we can now say the
+left side of the equation is equal to W, the work
+put in to change the energy per unit mass,
+Ainsi, au lieu d'une constante, nous pouvons maintenant dire que le
+côté gauche de l'équation est égal à W, le
+travail effectué pour modifier l'énergie par unité de masse,
+
+minus frictional losses per unit mass.
+moins les pertes par frottement par unité de masse.
+
+Many engineers will take this equation a step
+further and divide the whole thing by gravity,
+De nombreux ingénieurs pousseront cette équation un peu
+plus loin et diviseront le tout par la gravité,
+
+which gets you the value known as head – the
+height to which a pump can drive the fluid.
+ce qui vous donne la valeur connue sous le nom de tête - la
+hauteur à laquelle une pompe peut entraîner le fluide.
+
+Now, the actual amount of energy lost to friction
+depends on a bunch of different parameters.
+Maintenant, la quantité réelle d'énergie perdue par frottement
+dépend d'un tas de paramètres différents.
+
+One of the big ones is the velocity of the
+fluid.
+L'un des plus importants est la vitesse du
+fluide.
+
+The greater its velocity, the greater the
+frictional losses.
+Plus sa vitesse est grande, plus les
+pertes par frottement sont importantes.
+
+It makes sense if you think about it – there’s
+going to be much more intense rubbing against the
+sides of the pipe if the water’s moving faster.
+Cela a du sens si vous y réfléchissez - il
+y aura un frottement beaucoup plus intense contre les
+côtés du tuyau si l'eau se déplace plus rapidement.
+
+And remember last episode when we talked about
+laminar and turbulent flow?
+Et vous souvenez-vous du dernier épisode où nous parlions d'
+écoulement laminaire et turbulent ?
+
+Well that matters here too, because a turbulent,
+or fluctuating flow will increase the friction more
+than a laminar, or smooth flow will.
+Eh bien, cela compte ici aussi, car un
+écoulement turbulent ou fluctuant augmentera davantage le frottement
+qu'un écoulement laminaire ou régulier.
+
+The length of the pipe matters, too.
+La longueur du tuyau compte aussi.
+
+If there’s more pipe for the water to rub
+against, it will lose more energy to friction.
+S'il y a plus de tuyaux contre lesquels l'eau peut se
+frotter, elle perdra plus d'énergie au frottement.
+
+And then there’s roughness: the rougher
+the pipe, the more friction there will be.
+Et puis il y a la rugosité : plus
+le tuyau est rugueux, plus il y aura de frottement.
+
+Not to mention every valve, fitting, bend,
+and intersection in the pipe, which will also
+increase the friction.
+Sans parler de chaque vanne, raccord, coude
+et intersection du tuyau, ce qui
+augmentera également la friction.
+
+To figure out how powerful the pump needs
+to be to get the water out of your basement
+Pour déterminer la puissance nécessaire à la pompe
+pour évacuer l'eau de votre sous
+
+– in other words, how much work it should
+be capable of producing – you’ll have to
+account for all of this.
+-sol - en d'autres termes, la quantité de travail qu'elle devrait
+être capable de produire - vous devrez tenir
+compte de tout cela.
+
+You’ll want to minimize friction by keeping the pipe
+as simple and short as possible – this way, you won’t
+need as much work to counter the energy loss.
+Vous voudrez minimiser la friction en gardant le tuyau
+aussi simple et court que possible - de cette façon, vous n'aurez pas
+besoin d'autant de travail pour contrer la perte d'énergie.
+
+The pump also needs to be able to perform enough
+work to account for the pressure and velocity of the
+water, as well as any changes in elevation.
+La pompe doit également être capable d'effectuer suffisamment de
+travail pour tenir compte de la pression et de la vitesse de l'
+eau, ainsi que de tout changement d'élévation.
+
+Reality tends to be a little messier than the simplified
+version of Bernoulli’s equation we’re using,
+La réalité a tendance à être un peu plus compliquée que la
+version simplifiée de l'équation de Bernoulli que nous utilisons,
+
+but it should be enough to get a sense of
+which pump you’ll need to finally clear out
+your basement.
+mais cela devrait être suffisant pour avoir une idée de la
+pompe dont vous aurez besoin pour enfin vider
+votre sous-sol.
+
+Who knows how much mold is growing down there
+by now.
+Qui sait combien de moisissures poussent là-bas
+maintenant.
+
+More generally, Bernoulli’s equation is a good
+foundation for working with fluids and figuring out
+how to build your designs around them.
+Plus généralement, l'équation de Bernoulli est une bonne
+base pour travailler avec des fluides et déterminer
+comment construire vos conceptions autour d'eux.
+
+The world isn’t always perfect, but with
+the right engineering skills and tools, it
+doesn't have to be.
+Le monde n'est pas toujours parfait, mais avec
+les bonnes compétences et les bons outils d'ingénierie, il
+n'a pas à l'être.
+
+So today was all about diving further into
+fluid flow and how we can use equipment to
+apply our skills.
+Donc, aujourd'hui, il s'agissait de plonger plus profondément dans
+l'écoulement des fluides et comment nous pouvons utiliser l'équipement pour
+appliquer nos compétences.
+
+We talked about Bernoulli’s Principle and
+the relationship between speed and pressure
+in certain flowing fluids.
+Nous avons parlé du principe de Bernoulli et de
+la relation entre la vitesse et la pression
+dans certains fluides en circulation.
+
+We then learned how to apply the principle
+with Bernoulli’s Equation.
+Nous avons ensuite appris à appliquer le principe
+avec l'équation de Bernoulli.
+
+Taking that equation, and substituting a constant
+with work and frictional loss, gave us a great way
+to use it in real-world examples.
+Prendre cette équation et remplacer une constante
+par le travail et la perte par frottement nous a donné un excellent moyen
+de l'utiliser dans des exemples concrets.
+
+I’ll see you next time, when we’ll talk
+all about heat transfer.
+Je vous verrai la prochaine fois, quand nous
+parlerons de transfert de chaleur.
+
+Make sure you bring a bottle of sunscreen.
+Assurez-vous d'apporter une bouteille de crème solaire.
+
+Crash Course Engineering is produced in association
+with PBS Digital Studios.
+Crash Course Engineering est produit en association
+avec PBS Digital Studios.
+
+You can head over to their channel to check
+out a playlist of their latest amazing shows, like
+Brain Craft, Deep Look, and PBS Space Time.
+Vous pouvez vous rendre sur leur chaîne pour
+consulter une liste de lecture de leurs dernières émissions incroyables, comme
+Brain Craft, Deep Look et PBS Space Time.
+
+Crash Course is a Complexly production and this
+episode was filmed in the Doctor Cheryl C. Kinney Studio
+with the help of these wonderful people.
+Crash Course est une production de Complexly et cet
+épisode a été filmé dans le studio du docteur Cheryl C. Kinney
+avec l'aide de ces personnes merveilleuses.
+
+And our amazing graphics team is Thought Cafe.
+Et notre incroyable équipe graphique est Thought Cafe.
+

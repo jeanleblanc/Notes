@@ -1,0 +1,362 @@
+Vous commencez sûrement à voir comment la chimie peut changer notre vision du monde.
+
+La chimie explique l'apparence, la sensation et le comportement de tout ce qu'on peut voir
+
+en décrivant tout ce qu'on ne peut pas voir.
+
+Elle nous aide à comprendre les plus grandes choses de l'univers en nous aidant à comprendre les plus petites.
+
+Et c'est pour ça que la chimie peut-être difficile à comprendre parfois.
+
+Parce que nous sommes, sur une échelle chimique, énormes.
+
+La chimie s'occupe de particules infinitésimales, mais nous sommes faits de billiards de ces choses.
+
+Elles sont les fondations de la masse, nous sommes littéralement massifs.
+
+Donc la masse, c'est la façon dont nous les êtres massifs comprenons le monde.
+
+Dans nos interactions quotidiennes avec des substances,
+
+nous devons avoir un certain sens de la quantité de substance avant de l'utiliser ou de prédire son comportement.
+
+Par exemple, la chimie me dit que la structure atomique du sucre de ce sachet est
+
+12 atomes de carbone, 22 atomes d'hydrogène et 11 atomes d'oxygène par molécule.
+
+Mais je ne sais pas combien de molécules de sucre je veux mettre dans mon thé !
+
+Ni comment cette molécule va réagir avec les autres produits chimiques de mon corps.
+
+Pour comprendre ce genre de choses, je dois connaître la masse de sucre que j'ai.
+
+En d'autres termes, je dois le mesurer.
+
+Et c'est à ça que sert la stœchiométrie,
+
+la science de la mesure des produits chimiques qui entrent et sortent d'une réaction donnée.
+
+En grec, ça signifie littéralement mesurer des éléments,
+
+et, pour résumer, ça nous permet de compter les atomes et les molécules en les pesant.
+
+La stœchiométrie contient, c'est vrai, pas mal de maths, mais c'est l'un des déchiffreurs les plus importants des chimistes.
+
+C'est ce qu'on utilise pour aller du microscopique au macroscopique,
+
+pour mettre en relation ce qu'on ne voit pas avec ce qu'on voit.
+
+Et c'est pour ça que les chimistes l'utilisent sans arrêt.
+
+Même quand il s'agit de sucrer son thé. Aïe...chaud. C'est... c'est très chaud.
+
+[Thème musical]
+
+Si vous me suivez depuis plusieurs semaines, et j'espère que c'est le cas, vous vous dîtes sûrement,
+
+"Attendez, attendez, on a pas déjà une façon de mesurer les éléments ?"
+
+Et vous avez raison. On en a une.
+
+On utilise souvent la masse atomique relative pour mesurer les choses en chimie.
+
+La masse atomique moyenne de tous les isotopes naturels d'un élément donné.
+
+Donc par exemple, tout le carbone naturel de la Terre existe sous la forme d'un des trois seuls isotopes :
+
+C-12, C-13, et C-14.
+
+Ils ont tous six protons, mais le nombre de neutrons varie.
+
+Et ces isotopes sont présents sur notre planète dans des proportions totalement différentes.
+
+Donc la masse atomique relative du carbone est la moyenne de ces trois masses, qui est de 12,01.
+
+Mais 12,01 quoi ?
+
+Et bien, souvenez-vous que lorsqu'on parle d'unités de mesure, on parle de choses arbitraires.
+
+La plupart des unités, à part celles qu'on utiliser pour mesurer le temps, ne sont pas basées sur une valeur objective.
+
+On choisit une unité, comme le kilogramme, et on s'accorde sur une norme de ce qu'est un kilogramme, et voilà.
+
+C'est la même chose pour la masse atomique. On mesure la masse atomique en unités de masse atomique (amu).
+
+On les a inventées, et la valeur d'une amu est - accrochez-vous -
+
+1/12ème de la masse d'un atome de carbone-12.
+
+Pourquoi ? C'est une histoire amusante.
+
+Jusque dans les années 1800, des chimistes de différents endroits du monde utilisaient différentes unités pour mesurer les éléments.
+
+L'une des plus intuitives et donc des plus communes, consistait à utiliser l'élément le plus petit et le plus simple, l'hydrogène, comme référence.
+
+Mais dans les années 1850, quelques chimistes menés par l'allemand Wilhelm Ostwald ont proposé d'utiliser l'oxygène.
+
+Ils préféraient l'oxygène principalement parce qu'il se combine facilement avec beaucoup d'autres éléments,
+
+et ils pensaient donc qu'il serait plus simple de déterminer le poids de beaucoup de composés.
+
+Alors plusieurs hommes se sont gratté la barbe et y ont réfléchi pendant des années,
+
+jusqu'à ce qu'en 1903, ils décident que le poids atomique, comme ils l'appelaient, devrait être mesuré en 1/16èmes d'un atome d'oxygène.
+
+Jusqu'à 1912, quand les isotopes ont été découverts et les chimistes se sont rendu compte qu'on ne pouvait pas
+
+parler d'un élément comme s'ils étaient tous identiques!
+
+Ils ont découvert qu'il y avait un oxygène-16, un oxygène-17 et un oxygène-18 !
+
+Et soudain, tout le monde paniquait en disant "je ne sais plus combien ça pèse maintenant !"
+
+Ça a été tellement perturbant qu'il a fallu encore 50 ans de grattage de barbe pour
+
+que tout le monde décide d'utiliser un nouveau standard -- le carbone-12.
+
+Comme l'oxygène, le carbone est commun, et il aime bien se frotter aux autres éléments.
+
+Et puisqu'il a 12 protons et neutrons,
+
+la masse des autres éléments similaires pouvait facilement être exprimée en fraction de cela.
+
+Donc, depuis 1961, la science a décidé qu'une amu valait 1/12ème d'un atome de carbone-12.
+
+Ce qui veut dire que le carbone a une masse atomique relative de 12,01 amu.
+
+L'oxygène, 16 amu et l'hydrogène 1,008 amu. Et c'est comme ça qu'on pèse les atomes.
+
+Mais rien de tout ça ne règle mon problème de sucre dans mon thé.
+
+Je ne sais pas combien d'amu de ces molécules vont lui donner un bon goût,
+
+ni combien de molécules de sucre je peux consommer tout en gardant ma silhouette fine et robuste.
+
+Ça n'arrive pas par hasard, vous savez.
+
+Et pour effectuer ces calculs et prédire les réactions,
+
+Je dois d'abord convertir la masse atomique de ce sucre en quantité standard de substance.
+
+Pas en poids, pas en volume, en quantité objective de chose. Vous avez bien entendu, de chose.
+
+Et ça, mes amis, c'est l'utilité des moles.
+
+La mole est probablement l'unité la plus importante en chimie,
+
+car elle nous permet d'exprimer la masse atomique d'un élément en grammes.
+
+Et pour définir ce qu'est une mole, on utilise notre vieil ami, le carbone-12.
+
+Il y a 6,022 x 10^23 atomes dans 12 grammes de carbone-12,
+
+et par définition, ce nombre de n'importe quel élément est une mole de cet élément.
+
+C'est beaucoup, on l'appelle nombre d'Avogadro, et c'est l'une des constantes les plus importantes en chimie,
+
+et même si Avogadro n'est pas celui qui a trouvé ce nombre,
+
+il est nommé en son honneur car il a utilisé ce principe basique de comparaison de quantité de substances
+
+pour peser les atomes et les molécules.
+
+Donc il y a autant d'atomes de carbone dans une mole de carbone-12
+
+et il y a le même nombre d'objets dans une mole de n'importe quel objet.
+
+Une douzaine de rose contient douze roses, mais une mole de roses contient 6,022 x 10^23 roses,
+
+ce qui suffirait à recouvrir la surface de la Terre plusieurs fois.
+
+Une mole de sable contient 6,022 x 10^23 grains de sable et s'ils mesuraient tous un millimètre,
+
+une mole s'étirerait sur 100 billiards de kilomètres.
+
+Donc vous avez compris, c'est un grand nombre, mais en chimie, il faut se souvenir d'une chose :
+
+une mole d'un élément contient 6,022 x 10^23 atomes de cet élément, quoi qu'il arrive.
+
+C'est ce qui nous permet de convertir le nombre d'atomes en grammes. Ça nous permet de mesurer les éléments.
+
+OK, suivez bien maintenant.
+
+Une mole de carbone-12 contient 6,022 x 10^23 atomes et pèse 12 grammes, on est d'accord ?
+
+Donc une mole d'oxygène contient 6,022 x 10^23 atomes, mais comme les atomes d'oxygène sont
+
+plus lourds, elle pèse 16 grammes, et vous vous souvenez que la masse atomique relative de l'oxygène est 16 amu.
+
+Le nombre d'atomes par mole reste le même,
+
+mais la masse d'une mole dépend de la masse de l'élément.
+
+Ça veut simplement dire qu'une mole d'un élément est égale à sa masse atomique relative en grammes.
+
+Et maintenant vous avez compris, 1 mole d'hydrogène pèse 1,008g, une mole de fer pèse 55,85g,
+
+Et une mole de carbone naturel pèse 12,01 grammes.
+
+C'est ce qu'on appelle la masse molaire d'un élément.
+
+Et maintenant qu'on connaît la masse molaire des éléments, on peut calculer la masse molaire de n'importe quel composé.
+
+Tout ce qu'on a à faire, c'est additionner les masses molaires des éléments qui le composent.
+
+Donc par exemple, la formule de ce sucre, ou saccharose est C12H22O11.
+
+Une mole de sucrose, par définition, contient 6,022 x 10^23 molécules,
+
+et comme chaque molécule contient 12 atomes de carbone, 22 atomes d'hydrogène et 11 atomes d'oxygène,
+
+alors une mole de saccharose contient 12 moles de carbone, 22 moles d'hydrogène et 11 moles d'oxygène.
+
+Multipliez le nombre de moles de chaque élément par sa masse molaire, additionnez-les,
+
+et vous avez la masse molaire du composé.
+
+La mole est un peu la pierre de Rosette de la chimie ;
+
+avec elle, on peut convertir n'importe quoi du niveau des atomes et des molécules au niveau des grammes et kilogrammes.
+
+Et on peut l'utiliser pour décrire non seulement des éléments et des composés, mais aussi des réactions.
+
+Et pas besoin d'un laboratoire plein d'échantillons pour le faire, il faut juste un crayon et une calculatrice.
+
+Pour en revenir à mon problème de thé, disons, hypothétiquement que je fais attention mon poids,
+
+donc je veux savoir ce qu'il faut pour que je brûle une certaine quantité de sucre que je consomme.
+
+C'est une réaction ! Et elle est plutôt simple.
+
+Mon corps utilise le saccharose et le combine à l'oxygène pour créer de l'énergie, du CO2 et de l'H2O.
+
+On peut l'écrire sous forme d'équation,
+
+dans laquelle les réactifs à gauche se combinent pour former les produits à droite.
+
+Mais il y a un problème : cette équation ne reflète pas la réalité chimique.
+
+Pendant une réaction, des liaisons sont brisées et de nouvelles se forment, mais le nombre d'atomes
+
+de chaque élément reste le même.
+
+Les molécules de sucre et d'oxygène sont peut-être brisées et mélangées,
+
+mais le nombre de chaque sorte d'atomes avec lequel on commence reste le même après la réaction.
+
+La conservation de la masse, yo.
+
+Donc quand on écrit une réaction sous forme d'équation,
+
+le nombre d'atomes de chaque élément doit être exactement le même de chaque côté.
+
+Réconcilier les réactifs avec les produits s'appelle l'équilibrage d'une réaction,
+
+et c'est une bonne partie de ce qu'est la stœchiométrie.
+
+Car d'un point de vue chimique, une équation déséquilibrée est assez inutile.
+
+Elle ne nous dit pas ce qui y entre ni ce qui en sort.
+
+Si on n'équilibre pas l'équation, c'est comme dire
+
+"Quand une maman et un papa s'aiment très fort, un bébé apparaît, et c'est tout qu'il y a à savoir".
+
+Mais ce n'est pas tout ce qu'il y a à savoir !
+
+Alors comment on fait ? Pas les bébés, équilibrer une équation. J'ai fait la biologie l'année dernière.
+
+La meilleure façon est de commencer par la molécule la plus compliquée, qui dans ce cas est,
+
+bien sûr, le saccharose.
+
+Pour chaque molécule de saccharose qui entre dans la réaction, on sait qu'il y a 12 atomes de carbone,
+
+donc on sait déjà qu'on devra avoir au moins 12 molécules de CO2 comme produit,
+
+car c'est la seule molécule où se retrouvent ces atomes de carbone.
+
+Maintenant occupons-nous de l'hydrogène,
+
+parce que celui-là aussi ne se retrouve que dans une molécule de chaque côté de l'équation, donc c'est plus simple.
+
+On sait qu'au moins 22 atomes d'hydrogène entrent dans la réaction
+
+et que le produit contient un multiple de 2 atomes d'hydrogène (c'est le H2 de la molécule d'eau).
+
+Donc s'il y a 11 molécules d'eau produites,
+
+ça équilibre l'hydrogène avec 22 atomes d'hydrogène de chaque côté.
+
+Et enfin, l'oxygène.
+
+Puisqu'on sait qu'on a pour l'instant 12 molécules de CO2 er 11 molécules d'eau dans le produit,
+
+on sait qu'on aura au moins trente-cinq atomes d'oxygène à la fin.
+
+Si on regarde les réactifs, à gauche, on voit qu'il y a 11 atomes d'oxygène dans le
+
+saccharose et 2 dans la molécule d'oxygène, O2.
+
+Le carbone et l'hydrogène sont bien équilibrés avec juste une molécule de saccharose, alors on va la laisser tranquille.
+
+mais il pourrait y avoir n'importe quel nombre de molécules d'oxygène.
+
+Comme il en faut 35 et qu'on en a déjà 11 dans le saccharose,
+
+il n'en manque plus que 24, ce qui revient à 12 molécules d'O2.
+
+Et voilà, l'équation est équilibrée ! On sait exactement ce que produit mon corps.
+
+Pour chaque molécule de saccharose que je métabolise, je dois inhaler 12 molécules d'oxygène, et en retour,
+
+en plus de l'énergie du sucre, je produirai 12 molécules de dioxyde de carbone et 11 molécules d'eau.
+
+C'est incroyablement utile lorsqu'on veut comprendre les proportions des éléments quand ils réagissent au niveau moléculaire.
+
+Mais dans un laboratoire, ou dans la vie, on doit travailler avec des quantités mesurables de matière,
+
+alors le dernier tour stœchiométrique qu'il vous faut dans votre manche consiste à calculer les masses spécifiques
+
+des réactifs et des produits.
+
+Par exemple, combien d'oxygène dois-je inhaler pour brûler cinq grammes de sucre ?
+
+Pour le savoir, il suffit de se concentrer sur la partie gauche de l'équation,
+
+car on a seulement besoin de quantifier les réactifs.
+
+D'abord, on convertit l'équation équilibrée en masses molaires ;
+
+pour passer des molécules aux grammes, il faut passer par les moles.
+
+Quand on a trouvé les masses molaires, on voit que rapport du saccharose à l'oxygène est assez proche :
+
+384 grammes d'oxygène pour 342,3 grammes de saccharose.
+
+Ensuite on compare simplement ce rapport aux masses de réactifs de notre expérience,
+
+5 grammes de sucre pour X grammes d'oxygène, et j'espère que vous savez comment trouver X.
+
+Pour 5 grammes de sucre que j'ingère, il faut que j'inhale 5,6 grammes d'oxygène,
+
+et il se trouve que je sais que ça fait environ 35 respirations.
+
+Donc du moment que je reste en vie pendant encore environ une minute et demi,
+
+Je vais pouvoir brûler ces cinq grammes de sucre. Santé !
+
+Aujourd'hui on a appris deux des unités de mesures les plus importantes en chimie, l'unité de masse atomique et la mole.
+
+On a aussi appris à calculer la masse molaire et à équilibrer une équation chimique et enfin,
+
+on a vu comment utiliser les rapports molaires pour calculer la quantité de matière qui entre dans une réaction.
+
+Merci d'avoir regardé cet épisode de Crash Course Chimie,
+
+qui a été filmé, monté et réalisé par Nick Jenkins.
+
+Cet épisode a été écrit par Blake de Pastino et révisé par le Dr. Heiko Langner.
+
+Michael Aranda est notre designer sonore, et notre équipe graphique est Thought Café.
+

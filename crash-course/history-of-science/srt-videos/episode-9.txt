@@ -1,0 +1,862 @@
+We’ve seen how, from around 400 BCE to CE
+1300, ideas in astronomy, math, and engineering
+Nous avons vu comment, d'environ 400 avant notre ère à
+1300 de notre ère, des idées en astronomie, en mathématiques et en ingénierie
+
+were traded all the way from Beijing to Delhi,
+and from Baghdad to Constantinople.
+ont été échangées de Pékin à Delhi
+et de Bagdad à Constantinople.
+
+In the next episodes, we’re going to dive
+into how some specific kinds of knowledge
+Dans les prochains épisodes, nous allons nous plonger
+dans l'évolution de certains types de connaissances spécifiques au
+
+evolved over time.
+fil du temps.
+
+First up: healing.
+Première étape : la guérison.
+
+The history of medicine is about two of our
+big questions: one, what is life?
+L'histoire de la médecine concerne deux de nos
+grandes questions : premièrement, qu'est-ce que la vie ?
+
+What makes it so special, so fragile, so…
+goopy!?
+Qu'est-ce qui le rend si spécial, si fragile, si…
+goopy !?
+
+Two, how do we know what we know?
+Deuxièmement, comment savons-nous ce que nous savons ?
+
+Why should I take my doctor’s advice?
+Pourquoi devrais-je suivre les conseils de mon médecin?
+
+Why are deep-fried Oreos bad for me?
+Pourquoi les Oreos frits sont-ils mauvais pour moi ?
+
+It may be tempting to look at medicine as
+a science that has simply progressed over
+Il peut être tentant de considérer la médecine comme
+une science qui a simplement progressé au fil du
+
+time—that medicine used to be bad, and its
+history is a story of how it got better.
+temps - que la médecine était autrefois mauvaise et que son
+histoire est l'histoire de la façon dont elle s'est améliorée.
+
+And don’t get me wrong: we love modern medicine!
+Et ne vous méprenez pas : nous aimons la médecine moderne !
+
+You’ll have to take my word for it until
+“Crash Course: Deep-Fried Everything”
+Vous devrez me croire sur parole jusqu'à ce que
+"Crash Course: Deep-Fried Everything"
+
+drops, but the science behind lipid transport
+is just fascinating.
+tombe, mais la science derrière le transport des lipides
+est tout simplement fascinante.
+
+Focusing on progress, though, obscures what
+worked in the past.
+Se concentrer sur le progrès, cependant, obscurcit ce qui a
+fonctionné dans le passé.
+
+Ancient and medieval medicine worked for millions
+of people.
+La médecine antique et médiévale fonctionnait pour des millions
+de personnes.
+
+They understood their bodies as bounded by
+rules.
+Ils considéraient leur corps comme limité par des
+règles.
+
+And regardless of what worked, early medical
+systems allowed people to make sense of bodies
+Et peu importe ce qui fonctionnait, les premiers
+systèmes médicaux permettaient aux gens de donner un sens au corps
+
+and health.
+et à la santé.
+
+You may think that medicine is a technē,
+or practically oriented knowledge.
+Vous pensez peut-être que la médecine est une technē,
+ou une connaissance orientée vers la pratique.
+
+But today, we’re going to focus on systems
+of medicine as world-ordering theories, or
+Mais aujourd'hui, nous allons nous concentrer sur les systèmes
+de médecine en tant que théories de l'ordre mondial, ou
+
+epistēmē.
+epistēmē.
+
+These theories were built up into a textual
+tradition, in which doctors wrote down what
+Ces théories ont été construites dans une
+tradition textuelle, dans laquelle les médecins écrivaient ce
+
+they saw and cited earlier doctors when explaining
+their treatments.
+qu'ils voyaient et citaient des médecins antérieurs lorsqu'ils expliquaient
+leurs traitements.
+
+So let’s turn to medical education.
+Passons donc à la formation médicale.
+
+What textbooks would a would-be doctor read
+in a given place and time?
+Quels manuels un futur médecin lirait-il
+à un endroit et à une époque donnés ?
+
+[Intro Music Plays]
+[Intro Music Plays]
+
+Let’s say you lived in Song Dynasty China:
+you’d study machine-printed textbooks on
+Disons que vous viviez dans la Chine de la dynastie Song :
+vous étudieriez des manuels imprimés à la machine sur
+
+traditional Chinese medicine, or TCM.
+la médecine traditionnelle chinoise, ou MTC.
+
+In this system, humans are small pieces of
+one vast organism called the Entire Dang Universe.
+Dans ce système, les humains sont de petits morceaux d'
+un vaste organisme appelé l'univers Dang entier.
+
+All things within this system are composed
+of five elements: fire, earth, metal, water,
+Toutes les choses dans ce système sont composées
+de cinq éléments : le feu, la terre, le métal, l'eau
+
+and wood.
+et le bois.
+
+In TCM, health means a balance between two
+forces, yin and yang, representing dark and
+En MTC, la santé signifie un équilibre entre deux
+forces, le yin et le yang, représentant l'obscurité et la
+
+light, femininity and masculinity, hot and
+cold, and so on.
+lumière, la féminité et la masculinité, le chaud
+et le froid, etc.
+
+Disease means imbalance.
+La maladie signifie le déséquilibre.
+
+Thus healthcare means restoring balance, in
+TCM, by manipulating the energy that flows
+Ainsi, les soins de santé signifient rétablir l'équilibre, en
+MTC, en manipulant l'énergie qui circule
+
+through living bodies, called qi.
+dans les corps vivants, appelée qi.
+
+You, the would-be doc, would learn all about
+how to move qi around using acupuncture and
+Vous, le futur médecin, apprendrez tout sur la
+façon de déplacer le qi en utilisant l'acupuncture et l'
+
+acupressure, herbal therapies, exercise, and
+prescription diets.
+acupression, les thérapies à base de plantes, l'exercice et
+les régimes sur ordonnance.
+
+If you lived in Gupta Dynasty India, you’d
+also get down with a five-element theory of
+Si vous viviez dans l'Inde de la dynastie Gupta, vous
+accepteriez également une théorie de la
+
+matter.
+matière à cinq éléments.
+
+But you would study the science of life, Ayurveda.
+Mais vous étudieriez la science de la vie, l'Ayurveda.
+
+You’d probably pick up the popular textbook
+Charaka Samhita, or one of the other samhita—or
+Vous choisirez probablement le manuel populaire
+Charaka Samhita, ou l'un des autres samhita - ou
+
+“collections”—that could help you memorize
+hundreds of named body parts.
+"collections" - qui pourrait vous aider à mémoriser des
+centaines de parties du corps nommées.
+
+In addition to anatomy, the samhitas would
+also teach you etiology, or what causes different
+En plus de l'anatomie, les samhitas
+vous apprendraient également l'étiologie, ou ce qui cause différentes
+
+diseases, and symptomatology, or what diseases
+look like.
+maladies, et la symptomatologie, ou à quoi
+ressemblent les maladies.
+
+When it came to treatment, your samhita would
+have information on the eight specialites:
+En matière de traitement, votre samhita aurait
+des informations sur les huit spécialités :
+
+the diseases of children, those of the elderly,
+mental diseases, diseases of the sense organs,
+les maladies des enfants, celles des personnes âgées,
+les maladies mentales, les maladies des organes des sens, la
+
+surgery, poisons and antidotes, and aphrodisiacs.
+chirurgie, les poisons et antidotes, et les aphrodisiaques.
+
+You would learn the five karmas or actions
+that were used for removal of toxins from
+Vous apprendrez les cinq karmas ou actions
+qui ont été utilisés pour éliminer les toxines des
+
+body tissues.
+tissus corporels.
+
+And, to prepare treatments, you’d learn
+a lot about plants, minerals, and animals.
+Et, pour préparer les traitements, vous en
+apprendrez beaucoup sur les plantes, les minéraux et les animaux.
+
+But treating patients is only part of Ayurveda.
+Mais traiter les patients n'est qu'une partie de l'Ayurveda.
+
+The science of life concerns healthful living
+in general, including how to prevent disease
+La science de la vie concerne une vie saine
+en général, y compris la manière de prévenir les maladies
+
+and influence hygiene and diet.
+et d'influencer l'hygiène et l'alimentation.
+
+What if you lived in, say, fourteenth-century
+Bologna, Italy—home to one of the oldest
+Et si vous viviez, disons, à Bologne, au XIVe siècle
+, en Italie, qui abrite l'une des plus anciennes
+
+universities in the world, which opened in
+CE 1088!
+universités du monde, qui a ouvert ses portes en
+1088 de notre ère !
+
+You would attend lectures, and you’d have
+a hand-copied textbook, not made by a press
+Vous assisteriez à des conférences et vous auriez
+un manuel copié à la main, pas fait par une presse
+
+as in Song China.
+comme dans Song China.
+
+The medical theories in your textbook would
+be founded on Aristotelian biology and physics.
+Les théories médicales de votre manuel
+seraient fondées sur la biologie et la physique aristotéliciennes.
+
+Bodies are composed of four special bodily
+humors.
+Les corps sont composés de quatre humeurs corporelles particulières
+.
+
+Each of these corresponds to one of the four
+elements of Empedocles: blood, made of air,
+Chacun d'eux correspond à l'un des quatre
+éléments d'Empédocle : le sang, fait d'air, le
+
+phlegm, made of water, yellow bile, made of
+fire, and black bile, made of earth.
+flegme, fait d'eau, la bile jaune, faite de
+feu, et la bile noire, faite de terre.
+
+Illness is an imbalance in the humors.
+La maladie est un déséquilibre des humeurs.
+
+Too much black bile, for example, causes depression.
+Trop de bile noire, par exemple, provoque la dépression.
+
+Treatment means restoring the right humoral
+balance—like, with bloodletting.
+Le traitement signifie rétablir le bon
+équilibre humoral, comme avec une saignée.
+
+When too much of one humor built up in the
+body, one way to restore a balance was to
+Lorsque trop d'humour s'est accumulé dans le
+corps, une façon de rétablir l'équilibre était de
+
+let some of the excess drain off.
+laisser s'écouler une partie de l'excès.
+
+But the most common treatment, then as now,
+was simply offering good dietary advice.
+Mais le traitement le plus courant, alors comme aujourd'hui,
+consistait simplement à offrir de bons conseils diététiques.
+
+Aristotle linked the four elements with the
+humors, but he wasn’t a doctor.
+Aristote a lié les quatre éléments aux
+humeurs, mais il n'était pas médecin.
+
+The oldest nuggets of humoral wisdom in Western
+Eurasian medical textbooks were attributed
+Les plus anciennes pépites de sagesse humoristique dans
+les manuels médicaux d'Eurasie occidentale ont été attribuées
+
+to a physician named Hippocrates of Cos, which
+means “Gregory House” in classical Greek.
+à un médecin nommé Hippocrate de Cos, ce qui
+signifie « Gregory House » en grec classique.
+
+We know something of his life—he died when
+Aristotle was in his teens—but we don’t
+Nous savons quelque chose de sa vie - il est mort quand
+Aristote était adolescent - mais nous n'avons pas
+
+have many surviving works by him.
+beaucoup d'œuvres survivantes de lui.
+
+What we do have is a collection of texts of
+various age and unknown authorship called
+Ce que nous avons est une collection de textes de
+divers âges et d'auteurs inconnus appelés
+
+the Hippocratic corpus.
+le corpus hippocratique.
+
+According to the corpus, Hippocrates I was
+a fan of the Pythagoreans.
+D'après le corpus, Hippocrate Ier était
+un fan des Pythagoriciens.
+
+(Remember, the secret math cult?)
+(Rappelez-vous, le culte secret des mathématiques ?)
+
+But his skepticism—or doubt that certain
+knowledge is possible—set Hippocratic medicine
+Mais son scepticisme – ou le doute que certaines
+connaissances soient possibles –
+
+apart from a lot of Greek natural philosophy.
+distingue la médecine hippocratique d'une grande partie de la philosophie naturelle grecque.
+
+Hippocrates emphasized reason, observation,
+and medical prediction.
+Hippocrate a mis l'accent sur la raison, l'observation
+et la prédiction médicale.
+
+He emphasized that diet and the environment
+influence health, not the direct will of the
+Il a souligné que le régime alimentaire et l'environnement
+influencent la santé, et non la volonté directe des
+
+gods.
+dieux.
+
+And his oath—“do no harm”—still underpins
+medical education.
+Et son serment - "ne pas nuire" - sous-tend toujours
+l'éducation médicale.
+
+Hippocrates was the Jimi Hendrix of Eurasian
+and North African medicine, innovating a new
+Hippocrate était le Jimi Hendrix de la
+médecine eurasienne et nord-africaine, inventant un nouveau
+
+style that challenged traditional ideas.
+style qui défiait les idées traditionnelles.
+
+But Hippocratic physicians had to compete
+among many schools of healers.
+Mais les médecins hippocratiques devaient
+rivaliser avec de nombreuses écoles de guérisseurs.
+
+It was a Roman named Galen who became medicine’s
+Michael Jackson—the popularizer of a standard
+C'est un Romain du nom de Galen qui est devenu le
+Michael Jackson de la médecine - le vulgarisateur d'un
+
+humorism that would last until the 1800s.
+humour standard qui a duré jusqu'au XIXe siècle.
+
+Galen’s system absorbed the smaller, uneven
+Hippocratic corpus.
+Le système de Galien a absorbé le corpus hippocratique plus petit et inégal
+.
+
+Galen was born around CE 130 in Pergamon.
+Galien est né vers l'an 130 de notre ère à Pergame.
+
+But he made his career in Rome, treating gladiators.
+Mais il fit carrière à Rome, soignant des gladiateurs.
+
+This gave him lots of experience peeking into
+the body while sewing up wounds.
+Cela lui a donné beaucoup d'expérience en jetant un coup d'œil dans
+le corps tout en cousant des blessures.
+
+Eventually he got the offer of a lifetime:
+court physician to Emperor Marcus Aurelius,
+Finalement, il a reçu l'offre de sa vie:
+médecin de la cour de l'empereur Marc Aurèle,
+
+who was a battle-hardened general, Stoic philosopher,
+and all-around hardcore dude.
+qui était un général aguerri, un philosophe stoïcien
+et un mec hardcore polyvalent.
+
+Galen wrote a huge number of influential texts—supposedly
+five hundred!
+Galen a écrit un grand nombre de textes influents - soi-disant
+cinq cents !
+
+Though only eighty-three survive today.
+Bien que seulement quatre-vingt-trois survivent aujourd'hui.
+
+These show that Galen built on the systems
+of Hippocrates and Aristotle, but also made
+Celles-ci montrent que Galen s'est appuyé sur les systèmes
+d'Hippocrate et d'Aristote, mais a également pris
+
+detailed notes on human anatomy drawn from
+experience.
+des notes détaillées sur l'anatomie humaine tirées de l'
+expérience.
+
+He accurately observed how the larynx works
+and demonstrated the the lungs fill up with
+Il a observé avec précision le fonctionnement du larynx
+et a démontré que les poumons se remplissent d'
+
+air.
+air.
+
+Oh ya, and he innovated cataract surgery.
+Oh oui, et il a innové la chirurgie de la cataracte.
+
+But Galen definitely got some things wrong.
+Mais Galen s'est certainement trompé sur certaines choses.
+
+One reason is that human dissection was illegal
+in imperial Rome and the states that succeeded
+L'une des raisons est que la dissection humaine était illégale
+dans la Rome impériale et les États qui lui ont
+
+it.
+succédé.
+
+So a lot of anatomy was still guesswork based
+on observations of animals.
+Ainsi, une grande partie de l'anatomie était encore une conjecture basée
+sur des observations d'animaux.
+
+For example, dissecting sheep heads, Galen
+identified a circulatory organ called a rete
+Par exemple, en disséquant des têtes de moutons, Galen a
+identifié un organe circulatoire appelé rete
+
+mirabile or “wonderful net” that is found
+in animals like sheep and dolphins… but
+mirabile ou « filet merveilleux » que l'on trouve
+chez des animaux comme les moutons et les dauphins… mais qui
+
+doesn’t actually exist in humans.
+n'existe pas réellement chez l'homme.
+
+After Galen, the most notable medical theorists
+in the Greater Mediterranean weren’t Greeks
+Après Galien, les théoriciens médicaux les plus notables
+de la Grande Méditerranée n'étaient pas des Grecs
+
+or Romans, but Arabs or Persians who had access
+to both Greek and Indian sciences.
+ou des Romains, mais des Arabes ou des Perses qui avaient accès
+aux sciences grecques et indiennes.
+
+First among was the Persian polymath Abū
+Bakr al-Rāzī —whose name also means “Gregory
+Le premier d'entre eux était le polymathe persan Abū
+Bakr al-Rāzī - dont le nom signifie aussi « Gregory
+
+House.”
+House ».
+
+Born in CE 854, al-Rāzī was prolific: he
+wrote dozens of books, including detailed
+Né en 854 de notre ère, al-Rāzī était prolifique : il a
+écrit des dizaines de livres, y compris des
+
+accounts of his cases.
+comptes rendus détaillés de ses cas.
+
+He is considered by many historians to be
+one of the founders of several disciplines,
+Il est considéré par de nombreux historiens comme l'
+un des fondateurs de plusieurs disciplines,
+
+from psychology to opthamology.
+de la psychologie à l'ophtalmologie.
+
+And he was the first to describe smallpox
+and measles as distinct diseases.
+Et il fut le premier à décrire la variole
+et la rougeole comme des maladies distinctes.
+
+Al-Rāzī also wrote for general audiences,
+educating them about health and disease.
+Al-Rāzī a également écrit pour le grand public, les
+éduquant sur la santé et la maladie.
+
+Many of his works were encyclopedias based
+on Greek humoral medicine and natural philosophy.
+Beaucoup de ses œuvres étaient des encyclopédies basées
+sur la médecine humorale grecque et la philosophie naturelle.
+
+His big one, al-Hawi al-Kabir or The Virtuous
+Life, was a large, influential medical encyclopedia.
+Son grand, al-Hawi al-Kabir ou La
+vie vertueuse, était une grande encyclopédie médicale influente.
+
+Al-Rāzī was a unique dude who did exactly
+what he wanted.
+Al-Rāzī était un mec unique qui faisait exactement
+ce qu'il voulait.
+
+Although he was one of the most scientific
+doctors of his time, he also wrote works of
+Bien qu'il ait été l'un des médecins les plus scientifiques
+de son temps, il a également écrit des ouvrages de
+
+Islamic prophetic medicine, al-tibb al-nabawi.
+médecine prophétique islamique, al-tibb al-nabawi.
+
+This discipline, an alternative to the Hippocratic–Galenic
+system, advocated traditional medical practices
+Cette discipline, alternative au système hippocratique-
+galénique, prônait les pratiques médicales traditionnelles
+
+mentioned in the Qur’an.
+mentionnées dans le Coran.
+
+Al-Rāzī also influenced medicine by becoming
+the first fan of Greco-Roman humoral medicine
+Al-Rāzī a également influencé la médecine en devenant
+le premier adepte de la médecine humoristique gréco-romaine
+
+to beef with Galen!
+à s'opposer à Galien !
+
+He wrote a book called Shukuk ‘ala alinusor—Doubts
+About Galen—in which he said that his own
+Il a écrit un livre intitulé Shukuk 'ala alinusor - Doubts
+About Galen - dans lequel il a dit que ses propres
+
+observations contradicted some of Galen’s
+claims.
+observations contredisaient certaines des affirmations de Galen
+.
+
+Remember nullius in verba—“on the word
+of no one”—the motto of the Royal Society
+Vous souvenez-vous de nullius in verba – « sur la parole
+de personne » – la devise de la Royal Society
+
+of London, founded in 1660?
+de Londres, fondée en 1660 ?
+
+Al-Rāzī advocated this approach to medicine
+circa the year 900, over seven hundred years
+Al-Rāzī a préconisé cette approche de la médecine
+vers l'an 900, plus de sept cents ans
+
+earlier!
+plus tôt !
+
+But, if you were really a medieval Italian
+medical student, the book you’d read probably
+Mais, si vous étiez vraiment un
+étudiant en médecine italien médiéval, le livre que vous auriez lu
+
+wouldn’t be by Hippocrates, Galen, or al-Rāzī.
+ne serait probablement pas d'Hippocrate, de Galien ou d'al-Rāzī.
+
+Instead, you’d read a translated encyclopedia
+featuring all of them.
+Au lieu de cela, vous auriez lu une encyclopédie traduite les
+présentant tous.
+
+In doing so, you’d participate in the scientific
+wonder called Scholasticism—or learning
+Ce faisant, vous participeriez à la
+merveille scientifique appelée scolastique - ou apprendrez à
+
+through close readings of approved texts that
+recorded the observations and theories of
+travers des lectures attentives de textes approuvés qui ont
+enregistré les observations et les théories des
+
+earlier thinkers.
+penseurs antérieurs.
+
+Take it away, Thought Bubble!
+Emportez-le, bulle de pensée !
+
+One of the all-time greatest hits of medical
+education was al-Qānūn fī al-Ṭibb, or
+L'un des plus grands succès de tous les temps de l'
+éducation médicale était al-Qānūn fī al-Ṭibb, ou
+
+The Canon of Medicine.
+Le Canon de la médecine.
+
+The Canon was written by another Persian polymath,
+Ibn Sina, born in 980.
+Le Canon a été écrit par un autre polymathe persan,
+Ibn Sina, né en 980.
+
+Ibn Sina was widely seen as the best writer
+to summarize and comment on the Greco-Roman
+Ibn Sina était largement considéré comme le meilleur écrivain
+pour résumer et commenter les médecins gréco-romains
+
+doctors.
+.
+
+His Canon became one of the most important
+medical textbooks—and introductions to Aristotle’s
+Son Canon est devenu l'un des manuels médicaux les plus importants
+- et des introductions à la physique d'Aristote
+
+physics—for six hundred years.
+- pendant six cents ans.
+
+Your textbook is really a mashup of several
+different books.
+Votre manuel est vraiment un mashup de plusieurs
+livres différents.
+
+Each page is like an onion: at its heart,
+one punctum or big idea by Aristotle, or Hippocrates
+Chaque page est comme un oignon : en son cœur,
+un punctum ou grande idée d'Aristote, ou d'Hippocrate
+
+or Galen.
+ou de Galien.
+
+These are surrounded by layer upon layer of
+annotatio, or notes, by famous physicians
+Celles-ci sont entourées de couches et couches d'
+annotations, ou notes, par des médecins célèbres
+
+from distant cities such as Baghdad.
+de villes lointaines telles que Bagdad.
+
+Your main throughline are the summaries by
+Ibn-Sina, whose name has been latinized as
+Votre principale ligne de conduite sont les résumés d'
+Ibn-Sina, dont le nom a été latinisé en
+
+“Avicenna”.
+"Avicenne".
+
+But there are notes by Latin translators such
+as Gerard de Cremona or Constantinus Africanus,
+Mais il y a des notes de traducteurs latins tels
+que Gerard de Cremona ou Constantinus Africanus,
+
+plus outer layers of notes by other medical
+students.
+ainsi que des couches externes de notes d'autres
+étudiants en médecine.
+
+Maybe you even jot down your own.
+Peut-être que vous écrivez vous-même.
+
+Thus—way before WebMD—you’re in conversation
+with doctors from all across space!
+Ainsi, bien avant WebMD, vous êtes en conversation
+avec des médecins de partout dans l'espace !
+
+And time!
+Et le temps! 
+
+In universities such as Bologna or Salerno,
+you might also have access to another textbook,
+Dans des universités comme Bologne ou Salerne,
+vous pourriez aussi avoir accès à un autre manuel,
+
+this one by… wait for it… a lady!
+celui-ci par… attendez… une dame !
+
+Trota of Salerno wrote Practical Medicine
+According to Trota and Treatments of Women,
+Trota de Salerne a écrit Médecine pratique
+selon Trota et Traitements des femmes, l'
+
+one of books of the The Trotula Ensemble.
+un des livres de l'Ensemble Trotula.
+
+This group of three texts from around 1200
+traveled widely throughout medieval Europe.
+Ce groupe de trois textes datant d'environ 1200
+a beaucoup voyagé dans toute l'Europe médiévale.
+
+The Trotula became foundational to gynecology
+and all other topics related to women’s
+La Trotula est devenue la base de la gynécologie
+et de tous les autres sujets liés à la santé des femmes
+
+health.
+.
+
+But you might not know that this foundational
+text on women’s health was written by a
+Mais vous ne savez peut-être pas que ce
+texte fondateur sur la santé des femmes a été écrit par une
+
+woman, because her identity was systematically
+written out of history until the late twentieth
+femme, car son identité a été systématiquement
+rayée de l'histoire jusqu'à la fin du XXe
+
+century.
+siècle.
+
+Because of course it was.
+Parce que ça l'était bien sûr.
+
+Thanks Thought Bubble!
+Merci Bulle de Pensée !
+
+So what was “life” for many educated people
+in Asia and North Africa between roughly 400
+Alors, quelle était la « vie » pour de nombreuses personnes instruites
+en Asie et en Afrique du Nord entre environ 400
+
+BCE to CE 1300?
+avant notre ère et 1300 de notre ère ?
+
+Life was a universal property of which humans
+were just interesting examples.
+La vie était une propriété universelle dont les humains
+n'étaient que des exemples intéressants.
+
+Life was linked to the movements of special
+fluids, which were the objects of medical
+La vie était liée aux mouvements de
+fluides spéciaux, qui faisaient l'objet de
+
+treatments.
+traitements médicaux.
+
+Life was ultimately built out of a smaller
+number of elements, and good health meant
+La vie a finalement été construite à partir d'un plus petit
+nombre d'éléments, et une bonne santé signifiait
+
+balancing fluids and elements in the right
+way.
+équilibrer les fluides et les éléments de la bonne
+manière.
+
+How did we know what life is?
+Comment savions-nous ce qu'est la vie ?
+
+For some physicians in classical Greece or
+imperial Rome, careful observation and comparison
+Pour certains médecins de la Grèce classique ou de
+la Rome impériale, l'observation attentive et la comparaison
+
+to animals were crucial methods.
+avec les animaux étaient des méthodes cruciales.
+
+Persian doctors, influenced by both Greek
+and Indian ideas, synthesized earlier ideas,
+Les médecins persans, influencés à la fois par les
+idées grecques et indiennes, ont synthétisé des idées antérieures, en ont
+
+expanded evidence for them, and challenged
+and reworked them.
+élargi les preuves, les ont contestées
+et retravaillées.
+
+Why did you, medieval citizen, trust this
+information?
+Pourquoi avez-vous, citoyen médiéval, fait confiance à cette
+information ?
+
+Because books told you to!
+Parce que les livres vous l'ont dit !
+
+And with that, dear student, we leave you
+to deal with… the Black Plague of 1347.
+Et sur ce, cher étudiant, nous vous laissons
+vous occuper… de la peste noire de 1347.
+
+Bummer!
+Dommage !
+
+Next time—we’ll deep-dive into the eternal
+question of “what is stuff” with a group
+La prochaine fois, nous plongerons dans l'éternelle
+question de "qu'est-ce que c'est" avec un groupe
+
+of thinkers who tried to “science” lead
+into gold—the alchemists.
+de penseurs qui ont essayé de "la science" mener
+à l'or - les alchimistes.
+
+Crash Course History of Science is filmed
+in the Dr. Cheryl C. Kinney studio in Missoula,
+Crash Course History of Science est filmé
+dans le studio du Dr Cheryl C. Kinney à Missoula,
+
+Montana and it’s made with the help of all
+this nice people and our animation team is
+Montana et il est réalisé avec l'aide de toutes
+ces personnes sympathiques et notre équipe d'animation est
+
+Thought Cafe.
+Thought Cafe.
+
+Crash Course is a Complexly production.
+Crash Course est une production complexe.
+
+If you wanna keep imagining the world complexly
+with us, you can check out some of our other
+Si vous voulez continuer à imaginer le monde de manière complexe
+avec nous, vous pouvez consulter certaines de nos autres
+
+channels like Scishow Psych, Animal Wonders,
+and The Art Assignment.
+chaînes comme Scishow Psych, Animal Wonders
+et The Art Assignment.
+
+And, if you’d like to keep Crash Course
+free for everybody, forever, you can support
+Et, si vous souhaitez que Crash Course reste
+gratuit pour tout le monde, pour toujours, vous pouvez soutenir
+
+the series at Patreon; a crowdfunding platform
+that allows you to support the content you
+la série sur Patreon ;  une plateforme de financement participatif
+qui vous permet de soutenir le contenu que vous
+
+love.
+aimez.
+
+Thank you to all of our patrons for making
+Crash Course possible with their continued
+Merci à tous nos mécènes d'avoir rendu
+Crash Course possible grâce à leur
+
+support.
+soutien continu.
+

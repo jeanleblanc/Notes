@@ -1,0 +1,763 @@
+One of the things that teachers who aren't
+me tend to say is that,
+L'une des choses que les enseignants qui ne sont pas
+moi ont tendance à dire, c'est que
+
+you need to learn all this stuff because someday
+you'll be out there in the "real world"
+vous devez apprendre toutes ces choses parce qu'un jour
+vous serez là-bas dans le "monde réel"
+
+and you'll need to know how to do all the
+things that adults do.
+et vous aurez besoin de savoir comment faire tout le
+choses que font les adultes.
+
+First of all, I don't really believe this because I think you should be learning just 'cause learning is fun.
+Tout d'abord, je n'y crois pas vraiment parce que je pense que vous devriez apprendre simplement parce qu'apprendre est amusant.
+
+But I also remember when I was kid hearing
+that
+Mais je me souviens aussi quand j'étais enfant d'entendre
+ça
+
+and thinking that this real world couldn't be that much tougher than high school, because it was pretty tough.
+et de penser que ce monde réel ne pouvait pas être beaucoup plus difficile que le lycée, parce que c'était assez difficile.
+
+But looking back, I can tell you that life indeed does get a bit more complicated after 12th grade,
+Mais avec le recul, je peux vous dire que la vie devient en effet un peu plus compliquée après la 12e année,
+
+with jobs, and bills, and raising kids, and
+taxes,
+avec des emplois, des factures, l'éducation d'enfants et des
+impôts,
+
+and I haven't done any of the raising kids
+but I've seen it and it looks really hard.
+et je n'ai rien fait pour élever des enfants
+mais j'ai vu  ça et ça a l'air vraiment dur.
+
+And then there's always knowing that there's
+always more work waiting to be done.
+Et puis il y a toujours le fait de savoir qu'il y a
+toujours plus de travail à faire.
+
+But the truth is while it's more complicated,
+it's not really that much harder than high school.
+Mais la vérité est que même si c'est plus compliqué,
+ce n'est pas vraiment beaucoup plus difficile que le lycée.
+
+Most adults rarely have to take pop quizzes, or final exams, or ask permission to go to the bathroom,
+La plupart des adultes doivent rarement répondre à des questionnaires ou à des examens finaux, ou demander la permission d'aller aux toilettes, de
+
+wear orthodontics, have a curfew, live on
+an allowance, find a date for prom,
+porter de l'orthodontie, d'avoir un couvre-feu, de vivre avec
+une allocation, de trouver une date pour le bal
+
+or shower in a room full of people that they don't like, all while trying to build your first real lasting relationships.
+ou de prendre une douche dans une pièce remplie de personnes.  n'aime pas, tout en essayant de construire vos premières vraies relations durables.
+
+Yes, "real life" is tough but the ideal world
+of teenagers: not ideal.
+Oui, la "vraie vie" est dure mais le monde idéal
+des ados : pas idéal.
+
+Turns out that the biggest problem isn't so
+much that the pressure increases in "real life",
+Il s'avère que le plus gros problème n'est pas
+tant que la pression augmente dans la "vraie vie",
+
+you just have to learn a few new tricks to
+deal with it.
+il suffit d'apprendre quelques nouvelles astuces pour y
+faire face.
+
+And the same goes for gases.
+Et c'est pareil pour les gaz.
+
+[Theme Music]
+[Thème musical]
+
+Last week we discussed how you can identify certain qualities of gas by using the Ideal Gas Law. PV = nRT.
+La semaine dernière, nous avons discuté de la façon dont vous pouvez identifier certaines qualités de gaz en utilisant la loi des gaz parfaits.  PV = nRT.
+
+It states that the product of the pressure and the volume of a gas is equal to the number of moles of the gas,
+Il stipule que le produit de la pression et du volume d'un gaz est égal au nombre de moles du gaz,
+
+which we call n times universal gas constant
+called R times the temperature of the gas.
+que nous appelons n fois la constante universelle des gaz
+appelée R fois la température du gaz.
+
+R is always the same and if we know three of the other four things we can calculate the fourth one.
+R est toujours le même et si nous connaissons trois des quatre autres choses, nous pouvons calculer la quatrième.
+
+But the problem with that equation is that true to its name, it only works under hypothetical ideal circumstances.
+Mais le problème avec cette équation est que, fidèle à son nom, elle ne fonctionne que dans des circonstances idéales hypothétiques.
+
+In chemistry, as in all things, there's the
+best of all possible worlds,
+En chimie, comme dans toutes choses, il y a le
+meilleur des mondes possibles,
+
+which is usually easier and more fun to think
+about and then there's real life.
+ce qui est généralement plus facile et plus amusant à
+penser et puis il y a la vraie vie.
+
+To understand and describe how gases behave
+in real life, we need a few new tricks.
+Pour comprendre et décrire le comportement des gaz
+dans la vie réelle, nous avons besoin de quelques nouvelles astuces.
+
+And it was dutch scientist Johannes Diderik van der Waals who figured out those tricks for us.
+Et c'est le scientifique néerlandais Johannes Diderik van der Waals qui a trouvé ces astuces pour nous.
+
+Van der Waals was born in 1837 in the Netherlands,
+the first of 10 children.
+Van der Waals est né en 1837 aux Pays-Bas,
+le premier de 10 enfants.
+
+His father was a carpenter and working class kids weren't allowed to go to the fancy school that led to university.
+Son père était charpentier et les enfants de la classe ouvrière n'avaient pas le droit d'aller à l'école chic qui menait à l'université.
+
+Instead, he had to settle for advanced primary
+education, which ended when he was 15.
+Au lieu de cela, il a dû se contenter d'une éducation primaire avancée
+, qui s'est terminée à l'âge de 15 ans. Cependant,
+
+He didn't let that define him though, and
+instead of becoming a carpenter,
+il ne s'est pas laissé définir par cela et,
+au lieu de devenir charpentier,
+
+as most people would have in his position,
+he became a teacher's apprentice.
+comme la plupart des gens l'auraient fait à son poste,
+il est devenu apprenti enseignant.
+
+He worked hard and in time, went from apprentice
+to teacher,
+Il a travaillé dur et dans le temps, est passé d'apprenti
+à enseignant
+
+and eventually became the director of the
+whole school.
+et est finalement devenu le directeur de
+toute l'école.
+
+During those years, van der Waals continued
+educating himself, as well as his pupils,
+Au cours de ces années, van der Waals a continué à
+s'éduquer, ainsi que ses élèves,
+
+and he took advantage of every class he could
+possibly take.
+et il a profité de toutes les classes qu'il
+pouvait suivre.
+
+Over the course of many years he ended up taking more than enough courses in math and physics to earn a degree,
+Au cours de nombreuses années, il a fini par suivre plus qu'assez de cours de mathématiques et de physique pour obtenir un diplôme,
+
+but as he hadn't gone through the proper channels
+as a student, he wasn't allowed to have one.
+mais comme il n'avait pas suivi les voies appropriées en
+tant qu'étudiant, il n'était pas autorisé à en avoir un.
+
+So, why would he bother to study so hard with no obvious reward?
+Alors, pourquoi prendrait-il la peine d'étudier si dur sans récompense évidente ?
+
+Well, first of all, he just really loved physics.
+Eh bien, tout d'abord, il aimait vraiment la physique.
+
+But, more importantly, he was trying to answer
+a question.
+Mais, plus important encore, il essayait de répondre à
+une question.
+
+See, at that time, scientists only knew how to analyze the behavior of gases with the ideal gas law,
+Voyez, à cette époque, les scientifiques ne savaient analyser le comportement des gaz qu'avec la loi des gaz parfaits,
+
+just like you, at this point.
+tout comme vous, à ce stade.
+
+Most of those calculations produced very little
+error,
+La plupart de ces calculs produisaient très peu d'
+erreurs,
+
+but some scientists had noticed that when
+a gas was in a situation that crowds its particles,
+mais certains scientifiques avaient remarqué que
+lorsqu'un gaz se trouvait dans une situation qui encombrait ses particules,
+
+high pressure, low temperature, just high density, it starts to deviate from what the ideal gas law predicts.
+haute pression, basse température, juste haute densité, il commençait à s'écarter de ce que prédit la loi des gaz parfaits.
+
+They couldn't figure out why sometimes they
+got the wrong answer.
+Ils ne pouvaient pas comprendre pourquoi parfois ils
+avaient la mauvaise réponse.
+
+And van der Waals was determined to figure
+it out.
+Et van der Waals était déterminé à le
+comprendre.
+
+Finally at the age of 36, after trying for
+roughly two decades,
+Enfin, à l'âge de 36 ans, après avoir essayé pendant
+environ deux décennies,
+
+van der Waals was awarded a doctorate in theoretical
+physics.
+van der Waals a obtenu un doctorat en
+physique théorique.
+
+And even more exciting, by that time he had figured out the solution to the puzzle of real gas behavior.
+Et encore plus excitant, à ce moment-là, il avait trouvé la solution au casse-tête du comportement réel des gaz.
+
+In his doctoral thesis, he introduced his new gas law, which we now call the 'van der Waals Equation,'
+Dans sa thèse de doctorat, il a présenté sa nouvelle loi sur les gaz, que nous appelons maintenant l'« équation de van der Waals »,
+
+and explained why gases don't behave quite
+the way everyone thought they should.
+et a expliqué pourquoi les gaz ne se comportent pas tout à fait
+comme tout le monde pensait qu'ils le devraient.
+
+And in 1910 when he was 73 years old, he was
+awarded a Nobel Prize for his work,
+Et en 1910, alors qu'il avait 73 ans, il a
+reçu un prix Nobel pour son travail,
+
+and I'm glad they hurried it along because
+you can't get a Nobel Prize after you die.
+et je suis content qu'ils se soient précipités car
+vous ne pouvez pas obtenir de prix Nobel après votre mort.
+
+So, what exactly is the problem with this
+ideal gas law?
+Alors, quel est exactement le problème avec cette
+loi des gaz parfaits ?
+
+Well, if the two sides of the ideal gas law
+were equal all the time and for all gases,
+Eh bien, si les deux côtés de la loi des gaz parfaits
+étaient égaux tout le temps et pour tous les gaz,
+
+as we would expect for something called a
+law,
+comme on s'y attendrait pour quelque chose appelé une
+loi,
+
+then PV divided by nRT should equal 1, as any fraction in which the numerator and denominator are equal.
+alors PV divisé par nRT devrait être égal à 1, comme toute fraction dans laquelle le numérateur et le dénominateur sont  égal. 
+
+This relationship can be shown graphically,
+Cette relation peut être représentée graphiquement,
+
+but when you work with real gases in a real
+lab
+mais lorsque vous travaillez avec de vrais gaz dans un vrai
+laboratoire,
+
+it becomes apparent that the relationship
+isn't constant at all, much less equal to one.
+il devient évident que la relation
+n'est pas du tout constante, et encore moins égale à un.
+
+Instead, it changes with increasing pressure, and the amount that it changes is different for different gases.
+Au lieu de cela, il change avec l'augmentation de la pression, et la quantité qu'il change est différente pour différents gaz.
+
+So much for the whole constant thing.
+Voilà pour toute la chose constante.
+
+OK, let's just start over with the ideal
+gas law, and we'll work from there.
+OK, recommençons avec la
+loi des gaz parfaits, et nous travaillerons à partir de là.
+
+We create a closed system by sealing gas in
+a container so the amount of gas is constant.
+Nous créons un système fermé en scellant le gaz dans
+un récipient afin que la quantité de gaz soit constante.
+
+R is always constant, and for the purpose
+of this discussion,
+R est toujours constant, et pour les besoins
+de cette discussion,
+
+we'll assume that we're holding the temperature
+constant.
+nous supposerons que nous maintenons la température
+constante.
+
+So nothing here can change except for P and
+V.
+Donc rien ici ne peut changer sauf pour P et
+V.
+
+If the ideal gas law worked in all situations,
+Si la loi des gaz parfaits fonctionnait dans toutes les situations,
+
+any increase in pressure would cause the volume
+to decrease at an equal rate,
+toute augmentation de pression entraînerait
+une diminution du volume à un rythme égal,
+
+thus keeping the product of the two constant.
+maintenant ainsi le produit des deux constant.
+
+But as we saw on our graph, that's not really
+what happens.
+Mais comme nous l'avons vu sur notre graphique, ce n'est pas vraiment
+ce qui se passe.
+
+So...what does happen? Well let's ask our
+buddy, Johannes van der Waals.
+Alors... que se passe-t-il ?  Eh bien, demandons à notre
+pote, Johannes van der Waals.
+
+Van der Waal's solution depends on the existence
+and interaction of molecules.
+La solution de Van der Waal dépend de l'existence
+et de l'interaction des molécules.
+
+Now, we take that for granted today,
+Maintenant, nous tenons cela pour acquis aujourd'hui,
+
+but remember the existence of even atoms was
+disputed until Einstein proved it in 1905.
+mais rappelez-vous que l'existence d'atomes pairs a été
+contestée jusqu'à ce qu'Einstein le prouve en 1905.
+
+Few scientists in 1873 were prepared to accept
+the theory that required atoms not only to exist,
+Peu de scientifiques en 1873 étaient prêts à accepter
+la théorie qui exigeait que les atomes non seulement existent,
+
+but also to form molecules that interacted
+in complicated ways.
+mais aussi forment des molécules qui interagissent.
+de manière compliquée.
+
+So the problems with the ideal gas law do
+depend on interactions between molecules,
+Ainsi, les problèmes avec la loi des gaz parfaits
+dépendent des interactions entre les molécules, en
+
+specifically, two simple facts:
+particulier de deux faits simples :
+
+First, real gases aren't some sort of massless,
+mystical vapors.
+premièrement, les vrais gaz ne sont pas une sorte de
+vapeurs mystiques sans masse.
+
+They're made of real, physical particles that
+take up real, physical space.
+Ils sont constitués de particules physiques réelles qui
+occupent un espace physique réel.
+
+And the space that they take up deducts from
+the amount of space that's actually available
+Et l'espace qu'ils occupent déduit de
+la quantité d'espace réellement disponible
+
+inside the container they're in.
+à l'intérieur du conteneur dans lequel ils se trouvent.
+
+So when we talk about the volume in the ideal gas law, we need V not to be the volume of the container,
+Ainsi, lorsque nous parlons du volume dans la loi des gaz parfaits, nous avons besoin que V ne soit pas le volume du conteneur,
+
+but the volume of the container minus the space that the particles themselves are taking up.
+mais  le volume du récipient moins l'espace occupé par les particules elles-mêmes.
+
+So we have to create a correction for volume,
+and that correction is going to include n,
+Nous devons donc créer une correction pour le volume,
+et cette correction va inclure n,
+
+because it's proportional to the number of
+molecules in the container,
+car il est proportionnel au nombre de
+molécules dans le récipient,
+
+but also b, an experimentally determined constant
+that's different for every type of gas.
+mais aussi b, une constante déterminée expérimentalement
+qui est différente pour chaque type de gaz.
+
+Obviously gases with large atoms or molecules would need more correction than those with small particles,
+Évidemment, les gaz avec de gros atomes ou molécules auraient besoin de plus de correction que ceux avec de petites particules,
+
+and with that V is reduced to a more accurate
+value.
+et avec cela V est réduit à une valeur plus précise
+.
+
+Second, even though some people didn't want to accept it, particles in real gases are attracted to each other.
+Deuxièmement, même si certaines personnes ne voulaient pas l'accepter, les particules des gaz réels s'attirent les unes les autres.
+
+Even more so when they're close together.
+Encore plus quand ils sont proches.
+
+When they're crowded, they tend to stick closer
+together,
+Lorsqu'ils sont entassés, ils ont tendance à se resserrer les
+uns contre les autres
+
+and therefore hit the sides of the container
+less often, decreasing the internal pressure.
+et donc à frapper moins souvent les parois du récipient
+, ce qui diminue la pression interne.
+
+So, when we're figuring out the number for
+P,
+Ainsi, lorsque nous déterminons le nombre de
+P,
+
+we have to account for the decrease in pressure
+that's caused by those intermolecular attractions.
+nous devons tenir compte de la diminution de
+pression causée par ces attractions intermoléculaires.
+
+To correct the pressure, we start out with
+n and V
+Pour corriger la pression, nous commençons avec
+n et V
+
+because the amount of attraction depends on
+both of those factors.
+car la quantité d'attraction dépend
+de ces deux facteurs.
+
+In addition, they're both squared, for complicated
+reasons, having to do with how particles interact.
+De plus, ils sont tous les deux au carré, pour des
+raisons compliquées, liées à la façon dont les particules interagissent.
+
+Just trust me -- and van der Waals.
+Faites-moi confiance - et faites-moi confiance à van der Waals.
+
+You should trust him because he's much more
+trustworthy than I am.
+Tu devrais lui faire confiance car il est beaucoup plus
+digne de confiance que moi.
+
+The we include another experimentally determined constant that is again different for every gas.
+Ensuite, nous incluons une autre constante déterminée expérimentalement qui est à nouveau différente pour chaque gaz.
+
+Some types of atoms and molecules are more
+attracted to each other than other kinds are,
+Certains types d'atomes et de molécules sont plus
+attirés les uns vers les autres que d'autres,
+
+and the degree of attraction determines the
+value of a.
+et le degré d'attraction détermine la
+valeur de a.
+
+So, we add all of that to P and the formula
+ends up looking like this.
+Donc, nous ajoutons tout cela à P et la formule
+finit par ressembler à ceci.
+
+That's the corrected pressure times the corrected
+volume equals nRT.
+C'est la pression corrigée multipliée par le
+volume corrigé égal à nRT.
+
+And yeah, that is a long way to go to get
+to a corrected equation!
+Et oui, c'est un long chemin à parcourir pour arriver
+à une équation corrigée!
+
+I don't know about you, but I'm not gonna do all that work and then not use it, so let's try it out.
+Je ne sais pas pour vous, mais je ne vais pas faire tout ce travail et ne pas l'utiliser, alors essayons.
+
+Suppose we had a balloon with a volume of
+ten liters.
+Supposons que nous ayons un ballon d'un volume de
+dix litres.
+
+And, I know that that sounds like a lot, but
+it's only about this much - big balloon.
+Et, je sais que cela semble beaucoup, mais
+il ne s'agit que d'un gros ballon.
+
+How much pressure do you think the gas is
+exerting on the insides of the wall of the balloon?
+Selon vous, quelle pression le gaz
+exerce-t-il à l'intérieur de la paroi du ballon ?
+
+Well, let's try calculating it both ways.
+Eh bien, essayons de le calculer dans les deux sens.
+
+We will try it first with the ideal gas law.
+Nous allons d'abord l'essayer avec la loi des gaz parfaits.
+
+Our volume is 10.0 Liters, let's say I've put
+exactly 0.500 mole of nitrogen gas in this,
+Notre volume est de 10,0 litres, disons que j'y ai mis
+exactement 0,500 mole d'azote gazeux,
+
+R is always the same, and the temperature here is, let's just say, 21.50, which converts to 294.65 Kelvin.
+R est toujours le même, et la température ici est, disons simplement, de 21,50, ce qui se convertit en 294,65 Kelvin.
+
+If we do the calculation, round appropriately, we find that the answer is 122 kilopascals, OK?
+Si on fait le calcul, arrondi de façon appropriée, on trouve que la réponse est 122 kilopascals, d'accord ?
+
+But what does the van der Waals Equation tell
+us?
+Mais que nous dit l'équation de van der Waals
+?
+
+We have to plug in all the same numbers, plus
+the two correction factors.
+Nous devons brancher tous les mêmes nombres, plus
+les deux facteurs de correction.
+
+The pressure correction factor a for nitrogen gas is 139 kilopascals per liter square, mole square,
+Le facteur de correction de pression a pour l'azote gazeux est de 139 kilopascals par litre carré, mole carré,
+
+and the volume correction factor b is 0.039
+liters per mole.
+et le facteur de correction de volume b est de 0,039
+litre par mole.
+
+Do the math, round correctly, and you have
+122 kilopascals.
+Faites le calcul, arrondissez correctement et vous avez
+122 kilopascals.
+
+Well, that is disappointing.
+No difference at all.
+Eh bien, c'est décevant.
+Aucune différence.
+
+Stupid van der Waals!
+Stupide van der Waals !
+
+No, wait a minute!
+We talked about this.
+Non, attendez une minute !
+Nous en avons parlé.
+
+The Van der Waals equation is most important and most relevant at low temperatures and high pressures.
+L'équation de Van der Waals est la plus importante et la plus pertinente à basses températures et hautes pressions.
+
+So, how can we increase the pressure inside this balloon?
+Alors, comment pouvons-nous augmenter la pression à l'intérieur de ce ballon ?
+
+How can we get the gas particles closer together?
+Comment rapprocher les particules de gaz ?
+
+We know that pressure is caused by the gas molecules bumping against the inside of the container.
+Nous savons que la pression est causée par les molécules de gaz qui se cognent contre l'intérieur du récipient.
+
+We can make them bump around more often by
+increasing the temperature,
+Nous pouvons les faire se cogner plus souvent en
+augmentant la température
+
+or by crowding the same molecules into a smaller
+container.
+ou en regroupant les mêmes molécules dans un récipient plus petit
+.
+
+It's hard to keep track of the temperature
+inside this balloon,
+Il est difficile de suivre la température à l'
+intérieur de ce ballon,
+
+so let's try increasing the pressure by using
+a smaller balloon.
+alors essayons d'augmenter la pression en utilisant
+un ballon plus petit.
+
+Or, into a ping-pong ball!
+Ou, dans une balle de ping-pong !
+
+Now, this contains about 1.00 Liters of gas,
+and obviously I probably can't squeeze this
+Maintenant, cela contient environ 1,00 litre de gaz,
+et évidemment je ne peux probablement pas presser
+
+much gas into a container this size cause
+the ping-pong ball would explode...
+autant de gaz dans un récipient de cette taille car
+la balle de ping-pong exploserait...
+
+Probably.
+I'm not trying.
+Probablement.
+Je n'essaie pas.
+
+But we could certainly calculate how much pressure there would be if we did squeeze all of this gas into this container.
+Mais nous pourrions certainement calculer la pression qu'il y aurait si nous pressions tout ce gaz dans ce conteneur.
+
+Starting with the ideal gas law, plug in all
+the same numbers as before,
+En partant de la loi des gaz parfaits, branchez tous
+les mêmes chiffres qu'auparavant,
+
+except change the volume to 0.100 liters.
+sauf que vous modifiez le volume à 0,100 litre.
+
+Do the calculation and you'll find that it
+gives us 12,200 kilopascals of pressure.
+Faites le calcul et vous constaterez que cela
+nous donne 12 200 kilopascals de pression.
+
+Okay, that's not too surprising.
+D'accord, ce n'est pas trop surprenant.
+
+We have the same amount of gas in a container
+that's one hundredth the size of the first one.
+Nous avons la même quantité de gaz dans un conteneur
+qui fait un centième de la taille du premier.
+
+So it makes sense that it would exert 100
+times as much pressure.
+Il est donc logique qu'il exerce 100
+fois plus de pression.
+
+Now we've got to try it out with the van der
+Waals equation.
+Maintenant, nous devons l'essayer avec l'
+équation de van der Waals.
+
+If we plug all the appropriate values and correction factors into the van der Waals equation and do the calculation,
+Si nous insérons toutes les valeurs appropriées et les facteurs de correction dans l'équation de van der Waals et effectuons le calcul,
+
+we find that the gas in the small container
+actually exerts a pressure of 11,800 kilopascals.
+nous constatons que le gaz dans le petit
+récipient exerce en fait une pression de 11 800 kilopascals.
+
+So it really does matter!
+Alors c'est vraiment important !
+
+That's a difference of 3,000 kilopascals from
+what we would expect using the ideal gas law alone!
+C'est une différence de 3 000 kilopascals par rapport à
+ce à quoi nous nous attendrions en utilisant uniquement la loi des gaz parfaits !
+
+And that kind of mistake isn't not a huge
+problem when you're just blowing up balloons,
+Et ce genre d'erreur n'est pas un énorme
+problème lorsque vous gonflez des ballons,
+
+but it definitely would be a problem if you
+were taking measurements in a lab,
+mais ce serait certainement un problème si
+vous preniez des mesures dans un laboratoire
+
+or planning a mission to the bottom of the
+Marianas Trench.
+ou planifiiez une mission au fond de la
+fosse des Mariannes.
+
+Pretty impressive stuff for a guy who wasn't allowed a normal education because society was like,
+Des trucs assez impressionnants pour un gars qui n'avait pas le droit à une éducation normale parce que la société disait :
+
+"Oh, your dad's a carpenter..."
+"Oh, ton père est charpentier..."
+
+I'm totally impressed by all that van der
+Waals has taught us about real gases,
+Je suis totalement impressionné par tout ce que van der
+Waals nous a appris sur les vrais gaz,
+
+but I think it's also important to remember
+the lesson we can learn from his life.
+mais je  pense qu'il est également important de se souvenir de
+la leçon que nous pouvons tirer de sa vie.
+
+Don't give up on your dreams.
+Seriously.
+N'abandonnez pas vos rêves.
+Sérieusement. 
+
+You never know where they're going to take
+you.
+Vous ne savez jamais où ils vont vous emmener
+.
+
+Thank you for watching this episode of Crash
+Course Chemistry.
+Merci d'avoir regardé cet épisode de Crash
+Course Chemistry.
+
+If you were paying attention,
+Si vous faisiez attention,
+
+you learned that the constants in the gas law aren't really all that constant when stuff gets real,
+vous avez appris que les constantes de la loi des gaz ne sont pas vraiment constantes lorsque les choses deviennent réelles,
+
+that the ideal gas law has to be corrected for volume because atoms and molecules take up space
+que la loi des gaz parfaits doit être corrigée pour le volume car les atomes et les molécules occupent de l'espace
+
+and for pressure because they're attracted
+to each other.
+et pour la pression car ils  sont attirés l'un
+vers l'autre.
+
+And that Einstein was behind a lot more of
+what we know today than most people realize.
+Et qu'Einstein était derrière beaucoup plus de
+ce que nous savons aujourd'hui que la plupart des gens ne le pensent.
+
+You also learned that the correction factors
+of the van der Waals equation really do matter,
+Vous avez également appris que les facteurs
+de correction de l'équation de van der Waals comptent vraiment,
+
+but only under specific conditions and that
+you should never give up just because things
+mais uniquement dans des conditions spécifiques et que
+vous ne devriez jamais abandonner simplement parce que les choses
+
+are hard or people think your ideas are crazy.
+sont difficiles ou que les gens pensent que vos idées sont folles.
+
+Because, in the end, they may just turn out
+to be right.
+Parce qu'en fin de compte, il se peut qu'ils
+aient raison.
+
+This episode of Crash Course Chemistry was
+written by Edi Gonzalez.
+Cet épisode de Crash Course Chemistry a été
+écrit par Edi Gonzalez.
+
+The script was edited by Blake de Pastino
+and myself.
+Le script a été édité par Blake de Pastino
+et moi-même.
+
+And our chemistry consultant was Dr. Heiko
+Langner.
+Et notre consultant en chimie était le Dr Heiko
+Langner.
+
+It was filmed, edited, and directed by Nicholas
+Jenkins.
+Il a été filmé, monté et réalisé par Nicholas
+Jenkins.
+
+Our script supervisor and sound designer is
+Michael Aranda.
+Notre scénariste et concepteur sonore est
+Michael Aranda.
+
+And our graphics team is Thought Cafe.
+Et notre équipe graphique est Thought Cafe.
+
+That didn't go as far as I thought it was
+going to.
+Cela n'est pas allé aussi loin que je le
+pensais.
+

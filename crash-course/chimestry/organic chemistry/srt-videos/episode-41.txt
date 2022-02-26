@@ -1,0 +1,1036 @@
+you can review content from crash course
+vous pouvez revoir le contenu du cours
+
+organic chemistry with the crash course
+accéléré de chimie organique avec l'
+
+app available now for android and ios
+application de cours accéléré disponible maintenant pour les appareils Android et ios
+
+devices
+
+hi i'm daboki chakravarti and welcome to
+salut je suis daboki chakravarti et bienvenue au cours accéléré de
+
+crash course organic chemistry eating a
+chimie organique manger une
+
+balanced diet is important because there
+alimentation équilibrée est important car il
+
+are some organic compounds that our
+y a des composés organiques dont notre
+
+bodies need but can't make from scratch
+corps a besoin  mais ne peut pas fabriquer à partir de zéro
+
+like vitamins so we get them or
+comme des vitamines, nous les obtenons donc ou des
+
+precursors of them in our diet let's
+précurseurs de celles-ci dans notre alimentation. regardons la
+
+look at vitamin a for example which is
+vitamine a par exemple qui se
+
+found in meat fish eggs and dairy
+trouve dans la viande, les œufs de poisson et les
+
+products if you don't have enough
+produits laitiers si vous n'avez pas assez de
+
+vitamin a in your body you can get all
+vitamine a dans votre corps vous  peut avoir toutes
+
+sorts of health problems including night
+sortes de problèmes de santé, y compris la cécité nocturne, l'
+
+blindness infertility and frequent
+infertilité et les
+
+infections one solution to fight vitamin
+infections fréquentes une solution pour lutter contre la carence en
+
+a deficiency around the world is a type
+vitamine a dans le monde est un type
+
+of rice that has been genetically
+de riz qui a été génétiquement
+
+engineered to produce beta-carotene a
+modifié pour produire du bêta-carotène un
+
+chemical precursor for vitamin a
+précurseur chimique de la vitamine a le
+
+beta-carotene is also the orangy pigment
+bêta-carotène est également  le pigment orangé
+
+in carrots so this rice has an orangy
+dans les carottes, donc ce riz a une
+
+color and has acquired the name golden
+couleur orangée et a acquis le nom de riz doré,
+
+rice but why does beta-carotene look
+mais pourquoi le bêta-carotène a-t-il l'air
+
+orange and why don't other chemicals the
+orange et pourquoi  pas d'autres produits chimiques, la
+
+key is its conjugated electron system
+clé est son système d'électrons conjugués
+
+and that's what we're exploring today
+et c'est ce que nous explorons aujourd'hui.
+
+[Music]
+
+in episode 36 we talked about benzene
+
+rings in conjugation when a molecule has
+
+alternating single and double carbon
+
+bonds conjugated alkenes are stable
+
+because of all those overlapping pi
+ces liaisons pi qui se chevauchent
+
+bonds one way to think about this is to
+une façon d'y penser est de
+
+look at the possible resonance
+regarder les
+
+structures resonance stabilizes
+structures de résonance possibles la résonance stabilise les
+
+molecules we can prove the stability by
+molécules nous pouvons prouver la stabilité en
+
+looking at the thermodynamics too
+regardant la thermodynamique aussi les
+
+alkenes can be converted into alkanes by
+alcènes peuvent être convertis en alcanes par
+
+hydrogenation where we add hydrogen
+hydrogénation où nous ajoutons de l'hydrogène à
+
+across the double bond
+travers la double
+
+this is done with hydrogen gas and a
+liaison c'est  fait avec de l'hydrogène gazeux et un
+
+catalyst usually palladium on carbon or
+catalyseur généralement du palladium sur du carbone ou du
+
+platinum if we hydrogenate an alkene
+platine si nous hydrogénons un alcène
+
+with one double bond like butane the
+avec une double liaison comme le butane, le
+
+enthalpy change is negative 127
+changement d'enthalpie est négatif de 127
+
+kilojoules per mole but if we
+kilojoules par mole mais si nous
+
+hydrogenate an alkene with two double
+hydrogénons un alcène avec deux doubles
+
+bonds conjugation can begin to play a
+liaisons, la conjugaison peut commencer à jouer un
+
+part
+rôle
+
+now depending on the size of the
+maintenant selon la taille de la
+
+molecule two double bonds can be
+molécule deux doubles liaisons peuvent être
+
+alternating or not so let's start by
+alternées ou non alors commençons par
+
+looking at the hydrogenation of penta14
+l  en regardant l'hydrogénation du penta14
+
+where the double bonds aren't
+où les doubles liaisons ne sont pas
+
+alternating the enthalpy change is
+alternées, le changement d'enthalpie est
+
+negative 252 kilojoules per mole which
+négatif de 252 kilojoules par mole, ce qui
+
+is pretty close to double what we got
+est assez proche du double de ce que nous avons obtenu
+
+for butane but if we hydrogenate 1 3
+pour le butane, mais si nous hydrogénons 1 3
+
+butadiene with alternating double bonds
+butadiène avec des doubles liaisons alternées,
+
+the measured enthalpy change is only
+le changement d'enthalpie mesuré est  seulement
+
+negative 237 kilojoules per mole that's
+237 kilojoules négatifs par mole, soit
+
+15 less than for penta 1 4 diene
+15 de moins que pour le penta 1 4 diène,
+
+this shows experimentally how conjugated
+cela montre expérimentalement comment les
+
+double bonds of 1 3 3-butadiene
+doubles liaisons conjuguées de 1 3 3-butadiène
+
+stabilize the molecule so we can see how
+stabilisent la molécule afin que nous puissions voir comment la
+
+conjugation stabilizes a molecule
+conjugaison stabilise une molécule à
+
+through resonance structures and
+travers les structures de résonance et la
+
+measuring enthalpy but we can also zoom
+mesure de l'enthalpie mais nous pouvons aussi
+
+in further to look at the physics of the
+zoomez davantage pour regarder la physique des
+
+covalent bonds remember a covalent bond
+liaisons covalentes rappelez-vous qu'une liaison covalente
+
+is when two atoms share a pair of
+est lorsque deux atomes partagent une paire d'
+
+electrons metaphorically we can think of
+électrons métaphoriquement, nous pouvons penser à
+
+a covalent bond as a marriage like a
+une liaison covalente comme un mariage comme un
+
+perfectly normal marriage between an
+mariage parfaitement normal entre un
+
+all-powerful mutant wish and a sentient
+souhait mutant tout-puissant et un
+
+ai in a vibranium synthesized body
+ai sensible dans un corps synthétisé en vibranium,
+
+opposite charges attract so there are
+les charges opposées s'attirent donc il y a
+
+attractive forces between the negatively
+des forces d'attraction entre le
+
+charged electrons and the positively
+c négatif  les électrons chargés et les
+
+charged nuclei in the atoms these are
+noyaux chargés positivement dans les atomes ce sont
+
+the forces bringing our happy couple
+les forces qui réunissent notre couple heureux
+
+together but like charges repel each
+mais comme les charges se
+
+other so electrons repel other electrons
+repoussent donc les électrons repoussent les autres électrons
+
+and atomic nuclei repel other nuclei
+et les noyaux atomiques repoussent les autres noyaux
+
+these are the forces like the
+ce sont les forces comme les
+
+never-ending stresses of being a
+contraintes sans fin d'être un
+
+superhero that can pull our couple apart
+super-héros  qui peut séparer notre couple
+
+like any relationship the forces that go
+comme toute relation, les forces qui entrent
+
+into a covalent bond are carefully
+dans une liaison covalente sont soigneusement
+
+balanced for it to work
+équilibrées pour que cela fonctionne,
+
+so let's look at what happens when two
+alors regardons ce qui se passe lorsque deux
+
+lone p orbitals combine to make the
+orbitales p isolées se combinent pour former l'
+
+molecular orbital of a carbon-carbon
+orbitale moléculaire d'une double liaison carbone-carbone
+
+double bond p orbitals are sort of
+orbitales p  sont en quelque sorte en forme de
+
+hourglass shaped they've got a node in
+sablier, ils ont un nœud
+
+the middle where no electrons can exist
+au milieu où aucun électron ne peut exister
+
+because there's a change of phase
+parce qu'il y a un changement de phase
+
+in organic chemistry we don't need to
+dans la chimie organique, nous n'avons pas besoin de nous
+
+worry about the nitty-gritty of what a
+soucier des détails concrets de ce qu'est une
+
+phase is it has to do with quantum
+phase avec laquelle elle a à voir
+
+mechanics
+mécanique quantique,
+
+we just need to know that there are two
+nous avons juste besoin de savoir qu'il existe deux
+
+phases which are usually shown with
+phases qui sont généralement représentées avec des
+
+shading or different colors and diagrams
+ombres ou des couleurs et des diagrammes différents
+
+when 2p atomic orbitals overlap we form
+lorsque les orbitales atomiques 2p se chevauchent, nous formons
+
+two pi molecular orbitals but there are
+deux  orbitales moléculaires pi mais il existe
+
+two different types of pi molecular
+deux types différents d'orbitales moléculaires pi en
+
+orbital depending on how the phases of
+fonction de la façon dont les phases de
+
+each p atomic orbital are oriented when
+chaque orbitale atomique p sont orientées lorsque
+
+the lobes of the two p orbitals are the
+les lobes des deux orbitales p sont de la
+
+same phase they overlap constructively
+même phase, elles se chevauchent de manière constructive
+
+and we form a bond between the two atoms
+et nous formons une liaison entre les deux atomes
+
+the attractive forces between the
+le  les forces attractives entre les
+
+electrons and the nuclei outweigh the
+électrons et les noyaux l'emportent sur les
+
+other repulsive forces we call this a
+autres forces répulsives, nous appelons cela une
+
+bonding orbital and it results in a net
+orbitale de liaison et il en résulte une
+
+lowering of energy if the lobes of the
+diminution nette de l'énergie si les lobes des
+
+two p orbitals are in different phases
+deux orbitales p sont dans des phases différentes,
+
+the nuclei may be close together in
+les noyaux peuvent être proches les uns des autres dans l'
+
+space but there aren't any attractive
+espace mais il  n'y a pas d'
+
+interactions and there's one of those
+interactions attractives et il y a un de ces
+
+zero electron density nodes between them
+nœuds de densité électronique nulle entre eux,
+
+the repulsive forces went out over the
+les forces répulsives sont sorties sur les
+
+attractive forces and the result is even
+forces attractives et le résultat est encore
+
+less stable than two non-bonded atoms so
+moins stable que deux atomes non liés,
+
+we call this an anti-bonding orbital
+nous appelons donc cela une orbitale anti-liaison
+
+imagine the parents of the groom have
+imaginez le  les parents du marié
+
+been through an acrimonious divorce and
+ont traversé un divorce acrimonieux et ont
+
+refused to talk to each other but are
+refusé de se parler mais sont
+
+forced to sit on the same table at
+obligés de s'asseoir sur la même table au
+
+dinner you can practically feel the
+dîner, vous pouvez  ressentez pratiquement la
+
+tension and it's higher in energy
+tension et son énergie est plus élevée.
+
+orbitals are a one in one out kind of
+
+situation one atomic orbital equals one
+
+molecular orbital two atomic orbitals
+
+combining equals two molecular orbitals
+
+like we just saw and so on each orbital
+
+of any kind can hold two electrons and
+et
+
+the lowest energy orbitals fill up first
+les orbitales les plus énergétiques se remplissent en premier,
+
+so if we start taking our atomic orbital
+donc si nous commençons à prendre nos électrons orbitaux atomiques
+
+electrons and slotting them into
+et à les insérer dans
+
+molecular orbitals will usually run out
+des orbitales moléculaires, ils s'épuiseront généralement
+
+before we fill the highest energy
+avant de remplir les orbitales les plus énergétiques,
+
+orbitals you can think of any marriage
+vous pouvez considérer tout mariage
+
+as a balance between good moments and
+comme un équilibre entre les bons moments et les
+
+bad ones so in the case of an atomic
+mauvais, donc  dans le cas d'une
+
+bond it's a balance between bonding
+liaison atomique, c'est un équilibre entre les
+
+orbitals and anti-bonding orbitals the
+orbitales de liaison et les orbitales anti-liaison, les orbitales de liaison à
+
+low energy bonding orbitals fill up
+basse énergie se remplissent d'
+
+first adding to the pile of good moments
+abord en ajoutant à la pile de bons moments,
+
+but if too many electrons end up in high
+mais si trop d'électrons se retrouvent dans des
+
+energy anti-bonding orbitals the bond or
+orbitales anti-liaison à haute énergie, la liaison ou
+
+marriage becomes unstable with bad
+le mariage devient instable avec de mauvais
+
+moments let's say we're looking at a
+moments disons que nous regardons une
+
+conjugated molecule like 1 3 butadiene
+molécule conjuguée comme 1 3 butadiène
+
+each carbon atom has sp2 hybridization
+chaque atome de carbone a sp2 hybridizati  sur l'
+
+plus a p orbital the basic principle
+orbite plus ap le principe de base
+
+stays the same butadiene has four p
+reste le même le butadiène a quatre
+
+atomic orbitals and therefore four pi
+orbitales atomiques p et donc quatre
+
+molecular orbitals but all these
+orbitales moléculaires pi mais toutes ces
+
+molecular orbitals are a little
+orbitales moléculaires sont un peu
+
+different and we can picture those
+différentes et nous pouvons imaginer ces
+
+differences by imagining a wedding cake
+différences en imaginant un gâteau de mariage
+
+in the case of butadiene with four pi
+dans le cas du butadiène avec quatre pi
+
+molecular orbitals we have four tiers
+orbitales moléculaires nous avons quatre niveaux
+
+each tier is a molecular orbital the
+chaque niveau est une orbitale moléculaire le
+
+bottom tier of our cake is decorated in
+niveau inférieur de notre gâteau est décoré dans
+
+an ordered consistent pattern the
+un motif cohérent ordonné les
+
+designs or p atomic orbital phases are
+conceptions ou les phases orbitales atomiques p sont
+
+all aligned the same way
+toutes alignées de la même manière
+
+this forms a low energy bonding
+cela forme une orbitale moléculaire de liaison à faible énergie
+
+molecular orbital and this bottom tier
+et ce niveau inférieur
+
+is the most low energy and stable it has
+est la plus basse énergie et la plus stable qu'elle
+
+to be because the rest of the cake is on
+doit être parce que le reste du gâteau est
+
+top of it the next here is decorated
+dessus le suivant ici est décoré
+
+with two designs two up two down
+de deux motifs deux en haut deux en bas
+
+two of the p atomic orbitals are one way
+deux des orbitales atomiques p sont dans un sens
+
+and two are the other way so our second
+et deux sont dans l'autre sens donc  notre deuxième
+
+tier is stable another bonding molecular
+niveau est stable une autre orbitale moléculaire de liaison
+
+orbital but it's a little bit less
+mais c'est un peu moins
+
+foundational than our bottom layer the
+fondamental que notre couche inférieure le
+
+third tier is also decorated with two
+troisième niveau est également décoré de deux
+
+designs two up two down but they're more
+motifs deux  en haut deux en bas mais ils sont plus
+
+split up so we're getting a little more
+divisés donc nous obtenons un peu plus d'
+
+high energy and precarious here this
+énergie et de précarité ici cette
+
+layer is an anti-bonding molecular
+couche est une orbitale moléculaire anti-liaison
+
+orbital finally the top tier of our cake
+enfin le niveau supérieur de notre gâteau
+
+is the most unstable layer and the
+est la couche la plus instable et la
+
+highest in energy
+plus élevée en énergie
+
+all the atomic orbitals are out of phase
+tous  les orbitales atomiques sont déphasées
+
+with each other and this is also an
+les unes par rapport aux autres et il s'agit également d'une
+
+anti-bonding molecular orbital so this
+orbitale moléculaire anti-liaison, donc cette
+
+tasty representation of butadiene
+représentation savoureuse du butadiène
+
+captures the basic idea of molecular
+capture l'idée de base des
+
+orbital energy levels but we can state
+niveaux d'énergie orbitale moléculaire, mais nous pouvons également les
+
+them as non-cake based rules too each
+énoncer comme des règles non basées sur le gâteau chaque
+
+energy level adds an extra node to the
+niveau d'énergie  ajoute un nœud supplémentaire aux
+
+molecular orbitals
+orbitales moléculaires
+
+also the orbitals are symmetrical so
+également les orbitales sont symétriques donc
+
+when there's a single node it has to go
+quand il y a un seul nœud, il doit
+
+right through the middle but where
+passer par le milieu mais
+
+there's more than one the nodes are
+là où il y en a plus d'un, les nœuds sont
+
+spaced out evenly like we said earlier
+espacés uniformément comme nous l'avons dit plus tôt
+
+all these molecular orbitals exist but
+toutes ces orbitales moléculaires existent mais
+
+not all of them are full of electrons
+pas  tous sont pleins d'électrons
+
+and that fullness is a big factor in the
+et cette plénitude est un facteur important dans la
+
+stability of our wedding cake or our
+stabilité de notre gâteau de mariage ou de notre
+
+molecule to talk about which molecular
+molécule pour parler des
+
+orbitals are full or empty we use the
+orbitales moléculaires pleines ou vides que nous utilisons t  il
+
+terms highest occupied molecular orbital
+appelle l'orbitale moléculaire occupée la plus élevée
+
+or homo and the lowest unoccupied
+ou homo et l'orbitale moléculaire inoccupée la plus basse
+
+molecular orbital or lumo one three
+ou lumo un trois
+
+betadine has four p atomic orbitals so
+bétadine a quatre orbitales atomiques p donc
+
+these four electrons fill up the first
+ces quatre électrons remplissent les
+
+two tiers of our cake which are low
+deux premiers niveaux de notre gâteau qui sont des
+
+energy bonding orbitals the homo is a
+orbitales de liaison à faible énergie l'homo est une
+
+bonding orbital and as we'd expect
+orbitale de liaison et  comme nous nous attendions à ce que le
+
+butadiene is nice and stable stepping
+butadiène soit agréable et stable,
+
+out of metaphors and into the lab
+sortir des métaphores et entrer dans le laboratoire les
+
+conjugated molecules allow us to use a
+molécules conjuguées nous permettent d'utiliser une
+
+new imaging technique ultraviolet
+nouvelle technique d'imagerie la spectroscopie ultraviolette dont
+
+spectroscopy we've talked about
+nous avons déjà parlé
+
+spectroscopy before in this series
+dans cette série en
+
+looking at the electromagnetic spectrum
+examinant le spectre électromagnétique l'
+
+ultraviolet falls between about 200 and
+ultraviolet se situe entre environ 200  et
+
+400 nanometers from the blue end of
+400 nanomètres de l'extrémité bleue de
+
+visible light to x-rays when you throw
+la lumière visible aux rayons X lorsque vous projetez de
+
+electromagnetic energy at a molecule it
+l'énergie électromagnétique sur une molécule,
+
+either absorbs that energy or not
+elle absorbe cette énergie ou non les
+
+absorptions are often interesting
+absorptions sont souvent intéressantes
+
+because they give us a clue to the
+car elles nous donnent un indice sur la
+
+structure of the molecule so let's look
+structure de la molécule alors
+
+at what happens when a conjugated
+regardons ce  se produit lorsqu'une
+
+molecule like butadiene is exposed to uv
+molécule conjuguée comme le butadiène est exposée à la
+
+light in the ground state the two lowest
+lumière UV à l'état fondamental les deux
+
+energy bonding molecular orbitals of
+énergies les plus basses  les orbitales moléculaires de liaison du
+
+butadiene are occupied but when
+butadiène sont occupées, mais lorsque le
+
+butadiene is exposed to certain
+butadiène est exposé à certaines
+
+wavelengths of uv that energy is
+longueurs d'onde d'uv, cette énergie est
+
+absorbed and electrons jump up from
+absorbée et les électrons sautent des
+
+lower energy occupied orbitals to higher
+orbitales occupées à faible énergie vers des orbitales à
+
+energy ones for example a pi electron
+énergie plus élevée, par exemple, un électron pi
+
+can jump from the homo to the lumo
+peut sauter de l'homo au lumo
+
+because the electron goes from a bonding
+parce que l'électron  passe d'une
+
+pi molecular orbital to an anti-bonding
+orbitale moléculaire pi de liaison à une orbitale moléculaire pi anti-liaison
+
+pi molecular orbital this kind of jump
+ce type de
+
+is called a pi to pi star excitation for
+saut s'appelle une excitation d'étoile pi à pi pour le
+
+butadiene we know the exact wavelength
+butadiène nous connaissons la longueur d'onde exacte
+
+of uv light that leads to pi to pi star
+de la lumière uv qui conduit à l'excitation d'étoile pi à pi
+
+excitation 217 nanometers but other
+217 nanomètres mais d'autres
+
+conjugated systems also have
+conjugués  les systèmes ont également des
+
+characteristic uv absorptions the
+absorptions UV caractéristiques la
+
+wavelength changes depending on the gap
+longueur d'onde change en fonction de l'écart
+
+between the homo and lumo which depends
+entre l'homo et le lumo qui dépend
+
+on the conjugated electron system
+du système d'électrons conjugués en
+
+specifically the energy difference
+particulier la différence d'énergie
+
+between the homo and lumo decreases as
+entre l'homo et le lumo diminue à mesure que
+
+the conjugation increases the spectrum
+la conjugaison augmente le spectre
+
+looks a little bit like an ir spectrum
+ressemble un peu à un spectre ir
+
+but in ir spectroscopy peaks at
+mais  dans les pics de spectroscopie ir à
+
+different wavelengths indicate different
+différentes longueurs d'onde indiquent différentes
+
+sorts of bonding arrangements uv
+sortes de liaison un  la spectroscopie uv
+
+spectroscopy tells us specifically about
+nous renseigne spécifiquement sur les
+
+molecules with conjugated pi systems and
+molécules avec des systèmes pi conjugués et
+
+the spectra are often only a single peak
+les spectres ne sont souvent qu'un seul pic
+
+the amount of uv light absorbed is the
+la quantité de lumière uv absorbée est l'
+
+sample's molar absorptivity it's
+absorptivité molaire de l'échantillon elle est
+
+represented by the symbol epsilon and
+représentée par le symbole epsilon et
+
+this equation molar adjectivity is a
+cette équation l'adjectivité molaire est une
+
+characteristic of a particular pi
+caractéristique d'un pi particulier
+
+electron system
+système électronique en
+
+assuming we can measure or look up the
+supposant que nous pouvons mesurer ou rechercher les
+
+other variables we can use this equation
+autres variables, nous pouvons utiliser cette équation
+
+to figure out the concentration of our
+pour déterminer la concentration de notre
+
+sample really quick for example let's go
+échantillon très rapidement, par exemple,
+
+back to golden rice
+revenons au riz doré,
+
+say we have a sample and we'd like to
+disons que nous avons un échantillon et que nous aimerions
+
+measure how much beta-carotene it has
+mesurer la quantité de bêta  -carotène qu'il a en
+
+using uv spectroscopy because beta
+utilisant la spectroscopie uv parce que le bêta-
+
+carotene is a conjugated molecule so we
+carotène est une molécule conjuguée, donc nous
+
+mush up the rice use a specific volume
+écrasons le riz en utilisant un volume spécifique
+
+of organic solvent to extract the
+de solvant organique pour extraire le
+
+beta-carotene and pop this liquid sample
+bêta-carotène et faire entrer cet échantillon liquide
+
+into our spectrophotometer we can look
+dans notre spectrophotomètre, nous pouvons
+
+up that beta-carotene has a molar
+rechercher ce bêta-carotène a  une
+
+absorptivity of 138 000
+absorptivité molaire de 138 000
+
+from our experiment we know the path
+de notre expérience, nous savons que la
+
+length of the cell is 1.0 centimeters
+longueur du trajet de la cellule est de 1,0 centimètres
+
+and we measure the uv absorbance as 0.37
+et nous mesurons les uv  l'absorbance est de 0,37,
+
+so the concentration is 2.7 times 10 to
+donc la concentration est de 2,7 fois 10
+
+the negative 6 moles per liter
+au négatif 6 moles par litre
+
+pretty neat now we could end the episode
+assez bien maintenant nous pourrions terminer l'épisode
+
+here with uv spectroscopy but
+ici avec la spectroscopie uv mais le
+
+beta-carotene doesn't just absorb uv
+bêta-carotène n'absorbe pas seulement la
+
+light its conjugated electron system can
+lumière uv son système d'électrons conjugués peut
+
+also absorb light in the visible
+également absorber la lumière dans le
+
+spectrum which explains why it and a
+spectre visible qui explique pourquoi il et une
+
+handful of other organic chemicals are
+poignée d'autres produits chimiques organiques sont
+
+colorful as you can see with a prism or
+colorés comme vous pouvez le voir avec un prisme ou
+
+in the sky when sunlight hits
+dans le ciel lorsque la lumière du soleil frappe
+
+atmospheric ice crystals just right
+les cristaux de glace atmosphériques,
+
+white light is made up of light
+la lumière blanche juste est composée de
+
+wavelengths that span all colors of the
+longueurs d'onde lumineuses qui couvrent toutes les couleurs de l'
+
+rainbow when an organic molecule like
+arc-en-ciel lorsque  une molécule organique comme le
+
+beta carotene looks orange to us that
+bêta-carotène nous semble orange, ce qui
+
+means orange wavelengths of light are
+signifie que les longueurs d'onde orange de la lumière
+
+reaching our eyes so blue light the
+atteignent nos yeux, donc la lumière bleue la
+
+complementary color is being absorbed by
+couleur complémentaire est absorbée par
+
+the molecule we're effectively seeing
+la molécule, nous voyons effectivement
+
+white light with the blue and violet
+la lumière blanche avec les
+
+wavelengths taken out in fact our eyes
+longueurs d'onde bleue et violette retirées en fait notre  les yeux
+
+rely on lots of chemical reactions that
+dépendent de nombreuses réactions chimiques qui
+
+involve conjugated molecules our eyes
+impliquent des molécules conjuguées nos yeux
+
+have two types of light-sensitive cells
+ont deux types de cellules sensibles à la lumière les
+
+cones and rods
+cônes et les bâtonnets les
+
+cones help us perceive colors while rods
+cônes il  nous percevons les couleurs tandis que les bâtonnets
+
+help us see in dim light in the
+nous aident à voir dans la pénombre dans les
+
+photoreceptor cells of the eye a
+cellules photoréceptrices de l'œil un
+
+component of vitamin a called 11-cyst
+composant de la vitamine a appelé
+
+retinal along with a large protein
+rétinien à 11 kystes avec une grande
+
+molecule is converted into a
+molécule de protéine est convertie en un
+
+light-sensitive compound called
+composé sensible à la lumière appelé
+
+rhodopsin which is why vitamin a
+rhodopsine, c'est pourquoi la vitamine a
+
+deficiency can cause night blindness
+une carence peut provoquer la cécité nocturne
+
+when light hits the rod cells
+lorsque la lumière frappe les cellules en bâtonnets l'
+
+isomerization occurs at the double bond
+isomérisation se produit au niveau de la double liaison
+
+between the 11th and 12th carbons this
+entre les carbones 11 et 12 ce
+
+change from z isomer to e isomer causes
+changement de l'isomère z à l'isomère e provoque le passage d'
+
+a nerve impulse to travel through the
+une impulsion nerveuse à travers le
+
+optic nerve to the brain where amazingly
+nerf optique jusqu'au cerveau où
+
+our brain translates it into vision in
+notre cerveau le traduit étonnamment  en vision dans
+
+this episode we've learned that
+cet épisode, nous avons appris que la
+
+conjugation delocalizes electrons and
+conjugaison délocalise les électrons et
+
+stabilizes molecules
+stabilise les molécules
+
+p atomic orbitals overlap to form pi
+p les orbitales atomiques se chevauchent pour former
+
+molecular orbitals of different energy
+des orbitales moléculaires pi de différents
+
+levels and uv spectroscopy can help us
+niveaux d'énergie et la spectroscopie UV peut nous aider à
+
+determine the concentration of
+déterminer la concentration de
+
+conjugated molecules next time we'll
+molécules conjuguées la prochaine fois que nous
+
+talk more about molecular orbitals when
+parlerons davantage de molécules  orbitales lorsque
+
+we discuss paracyclic reactions thanks
+nous discutons de réactions paracycliques merci
+
+for watching this episode of crash
+d'avoir regardé cet épisode du
+
+course organic chemistry if you want to
+cours accéléré organique c  hemistry si vous voulez
+
+help keep all crash course free for
+aider à garder tous les cours intensifs gratuits pour
+
+everybody forever you can join our
+tout le monde pour toujours, vous pouvez rejoindre notre
+
+community on patreon
+communauté sur patreon
+

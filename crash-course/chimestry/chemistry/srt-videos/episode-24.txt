@@ -1,0 +1,469 @@
+So models are cool. Not...those models.
+
+I actually find that particular cultural institution
+pretty peculiar.
+
+I'm talking about the kind of model that lets you experience things you otherwise couldn't experience.
+
+Maybe it's something that's too big to see all at once, like our solar system, or too small, like a cell,
+
+or something that unfortunately doesn't exist,
+like the Millennium Falcon.
+
+Or something that would just be way too dangerous
+to have in your office, like a trebuchet.
+
+Sometimes it is difficult, maybe even impossible, to really understand things fully without making a model.
+
+But models don't have to be three-dimensional
+objects.
+
+In scientific terms, a model is anything that represents something else, whether it's physical or conceptual.
+
+In the same way that musical notes on a page
+are a model for music, the same goes for chemistry.
+
+Chemists use many models, or simplified versions
+of reality,
+
+to help them understand atoms and their interactions.
+
+Because the universe is weird.
+
+This ball-and-stick model is one idea of a
+molecule —
+
+perfectly spherical atoms connected by clearly
+defined bonds.
+
+This version of a molecule is a great way
+to begin understanding chemical bonds.
+
+But I gotta take you beyond beginners' stuff to understand some models that explain bonds with more delightful complexity.
+
+Digging into the details requires models that are more complicated, but also more fascinatingly awesome.
+
+So while this episode of Crash Course Chemistry
+won't involve any Brazilians in swimsuits,
+
+I promise you will not be disappointed.
+
+[Theme Music]
+
+It turns out that chemical bonds are not like
+little sticks at all.
+
+Bonded atoms — molecules — are more like
+groups of atoms hanging out just,
+
+like, close to each other because that's where
+their energy is minimized.
+
+So if I tossed all these models of atoms into
+the air and let them fly apart from each other,
+
+it's cool and fun for me,
+
+but those little balls would also have a lot more energy, and that's not the ideal situation for an atom, now is it?
+
+In reality, the only thing connecting two atoms together in a chemical bond is a bunch of electrons,
+
+and they don't sit still between the atoms
+gluing everything together.
+
+Instead, they're in constant motion zooming all around the nuclei in a somewhat predictable pattern.
+
+In a covalent bond, the bonding electrons
+spend most of their time between the nuclei,
+
+and the nuclei stay close together because
+they're attracted to the electrons.
+
+And honestly, this concept of electrons holding everything together is itself just another model,
+
+an idea that represents molecules in a way
+that can be visualized.
+
+And it's a more accurate representation of
+reality than the ball-and-stick model.
+
+But the ball-and-stick model isn't useless.
+
+It helps us visualize and understand many important things about molecules. It also looks pretty cool.
+
+Imagine if, instead of making generalizations about how chemicals behave, like "water dissolves salt",
+
+you had to memorize every single behavior
+of every single substance.
+
+No one would ever get anything else done in
+their lives.
+
+We generalize so that we can free our minds
+to do bigger and better things.
+
+So make no mistake, some models are great
+even though they're oversimplified to the
+
+point of being outright lies.
+
+It's important, in fact, to realize that all
+models are imperfect to some extent.
+
+I mean, think of the human models that people
+compare themselves to.
+
+Do you think that women in underwear catalogs and the guys in those black-and-white cologne ads look like that
+
+on Saturday morning after a long night of
+doing whatever models do on Friday nights?
+
+In fact, if a scientific model were a perfect representation of reality, it would cease being a model and become reality.
+
+So, in addition to understanding how a model
+represents reality,
+
+you also have to recognize the ways that it
+doesn't represent reality
+
+so that you don't base a bunch of incorrect
+assumptions on it.
+
+Unfortunately, sometimes models aren't merely oversimplified, sometimes they are just downright wrong.
+
+And the chemical bonding model is no exception.
+
+Over centuries, it's been updated as experimental results have provided information about how the universe actually works.
+
+Early scientists, including Isaac Newton, thought that atoms combined because they were literally sticky,
+
+or because they had tiny little hooks on them
+like a kind of Velcro that held them together.
+
+That was their bonding model.
+
+In the 19th century, chemists like Berzelius
+discovered positive and negative charges associated
+
+with chemicals in certain situations.
+
+He and his contemporaries theorized that this
+was the force holding molecules together.
+
+That's a much better model than the first
+one, but still not entirely accurate,
+
+because they thought that atoms more or less
+attracted each other like magnets.
+
+Only after the discovery of electrons in the 1890s could chemists begin to understand the true nature of chemical bonds.
+
+Then, in 1916, American chemist Gilbert Newton Lewis described a covalent bond as 2 atoms sharing electrons.
+
+Modern chemists still use this model as a simple way to represent chemical bonds on paper.
+
+A Lewis structure is a two-dimensional model that represents covalent bonds as straight lines
+
+and un-bonded, valence electrons, those in the outermost energy level of an atom, as dots.
+
+Inner electrons aren't shown at all, and although
+it was developed to explain covalent bonds,
+
+it also works for ionic bonds.
+
+In Lewis structures, bonds are formed by pairs
+of valence electrons, called bonding pairs,
+
+in the space between the two atoms.
+
+Pairs of electrons that are attached to only
+one atom are known as lone pairs.
+
+As you probably remember, atoms are most stable
+when their outermost electron shells are filled.
+
+For many atoms, that takes eight electrons,
+so it's called the octet rule.
+
+And if you're bracing yourselves for some
+exceptions to this rule, well, you are correct.
+
+Tiny little hydrogen can only hold two electrons
+total, not eight
+
+— that'll make more sense when you watch
+our upcoming episode about atomic orbitals —
+
+but also elements in the third row of the periodic table and below often have more than 8 valence electrons.
+
+Beryllium and boron are notorious for having
+weird numbers like 6 or 12 electrons.
+
+So yeah, the whole octet thing is really more
+of a gentle nudge than a rule.
+
+Let's stick to rows 1 and 2 of the table to
+keep it simple.
+
+Let's say I want to draw the Lewis structure
+for sodium chloride.
+
+Sodium has one valence electron and chlorine has 7.
+
+Since sodium is a metal, this must mean that it's going to be an ionic bond, meaning that electrons are transferred.
+
+Sodium transfers its one valence electron
+to chlorine,
+
+creating a +1 charge on the sodium and a -1
+charge on the chlorine.
+
+The two ions are attracted to each other due
+to their opposite charges.
+
+They're written slightly separated because
+the electrons aren't shared,
+
+but they're not too far apart because the ions stay close enough together to neutralize their charges.
+
+Lewis structures use a line to note covalent
+bonds,
+
+but we're not doing that here because there
+are no covalent bonds.
+
+It's an ionic bond, and there's no physical
+contact been the ions.
+
+So that is what salt looks like from a Lewis
+dot structure point of view.
+
+Covalent bonds: a little more complicated, and it works best if you follow some specific steps.
+
+Let's try it out with water.
+
+First, figure out how many total valence electrons
+are available.
+
+It doesn't matter which atoms they come from
+or how they're arranged before you start.
+
+Each hydrogen atom has one valence electron,
+and oxygen has six, for a total of eight electrons.
+
+Neither hydrogen nor oxygen has enough valence
+electrons to be stable,
+
+so they share electrons to make up the lack.
+
+And, just like how sharing a snack can make a new friend, the sharing creates a bond between the atoms.
+
+Lay out the molecules and create the bonds.
+
+Both hydrogens are bound to oxygen, so the
+oxygen goes in the middle.
+
+Remember, in Lewis's model each bond requires
+a pair of electrons.
+
+So we used four of the eight available electrons to form the bonds. Now fill in the outermost energy levels.
+
+Hydrogen atoms only need two electrons total,
+so they're already full.
+
+Oxygen, on the other hand, needs an octet
+— eight electrons.
+
+So place the remaining electrons around it
+in pairs to complete the structure.
+
+Finally, again, Lewis structures use lines
+to represent covalent bonds,
+
+so put those in the place of the bonding electrons,
+and you have it.
+
+Water contains two covalent bonds and two
+lone pairs. Simple enough.
+
+Well, it can get a little trickier.
+
+Let's do carbon dioxide, another tremendously
+important molecule on our planet.
+
+Carbon has four valence electrons, and each
+oxygen has six, for a total of 16 electrons.
+
+Both oxygens bond to the carbon, so put the carbon in the middle and make the bonds using 4 of the 16 electrons.
+
+All three of these atoms, they need a full
+octet, so fill that in next.
+
+So yay! Now all the atoms have a full octet,
+but take a closer look;
+
+20 electrons are needed to fill the octet,
+but only 16 are available. So, what to do?
+
+When there aren't enough electrons to fill all the octets with normal sharing, atoms have to share more of them.
+
+In this case, they form a double bond by putting 2 pairs of electrons, for a total of 4, between each pair of atoms.
+
+All 4 bonding electrons count toward both atoms' octets, so we need fewer lone pairs to fill all the octets.
+
+The double bonds allow us to use only 16 electrons.
+
+Replace the bonds with double lines, and the
+Lewis structure is complete,
+
+with 2 double bonds and 2 lone pairs on each
+oxygen.
+
+That was a little weird, so surely we can
+do something simple like molecular nitrogen.
+
+Just 2 atoms of nitrogen bonded together,
+right?
+
+Well, nitrogen has 5 valence electrons, and
+there are 2 atoms, so that's a total of 10 electrons.
+
+Let's put in the bond and complete the octets,
+and we've used 14 electrons.
+
+That — we don't have that many.
+
+We can try a double bond, but that still uses
+12 electrons, 2 more than we got,
+
+so we still don't have enough electrons to
+go around.
+
+Let's kick it up one more notch and make it
+a triple bond.
+
+That's when atoms share three pairs of electrons.And
+that does it.
+
+Just 10 electrons, and all the atoms have
+a full octet.
+
+Switch the lines to bonds, and it's done.
+
+A triple bond, and a lone pair on each atom.
+
+And this is why molecular nitrogen is really
+hard to break up to form, like, fertilizer and stuff.
+
+In case you're wondering, three is the maximum
+number of bonds.
+
+There is no such thing as a quadruple covalent
+bond.
+
+So that's the Lewis model — separate, discrete
+bonds formed by sharing specific electrons.
+
+It's a good model, and pretty close to the
+modern definition of a covalent bond,
+
+but it is still grossly oversimplified and
+unfortunately not 100% accurate.
+
+But here's the thing about models: even when
+they're partially wrong,
+
+you can build on the good parts to create even better models, and that is what Linus Pauling did.
+
+While he was in college, Pauling read Gilbert Lewis's chemical bond research, published just 3 years earlier.
+
+Lewis's model inspired Pauling to spend the rest of his life studying the relationships between
+
+the properties of substances and their molecular
+structures.
+
+After getting his PhD in physical chemistry,
+
+he traveled to Europe to study the new field
+of quantum mechanics
+
+with great physicists like Arnold Sommerfeld,
+Niels Bohr, and Erwin Schrödinger.
+
+Quantum mechanics basically involves the idea
+that some things, like light and electrons,
+
+are both particles and waves of energy.
+
+So Pauling applied the quantum mechanics model
+to chemical bonds,
+
+and this was the birth of the bonding model
+that we know today,
+
+which conceives of chemical bonds as a sort
+of overlap of atoms' individual electron clouds,
+
+rather than the simple sharing of specific
+electrons.
+
+We'll explore that in more detail when we
+talk about orbitals,
+
+but this is the electrons-holding-everything-together model that I mentioned at the beginning of the episode,
+
+and that we pretty much take for granted today.
+
+Pauling's contributions to the model of chemical
+bonding made such an impact on how we understand
+
+the universe that he won a Nobel Prize for
+it in 1954.
+
+It may not sound totally mind-blowing today,
+
+but imagine figuring this out when your only concept of atoms was little bits of stuff like Newton.
+
+Or even just a vague idea of charges in an
+atom like Berzelius. It's mind-boggling.
+
+Our ability to understand chemistry at all
+is a direct result of the models that scientists
+
+like Lewis and Pauling have provided, so to
+them I say thank you.
+
+And thanks to you for watching this episode
+of Crash Course Chemistry.
+
+I think you're all...
+model students.
+
+If you paid attention today you learned that
+
+a scientific model is anything that represents
+something else in a different way,
+
+that we often learn the most when we try to understand why things don't work the way that we expect,
+
+and that you can build new models on the foundation
+of old ones.
+
+You also learned that the chemical bonding
+model developed by the great Linus Pauling
+
+is crucial to our understanding of chemistry, and also the universe, and you learned how to draw Lewis structures.
+
+This episode of Crash Course Chemistry was written by Edi González and edited by Blake de Pastino.
+
+Our chemistry consultant is Dr. Heiko Langner.
+
+It was filmed, edited, and directed by Nicholas
+Jenkins,
+
+and our script supervisor and sound designer
+is Michael Aranda,
+
+and of course our graphics team is Thought
+Café.
+

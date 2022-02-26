@@ -1,0 +1,444 @@
+You can review content from Crash Course Organic Chemistry with the Crash Course app available now for Android and iOS devices.
+Vous pouvez consulter le contenu de Crash Course Organic Chemistry avec l'application Crash Course disponible dès maintenant pour les appareils Android et iOS.
+
+Hi! I’m Deboki Chakravarti and welcome to Crash Course Organic Chemistry!
+Salut!  Je suis Deboki Chakravarti et bienvenue au cours intensif de chimie organique !
+
+Even when we speak the same language, we have different ways to say the same thing.
+Même lorsque nous parlons la même langue, nous avons différentes manières de dire la même chose.
+
+Do you call a carbonated beverage a “pop,” “soda,” or just “Coke”?
+Appelez-vous une boisson gazeuse un "pop", un "soda" ou simplement un "coca" ?
+
+Or maybe you’re looking for a “drinking fountain” and everyone keeps pointing you to a “bubbler.”
+Ou peut-être cherchez-vous une « fontaine à boire » et tout le monde vous indique sans cesse un « barboteur ».
+
+Other times, we’re not saying what we think we mean.
+D'autres fois, nous ne disons pas ce que nous pensons vouloir dire.
+
+For example, an American asking for chips in the UK isn’t going to get a bag of crispy potato circles.
+Par exemple, un Américain qui demande des chips au Royaume-Uni ne recevra pas un sac de rondelles de pommes de terre croustillantes.
+
+If they shout out for their friend “Ken” in Japan, people might wonder why they’re yelling about a sword.
+S'ils crient pour leur ami "Ken" au Japon, les gens pourraient se demander pourquoi ils crient à propos d'une épée.
+
+Or if they’re trying to say they’re embarrassed in Peru with a fragmented “I’m embarazada” -- they’re actually saying they’re pregnant.
+Ou s'ils essaient de dire qu'ils sont gênés au Pérou avec un "je suis embarazada" fragmenté - ils disent en fait qu'ils sont enceintes.
+
+Language is complicated, and it can be especially confusing in the chemistry lab.
+La langue est compliquée et peut être particulièrement déroutante dans le laboratoire de chimie.
+
+If we ask our lab partner to pass the dichloromethane and they hand us a bottle labeled methylene chloride… is that the same chemical or not?
+Si nous demandons à notre partenaire de laboratoire de passer le dichlorométhane et qu'il nous tend une bouteille étiquetée chlorure de méthylène… est-ce le même produit chimique ou non ?
+
+To unite the scientific community, the International Union of Pure and Applied Chemistry—otherwise known as IUPAC—was established in 1919.
+Pour unir la communauté scientifique, l'Union internationale de chimie pure et appliquée, également connue sous le nom d'IUPAC, a été créée en 1919.
+
+This group wanted to make sure that chemists around the world could communicate accurately.
+Ce groupe voulait s'assurer que les chimistes du monde entier pouvaient communiquer avec précision.
+
+A hundred years later, IUPAC is still the guiding organization for all things nomenclature.
+Cent ans plus tard, l'IUPAC est toujours l'organisation directrice pour tout ce qui concerne la nomenclature.
+
+Thanks to them, we have some standard rules for naming organic chemicals!
+Grâce à eux, nous avons des règles standard pour nommer les produits chimiques organiques !
+
+[Theme Music]
+[Thème musical]
+
+By the time IUPAC came along with standard rules, organic chemistry as a field was already over 100 years old.
+Au moment où l'IUPAC est arrivée avec des règles standard, la chimie organique en tant que domaine avait déjà plus de 100 ans.
+
+Many chemicals had common names given to them by the people who discovered them based on their source or smell or color.
+De nombreux produits chimiques avaient des noms communs qui leur avaient été donnés par les personnes qui les avaient découverts en fonction de leur source, de leur odeur ou de leur couleur.
+
+For instance, vanillin is isolated from vanilla beans and cinnamaldehyde is isolated from cinnamon.
+Par exemple, la vanilline est isolée des gousses de vanille et le cinnamaldéhyde est isolé de la cannelle.
+
+Alcohol, ether, acetone, and acetic acid are common names too.
+L'alcool, l'éther, l'acétone et l'acide acétique sont également des noms communs.
+
+While some common names might sound fun, you have to memorize them.
+Bien que certains noms communs puissent sembler amusants, vous devez les mémoriser.
+
+And they don’t tell you much besides, like, there’s a chemical responsible for the flavor in vanilla ice cream called vanillin.
+Et ils ne vous disent pas grand-chose de plus, comme, il y a un produit chimique responsable de la saveur de la glace à la vanille appelée vanilline.
+
+Not super useful for learning chemical structures.
+Pas super utile pour apprendre les structures chimiques.
+
+Sometimes chemists even disagreed about what each common name meant, sort of like regional differences about what to call a carbonated beverage.
+Parfois, les chimistes étaient même en désaccord sur la signification de chaque nom commun, un peu comme des différences régionales sur ce qu'il faut appeler une boisson gazeuse.
+
+Despite IUPAC’s best attempts to make organic chemistry nomenclature less confusing, many common names are still used today…
+Malgré les meilleures tentatives de l'IUPAC pour rendre la nomenclature de la chimie organique moins confuse, de nombreux noms communs sont encore utilisés aujourd'hui...
+
+probably because “vanillin” is easier to say and put on a bottle than 4-hydroxy-3-methoxybenzaldehyde.
+probablement parce que la "vanilline" est plus facile à dire et à mettre sur une bouteille que le 4-hydroxy-3-méthoxybenzaldéhyde.
+
+But that longer name is a systematic name that follows a set of rules, which means anyone who knows those rules can draw the structure.
+Mais ce nom plus long est un nom systématique qui suit un ensemble de règles, ce qui signifie que quiconque connaît ces règles peut dessiner la structure.
+
+There are three basic steps to IUPAC systematic naming.
+Il y a trois étapes de base pour la dénomination systématique IUPAC.
+
+We’ll add more as we discover more about organic molecules throughout this series.
+Nous en ajouterons plus au fur et à mesure que nous en découvrirons davantage sur les molécules organiques tout au long de cette série.
+
+But for now, these will get us started.
+Mais pour l'instant, ceux-ci nous aideront à démarrer.
+
+Number 1: Find the longest carbon chain and give it a root name.
+Numéro 1 : Trouvez la chaîne carbonée la plus longue et donnez-lui un nom de racine.
+
+Number 2: Identify the highest priority functional group and add its suffix to the root name.
+Numéro 2 : Identifiez le groupe fonctionnel ayant la priorité la plus élevée et ajoutez son suffixe au nom racine.
+
+And Number 3: Identify the types of substituents and their positions on the carbon chain, then add a numbered prefix to the root name.
+Et Numéro 3 : Identifiez les types de substituants et leurs positions sur la chaîne carbonée, puis ajoutez un préfixe numéroté au nom de la racine.
+
+So we start building any systematic name with the root name, which comes from the longest carbon chain in the molecule.
+Nous commençons donc à construire n'importe quel nom systématique avec le nom racine, qui provient de la plus longue chaîne carbonée de la molécule.
+
+The word longest is key, because some molecules will have long chains sticking out that can throw you off!
+Le mot le plus long est la clé, car certaines molécules auront de longues chaînes qui peuvent vous déconcerter !
+
+So make sure to do a little extra counting to make sure you’ve actually found the longest one.
+Assurez-vous donc de faire un peu de comptage supplémentaire pour vous assurer que vous avez réellement trouvé le plus long.
+
+Carbon chains containing up to four atoms have arbitrary-sounding root names.
+Les chaînes de carbone contenant jusqu'à quatre atomes ont des noms de racine à consonance arbitraire.
+
+One carbon is meth-, two is eth-, three is prop-, and four but-.
+Un carbone est meth-, deux sont eth-, trois sont prop- et quatre but-.
+
+This can be a little tricky to remember, but you can use this mnemonic to help: Monkeys Eat Purple Bananas.
+Cela peut être un peu difficile à retenir, mais vous pouvez utiliser ce moyen mnémotechnique pour vous aider : les singes mangent des bananes violettes.
+
+For carbon chains with five to twelve atoms, the root names are similar to geometric shapes.
+Pour les chaînes carbonées de cinq à douze atomes, les noms des racines ressemblent à des formes géométriques.
+
+For example, a pentagon in geometry is a five-sided ring.
+Par exemple, un pentagone en géométrie est un anneau à cinq côtés.
+
+And if a carbon compound has the word pent- as its root, then it’s a five-carbon chain.
+Et si un composé carboné a le mot pent- comme racine, alors c'est une chaîne à cinq carbones.
+
+A six carbon chain is hex-, seven is hept-, eight is oct-, nine is non-, ten is dec-, eleven is undec-, and twelve is dodec-.
+Une chaîne à six carbones est hex-, sept est hept-, huit est oct-, neuf est non-, dix est dec-, onze est undec- et douze est dodec-.
+
+If you need a root name for a carbon chain with more than twelve atoms… I don’t have it memorized.
+Si vous avez besoin d'un nom de racine pour une chaîne carbonée de plus de douze atomes… Je ne l'ai pas mémorisé.
+
+There are plenty of resources out there to look them up.
+Il existe de nombreuses ressources pour les rechercher.
+
+Chemists don’t usually deal with longer chains and there are plenty of other things to remember besides what a 56-carbon chain is called.
+Les chimistes ne traitent généralement pas de chaînes plus longues et il y a beaucoup d'autres choses à retenir en plus de ce qu'on appelle une chaîne à 56 carbones.
+
+Back to our IUPAC rules.
+Retour à nos règles IUPAC.
+
+Once we’ve counted our carbons and have a root name, we need to add a suffix to indicate what kind of organic molecule we’re dealing with.
+Une fois que nous avons compté nos carbones et que nous avons un nom de racine, nous devons ajouter un suffixe pour indiquer à quel type de molécule organique nous avons affaire.
+
+The simplest organic molecules are hydrocarbons, which only have hydrogen and carbon atoms.
+Les molécules organiques les plus simples sont les hydrocarbures, qui n'ont que des atomes d'hydrogène et de carbone.
+
+There are four kinds of hydrocarbons: alkanes, alkenes, alkynes, and aromatics.
+Il existe quatre types d'hydrocarbures : les alcanes, les alcènes, les alcynes et les aromatiques.
+
+But we’ll only talk about the first three for now, because smelly aromatic compounds are a little more complicated.
+Mais nous ne parlerons que des trois premiers pour l'instant, car les composés aromatiques malodorants sont un peu plus compliqués.
+
+Alkanes only have single bonds between carbons.
+Les alcanes n'ont que des liaisons simples entre les carbones.
+
+For these compounds, we take the root name and tack on the suffix –ane.
+Pour ces composés, nous prenons le nom de la racine et ajoutons le suffixe –ane.
+
+For example, this skeletal structure is a six-carbon chain, so the root is hex-.
+Par exemple, cette structure squelettique est une chaîne à six carbones, donc la racine est hexa-.
+
+And because there are only single bonds, it’s an alkane, and we add the suffix -ane. It’s hexane!
+Et parce qu'il n'y a que des liaisons simples, c'est un alcane, et on ajoute le suffixe -ane.  C'est de l'hexane !
+
+Alkanes are kind of boring compared to their hydrocarbon cousins.
+Les alcanes sont plutôt ennuyeux par rapport à leurs cousins
+
+They’re low-energy couch potatoes and don’t interact with many other compounds.
+s.  Ce sont des patates de canapé à faible consommation d'énergie et n'interagissent pas avec de nombreux autres composés.
+
+On the other hand, alkenes and alkynes have functional groups.
+D'autre part, les alcènes et les alcynes ont des groupes fonctionnels.
+
+Remember, last episode we said that functional groups are where all the cool chemistry happens!
+Rappelez-vous, dans le dernier épisode, nous avons dit que les groupes fonctionnels sont là où se produit toute la chimie cool !
+
+In alkenes, the functional groups are double bonds between carbons, and in alkynes, the functional groups are triple bonds between carbons.
+Dans les alcènes, les groupes fonctionnels sont des doubles liaisons entre les carbones, et dans les alcynes, les groupes fonctionnels sont des triples liaisons entre les carbones.
+
+Alkenes and alkynes can do fun reactions to make things like light-emitting polymers,
+Les alcènes et les alcynes peuvent faire des réactions amusantes pour fabriquer des choses comme les polymères émetteurs de lumière,
+
+which are big molecules with regions where electrons kind of move around on a kind of race track that absorbs energy and emits light…
+qui sont de grosses molécules avec des régions où les électrons se déplacent en quelque sorte sur une sorte de piste de course qui absorbe l'énergie et émet de la lumière...
+
+But I’m getting ahead of myself!
+Mais je m'avance !
+
+To name an alkene, we find the longest chain of carbon atoms and it must include a double bond.
+Pour nommer un alcène, on trouve la plus longue chaîne d'atomes de carbone et celle-ci doit comporter une double liaison.
+
+If the longest carbon chain doesn’t include a double bond, it’s not named as an alkene.
+Si la chaîne carbonée la plus longue ne comprend pas de double liaison, elle n'est pas désignée comme un alcène.
+
+Sorry, I don’t make the rules, IUPAC does.
+Désolé, je ne fais pas les règles, l'IUPAC le fait.
+
+Since IUPAC rules are all about communication, we want to let people know where that double bond is on the chain.
+Étant donné que les règles de l'IUPAC concernent uniquement la communication, nous voulons que les gens sachent où se trouve cette double liaison sur la chaîne.
+
+So we’ll number the carbons, starting on the end closest to the double bond.
+Nous allons donc numéroter les carbones, en commençant par l'extrémité la plus proche de la double liaison.
+
+For the sake of consistency, we want to keep the numbers as low as possible.
+Par souci de cohérence, nous voulons garder les chiffres aussi bas que possible.
+
+Then, we’ll take the lowest number touching the double bond, combine it with the suffix -ene, and add that to the root name of our chain.
+Ensuite, nous prendrons le nombre le plus bas touchant la double liaison, le combinerons avec le suffixe -ène et l'ajouterons au nom racine de notre chaîne.
+
+For example, the longest chain in this molecule is a five-carbon chain, so the root is pent-.
+Par exemple, la chaîne la plus longue de cette molécule est une chaîne à cinq carbones, donc la racine est pent-.
+
+Because there’s a double bond, we know the suffix is -ene but we also have to number the carbons.
+Parce qu'il y a une double liaison, nous savons que le suffixe est -ene mais nous devons aussi numéroter les carbones.
+
+Starting from the end closest to the double bond, that’s 1-2-3-4-5.
+En partant de l'extrémité la plus proche de la double liaison, c'est 1-2-3-4-5.
+
+And because the double bond is between carbons 1 and 2, this compound is pent-1-ene.
+Et parce que la double liaison est entre les carbones 1 et 2, ce composé est le pent-1-ène.
+
+Notice the punctuation here: we stick dashes around the number.
+Remarquez la ponctuation ici : nous collons des tirets autour du nombre.
+
+To name alkynes, the hydrocarbons with a triple bond, we do the same thing.
+Pour nommer les alcynes, les hydrocarbures à triple liaison, on fait la même chose.
+
+First, we find the longest chain of carbon atoms and pick a root name.
+Tout d'abord, nous trouvons la plus longue chaîne d'atomes de carbone et choisissons un nom de racine.
+
+Then, we number the chain from the end closest to the triple bond to let people know where it is, and tack on the suffix -yne.
+Ensuite, nous numérotons la chaîne à partir de l'extrémité la plus proche de la triple liaison pour que les gens sachent où elle se trouve, et nous y ajoutons le suffixe -yne.
+
+For example, an eight-carbon chain with a triple bond in the center would be called oct-4-yne.
+Par exemple, une chaîne à huit carbones avec une triple liaison au centre serait appelée oct-4-yne.
+
+To finish the IUPAC rules, once we have a root name and suffix, we might be done if the molecule doesn’t have anything fancy going on!
+Pour terminer les règles de l'IUPAC, une fois que nous avons un nom de racine et un suffixe, nous pourrions en avoir terminé si la molécule n'a rien d'extraordinaire !
+
+But frequently, organic molecules have substituents, where plain old hydrogens on a carbon chain can be replaced by other carbon chains or halogen atoms like chlorine, bromine, and iodine, for example.
+Mais fréquemment, les molécules organiques ont des substituants, où les anciens hydrogènes simples sur une chaîne carbonée peuvent être remplacés par d'autres chaînes carbonées ou des atomes d'halogène comme le chlore, le brome et l'iode, par exemple.
+
+We communicate where substituents are by adding prefixes before the root name.
+Nous communiquons où se trouvent les substituants en ajoutant des préfixes avant le nom de la racine.
+
+Plus, just like we had to count carbons for alkenes and alkynes, we need to communicate where every substituent has done its substituting.
+De plus, tout comme nous devions compter les carbones pour les alcènes et les alcynes, nous devons communiquer où chaque substituant a effectué sa substitution.
+
+If we’re dealing with an alkane, where the longest carbon chain only has single bonds, we’ll number the chain so that the carbon atoms with the substituents get the lowest numbers.
+Si nous avons affaire à un alcane, où la chaîne carbonée la plus longue n'a que des liaisons simples, nous numéroterons la chaîne de sorte que les atomes de carbone avec les substituants obtiennent les numéros les plus bas.
+
+For example, let’s take our hexane from before and replace one hydrogen on a carbon with a -CH3 group.
+Par exemple, prenons notre hexane d'avant et remplaçons un hydrogène sur un carbone par un groupe -CH3.
+
+So in this case, we have an alkane, and we want to number the longest 6-carbon chain so that the carbon with the substituent is 2 not 5.
+Donc, dans ce cas, nous avons un alcane, et nous voulons numéroter la plus longue chaîne à 6 carbones afin que le carbone avec le substituant soit 2 et non 5.
+
+Remember, we want to keep the numbers as low as possible!
+N'oubliez pas que nous voulons garder les nombres aussi bas que possible !
+
+The -CH3 group takes the same name as a 1-carbon-chain root, meth-.
+Le groupe -CH3 prend le même nom qu'une racine à 1 chaîne carbonée, meth-.
+
+And because this group is a substituent it gets a new ending spelled -y-l.
+Et parce que ce groupe est un substituant, il obtient une nouvelle terminaison orthographiée -y-l.
+
+So the prefix we add is 2-methyl, to communicate where and what it is.
+Ainsi, le préfixe que nous ajoutons est 2-méthyl, pour communiquer où et ce que c'est.
+
+And this compound is 2-methylhexane.
+Et ce composé est le 2-méthylhexane.
+
+If the molecule is flipped over, we could start from the left and it would still be 2-methylhexane!
+Si on retournait la molécule, on pourrait commencer par la gauche et ce serait toujours du 2-méthylhexane !
+
+They’re the same compound, no matter if the methyl is drawn on the right or the left.
+C'est le même composé, peu importe si le méthyle est dessiné à droite ou à gauche.
+
+If we have two or more of the same substituents, we add di-, tri-, tetra- and so on to the prefix.
+Si nous avons deux ou plusieurs des mêmes substituants, nous ajoutons di-, tri-, tétra- et ainsi de suite au préfixe.
+
+So if we took 2-methylhexane and added another -CH3 group to a different carbon, we get 2,4-dimethylhexane.
+Donc, si nous prenons du 2-méthylhexane et ajoutons un autre groupe -CH3 à un carbone différent, nous obtenons du 2,4-diméthylhexane.
+
+Notice the punctuation here, too: the numbers are separated from each other by a comma, and are separated from the words by a dash.
+Notez également la ponctuation ici : les chiffres sont séparés les uns des autres par une virgule et sont séparés des mots par un tiret.
+
+But there are other substituents besides carbon chains.
+Mais il existe d'autres substituants en plus des chaînes carbonées.
+
+Let’s say we take our 2,4-dimethylhexane and replace a hydrogen atom on carbon-3 with a halogen like a chlorine atom.
+Disons que nous prenons notre 2,4-diméthylhexane et remplaçons un atome d'hydrogène sur le carbone 3 par un halogène comme un atome de chlore.
+
+So the molecule name gets another prefix!
+Ainsi, le nom de la molécule reçoit un autre préfixe !
+
+Halogens get the -ine in their name replaced with the letter -o.
+Les halogènes obtiennent le -ine dans leur nom remplacé par la lettre -o.
+
+So chlorine becomes chloro-, bromine becomes bromo-, and iodine becomes iodo-.
+Ainsi, le chlore devient chloro-, le brome devient bromo- et l'iode devient iodo-.
+
+That means we need to tack on the prefix 3-chloro here.
+Cela signifie que nous devons ajouter le préfixe 3-chloro ici.
+
+Lastly, when we add substituent prefixes, IUPAC rules say we need to put them in alphabetical order.
+Enfin, lorsque nous ajoutons des préfixes de substituants, les règles IUPAC indiquent que nous devons les mettre par ordre alphabétique.
+
+And the multipliers di, tri, and tetra do not count when we’re alphabetizing.
+Et les multiplicateurs di, tri et tétra ne comptent pas lorsque nous alphabétisons.
+
+So this molecule is named 3-chloro-2,4-dimethylhexane.
+Cette molécule est donc nommée 3-chloro-2,4-diméthylhexane.
+
+These rules about substituent prefixes are mostly the same for alkenes and alkynes.
+Ces règles concernant les préfixes de substituants sont pour la plupart les mêmes pour les alcènes et les alcynes.
+
+Except, when it comes to numbering the chains, the double and triple bonds between carbon atoms have priority over substituents sticking out.
+Sauf que, lorsqu'il s'agit de numéroter les chaînes, les doubles et triples liaisons entre les atomes de carbone ont priorité sur les substituants qui dépassent.
+
+So we start numbering the chain closest to the bonds instead of the substituents.
+Nous commençons donc à numéroter la chaîne la plus proche des liaisons au lieu des substituants.
+
+If we take our alkene friend pent-1-ene and add a ethyl group (that’s two carbons and six hydrogens) at carbon 3, we’d name this 3-ethylpent-1-ene.
+Si nous prenons notre ami alcène pent-1-ène et ajoutons un groupe éthyle (c'est-à-dire deux carbones et six hydrogènes) au carbone 3, nous nommerons ce 3-éthylpent-1-ène.
+
+Or if we put two methyl groups on the 2nd and 7th carbons of the alkyne oct-4-yne, meet the spectacular 2,7-dimethyloct-4-yne.
+Ou si l'on met deux groupes méthyle sur les 2e et 7e carbones de l'alcyne oct-4-yne, on rencontre le spectaculaire 2,7-diméthyloct-4-yne.
+
+Now that we have the basics, we can start naming any compound!
+Maintenant que nous avons les bases, nous pouvons commencer à nommer n'importe quel composé !
+
+Even if they look kinda complicated with more than one functional group and substituent.
+Même s'ils ont l'air un peu compliqués avec plus d'un groupe fonctionnel et substituant.
+
+Like this molecule:
+Comme cette molécule :
+
+But we got this! Don’t worry!
+Mais on a ça !  Ne t'inquiète pas! 
+
+We have our trusty steps.
+Nous avons nos étapes fidèles.
+
+Number 1: Find the longest carbon chain and give it a root name.
+Numéro 1 : Trouvez la chaîne carbonée la plus longue et donnez-lui un nom de racine.
+
+In this case, we see there’s a seven-carbon chain here, so the root is hept-.
+Dans ce cas, nous voyons qu'il y a une chaîne à sept carbones ici, donc la racine est hept-.
+
+Number 2: Identify the highest priority functional group and add its suffix to the root name.
+Numéro 2 : Identifiez le groupe fonctionnel ayant la priorité la plus élevée et ajoutez son suffixe au nom racine.
+
+Alkenes and alkynes have equal priority when it comes to numbering.
+Les alcènes et les alcynes ont la même priorité en matière de numérotation.
+
+But when an alkene and alkyne tie for lowest number, the alkene wins.
+Mais quand un alcène et un alcyne sont à égalité pour le nombre le plus bas, l'alcène gagne.
+
+We’ll count from both ends to see what’s up.
+Nous compterons des deux côtés pour voir ce qui se passe.
+
+And look: because the alkene and alkyne tie for lowest number, the alkene wins.
+Et regardez : parce que l'alcène et l'alcyne sont à égalité pour le nombre le plus bas, l'alcène gagne.
+
+So we’ll use the numbering where the double bond is lower.
+Nous utiliserons donc la numérotation où la double liaison est plus faible.
+
+Now we have to name our double- and triple-bond functional groups, and the alphabetical order rule still applies here.
+Nous devons maintenant nommer nos groupes fonctionnels à double et triple liaison, et la règle de l'ordre alphabétique s'applique toujours ici.
+
+So with the root and the suffix combined, we have hept-1-ene-6-yne.
+Ainsi, avec la racine et le suffixe combinés, nous avons hept-1-ene-6-yne.
+
+Finally, number 3: Identify the types of substituents and add a numbered prefix to the root name.
+Enfin, numéro 3 : Identifiez les types de substituants et ajoutez un préfixe numéroté au nom de la racine.
+
+In this case, there’s a bromine on carbon 4 and a methyl group on carbon 3.
+Dans ce cas, il y a un brome sur le carbone 4 et un groupe méthyle sur le carbone 3.
+
+Taking alphabetical order into account, we add 4-bromo-3-methyl before the root and suffix.
+En tenant compte de l'ordre alphabétique, nous ajoutons 4-bromo-3-méthyl avant la racine et le suffixe.
+
+And we’ve conquered this puzzle!
+Et nous avons vaincu ce puzzle !
+
+It’s 4-bromo-3-methylhept-1-ene-6-yne.
+C'est le 4-bromo-3-méthylhept-1-ène-6-yne.
+
+It’s kind of a mouthful to say, but so much more useful to chemists than if I named it Debokiyne or something.
+C'est une sorte de bouchée à dire, mais tellement plus utile aux chimistes que si je l'appelais Debokiyne ou quelque chose comme ça.
+
+Now, remember that conundrum from the beginning, when we asked our lab partner for dichloromethane and got a bottle of methylene chloride?
+Maintenant, souvenez-vous de cette énigme depuis le début, quand nous avons demandé à notre partenaire de laboratoire du dichlorométhane et avons obtenu une bouteille de chlorure de méthylène ?
+
+Let’s build those molecules.
+Construisons ces molécules.
+
+Looking at the name dichloromethane, we know from meth- that this is a single carbon and -ane that it’s an alkane with single bonds.
+En regardant le nom dichlorométhane, nous savons de meth- qu'il s'agit d'un seul carbone et -ane qu'il s'agit d'un alcane avec des liaisons simples.
+
+The dichloro- tells us that we have two chlorine atoms connected to the only carbon, no substituent number required.
+Le dichloro- nous dit que nous avons deux atomes de chlore connectés au seul carbone, aucun numéro de substituant n'est requis.
+
+That’s the skeletal structure.
+C'est la structure squelettique.
+
+And if we want to get all fancy with a Lewis structure, we know that carbon often makes four bonds, so we can add two hydrogen atoms to finish it off.
+Et si nous voulons être fantaisistes avec une structure de Lewis, nous savons que le carbone forme souvent quatre liaisons, nous pouvons donc ajouter deux atomes d'hydrogène pour terminer.
+
+Methylene chloride is trickier because we can’t use our IUPAC rules.
+Le chlorure de méthylène est plus délicat car nous ne pouvons pas utiliser nos règles IUPAC.
+
+We just need to know that methylene is a common name for a CH2- group.
+Nous avons juste besoin de savoir que méthylène est un nom commun pour un groupe CH2-.
+
+Then, because chloride is in the name, we can get to the final structure by filling in the two open spots with chlorine.
+Ensuite, comme le chlorure est dans le nom, nous pouvons arriver à la structure finale en remplissant les deux espaces vides avec du chlore.
+
+The end structure is the same, so our lab partner did know what they were doing!
+La structure finale est la même, donc notre partenaire de laboratoire savait ce qu'il faisait !
+
+But calling this compound dichloromethane makes it easier for scientists to know they’re talking about the same thing.
+Mais appeler ce composé dichlorométhane permet aux scientifiques de savoir plus facilement qu'ils parlent de la même chose.
+
+In this episode, we learned that:
+Dans cet épisode, nous avons appris que :
+
+There are three steps to naming molecules, which include the root name, a suffix based on functional groups, and a prefix based on substituents.
+Il y a trois étapes pour nommer les molécules, qui incluent le nom de la racine, un suffixe basé sur les groupes fonctionnels et un préfixe basé sur les substituants.
+
+And we number the longest carbon chain by giving the highest priority functional group the lowest possible number, or whatever gives the substituents the lowest possible numbers.
+Et nous numérotons la chaîne carbonée la plus longue en donnant au groupe fonctionnel le plus prioritaire le plus petit nombre possible, ou tout ce qui donne aux substituants le plus petit nombre possible.
+
+Next time, we’ll learn how to give molecules systematic names when they have functional groups with heteroatoms!
+La prochaine fois, nous apprendrons à donner des noms systématiques aux molécules lorsqu'elles ont des groupes fonctionnels avec des hétéroatomes !
+
+Thanks for watching this episode of Crash Course Organic Chemistry.
+Merci d'avoir regardé cet épisode de Crash Course Organic Chemistry.
+
+If you want to help keep all Crash Course free for everybody, forever, you can join our community on Patreon.
+Si vous voulez aider à garder tous les cours intensifs gratuits pour tout le monde, pour toujours, vous pouvez rejoindre notre communauté sur Patreon.
+

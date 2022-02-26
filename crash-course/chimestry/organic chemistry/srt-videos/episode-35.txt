@@ -1,0 +1,866 @@
+You can review content from Crash Course Organic Chemistry with the Crash Course App,
+Vous pouvez consulter le contenu de Crash Course Organic Chemistry avec l'application Crash Course,
+
+available now for Android and iOS devices.
+disponible dès maintenant pour les appareils Android et iOS.
+
+Hi! I’m Deboki Chakravarti and welcome to
+Crash Course Organic Chemistry!
+Salut!  Je suis Deboki Chakravarti et bienvenue au cours intensif de
+chimie organique !
+
+Necessity may be the mother of invention,
+La nécessité peut être la mère de l'invention,
+
+but, sometimes, complete chance can play a part, too.
+mais parfois, le hasard peut aussi jouer un rôle.
+
+Not all chemistry discoveries were meticulously
+planned.
+Toutes les découvertes en chimie n'ont pas été méticuleusement
+planifiées.
+
+For example, the creation of the material that coats saucepans and stops food sticking to them was a fortuitous accident.
+Par exemple, la création du matériau qui recouvre les casseroles et empêche les aliments d'y coller est un accident fortuit.
+
+When working in a team trying to develop non-toxic
+refrigerants in the 1930s at chemical company DuPont,
+Lorsqu'il travaillait dans une équipe essayant de développer des réfrigérants non toxiques
+dans les années 1930 à la société chimique DuPont, le
+
+Dr. Roy Plunkett was using a gaseous
+compound called tetrafluoroethylene.
+Dr Roy Plunkett utilisait un
+composé gazeux appelé tétrafluoroéthylène.
+
+One day, he opened a cylinder and found that
+the gas had disappeared.
+Un jour, il ouvrit une bonbonne et constata que
+le gaz avait disparu.
+
+Instead, there was a white solid.
+Au lieu de cela, il y avait un solide blanc.
+
+That white solid was actually polytetrafluoroethylene
+(PTFE for short),
+Ce solide blanc était en fait du polytétrafluoroéthylène
+(PTFE en abrégé),
+
+which formed when the tetrafluoroethylene polymerized.
+qui s'est formé lorsque le tétrafluoroéthylène a polymérisé.
+
+Plunkett decided to test it and found that
+most substances wouldn’t stick –
+Plunkett a décidé de le tester et a constaté que la
+plupart des substances ne collaient pas -
+
+perfect for non-stick cooking pans!
+parfait pour les casseroles antiadhésives !
+
+And Teflon was created.
+Et Teflon a été créé.
+
+PTFE is just one kind of polymer, a class
+of chemical compound that we're gonna learn more about today!
+Le PTFE n'est qu'un type de polymère, une classe
+de composés chimiques dont nous allons en apprendre plus aujourd'hui !
+
+[Theme music]
+[Musique à thème]
+
+So far, the molecules we’ve encountered
+have had tens of atoms within them.
+Jusqu'à présent, les molécules que nous
+avons rencontrées contenaient des dizaines d'atomes.
+
+But polymers are huge molecules, made up of
+hundreds, thousands,
+Mais les polymères sont d'énormes molécules, constituées de
+centaines, de milliers,
+
+or even millions of small, identical subunits called monomers.
+voire de millions de petites sous-unités identiques appelées monomères.
+
+Some of the most important polymers are made
+by nature.
+Certains des polymères les plus importants sont fabriqués
+par la nature.
+
+Your DNA, RNA and proteins are all examples
+of biological polymers –
+Votre ADN, votre ARN et vos protéines sont tous des exemples
+de polymères biologiques -
+
+we’ll devote a whole episode to these later
+on, because they're a big part of organic chemistry.
+nous y consacrerons un épisode entier plus
+tard, car ils constituent une grande partie de la chimie organique.
+
+But there are lots of human-made polymers,
+too.
+Mais il y a aussi beaucoup de polymères fabriqués par l'homme
+.
+
+Plastics are polymers, like polyethylene bags
+and polystyrene packaging.
+Les plastiques sont des polymères, comme les sacs en polyéthylène
+et les emballages en polystyrène.
+
+Both of these are addition polymers, which
+are formed by adding the same monomers together,
+Ces deux polymères sont des polymères d'addition, qui
+sont formés en ajoutant les mêmes monomères ensemble,
+
+over and over.
+encore et encore.
+
+They're both really simple examples, because
+there's just one type of monomer.
+Ce sont tous les deux des exemples très simples, car
+il n'y a qu'un seul type de monomère.
+
+Naming simple addition polymers is really
+straightforward,
+Nommer des polymères d'addition simples est très
+simple,
+
+generally you just stick "poly" in front of the monomer’s name.
+généralement il suffit de coller "poly" devant le nom du monomère.
+
+So polystyrene is made up of thousands of
+styrene monomers joined together.
+Ainsi, le polystyrène est composé de milliers de
+monomères de styrène assemblés.
+
+Drawing out the structure of styrene is simple.
+Dessiner la structure du styrène est simple.
+
+So is drawing a couple styrenes bonded together –
+Il en va de même pour dessiner un couple de styrènes liés ensemble -
+
+the double bond between the two carbons breaks
+to form the bonds between monomers.
+la double liaison entre les deux carbones se rompt
+pour former les liaisons entre les monomères.
+
+But drawing the full structure of a polystyrene
+molecule would be near-impossible...
+Mais dessiner la structure complète d'une
+molécule de polystyrène serait presque impossible...
+
+by monomer 100 I'd have a hand cramp and wasted paper.
+par le monomère 100, j'aurais une crampe à la main et du papier gaspillé.
+
+Happily, there’s a simple abbreviation we
+can use. Instead of drawing out all of the monomers,
+Heureusement, il existe une abréviation simple que nous
+pouvons utiliser.  Au lieu d'extraire tous les monomères,
+
+we can simply draw one of them and
+indicate how it joins onto the rest of the polymer chain.
+nous pouvons simplement en dessiner un et
+indiquer comment il se joint au reste de la chaîne polymère.
+
+We put brackets around the molecular motif
+that repeats through the polymer structure,
+Nous mettons des parenthèses autour du motif moléculaire
+qui se répète à travers la structure polymère,
+
+which is logically called the repeat unit.
+qui est logiquement appelée l'unité de répétition.
+
+The “n” to the bottom right of the brackets
+simply means that we’re dealing with a lot of repeats!
+Le « n » en bas à droite des parenthèses
+signifie simplement que nous avons affaire à beaucoup de répétitions !
+
+We can draw polytetrafluoroethylene, the non-stick
+compound we met in the introduction,
+On peut dessiner le polytétrafluoroéthylène, le composé anti-adhésif que
+nous avons rencontré en introduction,
+
+like this too.
+comme celui-ci aussi.
+
+It's also a simple addition polymer!
+C'est aussi un simple polymère d'addition !
+
+Now, there are also addition polymers formed
+from more than one type of monomer,
+Maintenant, il existe également des polymères d'addition formés
+de plus d'un type de monomère,
+
+called copolymers.
+appelés copolymères.
+
+Instead of using "n" next to all the brackets,
+Au lieu d'utiliser "n" à côté de tous les crochets,
+
+we use different letters to distinguish different repeat units.
+nous utilisons différentes lettres pour distinguer différentes unités de répétition.
+
+One example is the copolymer in Lego bricks,
+made from a mix of acrylonitrile,
+Un exemple est le copolymère des briques Lego,
+fabriqué à partir d'un mélange de monomères d'acrylonitrile, de
+
+1,3-butadiene and styrene monomers.
+1,3-butadiène et de styrène.
+
+The monomer's initials make up the polymer
+name: ABS.
+Les initiales du monomère constituent le nom du polymère
+: ABS.
+
+Forming addition polymers isn’t as simple
+as throwing the monomers together in a beaker and hoping for the best.
+Former des polymères d'addition n'est pas aussi simple
+que de jeter les monomères ensemble dans un bécher et d'espérer le meilleur.
+
+We have to use an addition polymerization
+reaction –
+Nous devons utiliser une réaction de polymérisation par addition
+-
+
+sometimes called chain growth polymerization.
+parfois appelée polymérisation par croissance de chaîne.
+
+And these reactions can happen in three ways:
+Et ces réactions peuvent se produire de trois manières : en
+
+using radicals, cations, or anions.
+utilisant des radicaux, des cations ou des anions.
+
+Free radical polymerization uses a radical,
+which is a molecule with an unpaired electron,
+La polymérisation radicalaire utilise un radical,
+qui est une molécule avec un électron non apparié,
+
+to kick off the reaction.
+pour déclencher la réaction.
+
+This "kickoff" step is called initiation,
+and in this case, the radical is our initiator.
+Cette étape de "coup d'envoi" s'appelle l'initiation,
+et dans ce cas, le radical est notre initiateur.
+
+Let's say we wanted to make polyethylene from
+some ethylene monomers,
+Disons que nous voulions fabriquer du polyéthylène à partir de
+certains monomères d'éthylène,
+
+which is just the common name for the IUPAC name ethene.
+qui n'est que le nom commun du nom IUPAC éthène.
+
+We can use an organic peroxide to get things
+started,
+Nous pouvons utiliser un peroxyde organique pour
+démarrer,
+
+because oxygen-oxygen single bonds can easily break to form free radicals.
+car les liaisons simples oxygène-oxygène peuvent facilement se rompre pour former des radicaux libres.
+
+When a free radical approaches the ethylene
+double bond,
+Lorsqu'un radical libre s'approche de la
+double liaison éthylène,
+
+it grabs one of the electrons from the carbon-carbon pi bond to form a bond
+between itself and one of the carbon atoms.
+il saisit l'un des électrons de la liaison carbone-carbone pi pour former une liaison
+entre lui-même et l'un des atomes de carbone.
+
+This leaves an unpaired electron on the other
+carbon, so we’ve still got a radical.
+Cela laisse un électron non apparié sur l'autre
+carbone, nous avons donc toujours un radical.
+
+This radical can then join on to another ethylene
+molecule, and so on,
+Ce radical peut alors se joindre à une autre
+molécule d'éthylène, et ainsi de suite,
+
+until we form longer and longer chains.
+jusqu'à former des chaînes de plus en plus longues.
+
+One way this process comes to a stop is by
+two free radicals colliding with each other,
+Ce processus s'arrête notamment
+lorsque deux radicaux libres entrent en collision,
+
+producing a final molecule in a process called
+termination.
+produisant une molécule finale dans un processus appelé
+terminaison.
+
+Termination is random and happens at different
+points for different chains,
+La terminaison est aléatoire et se produit à différents
+points pour différentes chaînes, de
+
+so polymer chains can vary in length.
+sorte que les chaînes de polymère peuvent varier en longueur.
+
+Cationic polymerization uses a positively
+charged cation as an initiator,
+La polymérisation cationique utilise un
+cation chargé positivement comme initiateur,
+
+which transfers a positive charge to the monomer.
+qui transfère une charge positive au monomère.
+
+As an example, we can protonate an alkene,
+Par exemple, nous pouvons protoner un alcène,
+
+breaking the double bond and leaving a positive charge on one carbon.
+rompre la double liaison et laisser une charge positive sur un carbone.
+
+Another monomer’s double bond can then make
+a new bond, lengthening the chain,
+La double liaison d'un autre monomère peut alors créer
+une nouvelle liaison, allongeant la chaîne,
+
+and so on as the polymer grows.
+et ainsi de suite au fur et à mesure de la croissance du polymère.
+
+Unlike free radical polymerization,
+Contrairement à la polymérisation radicalaire,
+
+two growing chains colliding can’t cause termination here because both chains are positively charged.
+deux chaînes en croissance qui entrent en collision ne peuvent pas provoquer de terminaison ici car les deux chaînes sont chargées positivement.
+
+Instead, they undergo chain transfer reactions.
+Au lieu de cela, ils subissent des réactions de transfert en chaîne.
+
+These involve one of the hydrogens on the
+carbon next to the carbocation,
+Ceux-ci impliquent l'un des hydrogènes sur le
+carbone à côté du carbocation,
+
+which can be yanked off in a number of ways to reform
+the double bond.
+qui peut être retiré de plusieurs façons pour reformer
+la double liaison.
+
+Finally, anionic polymerization uses a negatively
+charged anion as an initiator.
+Enfin, la polymérisation anionique utilise un
+anion chargé négativement comme initiateur.
+
+This type of reaction requires a monomer with
+a group that can stabilize a negative charge.
+Ce type de réaction nécessite un monomère avec
+un groupe capable de stabiliser une charge négative.
+
+Cyanoacrylates, like the polymers in superglue
+or liquid stitches used in medicine,
+Les cyanoacrylates, comme les polymères en superglue ou en maille
+liquide utilisés en médecine,
+
+undergo this mechanism.
+subissent ce mécanisme.
+
+So if you’ve ever accidentally stuck your
+fingers together with superglue,
+Donc, si vous avez déjà accidentellement collé vos
+doigts avec de la superglue,
+
+you've done anionic polymerization!
+vous avez fait une polymérisation anionique !
+
+We just need a little bit of water to kickstart
+the reaction, like the moisture on your hands,
+Nous avons juste besoin d'un peu d'eau pour déclencher
+la réaction, comme l'humidité sur vos mains,
+
+or even just in the air!
+ou même simplement dans l'air !
+
+The water molecule attacks the double bond
+and forms an anion really easily,
+La molécule d'eau attaque la double liaison
+et forme très facilement un anion,
+
+because the anion has resonance with both the nitrile
+and the ester.
+car l'anion a une résonance à la fois avec le nitrile
+et l'ester.
+
+The anion repeats this process with another
+monomer, lengthening the chain again and again.
+L'anion répète ce processus avec un autre
+monomère, allongeant encore et encore la chaîne.
+
+Termination happens when a proton transfers
+from another reaction participant –
+La terminaison se produit lorsqu'un proton est transféré
+d'un autre participant à la réaction -
+
+the solvent, another monomer, or another polymer
+chain.
+le solvant, un autre monomère ou une autre
+chaîne polymère.
+
+All the addition polymerization reactions
+we just talked about make addition polymers.
+Toutes les réactions de polymérisation par addition dont
+nous venons de parler produisent des polymères d'addition.
+
+As we saw, they link monomers together without
+producing any side products.
+Comme nous l'avons vu, ils lient les monomères entre eux sans
+produire de sous-produits.
+
+But there's also step-growth polymers, also
+called condensation polymers,
+Mais il existe également des polymères à croissance par étapes, également
+appelés polymères de condensation,
+
+which can be made from condensation polymerization reactions.
+qui peuvent être fabriqués à partir de réactions de polymérisation par condensation.
+
+This type of polymerization kicks out a small
+molecule, often water,
+Ce type de polymérisation expulse une petite
+molécule, souvent de l'eau,
+
+when two monomers join together.
+lorsque deux monomères se rejoignent.
+
+A great example of a condensation polymer
+Un excellent exemple de polymère de condensation
+
+(and another fortuitous polymer discovery)
+(et une autre découverte fortuite de polymère)
+
+is Kevlar.
+est le Kevlar.
+
+In 1965, Stephanie Kwolek was working at the
+chemical company, DuPont,
+En 1965, Stephanie Kwolek travaillait dans l'
+entreprise chimique DuPont,
+
+trying to develop a fiber for car tires,
+essayant de développer une fibre pour les pneus de voiture,
+
+when she noticed a mix of some of the polymers she was working with had formed a thin, cloudy solution.
+lorsqu'elle a remarqué qu'un mélange de certains des polymères avec lesquels elle travaillait avait formé une solution fine et trouble.
+
+This solution was usually thrown away, but
+she decided to send a sample for tests,
+Cette solution était généralement jetée, mais
+elle a décidé d'envoyer un échantillon pour des tests,
+
+and it was found to be much stronger than other
+similar polymers.
+et il s'est avéré beaucoup plus résistant que d'autres
+polymères similaires.
+
+This discovery was Kevlar!
+Cette découverte était Kevlar!
+
+Which is now used in a wide range of applications including bulletproof vests and fighter plane panels.
+Qui est maintenant utilisé dans un large éventail d'applications, y compris les gilets pare-balles et les panneaux d'avions de chasse.
+
+To form Kevlar, an amine group in 1,4-diaminobenzene
+can attack the carbonyl carbon in terephthaloyl dichloride.
+Pour former du Kevlar, un groupe amine dans le 1,4-diaminobenzène
+peut attaquer le carbone carbonyle dans le dichlorure de téréphtaloyle.
+
+This is a nucleophilic acyl substitution reaction.
+Il s'agit d'une réaction de substitution d'acyle nucléophile.
+
+They combine with the loss of a molecule of
+hydrochloric acid to form the polymer chain.
+Ils se combinent avec la perte d'une molécule d'
+acide chlorhydrique pour former la chaîne polymère.
+
+Kevlar is super strong because the polymer
+chain can form strong hydrogen bonds with a neighboring chain.
+Le Kevlar est super solide car la
+chaîne polymère peut former de fortes liaisons hydrogène avec une chaîne voisine.
+
+Another condensation polymer is Lexan,
+Un autre polymère de condensation est le Lexan,
+
+a polycarbonate plastic used for food packaging and some plastic drink bottles.
+un plastique polycarbonate utilisé pour les emballages alimentaires et certaines bouteilles de boissons en plastique.
+
+Polycarbonates are also used for the ‘glass’
+in glasses to correct vision,
+Les polycarbonates sont également utilisés pour le « verre »
+des lunettes afin de corriger la vision,
+
+and have even been used in some cell phone casings.
+et ont même été utilisés dans certains boîtiers de téléphones portables.
+
+Commercial syntheses of condensation polymers
+have used phosgene,
+Les synthèses commerciales de polymères de condensation
+ont utilisé du phosgène,
+
+a corrosive and highly toxic gas.
+un gaz corrosif et hautement toxique.
+
+But there are friendlier syntheses out there,
+so let’s check out one of those.
+Mais il existe des synthèses plus conviviales,
+alors examinons-en une.
+
+One of our monomers is a type of carbonate,
+L'un de nos monomères est un type de carbonate,
+
+a functional group that reacts twice since it contains two phenol leaving groups.
+un groupe fonctionnel qui réagit deux fois car il contient deux groupes partants phénoliques.
+
+In this polymerization, the other monomer
+is bisphenol A, also known as BPA.
+Dans cette polymérisation, l'autre monomère
+est le bisphénol A, également appelé BPA.
+
+If we look at the mechanism, we can see this
+condensation polymerization is very similar
+Si nous regardons le mécanisme, nous pouvons voir que cette
+polymérisation par condensation est très similaire
+
+to the addition-elimination mechanisms we
+learned for esters and other carboxylic acid derivatives in episode 32.
+aux mécanismes d'addition-élimination que nous avons
+appris pour les esters et autres dérivés d'acide carboxylique dans l'épisode 32.
+
+The two monomers are mixed together at high
+temperature with a small amount of basic catalyst,
+Les deux monomères sont mélangés à haute
+température avec une petite quantité de base.  catalyseur,
+
+kicking off a transesterification reaction.
+déclenchant une réaction de transestérification.
+
+The anion we form from BPA attacks the carbonyl
+carbon in the carbonate,
+L'anion que nous formons à partir du BPA attaque le
+carbone carbonyle dans le carbonate,
+
+kicking out a phenoxide leaving group.
+expulsant un groupe partant phénoxyde.
+
+Then, a similar reaction repeats with another
+BPA molecule,
+Ensuite, une réaction similaire se répète avec une autre
+molécule de BPA,
+
+kicking out the second phenoxide group.
+expulsant le deuxième groupe phénoxyde.
+
+A good reminder that the small molecule we
+lose during condensation polymerization isn’t always water!
+Un bon rappel que la petite molécule que nous
+perdons lors de la polymérisation par condensation n'est pas toujours de l'eau !
+
+Also, because the molecule we end up with
+isn't a radical, cation, or anion,
+De plus, comme la molécule avec laquelle nous nous retrouvons
+n'est pas un radical, un cation ou un anion,
+
+we don't have a termination step.
+nous n'avons pas d'étape de terminaison.
+
+The reaction just ends when the conditions
+aren't favorable or we're out of stuff to react.
+La réaction se termine lorsque les conditions
+ne sont pas favorables ou que nous n'avons plus de quoi réagir.
+
+Now, the different polymers we’ve seen so
+far have lots of different uses.
+Maintenant, les différents polymères que nous avons vus jusqu'à
+présent ont de nombreuses utilisations différentes.
+
+But the properties of the same polymer can
+vary too.
+Mais les propriétés d'un même polymère peuvent
+également varier.
+
+Polyethylene is a great example of this.
+Le polyéthylène en est un excellent exemple.
+
+While we introduced it as the flexible plastic
+that is used to make most plastic bags,
+Alors que nous l'avons présenté comme le plastique
+flexible utilisé pour fabriquer la plupart des sacs en plastique,
+
+it’s also the harder plastic sometimes used to
+make plastic toys, water pipes, and containers.
+c'est aussi le plastique plus dur parfois utilisé pour
+fabriquer des jouets en plastique, des conduites d'eau et des récipients.
+
+The reason comes down to polymer morphology,
+La raison se résume à la morphologie des polymères,
+
+the study of how the same polymer can be structured in different ways.
+l'étude de la façon dont le même polymère peut être structuré de différentes manières.
+
+Polyethylene has two forms:
+Le polyéthylène a deux formes :
+
+high density polyethylene (or HDPE) and low
+density polyethylene (or LDPE).
+le polyéthylène haute densité (ou HDPE) et le
+polyéthylène basse densité (ou LDPE).
+
+When we zoom in on the structure of HDPE,
+we can see that it’s very linear –
+Lorsque nous zoomons sur la structure du HDPE,
+nous pouvons voir qu'elle est très linéaire -
+
+there’s one main chain, with very few branches
+coming off of it.
+il y a une chaîne principale, avec très peu de branches
+qui en sortent.
+
+Because of this, the polymer molecules can
+pack closely together,
+De ce fait, les molécules de polymère peuvent
+se regrouper étroitement, de
+
+so the intermolecular forces between the molecules are stronger, resulting in a harder, less flexible plastic.
+sorte que les forces intermoléculaires entre les molécules sont plus fortes, ce qui donne un plastique plus dur et moins flexible.
+
+By contrast, LDPE has a very branched structure –
+En revanche, le LDPE a une structure très ramifiée -
+
+there are lots of smaller chains coming off
+of the main chain.
+il y a beaucoup de petites chaînes qui sortent
+de la chaîne principale.
+
+As a result, the polymer molecules can’t
+pack together very tightly,
+En conséquence, les molécules de polymère ne peuvent pas
+s'emballer très étroitement, de
+
+so the intermolecular forces are weaker, resulting in a softer,
+more flexible plastic.
+sorte que les forces intermoléculaires sont plus faibles, ce qui donne un
+plastique plus souple et plus souple.
+
+There are other structure types too, which
+have different effects on polymer properties!
+Il existe également d'autres types de structure, qui
+ont des effets différents sur les propriétés du polymère !
+
+So far, we've been describing the structure
+of individual polymer molecules with words like "linear" or "branched."
+Jusqu'à présent, nous avons décrit la structure
+de molécules de polymère individuelles avec des mots comme "linéaire" ou "ramifié".
+
+But even a tiny piece of plastic will contain
+a huge number of molecules,
+Mais même un petit morceau de plastique contiendra
+un grand nombre de molécules,
+
+so we also need words to describe how polymer strands pack
+together:
+nous avons donc également besoin de mots pour décrire comment les brins de polymère
+s'emballent :
+
+crystalline or amorphous.
+cristallins ou amorphes.
+
+Like, imagine spaghetti, where each noodle
+represents a polymer molecule.
+Comme, imaginez des spaghettis, où chaque nouille
+représente une molécule de polymère.
+
+Uncooked spaghetti noodles line up with each
+other in a very orderly way,
+Les spaghettis non cuits s'alignent les uns avec les
+autres de manière très ordonnée,
+
+kinda like a crystalline polymer.
+un peu comme un polymère cristallin.
+
+But if we throw our spaghetti in a pan and
+cook it,
+Mais si nous jetons nos spaghettis dans une casserole et que nous les
+cuisons,
+
+the noodles will tangle up with each other, kinda like an amorphous polymer.
+les nouilles s'emmêlent les unes avec les autres, un peu comme un polymère amorphe.
+
+The spaghetti analogy isn't perfect because
+polymers aren't perfectly straight lines like uncooked spaghetti –
+L'analogie des spaghettis n'est pas parfaite car les
+polymères ne sont pas des lignes parfaitement droites comme les spaghettis non cuits -
+
+they fold over on themselves and each other
+in orderly or not-so-orderly ways.
+ils se replient sur eux-mêmes et les uns sur les autres
+de manière ordonnée ou pas si ordonnée.
+
+So when all this folding is neat and structured,
+the polymer structure is crystalline.
+Ainsi, lorsque tout ce pliage est net et structuré,
+la structure du polymère est cristalline.
+
+When it’s messy and tangled, the polymer
+structure is amorphous.
+Lorsqu'elle est désordonnée et emmêlée, la structure du polymère
+est amorphe.
+
+Also, real polymers can have both crystalline
+and amorphous regions.
+De plus, les vrais polymères peuvent avoir à la fois
+des régions cristallines et amorphes.
+
+This is a good thing, because they balance
+each other out.
+C'est une bonne chose, car ils
+s'équilibrent.
+
+While crystalline regions give a polymer strength
+and rigidity, they can also make it more brittle.
+Alors que les régions cristallines confèrent à un polymère résistance
+et rigidité, elles peuvent également le rendre plus cassant.
+
+We can use a polymer’s degree of crystallinity
+to describe where it sits on this spectrum,
+Nous pouvons utiliser le degré de cristallinité d'un polymère
+pour décrire où il se situe sur ce spectre
+
+with 0% being entirely amorphous, and 100%
+being entirely crystalline.
+, 0 % étant entièrement amorphe et 100 %
+étant entièrement cristallin.
+
+Going back to polyethylene as an example,
+Pour en revenir au polyéthylène à titre d'exemple, le
+
+HDPE is highly crystalline because its molecules pack closely together.
+HDPE est hautement cristallin car ses molécules sont très proches les unes des autres.
+
+LDPE is highly amorphous, and the branches prevent the individual polymer molecules from stacking together in an orderly way.
+Le LDPE est hautement amorphe et les ramifications empêchent les molécules de polymère individuelles de s'empiler de manière ordonnée.
+
+Polymers can also behave differently at different
+temperatures.
+Les polymères peuvent également se comporter différemment à différentes
+températures.
+
+When we heat a polymer, at some point it will
+turn rubbery, soft, and flexible.
+Lorsque nous chauffons un polymère, à un moment donné,
+il devient caoutchouteux, doux et flexible.
+
+We call this point the glass transition temperature,
+Tg.
+Nous appelons ce point la température de transition vitreuse,
+Tg.
+
+And if we heat a polymer to a point beyond
+Tg,
+Et si nous chauffons un polymère à un point au-delà de
+Tg,
+
+it will melt completely into a liquidy goop.
+il fondra complètement en une bouillie liquide.
+
+Some polymers, such as polystyrene, have a
+Tg above room temperature.
+Certains polymères, comme le polystyrène, ont une
+Tg supérieure à la température ambiante.
+
+These polymers are hard and brittle at normal
+temperatures,
+Ces polymères sont durs et cassants à des
+températures normales,
+
+because they aren't warm enough to be flexible.
+car ils ne sont pas assez chauds pour être flexibles.
+
+Other polymers, such as polyisoprene, have
+a Tg below room temperature.
+D'autres polymères, tels que le polyisoprène, ont
+une Tg inférieure à la température ambiante.
+
+So they're soft and flexible at normal temperatures
+and would need to be cooled down to get brittle.
+Ils sont donc doux et flexibles à des températures normales
+et devraient être refroidis pour devenir cassants.
+
+How a polymer behaves based on its glass transition
+temperature can have significant consequences,
+Le comportement d'un polymère en fonction de sa température de transition
+vitreuse peut avoir des conséquences importantes,
+
+as demonstrated by the Challenger shuttle
+disaster.
+comme l'a démontré la catastrophe de la navette Challenger
+.
+
+The booster rockets of the Challenger shuttle had polymer seals called O rings on the joints between their segments.
+Les fusées d'appoint de la navette Challenger avaient des joints en polymère appelés joints toriques sur les joints entre leurs segments.
+
+The night prior to the launch, the temperature
+at the launchpad dropped below the Tg of the polymer.
+La nuit précédant le lancement, la température
+au pas de tir est tombée en dessous de la Tg du polymère.
+
+So the O rings lost their elasticity and became
+brittle.
+Ainsi, les joints toriques ont perdu leur élasticité et sont devenus
+cassants.
+
+This change in polymer structure led to fuel
+escaping during the launch,
+Cette modification de la structure du polymère a entraîné une
+fuite de carburant lors du lancement,
+
+which led to the tragic explosion.
+ce qui a conduit à la tragique explosion.
+
+Polymer chemistry is really important to understand,
+La chimie des polymères est vraiment importante à comprendre,
+
+because we use organic polymers in so many different ways.
+car nous utilisons les polymères organiques de tant de façons différentes.
+
+In this episode, we:
+Dans cet épisode, nous avons :
+
+Met examples of addition and condensation
+polymers,
+rencontré des exemples de polymères d'addition et de condensation
+,
+
+Learned different types of polymerization,
+and
+appris différents types de polymérisation,
+et
+
+Saw how the morphology of polymers affects
+their properties.
+vu comment la morphologie des polymères affecte
+leurs propriétés.
+
+In the next episode, we’ll look closer at
+benzene and aromatic compounds,
+Dans le prochain épisode, nous examinerons de plus près le
+benzène et les composés aromatiques,
+
+and how we can use NMR to decipher their structures.
+et comment nous pouvons utiliser la RMN pour déchiffrer leurs structures.
+
+Until then, thanks for watching this episode
+of Crash Course Organic Chemistry.
+En attendant, merci d'avoir regardé cet épisode
+de Crash Course Organic Chemistry.
+
+If you want to help keep all Crash Course
+free for everybody, forever,
+Si vous voulez aider à garder tous les cours intensifs
+gratuits pour tout le monde, pour toujours,
+
+you can join our community on Patreon.
+vous pouvez rejoindre notre communauté sur Patreon.
+

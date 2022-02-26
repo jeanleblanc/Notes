@@ -1,0 +1,680 @@
+You can review content from Crash Course Organic
+Chemistry with the Crash Course app,
+Vous pouvez consulter le contenu de Crash Course Organic
+Chemistry avec l'application Crash Course,
+
+available now on Android and iOS devices.
+disponible dès maintenant sur les appareils Android et iOS.
+
+Hi! I’m Deboki Chakravarti and welcome to Crash
+Course Organic Chemistry!
+Salut!  Je suis Deboki Chakravarti et bienvenue au cours intensif de
+chimie organique !
+
+Antioxidants have gotten a lot of hype as
+a superfood,
+Les antioxydants ont reçu beaucoup de battage médiatique en tant
+que superaliments,
+
+possibly helping us fight illnesses like heart disease and cancer.
+nous aidant peut-être à combattre des maladies comme les maladies cardiaques et le cancer.
+
+On a chemical level, antioxidants are fairly straightforward:
+Au niveau chimique, les antioxydants sont assez simples :
+
+they react with radicals, which are molecules with a single unpaired electron.
+ils réagissent avec les radicaux, qui sont des molécules avec un seul électron non apparié.
+
+We need radicals to stay alive.
+Nous avons besoin de radicaux pour rester en vie.
+
+They combine with oxygen as part of our normal
+metabolism.
+Ils se combinent avec l'oxygène dans le cadre de notre
+métabolisme normal.
+
+But sometimes, these radical reactions produce
+too many reactive oxygen species, or ROS,
+Mais parfois, ces réactions radicalaires produisent
+trop d'espèces réactives de l'oxygène, ou ROS,
+
+like the superoxide radical.
+comme le radical superoxyde.
+
+It's not great to have too many chaotic ROS
+around, so our bodies have ways to control them,
+Ce n'est pas génial d'avoir trop de ROS chaotiques
+, donc notre corps a des moyens de les contrôler,
+
+like an enzyme that turns superoxide back into oxygen.
+comme une enzyme qui transforme le superoxyde en oxygène.
+
+But sometimes, along the way, a more dangerous
+ROS is produced.
+Mais parfois, en cours de route, un ROS plus dangereux
+est produit.
+
+The hydroxyl radical can damage cell membranes,
+proteins, and DNA.
+Le radical hydroxyle peut endommager les membranes cellulaires, les
+protéines et l'ADN.
+
+When our enzymes are overwhelmed, antioxidants
+can come to the rescue,
+Lorsque nos enzymes sont submergées, les antioxydants
+peuvent venir à la rescousse,
+
+giving up single electrons to neutralize cell-damaging radicals.
+abandonnant des électrons uniques pour neutraliser les radicaux qui endommagent les cellules.
+
+For example, Vitamin C can donate a hydrogen
+with a single electron to neutralize ROS.
+Par exemple, la vitamine C peut donner un hydrogène
+avec un seul électron pour neutraliser les ROS.
+
+But nutrition isn't as simple as chugging
+gallons of green tea or blueberry smoothies to live a long life.
+Mais la nutrition n'est pas aussi simple que de boire des
+litres de thé vert ou de smoothies aux myrtilles pour vivre longtemps.
+
+ROS have a purpose:
+Les ROS ont un but :
+
+signaling to our cells that something is wrong, so the cell can correct it… or die.
+signaler à nos cellules que quelque chose ne va pas, afin que la cellule puisse le corriger… ou mourir.
+
+Very high doses of antioxidants can overwhelm those natural signals that too much ROS are being produced in the first place.
+De très fortes doses d'antioxydants peuvent submerger ces signaux naturels indiquant que trop de ROS sont produits en premier lieu.
+
+So, basically, we need balance!
+Donc, fondamentalement, nous avons besoin d'équilibre!
+
+Now that we know a little bit about neutralizing radicals,
+Maintenant que nous en savons un peu plus sur la neutralisation des radicaux,
+
+let’s learn how to make them and explore some of the reactions they perform.
+apprenons à les fabriquer et explorons certaines des réactions qu'ils produisent.
+
+[Theme Music]
+[Thème musical]
+
+So far in this series, we've talked a lot
+about pairs of electrons.
+Jusqu'à présent dans cette série, nous avons beaucoup
+parlé de paires d'électrons.
+
+There are lone pairs, shared pairs of electrons
+in covalent bonds,
+Il existe des paires isolées, des paires d'électrons partagées
+dans des liaisons covalentes
+
+and pushing pairs of electrons around in reaction mechanisms.
+et des paires d'électrons poussant dans les mécanismes de réaction.
+
+We've seen many examples of heterolytic cleavage,
+Nous avons vu de nombreux exemples de clivage hétérolytique,
+
+where a bond breaks and a pair of electrons migrate to one of the two atoms.
+où une liaison se rompt et une paire d'électrons migre vers l'un des deux atomes.
+
+Like when a base is reacted with a hydronium ion, the two electrons from the OH bond both end up on the water molecule.
+Comme lorsqu'une base réagit avec un ion hydronium, les deux électrons de la liaison OH se retrouvent tous les deux sur la molécule d'eau.
+
+But electrons don't always have a buddy.
+Mais les électrons n'ont pas toujours un copain.
+
+A radical is an atom or group of atoms with
+a single unpaired electron.
+Un radical est un atome ou un groupe d'atomes avec
+un seul électron non apparié.
+
+Some radicals are stable, like the chemical
+nitric oxide, which ends up with a radical on nitrogen.
+Certains radicaux sont stables, comme le
+monoxyde d'azote chimique, qui se retrouve avec un radical sur l'azote.
+
+Radicals can also form during chemical reactions
+and make some interesting stuff happen,
+Les radicaux peuvent également se former lors de réactions chimiques
+et provoquer des choses intéressantes,
+
+like the reactive oxygen species we were just talking about.
+comme les espèces réactives de l'oxygène dont nous venons de parler.
+
+This process is called homolytic cleavage,
+Ce processus est appelé clivage homolytique,
+
+where electrons in a broken bond go in equal but different directions, forming two radicals.
+où les électrons d'une liaison rompue vont dans des directions égales mais différentes, formant deux radicaux.
+
+For example, with heat or light, the bond in diatomic chlorine is weak enough to be split equally between the two chlorine atoms,
+Par exemple, avec la chaleur ou la lumière, la liaison du chlore diatomique est suffisamment faible pour être répartie également entre les deux atomes de chlore
+
+with each one getting a single electron.
+, chacun recevant un seul électron.
+
+Instead of using a full arrowhead to push
+the pair of electrons,
+Au lieu d'utiliser une pointe de flèche complète pour pousser
+la paire d'électrons,
+
+we use half-barbed arrows to split the bond, pushing single electrons onto each chlorine atom.
+nous utilisons des flèches à demi barbelées pour diviser la liaison, poussant des électrons uniques sur chaque atome de chlore.
+
+We're finally using those fishhook arrows
+we talked about in episode 13!
+Nous utilisons enfin ces flèches en hameçon dont
+nous avons parlé dans l'épisode 13 !
+
+Radical reactions take place in three stages:
+initiation, propagation and termination.
+Les réactions radicalaires se déroulent en trois étapes :
+initiation, propagation et terminaison.
+
+The initiation stage is where a reactive radical forms.
+L'étape d'initiation est celle où un radical réactif se forme.
+
+We need this reaction to get the party started,
+like the first person who breaks the ice and starts dancing their heart out.
+Nous avons besoin de cette réaction pour que la fête commence,
+comme la première personne qui brise la glace et commence à danser de tout son cœur.
+
+Propagation is where a few radicals bounce
+around, reacting with other molecules.
+La propagation est l'endroit où quelques radicaux
+rebondissent, réagissant avec d'autres molécules.
+
+It's the step that keeps people on the dance
+floor,
+C'est l'étape qui maintient les gens sur la piste de
+danse,
+
+but it's sort of important to limit the number of high-energy guests so things
+don't get too rowdy.
+mais il est assez important de limiter le nombre d'invités énergiques pour que les choses
+ne deviennent pas trop tapageuses.
+
+Importantly, propagation also regenerates
+the reactive radical we made in the initiation step.
+Il est important de noter que la propagation régénère également
+le radical réactif que nous avons créé lors de l'étape d'initiation.
+
+Finally, the termination stage is when the
+radical reaction stops.
+Enfin, l'étape de terminaison correspond à l'
+arrêt de la réaction radicalaire.
+
+We’ve had enough high-energy dancing.
+Nous avons eu assez de danse à haute énergie.
+
+It's time to end the party so everyone can
+go to sleep.
+Il est temps de mettre fin à la fête pour que tout le monde puisse
+aller dormir.
+
+Talking metaphorically about radical reactions
+and parties might be fun,
+Parler métaphoriquement des réactions radicales
+et des fêtes peut être amusant,
+
+but actually looking at examples will help us get more comfortable with them.
+mais regarder des exemples nous aidera à nous sentir plus à l'aise avec eux.
+
+To start, let's look at the radical halogenation of alkanes.
+Pour commencer, regardons l'halogénation radicalaire des alcanes.
+
+To keep things simple, we'll use methane as our alkane
+Pour garder les choses simples, nous utiliserons le méthane comme alcane
+
+(the thing that's going to be radically halogenated, like the name of the reaction).
+(la chose qui va être radicalement halogénée, comme le nom de la réaction).
+
+Our initiation step makes chlorine radicals,
+our high-energy party people.
+Notre étape d'initiation fait des radicaux chlorés,
+nos fêtards à haute énergie.
+
+The propagation stage kicks off when a chlorine
+radical bumps into a methane molecule.
+L'étape de propagation démarre lorsqu'un
+radical chlore heurte une molécule de méthane.
+
+We can think of the chlorine radical as being
+so charismatic that a hydrogen electron wants to party too.
+On peut penser que le radical chlore est
+si charismatique qu'un électron d'hydrogène veut aussi faire la fête.
+
+Or, in reaction terms, make a bond.
+Ou, en termes de réaction, créer un lien.
+
+The hydrogen only needs to donate one of its
+two shared electrons to make a bond and form hydrochloric acid.
+L'hydrogène n'a besoin de donner qu'un seul de ses
+deux électrons partagés pour créer une liaison et former de l'acide chlorhydrique.
+
+So, as a result, a methyl radical forms with
+a single electron on the carbon, sitting happily in a p-orbital.
+Ainsi, en conséquence, un radical méthyle se forme avec
+un seul électron sur le carbone, assis heureusement dans une p-orbitale.
+
+Then, this methyl radical can react with diatomic
+chlorine to make chloromethane plus another chlorine radical,
+Ensuite, ce radical méthyle peut réagir avec le
+chlore diatomique pour former du chlorométhane plus un autre radical chlore,
+
+which can continue the propagation stage by reacting with another molecule of methane, generating a new chlorine radical.
+qui peut continuer l'étape de propagation en réagissant avec une autre molécule de méthane, générant un nouveau radical chlore.
+
+The steps of the chain reaction repeat, and
+the dance party rages on!
+Les étapes de la réaction en chaîne se répètent et
+la soirée dansante fait rage !
+
+Eventually, most of our reagents are used up and it's time to get all the high-energy radicals out of here, so we enter the termination stage.
+Finalement, la plupart de nos réactifs sont épuisés et il est temps d'éliminer tous les radicaux à haute énergie d'ici, nous entrons donc dans la phase de terminaison.
+
+Basically, two radicals make a bond using
+their single electrons,
+Fondamentalement, deux radicaux établissent une liaison en utilisant
+leurs électrons uniques,
+
+all radicals are used up, and the party is officially over.
+tous les radicaux sont épuisés et la fête est officiellement terminée.
+
+Here, there are three possible termination
+steps: we can end with two chlorine radicals,
+Ici, il y a trois
+étapes de terminaison possibles : on peut terminer par deux radicaux chlore,
+
+or instead one methyl radical and one chlorine
+radical, or two methyl radicals can combine.
+ou bien un radical méthyle et un
+radical chlore, ou encore deux radicaux méthyle peuvent se combiner.
+
+Radical reactions happen quickly, and can
+create side products,
+Les réactions radicales se produisent rapidement et peuvent
+créer des produits secondaires,
+
+like how two methyl radicals can make ethane when we’re trying to make chloromethane.
+comme la façon dont deux radicaux méthyle peuvent produire de l'éthane lorsque nous essayons de fabriquer du chlorométhane.
+
+And there are some patterns in radical reactivity
+that we might recognize from other organic reactions.
+Et il existe certains modèles de réactivité radicale
+que nous pourrions reconnaître à partir d'autres réactions organiques.
+
+First of all, more substitution makes a radical
+more stable.
+Tout d'abord, plus de substitution rend un radical
+plus stable.
+
+We've learned that tertiary carbocations are
+the most stable carbocations,
+Nous avons appris que les carbocations tertiaires sont
+les carbocations les plus stables
+
+and tertiary radicals are the most stable radicals too.
+et que les radicaux tertiaires sont également les radicaux les plus stables.
+
+So, for example, if we do radical bromination
+of propane, we can create a primary or secondary radical.
+Ainsi, par exemple, si nous faisons une bromation radicalaire
+du propane, nous pouvons créer un radical primaire ou secondaire.
+
+Because the secondary radical is more stable,
+we get way more of the product that comes from it: 2-bromopropane.
+Parce que le radical secondaire est plus stable,
+nous obtenons beaucoup plus de produit qui en provient : le 2-bromopropane.
+
+But here's a weird thing:
+Mais voici une chose étrange :
+
+if we do radical chlorination of propane, it's much closer to a 50/50 split of the primary and secondary chloropropane products,
+si nous effectuons une chloration radicale du propane, c'est beaucoup plus proche d'une répartition 50/50 des produits chloropropane primaires et secondaires,
+
+even though we still see more 2-chloropropane.
+même si nous voyons toujours plus de 2-chloropropane.
+
+To explain why bromine radicals and chlorine
+radicals act so differently,
+Pour expliquer pourquoi les radicaux brome et les radicaux chlore
+agissent si différemment,
+
+even though they follow the same general pattern, we’ll need to revisit thermodynamics.
+même s'ils suivent le même schéma général, nous devrons revoir la thermodynamique.
+
+The big difference between these two reactions is that the first propagation step in the radical chlorination of propane is exothermic,
+La grande différence entre ces deux réactions est que la première étape de propagation de la chloration radicalaire du propane est exothermique,
+
+which means it loses heat to the surroundings.
+ce qui signifie qu'elle perd de la chaleur dans l'environnement.
+
+Like a chemical hot pack.
+Comme une compresse chaude chimique.
+
+On the other hand, the first propagation step
+in the radical bromination of propane is endothermic,
+D'autre part, la première étape de propagation
+dans la bromation radicalaire du propane est endothermique,
+
+which means the reaction takes in energy from
+its surroundings.
+ce qui signifie que la réaction puise de l'énergie dans
+son environnement.
+
+Like a chemical cold pack!
+Comme une compresse froide chimique !
+
+We need to look closely at the transition
+state of these reactions:
+Nous devons examiner de près l'
+état de transition de ces réactions :
+
+the peak of the hill on an energy diagram, where bonds are partially formed.
+le sommet de la colline sur un diagramme d'énergie, où les liaisons sont partiellement formées.
+
+Hammond’s Postulate is the idea that the transition state of a reaction resembles the species it's closest to in energy.
+Le postulat de Hammond est l'idée que l'état de transition d'une réaction ressemble à l'espèce dont elle est la plus proche en énergie.
+
+In other words, the transition state for an
+exothermic reaction will look more like the reactants.
+En d'autres termes, l'état de transition d'une
+réaction exothermique ressemblera davantage aux réactifs.
+
+While the transition state for an endothermic
+reaction will look more like the products.
+Alors que l'état de transition pour une
+réaction endothermique ressemblera davantage aux produits.
+
+So in the first propagation step of radical
+chlorination, which is exothermic,
+Ainsi, dans la première étape de propagation de la
+chloration radicalaire, qui est exothermique,
+
+the transition state looks a lot like the reactants and happens earlier along the reaction path.
+l'état de transition ressemble beaucoup aux réactifs et se produit plus tôt le long du chemin de réaction.
+
+It doesn’t matter too much that the secondary
+radical is more stable than the primary one,
+Peu importe que le
+radical secondaire soit plus stable que le primaire,
+
+because the transition state doesn’t resemble
+the propyl radical that much.
+car l'état de transition ne ressemble pas
+beaucoup au radical propyle.
+
+Now, our chlorine radical doesn't just pull
+off the first hydrogen it collides with on propane.
+Maintenant, notre radical chlore ne se contente pas d'
+extraire le premier hydrogène avec lequel il entre en collision avec le propane.
+
+The formation of the secondary propyl radical is slightly favored because the activation energy is just a bit lower.
+La formation du radical propyle secondaire est légèrement favorisée car l'énergie d'activation est juste un peu plus faible.
+
+But plenty of primary and secondary radicals
+go on to make the final products.
+Mais de nombreux radicaux primaires et secondaires
+continuent à fabriquer les produits finaux.
+
+But in the first propagation step of radical
+bromination, which is endothermic,
+Mais dans la première étape de propagation de la
+bromation radicalaire, qui est endothermique,
+
+the transition state happens later in the reaction, and resembles a propyl radical much more.
+l'état de transition se produit plus tard dans la réaction et ressemble beaucoup plus à un radical propyle.
+
+In this late transition state, the secondary carbon radical has a significantly lower peak to overcome its activation energy.
+Dans cet état de transition tardif, le radical carboné secondaire a un pic significativement plus bas pour surmonter son énergie d'activation.
+
+So much more of the secondary propyl radical
+forms and goes on to make the major product.
+Il y a tellement plus de formes de radicaux propyle secondaires qui deviennent
+le produit principal.
+
+We've talked about the differences,
+Nous avons parlé des différences,
+
+but one key thing these reactions have in common is taking our couch potato alkanes and adding reactive groups onto them.
+mais une chose essentielle que ces réactions ont en commun est de prendre nos alcanes de patates de canapé et d'y ajouter des groupes réactifs.
+
+This is so important to involve them in more
+exciting organic chemistry.
+C'est tellement important de les impliquer dans
+une chimie organique plus passionnante.
+
+So with alkanes covered, let’s move on.
+Donc, avec les alcanes couverts, passons à autre chose.
+
+Like we saw with superoxide and antioxidants,
+radical reactions can be in compounds with double bonds too.
+Comme nous l'avons vu avec le superoxyde et les antioxydants,
+les réactions radicalaires peuvent également se produire dans des composés à doubles liaisons.
+
+For example, the allylic bromination of alkenes.
+Par exemple, la bromation allylique des alcènes.
+
+This is a more carefully-planned party.
+C'est une fête plus soigneusement planifiée.
+
+Under the right conditions, alkenes can be
+brominated at the carbon next to the double bond,
+Dans les bonnes conditions, les alcènes peuvent être
+bromés au niveau du carbone à côté de la double liaison
+
+which is called the allylic position.
+, appelée position allylique.
+
+As with all radical reactions, the first stage
+is initiation.
+Comme pour toutes les réactions radicales, la première étape
+est l'initiation.
+
+We need a bromine radical!
+Nous avons besoin d'un radical brome !
+
+To make one, we'll take a bromine-containing
+source called N-bromosuccinimide,
+Pour en fabriquer un, nous allons prendre une source contenant du brome
+appelée N-bromosuccinimide,
+
+or NBS for short, and irradiate it with light.
+ou NBS en abrégé, et l'irradier avec de la lumière.
+
+This splits the molecule into radicals, and
+some of these radicals form a small amount of molecular bromine.
+Cela divise la molécule en radicaux, et
+certains de ces radicaux forment une petite quantité de brome moléculaire.
+
+An energetic bromine radical is irresistible
+to an allylic hydrogen electron on cyclohexene,
+Un radical brome énergétique est irrésistible face
+à un électron hydrogène allylique sur le cyclohexène
+
+so the stage is set for propagation.
+, le décor est donc planté pour la propagation.
+
+HBr is formed, and an allyl radical is left
+on the alkene.
+HBr est formé et un radical allyle est laissé
+sur l'alcène.
+
+Basically, allylic hydrogens are so ready to party because this allyl radical is in a p-orbital and is stabilized by resonance with the double bond.
+Fondamentalement, les hydrogènes allyliques sont donc prêts à faire la fête car ce radical allyle est dans une orbitale p et est stabilisé par résonance avec la double liaison.
+
+Resonance stabilization in radicals is super
+important.
+La stabilisation de la résonance dans les radicaux est super
+importante.
+
+In fact, the extensive resonance stabilization in the radical anion formed from Vitamin C is partially why it's such a good antioxidant!
+En fait, la stabilisation étendue de la résonance dans l'anion radical formé à partir de la vitamine C explique en partie pourquoi c'est un si bon antioxydant !
+
+Anyway, to go back to allylic bromination, the propagation stage continues as the allyl radical reacts with the small amounts of molecular bromine we formed.
+Quoi qu'il en soit, pour revenir à la bromation allylique, l'étape de propagation se poursuit car le radical allyle réagit avec les petites quantités de brome moléculaire que nous avons formées.
+
+Even though we have an alkene and molecular
+bromine, 
+Même si nous avons un alcène et un
+brome moléculaire,
+
+which are ingredients in the addition reactions we've learned in the past few episodes, the radical propagation steps are really fast so they take control.
+qui sont des ingrédients des réactions d'addition que nous avons apprises au cours des derniers épisodes, les étapes de propagation radicale sont très rapides, elles prennent donc le contrôle.
+
+The radical reaction keeps propagating until the reagents are all used up and all the radicals pair up, terminating the party.
+La réaction radicale continue de se propager jusqu'à ce que tous les réactifs soient épuisés et que tous les radicaux s'associent, mettant fin à la fête.
+
+Now we've seen alkanes and alkenes, but we
+can't forget about alkynes!
+Maintenant, nous avons vu les alcanes et les alcènes, mais nous
+ne pouvons pas oublier les alcynes !
+
+Specifically, the dissolving metal reduction
+reaction produces E-alkenes from alkynes.
+Plus précisément, la réaction de réduction du métal par dissolution
+produit des E-alcènes à partir d'alcynes.
+
+The "dissolving metal" part of the name comes
+from two reagents that you can see above the reaction arrow:
+La partie "métal dissolvant" du nom provient
+de deux réactifs que vous pouvez voir au-dessus de la flèche de réaction : le
+
+sodium metal dissolves in liquid ammonia to produce solvated electrons
+sodium métallique se dissout dans l'ammoniac liquide pour produire des électrons solvatés
+
+that are floating around and stabilized by
+the ammonia solvent.
+qui flottent et sont stabilisés par
+le solvant ammoniac.
+
+These solvated electrons form a beautiful
+dark blue solution.
+Ces électrons solvatés forment une belle
+solution bleu foncé.
+
+We'll actually talk about colors in organic
+chemistry much later in this series,
+Nous parlerons en fait des couleurs en
+chimie organique beaucoup plus tard dans cette série,
+
+so this is just a sneak peek.
+donc ce n'est qu'un aperçu.
+
+For now, we'll focus on how solvated electrons
+do radical reactions.
+Pour l'instant, nous allons nous concentrer sur la façon dont les électrons solvatés
+font des réactions radicalaires.
+
+It's a little tricky, so we'll use a reaction
+mechanism diagram with orbitals to really see what's happening.
+C'est un peu délicat, nous allons donc utiliser un
+schéma de mécanisme de réaction avec des orbitales pour vraiment voir ce qui se passe.
+
+To kick off the reaction, a solvated electron
+can jump into one of the plain old p orbitals of a pi bond in the alkyne.
+Pour déclencher la réaction, un électron solvaté
+peut sauter dans l'une des anciennes orbitales p simples d'une liaison pi dans l'alcyne.
+
+As the bond homolytically cleaves, this solvated
+electron pairs up with one electron from the triple bond.
+Lorsque la liaison se clive de manière homolytique, cet
+électron solvaté s'apparie avec un électron de la triple liaison.
+
+So now we have a new molecule.
+Nous avons donc maintenant une nouvelle molécule.
+
+The new electron pair causes one carbon to
+have a negative charge,
+La nouvelle paire d'électrons fait qu'un carbone
+a une charge négative,
+
+since it has five valence electrons.
+car il a cinq électrons de valence.
+
+Meanwhile, the other electron from the triple
+bond forms a radical on the other carbon.
+Pendant ce temps, l'autre électron de la triple
+liaison forme un radical sur l'autre carbone.
+
+When this very basic anion finds a source
+of protons, like the ammonia floating around,
+Lorsque cet anion très basique trouve une source
+de protons, comme l'ammoniac flottant,
+
+the negative charge will actually remove a
+proton from ammonia in an acid-base reaction!
+la charge négative enlèvera en fait un
+proton de l'ammoniac dans une réaction acide-base !
+
+To finish this reaction, another solvated
+electron comes along, adds to the orbital holding that radical,
+Pour terminer cette réaction, un autre
+électron solvaté arrive, s'ajoute à l'orbitale tenant ce radical,
+
+and makes another negative charge, putting five valence electrons on the formerly-radical carbon.
+et fait une autre charge négative, mettant cinq électrons de valence sur le carbone anciennement radical.
+
+At this point, the R groups reorganize themselves
+to different sides of the double bond to make a more stable anion.
+À ce stade, les groupes R se réorganisent
+sur différents côtés de la double liaison pour former un anion plus stable.
+
+Finally, another molecule of ammonia is deprotonated,
+and we get an E-alkene!
+Enfin, une autre molécule d'ammoniac est déprotonée,
+et nous obtenons un E-alcène !
+
+And the party can end.
+Et la fête peut se terminer.
+
+Even though we explored antioxidants to solvated
+electrons,
+Même si nous avons exploré les antioxydants aux
+électrons solvatés,
+
+we didn’t even get to how radicals help us make different kinds of plastics.
+nous n'avons même pas compris comment les radicaux nous aident à fabriquer différents types de plastiques.
+
+So don't worry, this won't be the last time
+we hear of them!
+Alors ne vous inquiétez pas, ce ne sera pas la dernière fois que
+nous en entendrons parler !
+
+In this episode, we learned that:
+Dans cet épisode, nous avons appris que : Les
+
+Radicals are highly reactive single electron
+species, which are important in antioxidant chemistry
+radicaux sont des espèces à électron unique hautement réactives
+, qui sont importantes dans la chimie antioxydante
+
+There are three steps in radical reactions:
+initiation, propagation, and termination
+Les réactions radicalaires comportent trois étapes : l'
+initiation, la propagation et la terminaison
+
+Hammond’s postulate helps us predict transition
+states and explain product distributions
+Le postulat de Hammond nous aide à prédire les
+états de transition et à expliquer la distribution des produits
+
+And radical reactions can be used to halogenate
+alkanes and alkenes, and reduce alkynes
+Et les réactions radicalaires  peut être utilisé pour halogéner des
+alcanes et des alcènes, et réduire des alcynes
+
+In the next episode of Crash Course Organic Chemistry, we’ll use these halogenated alkanes in a new type of reaction: substitution.
+Dans le prochain épisode de Crash Course Organic Chemistry, nous utiliserons ces alcanes halogénés dans un nouveau type de réaction : la substitution.
+
+Thanks for watching this episode of Crash
+Course Organic Chemistry.
+Merci d'avoir regardé cet épisode de Crash
+Course Organic Chemistry.
+
+If you want to help keep all Crash Course
+free for everybody, forever, you can join our community on Patreon.
+Si vous voulez aider à garder tous les cours intensifs
+gratuits pour tout le monde, pour toujours, vous pouvez rejoindre notre communauté sur Patreon.
+

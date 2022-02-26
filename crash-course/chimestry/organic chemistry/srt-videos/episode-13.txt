@@ -1,0 +1,425 @@
+You can review content from Crash Course Organic Chemistry with the Crash Course app, available now for Android and iOS devices.
+Vous pouvez consulter le contenu de Crash Course Organic Chemistry avec l'application Crash Course, disponible dès maintenant pour les appareils Android et iOS.
+
+Hi! I’m Deboki Chakravarti and welcome to Crash Course Organic Chemistry!
+Salut!  Je suis Deboki Chakravarti et bienvenue au cours intensif de chimie organique !
+
+Whether it's GPS, a fold-out map, or directions like "head to the big maple tree and turn left," we need navigational tools to help us know where to go.
+Qu'il s'agisse d'un GPS, d'une carte dépliante ou d'indications telles que « dirigez-vous vers le grand érable et tournez à gauche », nous avons besoin d'outils de navigation pour nous aider à savoir où aller.
+
+Especially as we venture to new places.
+Surtout que nous nous aventurons dans de nouveaux endroits.
+
+But there are highways, freeways, roundabouts, stop lights, construction signs, bicycle lanes, and so many other kinds of navigational signs and symbols.
+Mais il existe des autoroutes, des autoroutes, des ronds-points, des feux d'arrêt, des panneaux de construction, des pistes cyclables et bien d'autres types de panneaux et de symboles de navigation.
+
+All the details might be overwhelming at first!
+Tous les détails peuvent sembler écrasants au début !
+
+But with time, we can build up familiarity so we can travel quickly and maybe even effortlessly.
+Mais avec le temps, nous pouvons acquérir une certaine familiarité afin de pouvoir voyager rapidement et peut-être même sans effort.
+
+Chemical reactions have their own navigational language, too, in reaction mechanisms.
+Les réactions chimiques ont également leur propre langage de navigation dans les mécanismes de réaction.
+
+As we get more practice interpreting these roadmaps, we'll be able to use reaction mechanisms to see patterns,
+Au fur et à mesure que nous nous entraînerons à interpréter ces feuilles de route, nous pourrons utiliser des mécanismes de réaction pour voir des modèles,
+
+predict products, and successfully track electrons as they make and break bonds.
+prédire des produits et suivre avec succès les électrons lorsqu'ils créent et rompent des liaisons.
+
+For instance, in the last episode we learned that we only show nucleophilic attack happening with an arrow drawn from the nucleophile to the electrophile.
+Par exemple, dans le dernier épisode, nous avons appris que nous ne montrons qu'une attaque nucléophile se produisant avec une flèche tirée du nucléophile vers l'électrophile.
+
+That’s an important freeway, but there are a lot of organic chemistry navigation skills left to learn, so let’s get to it!
+C'est une autoroute importante, mais il reste encore beaucoup de compétences de navigation en chimie organique à apprendre, alors allons-y !
+
+[Theme Music]
+[Thème musical]
+
+Every chemical reaction has a beginning and an end: we start with one or more reactants and our destination is one or more products.
+Chaque réaction chimique a un début et une fin : nous commençons avec un ou plusieurs réactifs et notre destination est un ou plusieurs produits.
+
+Reaction mechanisms are detailed maps that show us the routes we can take, and many notable pit stops along the way.
+Les mécanismes de réaction sont des cartes détaillées qui nous montrent les itinéraires que nous pouvons emprunter et de nombreux arrêts notables en cours de route.
+
+In non-metaphorical words, a reaction mechanism is a step-by-step sequence that helps us keep track of electron movements,
+En termes non métaphoriques, un mécanisme de réaction est une séquence étape par étape qui nous aide à suivre les mouvements des électrons, les
+
+bonds that break and form, and any molecules that show up over the course of a chemical reaction.
+liaisons qui se rompent et se forment, et toutes les molécules qui apparaissent au cours d'une réaction chimique.
+
+Before we get into specific examples, we need to get comfy with some basic navigational symbols: lots of arrows.
+Avant d'entrer dans des exemples spécifiques, nous devons nous familiariser avec certains symboles de navigation de base : de nombreuses flèches.
+
+Some you might recognize from earlier in this series, but I want to make sure we're all on the same page.
+Vous en reconnaîtrez peut-être certains plus tôt dans cette série, mais je veux m'assurer que nous sommes tous sur la même longueur d'onde.
+
+We can use 6 types of straight arrows to describe the relationship between different molecules, like chemical reactions or resonance structures.
+Nous pouvons utiliser 6 types de flèches droites pour décrire la relation entre différentes molécules, comme les réactions chimiques ou les structures de résonance.
+
+A straight arrow pointing in one direction means a forward reaction, showing reactants becoming products.
+Une flèche droite pointant dans une direction signifie une réaction vers l'avant, montrant que les réactifs deviennent des produits.
+
+Two straight arrows, one on top of the other, mean that the reaction can go in both directions, forward and reverse.
+Deux flèches droites, l'une au-dessus de l'autre, signifient que la réaction peut aller dans les deux sens, en avant et en arrière.
+
+If they melt into each other, this means a step is at equilibrium.
+S'ils se fondent l'un dans l'autre, cela signifie qu'une étape est à l'équilibre.
+
+Sometimes the reactions in an equilibrium will be unbalanced, and we'll see more of some chemicals and less of others in our mixture.
+Parfois, les réactions dans un équilibre seront déséquilibrées, et nous verrons plus de certains produits chimiques et moins d'autres dans notre mélange.
+
+The longer arrow tells us the direction the equilibrium lies.
+La flèche la plus longue nous indique la direction dans laquelle se trouve l'équilibre.
+
+If the long arrow points right, the forward reaction happens more, and the products are favored.
+Si la longue flèche pointe vers la droite, la réaction vers l'avant se produit davantage et les produits sont favorisés.
+
+If the long arrow points left, the backward reaction happens more, and the reactants are favored.
+Si la longue flèche pointe vers la gauche, la réaction en arrière se produit davantage et les réactifs sont favorisés.
+
+Next we have an arrow to represent resonance structures, where we move a charge around one molecule.
+Ensuite, nous avons une flèche pour représenter les structures de résonance, où nous déplaçons une charge autour d'une molécule.
+
+This arrow has a single line with two heads going in opposite directions -- so it's distinct from an equilibrium arrow.
+Cette flèche a une seule ligne avec deux têtes allant dans des directions opposées - elle est donc distincte d'une flèche d'équilibre.
+
+We use curved arrows to show electrons moving around within or between molecules,
+Nous utilisons des flèches courbes pour montrer les électrons se déplaçant à l'intérieur ou entre les molécules,
+
+whether we're dealing with resonance structures within molecules or chemical reactions.
+qu'il s'agisse de structures de résonance dans les molécules ou de réactions chimiques.
+
+A curved arrow with a regular arrowhead means we're pushing two electrons.
+Une flèche incurvée avec une pointe de flèche régulière signifie que nous poussons deux électrons.
+
+And a curved arrow with a harpoon head or fishhook arrowhead means we're only pushing a single electron, also known as a radical.
+Et une flèche incurvée avec une tête de harpon ou une pointe de flèche en hameçon signifie que nous ne poussons qu'un seul électron, également appelé radical.
+
+In general, electron-rich atoms or molecules-- called nucleophiles -- are attracted to electron-poor atoms or molecules -- called electrophiles.
+En général, les atomes ou molécules riches en électrons - appelés nucléophiles - sont attirés par les atomes ou molécules pauvres en électrons - appelés électrophiles.
+
+And these arrows will connect them as electrons get shuffled around and bonds get made and broken.
+Et ces flèches les relieront au fur et à mesure que les électrons se mélangeront et que des liens se créeront et se briseront.
+
+We're gonna put all the arrows we're gonna see throughout organic chemistry in a handy chart.
+Nous allons mettre toutes les flèches que nous allons voir tout au long de la chimie organique dans un tableau pratique.
+
+So, take notes if you want!
+Alors, prenez des notes si vous voulez !
+
+It might be useful as we're still getting familiar with all these symbols.
+Cela pourrait être utile car nous nous familiarisons encore avec tous ces symboles.
+
+Now that we know a few basic symbols, we can start looking at whole maps of chemical reactions.
+Maintenant que nous connaissons quelques symboles de base, nous pouvons commencer à examiner des cartes complètes de réactions chimiques.
+
+Some reaction mechanisms can be multistep and really complex, while others are rather simple.
+Certains mécanismes de réaction peuvent être en plusieurs étapes et vraiment complexes, tandis que d'autres sont plutôt simples.
+
+In the last episode we talked about nucleophilic attack, which involves two types of molecules: electrophiles and nucleophiles.
+Dans le dernier épisode, nous avons parlé d'attaque nucléophile, qui implique deux types de molécules : les électrophiles et les nucléophiles.
+
+An electrophile is electron-loving, so it's something like a carbocation that might have an empty orbital and a positive formal charge.
+Un électrophile aime les électrons, c'est donc quelque chose comme un carbocation qui pourrait avoir une orbitale vide et une charge formelle positive.
+
+A super detailed way to represent a carbocation in a reaction mechanism is by drawing out everything, including the empty p orbital and its molecular geometry.
+Une façon très détaillée de représenter un carbocation dans un mécanisme de réaction consiste à tout dessiner, y compris l'orbitale p vide et sa géométrie moléculaire.
+
+A nucleophile is a molecule with electrons that are ready to react, so it usually has a negative charge or lone pairs.
+Un nucléophile est une molécule avec des électrons prêts à réagir, il a donc généralement une charge négative ou des paires isolées.
+
+Nucleophiles are ready to attack any molecule with a complete or partial positive charge.
+Les nucléophiles sont prêts à attaquer n'importe quelle molécule avec une charge positive complète ou partielle.
+
+So our nucleophile is the starting point for our electrons and the electrophile is their destination.
+Ainsi, notre nucléophile est le point de départ de nos électrons et l'électrophile est leur destination.
+
+We can fill in the rest of our reaction mechanism map with directional, curved arrows.
+Nous pouvons remplir le reste de notre carte du mécanisme de réaction avec des flèches directionnelles et courbes.
+
+When our bromide ion sees the carbocation's empty orbital, the nucleophile attacks the electrophile and donates a pair of electrons.
+Lorsque notre ion bromure voit l'orbite vide du carbocation, le nucléophile attaque l'électrophile et donne une paire d'électrons.
+
+Using the symbols we've learned, we show that electron movement with a regular curved arrowhead.
+En utilisant les symboles que nous avons appris, nous montrons ce mouvement d'électron avec une pointe de flèche incurvée régulière.
+
+That makes a bond, which creates a neutral molecule as the product.
+Cela crée une liaison, qui crée une molécule neutre comme produit.
+
+To show that it's our next (and final) stop in this reaction mechanism, we draw a straight arrow pointing in one direction and the product that’s made.
+Pour montrer que c'est notre prochain (et dernier) arrêt dans ce mécanisme de réaction, nous dessinons une flèche droite pointant dans une direction et le produit qui est fabriqué.
+
+Done!
+Terminé! 
+
+This kind of reaction mechanism map has a lot of detailed information,
+Ce type de carte du mécanisme de réaction contient de nombreuses informations détaillées,
+
+but drawing out orbitals and the geometry of molecules takes a while and makes it hard to focus on just the reaction.
+mais dessiner les orbitales et la géométrie des molécules prend un certain temps et rend difficile la concentration sur la réaction uniquement.
+
+So in reaction mechanisms moving forward, we’ll mostly focus on how the electrons are moving.
+Ainsi, dans les mécanismes de réaction à l'avenir, nous nous concentrerons principalement sur la façon dont les électrons se déplacent.
+
+We just draw arrows, without the extra flair like orbitals.
+Nous dessinons simplement des flèches, sans le flair supplémentaire comme les orbitales.
+
+Sometimes we need maps to check that we know where we're going,
+Parfois, nous avons besoin de cartes pour vérifier que nous savons où nous allons,
+
+like when you look up your favorite restaurant just to be positive you take the right freeway exit.
+comme lorsque vous recherchez votre restaurant préféré juste pour être sûr que vous prenez la bonne sortie d'autoroute.
+
+And navigational tools like maps and road signs are so helpful because they can help us go somewhere we've never been before.
+Et les outils de navigation comme les cartes et les panneaux de signalisation sont très utiles car ils peuvent nous aider à aller là où nous ne sommes jamais allés auparavant.
+
+In organic chemistry, what that means is we can use reaction mechanisms and electron pushing to help us predict products in chemical reactions.
+En chimie organique, cela signifie que nous pouvons utiliser les mécanismes de réaction et la poussée d'électrons pour nous aider à prédire les produits dans les réactions chimiques.
+
+We don't have to memorize every single reaction that has ever existed!
+Nous n'avons pas à mémoriser toutes les réactions qui ont jamais existé !
+
+We just have to navigate carefully through each step of our journey.
+Nous devons juste naviguer avec soin à chaque étape de notre voyage.
+
+For example, let's look at this reaction.
+Par exemple, regardons cette réaction.
+
+We're given the start of a roadmap with three compounds and an arrow that tells us the reaction can go in both directions.
+On nous donne le début d'une feuille de route avec trois composés et une flèche qui nous indique que la réaction peut aller dans les deux sens.
+
+We're not given the product, but we can figure out what it is.
+On ne nous donne pas le produit, mais nous pouvons comprendre ce que c'est.
+
+To start, we have to look for the functional groups on the starting molecule and then what's written above the reaction arrow and think about what they might do.
+Pour commencer, nous devons rechercher les groupes fonctionnels sur la molécule de départ, puis ce qui est écrit au-dessus de la flèche de réaction et réfléchir à ce qu'ils pourraient faire.
+
+Here, we've got an alkene and some water and sulfuric acid.
+Ici, nous avons un alcène et de l'eau et de l'acide sulfurique.
+
+Sulfuric acid is a super strong acid -- almost as strong as hydrochloric acid or hydrobromic acid -- which means its most acidic proton completely dissociates in water.
+L'acide sulfurique est un acide super fort - presque aussi fort que l'acide chlorhydrique ou l'acide bromhydrique - ce qui signifie que son proton le plus acide se dissocie complètement dans l'eau.
+
+We talk about acidity in more detail in episode 11, so rewatch that video if you need a refresher.
+Nous parlons de l'acidité plus en détail dans l'épisode 11, alors revoyez cette vidéo si vous avez besoin d'un rappel.
+
+But simply, sulfuric acid doesn’t argue when the water molecule grabs a proton to form a hydronium ion -- H3O+.
+Mais simplement, l'acide sulfurique ne discute pas lorsque la molécule d'eau attrape un proton pour former un ion hydronium -- H3O+.
+
+After puzzling through that road sign, we can properly start our reaction mechanism journey with 2 reactants.
+Après avoir parcouru ce panneau de signalisation, nous pouvons correctement commencer notre voyage dans le mécanisme de réaction avec 2 réactifs.
+
+We have cis-but-2-ene, which has an electron-rich double bond -- a nucleophile.
+Nous avons le cis-but-2-ène, qui a une double liaison riche en électrons -- un nucléophile.
+
+And we have a hydronium ion, which has a positive formal charge -- an electrophile.
+Et nous avons un ion hydronium, qui a une charge formelle positive -- un électrophile.
+
+We can mark these regions in red and blue, respectively, to see our reaction hot spots.
+Nous pouvons marquer ces régions en rouge et bleu, respectivement, pour voir nos points chauds de réaction.
+
+Because double bonds have a lot of electrons between just two atoms, they're attracted to positive regions.
+Parce que les doubles liaisons ont beaucoup d'électrons entre seulement deux atomes, elles sont attirées par les régions positives.
+
+So we know where the first reaction will happen!
+Nous savons donc où se produira la première réaction !
+
+Let's draw a regular curved arrow that starts on the electrons in the double bond and does a nucleophilic attack on the electrophilic hydronium ion.
+Traçons une flèche incurvée régulière qui commence sur les électrons de la double liaison et effectue une attaque nucléophile sur l'ion hydronium électrophile.
+
+Remember, even though it might be tempting to show the electrons going straight to the positive charge on oxygen,
+N'oubliez pas que même s'il peut être tentant de montrer les électrons allant directement à la charge positive de l'oxygène,
+
+that move would give oxygen ten electrons, which is not allowed!
+ce mouvement donnerait à l'oxygène dix électrons, ce qui n'est pas autorisé !
+
+It's also not okay for hydrogen to have two bonds in organic chemistry mechanisms.
+Il n'est pas non plus acceptable que l'hydrogène ait deux liaisons dans les mécanismes de la chimie organique.
+
+So we have to draw one arrow to attack a hydrogen, and a second arrow to move a pair of electrons to the positively-charged oxygen atom,
+Nous devons donc dessiner une flèche pour attaquer un hydrogène et une deuxième flèche pour déplacer une paire d'électrons vers l'atome d'oxygène chargé positivement,
+
+which neutralizes the charge.
+ce qui neutralise la charge.
+
+Since the double bond attacks a proton--an electrophile--this step is called electrophilic addition of a proton to an alkene.
+Puisque la double liaison attaque un proton - un électrophile - cette étape est appelée addition électrophile d'un proton à un alcène.
+
+Now we have a plain old water molecule and a carbocation, which is quite reactive, so we're not done yet!
+Maintenant, nous avons une vieille molécule d'eau ordinaire et un carbocation, qui est assez réactif, donc nous n'avons pas encore fini !
+
+This is just a pit stop, and we still have farther to go on our road map.
+Ce n'est qu'un arrêt au stand, et nous avons encore du chemin à parcourir sur notre feuille de route.
+
+Specifically, this is a prime setup for another nucleophilic attack, this time with water as the nucleophile and the carbocation as the electrophile.
+Plus précisément, il s'agit d'une configuration de choix pour une autre attaque nucléophile, cette fois avec de l'eau comme nucléophile et le carbocation comme électrophile.
+
+So next, we can draw a curved arrow from a lone pair of electrons on the oxygen in water to the positively-charged carbon in the carbocation.
+Ensuite, nous pouvons dessiner une flèche incurvée d'une seule paire d'électrons sur l'oxygène dans l'eau au carbone chargé positivement dans le carbocation.
+
+This electron-push forms a bond and gives us a protonated alcohol called an oxonium ion.
+Cette poussée d'électrons forme une liaison et nous donne un alcool protoné appelé ion oxonium.
+
+That's the oxygen atom with a carbon-oxygen bond, two hydrogen-oxygen bonds, a positive charge, and a lone pair.
+C'est l'atome d'oxygène avec une liaison carbone-oxygène, deux liaisons hydrogène-oxygène, une charge positive et une paire isolée.
+
+The pKa of this protonated alcohol is very low.
+Le pKa de cet alcool protoné est très faible.
+
+As another refresher from the acidity episode: a low pKa means a stronger acid that's more willing to give up its hydrogen.
+Comme autre rappel de l'épisode d'acidité : un pKa faible signifie un acide plus fort qui est plus disposé à abandonner son hydrogène.
+
+So we're still not done yet!
+Nous n'avons donc pas encore fini !
+
+After a second pit stop, we have one final acid-base reaction.
+Après un deuxième arrêt au stand, nous avons une dernière réaction acido-basique.
+
+There are still water molecules floating around, so our reactants are a water molecule (as our base) and the oxonium ion (as our acid).
+Il y a encore des molécules d'eau qui flottent, donc nos réactifs sont une molécule d'eau (comme notre base) et l'ion oxonium (comme notre acide).
+
+We can draw one last curved arrow from a lone pair of electrons on the oxygen in water to deprotonate the oxonium ion
+Nous pouvons dessiner une dernière flèche courbe à partir d'une seule paire d'électrons sur l'oxygène dans l'eau pour déprotoner l'ion oxonium
+
+and reform the hydronium ion catalyst we started with.
+et reformer le catalyseur d'ion hydronium avec lequel nous avons commencé.
+
+As final products, we have regenerated our hydronium ion catalyst and made butan-2-ol.
+En tant que produits finaux, nous avons régénéré notre catalyseur d'ions hydronium et fabriqué du butan-2-ol.
+
+There’s nothing left in solution that's interesting to the butan-2-ol…
+Il ne reste plus rien en solution qui soit intéressant pour le butan-2-ol…
+
+So that means we’ve reached our destination!
+Cela signifie donc que nous avons atteint notre destination !
+
+We could draw out a comprehensive reaction mechanism with all of these steps, including our starting point, our destination, and all the pit stops.
+Nous pourrions dessiner un mécanisme de réaction complet avec toutes ces étapes, y compris notre point de départ, notre destination et tous les arrêts aux stands.
+
+But it's often simpler to sum up our work with the overall reaction:
+Mais c'est souvent plus simple de résumer notre travail avec la réaction globale :
+
+It was a long and winding road trip to get here, but we predicted a product!
+C'était un voyage long et sinueux pour arriver ici, mais nous avons prédit un produit !
+
+Not even the most celebrated Nobel-prize-winning organic chemist knows every single reaction from start to finish.
+Même le chimiste organique le plus célèbre et lauréat du prix Nobel ne connaît pas chaque réaction du début à la fin.
+
+Knowing the navigational language of reaction mechanisms and how to push electrons can help us solve any problem step-by-step.
+Connaître le langage de navigation des mécanismes de réaction et savoir comment pousser les électrons peut nous aider à résoudre n'importe quel problème étape par étape.
+
+Now, I don't want to amp up the difficulty too much, but let's practice our basic reaction mechanism skills once more with a slightly different example.
+Maintenant, je ne veux pas trop augmenter la difficulté, mais pratiquons une fois de plus nos compétences de base en matière de mécanisme de réaction avec un exemple légèrement différent.
+
+In this reaction, we're given the start of a roadmap with an arrow meaning a forward reaction… but we're given lots of different chemicals here.
+Dans cette réaction, on nous donne le début d'une feuille de route avec une flèche signifiant une réaction vers l'avant… mais on nous donne ici beaucoup de produits chimiques différents.
+
+And it might look a little overwhelming!
+Et cela pourrait sembler un peu écrasant!
+
+But don't worry.
+Mais ne vous inquiétez pas.
+
+Let's start, again, by looking at the functional groups and what's written near the reaction arrow and figure out what it means.
+Commençons, encore une fois, en regardant les groupes fonctionnels et ce qui est écrit près de la flèche de réaction et découvrons ce que cela signifie.
+
+In this puzzle, the 1 and the 2 represent two steps that have to take place in that order.
+Dans ce puzzle, le 1 et le 2 représentent deux étapes qui doivent se dérouler dans cet ordre.
+
+So we need a little more road signage to help us with our journey.
+Nous avons donc besoin d'un peu plus de signalisation routière pour nous aider dans notre voyage.
+
+We'll start with the reactants labeled 1 and our cyclohexanone.
+Nous allons commencer avec les réactifs étiquetés 1 et notre cyclohexanone.
+
+Sodium acetylide is dissociated in solution as an ionic salt,
+L'acétylure de sodium est dissocié en solution sous forme de sel ionique,
+
+the negative carbon of the triple bond is very reactive so it does the driving while the sodium is just along for the ride.
+le carbone négatif de la triple liaison est très réactif donc c'est lui qui conduit alors que le sodium est juste le long du trajet.
+
+That means the acetylide is our nucleophile and the partially positive carbon of the carbon-oxygen double bond in cyclohexanone is its electrophile target.
+Cela signifie que l'acétylure est notre nucléophile et que le carbone partiellement positif de la double liaison carbone-oxygène dans la cyclohexanone est sa cible électrophile.
+
+With our players identified, we can draw the nucleophilic attack with a regular curved arrow from the lone pair on the acetylide to the partially positive carbon.
+Avec nos joueurs identifiés, nous pouvons dessiner l'attaque nucléophile avec une flèche courbe régulière de la paire isolée sur l'acétylure au carbone partiellement positif.
+
+We can't take a pit stop there, though, because that would be 5 bonds to carbon and break science!
+Nous ne pouvons pas nous arrêter ici, car ce serait 5 liaisons au carbone et briser la science !
+
+Well, for this typical organic compound, at least.
+Eh bien, pour ce composé organique typique, au moins.
+
+So we have to push electrons to the electronegative oxygen and then we're done.
+Nous devons donc pousser les électrons vers l'oxygène électronégatif, puis nous avons terminé.
+
+So this molecule is the first pit stop on our roadmap, and the positively-charged sodium ion is just hanging around stabilizing the negatively charged oxygen.
+Cette molécule est donc le premier arrêt au stand de notre feuille de route, et l'ion sodium chargé positivement ne fait que traîner pour stabiliser l'oxygène chargé négativement.
+
+Now, we could stop here for dinner, this sodium salt is stable in our reaction flask,
+Maintenant, nous pourrions nous arrêter ici pour le dîner, ce sel de sodium est stable dans notre flacon de réaction,
+
+but we know that there's a better BBQ joint just down the street, so we’ll keep on driving.
+mais nous savons qu'il y a un meilleur joint de barbecue juste en bas de la rue, alors nous continuerons à conduire.
+
+Now that we've followed number 1 on the reaction arrow, we can move onto the directions listed in number 2.
+Maintenant que nous avons suivi le numéro 1 sur la flèche de réaction, nous pouvons passer aux directions indiquées au numéro 2.
+
+We've got some water and hydrochloric acid, which is super strong and completely dissociates.
+Nous avons de l'eau et de l'acide chlorhydrique, qui est super fort et se dissocie complètement.
+
+So just like the last puzzle, this road sign basically means add in a hydronium ion!
+Donc, tout comme le dernier casse-tête, ce panneau routier signifie essentiellement ajouter un ion hydronium !
+
+This negatively charged ion doesn't have resonance stabilization, so just like the conjugate base of ethanol we met in episode 11, this is a strong base.
+Cet ion chargé négativement n'a pas de stabilisation de résonance, donc tout comme la base conjuguée de l'éthanol que nous avons rencontrée dans l'épisode 11, c'est une base forte.
+
+Our hydronium ion is a strong acid, so the proton is transferred from the acid to the base, and presto, we’ve made a neutral product.
+Notre ion hydronium est un acide fort, donc le proton est transféré de l'acide à la base, et hop, nous avons fait un produit neutre.
+
+And with that final bond, we’re done.
+Et avec ce lien final, nous avons terminé.
+
+We've got some side products like water and sodium chloride, but most importantly we have 1-ethynylcyclohexan-1-ol.
+Nous avons des sous-produits comme l'eau et le chlorure de sodium, mais surtout nous avons le 1-éthynylcyclohexan-1-ol.
+
+In summary, the reaction mechanism looks like this:
+En résumé, le mécanisme de réaction ressemble à ceci :
+
+Don’t panic, all the atoms are there, I promise!
+Pas de panique, tous les atomes sont là, promis !
+
+But by convention, side products like water and sodium chloride aren’t shown in a summary reaction, we just show the major organic product.
+Mais par convention, les produits secondaires comme l'eau et le chlorure de sodium ne sont pas présentés dans une réaction sommaire, nous montrons simplement le produit organique principal.
+
+We made it through this journey by using a few key navigational tools, and without a whole bunch of memorization.
+Nous avons traversé ce voyage en utilisant quelques outils de navigation clés, et sans tout un tas de mémorisation.
+
+We'll keep building up our toolkit even more in episodes to come.
+Nous continuerons à développer encore plus notre boîte à outils dans les épisodes à venir.
+
+In this episode, we learned:
+Dans cet épisode, nous avons appris :
+
+How to write reaction mechanisms or maps of reactions
+Comment écrire des mécanismes de réaction ou des cartes de réactions
+
+That strong acids in water should be considered hydronium ions or sources of protons
+Que des acides forts dans l'eau doivent être considérés comme des ions hydronium ou des sources de protons
+
+And electron rich atoms or regions of molecules are attracted to electron-poor atoms or regions of molecules
+Et que des atomes ou des régions de molécules riches en électrons sont attirés par des atomes ou des régions de molécules pauvres en électrons
+
+Next time we’ll look more closely at that positively charged carbon with the empty p-orbital as we begin reactions of alkenes.
+Suivant  fois nous regarderons de plus près ce carbone chargé positivement avec l'orbitale p vide alors que nous commençons les réactions des alcènes.
+
+Thanks for watching this episode of Crash Course Organic Chemistry.
+Merci d'avoir regardé cet épisode de Crash Course Organic Chemistry.
+
+If you want to help keep all Crash Course
+free for everybody, forever, you can join our community on Patreon.
+Si vous voulez aider à garder tous les cours intensifs
+gratuits pour tout le monde, pour toujours, vous pouvez rejoindre notre communauté sur Patreon.
+

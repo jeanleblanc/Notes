@@ -1,0 +1,676 @@
+Thanks to CuriosityStream for supporting PBS
+Digital Studios.
+Merci à CuriosityStream pour son soutien à PBS
+Digital Studios.
+
+Our world isn’t just some big rock we live
+on.
+Notre monde n'est pas qu'un gros rocher sur lequel nous
+vivons.
+
+It’s an ever-changing environment, with
+countless creatures – us included – just
+trying to survive.
+C'est un environnement en constante évolution, avec d'
+innombrables créatures - nous y compris -
+essayant juste de survivre.
+
+That’s why as an engineer, you have to think
+about how you affect the world and how the
+world affects us.
+C'est pourquoi, en tant qu'ingénieur, vous devez réfléchir
+à la manière dont vous affectez le monde et à la manière dont le
+monde nous affecte.
+
+If we want to try and live in harmony with
+nature, we need environmental engineering.
+Si nous voulons essayer de vivre en harmonie avec la
+nature, nous avons besoin d'une ingénierie environnementale.
+
+[Theme Music]
+[Thème Musique]
+
+Environmental engineering combines natural sciences
+like chemistry and biology with engineering principles to
+come up with solutions to environmental problems.
+L'ingénierie environnementale combine les sciences naturelles
+comme la chimie et la biologie avec des principes d'ingénierie pour
+trouver des solutions aux problèmes environnementaux.
+
+It boils down to three main things:
+protecting people from the environment,
+Cela se résume à trois choses principales :
+protéger les gens de l'environnement,
+
+protecting the environment from people,
+and improving the overall quality of the
+world around us.
+protéger l'environnement des gens
+et améliorer la qualité globale du
+monde qui nous entoure.
+
+As an environmental engineer, you’ll be
+looking into issues such as public health
+and sustainability.
+En tant qu'ingénieur en environnement, vous vous
+pencherez sur des questions telles que la santé publique
+et la durabilité.
+
+You’ll be especially concerned with controlling
+air and water quality.
+Vous serez particulièrement concerné par le contrôle de
+la qualité de l'air et de l'eau.
+
+The air we breathe and the water we drink
+are crucial to life itself, and even simple
+changes can lead to serious problems.
+L'air que nous respirons et l'eau que nous buvons
+sont essentiels à la vie elle-même, et même de simples
+changements peuvent entraîner de graves problèmes.
+
+Take, for instance, what happened in Flint,
+Michigan.
+Prenez, par exemple, ce qui s'est passé à Flint,
+dans le Michigan.
+
+After switching the city’s water source
+to the Flint River back in 2014, Flint’s
+drinking water became dangerous.
+Après avoir remplacé la source d'eau de la ville par
+la rivière Flint en 2014,
+l'eau potable de Flint est devenue dangereuse.
+
+Untreated river water corroded the pipes,
+contaminating the water with lead.
+L'eau de rivière non traitée corrodait les tuyaux,
+contaminant l'eau avec du plomb.
+
+Lead consumption affects everything from your
+heart to your brain, leading to cardiovascular problems
+like elevated blood pressure and hypertension,
+La consommation de plomb affecte tout, de votre
+cœur à votre cerveau, entraînant des problèmes cardiovasculaires
+tels que l'hypertension artérielle et l'hypertension
+
+as well as neurological issues like
+increased aggression or difficulty thinking.
+, ainsi que des problèmes neurologiques tels
+qu'une agressivité accrue ou des difficultés à penser.
+
+The contamination was also tied to an outbreak
+of Legionnaires’ diseases that caused at least
+12 deaths.
+La contamination était également liée à une épidémie
+de maladies des légionnaires qui a fait au moins
+12 morts.
+
+One study even found that fertility rates
+decreased by 12% and fetal death rates went
+up by more than half.
+Une étude a même révélé que les taux de fécondité avaient
+diminué de 12 % et que les taux de mortalité fœtale avaient
+augmenté de plus de moitié.
+
+Solving the problem isn’t just about switching
+Flint’s drinking water back to a better source.
+Résoudre le problème ne consiste pas seulement à
+remettre l'eau potable de Flint à une meilleure source.
+
+All of the city’s damaged pipes need to
+be replaced before the water will truly be
+safe to drink again.
+Tous les tuyaux endommagés de la ville doivent
+être remplacés avant que l'eau ne soit vraiment
+potable à nouveau.
+
+It will take years to fix what could’ve
+been avoided.
+Il faudra des années pour réparer ce qui aurait pu
+être évité.
+
+The lesson here is that you need to make sure
+whatever water source you’re using, it isn’t going
+to mess up any systems already in place.
+La leçon ici est que vous devez vous assurer que,
+quelle que soit la source d'eau que vous utilisez, elle ne va
+pas gâcher les systèmes déjà en place.
+
+We now know that water from the Flint River
+should’ve been treated with alkaline chemicals to
+reduce corrosivity before being fed into the city’s pipes.
+Nous savons maintenant que l'eau de la rivière Flint
+aurait dû être traitée avec des produits chimiques alcalins pour
+réduire la corrosivité avant d'être introduite dans les tuyaux de la ville.
+
+It’s not just drinking water –
+Il ne s'agit pas seulement d'eau potable -
+
+you need to be concerned with water quality
+whenever you’re dealing with an aquatic environment,
+like a natural water supply that houses fish.
+vous devez vous soucier de la qualité de l'eau
+chaque fois que vous avez affaire à un environnement aquatique,
+comme un approvisionnement en eau naturel qui abrite des poissons.
+
+Flint’s problem was rooted in human safety,
+but just as often it’s the safety of other organisms
+you need to be worried about.
+Le problème de Flint était enraciné dans la sécurité humaine,
+mais tout aussi souvent, c'est la sécurité des autres organismes
+qui doit vous inquiéter.
+
+It’s critical that your work doesn’t dramatically
+alter the local water’s natural characteristics.
+Il est essentiel que votre travail ne modifie pas radicalement
+les caractéristiques naturelles de l'eau locale.
+
+Like, for instance, its dissolved oxygen content.
+Comme, par exemple, sa teneur en oxygène dissous.
+
+Fish and other aquatic creatures need to consume
+oxygen from the water around them in order to survive.
+Les poissons et autres créatures aquatiques ont besoin de consommer l'
+oxygène de l'eau qui les entoure pour survivre.
+
+It’s impossible to perfectly predict the
+amount of dissolved oxygen needed,
+Il est impossible de prédire parfaitement la
+quantité d'oxygène dissous nécessaire,
+
+but in general, a level of about 4-5 parts per million
+is usually the bare minimum necessary to support
+an underwater population.
+mais en général, un niveau d'environ 4 à 5 parties par million
+est généralement le strict minimum nécessaire pour soutenir
+une population sous-marine.
+
+Get up to 9 parts per million and you have a
+thriving community, but drop below 3 and even
+the toughest fish won’t be able to survive.
+Obtenez jusqu'à 9 parties par million et vous avez une
+communauté prospère, mais descendez en dessous de 3 et même
+les poissons les plus coriaces ne pourront pas survivre.
+
+Cold water can hold more dissolved oxygen
+than warm water, so cooling off a lake can
+help to correct low levels.
+L'eau froide peut contenir plus d'oxygène dissous
+que l'eau chaude, donc le refroidissement d'un lac peut
+aider à corriger les faibles niveaux.
+
+Photosynthesis from the water’s plants will
+also produce oxygen, so it might not be a
+bad idea to add some greenery, too.
+La photosynthèse des plantes aquatiques
+produira également de l'oxygène, donc ce n'est peut-être pas une
+mauvaise idée d'ajouter de la verdure aussi.
+
+Another thing to worry about is the pH level:
+how acidic or basic is it?
+Une autre chose dont il faut s'inquiéter est le niveau de pH : à
+quel point est-il acide ou basique ?
+
+Pure water has a pH level of 7.
+L'eau pure a un pH de 7.
+
+Below 7 is acidic and above 7 is basic.
+En dessous de 7, c'est acide et au-dessus de 7, c'est basique.
+
+Generally, a pH range of about 6 to 8 supports
+life.
+Généralement, une plage de pH d'environ 6 à 8 soutient la
+vie.
+
+But go too far outside of these levels and
+you’ll start running into trouble, especially
+on the lower end.
+Mais allez trop loin en dehors de ces niveaux et
+vous commencerez à avoir des problèmes, en particulier
+au bas de l'échelle.
+
+Fish will usually start to die at pH levels
+under 5.
+Les poissons commencent généralement à mourir à des niveaux de pH
+inférieurs à 5.
+
+More acidic water can also leach
+metals from your pipes, such as copper,
+zinc, or lead – like in Flint.
+Une eau plus acide peut également lixivier des
+métaux de vos tuyaux, tels que le cuivre, le
+zinc ou le plomb, comme dans Flint.
+
+Drinking water with a higher pH level isn’t
+as dangerous,
+Boire de l'eau avec un pH plus élevé n'est pas
+aussi dangereux,
+
+but it can cause drinks to taste bitter and
+lead to mineral build-up in your plumbing,
+which makes it harder for water to flow.
+mais cela peut donner un goût amer aux boissons et
+entraîner une accumulation de minéraux dans votre plomberie,
+ce qui rend plus difficile l'écoulement de l'eau.
+
+You can try to correct out-of-range pH levels
+by adding other chemicals to the water, but those
+need to be supportive of your overall system.
+Vous pouvez essayer de corriger les niveaux de pH hors plage
+en ajoutant d'autres produits chimiques à l'eau, mais ceux-ci
+doivent soutenir l'ensemble de votre système.
+
+For instance, if you’re adding salt to try and correct
+out-of-range pH levels, you could throw off the water’s
+salinity, or the amount of dissolved salt.
+Par exemple, si vous ajoutez du sel pour essayer de corriger
+les niveaux de pH hors plage, vous pouvez modifier la salinité de l'eau
+ou la quantité de sel dissous.
+
+That definitely won’t taste the best, but
+it reduces the dissolved oxygen; in environmental
+engineering, everything is connected.
+Ce ne sera certainement pas le meilleur goût, mais
+cela réduit l'oxygène dissous;  en
+génie de l'environnement, tout est lié.
+
+You can tell how much salt is in the water
+by measuring its conductivity, or how well
+electricity flows through it.
+Vous pouvez savoir combien de sel il y a dans l'eau
+en mesurant sa conductivité ou dans quelle mesure l'
+électricité la traverse.
+
+The more salt, the more ions, and the better
+the water will conduct electricity.
+Plus il y a de sel, plus il y a d'ions et mieux
+l'eau conduira l'électricité.
+
+And any hormones that make their way into a
+water supply can have pretty substantial effects.
+Et toutes les hormones qui pénètrent dans un
+approvisionnement en eau peuvent avoir des effets assez importants.
+
+Many of the medicines you take end up in
+your sewage and can affect entire aquatic
+populations.
+Bon nombre des médicaments que vous prenez finissent dans
+vos eaux usées et peuvent affecter des populations aquatiques entières
+.
+
+Estrogen is especially important because it’s
+hard to filter out.
+L'œstrogène est particulièrement important car il est
+difficile à filtrer.
+
+When released at the right concentrations,
+scientists have seen it change the sex of
+entire schools of fish!
+Lorsqu'il est libéré aux bonnes concentrations, les
+scientifiques l'ont vu changer le sexe de
+bancs entiers de poissons !
+
+There are many other factors that affect water quality,
+like how clear the water is, what nutrients are in it, and
+if it has any viruses or bacteria swimming around.
+De nombreux autres facteurs affectent la qualité de l'eau,
+comme la clarté de l'eau, les nutriments qu'elle contient et la présence
+éventuelle de virus ou de bactéries.
+
+But no matter the problem, you need to treat
+it.
+Mais peu importe le problème, vous devez le
+traiter.
+
+And you don’t just want to play clean-up
+after a disaster – you want to try to snuff
+out the problem at the source.
+Et vous ne voulez pas simplement jouer au nettoyage
+après une catastrophe - vous voulez essayer d'
+étouffer le problème à la source.
+
+One way to remove unwanted material is through
+a process called coagulation.
+Une façon d'éliminer les matières indésirables consiste à utiliser
+un processus appelé coagulation.
+
+It works by adding a chemical like aluminum
+sulfate that causes small particles to stick
+together, or coagulate.
+Cela fonctionne en ajoutant un produit chimique comme le
+sulfate d'aluminium qui fait que les petites particules se
+collent ou coagulent.
+
+As they clump, they become larger and easier
+to remove with something like a filter.
+Au fur et à mesure qu'ils s'agglutinent, ils deviennent plus gros et plus faciles
+à enlever avec quelque chose comme un filtre.
+
+You can clean water by focusing on things
+like rivers and sewers.
+Vous pouvez nettoyer l'eau en vous concentrant sur des choses
+comme les rivières et les égouts.
+
+It’s a whole different problem to clean
+something that’s all around us, like the air.
+C'est un tout autre problème de nettoyer
+quelque chose qui nous entoure, comme l'air.
+
+From exhaust fumes to smokestacks and insecticides,
+there are countless forms of airborne pollution.
+Des gaz d'échappement aux cheminées et aux insecticides,
+il existe d'innombrables formes de pollution atmosphérique.
+
+Factories are among the largest culprits, producing
+chemicals like carbon monoxide and sulfur dioxide
+as byproducts of the combustion process.
+Les usines sont parmi les plus grands coupables, produisant des
+produits chimiques comme le monoxyde de carbone et le dioxyde de soufre
+comme sous-produits du processus de combustion.
+
+Breathing in too much carbon monoxide can
+lead to flu-like symptoms, such as dizziness,
+weakness, and vomiting.
+Respirer trop de monoxyde de carbone peut
+entraîner des symptômes pseudo-grippaux, tels que des étourdissements, une
+faiblesse et des vomissements.
+
+Enough exposure can even be fatal.
+Une exposition suffisante peut même être mortelle.
+
+Every year, more than 20,000 people in the US end up
+in the emergency room, due to non-fire related carbon
+monoxide poisoning, so this is a pretty big problem.
+Chaque année, plus de 20 000 personnes aux États-Unis se retrouvent
+aux urgences, en raison d'un empoisonnement au monoxyde de carbone non lié au feu
+, c'est donc un problème assez important.
+
+When pollutants like these get in the air,
+you need to find out not just how they got there,
+but how far they’re going to travel.
+Lorsque des polluants comme ceux-ci pénètrent dans l'air,
+vous devez savoir non seulement comment ils sont arrivés là,
+mais aussi quelle distance ils vont parcourir.
+
+High wind speeds and storms will be able to
+carry the pollutants farther than a light breeze.
+Des vents violents et des tempêtes pourront
+transporter les polluants plus loin qu'une légère brise.
+
+But probably the biggest thing you need to
+be concerned about is the size of the pollutants.
+Mais la plus grande chose dont vous devez
+vous préoccuper est probablement la taille des polluants.
+
+The smaller they are, the harder it is to
+filter them out.
+Plus ils sont petits, plus il est difficile de les
+filtrer.
+
+For example, bacteria are typically bigger
+than viruses.
+Par exemple, les bactéries sont généralement plus grosses
+que les virus.
+
+If your friend has a cold that they don’t
+want to spread, they should wear a face mask
+with extremely small pores.
+Si votre ami a un rhume qu'il ne
+veut pas propager, il doit porter un masque facial
+avec des pores extrêmement petits.
+
+Remember, the common cold is a virus, so the
+pores need to be smaller than if they were just
+trying to stop the spread of everyday bacteria.
+N'oubliez pas que le rhume est un virus, donc les
+pores doivent être plus petits que s'ils essayaient simplement
+d'arrêter la propagation des bactéries de tous les jours.
+
+Filters can remove many pollutants from the
+air, but they come with some limitations.
+Les filtres peuvent éliminer de nombreux polluants de l'
+air, mais ils présentent certaines limites.
+
+Some of the smallest particles can slip through
+and larger ones clog things up, so they need to be
+replaced even when working properly.
+Certaines des plus petites particules peuvent passer à travers
+et les plus grosses obstruent les choses, elles doivent donc être
+remplacées même lorsqu'elles fonctionnent correctement.
+
+That’s where absorption towers come in.
+C'est là qu'interviennent les tours d'absorption.
+
+They combine liquid falling from above with
+air rising from below to remove many kinds
+of particles.
+Elles combinent le liquide tombant d'en haut avec l'
+air montant d'en bas pour éliminer de nombreux types
+de particules.
+
+Another way to remove pollutants is by using
+an electrostatic air filter.
+Une autre façon d'éliminer les polluants consiste à utiliser
+un filtre à air électrostatique.
+
+These are made up of multiple layers of vented metal
+and essentially work like a magnet for any unwanted
+particles floating in the air, such as dust, mold, or pollen.
+Ceux-ci sont constitués de plusieurs couches de métal ventilé
+et fonctionnent essentiellement comme un aimant pour toutes les
+particules indésirables flottant dans l'air, telles que la poussière, la moisissure ou le pollen.
+
+As air passes through the first layer of metal,
+the molecules in the air are positively charged by
+the friction between the air and the filter.
+Lorsque l'air traverse la première couche de métal,
+les molécules dans l'air sont chargées positivement par
+le frottement entre l'air et le filtre.
+
+With their new positive charge, the molecules will attach themselves to the next couple of layers as they try to pass through the rest of the filter, essentially getting trapped inside.
+Avec leur nouvelle charge positive, les molécules s'attacheront aux deux couches suivantes alors qu'elles essaieront de traverser le reste du filtre, se faisant essentiellement piéger à l'intérieur.
+
+So not only will a good air filtration system
+help block out deadly pollutants, but it can
+also help save you from a runny nose!
+Ainsi, non seulement un bon système de filtration de l'air
+aidera à bloquer les polluants mortels, mais il peut
+également vous aider à éviter le nez qui coule !
+
+Air and water quality are just two of the
+problems addressed by environmental engineering,
+La qualité de l'air et de l'eau ne sont que deux des
+problèmes abordés par l'ingénierie environnementale,
+
+but others include things like noise pollution
+and waste management.
+mais d'autres incluent des choses comme la pollution sonore
+et la gestion des déchets.
+
+Loud noises may not sound that important, but spend
+some time trying to think next to a construction site,
+and you’ll realize how harmful noise pollution can be.
+Les bruits forts peuvent ne pas sembler si importants, mais passez un
+peu de temps à essayer de penser à côté d'un chantier de construction
+et vous réaliserez à quel point la pollution sonore peut être nocive.
+
+And many of the things that we make, make
+noise.
+Et beaucoup de choses que nous fabriquons font du
+bruit.
+
+Cars are a big one.
+Les voitures sont importantes.
+
+Left unattended, highways can be a major source
+of noise pollution.
+Laissées sans surveillance, les autoroutes peuvent être une source majeure
+de pollution sonore.
+
+That’s why you’ll see those wall-like
+sound barriers on the side of the road.
+C'est pourquoi vous verrez ces murs antibruit en forme de
+mur sur le bord de la route.
+
+Factories and places with a lot of loud machinery
+can also disrupt their neighbors.
+Les usines et les lieux avec beaucoup de machines bruyantes
+peuvent également perturber leurs voisins.
+
+Earplugs may be enough for the workers inside,
+but if a factory is making too much noise,
+Des bouchons d'oreille peuvent suffire pour les travailleurs à l'intérieur,
+mais si une usine fait trop de bruit,
+
+it might need a more sound-proof building
+or to be put in a less residential area.
+elle peut avoir besoin d'un bâtiment plus insonorisé
+ou d'être installée dans une zone moins résidentielle.
+
+You also have to find a way manage all of
+the trash you create, whether that’s piling it up
+in landfills or finding ways to recycle.
+Vous devez également trouver un moyen de gérer tous
+les déchets que vous créez, qu'il s'agisse de les empiler
+dans des décharges ou de trouver des moyens de les recycler.
+
+Recycling isn’t just about reducing pollution – it also
+helps conserve natural resources like timber and saves
+energy, which might come from fossil fuels.
+Le recyclage ne consiste pas seulement à réduire la pollution, il
+aide également à conserver les ressources naturelles comme le bois et à économiser de l'
+énergie, qui peut provenir de combustibles fossiles.
+
+It’s not only small things like soda cans,
+either.
+Ce ne sont pas seulement de petites choses comme des canettes de soda
+non plus.
+
+Computers, cars, and even abandoned buildings
+can all be recycled.
+Les ordinateurs, les voitures et même les bâtiments abandonnés
+peuvent tous être recyclés.
+
+Many of the chemical reactions involved with
+engineering also produce waste, so you need to get
+rid of that too, especially if it’s hazardous.
+De nombreuses réactions chimiques impliquées dans l'
+ingénierie produisent également des déchets, vous devez donc vous en
+débarrasser également, surtout si c'est dangereux.
+
+Sometimes you can treat the hazardous materials
+and eliminate the danger outright,
+Parfois, vous pouvez traiter les matières dangereuses
+et éliminer complètement le danger,
+
+but other times you might have to settle for simply
+storing it as best as possible.
+mais d'autres fois, vous devrez peut-être vous contenter de les
+stocker le mieux possible.
+
+If you have to do that, you need to make sure
+that the waste won’t react with, weaken, or
+dissolve whatever container you put it in.
+Si vous devez le faire, vous devez vous assurer
+que les déchets ne réagiront pas avec, ne s'affaibliront pas ou ne
+dissoudront pas le récipient dans lequel vous les mettez.
+
+All of these things – and so much more – must
+be considered when approaching problems from
+an environmental engineering perspective.
+Toutes ces choses - et bien plus encore - doivent
+être prises en compte lors de l'approche des problèmes d'
+un  point de vue de l'ingénierie environnementale.
+
+But as long as you take the proper precautions,
+you’ll be on the right path to keeping this world spinning.
+Mais tant que vous prenez les précautions appropriées,
+vous serez sur la bonne voie pour faire tourner ce monde.
+
+Today we learned all about environmental engineering
+and the work that goes into managing our impact on
+the environment, and its impact on us.
+Aujourd'hui, nous avons tout appris sur l'ingénierie environnementale
+et le travail nécessaire pour gérer notre impact sur
+l'environnement et son impact sur nous.
+
+We found out the importance of water quality
+and how differing levels of dissolved oxygen,
+pH, and salinity can affect it.
+Nous avons découvert l'importance de la qualité de l'eau
+et comment les différents niveaux d'oxygène dissous, de
+pH et de salinité peuvent l'affecter.
+
+Then we saw how air quality matters and the
+different types of pollution we have to deal with.
+Ensuite, nous avons vu l'importance de la qualité de l'air et les
+différents types de pollution auxquels nous devons faire face.
+
+Finally, we went into other issues, like noise
+pollution and waste management, and saw how
+they can affect us too.
+Enfin, nous nous sommes penchés sur d'autres problèmes, comme la
+pollution sonore et la gestion des déchets, et avons vu comment
+ils peuvent également nous affecter.
+
+I’ll see you next time, when we’ll learn
+about alternative energy.
+Je vous verrai la prochaine fois, quand nous en apprendrons davantage
+sur les énergies alternatives.
+
+Thank you to CuriosityStream for supporting
+PBS Digital Studios.
+Merci à CuriosityStream pour son soutien à
+PBS Digital Studios.
+
+CuriosityStream is a subscription streaming service that offers documentaries and non-fiction titles from a variety of filmmakers, including CuriosityStream originals.
+CuriosityStream est un service de streaming par abonnement qui propose des documentaires et des titres non romanesques de divers cinéastes, y compris les originaux de CuriosityStream.
+
+For instance, CuriosityStream has “Nature’s
+Mathematics,” a series about patterns and
+symmetry in nature.
+Par exemple, CuriosityStream a "Nature's
+Mathematics", une série sur les modèles et la
+symétrie dans la nature.
+
+Nature’s Mathematics explores the rules
+that shape trees and river estuaries alike,
+Les mathématiques de la nature explorent les règles
+qui façonnent les arbres et les estuaires des rivières,
+
+and that continue to baffle scientists by
+their often unfathomable ubiquity.
+et qui continuent de dérouter les scientifiques par
+leur ubiquité souvent insondable.
+
+You can learn more at curiositystream.com/crashcourse
+and use the code crashcourse during the sign-up process.
+Vous pouvez en savoir plus sur
+le site tourismstream.com/crashcourse et utiliser le code crashcourse lors du processus d'inscription.
+
+Crash Course Engineering is produced in association
+with PBS Digital Studios, which also produces
+Crash Course Engineering est produit en association
+avec PBS Digital Studios, qui produit également
+
+Hot Mess, a show about how climate change
+impacts all of us, and what we can do about it.
+Hot Mess, une émission sur l'
+impact du changement climatique sur nous tous et sur ce que nous pouvons y faire.
+
+Head to the link in the description to find
+out how we can create a better future for
+our planet and ourselves.
+Rendez-vous sur le lien dans la description pour
+découvrir comment nous pouvons créer un avenir meilleur pour
+notre planète et pour nous-mêmes.
+
+Crash Course is a Complexly production and this
+episode was filmed in the Doctor Cheryl C. Kinney
+Studio with the help of these wonderful people.
+Crash Course est une production de Complexly et cet
+épisode a été filmé dans le studio du docteur Cheryl C. Kinney
+avec l'aide de ces personnes merveilleuses.
+
+And our amazing graphics team is Thought Cafe.
+Et notre incroyable équipe graphique est Thought Cafe.
+

@@ -1,0 +1,393 @@
+Light is everywhere, but it’s not as
+predictable as you might think.
+La lumière est partout, mais elle n'est pas aussi
+prévisible qu'on pourrait le penser.
+
+It’s a wave that travels in straight lines, yet it also reflects off of surfaces, refracts through various materials, and generally changes direction all the time!
+C'est une onde qui se déplace en ligne droite, mais qui se réfléchit également sur les surfaces, se réfracte à travers divers matériaux et change généralement de direction tout le temps !
+
+We’ve learned how to bend light to our will, with lenses and mirrors, but it’s time to take a step back and ask what we can learn from light.
+Nous avons appris à plier la lumière à notre volonté, avec des lentilles et des miroirs, mais il est temps de prendre du recul et de se demander ce que nous pouvons apprendre de la lumière.
+
+What can we discover about the universe by taking a closer look at the light that’s produced and reflected all around us?
+Que pouvons-nous découvrir sur l'univers en examinant de plus près la lumière qui est produite et réfléchie tout autour de nous ?
+
+It’s time to use our understanding of the wave
+nature of light, to explain what stars are made of,
+Il est temps d'utiliser notre compréhension de la
+nature ondulatoire de la lumière, d'expliquer de quoi sont faites les étoiles,
+
+why you see rainbows in an oil stain in
+the parking lot,
+pourquoi vous voyez des arcs-en-ciel dans une tache d'huile dans
+le parking
+
+and how some fancy sunglasses can
+make a bright day a lot more bearable.
+et comment des lunettes de soleil fantaisie peuvent
+rendre une journée ensoleillée beaucoup plus supportable.
+
+[Theme Music]
+[Thème musical]
+
+In order to unlock the secrets that light can reveal
+to us, we need to look again at diffraction.
+Afin de percer les secrets que la lumière peut
+nous révéler, nous devons nous pencher à nouveau sur la diffraction.
+
+Remember? That’s what causes the pattern of lines that appear when you shine a light through a pair of thin slits.
+Rappelles toi?  C'est ce qui cause le motif de lignes qui apparaît lorsque vous faites briller une lumière à travers une paire de fentes fines.
+
+The bright lines are the result of constructive interference, when light waves build on one another, while the dark spaces in between are the result of destructive interference.
+Les lignes lumineuses sont le résultat d'interférences constructives, lorsque les ondes lumineuses se construisent les unes sur les autres, tandis que les espaces sombres entre les deux sont le résultat d'interférences destructives.
+
+Exactly how this diffraction pattern looks,
+depends on the spacing of the slits and the light's wavelength.
+L'aspect exact de ce motif de diffraction
+dépend de l'espacement des fentes et de la longueur d'onde de la lumière.
+
+So, if you know the distance between the slits, then you can measure the diffraction lines to get some information about the light source.
+Ainsi, si vous connaissez la distance entre les fentes, vous pouvez mesurer les lignes de diffraction pour obtenir des informations sur la source lumineuse.
+
+Now, you can also shine light through many equally
+spaced slits -- this called a diffraction grating.
+Maintenant, vous pouvez également faire briller la lumière à travers de nombreuses
+fentes équidistantes - c'est ce qu'on appelle un réseau de diffraction.
+
+And when you shine a light through one of these gratings, the diffraction lines are much more intense and easier to measure.
+Et lorsque vous faites passer une lumière à travers l'un de ces réseaux, les lignes de diffraction sont beaucoup plus intenses et plus faciles à mesurer.
+
+Plus, when there are more slits, there’s
+also more opportunity for destructive interference,
+De plus, lorsqu'il y a plus de fentes, il y a
+aussi plus de possibilités d'interférences destructrices, de
+
+so the dark spots between bright lines are
+larger as well.
+sorte que les points sombres entre les lignes lumineuses sont également
+plus grands.
+
+Now, if the light source has light of only
+one wavelength, which is one distinct color,
+Maintenant, si la source lumineuse a une lumière d'
+une seule longueur d'onde, qui est d'une couleur distincte,
+
+then all the lines would be the same color
+and would be evenly spaced.
+alors toutes les lignes seraient de la même couleur
+et seraient régulièrement espacées.
+
+But if you have a light source with two wavelengths, then you’ll get multiple sets of bright lines, whose color and locations will depend on the wavelength.
+Mais si vous avez une source lumineuse à deux longueurs d'onde, vous obtiendrez plusieurs ensembles de lignes lumineuses, dont la couleur et l'emplacement dépendront de la longueur d'onde.
+
+And if your light source is white light,
+containing all the visible wavelengths,
+Et si votre source de lumière est une lumière blanche,
+contenant toutes les longueurs d'onde visibles,
+
+then you’ll see a little rainbow in the place of every
+bright line, because the grating is separating out
+each wavelength.
+alors vous verrez un petit arc-en-ciel à la place de chaque
+ligne lumineuse, car le réseau sépare
+chaque longueur d'onde.
+
+These patterns are known as spectra, and you
+can study them to learn about the source of the light.
+Ces modèles sont connus sous le nom de spectres et vous
+pouvez les étudier pour en savoir plus sur la source de la lumière.
+
+To do that, you need a spectrometer, a tool that uses diffraction grating or a prism to separate the wavelengths.
+Pour ce faire, vous avez besoin d'un spectromètre, un outil qui utilise un réseau de diffraction ou un prisme pour séparer les longueurs d'onde.
+
+Let’s say that you heat up a cloud of hydrogen until it emits light, and then you point your spectrometer at the cloud.
+Disons que vous chauffez un nuage d'hydrogène jusqu'à ce qu'il émette de la lumière, puis vous pointez votre spectromètre vers le nuage.
+
+The gas will emit a line spectrum, a distinct pattern of lines at certain wavelengths that correspond to the elemental composition of the cloud – in this case, hydrogen.
+Le gaz émettra un spectre de raies, un motif distinct de raies à certaines longueurs d'onde qui correspondent à la composition élémentaire du nuage - dans ce cas, l'hydrogène.
+
+The spectrum would look like this, and you’d always see this line spectrum from a heated hydrogen cloud or a compound that contains hydrogen.
+Le spectre ressemblerait à ceci, et vous verriez toujours ce spectre de raies provenant d'un nuage d'hydrogène chauffé ou d'un composé contenant de l'hydrogène.
+
+Line spectra work for heated gases under
+the right low-pressure conditions.
+Les spectres de raies fonctionnent pour les gaz chauffés dans
+les bonnes conditions de basse pression.
+
+But when solid materials or high pressure gaseous objects, like the sun, get heated up, they emit a continuous spectrum of light that covers a very wide range of wavelengths.
+Mais lorsque des matériaux solides ou des objets gazeux à haute pression, comme le soleil, sont chauffés, ils émettent un spectre continu de lumière qui couvre une très large gamme de longueurs d'onde.
+
+And in that case, you can still get information about the light source, because the continuous spectrum from a heated object also contains absorption lines –
+Et dans ce cas, vous pouvez toujours obtenir des informations sur la source lumineuse, car le spectre continu d'un objet chauffé contient également des raies d'absorption -
+
+characteristic wavelengths of light that have been absorbed by the same elements that emitted them.
+des longueurs d'onde caractéristiques de la lumière qui ont été absorbées par les mêmes éléments qui les ont émises.
+
+The Sun emits a continuous spectrum, but some
+elements in its atmosphere absorb some of the light.
+Le Soleil émet un spectre continu, mais certains
+éléments de son atmosphère absorbent une partie de la lumière.
+
+Hydrogen atoms, for example, absorb light
+emitted by other masses of heated hydrogen.
+Les atomes d'hydrogène, par exemple, absorbent la lumière
+émise par d'autres masses d'hydrogène chauffé.
+
+But you don’t always need special equipment
+to see and study continuous spectra.
+Mais vous n'avez pas toujours besoin d'équipement spécial
+pour voir et étudier les spectres continus.
+
+Have you blown a soapy bubble and noticed
+the bright rainbow colors on its surface?
+Avez-vous soufflé une bulle de savon et remarqué
+les couleurs vives de l'arc-en-ciel à sa surface ?
+
+That coloring is also due to interference and the separation of wavelengths, an effect known as thin film interference.
+Cette coloration est également due aux interférences et à la séparation des longueurs d'onde, un effet connu sous le nom d'interférence des couches minces.
+
+Thin films are layers of material whose thickness can be measured in micrometers, or even nanometers – of the order of a ‘wavelength’ of visible light.
+Les films minces sont des couches de matériau dont l'épaisseur peut être mesurée en micromètres, voire en nanomètres - de l'ordre d'une "longueur d'onde" de la lumière visible.
+
+For example, a layer of oil on top of water
+could be a thin film.
+Par exemple, une couche d'huile au-dessus de l'eau
+pourrait être un film mince.
+
+Imagine such an arrangement of oil and water,
+with a ray of white light coming down from above.
+Imaginez un tel arrangement d'huile et d'eau,
+avec un rayon de lumière blanche descendant d'en haut.
+
+We know some of the light will reflect off
+the top of the oil, and some will pass through.
+Nous savons qu'une partie de la lumière se reflétera sur
+le dessus de l'huile, et une partie passera à travers.
+
+Of the light that goes through the oil, some
+of it will reflect off the surface of the water.
+De la lumière qui traverse l'huile, une
+partie se reflétera sur la surface de l'eau.
+
+Now, the light that’s reflected off the oil will interfere
+with the light that’s reflected off of the water.
+Maintenant, la lumière réfléchie par l'huile interférera
+avec la lumière réfléchie par l'eau.
+
+And whether that interference is constructive or destructive depends on the thickness of the oil and the light’s angle of incidence.
+Et si cette interférence est constructive ou destructive dépend de l'épaisseur de l'huile et de l'angle d'incidence de la lumière.
+
+So ultimately, you end up with both kinds
+of interference!
+Donc, en fin de compte, vous vous retrouvez avec les deux types
+d'interférences !
+
+Each kind occurs only for certain wavelengths
+of light, depending on the angle at which it's viewed.
+Chaque type se produit uniquement pour certaines longueurs
+d'onde de lumière, en fonction de l'angle sous lequel il est vu.
+
+Because, as the viewing angle changes, so
+does the path length.
+Parce que, à mesure que l'angle de vision change
+, la longueur du trajet change également.
+
+So, different colors undergo a constructive
+interference at different angles.
+Ainsi, différentes couleurs subissent une
+interférence constructive sous différents angles.
+
+The result is an alternating pattern of colorful
+reflected light, and no reflection at all.
+Le résultat est un motif alterné de
+lumière réfléchie colorée, et aucune réflexion du tout.
+
+Constructive interference creates a visible, colored reflection, while destructive allows light to go through the oil to the water.
+L'interférence constructive crée une réflexion visible et colorée, tandis que la destruction permet à la lumière de traverser l'huile jusqu'à l'eau.
+
+This phenomenon happens not just with layers of liquid, but also with layers of some transparent solids -- namely, glass!
+Ce phénomène se produit non seulement avec des couches de liquide, mais également avec des couches de certains solides transparents, à savoir le verre !
+
+You can create a similar effect, if you have a lens with one flat side and one curved side, and you put the curved side on a flat plate of glass.
+Vous pouvez créer un effet similaire, si vous avez une lentille avec un côté plat et un côté incurvé, et que vous placez le côté incurvé sur une plaque de verre plate.
+
+As light shines from above and enters the flat side of the lens, some rays reflect off the bottom of the curved lens, while others pass through into the thin gap of air that sits between the lens and the plate.
+Lorsque la lumière brille par le haut et pénètre dans le côté plat de la lentille, certains rayons se reflètent sur le bas de la lentille incurvée, tandis que d'autres traversent le mince espace d'air qui se trouve entre la lentille et la plaque.
+
+That light then reflects off the bottom plate
+and returns back through the lens.
+Cette lumière se reflète ensuite sur la plaque inférieure
+et revient à travers la lentille.
+
+The resulting interference creates a circular rainbow pattern that extends out from the point of contact between the lens and the plate.
+L'interférence qui en résulte crée un motif arc-en-ciel circulaire qui s'étend à partir du point de contact entre la lentille et la plaque.
+
+These circles are known as Newton’s Rings,
+and if the light source is monochromatic,
+Ces cercles sont connus sous le nom d'anneaux de Newton,
+et si la source de lumière est monochromatique,
+
+the rings simply alternate light and dark,
+displaying the alternating constructive and destructive interference.
+les anneaux alternent simplement la lumière et l'obscurité,
+affichant l'alternance d'interférences constructives et destructrices.
+
+Now, if you look at the very center of Newton’s Rings, where the glass plate is in contact with the lens, you’ll notice a dark spot.
+Maintenant, si vous regardez le centre même des anneaux de Newton, là où la plaque de verre est en contact avec la lentille, vous remarquerez une tache sombre.
+
+That’s where the reflected wave of light
+is not constructively interfering with itself.
+C'est là que l'onde de lumière
+réfléchie n'interfère pas de manière constructive avec elle-même.
+
+Instead, at this point of contact, the reflected
+ray undergoes a phase shift of 180 degrees,
+essentially skipping forward half of a cycle.
+Au lieu de cela, à ce point de contact, le
+rayon réfléchi subit un déphasage de 180 degrés,
+sautant essentiellement la moitié d'un cycle vers l'avant.
+
+Remember, when a wave is in phase with another wave, their crests and troughs are amplified, meaning that the light is brighter, thanks to constructive interference.
+Rappelez-vous, lorsqu'une onde est en phase avec une autre onde, leurs crêtes et leurs creux sont amplifiés, ce qui signifie que la lumière est plus brillante, grâce aux interférences constructives.
+
+And when a wave is out of phase by 180 degrees, it’s destructive, with the crests and troughs cancelling each other out.
+Et lorsqu'une vague est déphasée de 180 degrés, elle est destructrice, les crêtes et les creux s'annulant.
+
+The resulting destructive interference is
+seen in the dark spot at the center of the lens.
+L'interférence destructrice qui en résulte est
+visible dans la tache sombre au centre de la lentille.
+
+When light reflects off of a surface that has a higher index of refraction than the medium it travels through –
+Lorsque la lumière se réfléchit sur une surface qui a un indice de réfraction plus élevé que le milieu qu'elle traverse -
+
+such as light traveling through air and reflecting off of glass – the ray undergoes a destructive, 180-degree phase shift.
+comme la lumière traversant l'air et se reflétant sur le verre - le rayon subit un déphasage destructeur de 180 degrés.
+
+But, if light reflects off of a surface that has a lower index of refraction than the medium it’s passing through, there is no phase shift, and the wave then constructively interferes with itself.
+Mais, si la lumière se réfléchit sur une surface qui a un indice de réfraction inférieur à celui du milieu qu'elle traverse, il n'y a pas de déphasage et l'onde interfère alors de manière constructive avec elle-même.
+
+Now, light is a transverse wave, meaning that the wave travels in one direction and oscillates back and forth in a direction that’s perpendicular to the direction of travel.
+Maintenant, la lumière est une onde transversale, ce qui signifie que l'onde se déplace dans une direction et oscille d'avant en arrière dans une direction perpendiculaire à la direction de déplacement.
+
+And, like all electromagnetic waves, what’s
+oscillating in a light wave, is its electric field.
+Et, comme toutes les ondes électromagnétiques, ce qui
+oscille dans une onde lumineuse, c'est son champ électrique.
+
+So when a wave strikes an object, the effects of the changing electric field are felt in a direction that’s perpendicular to the direction, in which the wave is moving.
+Ainsi, lorsqu'une onde frappe un objet, les effets du champ électrique changeant se font sentir dans une direction perpendiculaire à la direction dans laquelle l'onde se déplace.
+
+BUT! A light wave’s electric field can not
+only move vertically (that is, up and down) –
+MAIS!  Le champ électrique d'une onde lumineuse peut non
+seulement se déplacer verticalement (c'est-à-dire de haut en bas) -
+
+it can also oscillate horizontally (or side to side), since that movement is still perpendicular to direction of travel.
+il peut également osciller horizontalement (ou d'un côté à l'autre), puisque ce mouvement est toujours perpendiculaire à la direction de déplacement.
+
+This oscillation is important, because you can limit what light passes through a filter, depending on which direction its electric field is oscillating in.
+Cette oscillation est importante, car vous pouvez limiter la lumière qui traverse un filtre, en fonction de la direction dans laquelle son champ électrique oscille.
+
+The filtering of light depending on its oscillation-direction is called polarization.
+Le filtrage de la lumière en fonction de sa direction d'oscillation est appelé polarisation.
+
+The light from a light bulb, or from the sun, has
+electric fields oscillating in all possible directions
+La lumière d'une ampoule ou du soleil a
+des champs électriques oscillant dans toutes les directions possibles.
+
+But you can aim that light through a filter, like a vertical slit, so that only one kind of polarized light can pass through.
+Mais vous pouvez diriger cette lumière à travers un filtre, comme une fente verticale, de sorte qu'un seul type de lumière polarisée puisse passer.
+
+In the case of a vertical slit, it will only
+let light through that’s vertically polarized
+Dans le cas d'une fente verticale, elle ne
+laissera passer que la lumière polarisée verticalement
+
+– that is, waves whose electric fields are
+oscillating straight up and down.
+, c'est-à-dire les ondes dont les champs électriques
+oscillent de haut en bas.
+
+And if a light wave is horizontally polarized,
+then it won’t be able to pass through the slit.
+Et si une onde lumineuse est polarisée horizontalement
+, elle ne pourra pas passer à travers la fente.
+
+This is basically how polarized sunglasses
+work!
+C'est ainsi que fonctionnent les lunettes de soleil polarisées
+!
+
+Unpolarized glasses only use darkened glass
+to absorb some of the incoming light.
+Les lunettes non polarisées n'utilisent que du verre noirci
+pour absorber une partie de la lumière entrante.
+
+But polarized glasses have lenses that work as vertical polarizers, blocking out all light except those whose electric fields oscillate up and down.
+Mais les lunettes polarisées ont des lentilles qui fonctionnent comme des polariseurs verticaux, bloquant toute lumière sauf celles dont les champs électriques oscillent de haut en bas.
+
+This is particularly helpful when you’re
+on or near the water.
+Ceci est particulièrement utile lorsque vous êtes
+sur ou près de l'eau.
+
+When sunlight reflects off of water, each reflected ray is partially polarized in the direction that’s parallel to the surface it reflected off of.
+Lorsque la lumière du soleil se réfléchit sur l'eau, chaque rayon réfléchi est partiellement polarisé dans la direction parallèle à la surface sur laquelle il se réfléchit.
+
+So, when reflecting off of flat water, the
+reflected ray becomes partially, horizontally polarized.
+Ainsi, lors de la réflexion sur l'eau plate, le
+rayon réfléchi devient partiellement polarisé horizontalement.
+
+And since your fancy sunglasses only let in vertically polarized light, your eyes are protected from the glare that comes off the water.
+Et puisque vos lunettes de soleil fantaisie ne laissent entrer que la lumière polarisée verticalement, vos yeux sont protégés de l'éblouissement qui vient de l'eau.
+
+Next time, we’re going to learn about much
+more complex instruments, that we use to manipulate light.
+La prochaine fois, nous allons découvrir
+des instruments beaucoup plus complexes, que nous utilisons pour manipuler la lumière.
+
+But today, you learned about how to analyze the composition of a light source using diffraction grating and spectroscopy.
+Mais aujourd'hui, vous avez appris comment analyser la composition d'une source lumineuse à l'aide d'un réseau de diffraction et de la spectroscopie.
+
+You also observed Newton’s rings and
+the patterns that arise from the interaction
+between light and thin films.
+Vous avez également observé les anneaux de Newton et
+les motifs résultant de l'interaction
+entre la lumière et les couches minces.
+
+Finally, you learned about the oscillation
+of light waves, and how polarization filters
+certain kinds of light.
+Enfin, vous avez découvert l'oscillation
+des ondes lumineuses et comment la polarisation filtre
+certains types de lumière.
+
+Crash Course Physics is produced in association
+with PBS Digital Studios.
+Crash Course Physics est produit en association
+avec PBS Digital Studios.
+
+You can head over to their channel and check
+out a playlist of the latest episodes from
+Vous pouvez vous rendre sur leur chaîne et
+consulter une liste de lecture des derniers épisodes d'
+
+shows like Gross Science, PBS Off Book, and
+Brain Craft.
+émissions telles que Gross Science, PBS Off Book et
+Brain Craft.
+
+This episode of Crash Course was filmed in
+the Doctor Sheryll See Kinney Crash Course
+Cet épisode de Crash Course a été filmé dans
+le studio Doctor Sheryll See Kinney Crash Course
+
+Studio with the help of these amazing people
+and our equally amazing graphics team, is Thought Cafe.
+avec l'aide de ces personnes incroyables
+et de notre équipe graphique tout aussi incroyable, Thought Cafe.
+

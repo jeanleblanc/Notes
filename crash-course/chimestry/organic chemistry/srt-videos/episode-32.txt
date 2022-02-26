@@ -1,0 +1,748 @@
+You can review content from Crash Course Organic Chemistry with the Crash Course App,
+Vous pouvez consulter le contenu de Crash Course Organic Chemistry avec l'application Crash Course,
+
+available now for Android and iOS devices.
+disponible dès maintenant pour les appareils Android et iOS.
+
+Hi! I’m Deboki Chakravarti and welcome to
+Crash Course Organic Chemistry!
+Salut!  Je suis Deboki Chakravarti et bienvenue au cours intensif de
+chimie organique !
+
+Keeping up with all these reactions might
+be starting to give you a headache.
+Suivre toutes ces réactions
+pourrait commencer à vous donner mal à la tête.
+
+But don’t worry, the organic chemistry we’re
+going to learn in this episode can help you with that!
+Mais ne vous inquiétez pas, la chimie organique que nous
+allons apprendre dans cet épisode peut vous y aider !
+
+We're going to dive deeper into carboxylic
+acid derivatives,
+Nous allons plonger plus profondément dans les
+dérivés d'acide carboxylique,
+
+some of which can be used to make tylenol,
+also known as acetaminophen or paracetamol.
+dont certains peuvent être utilisés pour fabriquer du tylenol,
+également connu sous le nom d'acétaminophène ou de paracétamol.
+
+It's a common product to ease minor aches
+and pain,
+C'est un produit courant pour soulager les douleurs mineures
+,
+
+but it's a bit of an oddball in the painkiller world.
+mais c'est un peu bizarre dans le monde des analgésiques.
+
+Painkillers usually come in several varieties.
+Les analgésiques se déclinent généralement en plusieurs variétés.
+
+Non-steroidal antiinflammatory drugs, such
+as aspirin and ibuprofen,
+Les anti-inflammatoires non stéroïdiens, tels
+que l'aspirine et l'ibuprofène,
+
+work directly at the site of the pain to stop the formation of compounds that play a big part in pain and inflammation.
+agissent directement sur le site de la douleur pour arrêter la formation de composés qui jouent un rôle important dans la douleur et l'inflammation.
+
+On the other hand, opioids, such as morphine
+and codeine,
+D'autre part, les opioïdes, tels que la morphine
+et la codéine,
+
+stop us from sensing pain by blocking pain signals in our nervous system.
+nous empêchent de ressentir la douleur en bloquant les signaux de douleur dans notre système nerveux.
+
+Acetaminophen doesn’t sit in either of these
+categories.
+L'acétaminophène n'appartient à aucune de ces
+catégories.
+
+In fact, even though we know that it does work,
+En fait, même si nous savons que cela fonctionne
+
+and we have some solid theories about how it might work,
+et que nous avons de solides théories sur la façon dont cela pourrait fonctionner,
+
+the exact details are still a bit of a collective medical shrug.
+les détails exacts sont encore un peu un haussement d'épaules médical collectif.  Cependant
+
+We do know a few different ways to make acetaminophen,
+though.
+, nous connaissons plusieurs façons de fabriquer de l'
+acétaminophène.
+
+One is how it was identified in 1893:
+L'une d'entre elles est son identification en 1893 :
+
+in the urine of patients taking another painkiller,
+phenacetin.
+dans l'urine de patients prenant un autre analgésique, la
+phénacétine.
+
+But another, less gross way is starting with
+p-aminophenol and acetic anhydride,
+Mais une autre manière, moins grossière, consiste à partir du
+p-aminophénol et de l'anhydride acétique,
+
+which contains the anhydride functional group.
+qui contient le groupe fonctionnel anhydride.
+
+In this episode we’ll talk more about this
+carboxylic acid derivative and others,
+Dans cet épisode, nous parlerons davantage de ce
+dérivé d'acide carboxylique et d'autres,
+
+and how we can convert between them –
+et de la façon dont nous pouvons convertir entre eux - en
+
+making a medicine or two along the way!
+faisant un médicament ou deux en cours de route !
+
+[Theme Music]
+[Thème musical]
+
+We’ve met four carboxylic acid derivatives
+in the past few episodes:
+Nous avons rencontré quatre dérivés d'acide carboxylique
+au cours des derniers épisodes :
+
+acid chlorides, anhydrides, esters, and amides.
+les chlorures d'acide, les anhydrides, les esters et les amides.
+
+In episode 31, we talked about how they react
+with nucleophiles or can be hydrolyzed,
+Dans l'épisode 31, on parlait de la façon dont ils réagissent
+avec les nucléophiles ou peuvent être hydrolysés,
+
+but we can also interconvert between them!
+mais on peut aussi s'interconvertir entre eux !
+
+There's one key rule:
+Il y a une règle clé :
+
+we can only easily convert one derivative
+to a less-reactive derivative.
+nous ne pouvons facilement convertir qu'un seul dérivé
+en un dérivé moins réactif.
+
+So, for example, we can convert an acid chloride
+to an ester,
+Ainsi, par exemple, nous pouvons convertir un chlorure d'acide
+en ester,
+
+but we can’t directly convert an amide to an ester.
+mais nous ne pouvons pas convertir directement un amide en ester.
+
+And I say "directly" because there is a roundabout
+way we can convert an amide to its more-reactive friends...
+Et je dis "directement" parce qu'il existe un moyen détourné de
+convertir un amide en ses amis les plus réactifs...
+
+by turning the amide back into a carboxylic acid.
+en transformant l'amide en acide carboxylique.
+
+Then, we can react the carboxylic acid with
+phosphorus pentachloride or thionyl chloride to get an acid chloride –
+Ensuite, on peut faire réagir l'acide carboxylique avec
+du pentachlorure de phosphore ou du chlorure de thionyle pour obtenir un chlorure d'acide –
+
+like we did in episode 30.
+comme on l'a fait dans l'épisode 30.
+
+And from there, there are lots of possibilities.
+Et à partir de là, il y a plein de possibilités.
+
+As you might remember, acid chlorides are
+the most reactive of our barbershop quartet of carboxylic acid derivatives.
+Comme vous vous en souvenez peut-être, les chlorures d'acide sont
+les plus réactifs de notre quatuor de dérivés d'acide carboxylique.
+
+So they can be converted to any of the other
+three derivatives.
+Ils peuvent donc être convertis en l'un des
+trois autres dérivés.
+
+The easiest way to convert them into anhydrides,
+the second most reactive derivative,
+Le moyen le plus simple de les convertir en anhydrides,
+le deuxième dérivé le plus réactif,
+
+is to react them with a carboxylic acid salt.
+est de les faire réagir avec un sel d'acide carboxylique.
+
+This reaction can also be done with a plain
+old carboxylic acid if you also add pyridine,
+Cette réaction peut également être effectuée avec un
+vieil acide carboxylique ordinaire si vous ajoutez également de la pyridine,
+
+a base that deprotonates the carboxylic acid
+and makes a carboxylate salt in our reaction flask.
+une base qui déprotone l'acide carboxylique
+et fabrique un sel de carboxylate dans notre flacon de réaction.
+
+So I guess what I'm saying here is:
+Donc je suppose que ce que je dis ici est :
+
+you're going to eventually need a carboxylic
+acid salt to do this reaction.
+vous aurez éventuellement besoin d'un
+sel d'acide carboxylique pour faire cette réaction.
+
+For example, this reaction produces acetic
+anhydride, which is an example of a symmetrical anhydride,
+Par exemple, cette réaction produit de l'
+anhydride acétique, qui est un exemple d'anhydride symétrique,
+
+where the group attached to each of the carbonyl
+carbons is the same.
+où le groupe attaché à chacun des
+carbones carbonyle est le même.
+
+We can also make mixed anhydrides, where the
+two groups attached to the carbonyl carbons are different.
+Nous pouvons également fabriquer des anhydrides mixtes, où les
+deux groupes attachés aux carbones carbonyles sont différents.
+
+If the name only has two parts, like acetic
+anhydride, you know it’s symmetrical.
+Si le nom ne comporte que deux parties, comme l'
+anhydride acétique, vous savez qu'il est symétrique.
+
+If the name has three parts, like acetic butyric
+anhydride, you know it’s mixed.
+Si le nom comporte trois parties, comme l'
+anhydride butyrique acétique, vous savez qu'il est mélangé.
+
+By the way, anhydride naming is one of the
+places where IUPAC lets some common names slide.
+Soit dit en passant, la dénomination des anhydrides est l'un des
+endroits où l'IUPAC laisse glisser certains noms communs.
+
+At the beginning of this episode, I mentioned
+that acetic anhydride is one of our Tylenol precursors.
+Au début de cet épisode, j'ai mentionné
+que l'anhydride acétique est l'un de nos précurseurs Tylenol.
+
+But it's also a compound that can be used
+to make aspirin, another common painkiller,
+Mais c'est aussi un composé qui peut être utilisé
+pour fabriquer de l'aspirine, un autre analgésique courant,
+
+which happens to contain an ester –
+qui contient un ester -
+
+the next most reactive of our carboxylic acid
+derivatives.
+le deuxième plus réactif de nos
+dérivés d'acide carboxylique.
+
+To do that, we react acetic anhydride with
+salicylic acid,
+Pour ce faire, nous faisons réagir de l'anhydride acétique avec de
+l'acide salicylique,
+
+a compound originally extracted from willow tree bark.
+un composé extrait à l'origine de l'écorce de saule.
+
+In fact, we can turn any anhydride into an
+ester by reacting it with an alcohol.
+En fait, nous pouvons transformer n'importe quel anhydride en
+ester en le faisant réagir avec un alcool.
+
+The anhydride gets cut down the middle,
+L'anhydride est coupé au milieu
+
+with one carbonyl group forming the ester and the other departing as a carboxylic acid.
+, un groupe carbonyle formant l'ester et l'autre partant sous forme d'acide carboxylique.
+
+Remembering our key rule with these interconversion
+reactions,
+En se souvenant de notre règle clé avec ces
+réactions d'interconversion,
+
+we can also convert the more-reactive acid chlorides to less-reactive esters.
+nous pouvons également convertir les chlorures d'acides plus réactifs en esters moins réactifs.
+
+To do this, we can use an alcohol and a mild
+base to swap out the chloride for an ester group.
+Pour ce faire, nous pouvons utiliser un alcool et une
+base douce pour remplacer le chlorure par un groupe ester.
+
+The base neutralizes the hydrochloric acid
+that forms as a side product.
+La base neutralise l'acide chlorhydrique
+qui se forme comme sous-produit.
+
+And that brings us to the least reactive of
+our carboxylic acid derivatives: amides.
+Et cela nous amène au moins réactif de
+nos dérivés d'acide carboxylique : les amides.
+
+Our acid chlorides, anhydrides, and esters
+can all be transformed into this group.
+Nos chlorures d'acides, anhydrides et esters
+peuvent tous être transformés dans ce groupe.
+
+Even though amide groups are the least reactive
+of this quartet, they're far from useless.
+Même si les groupes amides sont les moins réactifs
+de ce quatuor, ils sont loin d'être inutiles.
+
+They show up in the proteins assembled in
+your body, the Kevlar in bulletproof vests, and DEET
+Ils apparaissent dans les protéines assemblées dans
+votre corps, le Kevlar dans les gilets pare-balles et le DEET
+
+(the most commonly used compound in insect
+repellents).
+(le composé le plus couramment utilisé dans les
+insectifuges).
+
+About a quarter of all marketed drugs contain
+an amide group, too –
+Environ un quart de tous les médicaments commercialisés contiennent également
+un groupe amide - la
+
+Penicillin V contains two of them!
+pénicilline V en contient deux !
+
+But we’ll loop back to that in a second.
+Mais nous y reviendrons dans une seconde.
+
+For now, let's focus on making amides, and
+we'll start with our most reactive carboxylic acid derivative.
+Pour l'instant, concentrons-nous sur la fabrication d'amides, et
+nous commencerons par notre dérivé d'acide carboxylique le plus réactif.
+
+We can react acid chloride with ammonia or
+with a primary or secondary amine to convert it to an amide.
+On peut faire réagir le chlorure d'acide avec de l'ammoniac ou
+avec une amine primaire ou secondaire pour le transformer en amide.
+
+Whether we use ammonia or an amine, two equivalents
+are needed –
+Que l'on utilise de l'ammoniac ou une amine, deux équivalents
+sont nécessaires, l'
+
+one to take the place of the chloride, and
+the other to form a salt with the hydrochloric acid byproduct.
+un pour remplacer le chlorure,
+l'autre pour former un sel avec le sous-produit acide chlorhydrique.
+
+It’s a similar story for converting anhydrides
+to amides:
+C'est une histoire similaire pour la conversion des anhydrides
+en amides :
+
+two equivalents of ammonia or an amine.
+deux équivalents d'ammoniac ou une amine.
+
+The only difference here is that a side product
+forms, which is an ammonium carboxylate salt.
+La seule différence ici est qu'un produit secondaire se
+forme, qui est un sel de carboxylate d'ammonium.
+
+And, lastly, to convert esters to amides,
+Et, enfin, pour convertir les esters en amides,
+
+we use the same stuff but can get away with using just one equivalent of ammonia or amine.
+nous utilisons la même substance mais nous pouvons nous contenter d'utiliser un seul équivalent d'ammoniac ou d'amine.
+
+This is because the hydrogen we lose when the nitrogen takes the oxygen’s place can be picked up by the alkoxide anion that’s kicked out, forming an alcohol.
+En effet, l'hydrogène que nous perdons lorsque l'azote prend la place de l'oxygène peut être capté par l'anion alcoxyde qui est expulsé, formant un alcool.
+
+There's no danger of forming wild catalysts
+like hydrochloric acid here.
+Il n'y a aucun danger de former des catalyseurs sauvages
+comme l'acide chlorhydrique ici.
+
+Okay, now we know how to make amides, we can
+fill in the very first stage in our Mold Medicine Map.
+Bon, maintenant que nous savons comment fabriquer des amides, nous pouvons
+remplir la toute première étape de notre carte de médecine des moisissures.
+
+Yep, it's penicillin V synthesis time!
+Oui, c'est l'heure de la synthèse de la pénicilline V !
+
+Our map begins with valine, an essential amino
+acid.
+Notre carte commence par la valine, un acide aminé essentiel
+.
+
+The primary amine group in valine is perfect
+for reaction with an acid chloride –
+Le groupe amine primaire de la valine est parfait
+pour réagir avec un chlorure d'acide -
+
+in this case, 2-chloroacetyl chloride.
+dans ce cas, le chlorure de 2-chloroacétyle.
+
+This reaction forms what will later become
+one corner of the 4-membered beta-lactam ring
+Cette réaction forme ce qui deviendra plus tard
+un coin du cycle bêta-lactame à 4 chaînons
+
+(which is just a special type of cyclic amide
+structure)
+(qui est juste un type spécial de
+structure d'amide cyclique)
+
+in the penicillin structure.
+dans la structure de la pénicilline.
+
+We also form another amide group a little
+further in the map.
+On forme également un autre groupe amide un peu
+plus loin dans la carte.
+
+In this case, it’s a reaction between 2-phenoxyacetyl chloride,
+Dans ce cas, il s'agit d'une réaction entre le chlorure de 2-phénoxyacétyle
+
+and a primary amine group jutting off the structure we’ve
+formed to that point.
+et un groupe amine primaire dépassant de la structure que nous avons
+formée jusqu'à ce point.
+
+You can see that this step gets us quite close
+to our final penicillin structure –
+Vous pouvez voir que cette étape nous rapproche assez
+de notre structure finale de pénicilline -
+
+we’ll just need a couple more reactions,
+and some future episodes,
+nous aurons juste besoin de quelques réactions supplémentaires,
+et de quelques épisodes futurs,
+
+to get us the rest of the way there.
+pour nous permettre de faire le reste du chemin.
+
+Moving the focus away from our Mold Medicine
+Map and back to our carboxylic acid derivatives,
+En déplaçant l'attention de notre Mold Medicine
+Map vers nos dérivés d'acide carboxylique,
+
+it's also worth mentioning that they have
+a few useful reactions with organometallic reagents.
+il convient également de mentionner qu'ils
+ont quelques réactions utiles avec des réactifs organométalliques.
+
+An interesting one of these is when you mix
+esters with Grignard reagents.
+L'un d'eux est intéressant lorsque vous mélangez des
+esters avec des réactifs de Grignard.
+
+At first glance, this reaction looks pretty
+strange.
+À première vue, cette réaction semble assez
+étrange.
+
+We’ve seen reactions that turn esters into
+alcohols before,
+Nous avons déjà vu des réactions qui transforment des esters en
+alcools,
+
+but this transformation from an ester into a tertiary alcohol is a bit different.
+mais cette transformation d'un ester en alcool tertiaire est un peu différente.
+
+To understand how it happens, like always,
+let’s look closer at the mechanism.
+Pour comprendre comment cela se passe, comme toujours,
+regardons de plus près le mécanisme.
+
+In the first step, the alkyl group from our
+Grignard reagent adds on to the carbonyl carbon.
+Dans la première étape, le groupe alkyle de notre
+réactif de Grignard s'ajoute au carbone carbonyle.
+
+And in the second step, the alkoxide group
+is eliminated, forming a ketone.
+Et dans la deuxième étape, le groupe alcoxyde
+est éliminé, formant une cétone.
+
+Being able to make a ketone from an ester
+would be great –
+Pouvoir fabriquer une cétone à partir d'un ester
+serait formidable -
+
+but sadly, this intermediate is way too reactive
+for us to isolate it.
+mais malheureusement, cet intermédiaire est bien trop réactif
+pour que nous puissions l'isoler.
+
+This ketone immediately reacts with another
+equivalent of the Grignard in another addition reaction to form the tertiary alkoxide,
+Cette cétone réagit immédiatement avec un autre
+équivalent du Grignard dans une autre réaction d'addition pour former l'alcoolate tertiaire,
+
+which we can treat with acid in a second step
+to form the alcohol.
+que l'on peut traiter avec de l'acide dans une deuxième étape
+pour former l'alcool.
+
+If we try to mix acid chloride (which is more
+reactive than esters) with a Grignard reagent,
+Si nous essayons de mélanger du chlorure d'acide (qui est plus
+réactif que les esters) avec un réactif de Grignard,
+
+we get a similar reaction with a ketone intermediate
+that’s tricky to isolate before it reacts further with the Grignard reagent.
+nous obtenons une réaction similaire avec un intermédiaire cétone
+difficile à isoler avant qu'il ne réagisse davantage avec le réactif de Grignard.
+
+However, we can get to that elusive ketone if we mix an acid chloride with an organocuprate reagent, known as a Gilman reagent –
+Cependant, nous pouvons arriver à cette cétone insaisissable si nous mélangeons un chlorure d'acide avec un réactif organocuprate, connu sous le nom de réactif de Gilman -
+
+as we saw in Episode 28.
+comme nous l'avons vu dans l'épisode 28.
+
+Remember organocuprates are less reactive
+compared to Grignards,
+N'oubliez pas que les organocuprates sont moins réactifs
+que les Grignards,
+
+so organocuprates don’t usually react with
+the carbonyl of a ketone once it’s formed,
+donc les organocuprates ne réagissent généralement pas avec
+le carbonyle d'une cétone une fois qu'il est formé,
+
+so there will be enough time and enough ketone
+hanging around to isolate it.
+il y aura donc suffisamment de temps et suffisamment de
+cétone pour l'isoler.
+
+Now, the final set of carboxylic acid derivative
+reactions we’ll learn are reductions.
+Maintenant, l'ensemble final de réactions de dérivés d'acide carboxylique que
+nous apprendrons sont des réductions.
+
+And we'll use some reducing agents we’ve
+already met: metal hydrides.
+Et nous utiliserons des agents réducteurs que nous avons
+déjà rencontrés : les hydrures métalliques.
+
+(These aren't organometallic reagents, by
+the way, because they contain metal but not carbon.)
+(Ce ne sont pas des réactifs organométalliques,
+en passant, car ils contiennent du métal mais pas de carbone.)
+
+Lithium aluminum hydride can reduce all carboxylic
+acid derivatives.
+L'hydrure de lithium et d'aluminium peut réduire tous les
+dérivés d'acide carboxylique.
+
+Because we can reduce the less-reactive esters,
+amides, and even carboxylic acids,
+Parce que nous pouvons réduire les esters, les
+amides et même les acides carboxyliques moins réactifs,
+
+we rarely bother to make more reactive compounds
+like acid chlorides and anhydrides to do these reactions.
+nous prenons rarement la peine de fabriquer des composés plus réactifs
+comme les chlorures d'acide et les anhydrides pour effectuer ces réactions.
+
+So let's look at the reduction of esters and
+amides.
+Examinons donc la réduction des esters et des
+amides.
+
+In these reactions, the hydride ion acts as
+a nucleophile, attacking the carbonyl carbon in an addition reaction.
+Dans ces réactions, l'ion hydrure agit comme
+un nucléophile, attaquant le carbone carbonyle dans une réaction d'addition.
+
+This forms a tetrahedral intermediate.
+Cela forme un intermédiaire tétraédrique.
+
+For an ester, this tetrahedral intermediate
+pushes out an alkoxide, forming an aldehyde.
+Pour un ester, cet intermédiaire
+tétraédrique expulse un alcoxyde, formant un aldéhyde.
+
+Then, another hydride ion attacks, forming
+a new tetrahedral intermediate.
+Ensuite, un autre ion hydrure attaque, formant
+un nouvel intermédiaire tétraédrique.
+
+After all this is done, we can add in a source
+of protons, like water,
+Après tout cela, nous pouvons ajouter une source
+de protons, comme l'eau,
+
+and the negatively charged oxygen grabs a hydrogen, giving an
+alcohol product.
+et l'oxygène chargé négativement saisit un hydrogène, donnant un
+produit alcoolique.
+
+So, in the end, we get two separate alcohols
+when we reduce an ester.
+Ainsi, au final, nous obtenons deux alcools distincts
+lorsque nous réduisons un ester.
+
+Like the ketone in the Grignard reagent reaction,
+the aldehyde produced partway through this reduction is too reactive to isolate.
+Comme la cétone dans la réaction du réactif de Grignard,
+l'aldéhyde produit à mi-chemin de cette réduction est trop réactif pour être isolé.
+
+But we can make an aldehyde from an ester
+if we use a different reagent:
+Mais on peut fabriquer un aldéhyde à partir d'un ester
+si on utilise un réactif différent :
+
+Di-iso-butyl-aluminum hydride, or DIBAL-H.
+l'hydrure de di-iso-butyl-aluminium, ou DIBAL-H.
+
+And yes the "H" is silent.
+Et oui le "H" est muet.
+
+DIBAL-H can help us turn esters into aldehydes
+without taking them all the way to an alcohol,
+DIBAL-H peut nous aider à transformer les esters en aldéhydes
+sans les transformer en alcool,
+
+because it forms a stable intermediate after
+the initial nucleophilic attack of the hydride ion.
+car il forme un intermédiaire stable après
+l'attaque nucléophile initiale de l'ion hydrure.
+
+Specifically, the aluminum forms a bond to
+the oxygen.
+Plus précisément, l'aluminium forme une liaison avec
+l'oxygène.
+
+This intermediate isn’t reduced further
+at cold temperatures,
+Cet intermédiaire n'est pas réduit davantage
+à des températures froides,
+
+but dilution in water collapses it, forming the aldehyde.
+mais la dilution dans l'eau l'effondre, formant l'aldéhyde.
+
+And I didn't forget about amides!
+Et je n'ai pas oublié les amides !
+
+We can use lithium aluminum hydride to reduce
+these to amines.
+Nous pouvons utiliser l'hydrure de lithium et d'aluminium pour les
+réduire en amines.
+
+Let’s use a specific example to check out
+the arrow-pushing.
+Utilisons un exemple spécifique pour vérifier
+la poussée des flèches.
+
+The mechanism for this reduction starts a
+lot like the one we saw before,
+Le mécanisme de cette réduction commence un
+peu comme celui que nous avons vu auparavant,
+
+with the hydride ion acting as a nucleophile and attacking
+the carbonyl carbon.
+avec l'ion hydrure agissant comme un nucléophile et attaquant
+le carbone carbonyle.
+
+Again, we get a tetrahedral intermediate.
+Encore une fois, nous obtenons un intermédiaire tétraédrique.
+
+But then this reaction differs:
+Mais alors cette réaction diffère :
+
+the oxygen anion bonds with the aluminum,
+l'anion oxygène se lie à l'aluminium
+
+and in the following step it’s removed when the iminium ion is formed.
+et, dans l'étape suivante, il est éliminé lorsque l'ion iminium se forme.
+
+Another equivalent of the reducing agent can
+swoop in to complete the reaction and form the amine.
+Un autre équivalent de l'agent réducteur peut
+intervenir pour compléter la réaction et former l'amine.
+
+At the end of the reaction, we add an alcohol
+to use up any leftover lithium aluminum hydride hanging around,
+À la fin de la réaction, nous ajoutons un alcool
+pour utiliser tout reste d'hydrure de lithium et d'aluminium qui traîne,
+
+because it’s super reactive.
+car il est super réactif.
+
+On a very small scale, you could use water
+for this –
+À très petite échelle, vous pourriez utiliser de l'eau
+pour cela -
+
+but be careful and follow your risk assessment!
+mais soyez prudent et suivez votre évaluation des risques !
+
+The reaction between water and the reducing
+agent is very exothermic,
+La réaction entre l'eau et le
+réducteur est très exothermique,
+
+so there’s a risk of setting everything on fire!
+il y a donc un risque de tout mettre le feu !
+
+This reaction loops us right back to where
+we started by discussing painkillers.
+Cette réaction nous ramène à l'endroit où
+nous avons commencé en discutant des analgésiques.
+
+Amide reduction is a key step in one of the
+many syntheses of morphine, one of the opioids.
+La réduction des amides est une étape clé dans l'une des
+nombreuses synthèses de la morphine, l'un des opioïdes.
+
+In the synthesis, lithium aluminum hydride
+is used to convert the tertiary amide group to a tertiary amine,
+Dans la synthèse, l'hydrure de lithium et d'aluminium
+est utilisé pour convertir le groupe amide tertiaire en une amine tertiaire,
+
+which is actually a featured
+group in all opioid painkillers.
+qui est en fait un
+groupe vedette dans tous les analgésiques opioïdes.
+
+And with that, we've wrapped up our learning
+about carboxylic acid derivatives,
+Et avec cela, nous avons terminé notre apprentissage
+sur les dérivés d'acide carboxylique,
+
+though they're bound to show up later in the course.
+même s'ils ne manqueront pas d'apparaître plus tard dans le cours.
+
+In this episode, we:
+Dans cet épisode, nous avons :
+
+Saw how to convert more reactive carboxylic
+acid derivatives into less reactive ones
+vu comment convertir des
+dérivés d'acide carboxylique plus réactifs en dérivés moins réactifs,
+
+Remembered how to turn a carboxylic acid into
+an acid chloride, and
+rappelé comment transformer un acide carboxylique en
+chlorure d'acide, et
+
+Reduced carboxylic acid derivatives with organometallic
+reagents and metal hydrides
+réduit les dérivés d'acide carboxylique avec des
+réactifs organométalliques et des hydrures métalliques.
+
+In the next episode, we’ll talk about how
+we can make some parts of molecules react while making sure that other parts don’t.
+Dans le prochain épisode, nous allons  parler de la façon dont
+nous pouvons faire réagir certaines parties de molécules tout en veillant à ce que d'autres parties ne le fassent pas.
+
+Until then, thanks for watching this episode
+of Crash Course Organic Chemistry.
+En attendant, merci d'avoir regardé cet épisode
+de Crash Course Organic Chemistry.
+
+If you want to help keep all Crash Course
+free for everybody, forever, you can join our community on Patreon.
+Si vous voulez aider à garder tous les cours intensifs
+gratuits pour tout le monde, pour toujours, vous pouvez rejoindre notre communauté sur Patreon.
+

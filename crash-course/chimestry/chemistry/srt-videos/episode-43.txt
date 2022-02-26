@@ -1,0 +1,575 @@
+The smell of cinnamon and rotting cadavers...
+L'odeur de la cannelle et des cadavres en décomposition... Des
+
+Compounds that can remove nail polish, power a car, knock you unconscious, or make your headache go away.
+composés qui peuvent enlever le vernis à ongles, alimenter une voiture, vous assommer ou faire disparaître votre mal de tête.
+
+All of these things can be accomplished by simple organic compounds with different functional groups sticking off of them!
+Toutes ces choses peuvent être accomplies par de simples composés organiques avec différents groupes fonctionnels qui en sortent !
+
+Yes, I said functional groups! We will be
+talking about them a lot today.
+Oui, j'ai bien dit groupes fonctionnels !  Nous en
+parlerons beaucoup aujourd'hui.
+
+Now, when chemists started studying this stuff,
+Maintenant, quand les chimistes ont commencé à étudier ce genre de choses,
+
+they didn't always know what really made one
+chemical different from another.
+ils ne savaient pas toujours ce qui rendait vraiment un
+produit chimique différent d'un autre.
+
+Only that certain compounds, though different,
+often behave similarly.
+Seulement que certains composés, bien que différents,
+se comportent souvent de manière similaire.
+
+Some smelled like fish, some had relatively
+high boiling points,
+Certains sentaient le poisson, certains avaient
+des points d'ébullition relativement élevés,
+
+some reacted in similar ways with the same
+compounds.
+certains réagissaient de manière similaire avec les mêmes
+composés.
+
+Now, however, we know better!
+Maintenant, cependant, nous savons mieux!
+
+We know what they are, where they come from,
+and why they act the way they do.
+Nous savons ce qu'ils sont, d'où ils viennent
+et pourquoi ils agissent comme ils le font.
+
+We are DEEP in the knowledge of organic chemistry's
+most powerful tools!
+Nous sommes PROFONDÉS dans la connaissance des outils les plus puissants de la chimie organique
+!
+
+It feels good in here!
+On s'y sent bien ici !
+
+So dive in, join me in this solution of ethers
+and esters and aldehydes and amines and alcohols,
+Alors plongez, rejoignez-moi dans cette solution d'éthers
+et d'esters et d'aldéhydes et d'amines et d'alcools,
+
+but, like, not literally because that would
+be super gross and you would probably die.
+mais pas littéralement parce que ce
+serait super dégoûtant et vous mourriez probablement.
+
+[Theme Music]
+[Thème musical]
+
+Thus far, we have only discussed organic compounds involving carbon and hydrogen and nothing else.
+Jusqu'à présent, nous n'avons discuté que des composés organiques impliquant du carbone et de l'hydrogène et rien d'autre.
+
+And yes, carbon and hydrogen are the backbone
+of organic chemistry.
+Et oui, le carbone et l'hydrogène sont l'épine dorsale
+de la chimie organique.
+
+In fact, 1-, 2-, and 3-dimensional combinations of carbon atoms are the backbone of most organic compounds.
+En fait, les combinaisons d'atomes de carbone à 1, 2 et 3 dimensions sont le squelette de la plupart des composés organiques.
+
+But today we're going to throw a couple of
+newcomers into the mix,
+Mais aujourd'hui, nous allons lancer quelques
+nouveaux venus dans le mélange,
+
+two of my very favorites:
+oxygen and nitrogen.
+deux de mes favoris : l'
+oxygène et l'azote.
+
+Using these two extra elements, we're going to talk about seven exciting and different functional groups.
+En utilisant ces deux éléments supplémentaires, nous allons parler de sept groupes fonctionnels passionnants et différents.
+
+But first, what is a functional group?
+Sounds super boring.
+Mais d'abord, qu'est-ce qu'un groupe fonctionnel ?
+Cela semble super ennuyeux.
+
+Well organic chemistry is the architecture
+of chemistry.
+Eh bien, la chimie organique est l'architecture
+de la chimie.
+
+With it, we don't just study chemicals, we
+build them.
+Avec lui, nous n'étudions pas seulement les produits chimiques, nous les
+construisons.
+
+And we know that certain groups of bonded
+atoms function in very specific ways.
+Et nous savons que certains groupes d'
+atomes liés fonctionnent de manière très spécifique.
+
+Since we know how these functional groups
+function, we (and by we I mean the human race)
+Puisque nous savons comment ces groupes
+fonctionnels fonctionnent, nous (et par nous j'entends la race humaine)
+
+can add to or modify or remove and join them
+together in predictable ways.
+pouvons ajouter ou modifier ou supprimer et les
+réunir de manière prévisible.
+
+And thus, we can build the compounds we need, whether it be the simple stuff, like acetylsalicylic acid, aspirin,
+Et ainsi, nous pouvons construire les composés dont nous avons besoin, que ce soit des trucs simples, comme l'acide acétylsalicylique, l'aspirine,
+
+or something more complicated, like alpha-(5,6-dimethylbenzimidazolyl)cobamidcyanide,
+ou quelque chose de plus compliqué, comme l'alpha-(5,6-diméthylbenzimidazolyl)cobamidcyanure,
+
+better known as vitamin B12.
+Neat, right?
+mieux connu sous le nom de vitamine B12.
+Propre, non ?
+
+When we talk about functional groups, we get
+so focused on those small areas of the molecule,
+Lorsque nous parlons de groupes fonctionnels, nous nous
+concentrons tellement sur ces petites zones de la molécule
+
+that the rest of the molecule doesn't actually
+matter that much.
+que le reste de la molécule n'a pas vraiment d'
+importance.
+
+So we use "R" to represent the rest.
+Nous utilisons donc "R" pour représenter le reste.
+
+R just represents any fragment of organic molecule that we're not super concerned with at the moment.
+R représente simplement n'importe quel fragment de molécule organique qui ne nous préoccupe pas pour le moment.
+
+We also sometimes call the area of unconcern
+the "R group"
+Nous appelons aussi parfois la zone d'insouciance
+le « groupe R »
+
+as opposed to the "functional group" where
+the business is getting done.
+par opposition au « groupe fonctionnel » où
+les affaires se font.
+
+So now that I've been talking at you for like,
+three minutes,
+Alors maintenant que je vous ai parlé pendant
+environ trois minutes,
+
+let's actually look at what kind of trouble nitrogen and oxygen can get up to in an organic compound.
+regardons en fait quel genre de problème l'azote et l'oxygène peuvent créer dans un composé organique.
+
+The first and most familiar oxygen-based functional
+group is the alcohol, a terminal "-OH".
+Le premier groupe fonctionnel à base d'oxygène et le plus connu
+est l'alcool, un "-OH" terminal.
+
+Not terminal in that it will kill you, though
+ethanol can kill you,
+Pas terminal en ce sens qu'il vous tuera, bien que l'
+éthanol puisse vous tuer,
+
+and other alcohols like methanol absolutely WILL kill you, but terminal in that it ends a carbon chain.
+et d'autres alcools comme le méthanol vous tueront absolument, mais terminal en ce qu'il met fin à une chaîne carbonée.
+
+Now, what happens when you dehydrogenate an
+alcohol?
+Maintenant, que se passe-t-il lorsque vous déshydrogénez un
+alcool ?
+
+Not when an alcohol dehydrates you -- that would be a hangover -- but we dehydrogenate it.
+Pas quand un alcool vous déshydrate - ce serait une gueule de bois - mais nous le déshydrogénons.
+
+In a chemical reaction, removing the hydrogen from the oxygen and creating a double bond to the carbon.
+Dans une réaction chimique, élimination de l'hydrogène de l'oxygène et création d'une double liaison avec le carbone.
+
+That dehydrogenated alcohol is an aldehyde,
+literally from "alcohol dehydrogenated."
+Cet alcool déshydrogéné est un aldéhyde,
+littéralement "alcool déshydrogéné".
+
+Alcohols and aldehydes have a lot of similar properties because of the electronegativity of the oxygen.
+Les alcools et les aldéhydes ont de nombreuses propriétés similaires en raison de l'électronégativité de l'oxygène.
+
+Hydrocarbons on their own are actually pretty
+dang boring.
+Les hydrocarbures en eux-mêmes sont en fait assez
+ennuyeux.
+
+Checking out our electronegativity chart,
+En consultant notre tableau d'électronégativité,
+
+you can see that the difference in electronegativity
+between C and H is only 0.35,
+vous pouvez voir que la différence d'électronégativité
+entre C et H n'est que de 0,35,
+
+so there's no real regions of negative or
+positive charges in the molecules.
+il n'y a donc pas de véritables régions de charges négatives ou
+positives dans les molécules.
+
+Therefore, these simple hydrocarbons are pretty
+nonpolar
+Par conséquent, ces hydrocarbures simples sont assez
+non polaires
+
+and their electrons are distributed evenly
+over the molecule, which is why, you know,
+et leurs électrons sont répartis uniformément
+sur la molécule, c'est pourquoi, vous savez, le
+
+oil and water don't mix.
+pétrole et l'eau ne se mélangent pas.
+
+Adding those oxygens mixes stuff up.
+L'ajout de ces oxygènes mélange les choses.
+
+Electrons start clumping, the oxygen-hydrogen
+bond of an alcohol is fairly polar,
+Les électrons commencent à s'agglutiner, la liaison oxygène-hydrogène
+d'un alcool est assez polaire,
+
+with a difference in electronegativity between
+"O" and "H" of 1.22,
+avec une différence d'électronégativité entre
+"O" et "H" de 1,22, de
+
+so the oxygen gets a delta minus (δ-) and
+the hydrogen gets a delta plus (δ+).
+sorte que l'oxygène obtient un delta moins (δ-) et
+l'hydrogène obtient un delta plus  (δ+).
+
+Not only does this make alcohols and aldehydes
+more likely to be soluble in water,
+Non seulement cela rend les alcools et les aldéhydes
+plus susceptibles d'être solubles dans l'eau,
+
+but it completely changes the kind of chemistry
+you can do with them.
+mais cela change complètement le type de chimie que
+vous pouvez faire avec eux.
+
+Impending confusion alert!
+Alerte confusion imminente !
+
+There can be functional groups inside of functional
+groups.
+Il peut y avoir des groupes fonctionnels à l'intérieur de
+groupes fonctionnels.
+
+We've already seen two of them.
+Nous en avons déjà vu deux.
+
+If an OH is part of a larger functional group,
+we'll refer to it as a Hydroxyl,
+Si un OH fait partie d'un groupe fonctionnel plus
+
+and if a carbon double bonded to an oxygen it's part of a larger group, we call that a carbonyl.
+grand, nous l'appellerons un hydroxyle, et si un carbone lié à un oxygène fait partie d'un groupe plus grand, nous l'appelons un carbonyle.
+
+For example if we have a carbonyl bonded to a Hydroxyl, that, my friends, is a Carboxylic Acid.
+Par exemple, si nous avons un carbonyle lié à un hydroxyle, cela, mes amis, est un acide carboxylique.
+
+Hopefully you're getting the hang of the lingo.
+J'espère que vous maîtrisez le jargon.
+
+Just looking at this Carboxylic Acid thing, if you think about the electronegativity of those two oxygens,
+En regardant ce truc d'acide carboxylique, si vous pensez à l'électronégativité de ces deux oxygènes,
+
+you can imagine that that hydrogen there is
+gonna be pretty weakly held.
+vous pouvez imaginer que cet
+hydrogène sera assez faiblement retenu.
+
+And so it can dissociate in solution, making
+it an acid.
+Et donc il peut se dissocier en solution, ce qui en
+fait un acide.
+
+Carboxylic Acids are the acid part of amino
+acids, which make up proteins,
+Les acides carboxyliques sont la partie acide des acides
+aminés, qui composent les protéines,
+
+which make up, you, so they're pretty important.
+qui vous composent, donc ils sont assez importants.
+
+The simplest carboxylic acid, commonly known as Formic acid, is what makes fire ant bites burn,
+L'acide carboxylique le plus simple, communément appelé acide formique, est ce qui fait brûler les piqûres de fourmis de feu,
+
+and just one more carbon and you get Acetic
+acid, or vinegar,
+et juste un carbone de plus et vous obtenez de l'
+acide acétique, ou du vinaigre,
+
+which, even in a diluted solution you have in your cupboard, is not something you want to get in your eyes.
+qui, même dans une solution diluée que vous avez dans votre placard, n'est pas quelque chose que vous  veux te mettre dans les yeux.
+
+Now, Acetic acid is also interesting because
+once upon a time,
+Maintenant, l'acide acétique est également intéressant car
+il était une fois,
+
+a clever chemist called Leopold Gmelin did
+some chemistry
+un chimiste intelligent appelé Leopold Gmelin a fait de la
+chimie
+
+and knocked off the OH group and joined the
+carbonyl with another carbon.
+et a éliminé le groupe OH et a rejoint le
+carbonyle avec un autre carbone.
+
+The result was a non-terminal, or internal,
+carbonyl.
+Le résultat était un carbonyle non terminal ou interne
+.
+
+He named that stuff 'acetone', meaning basically
+'derived from Acetic acid'.
+Il a nommé cette substance « acétone », ce qui signifie essentiellement
+« dérivé de l'acide acétique ».
+
+Now, acetone is just a name of that one chemical,
+not the functional group itself.
+Maintenant, l'acétone n'est qu'un nom de ce produit chimique,
+pas le groupe fonctionnel lui-même.
+
+To get that, we knock the 'A' off and harden
+that 'C' into a 'K' and get a 'Ketone'.
+Pour obtenir cela, nous supprimons le « A » et durcissons
+ce « C » en un « K » et obtenons une « cétone ».
+
+So yeah, when we have a carbonyl in the middle of a carbon chain, that is a ketone functional group.
+Alors oui, quand nous avons un carbonyle au milieu d'une chaîne carbonée, c'est un groupe fonctionnel cétone.
+
+Acetone has a ketone group and it's called 'acetone' because it was derived from acetic acid,
+L'acétone a un groupe cétone et s'appelle « acétone » car elle est dérivée de l'acide acétique,
+
+which is vinegar, the most common carboxylic
+acid in your kitchen.
+qui est du vinaigre, l'acide carboxylique le plus courant
+dans votre cuisine.
+
+I swear, if you watch this episode twice,
+you will understand.
+Je le jure, si vous regardez cet épisode deux fois,
+vous comprendrez.
+
+Acetone, with that big hunk and double bond is nice and polar, so it's water soluble; great for cleaning stuff.
+L'acétone, avec ce gros morceau et cette double liaison, est agréable et polaire, elle est donc soluble dans l'eau ;  idéal pour nettoyer les choses.
+
+The hydrogen bonds between that oxygen and
+those outer hydrogens are enough
+Les liaisons hydrogène entre cet oxygène et
+ces hydrogènes externes sont suffisantes
+
+to keep the molecules bound together so it's
+not gaseous at room temperature.
+pour maintenir les molécules liées ensemble afin qu'elles
+ne soient pas gazeuses à température ambiante.
+
+It's also stable enough that it isn't very
+toxic.
+Il est également suffisamment stable pour ne pas être très
+toxique.
+
+In fact, there's a little bit of acetone in
+your blood right now,
+En fait, il y a un peu d'acétone dans
+votre sang en ce moment
+
+which is why it's safe enough to use as nail
+polish remover.
+, c'est pourquoi il est suffisamment sûr pour être utilisé comme dissolvant pour vernis à
+ongles.
+
+It is, however, unstable enough that you don't
+want to get it near any open flames.
+Il est cependant suffisamment instable pour que vous ne
+vouliez pas l'approcher de flammes nues.
+
+Now we only have two more oxygen-based functional
+groups that we're gonna talk about,
+Maintenant, nous n'avons plus que deux groupes fonctionnels à base d'oxygène
+dont nous allons parler.
+
+These are groups that have internal oxygens
+bonded directly to carbons.
+Ce sont des groupes qui ont des oxygènes internes
+liés directement aux carbones.
+
+When you see it now in the middle of the chain
+like this it's either an ether or an ester,
+Quand vous le voyez maintenant au milieu de la chaîne
+comme ça, c'est soit un éther soit un ester,
+
+either ester or ether, ether or ester, either
+one, one or the other, either ether or ester.
+soit ester soit éther, soit éther soit ester, soit l'
+un, l'un ou l'autre, soit éther soit ester.
+
+Ethers have just one oxygen all alone in the
+middle of that carbon chain.
+Les éthers n'ont qu'un seul oxygène au
+milieu de cette chaîne carbonée.
+
+Esters, on the other hand, I focus on that
+'S' noise, making me think it must be plural,
+Esters, d'autre part, je me concentre sur ce
+bruit en «S», ce qui me fait penser qu'il doit être au pluriel,
+
+because they have two oxygens: one in the
+middle of the chain and one as part of a carbonyl.
+car ils ont deux oxygènes: un au
+milieu de la chaîne et un faisant partie d'un carbonyle.
+
+Esters are just like a ketone mixed with an
+ether.
+Les esters sont comme une cétone mélangée à un
+éther.
+
+In fact, if you look at all these oxygen based functional groups you'll see that they're all very closely related.
+En fait, si vous regardez tous ces groupes fonctionnels à base d'oxygène, vous verrez qu'ils sont tous très étroitement liés.
+
+Aldehydes are just dehydrogenated alcohols, ketones are just aldehydes bonded to R-groups on both sides
+Les aldéhydes ne sont que des alcools déshydrogénés, les cétones ne sont que des aldéhydes liés aux groupes R des deux côtés
+
+(instead of a hydrogen on one side).
+(au lieu d'un hydrogène d'un côté).
+
+While carboxylic acids are ketones bonded
+to an OH group instead of an R group,
+Alors que les acides carboxyliques sont des cétones liées
+à un groupe OH au lieu d'un groupe R,
+
+and ethers are just alcohols bonded to an
+R-group instead of a hydrogen.
+et les éthers ne sont que des alcools liés à un
+groupe R au lieu d'un hydrogène.
+
+Now I did promise you some nitrogen at the
+beginning,
+Maintenant, je vous ai promis de l'azote au
+début,
+
+and I apologize to all of you die-hard nitrogen
+fans for having given you none so far.
+et je m'excuse auprès de tous les
+fans inconditionnels de l'azote de ne vous en avoir donné aucun jusqu'à présent.
+
+Let's just say that the amine is ever so simple,
+just a terminal NH2 group.
+Disons simplement que l'amine est toujours aussi simple,
+juste un groupe NH2 terminal.
+
+Remember, ammonia is NH3, so that "am" from
+ammonia gets stuck onto that amine group.
+N'oubliez pas que l'ammoniac est du NH3, de sorte que le "am" de l'
+ammoniac reste collé sur ce groupe amine.
+
+Amines are super stinky: two of my favorites
+are putrescine and cadaverine.
+Les amines sont super puantes : deux de mes préférées
+sont la putrescine et la cadavérine.
+
+And yes, they are found in abundance in rotting carcasses of animals and yes, they smell super terrible.
+Et oui, on les trouve en abondance dans les carcasses d'animaux en décomposition et oui, elles sentent super mauvais.
+
+And those are the seven functional groups
+that we're going to talk about.
+Et ce sont les sept groupes fonctionnels
+dont nous allons parler.
+
+It was super fun, for me anyway, but I am,
+I admit, kind of a huge dork.
+C'était super amusant, pour moi en tout cas, mais je suis,
+je l'avoue, une sorte de gros abruti.
+
+Organic compounds that include these functional
+groups have various wonderful names:
+Les composés organiques qui incluent ces
+groupes fonctionnels ont divers noms merveilleux :
+
+wood alcohol, cinnamaldehyde, and cadaverine.
+alcool de bois, cinnamaldéhyde et cadavérine.
+
+It's lovely, right? Well chemists want more out of their names than wit and charm. They're too clever for that.
+C'est charmant, non ?  Eh bien, les chimistes veulent plus de leurs noms que de l'esprit et du charme.  Ils sont trop intelligents pour ça.
+
+Which is why, next week we'll be talking about
+how to figure out how to name these compounds,
+C'est pourquoi, la semaine prochaine, nous parlerons de la
+façon de déterminer comment nommer ces composés,
+
+and if we have the name, how to figure out
+what the compounds are.
+et si nous avons le nom, comment déterminer
+quels sont les composés.
+
+Thanks for watching this week's episode of
+Crash Course Chemistry.
+Merci d'avoir regardé l'épisode de cette semaine de
+Crash Course Chemistry.
+
+If you were paying attention, you learned that alcohols are organic compounds with hydroxyl groups,
+Si vous faisiez attention, vous avez appris que les alcools sont des composés organiques avec des groupes hydroxyle,
+
+if you dehydrogenate them, the hydroxyl converts
+to a carbonyl
+si vous les déshydrogénez, l'hydroxyle se transforme
+en carbonyle
+
+and they become dehydrogenated alcohols or
+aldehydes.
+et ils deviennent des alcools ou des
+aldéhydes déshydrogénés.
+
+If a carbonyl bonds to a hydroxyl, the functional group becomes acidic and it becomes a carboxylic acid,
+Si un carbonyle se lie à un hydroxyle, le groupe fonctionnel devient acide et il devient un acide carboxylique, dont
+
+the most common of which is acetic acid, which if you switch the hydroxyl out for a methyl group,
+le plus courant est l'acide acétique, qui si vous remplacez l'hydroxyle par un groupe méthyle,
+
+becomes acetone and if that 'C' were a 'K' noise, it'd be a ketone, which is what acetone is.
+devient de l'acétone et si ce 'C' était  un bruit "K", ce serait une cétone, ce qu'est l'acétone.
+
+Finally, a carbon chain with an internal oxygen
+is either an ether or an ester,
+Enfin, une chaîne carbonée avec un oxygène interne
+est soit un éther, soit un ester,
+
+and it's only an ester if it's bonded to a
+carbonyl.
+et ce n'est un ester que s'il est lié à un
+carbonyle.
+
+And of course, anything with an NH2 group
+is an amine.
+Et bien sûr, tout ce qui a un groupe NH2
+est une amine.
+
+This episode of Crash Course Chemistry is written by me, Hank Green, edited by Blake de Pastino.
+Cet épisode de Crash Course Chemistry est écrit par moi, Hank Green, édité par Blake de Pastino.
+
+Our Chemistry Consultant is Dr. Heiko Langner.
+Notre consultant en chimie est le Dr Heiko Langner.
+
+It was filmed, edited, and directed by Nicholas
+Jenkins.
+Il a été filmé, monté et réalisé par Nicholas
+Jenkins.
+
+Our script supervisor was Michael Aranda,
+who is also our sound designer.
+Notre scénariste était Michael Aranda,
+qui est aussi notre sound designer.
+
+And our graphics team is Thought Cafe.
+Et notre équipe graphique est Thought Cafe.
+
