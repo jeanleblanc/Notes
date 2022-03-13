@@ -1,0 +1,9 @@
+\babel@toc {french}{}\relax 
+\contentsline {section}{\numberline {0.1}Introduction}{3}{section.0.1}%
+\contentsline {chapter}{\numberline {1}Carbonne}{4}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Le carbone : un atome polygame ?}{4}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Les couches electroniques}{4}{section.1.2}%
+\contentsline {section}{\numberline {1.3}La regle de l'octet}{5}{section.1.3}%
+\contentsline {section}{\numberline {1.4}Liaisons covalentes polaires et non polaires}{5}{section.1.4}%
+\contentsline {section}{\numberline {1.5}Liaisons ioniques}{6}{section.1.5}%
+\contentsline {section}{\numberline {1.6}Liaison hydrogene}{6}{section.1.6}%

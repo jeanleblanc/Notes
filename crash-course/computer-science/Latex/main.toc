@@ -1,0 +1,11 @@
+\babel@toc {french}{}\relax 
+\contentsline {chapter}{\numberline {1}Notes}{5}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Etude de fonctions}{5}{section.1.1}%
+\contentsline {subsection}{\numberline {1.1.1}Domaine et deriv\IeC {\'e}e}{5}{subsection.1.1.1}%
+\contentsline {section}{\numberline {1.2}Les nombres imaginaires}{5}{section.1.2}%
+\contentsline {subsection}{\numberline {1.2.1}"I"}{5}{subsection.1.2.1}%
+\contentsline {section}{\numberline {1.3}Les nombres imaginaires}{5}{section.1.3}%
+\contentsline {subsection}{\numberline {1.3.1}"I"}{5}{subsection.1.3.1}%
+\contentsline {chapter}{\numberline {2}Notes}{6}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Etude de fonctions}{6}{section.2.1}%
+\contentsline {subsection}{\numberline {2.1.1}Domaine et deriv\IeC {\'e}e}{6}{subsection.2.1.1}%

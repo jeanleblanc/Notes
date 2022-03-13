@@ -1,1 +1,6 @@
+# Introduction
 
+*A noter qu’il est mieux d’avoir vu la section biologie avant*
+*Les informations ci-présentes sont tirées du cours de Hank Green.*
+
+La chimie ; quelque chose de plus grand que la biologie car plus petit, de plus beau parce qu'elle est invisible et de plus puissant parce que c'est absolument tout. Pas seulement les règles et les lois, les liaisons et les coefficients. Mais les hommes et les femmes  qui modèlent cette science ont approfondi notre compréhension du monde d'une manière si remarquable.  Le misanthrope sibérien a révolutionné notre compréhension de la matière. Le criminel de guerre allemand qui sauva un milliard de vies. L'aristocrate français qui créa la science de la chimie et tout ce qu'il obtint pour le mal qu'il s'était donné fut la décapitation. Et bien sûr, toutes ces histoires existent au sein de la plus grande science de tous les temps. De quoi est faite la matière ? Comment et quand les atomes se réunissent et se séparent ? Qu'est-ce qu'un électron ? Pourquoi le symbole chimique de l'argent est-il Ago ? Comment pouvons-nous réparer le réchauffement de la planète et vivre éternellement ? Les réponses à toutes ces questions (sauf pour les deux dernières) seront contenues traité ci-après. Mais ces deux dernières, si et quand elles seront résolues, je peux vous garantir qu'elles le seront avec l'aide de la chimie.

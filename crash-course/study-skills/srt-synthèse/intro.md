@@ -1,4 +1,6 @@
-Les informations ci-présentes seront tirées de cours donné par Thomas Frank (fondateur du College Info Geek.com) sur la chaine crash course.
+# Introduction
+
+Les informations ci-présentes seront tirées de cours donné par Thomas Frank (fondateur du College Info Geek.com).
 
 Ici, nous allons apprendre à apprendre. C'est une faculté importante à acquérir et à parfaire ; vu que notre économie est de plus en plus dominée par de l'information. Ceux qui retiennent ces informations, apprennent rapidement des nouvelles techniques, et sauront allier leurs connaissances de manière nouvelle et innovatrice, seront ceux qui réussiront. De plus, lorsque vous révisez avec efficacité pour un examen, il vous restera plus de temps pour une autre activité.
 Je m'appelle Thomas Frank et je suis le .

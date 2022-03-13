@@ -1,0 +1,5 @@
+\babel@toc {french}{}\relax 
+\contentsline {chapter}{\numberline {1}Prendre des notes}{5}{chapter.1}%
+\contentsline {subsection}{\numberline {1.0.1}Pourquoi se concentrer sur vos notes ?}{5}{subsection.1.0.1}%
+\contentsline {subsection}{\numberline {1.0.2}Outils de prise de note}{5}{subsection.1.0.2}%
+\contentsline {subsection}{\numberline {1.0.3}Quelle information noter ?}{6}{subsection.1.0.3}%

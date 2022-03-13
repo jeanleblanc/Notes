@@ -1,1 +1,5 @@
+# INTRODUCTION
 
+Les information présentés ci-après sont tirées du cours du dr Sheila Samara (doctorat en ingénierie des gaz et des fluide)
+
+Qu’est ce que l’ingénieure ? Pour l’instant nous dirons simplement que l’histoire de l’ingénierie englobasse la création de tout, des objet physiques qui vous entour né aux processus vous permettant de regarder des vidéos sur internet (qui est vraiment large). Mais nous verrons ce que c’est réellement plus en détail un peu plus bas. Il y a en fait plusieurs domaines d’ingénieur et nous allons passer du temps avec chacun d’eux, nous expliquerons la différence entre l’histoire du génie civil, mécanique, électrique et chimique. Ces quatre disciplines ne représente toujours pas l’ensemble de l’ingénierie mais nous allons essayer d’aller au cœur de ce que tout cela signifie et nous examinerons comment les ingénieurs voient les problèmes dans le monde, puis essaierons de résoudre le fait que cet état d’esprit de résolution de problèmes a aidé les ingénieurs a tout créer des vaisseaux spatiaux aux tasses à café, des écouteurs sans fils au sifflet pour chiens, des cœur artificiels aux route et aux ponts.
